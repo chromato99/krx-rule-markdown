@@ -1,0 +1,58 @@
+{
+  "version": "0.1.0",
+  "generated_at": "2026-06-28T08:54:46.917668Z",
+  "summary": {
+    "documents": 126,
+    "attachments": 595,
+    "attachment_status": {
+      "converted": 595
+    },
+    "attachment_extensions": {
+      "(none)": 30,
+      ".hwp": 549,
+      ".pdf": 16
+    },
+    "quality_status": {
+      "ok": 592,
+      "warn": 3
+    },
+    "converted_text_chars": {
+      "count": 595,
+      "min": 34,
+      "median": 709,
+      "max": 38448
+    }
+  },
+  "issues": [
+    {
+      "severity": "warn",
+      "code": "very_short_text",
+      "document_id": "210188913",
+      "document_title": "KRX금시장 운영규정 시행세칙",
+      "attachment_id": "210188913-202406250000022380000232011-byl-hwp",
+      "attachment_title": "[별지 제6호 서식] 윤리 서약서 <삭제 2020.11.30>",
+      "file_name": "KRX금시장 운영규정 시행세칙_29차_윤리서약서(삭제2020.11.30).hwp",
+      "message": "converted text is very short (28 non-space chars)"
+    },
+    {
+      "severity": "warn",
+      "code": "very_short_text",
+      "document_id": "210188913",
+      "document_title": "KRX금시장 운영규정 시행세칙",
+      "attachment_id": "210188913-202406250000022380000232012-byl-hwp",
+      "attachment_title": "[별지 제7호 서식] 회피신청서 <삭제 2020.11.30>",
+      "file_name": "KRX금시장 운영규정 시행세칙_29차_회피신청서(삭제2020.11.30).hwp",
+      "message": "converted text is very short (28 non-space chars)"
+    },
+    {
+      "severity": "warn",
+      "code": "very_short_text",
+      "document_id": "210221766",
+      "document_title": "코스닥시장 업무규정 시행세칙 개정 예고",
+      "attachment_id": "210221766-210221768-pdf",
+      "attachment_title": "(붙임2) 코스닥시장 업무규정 시행세칙 일부개정세칙안.pdf",
+      "file_name": "(붙임2) 코스닥시장 업무규정 시행세칙 일부개정세칙안.pdf",
+      "message": "converted text is very short (20 non-space chars)"
+    }
+  ]
+}

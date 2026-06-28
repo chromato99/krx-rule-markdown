@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "krx-rule-markdown"
+version = "0.1.0"
+description = "KRX rule collection, attachment conversion, and Markdown corpus tools."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+convert = [
+  "pdfminer.six>=20250506",
+  "pyhwp>=0.1b15",
+  "six>=1.16",
+]
+dev = []
+
+[project.scripts]
+krx-rule-markdown = "krx_rule_markdown.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["krx_rule_markdown*"]

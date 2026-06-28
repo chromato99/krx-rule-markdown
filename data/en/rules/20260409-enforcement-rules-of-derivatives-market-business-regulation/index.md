@@ -1,0 +1,22753 @@
+---
+id: "210217137-en"
+title: "20260409_Enforcement_Rules_of_Derivatives_Market_Business_Regulation"
+source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
+collected_at: "2026-06-28T05:55:39.943794Z"
+content_hash: "aa5a39b6495006bf08be0bb4396803dfd90a75aea4ecd2566188898d8c91ba68"
+document_type: "rule"
+language: "en"
+category: "업무규정 / 파생상품시장규정"
+effective_date: "2026-06-29"
+published_date: "2026-04-09"
+source_id: "210217137"
+file_name: "20260409_Enforcement_Rules_of_Derivatives_Market_Business_Regulation.pdf"
+raw_path: "en/rules/20260409-enforcement-rules-of-derivatives-market-business-regulation/raw/english-full-text.pdf"
+text_path: "en/rules/20260409-enforcement-rules-of-derivatives-market-business-regulation/attachments/english-full-text.md"
+file_content_hash: "4bdd06555139c541ebcd7c37040ffa3b78faea1fbe34b6a329f44db951731b5f"
+---
+
+Enforcement Rules of   
+Derivatives Market Business Regulation 
+
+Formulated on January 24, 2005 
+
+Wholly amended on May 3, 2007 
+
+Wholly amended on January 20, 2009 
+
+Amended on: 
+March 18, 2009; April 6, 2009; August 21, 2009; October 26, 2009; December 4, 2009; December 30, 2009 April 
+19, 2010; June 18, 2010; June 23, 2010; July 30, 2010; August 13, 2010; August 25, 2010; September 6, 2010; 
+September 13, 2010; October 1, 2010; October 20, 2010; November 12, 2010; December 10, 2010 
+January 27, 2011; January 31, 2011; March 23, 2011; April 21, 2011; May 18, 2011; June 3, 2011;   
+
+June 22, 2011; July 26, 2011; September 23, 2011; October 10, 2011; October 20, 2011; November 17, 2011; 
+December 20, 2011; December 28, 2011 
+February 17, 2012; May 9, 2012; July 3, 2012; September 26, 2012; December 18, 2012 
+March 19, 2013; May 9, 2013; June 24, 2013; July 8, 2013; August 27, 2013; September 17, 2013; 
+December 30, 2013 
+February 28, 2014; April 18, 2014; May 2, 2014; July 28, 2014; August 20, 2014; August 28, 2014; 
+November 3, 2014; November 13, 2014; December 4, 2014; December 24, 2014 
+February 13, 2015; March 12, 2015; March 30, 2015; May 19, 2015; May 26, 2015; July 3, 2015; August 13, 
+2015; September 16, 2015; October 28, 2015; November 26, 2015; December 16, 2015; December 31, 2015 
+January 14, 2016; March 8, 2016; March 21, 2016; April 14, 2016(Regulation No. 1308);   
+April 14, 2016(Regulation No. 1310); May 13, 2016; June 20, 2016; July 12, 2016; August 31, 2016;   
+September 6, 2016; November 21, 2016 
+March 13, 2017; May 19, 2017; June 15, 2017; September 19, 2017; September 20, 2017; November 10, 2017 
+February 28, 2018; March 15, 2018; March 23, 2018; June 12, 2018; August 17, 2018; September 7, 2018; 
+December 5, 2018; December 7, 2018 
+January 25, 2019; April 4, 2019; July 1, 2019; July 22, 2019; July 30, 2019; September 5, 2019;   
+September 20, 2019; October 14, 2019; October 30, 2019; November 27, 2019; December 26, 2019 
+March 16, 2020; March 17, 2020; April 12, 2020; May 6, 2020; May 18,2020, June 15, 2020; July 30, 2020; 
+September 3, 2020; December 2, 2020; December 10, 2020 
+
+March 8, 2021; March 9, 2021; May 18, 2021; June 7, 2021; July 13, 2021; November 25, 2021 
+
+February 16, 2022; March 14, 2022; March 24, 2022; December 21, 2022 
+May 24, 2023; June 29, 2023; July 18, 2023; September 22, 2023; November 24, 2023 
+March 19, 2025; February 5, 2024; April 5, 2024; June 25, 2024; November 1, 2024 
+March 24, 2025; April 18, 2025; May 29, 2025; August 18, 2025; October 1, 2025 
+February 9, 2026; April 6, 2026; April 9, 2026 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This  English  version  does  not  warrant  or  assume  any  liability  or  responsibility  for  the  accuracy, 
+completeness  or  usefulness  of  any  information  contained  herein.  Only  the  Korean  version  shall  be 
+deemed authentic. 
+
+ii 
+
+ 
+TABLE OF CONTENTS 
+
+PARTI. GENERAL PROVISIONS...................................................................................................... 1 
+§1. Purpose ............................................................................................................................................ 1 
+§2. Definitions ....................................................................................................................................... 1 
+§2-2. Calculations of Trading Days ....................................................................................................... 1 
+§3. Price of Immediately Executable Limit Quotation .......................................................................... 2 
+§3-2. Breakdown of Markets ................................................................................................................. 2 
+§3-3. Trading Hours .............................................................................................................................. 2 
+§4. Change of Trading Hours due to System Failures ........................................................................... 3 
+§4-2. Markets Eligible for Night Trading .............................................................................................. 4 
+§4-3. Guidelines for Connecting to Member Systems, etc. ................................................................... 4 
+PART II. LISTED PRODUCTS ........................................................................................................... 4 
+CHAPTER1. GENERAL PROVISIONS ............................................................................................ 4 
+§4-4. Listing of New Derivative Products ............................................................................................. 5 
+§4-5. Quotation Quantity Unit and Trading Quantity Unit ................................................................... 5 
+CHAPTER2. TRADING OF EQUITY DERIVATIVES ................................................................... 5 
+Section1. Trading of Stock Index Futures ........................................................................................... 5 
+§4-6. Underlying Assets ........................................................................................................................ 5 
+§4-7. Delivery Months, Etc. .................................................................................................................. 6 
+§4-8. Multipliers .................................................................................................................................... 7 
+§4-9. Quotation Price Units ................................................................................................................... 7 
+§5. Last Trading Day, Final Settlement Day and Final Settlement Price .............................................. 8 
+Section 2. Trading of Stock Price Index Options ................................................................................ 8 
+§5-2. Underlying Assets ........................................................................................................................ 8 
+§5-3. Expiration Months, etc. ................................................................................................................ 9 
+§5-4. Delivery Weeks, etc...................................................................................................................... 9 
+§6. Establishment of Exercise Prices ................................................................................................... 11 
+§6-2. Multipliers and Quotation Price Units ....................................................................................... 13 
+§7. Last Trading Day, Option Exercise Settlement Day and Base Price of Option Exercise Settlement, 
+etc. ....................................................................................................................................................... 14 
+Section 3. Trading of Volatility Index Futures .................................................................................. 15 
+§7-2. Underlying Assets ...................................................................................................................... 15 
+§7-3. Delivery Months, etc. ................................................................................................................. 15 
+§7-4. Multipliers and Quotation Price Units ....................................................................................... 15 
+§7-5. Last Trading Day, Last Settlement Day and Final Settlement Price .......................................... 15 
+Section 4. Trading of Single Stock Futures ........................................................................................ 16 
+§8. Selection of Underlying Stocks ..................................................................................................... 16 
+§8-2. Exclusion of Underlying Stocks................................................................................................. 17 
+§8-3. [Deleted on June 29, 2023] ........................................................................................................ 17 
+§8-4. Delivery Months, etc. ................................................................................................................. 17 
+§8-5. Multipliers .................................................................................................................................. 18 
+§9. Adjustment of Multipliers ............................................................................................................. 18 
+§10. Adjustment of Quantity of Open Interests ................................................................................... 19 
+§10-2. Quotation Price Unit ................................................................................................................ 19 
+§11. Last Trading Day, Final Settlement Day and Final Settlement Price .......................................... 19 
+§12. [Deleted on August 28, 2014] ...................................................................................................... 21 
+Section 5. Trading of Single Stock Options ....................................................................................... 21 
+§13. Selection Criteria for Underlying Stocks .................................................................................... 21 
+§13-2. Expiration Months, etc. ............................................................................................................ 21 
+§14. Establishment of Exercise Prices ................................................................................................. 22 
+
+iii 
+
+ 
+ 
+ 
+§15. Adjustment of Exercise Price ...................................................................................................... 23 
+§15-2. Multipliers ................................................................................................................................ 24 
+§16. Adjustment of Multipliers............................................................................................................ 24 
+§17. Adjustment of Quantity of Open Interests ................................................................................... 24 
+§18. Special Setting of Exercise Price ................................................................................................. 24 
+§18-2. Quotation Price Units ............................................................................................................... 24 
+§19. Last Trading Day, Exercise Settlement Day and Base Price for Exercise Settlement, etc. ......... 25 
+§20. [Deleted on November 3, 2014] .................................................................................................. 25 
+Section 6. Trading of ETF Futures ..................................................................................................... 25 
+§20-2. Underlying Assets .................................................................................................................... 25 
+§20-3. Delivery Months, etc. ............................................................................................................... 26 
+§20-4. Multipliers and Quotation Price Units ..................................................................................... 26 
+§20-5. Last Trading Day, Final Settlement Day and Final Settlement Price ....................................... 27 
+CHAPTER 3. TRADING OF INTEREST RATE FUTURES ......................................................... 27 
+Section 1. KTB Futures ....................................................................................................................... 27 
+§20-6. Underlying Assets and Trading Units ...................................................................................... 27 
+§20-7. Delivery Months, etc. ............................................................................................................... 28 
+§20-8. Multipliers, Quotation Price Units and Methods of Quoting Prices ........................................ 28 
+§20-9. Last Trading Day, Final Settlement Day, Final Settlement Price, etc. ..................................... 29 
+§21. ~ §25. [Deleted on October 20, 2010] ......................................................................................... 30 
+Section 2. Short-term Interest Rate Futures...................................................................................... 30 
+§25-2. Underlying Assets and Trading Units ...................................................................................... 30 
+§25-3. Delivery Months, etc. ............................................................................................................... 30 
+§25-4. Multipliers, Quotation Price Units and Methods of Quoting Prices ........................................ 31 
+§25-5. Last Trading Day, Final Settlement Day and Final Settlement Price, etc. ............................... 31 
+CHAPTER 4. TRADING OF CURRENCY DERIVATIVES ......................................................... 32 
+Section 1. Currency Futures ............................................................................................................... 32 
+§25-6. Underlying Assets and Trading Units ...................................................................................... 32 
+§25-7. Delivery Months, etc. ............................................................................................................... 32 
+§25-8. Multipliers, Quotation Price Units and Methods of Quoting Prices ........................................ 33 
+§25-9. Last Trading Day, Final Settlement Day and Final Settlement Price, etc. ............................... 33 
+§26. [Deleted on August 21, 2009] ...................................................................................................... 34 
+§27. Notification of Details of Delivery and Receipt .......................................................................... 34 
+§28. Delivery and Receipt of Currency and Settlement Amount ........................................................ 34 
+Section 2. Currency Options ............................................................................................................... 34 
+§28-2. Underlying Assets and Trading Units ...................................................................................... 34 
+§28-3. Expiration Months, etc. ............................................................................................................ 35 
+§29. Establishment of Exercise Prices of Currency Options ............................................................... 35 
+§29-2. [Deleted on August 28, 2014] .................................................................................................. 35 
+§29-3. [Deleted on August 28, 2014] .................................................................................................. 36 
+§29-4. Multipliers, Quotation Price Units and Methods of Quoting Prices ........................................ 36 
+§29-5. Last Trading Day, Exercise Settlement Day, Exercise Settlement Price, etc. .......................... 36 
+CHAPTER 5. TRADING OF COMMODITY FUTURES .............................................................. 37 
+§29-6. Trading Units and Delivery Months, etc. ................................................................................. 37 
+§29-7. Multipliers, Quotation Price Units and Methods of Quoting Prices ........................................ 38 
+§30. Last Trading Day ......................................................................................................................... 38 
+§31. [Deleted on August 28, 2014] ...................................................................................................... 39 
+§32. [Deleted on August 28, 2014] ...................................................................................................... 39 
+§32-2. Final Settlement Day and Final Settlement Price, etc. ............................................................. 39 
+§33. ~ §45. [Deleted on October 28, 2015] ......................................................................................... 40 
+CHAPTER 6. TRADING OF FUTURES SPREADS ....................................................................... 40 
+§46. Contracts of Intra-product Spreads .............................................................................................. 40 
+
+iv 
+
+ 
+§46-2. Quotation Price Units and Methods of Quoting Prices ............................................................ 41 
+§47. Deemed Execution Price following Execution of Intra-product Spread Trades .......................... 41 
+§47-2. Contracts of Inter-product Spreads .......................................................................................... 42 
+§47-3. Classification Methods, etc. of Buying and Selling in Inter-product Spreads ......................... 42 
+§47-4. Quotation Price Units, etc. of Inter-product Spread Trades ..................................................... 43 
+§47-5. Deemed Execution Prices, etc. following Execution of Inter-product Spread Trades ............. 43 
+CHAPTER 7. TRADING OF FLEX FUTURES .............................................................................. 43 
+§47-6. Underlying Assets, Trading Units and Multipliers, etc. ........................................................... 43 
+§47-7. Last Trading Day, Final Settlement Day and Final Settlement Price, etc. ............................... 43 
+PART III. TRADE EXECUTION ...................................................................................................... 45 
+CHAPTER 1. QUOTATIONS ............................................................................................................ 45 
+Section 1. Input and Receipt of Quotations ....................................................................................... 45 
+§48. Quotation Details to be Inputted.................................................................................................. 45 
+§49. Definition of Arbitrage and Hedge .............................................................................................. 48 
+§49-2. Verification of Suitability of Quotations, etc. .......................................................................... 49 
+§50. Restriction on Quotation Input .................................................................................................... 50 
+§51. Quotation Receiving Hours ......................................................................................................... 52 
+§52. Conversion, Receipt and Recording of Limit-to-Market-on-Close Quotations .......................... 53 
+§53. Validity of Quotations.................................................................................................................. 53 
+§53-2. Validity of Quotations .............................................................................................................. 53 
+§54. Correction of Quotations ............................................................................................................. 54 
+§54-2. Mass Order Cancellation .......................................................................................................... 55 
+Section 2. Base Price and Quantity Limit of Quotations .................................................................. 55 
+§55. Base Price of Futures ................................................................................................................... 56 
+§56. Price Limits in Futures Trading ................................................................................................... 57 
+§56-2. Price Limits by Phase of Single Stock Futures Trades ............................................................. 57 
+§57. Base Price in Options Trading ..................................................................................................... 59 
+§58. [Deleted on October 1, 2010] ...................................................................................................... 60 
+§59. Price Limits in Options Trading .................................................................................................. 60 
+§59-2. Price Limit by Phase of Options of Equity Derivative Products .............................................. 61 
+§59-3. Establishment of Lowest Upper Limit Prices of Options of Equity Derivative Products ........ 62 
+§60. Price Limits for Intra-product Spread Trading ............................................................................ 62 
+§60-2. Price Limits for Inter-product Spread Trading ......................................................................... 63 
+§60-3. Trades and Contracts subject to Real-time Price Limits .......................................................... 63 
+§60-4. Real-time Price Limit Price Fluctuations ................................................................................. 64 
+§60-5. Release from Application of Real-time Price Limits ............................................................... 65 
+§61. Quotation Quantity Limits and Accumulated Quotation Quantity Limits................................... 65 
+CHAPTER 2. TRADE EXECUTION ................................................................................................ 66 
+Section 1. Methods of Trade Execution ............................................................................................. 66 
+§62. Priority of Quotations at Upper/Lower Limit Prices for Periodic Call Auction .......................... 66 
+§63. Exceptions to Transactions by Call Auction ................................................................................ 67 
+§64. Range of Quotations for Call Auction ......................................................................................... 67 
+§65. Deemed Price of Market Quotations at Periodic Call Auction .................................................... 69 
+§66. Exceptions to Periodic Call Auction ............................................................................................ 69 
+§67. Deemed Price of Market Quotations during Continuous Auction ............................................... 70 
+§67-2. Change of Market Quotations and Record, etc. ....................................................................... 70 
+Section 2. Special Cases of Methods of Trade Execution ................................................................. 71 
+§67-3. Restrictions of Negotiated Trades ............................................................................................ 71 
+§67-4. Trades eligible for Negotiated Block Trading .......................................................................... 71 
+§68. Hours for requesting Negotiated Block Trading.......................................................................... 72 
+§69. Price of Negotiated Block Trade ................................................................................................. 72 
+§70. Requesting Quantity of Negotiated Block Trading ..................................................................... 72 
+
+v 
+
+ 
+§71. Requesting Details and Methods for Negotiated Block Trading ................................................. 72 
+§72. [Deleted on August 21, 2009] ...................................................................................................... 73 
+§72-2.  Target,  Price  Range,  and  Requesting  Hours  and  Quantity  for  Exchange  of  Futures  for 
+Physicals .............................................................................................................................................. 73 
+§72-3. Details and Methods of Requesting Exchange of Futures for Physicals .................................. 74 
+§72-4. Delivery and Receipt of US Dollar and Amount...................................................................... 74 
+§72-5. Requesting Hours of Negotiated FLEX Trades........................................................................ 75 
+§72-6. Price Range of FLEX Trades ................................................................................................... 75 
+§72-7. Requesting Quantity of Negotiated FLEX Trades ................................................................... 76 
+§72-8. Details to be specified and Method of Requesting Negotiated FLEX Trades .......................... 76 
+§72-9. [Deleted on May 29, 2025] ...................................................................................................... 76 
+§72-10. [Deleted on May 29, 2025] .................................................................................................... 76 
+§72-11. [Deleted on May 29, 2025] .................................................................................................... 76 
+§72-12. [Deleted on May 29, 2025] .................................................................................................... 76 
+§72-13. [Deleted on May 29, 2025] .................................................................................................... 76 
+Section 3. Trade Suspension ................................................................................................................ 76 
+§73. Criteria for Discretionary Trade Suspension ............................................................................... 76 
+§74. Discretionary Suspension of Trades of Single Stock Futures and Single Stock Options ............ 77 
+§74-2. Discretionary Suspension of ETF Futures Trades .................................................................... 78 
+§75.Compulsory Suspension of Trading of Stock Index Futures, etc. ................................................ 78 
+§75-2. Products Not Eligible for Night Trading under Compulsory Suspension of Trading .............. 78 
+Section 4. Notification of Trading Details, Publication of Market Price, etc. ................................. 78 
+§76. Trading Details to be Notified ..................................................................................................... 79 
+§77. Methods of Correcting Transaction Errors .................................................................................. 79 
+§78.  Settlement  of  Gains/Losses  Arising  from  Correction  of  Transaction  Errors  Made  by  the 
+Exchange ............................................................................................................................................. 81 
+§78-2. Requirements for Resolving Large-sized Transaction Errors by Investors .............................. 81 
+§78-3. Request for Resolution of Large-sized Transaction Errors by Investors .................................. 82 
+§78-4. Methods of resolving Large-sized Transaction Errors by Investor .......................................... 82 
+§78-5. Publication of Trade Cancellation ............................................................................................ 84 
+§79. Publication of Market Prices, etc. and Methods Thereof ............................................................ 84 
+CHAPTER 3. [Deleted on May 29, 2025] ........................................................................................... 85 
+§79-2. [Deleted on May 29, 2025] ...................................................................................................... 85 
+§79-3. [Deleted on May 29, 2025] ...................................................................................................... 85 
+§79-4. [Deleted on May 29, 2025] ...................................................................................................... 85 
+§79-5. [Deleted on May 29, 2025] ...................................................................................................... 85 
+§79-6. [Deleted on May 29, 2025] ...................................................................................................... 85 
+§79-7. [Deleted on May 29, 2025] ...................................................................................................... 85 
+§79-8. [Deleted on May 29, 2025] ...................................................................................................... 86 
+§79-10. [Deleted on May 29, 2025] .................................................................................................... 86 
+CHAPTER 4. MARKET MAKERS ................................................................................................... 86 
+§80. Qualifications of Market Maker .................................................................................................. 86 
+§81. Products, Contracts and Periods for Market Making .................................................................. 87 
+§82. Entering into or Terminating Written Agreements for Market Making ....................................... 87 
+§83. Methods of Submitting Market Making Quotations.................................................................... 88 
+§84. [Deleted on August 28, 2014] ...................................................................................................... 89 
+§85. [Deleted on August 28, 2014] ...................................................................................................... 89 
+§86. [Deleted on August 28, 2014] ...................................................................................................... 89 
+§87. [Deleted on August 28, 2014] ...................................................................................................... 89 
+§88. [Deleted on December 18, 2012] ................................................................................................. 89 
+§89.Assessment of Market Makers ..................................................................................................... 89 
+§90. Compensation for Market Makers ............................................................................................... 90 
+§90-2. Compensation for Non-Market Makers ................................................................................... 90 
+
+vi 
+
+ 
+§90-3. Underlying Asset Conversion Rates of Market Makers, etc. ................................................... 91 
+PART  IV.  MEMBER  MARGIN  AND  SETTLEMENT  BETWEEN  EX CHANGE  AND 
+MEMBER ............................................................................................................................................. 92 
+CHAPTER 1. MEMBER MARGIN ................................................................................................... 92 
+§91. Deposit Limits of Substitute Securities, Foreign Currencies and Foreign Securities .................. 92 
+§92. Types and Valuation, etc. of Foreign Currencies ......................................................................... 93 
+§92-2. Types and Evaluation of Foreign Securities, etc. ..................................................................... 94 
+§93. Calculation of Member Margins per Account and Reporting of Accounts, etc. .......................... 95 
+§94. Net Exposure Member Margins .................................................................................................. 96 
+§94-2. Member Margin for Credit Risk............................................................................................... 97 
+§94-3. Verification, etc. of Calculation Methods of Margins .............................................................. 98 
+§94-4. Assessment  of  Eligibility  of  Substitute  Securities  and  Invalidation  of  Ineligible  Substitute 
+Securities, etc....................................................................................................................................... 98 
+§94-5. Deposit Limits per Issue of Substitute Securities and Deduction Methods, etc. ...................... 99 
+§95. ~ §101. [Deleted on October 26, 2009] ..................................................................................... 100 
+§102. Deposit and Withdrawal of Member Margins ......................................................................... 100 
+§102-2. Operation of Member Margins ............................................................................................. 101 
+§102-3. Calculation and Imposition, etc. of Additional Intraday Member Margin ........................... 101 
+§102-4. Depositing of Additional Intraday Member Margins, etc. ................................................... 103 
+§102-5. Release from Imposition of Additional Intraday Member Margin ....................................... 103 
+CHAPTER  2.  CLEARING  AND  SETTLEMENT  BETWEEN  THE  EXCHANGE  AND 
+MEMBERS ......................................................................................................................................... 104 
+Section 1. Settlement Price of Futures ............................................................................................. 104 
+§103. Settlement Price of Futures ..................................................................................................... 104 
+§104. Exceptions in Calculation of Settlement Difference for Previous Day’s Open Interests ........ 106 
+Section 2. Option Exercise ................................................................................................................. 107 
+§105. Deemed Value for Reporting Option Exercise ........................................................................ 107 
+§106. Methods of Reporting Option Exercise and Reporting Deadline ............................................ 107 
+§107. Allotment Methods of Option Exercises ................................................................................. 107 
+§108. Notification Methods of Allotment of Option Exercises ......................................................... 108 
+Section 3. Methods of Delivering/Receiving Settlement Amounts, etc. ......................................... 108 
+§109. Deadline for Physical Delivery ............................................................................................... 108 
+§110. Methods of Calculating Net Settlement Cash, etc. .................................................................. 108 
+§111. Designation of Settlement Bank and Termination of Designation Thereof ............................. 108 
+§111-2. Notification of Settlement Capability, etc. by Clearing Members ....................................... 109 
+§111-3. Risk Management Training .................................................................................................. 110 
+§112. Amount Equivalent to Value of Underlying Asset ................................................................... 110 
+§112-2. Types of Financial Resources for Settlement, etc................................................................. 110 
+§112-3. Receiver of Settlement Instruction for Net Settlement Underlying Assets .......................... 111 
+§112-4. Calculation Methods, etc. of Losses caused by Settlement Delay ....................................... 111 
+§112-5. Settlement Support by Exchange Staff ................................................................................. 112 
+§112-6. Closing out of Open Interests of Trade-suspended Members .............................................. 112 
+§113. Transfer of Open Interests of Trade-suspended Members ....................................................... 113 
+PART V. ENTRUSTMENT OF TRADES ...................................................................................... 114 
+CHAPTER 1. CONDITIONS OF ENTRUSTMENT ..................................................................... 114 
+Section 1. Opening of Derivatives Accounts and Issuance of Terms and Conditions, etc. .......... 114 
+§114. Derivatives Account Number, etc. ........................................................................................... 114 
+§114-2. Foreign Financial Investment Business Entities eligible to open Foreigner’s Consolidated 
+Accounts, etc. .................................................................................................................................... 114 
+§114-3.  End-investors  Classification  Codes  and  Reporting  Methods  of  Foreigner’s  Consolidated 
+Accounts ............................................................................................................................................ 115 
+§114-4. Report on Transfer of Open Interests within A Foreigner’s Consolidated Account ............. 116 
+
+vii 
+
+ 
+§114-5. Exceptions to Margins, Position Limits, High-speed Algorithmic Trades, etc. of Foreigner’s 
+Consolidated Accounts ...................................................................................................................... 116 
+§114-6. Transfer of Open Interests in Foreigner’s Consolidated Account ........................................ 117 
+§114-7. Publication of Order Entrustment Methods, etc. .................................................................. 118 
+§114-8. Matters to Be Entered in Terms and Conditions for High-speed Algorithmic Trading ........ 118 
+§115. Customer Information.............................................................................................................. 119 
+Section 2. Entrustment Method and Conditions ............................................................................. 121 
+§116. Order Details ........................................................................................................................... 121 
+§117. Order Entrustment by Written Document and Recording of Order Details............................. 122 
+§117-2. Order Entrustment over Telephone, etc. and Recording of Order Details............................ 122 
+§117-3. Order Entrustment via Electronic Communication Method ................................................. 123 
+§118. Entrustment of Negotiated Trade ............................................................................................. 123 
+§118-2. [Deleted on May 29, 2025] .................................................................................................. 124 
+§119. Refusal to Accept Entrustment, etc. ......................................................................................... 124 
+§120. Notification of Trading Details to Customers ......................................................................... 126 
+CHAPTER 2. CUSTOMER MARGIN ............................................................................................ 127 
+Section 1. General Provisions ............................................................................................................ 127 
+§121. Entrustment Prices of Market Orders, etc. .............................................................................. 127 
+§121-2. [Deleted on October 20, 2011] ............................................................................................. 127 
+§122. Amount of Basic Deposits ....................................................................................................... 127 
+§122-2. Opening, etc. of Hedge-dedicated Accounts ........................................................................ 128 
+Section 2. Substitute Securities, Foreign Currencies and Foreign Securities ............................... 129 
+§123.Types and Assessment of Foreign Currencies, etc. .................................................................. 129 
+§123 -2. Types and Appraisal of Foreign Securities, etc. .................................................................. 130 
+§124. Exceptions to Base Price of Substitute Securities ................................................................... 131 
+§125 ~ §131 [Deleted on July 8, 2013] ............................................................................................. 132 
+Section 3. Deposit of Customer Margins .......................................................................................... 132 
+Sub-Section 1. Management of Qualified Institutional Investors .................................................. 132 
+§132. Criteria for Selection of Qualified Institutional Investors and Request for Materials ............. 132 
+§132-2. Management of Risk Exposure Amount of Ex-post Customer Margin Account ................. 134 
+§132-3. Guidelines for Risk Management of Qualified Institutional Investors ................................ 134 
+Sub-Section 2. Deposit of Upfront Initial Customer Margin ......................................................... 135 
+§133. Deposit of Upfront Initial Customer Margin Rate ................................................................... 135 
+§134. Upfront Customer Margin for Net Exposure ........................................................................... 137 
+§135. [Deleted on October 26, 2009] ................................................................................................ 137 
+§136. [Deleted on October 26, 2009] ................................................................................................ 137 
+§137. Estimated Settlement Amount ................................................................................................. 137 
+§138. [Deleted on May 26, 2015] ...................................................................................................... 139 
+§139. [Deleted on October 26, 2009] ................................................................................................ 139 
+§140. [Deleted on October 26, 2009] ................................................................................................ 139 
+§141. [Deleted on October 26, 2009] ................................................................................................ 139 
+§142. [Deleted on October 26, 2009] ................................................................................................ 139 
+§143. [Deleted on October 26, 2009] ................................................................................................ 139 
+§144. Amount of Customer Margin for Gross Exposure of Product Group, etc. .............................. 139 
+§145. Upfront Cash Deposit Requirement ........................................................................................ 140 
+Sub-Section 3. Deposit of Ex-post Customer Margins .................................................................... 142 
+§146. Deposit of Ex-post Customer Margins .................................................................................... 142 
+§147. Scope of Arbitrage and Hedge eligible for Customer Margin Discount.................................. 143 
+§148. Ex-post Cash Deposit Requirement ......................................................................................... 145 
+Section 4. Payment, Appropriation and Additional Deposit of Customer Margins .................... 145 
+§149. Repayment and Appropriation of Customer Margins and Restriction Thereabout ................. 145 
+§150. Shortfall in Total Deposit ........................................................................................................ 148 
+
+viii 
+
+ 
+§151. Shortfall in Cash Deposit......................................................................................................... 149 
+§151-2. Additional Deposit of Customer Margin during Market Hours ........................................... 150 
+§151-3. Release of Additional Deposit of Intraday Customer Margin .............................................. 152 
+§151-4.  Exceptions  of  Calculation  Method  of  Margin,  etc.  in  Additional  Deposit  of  Intraday 
+Customer Margins ............................................................................................................................. 152 
+§152. Measures against Customers’ Non-fulfillment of Deposit Obligations, etc. ........................... 154 
+CHAPTER 3. SETTLEMENT BETWEEN MEMBER AND CUSTOMER ............................... 155 
+§153. [Deleted on October 20, 2010] ................................................................................................ 155 
+§154. Settlement of Currency Futures by Physical Delivery ............................................................ 155 
+§155. [Deleted on October 28, 2015] ................................................................................................ 155 
+§156. [Deleted on October 28, 2015] ................................................................................................ 155 
+§157. Deadline for Reporting Option Exercise by Customer ............................................................ 155 
+§158. Physical Delivery Deadline ..................................................................................................... 155 
+§159. Measures against Customers’ Failure to fulfill Settlement Obligations, etc. ........................... 155 
+PART VI. MARKET MANAGEMENT .......................................................................................... 156 
+§160. Criteria for Designation as Low Liquidity Products ............................................................... 156 
+§161. Criteria for Designation as Product warned for Delisting ....................................................... 157 
+§162. Methods of Determining Quantity of Open Interests of KOSPI 200 Futures and Options Trades, 
+etc. ..................................................................................................................................................... 158 
+§162-2. Position Limits of Equity Derivatives .................................................................................. 159 
+§162-3. [Deleted on March 13, 2017] ............................................................................................... 161 
+§163. Quantities relating to Arbitrage and Hedge, etc. ..................................................................... 161 
+§164. Restriction on Trading of Single Stock Futures, etc. ............................................................... 162 
+§164-2. Restriction on Receipt of Excessive Quotation .................................................................... 163 
+§164-3. Charge for Excessive Quotations ......................................................................................... 163 
+§164-4. Management of Account for Algorithmic Trading ............................................................... 164 
+§164-5. Methods of Requesting for Quotation Handling per Account, etc. ...................................... 165 
+§164-6. Registration of High-speed Algorithmic Trader, etc. ........................................................... 165 
+§164-7. Special Cases for Registration of High-speed Algorithmic Trader ...................................... 167 
+§164-8. High-speed Algorithmic Trading through Multiple Members ............................................. 167 
+§164-9. Member’s Obligation to Manage High-speed Algorithmic Trading .................................... 167 
+§164-10. Methods to Apply for Cancellation of Disconnected Quotations, etc. ............................... 169 
+§165. [Deleted on December 28, 2011] ............................................................................................. 169 
+§166. Matters to Be Notified to Members ......................................................................................... 169 
+PART VII. SUPPLEMENTARY PROVISIONS ............................................................................ 170 
+§167. [Deleted on December 18, 2012]............................................................................................. 170 
+§168. Methods of Transferring Open Interests to Other Members, etc. ............................................ 170 
+§168-2. Methods of Taking over Open Interests ............................................................................... 170 
+§169. Notification Period of Guidelines for Brokerage Commission Collection .............................. 171 
+§170. Exceptions to Settlement Methods in Case of Merger between Members .............................. 171 
+§171. Exceptions to Additional Deposit Subsequent to Change of Substitute Prices, etc. ................ 171 
+§172. Public Opinion Gathering ........................................................................................................ 172 
+ADDENDA.......................................................................................................................................... 173 
+[Annex 1] Base Prices of Underlying Assets .................................................................................... 232 
+[Annex 1-2] Detailed Breakdown of Markets and Regular Trading Hours and Night Trading Hours 
+for Market and Product ...................................................................................................................... 234 
+[Annex 1-3] Underlying Assets and Multiplier of Sector Index Futures Trades ............................... 238 
+[Annex 1-4] Underlying ETFs of ETF Futures and Position Limit of Open Interests ...................... 239 
+[Annex 2] Exercise Price Setting Range of Single Stock Options .................................................... 240 
+[Annex 3] [Deleted on October 20, 2010] ......................................................................................... 241 
+[Annex 3-2] [Deleted on October 28, 2015] ..................................................................................... 241 
+[Annex 4] [Deleted on October 28, 2015] ......................................................................................... 241 
+[Annex 5] [Deleted on October 28, 2015] ......................................................................................... 241 
+
+ix 
+
+ 
+[Annex 6] Codes for Input of Quotation Details ............................................................................... 242 
+[Annex 6-2] Matters Necessary to Apply for Mass Order Cancellation, etc. .................................... 246 
+[Annex 7] Theoretical Prices of Stock Price Index Futures .............................................................. 248 
+[Annex 8] Theoretical Prices of Single Stock Futures ...................................................................... 250 
+[Annex 8-2] Theoretical Prices of ETF Futures ................................................................................ 251 
+[Annex 9] Theoretical Prices of 3-yr KTB Futures, 5-yr KTB Futures and 10-yr KTB Futures ...... 252 
+[Annex 9-2] Theoretical Prices of 3-month Risk Free Benchmark Interest Rate Futures ................. 254 
+[Annex 10] [Deleted on October 20, 2010] ....................................................................................... 256 
+[Annex 11] [Deleted on January 27, 2011]........................................................................................ 256 
+[Annex 12] Theoretical Prices of Currency Futures .......................................................................... 257 
+[Annex 13] Theoretical Prices of Gold Futures and Mini-gold Futures ............................................ 259 
+[Annex 14] Rates for Quotation Price Limits .................................................................................... 260 
+[Annex 15] Theoretical Prices of Stock Index Options ..................................................................... 261 
+[Annex 16] Theoretical Prices of Single Stock Options.................................................................... 264 
+[Annex 17] Theoretical Prices of USD Options ................................................................................ 266 
+[Annex 17-2] Quotation quantity limits and accumulated quotation quantity limits ........................ 268 
+[Annex 17-3] [Deleted on August 28, 2014] ..................................................................................... 271 
+[Annex 18] Calculation of Net Exposure Margins ............................................................................ 272 
+[Annex 19] Margin Rates and Variables for Calculation of Margin Amounts .................................. 281 
+[Annex 19-2] Amount of Customer Margin per Futures Spread Contract ........................................ 288 
+[Annex 19-3] Disparate Values Applied to Base Price for Settlement .............................................. 290 
+[Annex 19-4] Methods for Calculation and Inspection of Assessment Rates of Foreign Currencies 
+and Foreign Securities ....................................................................................................................... 291 
+[Annex 19-5] Imposition Rate of Credit Risk Member Margin ........................................................ 293 
+[Annex 20] Price Used in Calculation of the Amount Equivalent to the Value of Underlying Assets295 
+[Annex 21] Guidelines for Appraisal of Low Liquidity Products ..................................................... 296 
+[Annex 22] Refusal of Entrustment of Orders Concerning Position Limits of KOSPI 200 Futures and 
+KOSPI 200 Options, etc. ................................................................................................................... 297 
+[Annex 23] Conversion Methods of Open Interests of KOSPI 200 Futures and KOSPI 200 Options, 
+etc. ..................................................................................................................................................... 299 
+[Annex 24] Range of Resolution Limit of Transaction Errors .......................................................... 300 
+[Annex 25] Price Fluctuation of Real-time Price Restriction ............................................................ 303 
+[Annex 26] Requesting Quantity of Negotiated Block Trades .......................................................... 305 
+[Annex 27] Conversion Rates of Stock Futures and Options ............................................................ 307 
+[Annex 28] Scope of Deposited Assets related to Hedge-dedicated Accounts, etc. .......................... 309 
+[Annex: Form 1] [Deleted on October 20, 2010] .............................................................................. 311 
+[Annex: Form 2] [Deleted on August 21, 2009] ................................................................................ 311 
+[Annex: Form 3] [Deleted on June 20, 2016] .................................................................................... 311 
+[Annex: Form 4] Request for Correction of Transaction Errors ....................................................... 312 
+[Annex: Form 5][Deleted on August 28, 2014] ................................................................................. 313 
+[Annex: Form 6] Notice of Deposit (Request for Withdrawal) of Cash for Member Margin ........... 314 
+[Annex:  Form  7]  Notice  of  Deposit  (Request  for  Withdrawal)  of  Foreign  Currency  for  Member 
+Margin ............................................................................................................................................... 315 
+[Annex: Form 7-2] Notice of Deposit (Request for Withdrawal) of Foreign Securities for Member 
+Margin ............................................................................................................................................... 316 
+[Annex:  Form  8]  Notice of  Deposit  (Request for Withdrawal)  of  Substitute  Security for  Member 
+Margin ............................................................................................................................................... 317 
+[Annex: Form 8-2] Details of Sub-pledge established in Customer Account Books ........................ 319 
+[Annex: Form 9] Notification of Exercise of Options ....................................................................... 320 
+[Annex: Form 10] Notification of Options Exercise Allotment ........................................................ 321 
+[Annex: Form 11] [Deleted on December 28, 2011] ......................................................................... 322 
+[Annex: Form 12] [Deleted on December 18, 2012]......................................................................... 322 
+[Annex: Form 13] Written Report on Holding of Open Interests for Arbitraging/Hedging .............. 323 
+
+x 
+
+ 
+[Annex: Form 13-2] Written Report on Holding of Open Interests for Hedging for Market Making 
+Trades ................................................................................................................................................ 325 
+[Annex: Form 13-3] Written Report on Holding of Open Interests of ETFs (KOSDAQ 150 Futures 
+and Options, KOSDAQ Global Futures, and ETF Futures) .............................................................. 326 
+[Annex: Form 13-4] [Deleted on November 1, 2024] ....................................................................... 327 
+[Annex: Form 15] Request for Resolution of Large-sized Transaction Errors by Investor .............. 328 
+[Annex: Form 16] [Deleted on March 21, 2016] .................................................................................. 2 
+[Annex: Form 17] Written Report on Entrusted Account of Other Member ......................................... 3 
+[Annex: Form 18] Application (Report) for Registration of High-speed Algorithmic Trader .............. 5 
+[Annex:  Form  19]  Confirmation  on  Inspection  of  Registration  Information  of  High-speed 
+Algorithmic Trader ................................................................................................................................ 6 
+
+xi 
+
+ 
+ 
+ 
+ 
+ 
+ 
+PARTI. GENERAL PROVISIONS 
+
+§1. Purpose 
+
+The  purpose  of  these  Enforcement  Rules  is  to  stipulate  the  matters  necessary  for  the 
+enforcement  of  the  Derivatives  Market  Business  Regulation  (hereinafter  referred  to  as  “the 
+Regulation”). (Amended on October 26, 2009) 
+
+§2. Definitions 
+
+(1)  The  terms  used  in  these  Enforcement  Rules  shall  have  the  meanings  given  to  them  in 
+following subparagraphs: (Amended on August 28, 2014) 
+
+1. The term “base price of underlying asset” means the price of underlying asset (if no such 
+price is available, it shall be the price of the day moved forwarded sequentially) specified 
+in [Annex 1]. 
+
+2.  The  term  “business  day”  means  the  day  to  which  the  market  closing  time  belongs. 
+(Amended on October 26, 2009; May 29, 2025); 
+
+3. The term “deemed  execution  price” means the  execution  price of the  delivery month 
+contract  that  is  assumed  to  have  been  executed  consequent  to  the  execution  of  futures 
+spread trade. 
+
+(2) The terms used in these Enforcement Rules, other than those referred to in paragraphs (1), 
+shall  have  the  same  meanings  given  to  them  in  the  Act  and  the  regulations  governing  the 
+business of the Exchange, except in cases where these Enforcement Rules stipulate otherwise. 
+[May 29, 2025] 
+
+(Wholly amended on January 20, 2009) 
+
+§2-2. Calculations of Trading Days 
+
+(1) From the start time of the night trading hours on the immediately preceding business day 
+to the time immediately before the start time of the night trading hours on the relevant business 
+day shall be calculated as one (1) trading day. 
+
+(2) With regard to the last trading day and the trading start date, the period of the day shall be 
+from the start time of the night trading hours on the day before the relevant day to the start time 
+of  the  night  trading  hours  on  the  relevant  day,  and  whether  the  day  is  a  holiday  shall  be 
+determined based on the regular trading holiday. Provided that this paragraph shall not apply 
+to [§25-9], [§29-5], and [§30]. 
+
+(3)  Quotations  submitted  during  quotation  hours  for  opening  price  by  call  auction  in  night 
+trading shall be considered to have been submitted on the trading day to which the relevant 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+night trading hours belong. 
+
+[May 29, 2025] 
+
+§3. Price of Immediately Executable Limit Quotation 
+
+(1) “Price stipulated in the Enforcement Rules” in [§2(1)15(d)] of the Regulation shall refer to 
+the price noted in each of the following subparagraphs: (Amended on October 26, 2009; August 
+20, 2014; August 28, 2014) 
+
+1. In the case of immediately executable limit quotation for ask order: the highest price of 
+bid quotation. Provided that, when there is no bid quotation, it shall be the price (when the 
+relevant  price is  lower than the lower limit price noted in  [§56 or §59], it  shall be such 
+lower limit price) obtained by subtracting the quotation price unit from the lowest price of 
+ask quotation; and when there are no offer and bid quotations, it shall be the most recent 
+contract price.   
+
+2. In the case of immediately executable limit quotation for bid order: the lowest price of 
+ask quotation. Provided that, when there is no ask quotation, it shall be the price (when the 
+relevant price is higher than the upper limit price noted in [§56 or §59], it shall be such 
+upper limit price) obtained by adding the quotation price unit to the highest price of ask 
+quotation,  and  when  there  are  no  offer  and  bid  quotations,  it  shall  be  the  most  recent 
+contract price. 
+
+(2) Notwithstanding paragraph (1), in cases where the price noted in paragraph (1)1 comes to 
+be lower than the real-time lower limit price (referring to the real-time lower limit price noted 
+in [§70-2(1)]; the same hereinafter), the real-time lower limit price is designated as the price of 
+the immediately executable limit quotation for ask order, and in cases where the price noted in 
+paragraph (1)2 comes to be higher than the real-time upper limit price (referring to the real-
+time upper limit price noted in [§70-2(1)]; the same hereinafter), the real-time upper limit price 
+is designated as the price of the immediately executable limit quotation for bid order. 
+
+(Wholly amended on August 20, 2014) 
+
+§3-2. Breakdown of Markets 
+
+Pursuant to [§3(3)] of the Regulation, detailed breakdown of the markets shall be as shown in 
+subparagraph 1 of [Annex 1-2]. (Amended on July 18, 2023) 
+
+[March 13, 2017] 
+
+§3-3. Trading Hours 
+
+(1) Pursuant to the proviso to [§4(1)1] of the Regulation, the regular trading hours of the market 
+where  regular  trading  hours  can  be  set  differently  shall  be  as  shown  in  subparagraph  2  of 
+[Annex 1-2]. (Amended on July 18, 2023; May 29, 2025) 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) Pursuant to the proviso to [§4(2)] of the Regulation, the regular trading hours of a contract 
+[in the case of futures spreads, it shall be a contract for which the last trading day of any of the 
+two (2) constituent contracts has arrived] for which the last trading day has arrived shall be as 
+shown in subparagraph 3 of [Annex 1-2]: (Amended on February 16, 2022; July 18, 2023) 
+
+(Wholly amended on March 13, 2017) 
+
+§4. Change of Trading Hours due to System Failures 
+
+“As stipulated in the Enforcement Rules” in [§4(4)1] of the Regulation shall refer to the cases 
+falling under any of the following subparagraphs: (Amended on December 10, 2010; August 
+28, 2014; March 13, 2017) 
+
+1. Case of a derivatives market (referring to the detailed markets noted in [§3-2]; the same 
+hereinafter) where, due to a failure in the derivatives system (hereinafter referred to as “the 
+Exchange  derivatives  system”)  of  the  Korea  Exchange  (hereinafter  referred  to  as  “the 
+Exchange”), it is deemed impractical to execute trades of derivative products or receipt of 
+quotations is delayed for more than ten (10) minutes; 
+
+2. Case of the derivatives market where, due to a failure in the member derivative system, 
+the  derivative  products  (excluding  products  designated  as  low  liquidity  products  and 
+products warned for delisting pursuant to [§153] of the Regulation) of which the aggregated 
+number of execution quantities of the members, who cannot input the quotations or receive 
+the  notification  of  trading  details,  exceeds  75/100  of  the  total  execution  quantity  of  all 
+members. In such cases, the execution quantity of each member shall be calculated pursuant 
+to method in each of the followings: (Amended on August 28, 2014; May 29, 2025)   
+
+(a) The period of one (1) year (including the night trading hours immediately preceding 
+the first regular trading day and excluding the night trading hours that start on the last 
+business day during the relevant period) counting retroactively from the last business day 
+of the month preceding the month in which the regular trading hours of the trading day 
+in  which the member derivatives  system  experienced a failure shall be set  as contract 
+execution quantity  calculation  period (hereinafter referred to  as  the “contract  quantity 
+calculation period” in this subparagraph); [May 29, 2025] 
+
+(b)  In  the  case  where  a  failure  occurs  during  regular  trading  hours,  the  quantity  of 
+contracts executed in regular trading hours during the contract quantity calculation period 
+shall be added; [May 29, 2025] 
+
+(c) In the case where a failure occurs during night trading hours, the quantity of contracts 
+executed in night trading hours during the contract quantity calculation period shall be 
+added. and [May 29, 2025] 
+
+(d)  In  the  case  where  a  member  joins  or  withdraws  during  the  contract  quantity 
+calculation period, such fact shall be taken into account when calculating the contract 
+quantity. [May 29, 2025] 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  In  addition,  as  the  cases  where  the  failure  of  the  Exchange  derivatives  system  or  the 
+member derivatives system has occurred, when the Exchange deems it necessary to change 
+the trading hours. 
+
+§4-2. Markets Eligible for Night Trading 
+
+The markets where transactions are made during the night trading hours pursuant to the latter 
+part of [§4(1)2] of the Regulation shall be as stipulated in subparagraph 4 of [Annex 1-2]. 
+(Amended on December 10, 2020; May 29, 2025) 
+
+(Wholly amended on March 13, 2017) 
+
+§4-3. Guidelines for Connecting to Member Systems, etc. 
+
+(1)  “Matters  which  are  stipulated  in  the  Enforcement  Rules”  in  [§8-2(1)]  of  the  Regulation 
+shall refer to the matters noted in each of the following subparagraphs: (Amended on August 
+28, 2014) 
+
+1. Network connection method between the members and the Exchange; 
+
+2. Methods of applying for and allotting the communication lines between the member and 
+the Exchange and the sessions;     
+
+3. Prerequisites of security device of member system; 
+
+4. Criteria for allocation and operation of member sessions; and 
+
+5. In addition, the matters that the Exchange deems necessary for the efficient and reliable 
+system operation.   
+
+(2)  “Communication  lines”  noted  in  paragraph  (1)  shall  refer  to  the  physical  lines  used  to 
+transmit and receive the quotations and trading details between the member and the Exchange, 
+and “sessions” shall refer to the logical circuit that electronically transmits and receives the 
+quotations and trading details. (Amended on February 28, 2014)   
+
+[December 28, 2011] 
+
+PART II. LISTED PRODUCTS 
+
+CHAPTER1. GENERAL PROVISIONS 
+[August 28, 2014] 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§4-4. Listing of New Derivative Products 
+
+When listing new derivative products, the Exchange shall confirm that the relevant product is 
+eligible for listing in terms of investor protection, prevention of unfair trades and compliance 
+with related acts and subordinate statutes, etc. [March 13, 2017] 
+
+§4-5. Quotation Quantity Unit and Trading Quantity Unit 
+
+(1) Pursuant to [§9-2(1)] of the Regulation, the quotation quantity unit for derivatives trade 
+(hereinafter referred as “quotation quantity unit”) shall be one (1) contract.   
+
+(2) Pursuant to [§9-2(1)] of the Regulation, the trading quantity unit for derivatives trade 
+(hereinafter referred as “trading quantity unit”) shall be one (1) contract.   
+
+[August 28, 2014] 
+
+CHAPTER2. TRADING OF EQUITY DERIVATIVES 
+(Amended on August 28, 2014) 
+
+Section1. Trading of Stock Index Futures 
+
+§4-6. Underlying Assets 
+
+(1) “Stock price indices stipulated in the Enforcement Rules” in subparagraph 1 of [§10] of the 
+Regulation shall refer to the stock price indices classified in each of the followings: [March 13, 
+2017] (Amended on March 15, 2018; April 5, 2024; November 1, 2024) 
+
+1. For KOSPI 200 futures and Mini KOSPI 200 futures: KOSPI 200 (referring to a market 
+capitalization weighted stock price index based on 200 issues listed on the KOSPI Market, 
+which  is  calculated  by  the  Exchange  using  the  base  index  of  100  on  the  base  date  of 
+January 3, 1990; the same hereinafter);   
+
+2. For KOSDAQ 150 futures: KOSDAQ 150 (referring to a market capitalization weighted 
+stock price index based on 150 issues listed on the KOSDAQ Market, which is calculated 
+by the Exchange using the base index of 1,000 on the base date of January 4, 2010; the 
+same hereinafter); 
+
+3. For KRX 300 futures: KRX 300  (referring to a market  capitalization weighted stock 
+price index based on 300 issues, from among the stocks listed on the KOSPI Market and 
+the stocks listed on the KOSDAQ Market, which is calculated by the Exchange using the 
+base index of 1,000 on the base date of January 4, 2010; the same hereinafter); and 
+
+4. For KOSDAQ Global futures: KOSDAQ Global (referring to a market capitalization 
+weighted stock price index based on stocks designated by the Exchange in accordance with 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[§3] of the Guidelines for Designation of Global Corporations in the KOSDAQ Market, 
+which is  calculated by the Exchange using the base index of 1,000 on the base date of 
+November 18, 2022; the same hereinafter). 
+
+(2) “Stock price indices stipulated in the Enforcement Rules” in subparagraph 3 of [§10] of the 
+Regulation shall refer to the stock price indices stipulated in [Annex1-3]. (Amended on March 
+13, 2017) 
+
+(3)    [Deleted on April 18, 2025] 
+
+(Wholly amended on June 20, 2016) 
+
+§4-7. Delivery Months, Etc. 
+
+(1) Pursuant to [§11(1)] of the Regulation, the delivery months of stock index futures shall be 
+the months classified in each of the followings: [March 13, 2017] (Amended on March 15, 
+2018; April 5, 2024; November 1, 2024) 
+
+1. For the trades of KOSPI 200 futures, KOSDAQ 150 futures, KRX 300 futures, KOSDAQ 
+Global futures and sector index futures: March, June, September and December (hereinafter 
+referred to as the “quarterly months”); and (Amended on April 18, 2025) 
+
+2. For Mini KOSPI 200 futures: Every month. 
+
+(2) Pursuant to [§11(1)] of the Regulation, the number of delivery months of stock index futures 
+shall be the number classified in each of the following subparagraphs: (Amended on July 3, 
+2015; October 28, 2015; June 20, 2016; March 13, 2017; March 15, 2018; August 17, 2018; 
+July 13, 2021; March 14, 2022; November 24, 2023: April 5, 2024; November 1, 2024) 
+
+1.  For  the  trades  of  KOSPI  200  futures,  KOSDAQ  150  futures  and  sector  index  futures 
+(excluding the trades of KRX BBIG index futures, KRX Secondary Battery index futures, 
+and  KRX  Bio  index  futures;  hereinafter  the  same  in  this Article):  Seven  (7)  among  the 
+quarterly months (one in March, one in September, two in June, three in December; the same 
+hereinafter in [§5-3(2)1]); 
+
+2. For Mini KOSPI 200 futures trades: Six (6) consecutive months; 
+
+3. For KRX 300 futures, KOSDAQ Global futures, and sector index futures trades: Four (4) 
+among the quarterly months; and 
+
+4.    [Deleted on April 18, 2025] 
+
+(3) The trading periods of each delivery month of stock index futures pursuant to [§11(1)] of 
+the  Regulation  shall  be  the  periods  classified  in  each  of  the  following  subparagraphs: 
+(Amended on July 3, 2015; October 28, 2015; June 20, 2016; March 13, 2017; March 15, 2018; 
+July 13, 2021; March 14, 2022: April 5, 2024; November 1, 2024) 
+
+1. For the trades of KOSPI 200 futures and KOSDAQ 150 futures: the period classified in 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+each of the following items: 
+
+(a) For the contracts in March and September, one (1) year;   
+(b) For the contracts in June, two (2) years; and 
+(c) For the contracts in December, three (3) years. 
+
+2. For Mini KOSPI 200 futures trades: six (6) months 
+
+3. For KRX 300 futures, KOSDAQ Global futures, and sector index futures trades: one (1) 
+year 
+
+4. [Deleted on April 18, 2025] 
+
+(4)    [Deleted on April 18, 2025] 
+
+[August 28, 2014] 
+
+§4-8. Multipliers 
+
+Pursuant to [§12] of the Regulation, the multipliers of stock index futures shall be the figures 
+classified in each of the following subparagraphs: (Amended on March 15, 2018: April 5, 2024; 
+November 1, 2024) 
+
+1. For KOSPI 200 futures trades: 250,000; 
+
+2. For Mini KOSPI 200 futures and KRX 300 futures trades: 50,000; 
+
+3. KOSDAQ 150 futures and KOSDAQ Global index trades: 10,000; and 
+
+4. For sector index futures trades: The figures set forth in [Annex 1-3];   
+
+5. [Deleted on April 18, 2025] 
+
+(Wholly amended on March 13, 2017) 
+
+§4-9. Quotation Price Units 
+
+Pursuant to [§12] of the Regulation, the quotation price units of stock index futures shall be 
+the figures classified in each of the following subparagraphs:(Amended on July 3, 2015; 
+October 28, 2015; March 21, 2016; June 20, 2016; March 13, 2017; March 15, 2018; June 7, 
+2021; July 13, 2021; November 24, 2023; April 5, 2024; November 1, 2024) 
+
+1. For KOSPI200 futures trades: 0.05 points;   
+
+2. For Mini KOSPI 200 futures trades: 0.02 points; 
+
+3. For KOSDAQ 150 futures and KOSDAQ Global futures trades: 0.10 points; and 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.  For  KRX  300  futures  and  sector  index  futures  trades:  0.20  points.  Provided  that,  for 
+KOSPI Dividend index futures trades, KRX BBIG index futures, KRX Secondary Battery 
+index futures, and KRX Bio index futures trades, it shall be 0.50 points. 
+
+5. [Deleted on April 18, 2025] 
+
+[August 28, 2014] 
+
+§5. Last Trading Day, Final Settlement Day and Final Settlement Price 
+
+(1) Pursuant to [§14(2)] of the Regulation, the last trading day of stock index futures shall be 
+the second Thursday of the delivery month (shall be moved forward sequentially if it is a market 
+holiday). (Amended on June 20, 2016; April 18, 2025) 
+
+1. [Deleted on April 18, 2025] 
+
+2. [Deleted on April 18, 2025] 
+
+(2) Pursuant to [§14(2)] of the Regulation, the final settlement day of stock index futures shall 
+be the trading day following the last trading day. (Amended on June 20, 2016; April 18, 2025) 
+
+1. [Deleted on April 18, 2025] 
+
+2. [Deleted on April 18, 2025] 
+
+(3) The final settlement price of stock index futures stipulated in [§14(2)] of the Regulation 
+shall be the closing value of the relevant stock price index on the last trading day. Provided that, 
+in cases where there is no such stock index value or the calculation of such stock price index 
+is not possible on the last trading day, it shall be the value  of stock price index (hereinafter 
+referred to as “the special final settlement price”) calculated by the Exchange in accordance 
+with the calculation method of the relevant stock price index on the basis of the opening price 
+[including the special quotation prices of the stock markets noted in [§4(4)2] of the Regulation 
+(hereinafter  referred  to  as  the  “stock  markets”)]  of  its  constituents  on  the  next  trading  day. 
+(Amended on June 20, 2016; March 14, 2022; April 18, 2025) 
+
+1.    [Deleted on April 18, 2025] 
+
+2.    [Deleted on April 18, 2025] 
+
+Section 2. Trading of Stock Price Index Options 
+
+§5-2. Underlying Assets 
+
+“Stock price indices that are specified in the Enforcement Rules” in [§15] of the Regulation 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+shall refer to the stock price indices classified in each of the followings: (Amended on March 
+15, 2018) 
+
+1. KOSPI 200; and   
+
+2. KOSDAQ 150. 
+
+§5-3. Expiration Months, etc. 
+
+(1) Pursuant to [§16(1)] of the Regulation, the expiration month of stock index options shall 
+be every month. [March 13, 2017] 
+
+(2) Pursuant  to  [§16(1)]  of the Regulation,  the number of expiration  months  of stock index 
+options shall be the numbers classified in following subparagraphs: (Amended on July 3, 2015; 
+March 13, 2017; March 15, 2018) 
+
+1. For KOSPI 200 options trades: eleven (11) in total -seven (7) from the quarterly months 
+and four (4) from the months which are not the quarterly months (hereinafter referred to as 
+“non-quarterly months”); 
+
+2. For Mini KOSPI 200 options trades: six (6) consecutive months; and 
+
+3. For KOSDAQ 150 options trades: six (6) in total - two (2) from the non-quarterly months 
+and four (4) from the quarterly months. 
+
+(3) Pursuant to [§16(1)] of the Regulation, the trading period of each expiration month of stock 
+index options shall be as noted in each of the following subparagraphs:(Amended on July 3, 
+2015; March 13, 2017; March 15, 2018) 
+
+1. In the case of KOSPI 200 options trades: 
+
+(a) For the contracts in non-quarterly months: six (6) months; 
+(b) For the contracts in March and September: one (1) year; 
+(c) For the contracts in June: two (2) years; and 
+(d) For the contracts in December: three (3) years. 
+
+2. In the case of Mini KOSPI 200 options trades, six (6) months 
+
+3. In the case of KOSDAQ 150options trades: 
+
+(a) For the contracts in the non-quarterly months: three (3) months; and 
+(b) For the contracts in the quarterly months: one (1) year. 
+
+[August 28, 2014] 
+
+§5-4. Delivery Weeks, etc. 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) “Stock index options  specified in  the Enforcement Rules”  in  [§16(2)] of the Regulation 
+refers to the KOSPI 200 options and KOSDAQ 150 options. (Amended on October 1, 2025) 
+
+(2) Pursuant to the latter part of [§16(2)] of the Regulation, the delivery week of a trade of 
+which the last trading day is a specific trading day of each week (hereinafter referred to as the 
+“delivery week trade”) shall be every week. (Amended on June 29, 2023) 
+
+(3)  Delivery  week  trade  shall  be  classified  according  to  the  following  subparagraphs: 
+(Amended on June 29, 2023). 
+
+1.  Delivery week trade (hereinafter referred to as the "Monday delivery week trade") for   
+
+which the last trading date falls under [h7(1)2a]; and 
+
+2.  Delivery week trade (hereinafter referred to as the "Thursday delivery week trade") for 
+
+which the last trading date falls under [§7(1)2b]. 
+
+(4) Trade commencement  day shall be  classified  according to  the following subparagraphs: 
+[ June 29, 2023] 
+
+1.  For Monday  delivery week trade, Monday (if it falls on a market  holiday, it shall be 
+
+moved forward sequentially); and 
+
+2.  For Thursday delivery week trade, Thursday (if it falls on a market holiday, it shall be 
+
+moved forward sequentially). 
+
+(5) Trading  period of the delivery week trade shall be classified according to  the following 
+subparagraphs: [ June 29, 2023] 
+
+1.  For  Monday  delivery  week  trade,  from  the  trade  commencement  day  under 
+subparagraph 1 of [§4] to the last trading day under [§7(1)2a] which arrives first; and 
+
+2.  For  Thursday  delivery  week  trade,  from  the  trade  commencement  day  under 
+subparagraph 2 of [§4] to the last trading day under [§7(1)2b] which arrives first. 
+
+(6) Notwithstanding paragraph (4), the delivery week trade that falls under any of the following 
+subparagraphs  shall  not  be  commenced.  In  this  case,  whether  the  delivery  week  trade  falls 
+under subparagraphs 1, 2, and 4 apply shall be determined by comparing transactions with the 
+same underlying asset: [June 29, 2023] (Amended on October 1, 2025) 
+
+1.  Delivery week trade in case where the last trading day is the same as the last trading 
+
+day of the delivery month trade; 
+
+2.  Delivery week trade in case where the last trading day is the same as the last trading 
+
+day of the delivery week trade for which trading has already commenced; 
+
+3.  Delivery  week  trade  in  case  where  the  trade  commence  day  is  the  same  as  the  last 
+trading day, and thus the trading period is one (1) trading day; or (Amended on October 
+1, 2025) 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+4.  Monday delivery week trade in case where the last trading day is the same as the last 
+trading day of the Thursday delivery week trade in cases other than subparagraphs 1 
+through 3.       
+
+[July 30, 2019] 
+
+§6. Establishment of Exercise Prices 
+
+(1) Pursuant to [§16(4)] of the Regulation, the number of exercise prices of stock index options 
+established on the first trading day of each expiration month or expiration week shall be  as 
+noted in each of the following subparagraphs: (Amended on July 3, 2015; November 10, 2017; 
+March 15, 2018; July 30, 2019; November 25, 2021) 
+
+1. For KOSPI200 options trades, the number classified in each of following items: 
+
+(a) For contracts in non-quarterly months, March and September: forty-nine (49);   
+(b) [Deleted on November 25, 2021] 
+(c) For contracts in June and December (hereinafter referred to as “half-yearly months”): 
+twenty-five (25); and 
+(d) For contracts in expiration weeks: ninety-seven (97). (Amended on April 6, 2026) 
+
+2. For Mini KOSPI200 options trades: forty-nine (49) (Amened on April 6, 2026) 
+
+3. For KOSDAQ 150 options trades: seventeen (17) 
+
+(2) Pursuant to [§16(4)] of the Regulation, the exercise price shall be established according to 
+the methods prescribed in each of the following subparagraphs on the first trading day of each 
+expiration month or expiration week of stock price index options:(Amended on July 3, 2015; 
+November 10, 2017; March 15, 2018; July 30, 2019; November 25, 2021) 
+
+1. For KOSPI200 options trades: the methods classified in each of the following items: 
+
+(a) For contracts in non-quarterly months, March and September:with5-point increments 
+as  the  exercise  price  unit(referring  to  the  minimum  price  unit  establishing  the  exercise 
+prices; the same hereinafter), there shall be an exercise price at-the-money [as the price 
+that is an integral multiple of the exercise price unit, the exercise price (when there are two 
+such exercise price, it shall be the higher exercise price) that is nearest to the base price of 
+underlying  asset  on  the  immediately  preceding  trading  day:  the  same  hereinafter]  and 
+consecutive  each  twenty-four  (24)  exercise  prices  above  and  below  the  at-the-money 
+exercise price; (Amended on May 29, 2025) 
+
+(b) [Deleted on November 25, 2021] 
+
+(c) For contracts in half-yearly months: with 10-point increments as the exercise price unit, 
+there shall be an exercise price at-the-money and consecutive each twelve (12) exercise 
+prices above and below the at-the-money exercise prices; and 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) For contracts in expiration weeks: with 2.5-point increments as the exercise price unit, 
+there shall be an exercise price at-the-money and consecutive each forty-eight (48)exercise 
+prices above and below the at-the-money exercise prices. (Amended on April 6, 2026) 
+
+2. For Mini KOSPI200 Options trades: with 5-point increments as the exercise price unit, 
+there  shall  be  an  exercise  price  at-the-money  and  consecutive  each    twenty-four  (24) 
+exercise prices above and below the at-the-money exercise prices. (Amended on April 6, 
+2026) 
+
+3. For KOSDAQ 150 options trades: with25-point increments as the exercise price unit, 
+there shall be an exercise price at-the-money and consecutive each eight (8) exercise prices 
+above and below the at-the-money exercise price. 
+
+(3) Pursuant to [§16(4)] of the Regulation, in cases where there is an exercise price, which has 
+not been introduced, among the exercise prices in each of the following subparagraphs after 
+the trading day following the first trading day of each expiration month or expiration week of 
+stock index options, that exercise price shall additionally be introduced. Provided that, in cases 
+where the at-the-money exercise price is changed and there is an exercise price that has not 
+been introduced based on the exercise price unit between the at-the-money exercise price of 
+the  immediately  preceding    trading  day  and  the  changed  at-the-money  exercise  price,  that 
+exercise price shall additionally  be introduced.:  (Amended on November  25, 2021; April 5, 
+2024; May 29, 2025) 
+
+1. For KOSPI200 options trades: the exercise prices classified in each of the following items: 
+
+(a) For contracts in three (3) expiration months of which the last trading days arrive earlier 
+(referring to the consecutive three (3) expiration months): with 2.5-point increments as the 
+exercise  price  unit,  an  exercise  price  at-the-money  and  consecutive  forty-eight  (48) 
+exercise  prices  above  or  below  the  at-the-money  exercise  price;  (Amended  on April  6, 
+2026) 
+
+(b) For contracts in five (5) expiration months from the fourth nearest expiration month 
+(referring to the expiration month coming on the fourth; hereinafter the same) to the eighth 
+nearest expiration month: with 5-point increments as the exercise price unit, an exercise 
+price at-the-money and consecutive twenty-four (24) exercise prices above or below the 
+at-the-money exercise price; 
+
+(c) For contracts in three (3) expiration months of which the last trading day arrives later 
+(referring to three (3) expiration month of which the last trading day arrives later among 
+half-yearly  expiration  months):  with  10-point  increments  as  the  exercise  price  unit,  an 
+exercise price at-the-money and consecutive twelve (12) exercise prices above or below 
+the at-the-money exercise price; and 
+
+(d) For contracts in expiration weeks: with 2.5-point increments as the exercise price unit, 
+an exercise price at-the-money and consecutive forty-eight (48) exercise prices above or 
+below the at-the-money exercise price. (Amended on April 6, 2026) 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. For Mini KOSPI200 options trades: the exercise prices classified in each of the following 
+subparagraphs: 
+
+(a)  For contracts in three (3) expiration months of which the last trading day arrives earlier 
+(referring  to  the  consecutive  three  (3)  expiration  months):  the  exercise  price  under 
+subparagraph 1(a); and 
+
+(b)  For contracts in three (3) expiration months of which the last trading day arrives later 
+(referring to the expiration month that does not fall under (a) among the consecutive three 
+(3) expiration months): with 5-point increments as the exercise price unit, an exercise price 
+at-the-money and consecutive twenty-four (24) exercise prices above and below the at-
+the-money exercise price. (Amended on April 6, 2026) 
+
+3. For KOSDAQ 150 options trades: with 25-point increments as the exercise price unit, 
+an exercise price at-the-money and consecutive eight (8) exercise prices above or below 
+the at-the-money exercise price. 
+
+(4)  Notwithstanding  paragraph  (3),  on  the  first  trading  day  of  each  expiration  month  for 
+KOSPI200 option trades and Mini KOSPI200 option trades, an exercise price shall additionally 
+be  introduced  in  accordance  with  the  following  subparagraphs,  and  then  the  exercise  price 
+pursuant  to  paragraph  (3)1  [excluding  item  (d)]  or  paragraph  (3)2  shall  additionally  be 
+introduced :(Amended on November 25, 2021) 
+
+1. For KOSPI200 option trades: additional exercise prices that are integral multiple of 2.5 
+points within the range of the existing exercise prices set with 5-point increments shall be 
+introduced to the third (3rd) nearest expiration month, and when the trade of half-yearly 
+expiration months begins, additional exercise prices that are integral multiple of 5 points 
+within the range of the existing exercise prices set with 10-point increments shall be added 
+to the eighth (8th) nearest expiration month; and 
+
+2. For Mini KOSPI200 option trades: additional exercise prices that are integral multiple 
+of 2.5 points within the range of the existing exercise prices set with 5-point increments 
+shall be introduced to the third (3rd) nearest expiration month 
+
+(5)  Notwithstanding  paragraphs  (1)  through  (4),  the  Exchange  may  change  the  number  of 
+exercise  price  or  exercise  price  unit  if  it  is  deemed  necessary  for  the  market  management. 
+(Amended on August 28, 2014) 
+
+§6-2. Multipliers and Quotation Price Units 
+
+(1)  Pursuant  to  [§19]  of  the  Regulation,  the  multipliers  of  stock  index  options  shall  be  the 
+figures classified in each of the following subparagraphs: (Amended on March 15, 2018) 
+
+1. For KOSPI 200 options trades: 250,000; 
+
+2. For Mini KOSPI 200 options trades: 50,000; and 
+
+3. For KOSDAQ 150 options trades: 10,000. 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) Pursuant to [§19] of the Regulation, the quotation price units of stock index options shall 
+be as noted in each of the following subparagraphs:(Amended on July 3, 2015; November 26, 
+2015; March 15, 2018) 
+
+1. For KOSPI200 options, the figures classified in each of the following items: 
+
+(a) For the quotation prices less than ten (10) points: 0.01 points; and 
+(b) For the quotation prices of ten (10) points or more: 0.05 points. 
+
+2. For Mini KOSPI200 options, the figures classified in each of the following items: 
+
+(a) For the quotation prices less than three (3) points: 0.01 points;   
+(b) For the quotation prices of three (3) or more and less than ten (10) points: 0.02 points; 
+and 
+(c) For the quotation prices of ten (10) points or more: 0.05 points. 
+
+3. For KOSDAQ 150 options, the figures classified in each of the following items: 
+
+(a) For the quotation prices less than fifty (50) points: 0.1 points; and 
+(b) For the quotation prices of fifty (50) points or more: 0.5 points. 
+
+(Wholly amended on March 13, 2017) 
+
+§7.  Last  Trading  Day,  Option  Exercise  Settlement  Day  and  Base  Price  of  Option  Exercise 
+Settlement, etc. 
+
+(1) Pursuant to [§21(2)] of the Regulation, the last trading day of stock index options shall be 
+as classified in  each of the following subparagraphs: (Amended on July  30, 2019;  June 29, 
+2023) 
+
+1.  For  delivery  month  trades:  Second Thursday  of  an  expiration  month  (it  shall  be  moved 
+forward sequentially if it falls on a market holiday); and 
+
+2. For delivery week trades: The day falling under any of the followings: 
+
+(a) Monday of delivery week (if it falls on a market holiday, it shall be moved backward 
+sequentially); and 
+(b) Thursday of delivery week (if it falls on a market holiday, it shall be moved forward 
+sequentially). 
+
+(2) Pursuant to [§21(2)] of the Regulation, the stock index options shall be exercised only on 
+the last trading day of expiration month. 
+
+(3) Pursuant to [§21(2)] of the Regulation, the settlement day for the options exercised (referred 
+to  as  “option  exercise  settlement  day”)  shall  be  the  next  trading  day  following  the  option 
+exercise day. 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+(4)  The  base  price  for  exercise  settlement  of  stock  index  options  under  [§21(2)]  of  the 
+Regulation shall be the closing value of the relevant stock price index on the option exercise 
+day. Provided that, if there is no such relevant stock price index or it is not possible to calculate 
+the relevant stock price index on the option exercise day, it shall be the value of special final 
+settlement price. (Amended on March 15, 2018) 
+
+(Wholly amended on August 28, 2014) 
+
+Section 3. Trading of Volatility Index Futures 
+[November 3, 2014] 
+
+§7-2. Underlying Assets 
+
+“Volatility indices specified in the Enforcement Rules” in [§21-2] of the Regulation shall refer 
+to  V-KOSPI  200  (referring  to  an  index  that  is  calculated  by  the  Exchange  to  indicate  the 
+volatility of KOSPI 200 of a certain future period of time using the prices of the delivery month 
+contracts, etc. listed on the KOSPI 200 options market; the same hereinafter). [March 13, 2017] 
+
+§7-3. Delivery Months, etc. 
+
+(1) Pursuant to [§21-3] of the Regulation, the delivery months of volatility index futures shall 
+be every month. [March 13, 2017] 
+
+(2) Pursuant to [§21-3] of the Regulation, the number of delivery months of volatility index 
+futures shall be six (6) consecutive months. (Amended on March 13, 2017) 
+
+(2) Pursuant to [§21-3] of the Regulation, the trading period of each delivery month of volatility 
+index futures shall be six (6) months. (Amended on March 13, 2017) 
+
+[November 3, 2014] 
+
+§7-4. Multipliers and Quotation Price Units 
+
+(1)  Pursuant  to  [§21-4]  of  the  Regulation,  the  multiplier  of  volatility  index  futures  shall  be 
+250,000. 
+
+(2) Pursuant to [§21-4] of the Regulation, the quotation price unit of volatility index futures 
+shall be 0.05 points. 
+
+(Wholly amended on March 13, 2017) 
+
+§7-5. Last Trading Day, Last Settlement Day and Final Settlement Price 
+
+(1) Pursuant to [§21-5(2)] of the Regulation, the last trading day of volatility index futures shall 
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+be  the  day  before  thirty  (30)  days  counting  retroactively  from  the  day  to  which  the  regular 
+trading hours of the last trading day of KOSPI 200 options (excluding delivery week trades) 
+belong in the month following the expiration month (it shall be moved forward sequentially if 
+it  falls  on  a  holiday  of  the  regular  trading  market;  the  same  hereinafter  in  this  Article). 
+(Amended on July 30, 2019; May 29, 2025) 
+
+(2) Pursuant to [§21-5(2)] of the Regulation, the final settlement day of volatility index futures 
+shall be the business day following the last trading day. (Amended on May 29, 2025) 
+
+(3) Pursuant to [§21-5(2)] of the Regulation, the final settlement price of volatility index futures 
+shall be the closing value of V-KOSPI 200on the last trading day.   
+
+[November 3, 2014] 
+
+Section 4. Trading of Single Stock Futures 
+(Amended on November 3, 2014) 
+
+§8. Selection of Underlying Stocks 
+
+(1) “Those stocks that are specified in the Enforcement Rules” in [§22(1)1] of the Regulation 
+shall be the stocks that are selected by the Exchange (hereinafter referred to as the “underlying 
+stocks”) from among the stocks that fall under each of the following subparagraphs: (Amended 
+on April 5, 2024; November 1, 2024) 
+
+1. Constituent stocks of KOSPI 200: 
+2. Constituent stocks of the KOSDAQ 150; or (Amended on April 9, 2026) 
+3. In addition, stocks recognized by the Exchange as equivalent to those in subparagraphs 1 
+
+or 2 considering trade demand, etc. 
+
+(2) Pursuant to [§22(2)] of the Regulation, the Exchange may select stocks falling under any 
+of the subparagraphs of paragraph (1) as underlying stocks as of the last trading day of June 
+delivery  month  contract  or  December  delivery  month  contract  of  KOSPI200  futures 
+(hereinafter referred to as the “base date for selection of underlying stocks”).   
+
+(3)  In  addition  to  the  selection  of  underlying  stocks  in  accordance  with  paragraph  (2),  the 
+Exchange may, in the case of falling under any of the following subparagraphs, select stocks 
+(in case of subparagraph 2, it is limited to re-listed stocks) falling under any of subparagraphs 
+of paragraph (1) as of a date set by the Exchange separately as underlying stocks:   
+
+1.  In the case where it is deemed necessary, such as rebalancing of constituent stocks of a 
+
+stock price index, trading demand, etc.; or 
+
+2.  In the case where a cause under [§8-2(1)2] occurs.   
+
+(4) Notwithstanding paragraphs (1) through (3), the Exchange may not select stocks that are 
+deemed inappropriate to be selected as underlying stocks in view of market management in 
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+consideration  of  the  business  continuity,  management  stability,  listing  eligibility,  investor 
+protection, etc. of the corporations that issued the stocks. 
+
+(Wholly amended on June 29, 2023) 
+
+§8-2. Exclusion of Underlying Stocks 
+
+(1) Pursuant to [§22(2)] of the Regulation, the Exchange may exclude the stocks that fall under 
+each of the following subparagraphs from underlying stocks as of the base date for the selection 
+of underlying stocks: (Amended on April 5) 
+
+1. Cases that do not fall under any of the subparagraphs of [§8(1)]; (Amended on April 6, 
+2026) 
+
+2. Cases that do not fall under any of the subparagraphs of [§8(1)] due to a listing change, a 
+transfer listing, etc.;   
+
+3. Cases that are designated as administrative issues, or cases where a cause of delisting 
+(including the case of being determined to be subject to the listing maintenance review; the 
+same hereinafter) occurs; and 
+
+4. Other cases where the Exchange deems necessary to exclude from underlying stocks in 
+consideration of market management and investor protection, etc. 
+
+(2) In addition to the exclusion of underlying stocks pursuant to paragraph (1), the Exchange 
+may, in the case of any event falling under any of the subparagraphs of paragraph (1), exclude 
+the stocks to which the relevant event has occurred as of a date determined by the Exchange 
+separately from underlying stocks. 
+
+(3)  Notwithstanding  paragraphs  (1)  and  (2),  the  Exchange  may  maintain  stocks  deemed 
+inappropriate to be excluded from underlying stocks for market management in consideration 
+of trading demand, investor protection, etc. as underlying stocks. 
+
+(Wholly amended on June 29, 2023) 
+
+§8-3. [Deleted on June 29, 2023] 
+
+§8-4. Delivery Months, etc. 
+
+(1) Pursuant to [§24] of the Regulation, the delivery months of single stock futures shall be 
+every month. [March 13, 2017] 
+
+(2) Pursuant to [§24] of the Regulation, the total number of delivery months of single stock 
+futures shall be six (6) in total - two (2) form the non-quarterly months and four (4) from the 
+quarterly months. (Amended on October 28, 2015; April 5, 2024) 
+
+(3) The  trading  periods  of  delivery  months  of  single  stock  futures  pursuant  to  [§24]  of  the 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regulation shall be the periods classified in each of the following subparagraphs: (Amended 
+on October 28, 2015; April 5, 2024) 
+
+1. For the contracts in non-quarterly months, three (3) months; and 
+
+2. For the contracts in quarterly months, one (1) year. 
+
+3. [Deleted on April 5, 2024] 
+
+4. [Deleted on April 5, 2024] 
+
+[August 28, 2014] 
+
+§8-5. Multipliers 
+
+Pursuant to [§25(1)] of the Regulation, the multiplier of single stock futures shall be set at 10. 
+[March 13, 2017] 
+
+§9. Adjustment of Multipliers 
+
+(1) Pursuant to the main sentence of [§25(2)] of the Regulation, the multiplier of single stock 
+futures shall be adjusted in  accordance with  the methods specified in  each of the following 
+subparagraphs. In such cases, the adjusted multiplier shall be rounded off at the 9th decimal 
+place. (Amended on August 28, 2014) 
+
+1. In the case of ex-dividend, etc. noted in the main sentence of [§25(2)] of the Regulation, 
+(hereinafter referred to as the “ex-dividend, etc.”): The value calculated using the following 
+calculation method:   
+
+Multiplier  before  adjustment  ×  (Closing  price  of  underlying  stock  on  immediately 
+preceding trading day ÷Adjusted base price of underlying stock) 
+
+2. Additionally, if it is deemed necessary to adjust the multiplier: The value determined by 
+the Exchange for each case 
+
+(2) “Adjusted base price of underlying stock” in paragraph (1) shall, when adjusting the base 
+price of underlying stock pursuant to [§30] of the Enforcement Rules of the KOSPI Market 
+Business  Regulation  or  [§17]  of  the  Enforcement  Rules  of  the  KOSDAQ  Market  Business 
+Regulation  due  to  ex-dividend,  etc.,  into  the  price  other  than  the  closing  price  of  the 
+immediately  preceding  trading  day,  be  the  price  (rounded  off  at  the  9th  decimal  place: 
+hereinafter referred to as “the adjusted base price of underlying stock”) determined by applying 
+the calculation method for the corresponding base price . (Amended on August 21, 2009; July 
+8, 2013; August 28, 2014; November 3, 2014; December 24, 2014; July 3, 2015; May 29, 2025) 
+
+(3) Notwithstanding paragraph (2), when it is deemed necessary for market management, the 
+Exchange may change the adjusted base prices of underlying stocks. 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§10. Adjustment of Quantity of Open Interests 
+
+Pursuant to [§25(3)] of the Regulation, the number of open interests of  single stock futures 
+shall be adjusted according to the method specified in each of the following subparagraphs:   
+(Amended on August 28, 2014; July 3, 2015) 
+
+1.  In  cases  where  the  underlying  stock  splits  up  in  the  integral  multiples:  The  quantity 
+resulting  from  multiplying  the  quantity  of  open  interests  of  Single  Stock  Futures  by  the 
+relevant integral multiple; and 
+
+2. Additionally,  in  cases  where  it  is  deemed  necessary  for  the  market  management:  The 
+quantity determined by the Exchange for each case. 
+
+§10-2. Quotation Price Unit 
+
+Pursuant to [§25(4)] of the Regulation, quotation price units of single stock futures shall be 
+prices classified in each of the following subparagraphs: (Amended on December 21, 2022) 
+
+1.  In cases where the quotation price is less than KRW 2,000: KRW 1;   
+
+2.  In cases where the quotation price is higher than KRW 2,000, but less than KRW 5,000: 
+
+KRW 5;   
+
+3.  In cases where the quotation price is higher than KRW 5,000, but less than KRW 20,000: 
+
+KRW 10; 
+
+4.  In cases where the quotation price is higher than KRW 20,000, but less than KRW 50,000: 
+
+KRW 50; 
+
+5.  In  cases  where  the  quotation  price  is  higher  than  KRW  50,000,  but  less  than  KRW 
+
+200,000: KRW 100; 
+
+6.  In  cases  where  the  quotation  price  is  higher  than  KRW  200,000,  but  less  than  KRW 
+
+500,000: KRW 500; and 
+
+7.  In cases where the quotation price is higher than KRW 500,000: KRW 1,000. 
+
+[Wholly amended on March 21, 2016] 
+
+§11. Last Trading Day, Final Settlement Day and Final Settlement Price 
+
+(1) The last trading day of single stock futures referred to in [§27(2)] of the Regulation shall 
+be the second Thursday of the delivery month (shall be moved forward sequentially if it is a 
+market holiday) [August 28, 2014] 
+
+(2) The final settlement day of single stock futures referred to in [§27(2)] of the Regulation 
+shall be the trading day following the last trading day. [August 28, 2014] 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3) The final settlement price of single stock futures referred to in [§27(2)] of the Regulation 
+shall be the closing price of the underlying stock on the last trading day. Provided that, in cases 
+where there is no such closing price of the underlying stock on the last trading day, it shall be 
+the base price of the underlying stock of the last trading day. [August 28, 2014] 
+
+(4) In the case where any of the following subparagraphs occurs in the underlying stock, the 
+Exchange  shall,  notwithstanding  paragraph  (1),  change  the  last  trading  day  of  single  stock 
+futures  of  the  relevant  underlying  stock  in  accordance  with  the  provision  of  the  relevant 
+subparagraph. Provided, the single stock futures for an underlying stock for which the reasons 
+in subparagraphs 1 and 3 occur from the close of the market on the trading day immediately 
+preceding the last trading day to within the last trading day are excluded: (Amended on July 3, 
+2015; April 5, 2024; May 29, 2025) 
+
+1. In cases where trading is suspended due to the occurrence of reasons for delisting: The 
+last trading date of all single stock futures contracts based on an underlying stock is changed 
+to the trading day on which trading of the underlying stock is resumed; (Amended on May 
+29, 2025) 
+
+2.  In  cases  where  trading  is  suspended  for  electronic  registration  of  new,  changed,  or 
+cancelled underlying stocks subsequent to the decision on corporate spin-off, merger and 
+capital reduction (referring to cases where paid-in capital is reduced due to reverse stock-
+split or stock retirement for stocks held by minority shareholders), stock swap or transfer 
+(referring to the case of delisting of underlying stocks due to stock swap or transfer), etc.: 
+The last trading day of  all single stock futures contracts based on an underlying stock is 
+changed to the trading day immediately preceding the trading day on which trading of the 
+underlying stock is suspended; (Amended on May 29, 2025) 
+
+3. In cases where the trading is suspended due to the designation of administrative issue, 
+investment  risk issue, investment  alert  issue, and unfaithful disclosure corporation, stock 
+split and reverse stock split (referring to cases where paid-in capital is not reduced), request 
+for inquired disclosure, etc.: The last trading day of single stock futures contracts of which 
+the last trading day arrives during the period of trading suspension of an underlying stock is 
+changed to the trading day on which trading of the underlying stock is resumed; (Amended 
+on May 29, 2025)   
+
+4. In cases where an underlying stock is excluded pursuant to [§8-2(1)]: The last trading day 
+of far month contract is changed to the second Thursday of the delivery month separately 
+announce by the Exchange (if it is a holiday, it is sequentially brough forward); and 
+
+5. In other cases where the Exchange deems it necessary for market management: Changed 
+to a trading day determined by the Exchange for each case. (Amended on May 29, 2025) 
+
+(5)  In  cases  where  the  last  trading  day  of  single  stock  futures  is  changed  pursuant  to  each 
+subparagraph in paragraph (4), the first trading day of new delivery month shall be the first 
+trading day after the changed last trading day. Provided that, in the case of underlying stock 
+that uses the first execution price as the base price, the trading day next to the trading day of 
+determining the first price of the relevant stock shall be the first trading day of the new delivery 
+month. (Amended on August 21, 2009; July 8, 2013; August 28, 2014; May 29, 2025) 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(6) Notwithstanding paragraphs (4)1 through (4)4, when it is deemed necessary for the market 
+management,  the  Exchange  may  change  the  last  trading  day  to  the  trading  day  other  than 
+trading days specified in paragraphs (4)1 through (4)4. (Amended on August 28, 2014; May 
+29, 2025) 
+
+§12. [Deleted on August 28, 2014] 
+
+Section 5. Trading of Single Stock Options 
+(Amended on November 3, 2014) 
+
+§13. Selection Criteria for Underlying Stocks 
+
+(1)  “Underlying  stocks  stipulated  in  [§28(1)]  of  the  Regulation”  shall  refer  to  the  stocks 
+selected by the Exchange from among those falling under any of each subparagraph of [§8(1)]. 
+
+(2) Pursuant to [§28(2)] of the Regulation, [§8(2) through (4)] shall apply mutatis mutandis to 
+the selection of the underlying stocks for single stock options and [§82] shall apply mutatis 
+mutandis to the exclusion from the underlying stocks for single stock options.   
+
+(Wholly amended on June 29, 2023) 
+
+§13-2. Expiration Months, etc. 
+
+(1) Pursuant to [§30(1)] of the Regulation, the  expiration months of volatility index futures 
+shall be every month. [March 13, 2017] 
+
+(2) Pursuant to [§30(1)] of the Regulation, the number of expiration months of  single stock 
+options  shall  be  six  (6)  in  total  -four  (4)  from  the  quarterly  months  and  two  (2)  from  non-
+quarterly months. (Amended on March 13, 2017; August 17, 2018) 
+
+(2)  Pursuant  to  [§30(1)]  of  the  Regulation,  the  trading  periods  of  each  expiration  month  of 
+single  stock  options  shall  be 
+the  following 
+subparagraphs:(Amended on March 13, 2017; August 17, 2018) 
+
+the  periods  classified 
+
+in  each  of 
+
+1. For the non-quarterly month contracts, three (3) months; and 
+
+2. For the quarterly month contracts, one (1) year. 
+
+3. [Deleted on August 17, 2018] 
+
+4. [Deleted on August 17, 2018] 
+
+[November 3, 2014] 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§14. Establishment of Exercise Prices 
+
+(1) Pursuant to [§30(3)] of the Regulation, the number of exercise prices of each delivery month 
+of single stock options shall be at least the number in the following subparagraphs. In this case, 
+the  exercise  price  adjusted  pursuant  to  [§15(1)  and  (2)]  is  not  included  in  the  number. 
+(Amended on April 5, 2024) 
+
+1. For the nearest month contract through the third nearest month contract: Nine (9). In this 
+case, it consists of the at-the -money price (if there is an ex-dividend, etc., the base price of 
+an underlying asset of the immediately preceding trading day shall be the adjusted base price 
+of underlying stock; hereinafter the same in this Article) and each four (4) prices above and 
+below the at-the-money price; and (Amended on May 29, 2025) 
+
+2. For the fourth nearest month contract through the sixth nearest month contract: Three (3). 
+In this case, it consists of the at-the -money price and each one (1) price above and below 
+the at-the-money price. 
+
+(2) Pursuant to [§30(3)] of the Regulation, on the first trading day of each single stock options 
+contract, an at-the-money exercise price and upper and lower exercise prices consecutive to the 
+at-the-money  exercise  price  shall  be  set  until  they  reach  the  upper  and  lower  limits  of  the 
+exercise price setting range (referring to the upper and lower ranges set according to Appendix 
+2;  hereinafter  the  same  in  this Article),  using  the  price  specified  in  each  of  the  following 
+subparagraphs as the exercise price unit. Provided that the exercise price units of the nearest 
+fourth month contract through the nearest sixth month contract shall be four (4) times the price 
+determined in the following subparagraphs: (Amended on August 17, 2018; April 5, 2024) 
+
+1. In cases where the exercise price is less than KRW 5,000: KRW 100;   
+
+2. In cases where the exercise price is KRW 5,000 or higher, but less than KRW 10,000: 
+KRW 200; 
+
+3. In cases where the exercise price is KRW 10,000 or higher, but less than KRW 20,000: 
+KRW 500;   
+
+4. In cases where the exercise price is KRW 20,000 or higher, but less than KRW 50,000: 
+KRW 1,000;   
+
+5. In cases where the exercise price is KRW 50,000 or higher, but less than KRW 100,000: 
+KRW 2,000;   
+
+6. In cases where the exercise price is KRW 100,000 or higher, but less than KRW 200,000: 
+KRW 5,000;   
+
+7. In cases where the exercise price is KRW 200,000 or higher, but less than KRW 500,000: 
+KRW 10,000;   
+
+8. In cases where the exercise price is KRW 500,000 or higher, but less than KRW 1,000,000: 
+KRW 20,000; and   
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9. In cases where the exercise price is KRW 1,000,000 or higher: KRW 50,000.   
+
+(3)  Pursuant  to  [§30(3)]  of  the  Regulation,  if,  based  on  the  exercise  price  unit  pursuant  to 
+paragraph 2, there is a trading day with an exercise price that is not set, among the at-the-money 
+exercise price and other consecutive exercise prices that are up or down from the at-the-money 
+exercise price to the upper and lower limits of the exercise price setting range, after the next 
+trading day following the first trading day of each single stock options contract, the exercise 
+price that is not set shall be set additionally. (Amended on November 3, 2014; August 17, 2018; 
+April 5, 2024) 
+
+(4) If the number of exercise prices does not meet the criteria under any of subparagraphs of 
+paragraph (1) even though the exercise prices for each stock options contract are set according 
+to  paragraph  (2)  or  (3),  exercise  price  shall  be  additionally  set  according  to  the  method  in 
+paragraph (2) or (3) until the criteria are met. In this case, the exercise price setting range shall 
+not apply. [April 5, 2024] (Previous paragraph (4) moved to paragraph (5) on April 5, 2024) 
+
+(5)  Notwithstanding  paragraphs  (1)  through  (4),  when  it  is  deemed  necessary  for  market 
+management, the Exchange may change the number of exercise prices and exercise price units. 
+(Amended on November 3, 2014; April 5, 2024) (Moved from paragraph (4) on April 5, 2024) 
+
+§15. Adjustment of Exercise Price   
+
+(1)  Pursuant  to  [§30(3)]  of  the  Regulation,  on  trading  days  when  the  base  prices  of  an 
+underlying  stocks  are  adjusted  due  to  ex-dividend,  etc.,  the  exercise  prices  of  the  relevant 
+underlying stocks shall be adjusted. [November 3, 2014] (Amended on May 29, 2025) 
+
+(2) Pursuant to paragraph (1), the exercise prices of single stock options shall be adjusted in 
+accordance with the methods noted in each of the following subparagraphs. In such cases, the 
+exercise prices shall be rounded off at the 9th decimal place: (Amended on November 3, 2014) 
+
+1. In the case of going ex-dividend, etc., the price calculated by using the following formula:   
+
+Exercise price before adjustment × (Adjusted base price of underlying stock ÷ Closing price 
+of  underlying  stock  on  immediately  preceding  trading  day)  (Amended  on  November  3, 
+2014; May 29, 2025) 
+
+2.  Other  cases  where  it  is  deemed  necessary  to  adjust  the  exercise  price:  The  price 
+determined by the Exchange in each case. 
+
+(3) Notwithstanding the latter part of paragraph (2) other than each subparagraph, the adjusted 
+exercise prices of single stock options shall be rounded off at the unit of KRW 10 and expressed 
+in the unit of KRW 100. In such cases, if there are exercise prices that are expressed identically, 
+such exercise prices shall be expressed after sequentially rounding off at the unit of KRW 1 
+and  the  1st  decimal  place,  etc.  until  the  different  exercise  prices  are  attained.  (Amended  on 
+November 3, 2014) 
+
+(4) For the exercise price adjusted according to paragraphs (1) and (2), the exercise prices shall 
+not be established additionally. [November 3, 2014] 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§15-2. Multipliers 
+
+Pursuant to [§35(1)] of the Regulation, the multiplier of single stock options shall be set at 10. 
+[March 13, 2017] 
+
+§16. Adjustment of Multipliers 
+
+Pursuant  to  the  main  sentence  of  [§35(2)]  of  the  Regulation,  the  multiplier  of  single  stock 
+options shall be adjusted by applying each subparagraph of [§9(1)] mutatis mutandis. In such 
+cases, the multiplier being adjusted shall be rounded off at the 9th decimal place. (Amended on 
+November 3. 2014) 
+
+§17. Adjustment of Quantity of Open Interests 
+
+Pursuant to [§35(3)] of the Regulation, the number of open interests of single stock options 
+shall  be  adjusted  by  applying  each  subparagraph  of  [§10]  mutatis  mutandis.  (Amended  on 
+November 3, 2014) 
+
+§18. Special Setting of Exercise Price 
+
+(1)  Pursuant  to  [§35(4)]  of  the  Regulation,  special  setting  of  exercise  price  of  single  stock 
+options on the trading day of ex-dividend, etc. and the additional setting of exercise price from 
+the trading day following the special setting day shall be conducted by applying [§14] mutatis 
+mutandis. (Amended on April 5, 2024; May 29, 2025) 
+
+(2) [Deleted on April 5, 2024] 
+
+(Wholly amended on November 3, 2014) 
+
+§18-2. Quotation Price Units 
+
+Pursuant to [§35(5)] of the Regulation, the quotation price units of single stock options shall 
+be as noted in each of the followings: 
+
+1. For the quotation prices less than KRW 1,000: KRW 10; 
+2. For the quotation prices higher than KRW 1,000, but less than KRW 2,000: KRW 20; 
+3.For the quotation prices higher than KRW 2,000, but less than KRW 5,000: KRW 50; 
+4. For the quotation prices higher than KRW 5,000, but less than KRW 10,000: KRW 100; 
+and 
+5. For the quotation prices higher than KRW 10,000: KRW 200. 
+
+[November 3, 2014] 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§19. Last Trading Day, Exercise Settlement Day and Base Price for Exercise Settlement, etc. 
+
+(1) Pursuant to [§37(2)] of the Regulation, the last trading day of single stock options shall be 
+the second Thursday of the expiration month (it shall be moved forward sequentially if it falls 
+on a market holiday). (Amended on November 3, 2014) 
+
+(2) Pursuant to [§37(2)] of the Regulation, the type of options exercise of single stock options 
+shall be the type where options can be exercised only on the last trading day. [November 3, 
+2014] 
+
+(3) Pursuant to [§37(2)] of the Regulation, the option exercise settlement day of single stock 
+options shall be the trading day following the option exercise day. [November 3, 2014] 
+
+(4) Pursuant to [§37(2)] of the Regulation, the base price for option exercise settlement of shall 
+the closing price of underlying stock on the option exercise day. Provided that, in cases where 
+there is no closing price of underlying stock on the option exercise day, it shall be the base 
+price for underlying stock on the option exercise day. [November 3, 2014] 
+
+(5) Notwithstanding paragraph (1), when it is deemed necessary for the market management, 
+including the case of suspending the trading of underlying stocks, the Exchange may change 
+the last trading day and the first trading day of single stock options by applying [§11(4) through 
+(6)] of the Regulation mutatis mutandis. [November 3, 2014] 
+
+(Wholly amended on November 3, 2014) 
+
+§20. [Deleted on November 3, 2014] 
+
+Section 6. Trading of ETF Futures 
+[June 15, 2017] 
+
+§20-2. Underlying Assets 
+
+(1) “ETFs that are specified in the Enforcement Rules” in [§37-2] of the Regulation shall refer 
+to the ETFs that are set forth in [Annex 1-4] (hereinafter referred to as the “underlying ETFs”) 
+taking into account such factors as market capitalization, etc. from among the ETFs that meet 
+all  of  the  requirements  noted  in  each  of  the  following  subparagraphs  (referring  to  the  EFT 
+securities under subparagraph 3 of [§99] of the KOSPI Market Listing Regulation; the same 
+hereinafter) as of the base date for selection of underlying ETFs. (Amended on March 15, 2018) 
+
+1. It shall be listed on the stock markets. Provided that the ETFs that are not eligible to be 
+substitute securities pursuant to the KOSPI Market Business Regulation shall be excluded; 
+
+2.  The  number  of  times  designated  as  an  administrative  issue  pursuant  to  [§115]  of  the 
+KOSPI  Market  Listing  Regulation  within  the  thirty-six  (36)  months  retroactive  from  the 
+month immediately preceding the month in which the base date for selection of underlying 
+25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ETFs falls (referred to as the “latest month” hereinafter in this Article) shall be one (1) or 
+less; 
+
+3. The number of units issued shall be one million (1,000,000) or more; and 
+
+4. The annual trading value in the stock markets shall be KRW 50 billion or more. 
+
+(2)  The  market  capitalization  noted  in  paragraph  (1)  shall  be  the  average  monthly  market 
+capitalization for twelve (12) months retroactive from the immediately preceding month. In 
+such cases, the market capitalization of each month shall be the amount obtained by multiplying 
+the closing prices of ETFs on the last trading day (referring to trading day of the stock market) 
+of each month by the number of units issued. (Amended on May 29, 2025) 
+
+(3) The annual trading value noted in paragraph (1)4 shall be the trading value for the twelve 
+(12) months retroactive from the latest month. In such cases, the trading value of an ETF that 
+was listed during that period shall be calculated by converting the trading value after the listing 
+date into the trading value of twelve (12) months. 
+
+[June 15, 2017] 
+
+§20-3. Delivery Months, etc. 
+
+(1) The delivery months of ETF futures pursuant to in [§37-3] of the Regulation shall be the 
+quarterly months.   
+
+(2) The number of delivery months of ETF futures pursuant to in [§37-3] of the Regulation 
+shall be four (4). 
+
+(3) The trading period of each delivery month of ETFs futures pursuant to in [§37-3] of the 
+Regulation shall be one (1) year. 
+
+[June 15, 2017] 
+
+§20-4. Multipliers and Quotation Price Units 
+
+(1) The multiplier of ETF futures pursuant to in [§37-4(1)] of the Regulation shall be set at 100.   
+
+(2) The quotation price unit of ETF futures pursuant to [§37-4(4)] of the Regulation shall be 
+the price in each of the following subparagraphs: (Amended on November 24, 2023) 
+
+1. In cases where the quotation price is less than KRW 2,000: KRW 1; and 
+
+2. In cases where the quotation price is KRW 2,000 or higher: KRW 5; 
+
+[June 15, 2017] 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§20-5. Last Trading Day, Final Settlement Day and Final Settlement Price 
+
+(1) The last trading day of ETF futures noted in [§37-5(2)] of the Regulation shall be the second 
+Thursday  of  the  delivery  month  (if  it  falls  on  a  market  holiday,  it  shall  be  moved  forward 
+sequentially). 
+
+(2) The final settlement day of ETF futures noted in [§37-5(2)] of the Regulation shall be the 
+trading day following the last trading day. 
+
+(3) The final settlement price of ETF futures noted in [§37-5(2)] of the Regulation shall be the 
+closing price of the underlying ETF on the last trading day. Provided that, in cases where there 
+is no such closing price of the underlying ETF on the last trading day, it shall be the base price 
+of the underlying ETF of the last trading day. 
+
+(4)  In  the  case  of  falling  under  each  of  the  following  subparagraphs,  the  Exchange  shall, 
+notwithstanding paragraph (1), change the last trading day of ETF futures to the trading day 
+set forth in the applicable subparagraph: (Amended on May 29, 2025) 
+
+1. In cases where an underlying EFT is delisted and the last trading day of the ETF futures 
+underlying the relevant ETF arrives after two (2) business days immediately preceding the 
+delisting date: The two (2) business days immediately preceding the delisting date of the 
+underlying ETF; and (Amended on May 29, 2025) 
+
+2.  In  other  cases  where  the  Exchange  deems  it  necessary  for  market  management:  The 
+trading day determined by the Exchange for each case. (Amended on May 29, 2025) 
+
+[June 15, 2017] 
+
+CHAPTER 3. TRADING OF INTEREST RATE FUTURES 
+(Amended on August 28, 2014) 
+
+Section 1. KTB Futures 
+[February 16, 2022] 
+
+§20-6. Underlying Assets and Trading Units 
+
+(1) “Deliverable grade KTBs specified in the Enforcement Rules” in [§38(1)] of the Regulation 
+shall refer to the deliverable grade KTBs classified in each of the following subparagraphs: 
+(Amended on February 5, 2024) 
+
+1.  For  3-year  KTB  futures:  Deliverable  grade  KTBs  with  a  face  value  of  KRW  100,  a 
+maturity  of  3  years,  a  coupon  rate  of  5  percent  per  annum,  and  interest-payments  on  a 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+semiannual basis; 
+
+2.  For  5-year  KTB  futures:  Deliverable  grade  KTBs  with  a  face  value  of  KRW  100,  a 
+maturity  of  5  years,  a  coupon  rate  of  5  percent  per  annum,  and  interest-payments  on  a 
+semiannual basis;   
+
+3.  For  10-year  KTB  futures:  Deliverable  grade  KTBs  with  a  face  value  of  KRW  100,  a 
+maturity  of  10  years,  a  coupon  rate  of  5  percent  per  annum,  and  interest-payments  on  a 
+semiannual basis; and 
+
+4.  For  30-year  KTB  futures:  Deliverable  grade  KTBs  with  a  face  value  of  KRW  100,  a 
+maturity  of  30  years,  a  coupon  rate  of  5  percent  per  annum,  and  interest-payments  on  a 
+semiannual basis. 
+
+(2) Pursuant to [§38(2)] of the Regulation, the trading unit of KTB futures shall be face value 
+of KRW 100 million. 
+
+[March 13, 2017] 
+
+§20-7. Delivery Months, etc. 
+
+(1)  Pursuant  to  [§39]  of  the  Regulation,  the  delivery  months  of  KTB  futures  shall  be  the 
+quarterly months. [March 13, 2017] 
+
+(2) Pursuant to [§39] of the Regulation, the number of delivery months of KTB futures shall 
+be two (2). (Amended on March 13, 2017) 
+
+(3)  Pursuant  to  [§39]  of  the  Regulation,  the  trading  period  of  each  delivery  month  of  KTB 
+futures shall be six (6) months. (Amended on March 13, 2017) 
+
+[August 28, 2014] 
+
+§20-8. Multipliers, Quotation Price Units and Methods of Quoting Prices 
+
+(1) Pursuant to [§40] of the Regulation, the multiplier of KTB futures shall be one (1) million. 
+[March 13, 2017] 
+
+(2) Pursuant to [§40] of the Regulation, the quotation price unit of KTB futures shall be each 
+of the following subparagraphs: (Amended on February 5, 2024) 
+
+1.  For 3-year KTB futures, 5-year KTB futures, and 10-year KTB futures: 0.01; and 
+
+2.  For 30-year KTB futures: 0.02. 
+
+(3) Pursuant to [§40] of the Regulation, the prices of KTB futures shall be quoted in Korean 
+currency per face value of KRW 100. (Amended on March 13, 2017) 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[August 28, 2014] 
+
+§20-9. Last Trading Day, Final Settlement Day, Final Settlement Price, etc. 
+
+(1) Pursuant to [§42(2)] of the Regulation, the last trading day of KTB futures shall be the third 
+Tuesday of the delivery month (it shall be moved forward sequentially, if it is a market holiday) 
+(Amended on March 13, 2017) 
+
+(2) Pursuant to [§42(2)] of the Regulation, the final settlement day of KTB futures shall be the 
+trading day following the last trading day. (Amended on March 13, 2017) 
+
+(3) Pursuant to [§42(2)] of the Regulation, the final settlement price of KTB futures shall be 
+the amount calculated (to be rounded off at the third decimal place) according to each of the 
+following  subparagraphs.  In  such  cases,  “r”  in  the  formula  in  each  of  the  following 
+subparagraphs shall be the settlement yield of the underlying basket bonds for final settlement. 
+(Amended on March 13, 2017; February 5, 2024) 
+
+1. For 3-year KTB futures: 
+
+2. For 5-year KTB futures: 
+
+  3. For 10-year KTB futures: 
+
+  4. For 30-year KTB futures: 
+
+60
+
+Final settlement price  = ∑
+
+𝑖=1
+
+5/2
+(1 + 𝑟/2)𝑖
+
++
+
+100
+(1 + 𝑟/2)60 
+
+(4) The underlying basket bonds for final settlement in the latter part of paragraph (3) shall be 
+the KTBs paying interests on a semiannual basis, which the Exchange designates on the trading 
+day immediately preceding the first trading day of the relevant delivery month. (Amended on 
+May 29, 2025) 
+
+(5) The settlement yield in the latter part of paragraph (3) shall be determined by averaging the 
+yields of underlying basket bonds in each of following subparagraphs, which are published by 
+the Korea Financial Investment Association and rounded off at the 4th decimal place. In such 
+cases, if there is more than one underlying basket bonds for final settlement, the yield shall be 
+the average of yields of those underlying basket bonds for final settlement, which is rounded 
+off at the 4th decimal place. 
+
+29 
+
+661)2/1(100)2/1(2/5 price settlement Finalrrii+++==10101)2/1(100)2/1(2/5 price settlement Finalrrii+++==20201)2/1(100)2/1(2/5 price settlement Finalrrii+++== 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. The yields as at 11:30 hours on the last trading day; and 
+
+2.  The  yields  as  at  10:00  hours,  10:30  hours  and  11:00  hours  on  the  last  trading  day, 
+excluding the highest and lowest values. 
+
+[August 28, 2014. 2014] 
+
+§21. ~ §25. [Deleted on October 20, 2010] 
+
+Section 2. Short-term Interest Rate Futures 
+[February 16, 2022] 
+
+§25-2. Underlying Assets and Trading Units 
+
+(1) The “interest rate specified in the Enforcement Rules” in [§43-2(1)] of the Regulation shall, 
+in the case of 3-month risk free benchmark interest rate, refer to the interest rate obtained by 
+compounding for 3 months (hereinafter referred to as the “KOFR 3-month compound interest 
+rate”) the Korea risk free interest rate (hereinafter referred to as the “benchmark interest rate”, 
+which  is  expressed  as  percentage  and  replaced  with  an  interest  rate  if  the  Korea  Securities 
+Depository publishes the substitute interest rate) produced by the Korea Securities Depository 
+(hereinafter referred to as the “KSD”).   
+
+(2) Pursuant to [§43-2(2)] of the Regulation, the trading unit of 3-month risk free benchmark 
+interest rate futures shall be KRW 1 billion. 
+
+[February 16, 2022] 
+
+§25-3. Delivery Months, etc. 
+
+(1) Pursuant to [§43-3] of the Regulation, the delivery months of 3-month risk free benchmark 
+interest rate futures shall be every month. 
+
+(2) Pursuant to [§43-3] of the Regulation, the number of delivery months of 3-month risk free 
+benchmark interest rate futures shall be eight (8) in total - four (4) from non-quarterly months 
+and four (4) from quarterly months. 
+
+(3) Pursuant to [§43-3] of the Regulation, the trading periods of each delivery month of the 3-
+month risk free benchmark interest rate futures shall be six (6) months for non-quarterly 
+month contracts and one (1) year for quarterly month contracts. 
+
+[February 16, 2022] 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§25-4. Multipliers, Quotation Price Units and Methods of Quoting Prices 
+
+(1) Pursuant to [§43-4] of the Regulation, the multipliers of 3-month risk free benchmark 
+interest rate futures shall be 2.5 million. 
+
+(2) Pursuant to [§43-4] of the Regulation, the quotation price unit of 3-month risk free 
+benchmark interest rate futures shall be 0.005. 
+
+(3) Pursuant to [§43-4] of the Regulation, the price of 3-month risk free benchmark interest 
+rate futures is expressed as 100 minus the KOFR 3-month compound interest rate. 
+
+§25-5. Last Trading Day, Final Settlement Day and Final Settlement Price, etc. 
+
+(1)  Pursuant  to  [§43-5(2)]  of  the  Regulation,  the  last  trading  day  of  3-month  risk  free 
+benchmark  interest  rate  futures  shall  be  the  business  day  immediately  preceding  the  third 
+Wednesday of the delivery month. (Amended on May 29, 2025) 
+
+(2)  Pursuant  to  [§43-5(2)]  of  the  Regulation,  the  final  settlement  day  of  3-month  risk  free 
+benchmark interest rate futures shall be the third business day counting from last trading day. 
+(Amended on May 29, 2025) 
+
+(3) Pursuant  to  [§43-5(2)] of the Regulation, the final  settlement  price of  3-month risk free 
+benchmark interest rate futures shall be 100 minus the KOFR 3-month compound interest rate 
+calculated according to the formula below. The KOFR 3-month compound interest rate shall 
+be  calculated  using  the  fixed  benchmark  interest  rate  corresponding  to  the  reference  period 
+(referring  to  the  period  from  the  third  Wednesday  of  the  month  three  months  before  the 
+settlement month to the third Wednesday of the settlement month. In this case, the first day is 
+included and the last day is excluded) and rounded to the fifth decimal place. 
+
+KOFR 3-month compound interest rate = 
+
+In such cases, “N” refers to the number of days during the reference period, “
+
+” refers to the 
+
+multiplication of the first term to the xth term of the sequence, “x” refers to the number of base 
+
+dates for calculating the benchmark interest rate for the reference period,  “𝑅𝑖” refers to the 
+
+benchmark interest  rate by base date for calculation, and  “𝑑𝑖” refers to the number of days   
+
+  applied to the benchmark interest rate by base date for calculation. 
+
+[February 16, 2022] 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER 4. TRADING OF CURRENCY DERIVATIVES 
+(Amended on August 28, 2014) 
+
+Section 1. Currency Futures 
+[November 3, 2014] 
+
+§25-6. Underlying Assets and Trading Units 
+
+(1) The “foreign currencies specified in the Enforcement Rules” in [§44(1)] of the Regulation 
+shall refer to US dollar, Japanese Yen, EUR and Chinese Yuan.   
+
+(2)  Pursuant  to  [§44(2)]  of  the  Regulation,  the  trading  units  of  currency  futures  shall  be  as 
+follows: 
+
+1. For USD futures: USD 10,000; 
+
+2. For JPY futures: JPY 1,000,000; 
+
+3. For EUR futures: EUR 10,000; and 
+
+4. For CNY futures: CNY 100,000. 
+
+[March 13, 2017] 
+
+§25-7. Delivery Months, etc. 
+
+(1) Pursuant to [§45] of the Regulation, the delivery months of currency futures shall be every 
+month. [March 13, 2017] 
+
+(2)  Pursuant  to  [§45] of the Regulation,  the number of  delivery months of currency futures 
+shall be as follows: (Amended on June 20, 2016; March 13, 2017) 
+
+1. For USD futures: Twenty (20) in total -eight (8) from non-quarterly months and twelve 
+(12) form quarterly months; and 
+
+2. For JPY futures, EUR futures and CNY futures: Eight (8) in total -four (4) from non-
+quarterly months and four (4) form quarterly months. 
+
+(3) Pursuant to [§45] of the Regulation, the trading periods of each delivery month of currency 
+futures shall be as follows: (Amended on June 20, 2016; March 13, 2017) 
+
+1. For USD futures, the periods classified in each of the following items:   
+
+(a)For non-quarterly month contracts: One (1) year; and 
+(b)For quarterly month contracts: Three (3) years. 
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  For  JPY  futures,  EUR  futures  and  CNY  futures,  the  periods  classified  in  each  of  the 
+following items:   
+
+(a)For non-quarterly month contracts: Six (6) months; and 
+(b)For quarterly month contracts: One (1) year. 
+
+[August 28, 2014] 
+
+§25-8. Multipliers, Quotation Price Units and Methods of Quoting Prices 
+
+(1) Pursuant to [§46] of the Regulation, the multipliers of currency futures shall be as follows: 
+[March 13, 2017] 
+
+1. For USD futures, JPY futures and EUR futures: 10,000; and 
+2. For CNY futures: 100,000. 
+
+(2) Pursuant to [§46] of the Regulation, the quotation price unit of currency futures shall be 
+0.10. Provided that, in the case of CNY futures, it shall be 0.01. (Amended on September 16, 
+2015; March 13, 2017) 
+
+(3) Pursuant to [§46] of the Regulation, the prices of currency futures shall be quoted by the 
+methods classified in each of the following subparagraphs: (Amended on September 16, 2015; 
+March 13, 2017) 
+
+1. For USD futures: Korean Won per USD 1;   
+2. For JPY futures: Korean Won per JPY 100;   
+3. For EUR futures: Korean Won per EUR 1; and 
+4. For CNY futures: Korean Won per CNY 1. 
+
+[August 28, 2014] 
+
+§25-9. Last Trading Day, Final Settlement Day and Final Settlement Price, etc. 
+
+(1) Pursuant to [§48(2)] of the Regulation, the last trading day of currency futures shall be the 
+third Monday of the  delivery month (it shall be moved forward sequentially, if it  falls  on a 
+market holiday) 
+
+(2) Pursuant to [§48(2)] of the Regulation, the final settlement day of currency futures shall be 
+the third trading day counting from last trading day. 
+
+(3) Pursuant to [§48(2)] of the Regulation, the final settlement amount of currency futures shall 
+be calculated by the following formula: 
+
+Final settlement price Final quantity Multiplier 
+
+(4) Pursuant to [§48(2)] of the Regulation, the final settlement price of currency futures shall 
+be the settlement price on the last trading day. 
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[August 28, 2014] 
+
+§26. [Deleted on August 21, 2009] 
+
+§27. Notification of Details of Delivery and Receipt 
+
+(1) Pursuant to [§48(3)] of the Regulation, the Exchange shall, after the market closing on the 
+last trading day, notify the clearing members the details of delivery and receipt such as the final 
+settlement quantity of currency futures traded, delivery and receipt amount of currency and the 
+final settlement amount, etc. (Amended on July 8, 2013; August 28, 2014) 
+
+(2) When a clearing member has received the payment and receipt details of currency futures 
+traded from the Exchange pursuant to paragraph (1), such clearing member shall notify non-
+clearing  members  of  the  delivery  and  receipt  details  of  the  relevant  non-clearing  members 
+without delay. (Amended on July 8, 2013)   
+
+§28. Delivery and Receipt of Currency and Settlement Amount 
+
+(1) Pursuant to [§48(3)] of the Regulation, the delivery and receipt of the currency and final 
+settlement  amount  for  the  final  settlement  of  currency  futures  shall  be  accomplished  in  a 
+manner noted in each of the following subparagraphs: (Amended on December 30, 2009; July 
+8, 2013; August 28, 2014) 
+
+1.  The  clearing  member  who  is  obligated  to  deliver  shall  deliver  the  currency  or  final 
+settlement amount to the Exchange by the physical delivery deadline noted in [§109] and 
+the Exchange shall deliver the currency or final settlement amount to the clearing member 
+(referring to the clearing member who has completed the delivery of the currency or final 
+settlement amount that it is required to deliver) to whom they are due pursuant to [§105-2] 
+of the Regulation; and 
+
+2. The designated clearing member and non-clearing member shall deliver the currency or 
+final settlement amount according to [§104(3)] of the Regulation.   
+
+(2) The delivery and receipt of currency pursuant to paragraph (1) shall be accomplished by 
+delivering or receiving the currency through the account with the settlement bank that has been 
+opened for the trade settlement. (Amended on August 28, 2014) 
+
+Section 2. Currency Options 
+[November 3, 2014] 
+
+§28-2. Underlying Assets and Trading Units 
+
+(1) “Foreign currencies specified in the Enforcement Rules” in [§49(1)] of the Regulation shall 
+
+34 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+refer to US dollar.   
+
+(2) Pursuant to [§49(2)] of the Regulation, the trading unit of currency options shall be USD 
+10,000. 
+
+[March 13, 2017] 
+
+§28-3. Expiration Months, etc. 
+
+(1) Pursuant to [§50(1)] of the Regulation, the expiration months of currency options shall be 
+every month. [March 13, 2017] 
+
+(2) Pursuant to [§50(1)] of the Regulation, the number of expiration months of currency options 
+shall be four (4) in total - two (2) from non-quarterly months and two (2) form quarterly months. 
+
+(3)  Pursuant  to  [§50(1)]  of  the  Regulation,  the  trading  period  of  each  expiration  month  of 
+currency options shall be the periods classified in each of the following subparagraphs: 
+
+1. For the non-quarterly month contracts, three (3) months; and 
+
+2. For the quarterly month contracts, six (6) months. 
+
+[August 28, 2014] 
+
+§29. Establishment of Exercise Prices of Currency Options 
+
+(1) Pursuant to [§50(3)] of the Regulation, the number of exercise price of currency options 
+listed on the first trading day of each expiration month shall be seven (7). [August 28, 2014] 
+
+(2) Pursuant to [§50(3)] of the Regulation, there shall be an at-the-money exercise price and 
+each three (3) consecutive exercise prices above and below the at-the-money exercise price on 
+the first trading day of currency options, established using KRW 10 as the exercise price unit. 
+(Amended on August 28, 2014) 
+
+(3) Pursuant to [§50(3)] of the Regulation, when a trading day arrives where each number of 
+exercise prices above and below the at-the-money exercise price is less than three (3) due to 
+the  change  of  the  at-the-money  exercise  price,  additional  exercise  price  shall  be  introduced 
+based on the exercise price unit until each number of exercise prices above and below the at-
+the-money  exercise  price  reaches  to  three  (3)  from  the  highest  or  lowest  exercise  price. 
+(Amended on August 28, 2014; November 3, 2014) 
+
+(4) Notwithstanding paragraphs (1) through (3), when it is deemed necessary for the market 
+management, the Exchange may change the number of exercise price and the exercise price 
+unit. (Amended on August 28, 2014) 
+
+§29-2. [Deleted on August 28, 2014] 
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§29-3. [Deleted on August 28, 2014] 
+
+§29-4. Multipliers, Quotation Price Units and Methods of Quoting Prices 
+
+(1) Pursuant to [§53] of the Regulation, the multiplier of currency options shall be set at 10,000. 
+[March 13, 2017] 
+
+(2) Pursuant to [§53] of the Regulation, the quotation price unit of currency options shall be 
+0.01. (Amended on March 13, 2017) 
+
+(3) Pursuant to [§53] of the Regulation, the prices of currency options shall be quoted in Korean 
+Won. (Amended on March 13, 2017) 
+
+[August 28, 2014] 
+
+§29-5. Last Trading Day, Exercise Settlement Day, Exercise Settlement Price, etc. 
+
+(1) Pursuant to [§55(2)] of the Regulation, the last trading day of currency options shall be the 
+third Monday of the expiration month (it shall be moved forward sequentially if it falls on a 
+market holiday; the same hereinafter in this Paragraph). Provided that, if the third Monday of 
+the settlement month is a non-business day of the Seoul Money Brokerage Service, the last 
+trading day shall be changed to the day classified in each of following subparagraphs: 
+
+1. In cases where it was non-business day before the first trading day of the relevant contract: 
+The previous trading day of the third Monday of the expiration month; and 
+
+2.  In  cases  where  it  become  non-business  day  after  the  first  trading  day  of  the  relevant 
+contract: The business day following the third Monday of the expiration month. (Amended 
+on May 29, 2025) 
+
+(2)  Pursuant  to  the  provision  of  [§55(2)]  of  the  Regulation,  the  type  of  options  exercise  of 
+currency options shall be the type where options can be exercised only on the last trading day. 
+
+(3) Pursuant to the provision of [§55(2)] of the Regulation, the option exercise settlement day 
+of currency options shall be the business day following the option exercise day. (Amended on 
+May 29, 2025) 
+
+(4)  Pursuant  to  the  provision  of  [§55(2)]  of  the  Regulation,  the  base  prices  for  exercise 
+settlement  of  currency  options  shall  be  the  base  rate  that  the  head  of  a  foreign  exchange 
+brokerage  company  notifies  to  the  Minister  of  Strategy  and  Finance  by  thirty  (30)  minutes 
+before the business opening on the next day pursuant to subparagraph 7 under [§1-2] of the 
+Foreign Exchange Transaction Regulation and [§4-3] of the Enforcement Rules of the Foreign 
+Exchange Transaction Regulation. Provided that, in the case of falling under each of following 
+subparagraphs, the price noted in the relevant subparagraph shall be the base price for exercise 
+settlement: 
+
+1. In cases where there is no base rate noted in the main sentence on the last trading day: 
+The first base rate published by the Seoul Money Brokerage Service on the business day 
+36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+following  the  option  exercise  day  (referring  to  the  business  day  of  the  Seoul  Money 
+Brokerage Service); and 
+
+2. Other cases that are deemed necessary for market management: The prices determined by 
+the Exchange for each case. 
+
+[August 28, 2014] 
+
+CHAPTER 5. TRADING OF COMMODITY FUTURES 
+[August 28, 2014] 
+
+§29-6. Trading Units and Delivery Months, etc. 
+
+(1) Pursuant to [§56(2)] of the Regulation, the trading units of commodity futures shall be as 
+classified in each of the following subparagraphs: [March 13, 2017] 
+
+1. For Gold futures: Weight of 100 grams; and 
+
+2. For Lean Hog futures: Weight of 1,000 kilograms. 
+
+(2) Pursuant  to  [§57] of the Regulation, the delivery months  of commodity futures shall be 
+every month. [March 13, 2017] 
+
+(3) Pursuant to [§57] of the Regulation, the numbers of expiration months of commodity futures 
+shall be as classified in each of the following subparagraphs: (Amended on October 28, 2015; 
+March 13, 2017) 
+
+1. For Gold futures: Seven (7) in total - six (6) from February, April, June, August, October 
+and December (referred as the “even number months” hereinafter in this Article) and one 
+(1)  additional  month  from  the  months  other  than  the  even  months  (referred  as  the  “odd 
+number months” hereinafter in this Article); and 
+
+2. For Lean Hog futures: Six (6) in total - two (2) from the quarterly months and four (4) 
+from the non-quarterly months. 
+
+(4)  Pursuant  to  [§57]  of  the  Regulation,  the  trading  periods  of  each  expiration  month  of 
+commodity futures shall be as classified in each of the following subparagraphs: (Amended on 
+October 28, 2015; March 13, 2017) 
+
+1. For Gold futures: The periods noted in each following item: 
+
+(a) For the contracts in the even number months, one (1) year; and 
+(b) For the contracts in the odd number months, two (2) months. 
+
+2. For Lean Hog futures: Six (6) months. 
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[August 28, 2014] 
+
+§29-7. Multipliers, Quotation Price Units and Methods of Quoting Prices 
+
+(1)  Pursuant  to  [§58]  of  the  Regulation,  the  multipliers  of  commodity  futures  shall  be  the 
+figures classified in each of the following subparagraphs: [March 13, 2017] 
+
+1. For Gold futures: 100; and 
+2. For Lean Hog futures: 1,000. 
+
+(2) Pursuant to [§58] of the Regulation, the quotation price units of commodity futures shall be 
+the  prices  classified  in  each  of  following  subparagraphs:  (Amended  on  October  28,  2015; 
+March 13, 2017) 
+
+1. For Gold futures: KRW 10; and 
+
+2. For Lean Hog futures: KRW 5.   
+
+(2) Pursuant to [§58] of the Regulation, the prices of commodity futures shall be quoted in the 
+manner  classified in  each of the following  subparagraphs:  (Amended on  October 28, 2015; 
+March 13, 2017) 
+
+1. For Gold futures: Korean Won per gram; and 
+
+2. For Lean Hog futures: Korean Won per kilogram.   
+
+[August 28, 2014] 
+
+§30. Last Trading Day 
+
+(1) Pursuant to [§60(2)] of the Regulation, the last trading day of commodity futures shall be 
+the third Wednesday of the delivery month (in cases where it falls on a market holiday, it shall 
+be moved forward sequentially; the same hereinafter in this Article). [August 28, 2014] 
+
+(2) Notwithstanding paragraph (1), in case where the third Wednesday of the delivery month 
+falls on the market holidays specified in [§5(1)6] of the Regulation, the last trading day of Lean 
+Hog  futures  shall  be  changed  to  the  business  day  following  the  relevant  market  holiday. 
+Provided that, if the market holidays specified in [§5(1)6] of the Regulation last longer than six 
+(6) consecutive days counting from the third Wednesday of the delivery month, it shall be the 
+sixth market holiday. (Amended on October 28, 2015; May 29, 2025)) 
+
+(3) Notwithstanding paragraph (2), when it is deemed necessary for the market administration, 
+the Exchange may not change the last trading day or may change it to a day that is not specified 
+in paragraph (2). (Amended on August 28, 2014; October 28, 2015) 
+
+(4) When changing the last trading day according to paragraphs (2) and (3), the first trading of 
+new delivery month contract shall be the business day following the last trading day. [August 
+28, 2014] (Amended on May 29, 2025) 
+
+38 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§31. [Deleted on August 28, 2014] 
+
+§32. [Deleted on August 28, 2014] 
+
+§32-2. Final Settlement Day and Final Settlement Price, etc. 
+
+(1) Pursuant to [§60(2)] of the Regulation, the final settlement day of commodity futures shall 
+be the day in each of the following subparagraphs: (Amended on October 28, 2015; May 29, 
+2025)) 
+
+1. For Gold futures, the business day following the last trading day; and (Amended on May 
+29, 2025) 
+2.  For  Lean  Hog  futures,  the  third  (3rd)  business  day  counting  from  the  last  trading  day. 
+(Amended on May 29, 2025) 
+
+(2) Notwithstanding paragraph (1)2, in cases where the average daily price of lean hog (referred 
+to the daily price of lean hog pursuant to [§56(1)2] of the Regulation; the same hereinafter) is 
+not published until the business day (the market holidays pursuant to [§5(1)6] of the Regulation 
+shall not apply; the same hereinafter in this Paragraph) following the last trading day, the final 
+settlement day of Lean Hog Futures shall be changed to the business day following the business 
+day on which the average daily price of lean hog is published for the first time after that day. 
+Provided  that,  in  the  cases  where  it  is  deemed  necessary  for  the  market  management,  the 
+Exchange may change the final settlement date to a date that is not noted in the main sentence. 
+(Amended on October 28, 2015; May 29, 2025)) 
+
+(3) [Deleted on October 28, 2015] 
+
+(4)  Pursuant  to  the  provisions  of  [§60(2)]  of  the  Regulation,  the  final  settlement  prices  of 
+commodity futures shall be as classified in each of the following subparagraphs: (Amended on 
+March 12, 2015; October 28, 2015; September 20, 2017) 
+
+1. In the case of gold futures, the last price of gold bullions (referring to the gold bullions 
+with a weight of 1,000 grams; the same hereinafter) on the last trading day in the KRX Gold 
+Market; and     
+
+2. [Deleted on October 28, 2015] 
+
+3. In the case of Lean Hog futures, the average daily price of lean hog published for the first 
+time  after  the  last  trading  day.  Provided  that,  in  the  case  of  falling  under  each  of  the 
+following items, it shall be the price specified in the relevant item: 
+
+(a)  Where  the  final  settlement  day  is  changed  pursuant  to  the  proviso  to  [§30(2)]:  The 
+average daily price of lean hog published first after the last trading day before the change; 
+and 
+
+39 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Where the trading of Lean Hog futures has not been resumed on the last trading day 
+after the trading suspension pursuant to [§76(1)5] of the Regulation: The trading volume 
+weighted  execution price (to be rounded off  at  the 4thdecimal  place) that the Exchange 
+calculates according to the following formula on the basis of execution price (excluding 
+the deemed execution price) established on the last trading day. Provided that, if there is 
+no execution price on the last trading day, it shall be the average daily price of lean hog 
+published on the last trading day. 
+
+Sum of trading amounts of the day of the relevant contract ÷ (Sum of trading volume of 
+the day of the relevant contract Multiplier) 
+
+(5) Notwithstanding the proviso to  paragraph (4)3, if it is deemed necessary for the market 
+administration, the Exchange may change  the final  settlement  price to  the price determined 
+case by case. (Amended on October 28, 2015) 
+
+[August 28, 2014] 
+
+§33. ~ §45. [Deleted on October 28, 2015] 
+
+CHAPTER 6. TRADING OF FUTURES SPREADS 
+(Amended on August 28, 2014) 
+
+§46. Contracts of Intra-product Spreads 
+(Amended on October 30) 
+
+(1) Contracts of intra-product spreads under [§62(1)] of the Regulation shall be the contracts 
+classified in each of the following subparagraphs:(Amended on July 3, 2015; September 16, 
+2015; October 28, 2015; June 20, 2016; June 15, 2017; March 15, 2018; October 30, 2019; 
+July 13, 2021; February 16, 2022; March 14, 2022; November 24, 2023; February 5, 2024; 
+April 5, 2024; November 1, 2024) 
+
+1.  For  3-year  KTB  futures  spreads,  5-year  KTB  futures  spreads,  10-year  KTB  futures 
+spreads,  and  30-year  KTB  futures  spreads:  One  (1)  contract  between  the  nearest  month 
+contract and the farther month contract (referred to as the farther month contract noted in 
+[§62(2)] of the Regulation; the same hereinafter); 
+
+2. [Deleted on April 18, 2025] 
+
+3. For the KRX 300 futures spreads, KOSDAQ Global futures spreads, sector index futures 
+spreads, and ETF futures spreads: Three (3) contracts between the nearest month contract 
+and each of the farther month contracts; 
+
+4. For the 3-months risk free benchmark interest rate futures spreads; Three (3) contracts 
+between the nearest month contract and each of the farther month contracts (limited to 3 
+
+40 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+contracts with the last trading day arriving first); 
+
+5.  For  the  Mini  KOSPI  200  futures  spreads,  V-KOSPI  200  futures  spreads,  single  stock 
+futures spreads, and Lean Hog futures spreads: Five (5) contracts between the nearest month 
+contract and each of the farther month contracts;   
+
+6.  For  the  KOSPI  200  futures  spreads,  KOSDAQ  150  futures  spreads,  and  gold  futures 
+spreads: Six (6) contracts between the nearest month contract and each of the farther month 
+contracts;   
+
+7. For the JPY futures spreads, EUR futures spreads and CNY futures spreads: Seven (7) 
+contracts between the nearest month contract and each of the farther month contracts; 
+
+8. [Deleted on April 5, 2024]   
+
+9. For USD futures spreads: Nineteen (19) contracts between the nearest month contract and 
+each of the farther month contracts. 
+
+(2) Notwithstanding paragraph (1), contracts of intra-product spreads that involve a contract 
+for which trading has not been executed and, from among single stock futures spread contracts, 
+contracts of intra-product spreads of which multiplier of the nearest month contract is different 
+from that of a farther month contract shall be excluded. (Amended on October 30, 2019) 
+
+§46-2. Quotation Price Units and Methods of Quoting Prices 
+
+(1) The quotation price units of intra-product spreads under [§62(5)] of the Regulation shall be 
+the quotation price units of futures products making up the futures spreads. In such cases, the 
+quotation price units of single stock spreads and ETF spreads shall be the lower price among 
+the quotation price units that correspond to the base prices of futures contracts making up the 
+futures spread. (Amended on October 30, 2019; April 6, 2026) 
+
+(2) Pursuant to [§62(5)] of the Regulation, the price of intra-product spreads shall be quoted as 
+zero (0), positive numbers or negative numbers. (Amended on October 30, 2019) 
+
+[August 28, 2014] 
+
+§47. Deemed Execution Price following Execution of Intra-product Spread Trades 
+(Amended on October 30, 2019) 
+
+(1) Pursuant to [§64] of the Regulation, the deemed execution prices of intra-product spread 
+trades  shall  be  the  prices  falling  under  any  of  the  following  subparagraphs:  (Amended  on 
+October 30, 2019; April 5, 2024) 
+
+1. In the case of the nearest month contract: The most recent execution price of the nearest 
+month contract before the execution of the relevant intra-product spread trade. Provided that, 
+in the case where an execution price of intra-product spread trade is determined through the 
+method  of  call  auction,  it  shall  be  the  most  recent  execution  price  of  the  nearest  month 
+contract before starting the quotation receiving hours for call auction under [§64(1)]; and   
+41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. In the case of the farther month contract: The price calculated by adding the execution 
+price of the relevant intra-product spread trade to the deemed execution price of the nearest 
+month contract noted in paragraph (1). Provided that, in the case of interest rate derivatives, 
+it shall be the price obtained by subtracting the execution price of the relevant intra-product 
+spread trade from the deemed execution price of the nearest month contract. 
+
+(2) Notwithstanding paragraph (1), in cases where the deemed execution price of the farther 
+month contract under paragraph (1)2 is higher than the upper limit price under [§56(1)], the 
+deemed execution price of the farther month contract shall be the upper limit price; and in cases 
+where the deemed execution price under paragraph (1)2 is lower than the lower limit  price 
+under [§56(2)], the deemed execution price of the farther month contract shall be the lower 
+limit price. In such cases, the deemed execution price of the nearest month contract shall be the 
+price calculated by subtracting the execution price of the relevant intra-product spread trade 
+from  the  deemed  execution  price  of  the  farther  month  contract  (in  the  case  of  interest  rate 
+products,  it  shall  be  the  price  obtained  by  adding  the  execution  price  of  the  relevant  intra-
+product spread trade to the deemed execution price of the distant month contract). (Amended 
+on October 30, 2019) 
+
+(3) [Deleted on April 5, 2024] 
+
+§47-2. Contracts of Inter-product Spreads 
+
+(1) Contracts  of inter-product  spreads under [§63-2(1)] of the Regulation  shall be the inter-
+KTB futures spread contracts, which are the two (2) contracts between the contracts with the 
+same last trading day of 3-year KTB futures and 10-year KTB futures. 
+
+(2) Notwithstanding paragraph (1), an inter-product spread contract that involves a contract for 
+which trading has not been executed shall be excluded. 
+
+[October 30, 2019] 
+
+§47-3. Classification Methods, etc. of Buying and Selling in Inter-product Spreads 
+
+(1) Pursuant to [§63-2(2)] of the Regulation, buying in an inter-KTB futures spreads shall be a 
+trade in which three (3) contracts of 3-year KTB futures are bought and one (1) contract of 10-
+year KTB futures is sold; and selling shall be a trade in which three (3) contracts of 3-year KTB 
+futures are sold and one (1) contract of 10-year KTB futures is bought.   
+
+(2)  The  prices  of  inter-KTB  futures  spread  under  [§63-2(2)]  of  the  Regulation  shall  be  the 
+prices calculated by the following formula:   
+
+(Price of 3-year KTB futures – Base price of 3-year KTB futures)  Number of 3-year KTB 
+futures contracts ÷ Number of 10-year KTB futures contracts – (Price of 10-year KTB futures 
+– Base price of 10-year KTB futures) 
+
+[October 30, 2019] 
+
+42 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§47-4. Quotation Price Units, etc. of Inter-product Spread Trades 
+
+(1)  The  quotation  price  unit  of  inter-KTB  futures  spread  trades  under  [§63-2(2)]  of  the 
+Regulation shall be 0.01. 
+
+(2) Pursuant to [§63-2(2)] of the Regulation, the price of intra-KTB futures spread trades shall 
+be quoted as zero (0), positive numbers or negative numbers. 
+
+[October 30, 2019] 
+
+§47-5. Deemed Execution Prices, etc. following Execution of Inter-product Spread Trades 
+
+(1)  The  deemed  execution  price  of  intra-KTB  futures  spread  trades  under  [§63-3]  of  the 
+Regulation shall be as specified in each of the following subparagraphs: 
+
+1. In the case of a 3-year KTB futures contract: The base price of the relevant 3-year KTB 
+futures contract; and   
+
+2. In the case of a 10-year KTB futures contract: The price calculated by subtracting the 
+execution price of the relevant intra-product spread trade from the base price of the relevant 
+contract. 
+
+(2) Pursuant to [§63-3] of the Regulation, the deemed execution quantity per contract of the 
+inter-KTB futures spread trades shall be three (3) contracts of 3-year KTB futures and one (1) 
+contract of 10-year KTB futures. 
+
+[October 30, 2019] 
+
+CHAPTER 7. TRADING OF FLEX FUTURES 
+
+§47-6. Underlying Assets, Trading Units and Multipliers, etc. 
+(Amended on October 30, 2019) 
+
+(1) Pursuant to [§64-3(1)] of the Regulation, the underlying assets of FLEX futures shall be 
+US dollar.   
+
+(2)  Pursuant  to  [§64-3(2)]  of  the  Regulation,  with  respect  to  the  trading  units,  multipliers, 
+quotation price units and the methods of quoting prices of FLEX futures, the provisions on 
+USD FLEX futures in [§25-6] and [§25-8] shall apply mutatis mutandis thereto. 
+
+[March 13, 2017] 
+
+§47-7. Last Trading Day, Final Settlement Day and Final Settlement Price, etc. 
+(Amended on October 30, 2019) 
+
+43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1)  Pursuant  to  [§64-5(2)]  of  the  Regulation,  with  respect  to  the  delivery  and  receipt  of 
+underlying assets of USD FLEX futures, [§27] and [§28] shall apply mutatis mutandis. In this 
+case, “currency futures” is considered “USD FLEX futures.” [October 1, 2025] 
+
+(2) Pursuant to [§64-5(3)] of the Regulation, the last trading day of USD FLEX futures shall 
+be the days in the period from the trading day on which negotiated FLEX trade by each contract 
+is requested to two (2) trading days before the last trading day of USD futures of the 6th near 
+month contract, excluding the days noted in each of the following subparagraphs: (Amended 
+on August 28, 2014; May 29, 2025) 
+
+1. In cases where the trade of the contract of the relevant USD FLEX futures spread has not 
+executed, the trading day on which negotiated FLEX trade is requested; (Amended on May 
+29, 2025) 
+
+2. The last trading day and trading days immediately before and after the last trading day of 
+each delivery month contract of USD futures; and 
+
+3.  In  addition,  the  trading  day  that  the  Exchange  deems  necessary  for  the  market 
+management. (Amended on May 29, 2025) 
+
+(3) Pursuant to [§64-5(3)] of the Regulation, the final settlement day of USD FLEX futures 
+shall be trading day specified in each of following subparagraphs: [August 28, 2014] 
+
+1. For contracts for which the underlying asset is delivered, the third trading day counting 
+from the last trading day; and 
+
+2. For contracts for which cash is paid: the next trading day following the last trading day. 
+
+4) Pursuant to [§64-5(3)] of the Regulation, the final settlement amount for USD FLEX futures 
+shall be calculated by the following formula: [August 28, 2014] 
+
+The final settlement price The final settlement quantity Multiplier 
+
+(5) Pursuant to [§64-5(3)] of the Regulation, the final settlement price of USD FLEX Futures 
+shall be the price (rounded up at the fifth decimal place) obtained by calculating the trading 
+volume-weighted average of the US dollar spot rates (referring to exchange rates established 
+in the US dollar spot market operated by the Seoul Money Brokerage Services; hereinafter the 
+same) formed for thirty (30) minutes before the deadline of the request for negotiated FLEX 
+trade. Provided that, in the case of falling under following subparagraphs, it shall be the price 
+specified in each of the following subparagraphs: [August 28, 2014] (Amended on June 25, 
+2024) 
+
+1. In cases where the number of the US dollar spot rates for thirty (30) minutes before the 
+deadline for requesting negotiated FLEX trade is less than five (5) cases: the trading volume-
+weighted  average  of  the  most  recent  five  (5)  US  dollar  spot  rates  established  before  the 
+deadline for requesting negotiated FLEX trade of the day (to be rounded up at the 5th decimal 
+place); and 
+
+44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. In cases where the number of the US dollar spot rates established from the time Seoul 
+Money Brokerage Services initiates U.S. dollar spot trading until the deadline for requesting 
+negotiated FLEX trade on that day is less than five (5): the basic exchange rate published 
+on the next  day pursuant to  the Foreign  Exchange Transaction Regulation  (if there is  no 
+relevant basic exchange rate, the basic exchange rate of the day immediately before) 
+
+(6) Notwithstanding paragraph (5), if the time of submission of the request for negotiated FLEX 
+trade is changed or other matters deemed necessary for the market management, the Exchange 
+may change the final settlement price to the price determined for USD FLEX futures for each 
+time. [August 28, 2014] (Amended on October 1, 2025) 
+
+[August 21, 2009] 
+
+PART III. TRADE EXECUTION 
+
+CHAPTER 1. QUOTATIONS 
+
+Section 1. Input and Receipt of Quotations 
+
+§48. Quotation Details to be Inputted 
+
+(1) “Quotation details stipulated in the Enforcement Rules” in [§65(1)] of the Regulation shall 
+refer to each of the followings: (Amended on August 28, 2014) 
+
+1. Member’s ID number assigned by the Exchange;   
+
+2. Contract code; 
+
+3. Quantity; 
+
+4. In the case of the quotation of which price is specified, such price; 
+
+5. Classification between bid or ask;   
+
+6. Classification between proprietary account trade or customer-account trade (including the 
+trade for the management of entrusted assets of the investment dealing company; hereinafter 
+the same);   
+
+7. Indication of limit quotation, market quotation, limit-to-market-on-close quotation, and 
+immediately executable limit quotation;   
+
+8. In the case of quotation affixed with each of the following conditions, such condition; 
+
+(a) The condition specifying to execute, of the quotation quantity, the quantity that can be 
+executed at the receipt time of the relevant quotation and cancel the unexecuted quantity 
+(hereinafter referred to as the “immediate or cancel condition”); and 
+
+45 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) The condition specifying to execute the quotation only if the entire quotation quantity 
+can be executed at the receipt time of the relevant quotation and otherwise to cancel the 
+entire quantity (hereinafter referred to as the “fill or kill condition”).   
+
+9. Indication of nationality;   
+
+10. Indication of investor category;   
+
+11. Identification number of member's business  office (referring to the five-digit number 
+that the member has assigned to its main office, branch offices and other business locations 
+and notified to the Exchange; the same hereinafter) and the number of derivatives account 
+(it shall include the account number related to proprietary account trades and, in the case of 
+the  foreigner’s  consolidated  accounts,  it  shall  be  the  classification  code  by  end-investor 
+under [§114-3(1)]); 
+
+12.  Number  of  substitute  securities  account  (referring  to  the  twelve-digit  number  that  a 
+member  assigns  to  the  substitute  securities  account;  the  same  hereinafter),  if  there  is 
+substitute securities account (referring the account used for the securities deposited for the 
+deposition of member margin or customer margin; the same hereinafter); 
+
+13. For a quotation of equity derivative products for arbitrage (referring to the stock index 
+arbitrage and single stock arbitrage; the same hereinafter) or hedge (referring to the stock 
+index hedge and single stock hedge; the same hereinafter), such indication. In such cases, it 
+shall include the indication of arbitrage or hedge eligible for discount of member margin 
+pursuant to [§147(1)]. 
+
+14. Category of entrustment method of trade pursuant to [§118(1)] of the Regulation;   
+
+15. Indication of the input methods and identification of order input devices [in the case of 
+item  (b),  the  IP  address  and  MAC  address  of  order  input  device  is  excluded]  that  are 
+specified in each of the following items:   
+
+(a) Method  of inputting the customer’s order that  the member received in written form 
+(including  order  submitted  via  facsimile)  or  over  telephone,  etc.  to  the  Exchange 
+derivatives system: IP address of the order input device of the relevant member.   
+
+(b) Method by which the customer directly inputting the order to the member derivatives 
+system via a land communication device.   
+
+(c) Method by which the customer directly inputting the order to the member derivatives 
+system via a wireless communication device: Information such as the unique ID number 
+of the relevant wireless communication device.   
+
+(d) Method by which the customer directly inputting the order to the member derivatives 
+system via computer network system: IP address and MAC address of the relevant order 
+input device.   
+
+(e)  Other  method  of  inputting  the  order  information:  Information  such  as  the  unique 
+
+46 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+identification code of relevant order input device.   
+
+16. One of the following items based on the method of generating quotation: 
+
+(a)  High-speed algorithmic trading quotation; 
+
+(b) Algorithmic trading quotation excluding the quotation in item (a); or 
+
+(c)  Quotations excluding quotations in items (a) and (b). 
+
+17. In the case of submitting quotations through high-speed algorithmic trading  account, 
+matters in each of the following items: 
+
+    (a) A number (hereinafter referred to  as the “high-speed algorithmic trading  number”) 
+that combines the trader registration number and risk management number pursuant to 
+[§164-6(5)].  Provided  that,  among  quotation  falling  under  paragraph  (1)16(b)  or 
+paragraph (1)16(c), quotations to which paragraph (1)17(b) or paragraph (1)17(c) is not 
+applied shall be excluded. 
+
+    (b) Quotation group number in Annex Form 6-2 in the case of classifying the scope of 
+
+application for the mass order cancellation pursuant to [§54-2];   
+
+(c) In the case where self-match trades [referring to transactions executed between the 
+quotations already submitted and quotations submitted later by the same person (referring 
+to a high-speed algorithmic trader with the same high-speed algorithmic trade number; 
+hereinafter the same in this paragraph and [§53-2]) at the time of submitting quotations; 
+hereinafter the same] may be executed, whether a condition (hereinafter referred to as the 
+“self-match prevention condition) for cancelling the quotation quantity falling under any 
+of the following items is annexed or not: 
+
+                  (i) Quantity that has not been executed among the quotations already submitted by the 
+
+same person; 
+
+                  (ii) Quantity that has not been exe3cuted among the quotation submitted later by the 
+
+same person; and 
+
+                  (iii)  Each  quantity  that  can  be  executed  between  the  quotations  already  submitted     
+
+and the quotations submitted later by the same person. 
+
+18. Additionally, other information that are deemed necessary by the Exchange.   
+
+(2) Each member shall, when receiving quotations for an entrusted order from an investment 
+broker, input the nationality noted in paragraph (1)9, the investor category noted in paragraph 
+(1)10 and the derivatives account number noted in paragraph (1)11 on the basis of customer 
+who entrusted the order to the relevant investment broker. (Amended on March 18, 2009) 
+
+(3) Each member may input the quotations for orders placed from proprietary accounts of other 
+members. (Amended on September 3, 2020; May 18, 2021) 
+
+47 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4) In cases where a customer or member has two (2) or more substitute securities accounts, 
+the member shall input one (1) substitute securities account that the customer or member has 
+chosen. In such cases, the account chosen by the customer or member shall principally be used 
+for the trading of underlying stock. (Amended on August 28, 2014) 
+
+(5) The input code of quotation details in each subparagraph of paragraph (1) shall be those 
+codes shown in [Annex 6].   
+
+§49. Definition of Arbitrage and Hedge 
+
+(1) “Stock index arbitrage" in [§48(1)13] shall refer to a trade that meets all of the requirements 
+in each of the followings: (Amended on January 31, 2011; June 15, 2017; March 15, 2018) 
+
+1. A trade intending to benefit from the difference between the price of the product falling 
+under any of the followings, which is linked to a stock price index (hereinafter referred to 
+as the “index-linked listed stocks, etc.”) and the price of the index futures or index options 
+underlying the relevant stock price index: 
+
+(a)A basket of stocks (including a basket of stocks, the constituents of which include single 
+stock futures or single stock options; the same hereinafter);   
+
+(b) Equity linked warrants (ELWs) (limited to those listed on the KOSPI Market; the same 
+hereinafter in this Article); 
+
+(c) ETFs; and 
+
+(d) Exchange Traded Notes (ETNs). 
+
+2. A trade of index futures or index options of which the profit and loss structure is opposite 
+to that of the index-linked listed stocks, etc. at the same time or immediately before/after 
+the trading of the index-linked listed stocks, etc. 
+
+(2) “Single stock arbitrage” in [§48(1)13] shall refer to a trade that meets all of the requirements 
+in each of following: (Amended on January 31, 2011) 
+
+1. A trade intending to benefit from the difference between the price of the stock falling 
+under any of the followings (hereinafter referred to as the “equity-linked listed stocks”) and 
+the price of the single stock futures or single stock options of which underlying asset is the 
+relevant stock:     
+
+(a) Underlying stocks; and 
+(b) ELWs linked to the underlying stocks.   
+
+2. A trade of single stock futures or single stock options of which profit and loss structure 
+is opposite to that of underlying stocks at the same time or immediately before/after trading 
+of underlying stocks.   
+
+(3) “Stock index hedge” in [§48(1)13] shall refer to a trade of the stock index futures or stock 
+
+48 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+index options underlying a stock price index, which is conducted to avoid or mitigate the losses 
+arising from the fluctuation in the value of any of the followings that is linked to the relevant 
+stock price index:(Amended on August 28, 2014; November 21, 2016) 
+
+1. A basket of stocks; 
+2. Financial investment products under Article 3 of the Financial Investment Services and 
+Capital Markets Act (hereinafter referred to as “the Act”); 
+3. Assets; 
+4. Liabilities; and 
+5. Firm commitments. 
+
+(4) “Single stock hedging" in [§48(1)13] shall refer to a trade of the single stock futures or 
+single  stock options of which  underlying  assets  are the underlying stocks  or the underlying 
+stock to  which any of the followings  is linked, which is  conducted to  avoid  or mitigate the 
+losses arising from the fluctuation in the value of any of the followings:(Amended on January 
+31, 2011; August 28, 2014) 
+
+1. Financial investment products under Article3 of the Act; 
+2. Assets; 
+3. Liabilities; and 
+4. Firm commitments. 
+
+(5) The trades pursuant to the provisions of paragraphs (1) through (4) shall include the cases 
+of one (1) time trade or two (2) or more split-up trades. (Amended on January 31, 2011; August 
+28, 2014; March 15, 2018)   
+
+(6) [Deleted on January 31, 2011] 
+
+(7) [Deleted on January 31, 2011] 
+
+§49-2. Verification of Suitability of Quotations, etc. 
+
+“Matters stipulated in the Enforcement Rules” in [§65(2)] of the Regulation shall refer to the 
+matters noted in each of the following subparagraphs: (August 28, 2014; May 19, 2015; June 
+20, 2016; June 15, 2017; November 10, 2017; December 21, 2022; April 5, 2024) 
+
+1. Derivatives account numbers under [§48(1)11] (for foreigner’s consolidated accounts, it 
+shall be the classification code by end-investor under [§114-3(1)]); 
+
+2. Specifics about contract noted in each of the following items: 
+
+(a) Contract code under [§48(1)2]; and 
+
+(b) If the contract is suspended from trading pursuant to the provisions of [§76] and [§77] 
+of the Regulation.   
+
+3. Matters about quantity noted in each of the following items: 
+
+49 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)Trading quantity unit; and 
+
+(b) Quotation quantity limit and accumulated quotation quantity limit pursuant to [§61]; 
+
+4. Matters about price noted in each of the following items: 
+
+(a) If the price conforms to the quotation price unit; and   
+
+(b) If the price complies with the price limit pursuant to [§56], [§59], [§59-3] and [§60]. 
+Provided that, for the trading of equity derivatives, the case where the price limit rate is 
+expanded pursuant to [§56-2] or [§59-2] shall be excluded. 
+
+5. If it complies with the restriction on quotation input pursuant to [§50]. Provided that it 
+shall exclude subparagraph 2 of [§50], subparagraph 3 of [§50], subparagraphs 5(c) of [§50], 
+subparagraph 6(b) of [§50], subparagraph 9 of [§50] (limited to the case of expanding the 
+price  limit  rate  of  the  trading  of  equity  derivatives  pursuant  to  [§56-2]  and  [§59-2])  and 
+subparagraph 11 of [§50];       
+
+6. Matters noted in each of the following items that are related to order entrustment:     
+
+(a) If the customer falls under the reasons for refusal to accept order entrustment noted in 
+[§124] of the Regulation; and 
+
+(b) In the case of upfront initial customer margin account noted in [§115(1)7] if the upfront 
+initial customer margin has been deposited pursuant to [132(2)] of the Regulation.   
+
+7. Matters in each of the following items when inputting the high-speed algorithmic trade 
+number pursuant to [§48(1)17(a)]: 
+
+(a)  Whether quotations are submitted through the high-speed algorithmic trading account 
+reported pursuant to [156-4(3)] of the Regulation; and 
+
+(b)  Whether the high-speed algorithmic trading number linked to account in item (a) above 
+matches the high-speed algorithmic trading number inputted pursuant to [48(1)17(a)]. 
+
+8. Matters about the trade that the Exchange restricts for market management; and 
+
+9. In addition, the matters that the member deems necessary.   
+
+[December 28, 2011] 
+
+§50. Restriction on Quotation Input 
+
+Pursuant  to  [§65(6)]  of  the  Regulation,  members  shall  be  prohibited  from  inputting  the 
+quotations falling under any of the following subparagraphs: (Amended on December 28, 2011; 
+August 28, 2014; May 19, 2015; July 3, 2015; September 16, 2015; March 21, 2016; June 20, 
+2016; June 15, 2017; December 7, 2018; October 30, 2019; December 21, 2022) 
+
+50 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. In the case of farther month contracts [excluding the next-near month contract (referring 
+to  the  delivery  month contract  of  which the  last  trading  day  arrives  the second  from  the 
+present: the same hereinafter) during the four (4) trading days retroactively counting from 
+the last trading day of the nearest month contract], the market quotations, limit-to-market-
+on-close quotations, and immediately executable limit quotations;   
+
+2.  In  the  case  of  quotations  for  periodic  call  auction,  the  immediately  executable  limit 
+quotation. Provided that this provision shall not apply to the cancellation quotation; 
+
+3.  In  the  case  of  the  quotation  receiving  hours  for  the  call  auction  noted  in  [§64(1)4] 
+(hereinafter referred to as the “quotation receiving hours for closing price by call auction”) 
+to  determine the final  contract  price (hereinafter  referred to  as the  “closing price by  call 
+auction”) pursuant to [§73(1)3] of the Regulation, the limit-to-market-on-close quotations. 
+Provided that this provision shall not apply to the case of cancellation quotations; 
+
+4. In the case of a contract of which the last trading day has arrived (excluding the currency 
+futures and Lean Hog futures), the limit-to-market-on-close quotations; 
+
+5. In the case of futures spread trading, the quotations falling under any of the following 
+items: 
+
+(a) Market  quotations, limit-to-market-on-close quotations, and immediately executable 
+limit quotations; 
+
+(b) [Deleted on April 5, 2024] 
+
+(c) Where the trading session of any of two (2) contracts constituting a futures spread is 
+closed, quotations of the relevant futures spread. 
+
+6. In the case of affixing the immediate or  cancel  condition,  or fill  or kill condition,  the 
+quotations falling under any of the following items: 
+
+(a)Limit-to-market-on-close quotations; 
+
+(b) Quotations for call auction; and 
+
+(c) Quotations placed through the market-making account. 
+
+7. In the case of trade using the market-making account; the quotations falling under any of 
+the following items: 
+
+(a)  Market  quotation,  limit-to-market-on-close  quotations,  and  immediately  executable 
+limit quotations; 
+
+(b) Quotations affixed with the immediate or cancel condition, or fill or kill condition; and 
+
+(c) [Deleted on April 21, 2011] 
+
+51 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. [Deleted on April 5, 2024] 
+
+9. In the case of limit-to-market-on-close quotations: the quotation falling under any of the 
+following items:     
+
+(a) The bid quotation at the upper limit price (referring to the upper limit price at the time 
+of verifying the quotation pursuant to [§65(2)]); and   
+
+(b) The ask quotation at the lower limit price (referring to the lower limit price at the time 
+of verifying the quotation pursuant to [§65(2)]).   
+
+10. In the case of trades or contracts not applying the real-time price limit pursuant to [§60-
+3], the market quotation, limit-to-market-on-close quotations and immediately executable 
+limit quotations.   
+
+11. In the case of terminating the real-time price limit pursuant to [§60-5] for the trades or 
+contracts  applying  the  real-time  price  limit  pursuant  to  [§60-3],  market  quotations  and 
+immediately executable limit quotations.   
+
+12. In the case of self-match prevention quotations: quotations in any of the following items: 
+
+(a)  The market quotation: 
+
+(b) The quotations affixed with the fill or kill condition; 
+
+(c)  The limit-to-market-on-close quotations; and 
+
+(d) Quotations without inputting high-speed algorithm trade number. 
+
+§51. Quotation Receiving Hours 
+
+(1) Pursuant to [§66(2)] of the Regulation, the quotation receiving hours shall be as stipulated 
+in each of the following subparagraphs: (Amended on October 26, 2009; April 4, 2019; July 
+18, 2023; May 29, 2025) 
+
+1. For regular trading: From fifteen (15) minutes before the start of regular trading hours to 
+the  time  before  the  market  closing.  Provided  that,  the  quotation  receiving  hours  for  the 
+markets where the regular trading hours do not start at 8:45 according to subparagraphs 2 
+and 3 of [Annex 1-2] shall be from thirty (30) minutes before the start of regular trading 
+hours to the time before the market closing; and [May 29, 2025] 
+
+2. For night trading: From ten (10) minutes before the start of night trading hours to the time 
+before the market closing. [May 29, 2025] 
+
+(2) Notwithstanding paragraph (1), when trading is halted pursuant to [§76] and [§77] of the 
+Regulation, only limit to the cancellation quotation is received. Provided that, in cases where 
+trading  is  halted  due  to  the  failure  of  the  Exchange  derivatives  system  pursuant  to 
+subparagraphs 1 and 3 of [§4], no quotation shall be received. (Amended on August 28, 2014; 
+
+52 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 19, 2015) 
+
+(3) Notwithstanding paragraph (1), the Exchange may change the quotation receiving hours 
+when the trading hours is changed pursuant to [§4(4)] of the Regulation or when it is deemed 
+necessary for the market management. (Amended on July 26, 2011) 
+
+§52. Conversion, Receipt and Recording of Limit-to-Market-on-Close Quotations 
+
+(1)  Pursuant  to  [§67(4)]  of  the  Regulation,  the  limit  to  market  on  close  quotation  shall  be 
+construed to have been converted to and received as a market quotation at the beginning of 
+quotation receiving hour for the periodic auction to determine the closing price. In such cases, 
+the quotation receipt number shall not be given.   
+
+(2)  The  details  of  market  quotation  received  after  converting  a  limit-to-market-on-close 
+quotation shall be recorded in the Exchange derivatives system, on the basis of the limit-to-
+market-on-close quotation before the conversion, in the priority order stipulated in [§72(3)] of 
+the Regulation.   
+
+§53. Validity of Quotations 
+
+Pursuant to the proviso to [§68(1)] of the Regulation, in the case of falling under following 
+subparagraphs, each of the following quantities from the quantity of the relevant quotation shall 
+be deemed to have been cancelled: (Amended on August 20, 2014; October 30, 2019) 
+
+1. For immediate or cancel condition, the unexecuted quantity; and   
+
+2. For fill or kill condition, the entire quantity of the relevant quotation if the entire quantity 
+cannot be executed.   
+
+3. For the quotation of the trade or contracts applying the real-time price limit (the market 
+quotation  is  excluded)  pursuant  to  [§60-3],  the  quantity  of  quotation  for  bid  at  the  price 
+higher than the real-time upper limit or the quantity of quotation for ask at the price lower 
+than the real-time lower limit among the already-received quotations. 
+
+4.  Any  other  case  for  quotation  deemed  necessary  not  to  recognize  the  effect:  quantity 
+determined by the Exchange case by case. 
+
+§53-2. Validity of Quotations 
+
+(1) Pursuant to the proviso to [§68(1)] of the Regulation, in the case of quotations with self-
+match prevention condition, the number of quotations in each of the following items, from the 
+number  of  quotations  quoted,  shall  be  deemed  cancelled.  In  such  cases,  each  item  shall  be 
+classified by the self-match prevention condition affixed with the relevant quotation: 
+
+1.  For [§48(1)17(c)(i)]: Quantity that has not been executed among the quotations already   
+submitted by the same person; 
+
+53 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  For [§48(1)17(c)(ii)]: Quantity that has not been executed among the quotation   
+submitted later by the same person; and 
+
+3.  For [§48(1)17(c)(iii)]: Each quantity that can be executed between the quotations already 
+submitted and the quotations submitted later by the same person. 
+
+(2) Paragraph (1) shall apply only to the case where the contract price is determined by the 
+method of individual competitive transaction with multiple prices (hereinafter referred to as 
+the “continuous trading”) 
+
+(3) For a case corresponding to any of the following items, the effect of paragraph (1) shall not 
+be recognized: 
+
+1.  Case where the quotation already submitted by the same person is a quotation for call 
+auction to which [§62] applies; or 
+
+2.  Case where the self-match prevention condition is not affixed to either quotation already 
+submitted by the same person or quotations submitted later by the same person.   
+
+(4) In the case of quotations to which both the self-match prevention condition and the fill-or-
+kill condition are simultaneously affixed, the effect of quotations with self-match prevention 
+condition noted in paragraph (1) shall take precedence. 
+
+[December 21, 2022] 
+
+§54. Correction of Quotations 
+
+(1) Pursuant to [§69(2)] of the Regulation, members may cancel all or part of the quantity of 
+quotations. [December 21, 2022]   
+
+(2)  Pursuant  to  [§69(2)]  of  the  Regulation,  members  may  make  correction  of  quotations  in 
+accordance with any of the following methods: (Amended on August 20, 2014; December 21, 
+2022) 
+
+1.  In  the  case  of  correcting  a  limit  quotation,  limit-to-market-on-close  quotation  and 
+immediately  executable  limit  quotation  to  the  same  type  of  quotation,  all  or  part  of  the 
+quotation quantity shall be corrected to a different price; and   
+
+2.  In  the  case  of  correcting  limit  quotation,  market  quotation,  limit-to-market-on-close 
+quotation and immediately executable limit quotation to a different type of quotation, all or 
+part of the quotation quantity shall be corrected to a different type of quotation. 
+
+(3) Notwithstanding paragraph (2), the quotation shall not be corrected in the case of falling 
+under any of the following subparagraphs: (Amended on August 20, 2014; December 21, 2022) 
+
+1.  In  the  case  of  receiving  quotations  for  periodic  call  auction  for  determination  of  the 
+closing  price,  when  making  a  correction  between  the  market  quotation  and  the  limit-to-
+market-on-close quotation; 
+
+54 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. In the case of making a correction between the limit quotation and best limit quotation, 
+when the price before the correction is the same as the price after the correcting; 
+
+3. In the case of making a correction into the limit quotation or the limit-to-market-on-close 
+quotation, when the quotation price for bid  is  higher than the real-time upper limit  price 
+after the correction or the quotation price for ask is lower than the real-time lower limit price 
+after the correction; 
+
+4. In the case of making a correction of the limit quotation or the best limit quotation into of 
+the market quotation, when the quotation price prior to the correction and the quotation price 
+after the correction is the same by converting the market quotation price corrected into the 
+limit quotation price pursuant to [§67(2)]; and 
+
+5.  Other  cases  that  the  Exchange  deems  necessary  not  to  recognize  the  correction  of 
+quotation price.   
+
+(Wholly amended on August 21, 2009) 
+
+§54-2. Mass Order Cancellation 
+
+(1) Pursuant to [§69(2)] of the Regulation, members may apply to the Exchange to cancel all 
+quotations  received  before  application  at  once  (hereinafter  referred  to  as  the  “mass  order 
+cancellation”) by designating conditions for each high-speed algorithmic trading number only 
+if all of the following subparagraphs are met. In such case, matters necessary for the application 
+of the mass order cancellation, such as classification of products, conditions for cancellation, 
+etc. shall be as specified in the Annex 1-3: 
+
+1.  Cases for managing risks; and 
+
+2.  Cases for submitting quotations through high-speed algorithmic trading account reported 
+
+pursuant to [§156-4(3)] of the Regulation. 
+
+(2)  Notwithstanding  paragraph  (1),  the  Exchange  may  not  process  the  application  for  mass 
+order cancellation of a member in case of a system failure or other cases when it is deemed 
+necessary for market management.   
+
+(3) Members shall record and maintain data related to the mass order cancellation for 10 years 
+and submit the data when the Exchange request for the relevant data for market management, 
+etc. 
+
+[December 22, 2022] 
+
+Section 2. Base Price and Quantity Limit of Quotations 
+
+55 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§55. Base Price of Futures 
+
+(1) The base prices of futures trading under [§70(2)] of the Regulation shall be any one of the 
+following prices. Provided that, the base price of quarterly month contracts of Mini KOSPI200 
+futures shall be that of the delivery month of KOSPI200 futures with the same last trading day: 
+(Amended on July 3, 2015; September 16, 2015; June 20, 2016; March 14, 2022) 
+
+1. For the period from the trading start day to the day on which the first trade is executed 
+(referring to the first trading day on which a transaction is executed during regular trading 
+hours and including the day when the trade of delivery month contract deems to have been 
+executed subsequent to the execution of futures spread trade: the same hereinafter in this 
+Article and [§57]), the price specified in each of the following items. Provided that, the base 
+price of a quarterly month contract of Mini KOSPI200 futures shall be the base price of the 
+delivery month of KOSPI200 futures of which the last trading day is the same: (Amended 
+on May 29, 2025) 
+
+(a) For futures trades other than items (b): the theoretical price of futures trade (hereinafter 
+referred to as “the theoretical price of futures”) calculated by the calculation formula noted 
+in [Annex 7] through [Annex 13]. Provided that, in cases where the ex-dividend, etc. have 
+occurred in single stock futures trade, it shall be the adjusted theoretical price of single 
+stock futures; and (Amended on April 18, 2025) 
+
+(b) For KOSPI High Dividend 50 futures trade, KOSPI Dividend Growth 50 futures trade, 
+V-KOSPI 200 futures trade and Lean Hog futures trade, the base price of underlying assets 
+on the previous day. 
+
+(c) [Deleted on April 18, 2025] 
+
+2. For the period after the trading day following the day on which the first trade was executed: 
+The  settlement  price  of  the  immediately  preceding  trading  day  pursuant  to  [§96]  of  the 
+Regulation. Provided that, in the case of USD FLEX trade, it shall be the theoretical futures 
+price. (Amended on May 29, 2025) 
+
+3. [Deleted on August 28, 2014] 
+
+(2) “Adjusted theoretical price of single stock futures” in the proviso to item (a) of paragraph 
+(1)1 shall refer to the theoretical price calculated by applying the calculation formula in [Annex 
+8] mutatis mutandis. In such cases, “the base price of underlying asset of previous day” shall 
+be construed as “the adjusted base price of underlying stock” and “the cash dividend per share” 
+shall be construed as “the price calculated by multiplying the value, which was obtained by 
+dividing the adjusted base price of underlying stock by the closing price of underlying stock of 
+the day before the adjustment day, by the cash dividend per share (to be rounded off at the 9th 
+place of decimals).” (Amended on October 26, 2009; August 28, 2014)) 
+
+(3) Notwithstanding paragraph (1), the base price of contract for which the multiplier for single 
+stock futures or the quantity of open interests is adjusted pursuant to [§9] and [§10] shall be 
+adjusted to the prices specified in each of the following subparagraphs: (Amended on August 
+28, 2014; November 3, 3014) 
+
+56 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. In cases where ex-dividends, etc. have occurred, the price calculated by the following 
+formula (rounding off at the 1st decimal place) 
+
+Base price pursuant to paragraph (1)2× (Adjusted base price of underlying stock ÷ Closing 
+price of underlying stock of the previous day) 
+
+2. Additionally, in cases where it is deemed necessary to change the base prices of single 
+stock futures, the price determined by the Exchange for each case.   
+
+(4) In cases where the price pursuant to paragraph (1) or (3) is not consistent with the quotation 
+price unit, among the prices consistent with the quotation price unit, the price that is closest to 
+the price pursuant to paragraph (1) or (3) shall be the base price (in cases where there are two 
+(2) such prices, it shall be the higher one). 
+
+(5)  Notwithstanding  paragraphs  (1)  through  (4),  when  there  is  trading  abnormality  or  it  is 
+deemed necessary for market management, the Exchange may change the base prices. [October 
+1, 2010; November 3, 2014] 
+
+§56. Price Limits in Futures Trading 
+
+(1) The upper limit price of futures trade pursuant to [§70(2)] of the Regulation shall be the 
+price obtained by adding the futures daily price limit range (referring to the value determined 
+by multiplying each price limit rate noted in [Annex 14] to the base price of futures (in the case 
+of V-KOSPI 200 futures, if the figure is lower than five (5) point, it shall be five (5) point); the 
+same  hereinafter)  to  the  base  price.  Provided  that,  in  cases  where  the  relevant  price  is  not 
+consistent with the quotation price unit, it shall be, among the quotation price units that are 
+lower than the relevant price, the one closest to the relevant price. (Amended on August 28, 
+2014; November 3, 2014) 
+
+(2) The lower limit price of futures trade pursuant to [§70(2)] of the Regulation shall be the 
+price obtained by subtracting the futures daily price limit range from the base price. Provided 
+that, in cases where the relevant price is not consistent with the quotation price unit, it shall be, 
+among the quotation price units that are higher than the relevant price and are consistent with 
+the quotation price unit, the one closest to the relevant price. (Amended on August 28, 2014) 
+
+(3) Notwithstanding paragraphs (1) and (2), when an abnormality in trading has been observed 
+or it is deemed necessary for the market management, the Exchange may change the upper or 
+lower price limit or price limit range of futures. (Amended on October 26, 2009; August 28, 
+2014) 
+
+§56-2. Price Limits by Phase of Single Stock Futures Trades 
+
+(1)  In  the case of applying [§56]  to  the trading  of equity derivatives,  the price limit  rate of 
+futures trading in the [Annex 14] shall be the 1st phase. (Amended on June 20, 2016; April 18, 
+2025) 
+
+(2)  Notwithstanding  paragraph  (1),  in  the  case  of  falling  under  any  of  the  following 
+
+57 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+subparagraphs after fifteen (15) minutes after the start of regular trading hours in the regular 
+session of equity futures, the price limit rate of the relevant futures trade may be expanded to 
+the 2nd phase or the 3rd phase as specified in each of the following subparagraphs. Provided 
+that, during the quotation receiving hours for closing price by periodic call auction, the price 
+limit rate shall not be expanded. (Amended on July 3, 2015; March 15, 2018; June 12, 2018; 
+December 7, 2018; July 18, 2023; April 18, 2025; May 29, 2025) 
+
+1. For the case of futures trades other than the subparagraph 2: the price limit rate classified 
+in each of the following items. Provided that, Mini KOSPI 200 Futures trades shall apply 
+with the same price limit rate as that of KOSPI 200 Futures:   
+
+(a) Where the execution price [excluding the execution price of the delivery month contract 
+which is deemed to be executed following the execution of futures spread trades and the 
+execution price of negotiated trades; the same hereinafter in Item(b)] of the base contract 
+[referring to the delivery month contract {if there are two (2) or more of such contracts, it 
+shall be the contract of which the last trading day arrives earlier, excluding the contracts 
+of which the last trading days correspond to the immediately preceding trading day and 
+the relevant trading day} that has the largest trading volume during the regular session of 
+the immediately preceding trading day (excluding the trading volume by futures spread 
+trades and negotiated trades) per futures trade (excluding Mini KOSPI200 Futures trades; 
+the  same  hereinafter  in  this  Subparagraph)  with  the  same  underlying  assets;  the  same 
+hereinafter  in  this  Article]  is  the  upper  limit  price  at  the  relevant  phase:  In  the  case  of 
+passing 5 minutes or more since then, the price limit rate of the upper price limit of the 
+relevant  futures  trade  shall  be  expanded  to  the  2nd  phase  or  the  3rd  phase  sequentially. 
+(Amended on May 29, 2025) 
+
+(b) Where the execution price of the base contract is the lower price limit at the relevant 
+phase: In the case of passing 5 minutes or more since then, the price limit rate of the lower 
+price limit of the relevant futures trade shall be expanded to the 2nd phase or the 3rd phase 
+sequentially. Provided that the case where the price limit rate of the lower price limit of 
+the relevant futures trade has already been expanded to the relevant phase pursuant to the 
+item(c) shall be excluded. 
+
+(c) From among  the cases of stock index futures trades (excluding sector index futures 
+trades; the same hereinafter in this Item), the cases where the trading of the stock market 
+is  suspended pursuant  to [§25(1)]of  KOSPI Market  Business Regulation  or [§26(1)] of 
+KOSDAQ Market Business Regulation: when the trading is resumed pursuant to [§77(2)] 
+of the Regulation, the price limit rate of the lower price limit as classified in each of the 
+followings shall be expanded to the 2nd phase or the 3rd phase. Provided that the case where 
+the price limit rate of the lower price limit of the relevant stock index futures trade has 
+already been expanded to the relevant phase pursuant to the item (b) shall be excluded, 
+and in the case of KRX 300 futures, it shall be limited to the case of resuming the trading 
+in the KOSPI Market after trade suspension. 
+
+(i) Case of being suspended after the stock market falls 8 percent or more but less than 
+15 percent: the price limit rate of the lower price limit of stock index futures trading based 
+on the relevant stock market shall be expanded to the 2nd phase.   
+
+(ii) Case of being suspended after the stock market falls 15 percent or more: the price 
+
+58 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+limit rate of the lower price limit of stock index futures trading based on the relevant 
+stock market shall be expanded to the 3rd phase. 
+
+2. For V-KOSPI 200 futures trades: In cases where the price limit rate of the upper or lower 
+limit price of KOSPI 200 futures trade is expanded pursuant to the subparagraph 1, the price 
+limit rate of the upper or lower limit price of V-KOSPI 200 futures trade shall be expanded 
+simultaneously to the relevant phase.   
+
+(3) Notwithstanding paragraph (2), when the Exchange deems necessary due to the change of 
+the market situations or for the market management, it may change the base contract or the 
+expanded hours of the price limit rate pursuant to paragraph (2). 
+
+[May 19, 2015] 
+
+§57. Base Price in Options Trading 
+
+(1) Pursuant to [§70(2)] of the Regulation, the base price for trading options contract shall be 
+any one of the following prices. Provided that the base price of a contract of Mini KOSPI200 
+options shall be the base price of a contract of KOSPI200 options of which the type of options 
+(referring to the call options under subparagraph 11 of [§2] of the Regulation and put options 
+under subparagraph 12 of [§2] of the Regulation), the last trading day and exercise price are 
+the same:(Amended on July 3, 2015) 
+
+1. During the period from the first trading day to the day when the first trade is executed, 
+the theoretical price of options calculated by using the calculation formula in [Annex 15] 
+through  [Annex  17].  Provided  that,  in  cases  where  the  ex-dividend,  etc.  has  occurred  in 
+Single Stock Options trade, it shall be the adjusted theoretical price of single stock options; 
+
+2. After the trading day following the execution of first trade, the base price  for member 
+margin of the immediately preceding trading day pursuant to [Annex 19]; and (Amended on 
+May 29, 2025) 
+
+3. [Deleted on August 28, 2014] 
+
+(2)  “Adjusted  theoretical  price  of  single  stock  options”  in  paragraph  (1)1  shall  refer  to  the 
+theoretical price calculated by applying the calculation formula in [Annex 16] mutatis mutandis. 
+In such cases, “the base price of underlying stock of the previous day” shall be regarded as “the 
+adjusted base price of underlying stock”, and “the cash dividend per share” shall be regarded 
+as “the price (to be rounded off at the 9th place of decimals) calculated by multiplying the cash 
+dividend per share by the value resulted from dividing the adjusted base price of underlying 
+stock by the closing price of underlying stock of the previous day. (Amended on October 26, 
+2009; August 28, 2014) 
+
+(3) Notwithstanding paragraph (1), the base price of the single stock option contract, for which 
+exercise price is adjusted pursuant to [§15], shall be adjusted to the price specified in each of 
+the following subparagraphs: (Amended on December 10, 2010) 
+
+1. When there has been ex-divided, etc.: the price determined according to the following 
+
+59 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+formula (to be rounded off at the 3rd decimal place): 
+
+Base price pursuant to paragraph (1)2× (Adjusted base price of underlying stock ÷ Closing 
+price of underlying stock on previous day) 
+
+2. Additionally, when it is deemed necessary to adjust the base price in the options trading: 
+the price determined by the Exchange for each case. 
+
+(4) In cases where the prices calculated pursuant to paragraphs (1) through (3) are not consistent 
+with  the  quotation  price  unit,  the  base  price  shall  be  the  price,  among  the  prices  that  are 
+consistent with the quotation price unit, which is closest to the calculated price (if there are two 
+(2) such prices, the higher price). 
+
+(5) Notwithstanding paragraphs (1) through (4), when there is an abnormality in trading or it 
+is deemed necessary for the market management, the Exchange may change the base price. 
+[October 1, 2010] 
+
+§58. [Deleted on October 1, 2010] 
+
+§59. Price Limits in Options Trading 
+
+(1) The upper limit price in options trading pursuant to [§70(2)] of the Regulation shall be the 
+theoretical price of upside call option when the price of underlying asset rises by the price limit 
+rate in [Annex 14]and the theoretical price of downside put option when the price of underlying 
+asset  drops  by  the  price  limit  rate  in  [Annex  14];  and  the  lower  limit  price  shall  be  the 
+theoretical price of downside call option when the price of underlying asset drops by the price 
+limit  rate  in  [Annex  14]  and  the  theoretical  price  of  upside  put  option  when  the  price  of 
+underlying asset rises by the price limit rate in [Annex 14]. 
+
+(2) Notwithstanding paragraph (1), in cases where the theoretical prices of upside call option 
+and downside put option pursuant to paragraph (1) is lower than the base price, the base price 
+shall be the upper limit price; and in case where the theoretical prices of downside call option 
+and upside put option is higher than the base price, the base price shall be the lower limit price.   
+
+(3) With regard to the calculation of the upper limit price and the lower limit price in options 
+trading, the provisions of [§57(1)1] shall apply mutatis mutandis. In such cases, “base price of 
+underlying asset on previous day” and “volatility” in [Annex 15] through [Annex 17] shall be 
+deemed  the  figures  in  each  of  the  following  subparagraphs:  (Amended  on  May  19,  2015; 
+September 16, 2015; December 2, 2020) 
+
+1. Base price of underlying asset on previous day: the figure following each of the following 
+items: 
+
+(a) Case of calculating the theoretical prices of upside call option and the theoretical prices 
+of  upside  put  option:  Base  price  of  underlying  asset  on  previous  day  +  (Base  price  of 
+underlying asset on previous day × Price limit rate); and 
+
+(b) Case of calculating the theoretical prices of downside call option and the theoretical 
+60 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+prices of downside put option: Base price of underlying asset on previous day - (Base price 
+of underlying asset on previous day × Price limit rate) 
+
+2. Volatility: The figure in each of the following items: 
+
+(a) Case of calculating the upper limit price of option trading (referring to the theoretical 
+price  of  upside  call  option  and  the  theoretical  price  of  downside  put  option:  the  same 
+hereinafter.): Volatility (in the case of option contract of which trading was executed in 
+the  immediately  preceding  regular  session,  it  shall  be  annual  implied  volatility  of  the 
+relevant  option  contract,  which  the  Exchange  calculates  on  the  immediately  preceding 
+trading  day,  but  ,  in  the  case  of  stock  option  trading,  if  the  annual  implied  volatility 
+concerned is lower than the annual implied volatility of the underlying stock calculated by 
+the Exchange, it shall be the annual implied volatility of the underlying stock) × 2; and 
+(Amended on May 29, 2025) 
+
+(b) Case of calculating the lower limit price of option trading (referring to the theoretical 
+price  of  downside  call  option  and  the  theoretical  price  of  upside  put  option:  the  same 
+hereinafter): 3/100 
+
+(4) [Deleted on May 19, 2015] 
+
+(5)  In  cases  where  the  price  calculated  pursuant  to  paragraph  (3)  is  not  consistent  with  the 
+quotation price unit, the upper limit price shall be the price that, among the prices that are lower 
+than the relevant price calculated and consistent with the quotation price unit, is the closest to 
+the relevant price calculated; and the lower limit price shall be the price that, among the prices 
+that are higher than the relevant price calculated and consistent with the quotation price unit, 
+is the closest to the relevant price calculated. (Amended on May 19, 2015) 
+
+(6) Notwithstanding paragraph (1), when an abnormality in options trading has been observed 
+or it is deemed necessary for market management, the Exchange may change the  upper and 
+lower  limit  prices,  the  method  of  calculating  volatility  of  the  relevant  contract  and  the 
+calculation method of upper and lower limit prices. (Amended on October 26, 2009) 
+
+§59-2. Price Limit by Phase of Options of Equity Derivative Products 
+
+(1) When the provision of [§59] is applied to the trading of equity derivatives, the price limit 
+rate of options trading in the [Annex 14] shall be deemed as the 1st phase.   
+
+(2)  Notwithstanding  paragraph  (1),  in  the  case  of  expanding  the  price  limit  rate  of  futures 
+trading pursuant to [§56-2(2)1], the price limit rate of options trading with the same underlying 
+assets  shall  be  expanded  to  the  same  phase  as  the  relevant  futures  trading  simultaneously 
+pursuant to each of the following subparagraphs:   
+
+1. For a case of expanding the price limit rate of the upper price limit of futures trading: the 
+price limit rate in the theoretical price of upside call option and the theoretical price of upside 
+put option shall be expanded; and     
+
+2. For a case of expanding the price limit rate of the lower price limit of futures trading: the 
+
+61 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+price limit rate in the theoretical price of downside call option and the theoretical price of 
+downside put option shall be expanded. 
+
+[May 19, 2015] 
+
+§59-3. Establishment of Lowest Upper Limit Prices of Options of Equity Derivative Products 
+
+Notwithstanding  [§59]  and  [§59-2],  in  cases  where  the  upper  limit  prices  of  the  options  of 
+equity  derivatives  products  are  lower  than  the  prices  classified  in  each  of  following 
+subparagraphs, the corresponding price shall be the upper limit price. (Amended on March 15, 
+2018) 
+
+1. For KOSPI 200 options and Mini KOSPI 200 options: 0.05 points; 
+
+2. For KOSDAQ 150 options: 0.5 points; and 
+
+3. For single stock options: KRW 50. 
+
+[November 10, 2017] 
+
+§60. Price Limits for Intra-product Spread Trading 
+(Amended on October 30, 2019) 
+
+(1) The upper limit price for intra-product spreads trading under [§70(2)] of the Regulation 
+shall be the price obtained by adding the daily price limit range of futures spreads{referring to 
+the value calculated by multiplying each price limit rate under[Annex 14] to the base price of 
+futures spread(in the case of V-KOSPI 200 futures spread, if the figure is lower than 1.5 points, 
+it shall be 1.5 points); the same hereinafter in this Article}to the futures spread classified in 
+each of the following subparagraphs. Provided that, in cases where such price is not consistent 
+with the quotation price unit, from among the prices consistent with the quotation price units 
+that are lower than such price, the price closest to such price shall be the upper price limit. 
+(Amended on June 18, 2010; October 1, 2010; August 28, 2014; November 3, 2014; October 
+30, 2019) 
+
+1. For the interest rate futures spreads: 
+
+Base price of the nearest month contract– Base price of the farther month contract   
+
+2. For the futures spreads other than interest rate futures spreads: 
+
+Base price of the farther month contract– Base price of the nearest month contract   
+
+(2) The lower limit price for intra-product spreads trading under [§70(2)] of the Regulation 
+shall be the price calculated by subtracting the spread daily price limit range of futures spread 
+from the base price of spread classified in paragraph (1).Provided that, in cases where such 
+price is not consistent with the quotation price unit, from among the prices consistent with the 
+quotation price units that are higher than such price, the price closest to such price shall be the 
+lower price limit. (Amended on June 18, 2010; August 28, 2014; October 30, 2019) 
+
+1. [Deleted on August 28, 2014] 
+
+62 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. [Deleted on August 28, 2014] 
+
+(3) Notwithstanding paragraphs (1) and (2), in cases where there is an abnormality in trading 
+situation or it is deemed necessary for market management, the Exchange may change upper 
+price limits, lower price limits or price limit ranges for intra-product spread trading. [June 18, 
+2010] (Amended on October 30, 2019) 
+
+§60-2. Price Limits for Inter-product Spread Trading 
+
+(1)The upper limit price for inter-KTB futures spreads trading under [§70(2)] of the Regulation 
+shall be the price calculated by adding the daily price limit range of futures spreads (referring 
+to the value determined by multiplying each price limit rate under [Annex 14] to the base price 
+of 3-year KTB futures spreads; the same hereinafter in this Article) to zero (0).Provided that, 
+in cases where such price is not consistent with the quotation price unit, from among the prices 
+consistent with the quotation price units that are lower than such price, the price closest to such 
+price shall be the upper price limit.   
+
+(2) The lower limit price for inter-KTB futures spreads trading under [§70(2)] of the Regulation 
+shall be the price calculated by subtracting the spread daily price limit range of futures spread 
+from zero (0). Provided that, in cases where such price is not consistent with the quotation price 
+units, from among the prices consistent with the quotation price units that are higher than such 
+price, the price closest to such price shall be the lower price limit.   
+
+(3) Notwithstanding paragraphs (1) and (2), in cases where there is an abnormality in trading 
+situation or it is deemed necessary for market management, the Exchange may change upper 
+price limits, lower price limits or price limit ranges for inter-product spread trading.   
+
+[October 30, 2019] 
+
+§60-3. Trades and Contracts subject to Real-time Price Limits 
+(Amended on October 30, 2019) 
+
+(1) Pursuant to [§70-2(3)] of the Regulation, the trades applying the real-time upper limit price 
+and the real-time lower limit price (hereinafter referred to as “real-time price limit”) shall be 
+designated  as  the  futures  trades  (including  intra-product  futures  spread  trades)  and  options 
+trades in each of following subparagraphs. Provided that the real-time price limit shall not apply 
+to the negotiated trades. (Amended on March 15, 2018; August 17, 2018; October 30, 2019; 
+May 29, 2025) 
+
+1. KOSPI 200 futures trades;   
+2. Mini KOSPI 200 futures trades; 
+3. KOSPI 200 options trades;   
+4. KOSDAQ 150 futures trades; 
+5. Single stock futures trades;   
+6.3-year KTB futures trade and 10-year KTB futures trades; and 
+7. USD futures trades. 
+
+63 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) Pursuant to [§70-2(3)] of the Regulation, the contracts applying the real-time price limit 
+shall  be  contracts  in  each  of  following  subparagraphs  among  contracts  falling  under  each 
+subparagraph in paragraph (1): (Amended December 4, 2014; July 30, 2019; October 30, 2019)   
+
+1.  For  futures  and  options:  The  nearest  month  contract  and  delivery  week  contracts. 
+Provided  that  the  second  nearest  month  contract  is  included  for  four  (4)  trading  days 
+retroactive the lasting trading day of the nearest month contract; and 
+
+2. For intra-product futures spreads: One (1) contract between the nearest month contract 
+and  the  second-nearest  month  contract  of  futures  trade  [limited  to  four  (4)  trading  days 
+retroactive the last trading day of the nearest month contract]. 
+
+(3) Pursuant to [§70-2(3)] of the Regulation, when the real-time upper limit price or the real-
+time  lower  limit  price  noted  in  [§70-2(1)]  of  the  Regulation  does  not  correspond  to  the 
+quotation  price  unit,  it  shall  be  designated  as  the  price  determined  in  each  following 
+subparagraphs among the prices corresponding to the quotation price unit: 
+
+1. For the real-time upper limit price:  The nearest price among the prices lower than the 
+real-time upper limit price; and 
+
+2. For the real-time lower limit price: The nearest price among the prices higher than the 
+real-time lower limit price. 
+
+(4) Notwithstanding paragraph (1)5, the Exchange shall separately determine whether to apply 
+or not to apply the real-time price limit per underlying stock in consideration of the trading 
+circumstances for single stock futures (including single stock futures spreads). (Amended on 
+August 17, 2018) 
+
+(5)  Pursuant  to  [§70-2(3)]  of  the  Regulation,  the  real  time  price  limits  shall  not  apply  to 
+quotations submitted before the first contract price (limited to the case where the first contract 
+price noted in [§73(1)1] of the Regulation is determined by the method of continuous auction) 
+noted in subparagraph 1 of [§63] is determined. [December 21, 2022] 
+
+[August 20, 1024] 
+
+§60-4. Real-time Price Limit Price Fluctuations 
+(Amended on October 30, 2019) 
+
+(1) Pursuant to [§70-2(3)] of the Regulation, the real-time price limit range shall be stipulated 
+in [Annex25]. 
+
+(2) Notwithstanding paragraph (1), in the case of abnormal trade circumstances or any other 
+cases that are deemed necessary for market management, the Exchange may change the price 
+change range noted in paragraph (1). 
+
+[August 20, 2014] 
+
+64 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§60-5. Release from Application of Real-time Price Limits 
+(Amended on October 30, 2019) 
+
+(1) Pursuant to [§70-2(2) and (3)] of the Regulation, the Exchange may not apply the real-time 
+price limit in comprehensive consideration of trade execution and market circumstances, the 
+gap  between  the  execution  price  and  the  price  of  underlying  asset,  etc.  In  such  cases, 
+termination  and resumption of the real-time price limit,  and other necessary matters for the 
+real-time price limit shall be determined by the Exchange separately. 
+
+(2) For the trading of equity derivatives of which price limit rate was expanded pursuant to 
+[§56-2] or [§59-2], notwithstanding the provisions of subparagraphs 1 through 5 of [§60-3(1)], 
+the  application  of  real-time  price  limit  shall  be  cancelled  pursuant  to  [§70-2(2)]  of  the 
+Regulation. [May 19, 2015] (Amended on March 15, 2018; August 17, 2018; October 30, 2019) 
+
+[August 20, 2014] 
+
+§61. Quotation Quantity Limits and Accumulated Quotation Quantity Limits 
+
+(1) Pursuant to [§71] of the Regulation, the quotation quantity limit and accumulated quotation 
+quantity limit shall be the quantity noted in [Annex 17-2]. Provided that, when it is deemed 
+necessary for the market management, the Exchange may change the quotation quantity limits 
+and accumulated quantity limits. (Amended on October 26, 2009; June 18, 2010; February 17, 
+2012; July 8, 2013; August 28, 2014; June 12, 2018) 
+
+(2)  The  accumulated  quotation  quantity  limit  noted  in  paragraph  (1)  shall  apply  only  to 
+proprietary accounts and ex-post customer margin accounts of a member that conducts trading 
+noted in any of the following subparagraphs (excluding the negotiated trades): (Amended on 
+August 28, 2014; July 3, 2015; March 15, 2018: May 29, 2025)   
+
+1. Trading of KOSPI200futures (including futures spread trades);   
+2. Trading of KOSPI200 options; 
+3. Trading of Mini KOSPI200 futures ((including futures spread trades); and 
+4. Trading of Mini KOSPI200 options. 
+
+(3) Notwithstanding paragraph (1), the member may specify the quotation quantity limit and 
+accumulated quotation  quantity  limit  that is  within the quantity  according to  paragraph (1). 
+[July 8, 2013] 
+
+(4)  Notwithstanding  paragraphs  (1)  and  (2),  in  cases  where  the  block  trading  (excluding 
+algorithmic  trading)  deems  necessary,  the  member  may  adjust  the  accumulated  quotation 
+quantity  limit  of  the  relevant  trade,  which  is  raised  subsequent  to  the  review  by  the  risk 
+management department of member. In such cases, the member shall preserve the documents 
+related to the review by its risk management department for a period of ten (10) years. [July 8, 
+2013] 
+
+65 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER 2. TRADE EXECUTION 
+
+Section 1. Methods of Trade Execution 
+
+§62. Priority of Quotations at Upper/Lower Limit Prices for Periodic Call Auction 
+
+(1) Pursuant to [§72(3)2p] of the Regulation, in cases where the contract price of periodic call 
+auction is established at the upper limit price [in the case of the regular session trading of equity 
+derivatives, it shall be limited to the upper price limit of the 3rd phase (including the upper price 
+limit of the 1st phase or the 2nd phase, which is the same as the price): the same hereinafter in 
+this paragraph and the paragraph (2)]or the lower limit price[in the case of the regular session 
+trading of equity derivatives, it shall be limited to lower price limit of the 3rd phase (including 
+lower price limit of the 1st phase or the 2nd phase, which is the same as the price): the same 
+hereinafter in this paragraph and the paragraph (2)], the priority of the bid or ask quotations for 
+periodic call auction placed at the upper limit price or the bid or ask quotations placed at the 
+lower limit price shall be in the order specified in each of the following subparagraphs, while 
+the  quotation  with  higher  quantity  having  priority  over  the  quotations  with  lower  quantity 
+(between the quotations with the same quantity, the quotation recorded earlier in the Exchange 
+derivatives  system  shall  have  priority  over  the  ones  recorded  later)  until  it  reaches  to  that 
+quantity. In such cases, when the quantity changes as a result of correction or cancellation of 
+quotation, it shall be based on the remaining quantity. (Amended on May 19, 2015; June 20, 
+2016; December 21, 2022; April 18, 2025; April 9, 2026) 
+
+1. First priority: Trading quantity unit; 
+
+2. Second priority: Five (5) times the trading quantity unit; 
+
+3. Third priority: Ten (10) times the trading quantity unit; 
+
+4. Fourth priority: Twenty (20) times the trading quantity unit; 
+
+5. Fifth priority: Fifty (50) times the trading quantity unit; 
+
+6. Sixth priority: One hundred (100) times the trading quantity unit; 
+
+7. Seventh priority: Two hundred (200) times the trading quantity unit; 
+
+8. Eighth priority: 1/2 of the remaining quantity (the quantity less than the trading quantity 
+unit shall be rounded up to trading quantity unit); and 
+
+9. Ninth priority: All remaining quantity. 
+
+(2)  The  provisions  in  paragraph  (1)  shall  apply  until  the  entire  quantity  of  quotations  for 
+periodic  call  auction  placed  at  the  upper  limit  price  or  lower  limit  price  (in  the  case  of  the 
+market quotations, it shall be until they are regarded as the quotations at the prices other than 
+the upper limit price or lower limit price). 
+
+(3) Notwithstanding paragraphs (1)1 through (1)7, for the contracts of Single Stock Futures of 
+which  the  base  price  is  less  than  KRW  50,000,  paragraph  (1)  shall  apply  while  using  the 
+quantity  obtained  by  multiplying  ten  (10)  to  the  quantity  in  each  relevant  subparagraph. 
+(Amended on July 3, 2015) 
+
+66 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§63. Exceptions to Transactions by Call Auction   
+(Amended on December 21, 2022) 
+
+Pursuant to the proviso to other part than each subparagraph of [§73(1)3] of the Regulation, 
+the contract price in each of the following subparagraphs shall be determined by continuous 
+auction: (Amended on July 30, 2010; October 20, 2010; July 8, 2013; August 28, 2014; October 
+28, 2015; June 20, 2016; December 21, 2022) 
+
+1.  The first  contract  price  of the product  in  cases  where the  first  contract  price noted in 
+[§73(1)1  or  2]  of  the  Regulation  is  not  determined  by  call  auction  with  quotations 
+participating in the call auction noted in [§64]; and 
+
+2.  The last closing contract price of the contracts (excluding 3-month risk free benchmark 
+interest rate futures, currency futures, lean hog futures, single stock futures and options 
+of which underlying stock is scheduled to be delisted) of which the last trading day has 
+arrived; (Amended on April 18, 2025) 
+
+3.  [Deleted on April 5, 2024] 
+
+§64. Range of Quotations for Call Auction 
+
+(1) The range of quotation participating in call auctions pursuant to [§73(2)] of the Regulation 
+shall  be  the  quotations  received  during  the  period  specified  in  each  of  the  following 
+subparagraphs  (referred  to  as  the  “quotation  receiving  hours  for  call  auction”)  and  the 
+unexecuted quotations that were received earlier. (Amended on August 28, 2014; May 19, 2015; 
+April 4, 2019; December 21, 2022) 
+
+1. When determining the first contract price (hereinafter referred to as the “opening price by 
+call  auction”)  noted  in  [§73(1)1]  of  the  Regulation:  A  period  in  each  of  the  followings 
+(hereinafter referred to as “quotation hours for opening price by call auction”); (Amended 
+on May 29, 2025) 
+
+  (a)  For  regular  session:  A  period  of  fifteen  (15)  minutes  before  the  opening  of  regular 
+session. Provided that, in the case of the markets where the regular trading hours do not 
+start at 8:45 according to subparagraphs 2 and 3 of [Annex 1-2], it shall be a period of 
+thirty (30) minutes before the opening of regular session; and [May 29, 2025] 
+
+  (b) For night session: A period of ten (10) minutes before the opening of night session. 
+[May 29, 2025] 
+
+2.  When  determining  the  first  contract  price  after  the  resumption  of  trading  pursuant  to 
+[§76(2)] of the Regulation: a period of time determined by the Exchange for each case;   
+
+3.  When  determining  the  first  contract  price  after  the  resumption  of  trading  pursuant  to 
+[§77(2)] of the Regulation: the first ten (10) minutes after the resumption of trading; and 
+
+4.  When  determining  the  closing  price  by  call  auction:  the  period  of  ten  (10)  minutes 
+67 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+immediately before the closing of each regular session and night session. (Amended on May 
+29, 2025) 
+
+(2) Notwithstanding paragraph (1), for the single stock futures, single stock futures spread, and 
+single stock options of which the underlying stock is designated as the issues scheduled to be 
+delisted, the scope of quotations for periodic call auction shall be the quotations received during 
+the  period  noted  in  each  of  the  following  subparagraphs  (hereinafter  referred  to  as  the 
+“quotation  hour  for  periodic  call  auction  of  the  issues  scheduled  to  be  delisted”)  and  the 
+quotations that were received before such hour but have not yet been executed: (Amended on 
+February 28, 2014; May 19, 2015; June 20, 2016; April 5, 2024; November 1, 2024 
+) 
+
+1.  The period from the beginning of quotation receiving hour for the regular session to the 
+
+opening of regular session; 
+
+2.  The period from the start of regular trading hours until the start of trading hours of the 
+regular  session  (hereinafter  referred  to  as  the  “trading  hours  of  KOSPI  Market”) 
+pursuant to [§4(3)1] of the KOSPI Market Business Regulation 
+
+3. Before the unit time for trade execution in the following items: 
+
+(a) The time elapsed each thirty-minute from the start of trading hours of KOSPI Market; 
+
+(b)  The  time  elapsed  each  thirty-minute  from  the  time  of  the  trading  resumption  when 
+trading is resumed pursuant to [§76(2)] of the Regulation (in cases where trading is on halt 
+pursuant to [§74(2) and (5)] of the Regulation and resumed pursuant to  [§76(2)] of the 
+Regulation, item(a) shall apply. Provided that, in  cases  where the  time period  from  the 
+trading resumption to the nearest unit time for trade execution is less than ten (10) minutes, 
+the following unit time for trade execution.).Provided that, when the unit time for trade 
+execution immediately before 15:30 hours is after 15:20 hours, the period shall be from 
+the unit time for trade execution immediately before 15:00 hours until 15:30 hours (for the 
+contracts of which the last trading day has arrived, if the unit time for trade execution of 
+before 15:00 hours is after 14:50 hours, the period shall be from the unit time for trade 
+execution immediately before 14:30 hours until 15:00 hours). 
+
+4. The period from 15:30 hours until 15:45 hours. Provided that, in the case of contracts of 
+which the last trading day has arrived; the period shall be from 15:00 hours until 15:20 hours.   
+
+(3)  When  intending  to  halt  the  trading  pursuant  to  [§76(1)]  of  the  Regulation  during  the 
+quotation receiving hour for periodic call auction pursuant to paragraph (2)2, the trading shall 
+be halted without executing trade by periodic call auction. (Amended on February 28, 2014; 
+May 19, 2015) 
+
+(4) Notwithstanding the provisions of paragraphs (1) and (2), the Exchange may change the 
+quotation receiving hour for periodic call auction and the quotation receiving hour for periodic 
+call auction of the issues scheduled to be delisted, when the trading hours are changed, or it is 
+deemed that such change is necessary for the market management.   
+
+68 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§65. Deemed Price of Market Quotations at Periodic Call Auction 
+
+When  determining  the  contract  price  by  periodic  call  auction  pursuant  to  [§73(3)]  of  the 
+Regulation, the deemed price of market quotation shall be the price falling under each of the 
+following subparagraphs: (Amended on August 28, 2014) 
+
+1. In cases where there are only bid and offer market quotations, the price in each of the 
+following items:   
+
+(a) If the sum of the quantity of offer markets quotations and the sum of the quantity of 
+bid market quotations are the same, the most recent contract price; 
+
+(b) If the sum of the quantities of offer market quotations is higher than the sum of the 
+quantities of bid market quotations, the price resulting from subtracting the quotation price 
+unit from the most recent contract price (the lower limit price if such price is lower than 
+the lower limit price: the same hereinafter); and   
+
+(c)  If  the  sum  of  the  quantities  of  bid  market  quotations  is  higher  than  the  sum  of  the 
+quantities of offer market quotations, the price resulting from adding the quotation price 
+unit to the most recent contract price (the upper limit price if such price is higher than the 
+upper limit price: the same hereinafter).   
+
+2.  For  the  offer  market  quotations  other  than  those  noted  in  subparagraph1,  the  lowest 
+among the prices noted in each of the following items: 
+
+(a) The price resulting from subtracting quotation price unit from the lowest price of ask 
+quotations (excluding the offer market quotations: the same hereinafter in this Article and 
+[§67]);   
+
+(b)  The  lowest  price  of  bid  quotations  (excluding  the  bid  market  quotations:  the  same 
+hereinafter in this Article and [§67]); and 
+
+(c) The most recent contract price.   
+
+3. For the bid market quotations other than those noted in subparagraph 1: the highest among 
+the prices noted in each of the following items: 
+
+(a)  The  price  resulting  from  adding  a  quotation  price  unit  to  the  highest  price  of  bid 
+quotations;   
+
+(b) The highest price of ask quotations; and 
+
+(c) The most recent contract price. 
+
+§66. Exceptions to Periodic Call Auction 
+
+Pursuant to the proviso to the part other than each subparagraph of [§73(4)] of the Regulation, 
+if  it  falls  under  the  provisions  of  [§77(1)]  of  the  Regulation  during  the  quotation-receiving 
+
+69 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+hours for periodic call auction for the trade resumption (excluding the trade resumption in the 
+case that the Exchange deems necessary) as stipulated in [§76] of the Regulation, no trades 
+shall be executed by periodic call auction and the trading shall be halted. (Amended on August 
+28, 2014; May 19, 2015) 
+
+§67. Deemed Price of Market Quotations during Continuous Auction 
+
+When determining the contract price by means of continuous auction pursuant to [§74(2)] of 
+the Regulation, the deemed price of market quotations shall be the price falling under each of 
+the following subparagraphs: (Amended on August 8, 2014) 
+
+1. For offer market quotations, the lowest among the prices noted in each of the following 
+items:   
+
+(a)  The  price  resulting  from  subtracting  a  quotation  price  unit  from  the  lowest  asks 
+quotation. Provided that, in cases where there is no ask quotation, it shall be the most recent 
+contract price; and   
+
+(b)  The  lowest  price  of  bid  quotations.  Provided  that,  a  case  where  the  price  of  bid 
+quotations with partial execution condition or total execution condition is lower than the 
+real-time lower price limit shall be excluded. 
+
+2. For bid market quotations, the highest among the prices noted in each of the following 
+items:   
+
+(a)  The  price  resulting  from  adding  a  quotation  price  unit  to  the  highest  bid  quotation. 
+Provided that, in cases where there is no bid quotation, it shall be the most recent contract 
+price; and   
+
+(b)  The  highest  price  of  ask  quotations.  Provided  that,  a  case  where  the  price  of  ask 
+quotations with partial execution condition or total execution condition is higher than the 
+real-time upper price limit shall be excluded. 
+
+[August 20, 2014] 
+
+§67-2. Change of Market Quotations and Record, etc. 
+
+(1) Pursuant to [§74(3)] of the Regulation, in the case of the offer price of market quotation 
+over the real-time upper limit price or the bid price of market quotation under the real-time 
+lower limit price, the market quotations shall be converted into limit quotations. In such cases, 
+the receipt number of quotation shall not be assigned separately. 
+
+(2)  Pursuant  to  paragraph  (1),  the  details  of  limit  quotations  converted  from  the  market 
+quotations shall be recorded in the Exchange derivatives system by the priority of quotation 
+pursuant to [§72(3)] of the Regulation based on the market quotations prior to the conversion. 
+
+[August 20, 2014] 
+
+70 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 2. Special Cases of Methods of Trade Execution 
+[November 3, 2014] 
+
+§67-3. Restrictions of Negotiated Trades 
+
+(1) In accordance with [§75(5)] of the Regulation, a member shall not cancel or correct the 
+request that was made to the Exchange for a negotiated trade. Provided that this provision shall 
+not apply to the case of canceling a negotiated trade that has not yet been executed. (Amended 
+on August 28, 2014) 
+
+(2) Pursuant to [§75(5)] of the Regulation, a member shall not make a request for negotiated 
+trades falling under each of the following subparagraphs: (Amended on August 28, 2014; June 
+15, 2017; June 13, 2021) 
+
+1. A request through market-making accounts; 
+
+2. A request affixed with the ‘immediate or cancel’ condition or ‘fill or kill’ condition; 
+
+3. A request for quotations other than a limit quotation; 
+
+4. In the case of trading the exchange of futures for physicals, a request with the quantity 
+that exceeds the quantity of open interests held for the relevant USD futures and a request 
+when the prices in the USD spot market noted in [§72-3(2)] are not available; and 
+
+5. Deleted on July 13, 2021 
+
+[August 21, 2009] 
+
+§67-4. Trades eligible for Negotiated Block Trading 
+
+“Trades specified in the Enforcement Rules” in [§75-2(1)] of the Regulation shall refer to the 
+trades classified in each of the following subparagraphs: (Amended on June 15, 2017; March 
+15, 2018; February 16, 2022; June 29, 2023; April 5, 2024; May 29, 2025) 
+
+1. Equity derivatives trades. Provided that volatility index futures trades are excluded; 
+
+2. Interest futures trades. Provided that 5-year KTB futures trades are excluded; 
+
+3. Currency derivatives trades: Provided that USD options trades are excluded; 
+
+4. Commodity futures trades. Provided that Lean Hog futures trades are excluded; and 
+
+5.  Futures  spread  trades.  Provided  that  V-KOSPI  200  futures  spread  trades,  5-year  KTB 
+futures spread trades, Inter-KTB futures spread trades, and Lean Hog futures spread trades 
+shall be excluded. 
+
+71 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Wholly amended on June 20, 2016) 
+
+§68. Hours for requesting Negotiated Block Trading 
+
+“Hours  set  by  the  Enforcement  Rules”  in  [§75-2(2)]  of  the  Regulation  shall  be  the  regular 
+trading hours or the night trading hours. (Amended on May 29, 2025) 
+
+§69. Price of Negotiated Block Trade 
+
+“The price stipulated in the Enforcement Rules in [§75-2(3)] of the Regulation shall refer to, 
+from among the prices deemed to be fair and rational in terms of the pricing situation and the 
+trading volume of the relevant market at the time of conclusion of the negotiation, the price 
+corresponding to the quotation price unit in each of the following subparagraphs: (Amended 
+on June 29, 2023; November 24, 2023; April 5, 2024; April 18, 2025) 
+
+1.  For trades of stock index futures, stock index options, and stock index futures spread: 
+
+0.01 points.   
+
+2. For trades of single stock futures, single stock options, ETF futures, single stock futures 
+spread, and ETF futures spread: KRW 1; 
+
+3. For trades of KTB futures and KTB futures spread: 0.01. Provided that, it shall be 0.02 
+for 30-year KTB futures and 30-year KTB futures spread trades; 
+
+4.  For trades of 3-month risk free benchmark interest rate futures and 3- month risk free 
+benchmark interest rate futures spread: 0.005; 
+
+5.  For trades of currency futures and currency futures spread: 0.10. Provided that, it shall 
+
+be 0.01 for CNY futures and CNY futures spread; and 
+
+6.  For trades of gold futures and gold futures spread: KRW 10. 
+
+(2) [Deleted on April 5, 2024] 
+
+§70. Requesting Quantity of Negotiated Block Trading 
+
+The requesting quantity of negotiated block trading noted in [§75-2(4)] of the Regulation shall 
+be the quantities specified in [Annex 26]. (Wholly amended on March 21, 2016) 
+
+§71. Requesting Details and Methods for Negotiated Block Trading 
+
+(1) Pursuant to [§75-2(4)] of the Regulation, when intending to request a negotiated block trade, 
+the members shall input each of the following details to the Exchange derivatives system via 
+the member derivatives system or member derivatives input device: (Amended on August 21, 
+72 
+
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2009; June 15, 2017) 
+
+1. Name of contract; 
+2. Price; 
+3. Quantity; 
+4.  Derivatives  account  number  (for  foreigner’s  consolidated  accounts,  it  shall  be  the 
+classification code by end-investor under [§114-3(1)]); 
+5. Classification of ask and bid; 
+6. Name and derivatives account number (for foreigner’s consolidated accounts, it shall be 
+the classification code by end-investor under [§114-3(1)]) of the member who is the counter 
+party of trade; 
+7. Time when the agreement for negotiated block trading was concluded; and   
+8. In addition, other matter that the Exchange deems it necessary. 
+
+(2)  Members  shall  request  the  Exchange  during  the  trading  hours  of  the  relevant  day  for 
+negotiated  block  trades  for  which  negotiation  has  been  concluded  from  the  time  of  market 
+closing on the immediately preceding trading day to the time of market closing on the relevant 
+day. (Amended on August 28, 2014; March 21, 2016; June 20, 2016; June 29, 2023; April 5, 
+2024; May 29, 2025) 
+
+(3) When requesting for negotiated block trades pursuant to paragraphs (1) and (2), members 
+shall collect and keep the materials that verify details of the negotiation. 
+
+(4) In cases where a member requests for negotiated block trades during the regular trading 
+hours  and  the  request  time  is  delayed  by  more  than  one  (1)  hour  from  the  time  when  the 
+negotiation concluded (in case where the relevant time is out of the regular trading hours, it 
+shall be the opening time of the regular trading), the relevant member shall keep records of the 
+causes for the delay. [March 21, 2016] (Amended on June 29, 2023; April 5, 2024; May 29, 
+2025) 
+
+(5) Members shall keep the materials mentioned in paragraphs (3) and (4) for ten (10) years. 
+[March 21, 2016] 
+
+§72. [Deleted on August 21, 2009] 
+
+§72-2. Target, Price Range, and Requesting Hours and Quantity for Exchange of Futures for 
+Physicals 
+
+(1) “Futures specified in the Enforcement Rules” in [§75-3(1)] of the Regulation shall be the 
+USD futures. [March 13, 2017] 
+
+(2) “Price set  by the Enforcement Rules” in  [§75-3(2)] of the Regulation  shall be the price 
+calculated by applying [§69] mutatis mutandis. [March 13, 2017] (Amended on June 29, 2023; 
+April 5, 2024) 
+
+(3) Pursuant to [§75-3(3)] of the Regulation, the requesting hours for trading the exchange of 
+
+73 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+futures for physicals shall be the regular trading hours. . (Amended on August 28, 2014; April 
+5, 2024) 
+
+(4)  Pursuant  to  [§75-3(3)]  of  the  Regulation,  when  requesting  the  trade  of  the  exchange  of 
+futures for physicals, 15,000 contracts shall be the maximum quantity.   
+
+[August 21, 2009] 
+
+§72-3. Details and Methods of Requesting Exchange of Futures for Physicals 
+
+(1) Pursuant to [§75-3(3)] of the Regulation, when intending to request a trading of exchange 
+of futures for physicals, the members shall input each of the following details to the Exchange 
+derivatives system via the member derivatives system or member derivatives input device: 
+
+1. Matters specified in [§71(1)1] through [§71(1)7]; 
+
+2. Prices of US dollar in the spot market; and 
+
+3. In addition, the matters that the Exchange deems necessary. 
+
+(2) Prices of US dollar in the spot market noted in paragraph (1)2 shall be the US dollar spot 
+rates (limited to the one after the start of the US dollar spot transaction of the day) established 
+just before the conclusion of the agreement for trading the exchange of futures for physicals. 
+(Amended on June 25, 2024) 
+
+(3) The member shall submit the request for trading of exchange of futures for physicals to the 
+Exchange within the regular trading hours of the day after concluding the agreement for trading 
+the exchange of futures for physicals. In this case, if the request for trading the exchange of 
+futures for physicals is delayed by one (1) hour or more from the time when the negotiation 
+concluded, the relevant member shall keep records of the causes for the delay. (Amended on 
+August 28, 2014; April 5, 2024) 
+
+(4) [Deleted on June 29, 2023] 
+
+[August 21, 2009] 
+
+§72-4. Delivery and Receipt of US Dollar and Amount 
+
+(1) Pursuant to [§75-3(3)] of the Regulation, the parties trading the exchange of futures for 
+physicals  shall deliver and receive US  dollar and  the amount equivalent to  the exchange of 
+futures for physicals after the execution of the trade without delay.   
+
+(2) US dollar noted in paragraph (1) shall be the amount determined by multiplying the quantity 
+requested for exchange of futures for physicals by the trading unit of USD futures.   
+
+(3) The  amount  noted  in  paragraph  (1)  shall  be  the  amount  determined  by  multiplying  the 
+amount of US dollar noted in paragraph (2) by the price of US dollar in the spot market noted 
+
+74 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+in [§72-3(2)].   
+
+(4) The delivery and receipt of US dollar and amount between a member and the Exchange, a 
+non-clearing member and a designated clearing member, and a member and a customer shall 
+be accomplished by crediting or debiting the US dollar and amount to the accounts opened at 
+the settlement banks. (Amended on November 3, 2014) 
+
+[August 21, 2009] 
+
+§72-5. Requesting Hours of Negotiated FLEX Trades 
+
+A request for FLEX trades pursuant to [§75-4(2)] of the Regulation shall be submitted from 
+ten (10) minutes after opening of regular session to twenty (20) minutes before closing time of 
+regular  session  (quotation  receiving  hours  for  periodic  call  auction  for  the  USD  futures  of 
+which the last trading day has arrived shall be excluded) but excluding the quotation hours for 
+periodic call auction. Provided that this provision shall not apply to the case of quotation hours 
+for periodic call auction for the USD futures of which the last trading day has arrived. (Wholly 
+amended on August 28, 2014) 
+
+§72-6. Price Range of FLEX Trades 
+
+(1) Pursuant to [§75-4(3)] of the Regulation, negotiated FLEX trades shall be requested at the 
+price corresponding to the quotation price unit among prices in-between the price produced by 
+subtracting the price limit range of negotiated FLEX (referring to the amount calculated  by 
+multiplying  1/100  by  the  base  price  of  negotiated  FLEX  trade;  the  same  hereinafter  in  this 
+Paragraph) from the base price of the negotiated FLEX trade and the price produced by adding 
+the  price  limit  range  of  negotiated  FLEX    to  the  base  price  of  the  negotiated  FLEX 
+trade.(Amended on August 28, 2014) 
+
+(2) The base price for negotiated FLEX trade noted in paragraph (1) shall be the price resulted 
+from the following calculation formula: 
+
+The  most  recent  contract  price  of  base  contract  [it  refers  to  the  delivery  month  contract 
+(excluding contracts whose final trading day arrives on the previous day, and if there are two 
+or more such contracts, it shall be the contract whose the last trading day arrives earlier) with 
+the largest contract quantity (excluding contract quantity through futures spread trading and 
+negotiated trading); the same hereinafter in this paragraph] of USD futures immediately before 
+the conclusion of the negotiation + [the previous day’s settlement price of USD futures (if no 
+settlement price is available, the theoretical price determined by the Exchange) –the previous 
+day’s settlement price of the base contract of USD futures]. (Amended on August 28, 2014; 
+May 29, 2025) 
+
+(3) Notwithstanding paragraph (1), the price of negotiated FLEX trade may be changed in case 
+where the market condition has changed, or it is deemed necessary for the market management.   
+
+[August 21, 2009] 
+
+75 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§72-7. Requesting Quantity of Negotiated FLEX Trades 
+
+The requesting quantity of negotiated FLEX trades pursuant to [§75-4(4)] of the Regulation 
+shall be higher than ten (10) contracts, but less than five thousand (5,000) contracts. (Amended 
+on October 26, 2009) 
+
+[August 21, 2009] 
+
+§72-8. Details to be specified and Method of Requesting Negotiated FLEX Trades 
+
+(1) Pursuant to [§75-4(4)] of the Regulation, when intending to request negotiated FLEX trades, 
+the members shall input each of the following details to the Exchange derivatives system using 
+the member derivatives system or member derivatives input device: 
+
+1. Matters specified in [§71(1)1 through 7]; 
+
+2. The last trading day; 
+
+3. The final settlement method; and 
+
+4. In addition, the matter that are deemed necessary by the Exchange. 
+
+(2) The member shall submit the request for negotiated FLEX trade to the Exchange within ten 
+(10) minutes of concluding the agreement for negotiated FLEX trades. (Amended on August 
+28, 2014) 
+
+[August 21, 2009] 
+
+§72-9. [Deleted on May 29, 2025] 
+
+§72-10. [Deleted on May 29, 2025] 
+
+§72-11. [Deleted on May 29, 2025] 
+
+§72-12. [Deleted on May 29, 2025] 
+
+§72-13. [Deleted on May 29, 2025] 
+
+Section 3. Trade Suspension 
+
+§73. Criteria for Discretionary Trade Suspension 
+
+(1) “As stipulated in the Enforcement Rules” in [§76(1)1] of the Regulation shall be the cases 
+that falls under each subparagraph of [§4]. (Amended on August 28, 2014) 
+
+76 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) “Period stipulated in the Enforcement Rules” in [§76(1)2] of the Regulation shall refer to 
+ten (10) minutes. (Amended on August 28, 2014) 
+
+(3) “Number of stocks specified in the Enforcement Rules” in [§76(1)2] of the Regulation shall 
+be the stocks noted in each of the followings: (Amended on August 28, 2014; October 28, 2015; 
+March 15, 2018; April 5, 2024; November 1, 2024) 
+
+1. For KOSPI 200: one hundred (100) stocks;     
+2. For KOSDAQ 150: seventy-five (75) stocks; 
+3. For KRX 300: one hundred and fifty (150) stocks; 
+4. For KOSDAQ Global: stocks corresponding to 1/2 of the number of constituent stocks; 
+and 
+5. For Sector Index: stocks corresponding to 1/2  of the number of  constituent stocks per 
+sector index. 
+
+§74. Discretionary Suspension of Trades of Single Stock Futures and Single Stock Options 
+
+“Other cases stipulated in the Enforcement Rules” in [§76(1)3] of the Regulation shall be the 
+cases falling under each of the following subparagraphs. In such cases, the provision of each 
+subparagraph  shall  apply  to  each  stock  market  in  which  the  underlying  stocks  are  listed. 
+(Amended on August 28, 2014; July 3, 2015; November 25, 2021) 
+
+1.  Where  the  stock  market  is  temporary  halted  pursuant  to  [§6]  of  the  KOSPI  Market 
+Business Regulation or [§6] of the KOSDAQ Market Business Regulation; 
+
+2. Where the trading of underlying stocks is halted pursuant to each subparagraph of [§26(1)] 
+of the KOSPI Market Business Regulation or [§25(1)] of the KOSDAQ Market Business 
+Regulation; 
+
+3. Where the trading or receipt of quotation for underlying stocks is temporarily halted due 
+to the failure of trading system of KOSPI Market or influx of excessive quotations for certain 
+issues; 
+
+4. Where the trading of underlying stocks is suspended pursuant to each subparagraph of 
+[§153(1)]  of  the  KOSPI  Market  Listing  Regulation  or  [§18(1)]  of  the  KOSDAQ  Market 
+Listing Regulation; 
+
+5. Where the trading of underlying stocks is suspended pursuant to each subparagraph of 
+[§40(1)] of the KOSPI Market Disclosure Regulation or [§37(1)] of the KOSDAQ Market 
+Disclosure Regulation; and     
+
+6. Additionally,  case  where  the  Exchange  deems  it  necessary  for  market  management  of 
+single stock futures and single stock options. 
+
+77 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§74-2. Discretionary Suspension of ETF Futures Trades 
+
+“Other cases specified in the Enforcement Rules” in [§76(1)8] of the Regulation shall refer to 
+the cases falling under each of the following subparagraphs: 
+
+1.  Where  the  stock  market  is  temporarily  halted  pursuant  to  [§6]  of  the  KOSPI  Market 
+Business Regulation; 
+
+2. Where the trading of underlying ETFs is halted pursuant to each subparagraph of [§26(1)] 
+of the KOSPI Market Business Regulation; 
+
+3. Where the trading or quotation receipt of underlying ETFs is suspended due to a failure 
+in the trading system of the stock market or influx of excessive quotations for some issues; 
+
+4. Where the trading  of underlying  ETFs is  suspended pursuant  to  each subparagraph of 
+[§153(1)] of the KOSPI Market Listing Regulation; and 
+
+5. Additionally,  case  where  the  Exchange  deems  it  necessary  for  market  management  of 
+ETF futures. 
+
+[June 15, 2017] 
+
+§75.Compulsory Suspension of Trading of Stock Index Futures, etc. 
+
+Pursuant to [§77(4)] of the Regulation, the provisions of [§77(1) through (3)] of the Regulation 
+shall apply to the suspension, resumption and conclusion of each of the following futures trades 
+(including  spreads  between  contracts),  based  on  the  KOSPI  Market:  (Amended  on  July  13, 
+2021; November 24, 2023; November 1, 2024) 
+
+1. KRX 300 futures; and 
+
+2. KRX BBIG index futures, KRX Secondary Battery Index futures, KRX Bio Index 
+futures, KRX Semiconductor Index futures, and Korea Value-up Index futures. 
+(Amended on October 1, 2025) 
+
+[December 7, 2018] 
+
+§75-2. Products Not Eligible for Night Trading under Compulsory Suspension of Trading   
+
+“The market specified in the Enforcement Rules” in the latter part of [§77(3)] of the Regulation 
+shall refer to all markets noted in subparagraph 4 of Annex 1-2.   
+
+[May 29, 2025]   
+
+Section 4. Notification of Trading Details, Publication of Market Price, etc. 
+(Amended on November3, 2014) 
+
+78 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§76. Trading Details to be Notified 
+
+“Trading details stipulated in the Enforcement Rules” in [§79(1)] of the Regulation shall refer 
+the details noted in each of the following subparagraphs: (Amended on August 28, 2014) 
+
+1. Member's ID number that the Exchange assigned to the member; 
+
+2. Name of contract; 
+
+3. Quantity; 
+
+4. Price; 
+
+5. Classification between bid and ask; 
+
+6. Classification between proprietary account trade and customer-account trade;   
+
+7.  Category  of  limit  quotation,  market  quotation,  limit-to-market-on-close  quotation  and 
+immediately executable limit quotation; 
+
+8. Trade execution time, day, month and year; and 
+
+9. Additionally, the matters that the Exchange deems them necessary. 
+
+§77. Methods of Correcting Transaction Errors 
+
+(1) Pursuant to [§81(3)] of the Regulation, the Exchange shall correct the transaction errors 
+made  by  the  Exchange  (referring  to  the  transaction  errors  specified  in  [§81(1)]  of  the 
+Regulation; the same hereinafter) in a manner noted in each of the following subparagraphs: 
+(Amended on August 21, 2009; November 3, 2014) 
+
+1. In the case of a transaction error made in contract name, quantity, price, specification of 
+bid and ask, quotation type, derivatives account number of customer, etc.: The member shall 
+be asked to take over the relevant trade as a proprietary account trade; and 
+
+2. In the case of an error made in the classification between proprietary account trade and 
+customer-account  trade  and  classification  of  investors:  Corrections  shall  be  made  to  be 
+consistent with the classifications. 
+
+(2) Pursuant to [§81(3)] of the Regulation, the Exchange shall correct transaction errors made 
+by  members  in  a  manner  noted  in  each  of  the  following  subparagraphs.  Provided  that  the 
+correction of transaction errors shall not apply to the case of trades of exchange of futures for 
+physicals under [§75-3] of the Regulation: (Amended on November 3, 2014; June 15, 2017; 
+October 30, 2019) 
+
+1. In the case of a transaction error made in contract name, quantity, price, specification of 
+bid  and  ask,  quotation  type,  derivatives  account  number  of  customer,  etc.:  The  relevant 
+member shall be asked to take over the relevant trading as a proprietary account trade;   
+
+2. In the case of a transaction error made in customer’s account number: The error shall be 
+corrected either by having the member to take over the transaction error as its proprietary 
+account  trade  or  by  correcting  the  derivatives  account  number  with  the  consent  of  the 
+
+79 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+customer who opened the derivative account through which the transaction error was made; 
+and     
+
+3. In the case of a transaction error made in the classification between proprietary account 
+trade and customer-account trade, end-investor classification codes under [§114-3(1)] and 
+classification of investors: Corrections shall be made to be consistent with the classifications. 
+Provided  that,  in  the  case  of  a  transaction  error  related  to  the  end-investor  classification 
+codes, it shall be limited to the case where the customer consents or requests. 
+
+4. In the case of a transaction error made both in quantity and customer’s account number: 
+For  the  quantity  that  is  consistent  with  the  order  details,  the  error  shall  be  corrected  by 
+correcting the derivatives account number with the consent of the customer who opened the 
+derivatives account through which the transaction error was made; and, for the remaining 
+quantity,  it  shall  be  corrected  by  having  the  member  to  take  over  such  quantity  as  its 
+proprietary account trade. 
+
+(3) The correction of a transaction error made by a member pursuant to paragraph (2) shall be 
+requested by the member within the time period in  each of the following subparagraphs by 
+submitting a request form of [Annex: Form 4] to the Exchange or by inputting the relevant 
+details to the Exchange derivatives system using the member derivatives system or derivatives 
+input device. (Amended on August 28, 2014; May 29, 2025) 
+
+    1. If a transaction error occurs during regular trading hours: Up to twenty (20) minutes after 
+
+the market close on the relevant day; and [May 29, 2025] (Amended on April 6, 2026) 
+
+    2. If a transaction error occurs during night trading hours: From the start of regular trading 
+hours on the relevant trading day to twenty (20) minutes after the market close. [May 29, 
+2025] (Amended on April 6, 2026) 
+
+(4) Notwithstanding paragraphs (2) and (3),where a large-sized transaction error by investor 
+under[§81(2)] of the Regulation (excluding large-sized transaction errors by investors of the 
+contract  of  which  the  last  trading  day  has  arrived)  also  falls  under  transaction  errors  by 
+members  (from  among  the  transaction  errors  noted  in  paragraphs  (2)  and  (3),  those  in  the 
+classification between proprietary account trade and customer-account trade, and classification 
+of investors shall be excluded), the Exchange shall correct the transaction errors by members 
+according  to  subparagraphs  1,  2  and  4  of  paragraphs  (2),  after  resolving  the  large-sized 
+transaction  errors  by  investors.  In  such  cases,  the  member  shall  request  the  correction  by 
+submitting an application prepared in accordance with [Annex: Form 4] to the Exchange or 
+input the details of transaction errors into the Exchange derivatives system through the member 
+derivatives system until 17:00 hours of the trading day following the trading day on which the 
+transaction errors by members occurred  after resolving the large-sized transaction errors  by 
+investors. [November 3, 2014] (Amended on June 15, 2017; October 30, 2019; May 29, 2025) 
+
+(5) The Exchange shall prepare and keep the documents regarding the correction of transaction 
+errors for ten (10) years. 
+
+(Wholly amended on February 17, 2012) 
+
+80 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§78. Settlement of Gains/Losses Arising from Correction of Transaction Errors Made by the 
+Exchange 
+
+(1) In the case of taking over the  transaction  errors made by the Exchange as a  proprietary 
+account  trade  pursuant  to  [§77(1)],  the  member  shall  promptly  conduct  offsetting  trade 
+(referring to the trade that  cancels out the open interests of each bid  and offer per contract, 
+except for the futures spread contracts: the same hereinafter) during the regular trading hours 
+by placing a quotation for periodic call auction. Provided that, in the case of USD FLEX trades, 
+the offsetting trade shall be accomplished by conducting a negotiated FLEX trade. [Proviso on 
+August 21, 2009] (Amended on May 29, 2025) 
+
+(2) The Exchange shall settle with the member the gains and losses resulting from the offsetting 
+trade pursuant to paragraph (1). In such cases, the expenses associated with the offsetting trade 
+including the commission fees shall be recorded as a loss. 
+
+(3) The gains and losses pursuant to paragraph (2) shall be settled on the last business day of 
+the month to which the regular trading hours of the trading day following the trading day when 
+the offsetting trade was made belongs. Provided that, the Exchange may, whenever it is deemed 
+necessary, determine the settlement time for each case while taking into account such factors 
+as the size of gains and losses to be settled.   
+
+§78-2. Requirements for Resolving Large-sized Transaction Errors by Investors 
+
+Trades that meet the requirements noted in the Enforcement Rules noted in [§81-2(1)] of the 
+Regulation shall refer to the trades that satisfy all requirements noted in each of the following 
+subparagraphs by derivatives account: (Amended on August 28, 2014; May 19, 2015; July 3, 
+2015; June 15, 2017; October 30, 2019) 
+
+1.  The  amount  obtained  by  multiplying  the  difference  between  the  execution  price  of 
+transaction  errors  caused  by  investors  and  the  base  price  for  resolving  transaction  errors 
+specified in [Annex 24] by the execution quantity and multiplier of relevant trade shall be 
+no less than KRW 10 billion by product market. Provided that, for the futures spreads market 
+(excluding the inter-KTB futures spreads market), the relevant amount shall be added to the 
+futures market with identical underlying assets and multipliers;   
+
+2.  The  execution  price  shall  be  outside  the  resolution  limit  range  of  transaction  errors 
+specified in [Annex 24]; 
+
+3. The transaction errors shall have been caused by the same error consecutively; 
+
+4.  No  person  related  to  transaction  errors  shall  abuse  intentionally  the  resolution 
+arrangement  for  the  large-sized  transaction  errors  under  [§81-2(1)]  of  the  Regulation 
+(hereinafter referred to as “large-sized transaction errors by investors”); and 
+
+5. Any other matters deemed necessary to resolve the relevant transaction errors for stable 
+and smooth settlement.   
+
+(Wholly amended on August 28, 2014) 
+
+81 
+
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§78-3. Request for Resolution of Large-sized Transaction Errors by Investors 
+(Amended on May 29, 2025) 
+
+(1) Pursuant to [§81-2(2)] of the Regulation, the member who brought about the large-sized 
+transaction  errors  by  investors  may  request  for  the  resolution  of  transaction  errors  to  the 
+Exchange by the method of inputting the trade details of the relevant transaction errors into the 
+Exchange derivatives system  through the system in  each of the following subparagraphs or 
+submitting the request form of [Annex: Form 15]. Provided that, in the case of negotiated trades, 
+the request for resolution of transaction errors shall be prohibited. (Amended on August 20, 
+2014; May 29, 2025) 
+
+    1. During regular trading hours: Member derivatives system or member derivatives terminal 
+
+[May 29, 2025] 
+
+    2. During night trading hours: Member derivatives terminal [May 29, 2025] 
+
+(2) The request for the resolution of transaction errors pursuant to paragraph (1) shall be made 
+within thirty (30) minutes after the relevant transaction errors occurred, within the period up to 
+twenty (2) minutes after the market closing. Provided that the Exchange may extend the request 
+period in the case of continued transaction errors or other cases deemed unavoidable including 
+the failure of the member derivatives system. (Amended on August 20, 2014) 
+
+(3) A member who requests for the resolution pursuant to the main sentence of paragraph (1) 
+shall submit the explanation on the transaction errors to the Exchange without delay. (Amended 
+on August 20, 2014; April 6, 2026) 
+
+(4)  In  cases  where  the  request  form  submitted  by  the  member  pursuant  to  paragraph  (1)  is 
+deemed to be partially missing or the contents of evidence documents submitted by the member 
+pursuant  to  paragraph  (3)  are  deemed  to  be  insufficient,  the  Exchange  may  request  the 
+submission again. [August 20, 2014] 
+
+[May 9, 2012] 
+
+§78-4. Methods of resolving Large-sized Transaction Errors by Investor 
+
+(1) Pursuant to [§81-2(2)] of the Regulation, after reviewing the details of the request and the 
+evidence materials submitted by the member pursuant to [§78-3], the Exchange may resolve 
+the corresponding transaction errors if the transaction errors satisfy all requirements noted in 
+each subparagraph of [§78-2]. [August 20, 2014] 
+
+(2) The Exchange shall notify its decision on whether or not to resolve transaction errors within 
+twenty (20) minutes after the closing of market on the trading day when it receives the request 
+for  the  resolution  pursuant  to  [§78-3].  Provided  that,  in  cases  where  the  Exchange  deems 
+necessary for market management in comprehensive consideration of the timing and details of 
+resolution request and evidence materials, and other trading activity and market circumstances 
+etc., it may extend its decision on the resolution within twenty (20) minutes after the closing 
+of market on the next trading day. [August 20, 2014] (Amended on May 29, 2025; April 6, 
+82 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2026) 
+
+(3) In cases where large-sized transaction errors by investors are resolved pursuant to paragraph 
+(1)  and  the  main  sentence  of  paragraph  (2),  the  transaction  errors  shall  be  relieved  by  the 
+method of deemed prices in each of the following subparagraphs as execution prices of the 
+large-sized transaction errors by investors at the time of settlement between the Exchange and 
+clearing members, and the designated clearing members and non-clearing members:(Amended 
+on August 20, 2014) 
+
+1. In cases where the execution price is higher than the transaction error resolution upper 
+limit (referring to the highest price among prices within the transaction error non-resolution 
+range  determined  by  [Annex  24];  the  same  hereinafter),  a  price  at  the  transaction  error 
+resolution upper limit; and       
+
+2. In cases where the execution price is lower than the transaction error resolution lower 
+limit (referring to the lowest price among the prices within transaction error non-resolution 
+range  determined  by  [Annex  24];  the  same  hereinafter),  a  price  at  the  transaction  error 
+resolution lower limit. 
+
+(4) Notwithstanding paragraph (3), in the case where the resolution for transaction errors is not 
+determined by the time noted in the main sentence of paragraph (2), transaction errors shall be 
+settled based on the prices of the following subparagraphs, and the difference of settlement 
+amount shall be settled  according to  the  results  of the determination on  whether to provide 
+resolution  or  not.  Provided  that,  in  cases  where  a  clearing  member  that  has  requested  the 
+resolution the relevant transaction errors is at the same time the counterparty clearing member, 
+the clearing member shall be deemed as the counterparty clearing member: 
+
+1. For a clearing member that requested the resolution, the execution price; and 
+
+2. For a counterparty clearing member, the price classified by the following items: 
+
+(a) In the case of offer price higher than the transaction error resolution upper limit: the 
+price at the transaction error resolution upper limit;     
+
+(b) In the case of bid price lower than the transaction error resolution lower limit: the price 
+at the transaction error resolution lower limit; and 
+
+(c) In the case of bid price higher than the transaction error resolution upper limit and offer 
+price lower than the transaction error resolution lower limit: the execution price.   
+
+(5) The member shall calculate the customer settlement amount and margin mutatis mutandis 
+to  paragraphs (3) and (4) for a customer who caused large-sized transaction  errors noted in 
+paragraphs (1) and (2) and the counterparty customer of the transaction errors. In such cases, 
+‘the  Exchange’  is  deemed  ‘the  member’,  ‘clearing  member  that  has  requested’  deemed 
+‘customer  that  has  requested’  and  “counterparty  clearing  member”  deemed  “counterparty 
+customer”, and the member shall calculate the customer margin of the counterparty customer 
+based on the price when the Exchange notifies the price in each subparagraph of paragraph (3). 
+(Amended on August 20, 2014) 
+
+83 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(6)  Notwithstanding  paragraph  (3),  in  cases  where  the  Exchange  deems  necessary  for  the 
+market management in comprehensive consideration of trade and market circumstances and 
+the price level of underlying asset etc., it may change each price noted in paragraph (3). [August 
+20, 2014] 
+
+(7) The Exchange shall retain the documents recording the details about the resolution of large-
+sized transaction errors by investors for a period of ten (10) years. (Amended on August 20, 
+2014) 
+
+§78-5. Publication of Trade Cancellation 
+
+Pursuant  to  [§81-3(2)] of the Regulation,  in the case of cancellation of trade, the Exchange 
+shall make public the corresponding fact immediately through the electronic media operated 
+by the Exchange such as internet  website, or information terminal  operated by members or 
+information providers, etc. [August 20, 2014] 
+
+§79. Publication of Market Prices, etc. and Methods Thereof 
+
+(1) “Details stipulated in the Enforcement Rules” in [§82(1)5] of the Regulation shall refer to 
+the details specified in each of the following subparagraphs: (Amended on March 21, 2016; 
+June 15, 2017; December 21, 2022; April 5, 2024) 
+
+1. For quotation receiving hours for call auction, matters in the following subparagraphs: 
+
+(a)  Expected matching price and quantity; 
+
+(b) The prices of three (3) successive expected best quotations including the prices of best 
+quotations per bid and offer and the quantities at such prices. In this case, when it is possible 
+to establish the expected matching price, they shall be based on the best quotation for the 
+case where such transaction has been executed; and   
+
+  (c) Total quotation quantity and total number of quotations by bid and offer. 
+
+    2. For quotation receiving hours other than the quotation receiving hours for call auction, 
+
+matters in the following subparagraphs: 
+
+(a)  The prices of five (5) successive best quotations (in the case of single stock futures, 
+single stock options and ETF futures, it shall be 10 quotations) including the prices of best 
+quotations, quotation quantity and number of quotations at each price per bid and offer: 
+and 
+
+(b) Total quotation quantity and number of quotations per bid and offer.   
+
+2. In the case of quotation receiving hours for periodic call auction, the expected contract 
+price, total quotation quantity and number of quotations per bid and ask. 
+
+3. [Deleted on March 21, 2016]   
+
+84 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) In the case of publishing the expected contract price pursuant to [§82(3)] of the Regulation: 
+the members shall not cancel or correct the quotations for periodic call auction during one (1) 
+minute  before  the  closing  of  the  quotation  receiving  hours  for  the  periodic  call  auction. 
+(Amended on October 26, 2009; May 9, 2012; August 28, 2014; May 19, 2015) 
+
+(3) Pursuant to [§82(3)] of the Regulation, the Exchange shall make public the market prices, 
+etc. through the electronic information delivery channels such as the internet homepage that it 
+operates or the devices of members or information service providers. (Amended on May 19, 
+2015) 
+
+(4) The Exchange may announce each of the following subparagraphs as the information useful 
+for investment pursuant to [§82(3)] of the Regulation. [May 19, 2015] (Amended on March 21, 
+2016; September 3, 2020) 
+
+1. Matters related to changes in market holidays and trading hours; 
+2. Matters related to margin rate; 
+3. Matters related to the execution of negotiated block trades; 
+4.  Matters  related  to  the  designation  of  or  release  from  the  designation  of  low  liquidity 
+products; 
+5. Matters related to a trading suspension and a trading resumption of new delivery month 
+contracts (including delivery week contracts) for low liquidity products; 
+6. Matters related to the designation as a product warned for delisting; and 
+7. Any other matters deemed necessary for investment decision. 
+
+(5) [Deleted on May 29, 2025] 
+
+CHAPTER 3. [Deleted on May 29, 2025] 
+
+§79-2. [Deleted on May 29, 2025] 
+
+§79-3. [Deleted on May 29, 2025] 
+
+§79-4. [Deleted on May 29, 2025] 
+
+§79-5. [Deleted on May 29, 2025] 
+
+§79-6. [Deleted on May 29, 2025] 
+
+§79-7. [Deleted on May 29, 2025] 
+
+85 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§79-8. [Deleted on May 29, 2025] 
+
+§79-10. [Deleted on May 29, 2025] 
+
+CHAPTER 4. MARKET MAKERS 
+(Amended on November 3, 2014) 
+
+§80. Qualifications of Market Maker 
+
+(1) Pursuant to [§83(2)] of the Regulation, a company that intends to become a market maker 
+shall meet each of the following requirements: (Amended on March 9, 2021; May 18, 2021; 
+November 1, 2024) 
+
+1. To be engaged in the investment dealing business; 
+
+2. To be a member; and 
+
+3. To designate two or more of its officers and/or employees as a staff-in-charge of market 
+
+making. 
+
+4. In the case of falling under any of the followings, one (1) year or more shall be elapsed 
+since that time: 
+
+(a)  Case where a market making agreement is terminated due to the imposition of demerit 
+points  for  the  non-fulfillment  of  market  making  obligation,  etc.  based  on  the 
+assessment result of the market maker of the Exchange; and 
+
+(b) Case where a member has a record of having been subject to a criminal sanction or any 
+measures equivalent to or heavier than penalty surcharge, business suspension, trading 
+suspension or member fine (limited to a fine amounting to KRW 10 million or more), 
+on account of a violation of the relevant statues on capital markets and the business 
+regulations of the Exchange in the course of performing the tasks of market making. 
+
+5. In cases where a market maker submits quotations for covered short sales pursuant to 
+the proviso to the part other than subparagraphs of Article 180(1) of the Act (hereinafter 
+referred to as “covered short sales”) to trade stocks or ETFs for the purpose of avoiding or 
+reducing losses caused by price fluctuations of market making products in the process of 
+performing the market making tasks (hereinafter referred to as the “risk-hedging trades” in 
+this  Chapter),  the  market  maker  shall  have  an  internal  control  device  that  allows  the 
+quotations for covered short sales only if the relevant listed stocks are borrowed. 
+
+(2) In the case of designating or changing a staff-in-charge of market making, the market maker 
+shall notify it to the Exchange in advance. 
+
+86 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§81. Products, Contracts and Periods for Market Making 
+
+(1) Pursuant to [§83(4)], the market making products shall be ones selected separately by the 
+Exchange among the products that require liquidity supply. (Amended on December 18, 2012; 
+August 28, 2014; March 9, 2021) 
+
+(2) Pursuant to [§83(4)] of the Regulation, the products for which the market-making quotation 
+can  be  submitted  shall  be  those  specified  by  the  market  making  contract.  Provided  that  the 
+market  making  quotation  shall  be  submitted  as  determined  by  the  Exchange  for  the  issues 
+assigned  to  submit  the  obligatory  market  making  quotation  by  the  Exchange  (hereinafter 
+referred to as the “obligatory market-making quotation”). (Amended on December 10, 2010; 
+January 27, 2011; July 8, 2013; August 28, 2014; March 9, 2021; May 24, 2023) 
+
+(3) Pursuant to [§83(4)] of the Regulation, the period (hereinafter referred to as the “market-
+making period”) during which the market making quotation can be submitted shall be at the 
+least four (4) quarters, including the quarter to which the starting day of the market-making 
+period for each market-making product belongs. In such cases, if the starting day of the market-
+making  period  belongs  to  the  second  or  third  month  of  the  quarter,  such  quarter  shall  be 
+excluded from counting. (Amended on June 18, 2010; October 20, 2010; December 18, 2012; 
+August 28, 2014; April 14, 2016) 
+
+(4) The Exchange may examine whether the market making shall be continued after the market-
+making period, by taking into account the liquidity level of market-making products, the degree 
+of participation of market participants other than market makers and other necessary matters 
+as determined separately by the Exchange, and notwithstanding paragraph (3), the Exchange 
+may determine the market making period differently in market making agreements. [April 14, 
+2016] (Amended on March 9, 2021) 
+
+§82. Entering into or Terminating Written Agreements for Market Making 
+
+(1) Pursuant to [§83(4)] of the Regulation, a person who intends to become a market maker 
+shall enter into a market making agreement with the Exchange. (Amended on October 20, 2010; 
+August 28, 2014) 
+
+(2)  The  Exchange  and  the  market  maker  may  terminate  the  market  making  agreement 
+according to the stipulations of the Exchange. (Amended on June 22, 2011; August 28, 2014; 
+September 6, 2016; March 9, 2021) 
+
+(3) When the market making agreement is terminated or expired, the market maker shall close 
+out the open interests held in relation to the relevant agreement or transfer those open interests 
+to proprietary accounts other than the market making accounts by the expiry date of validity 
+period of the relevant agreement. In such cases, when the market maker applies for transfer, 
+the Exchange shall transfer the relevant open interests. (Amended on September 6, 2016) 
+
+(4) In cases where the market maker holds the open interests in relation to the market madding 
+agreement even after the market close on the expiry date of the term of validity of the relevant 
+agreement, it shall be deemed that the market maker has applied for the transfer of the relevant 
+open interests. (Amended on September 6, 2016)   
+
+87 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) [Deleted on September 6, 2016] 
+
+§83. Methods of Submitting Market Making Quotations 
+
+(1) Pursuant to [§83(4)] of the Regulation, the market maker may submit the market making 
+quotations  through  market  making  account  in  the  manner  of  each  of  the  following 
+subparagraphs: (Amended on August 28, 2014) 
+
+1. Shall be limit quotations; and 
+2. Shall be submitted during the quotation receiving hour of the regular sessions. 
+
+(2)  Notwithstanding  paragraph  (1),  the  market  maker  shall  submit  the  market  making 
+quotations for the obligatory market making products in the manner of each of the following 
+subparagraphs: (Amended on September 6, 2016; March 9, 2021; December 21, 2022) 
+
+1. Shall be limit quotations;   
+
+2. Shall be submitted during the quotation receiving hours excluding quotation receiving 
+hour for periodic call auction; 
+
+3. When submitting any one of ask and bid quotations, the quotation on the other side shall 
+be  submitted  immediately.  Provided  that  in  the  case  of  falling  under  the  requirements 
+separately determined by the Exchange, an exception may be made; 
+
+4. The spread between the prices of the bid and ask quotations noted in subparagraph 3 shall 
+be within the range set by the market making agreement; and   
+
+5. The quantity of a market making quotation shall be at least the quantity set by the market 
+making agreement.   
+
+(3) When intending to open, change or close a market making account noted in paragraph (1), 
+the market maker shall report the details relating to the account at least five (5) business days 
+before the opening, changing or closing by inputting the details into the Exchange derivatives 
+system  via  the  member  derivatives  system  or  member  derivatives  terminal  or  submitting  a 
+written notification to the Exchange. In such cases, the market maker classified in each of the 
+following  subparagraphs  shall  report  together  with  the  account  specified  in  the  relevant 
+subparagraph: [August 8, 2014] (Amended on March 21, 2016; July 12, 2016; March 9, 2021; 
+May 29, 2025) 
+
+1.  For  a  market  maker  who  intends  to  be  exempted  from  the  securities  transaction  tax 
+pursuant to Article 117 of the Restriction of Special Taxation Act: The account exclusively 
+for the trading of underlying stocks for risk-hedging trades as prescribed in Article 115(2) 
+of the Enforcement Decree of the same Act; and 
+
+2. [Deleted on March 9, 2021] 
+
+(4) When submitting quotations for risk-hedging trades, the market maker shall comply with 
+
+88 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+each of the following subparagraphs: [March 9, 2021] (Amended on May 18, 2021; April 5, 
+2024) 
+
+1.  Once the market making quotation is concluded, the quotations for risk-hedging trades 
+shall  be  submitted  through  the  reported  account  pursuant  to  subparagraph  1  of 
+paragraph (3) or the account previously reported to the Exchange as determined by the 
+Exchange without delay; 
+
+2.  In cases where covered short sales quotations of the stocks for risk-hedging trades are 
+submitted, the cumulative trading volume of the covered short sales for the relevant 
+stocks on the day shall not exceed the daily exemption limit quantity (referring to the 
+calculated  quantity  pursuant  to  paragraphs  (9)  and  (10)  of  Article  50-7  of  the 
+Enforcement Rules of the Restriction of Special Taxation Act) of the market making 
+products  whose  underlying  assets  include  the  relevant  stock  index  and  the  stocks.   
+Provided that in the case of falling under the causes determined by the Exchange such 
+as trading suspension of the stock certificate and changes in constituents of the stock 
+index and the weight of constituents, an exception may be made; and 
+
+3.  In  the  case  of  risk-hedging  trades  in  relation  to  the  market  making  of  the  product 
+separately determined by the Exchange, the quotations for covered short sales shall not 
+be submitted. 
+
+(5)  Notwithstanding  paragraphs  (1)  and  (2),  the  Exchange  may  change  the  method  of 
+submitting  the  market  making  quotation  or  exempt  the  submission  as  determined  by  the 
+Exchange in  cases  where submission  of market  making quotation  is  difficult due to  sudden 
+changes in market condition or in cases where it deem necessary for the market management. 
+[August 28, 2014] (Amended on March 9, 2021) 
+
+(6) In cases where a market maker submits a market making quotation under paragraphs (1) 
+and (2), the market maker shall not entrust it to other members. [May 18, 2021] 
+
+§84. [Deleted on August 28, 2014] 
+
+§85. [Deleted on August 28, 2014] 
+
+§86. [Deleted on August 28, 2014] 
+
+§87. [Deleted on August 28, 2014] 
+
+§88. [Deleted on December 18, 2012] 
+
+§89.Assessment of Market Makers 
+
+(1) Pursuant to [§83(4)] of the Regulation, the Exchange may conduct assessment of the market 
+making performance of a market maker for each market-making product in accordance with 
+the assessment criteria determined by the Exchange. (Amended on August 28, 2014; April 14, 
+2016; March 9, 2021) 
+
+(2) The Exchange may make public the result of performance assessment of market makers per 
+89 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+market making product. (Amended on August 28, 2014) 
+
+(3)  The  Exchange  may  request  the  market  makers  to  submit  the  materials  that  it  deems 
+necessary for the assessment of market maker’s performance. In such cases, the market makers 
+shall comply with such request without delay. 
+
+(4) The publication methods, the request for related documents pursuant to the provisions of 
+paragraphs (2) and (3) and other matters concerning the assessment of market makers shall be 
+determined by the Exchange separately. (Amended on August 28, 2014; March 9, 2021) 
+
+§90. Compensation for Market Makers 
+
+(1)  Pursuant  to  [§83(4)]  of  the  Regulation,  the  Exchange  may  pay  the  amount  (hereinafter 
+referred  to  as  the  “compensation  for  market  making”)within  the  range  of  the  service  fees 
+(referring to the transaction fee and clearing and settlement fee; the same hereinafter in this 
+Article  and  [§90(2)])  collected  during  the  term  of  market-making  agreement,  which  varies 
+according  to  the  trading  performance  for  market  making.(Amended  on  September  6,  2010; 
+December 18, 2012; August 28, 2014; April, 14, 2016) 
+
+(2)  Notwithstanding  paragraph  (1),  the  Exchange  may  pay  the  separate  compensation  for 
+market  making  to  market  makers  within  the  range  of  service  fee  paid  to  the  Exchange  for 
+proprietary account trades of market making linked products (referring to the products highly 
+related to market making products and specified by the Exchange; the same hereinafter in this 
+Article) during the term of market-making agreement. (Amended on August 28, 2014; April 
+14, 2016; June 20, 2016; March 9, 2021)   
+
+(3) [Deleted on September 6, 2016] 
+
+(4) In cases where the service fees are changed or it is deemed necessary, the Exchange may 
+determine  the  upper  or  lower  limit  of  compensation  for  market  making.  (Amended  on 
+September 6, 2010; June 22, 2011; December 18, 2012; August 28, 2014) 
+
+(5) The standard for payment, the scope of market making linked products, the upper or lower 
+limit of compensation pursuant to paragraphs (1) through (4), and other matters necessary for 
+payment of compensation for market making shall be determined by the Exchange separately. 
+(Amended on September 6, 2010; August 28, 2014; June 20, 2016; March 9, 2021) 
+
+§90-2. Compensation for Non-Market Makers 
+
+(1) Pursuant to [§83(4)] of the Regulation, the Exchange may pay compensation to the parties 
+other than market makers, who have contributed to market activation (hereinafter referred as 
+to the “market contributor”) according to the trade performance of market contributors within 
+the scope of service fees paid by the market contributors to the Exchange (in case where the 
+market contributor is a non-member, it refers to the fees paid by members in relation to the 
+trading involving the market contributor; the same hereinafter in this Article) with an aim of 
+trading  those  products  requiring  liquidity  supply  as  specified  by  a  market  contribution 
+agreement (hereinafter referred to as the “market contribution products”). (Amended on June 
+20, 2016) 
+
+90 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) The Exchange may pay separate compensation distinct from the compensation pursuant to 
+paragraph (1) within the scope of service fees paid by the market contributors to the Exchange 
+during the term of the market contribution agreement to trade the products other than the market 
+contribution products (limited to the products specified in the market contribution agreement). 
+[June 20, 2016] 
+
+(3)  In  order  to  receive  the  compensation  pursuant  to  paragraphs  (1)  and  (2),  the  market 
+contributor shall meet the requirements of each following subparagraphs:(Amended on June 
+20, 2016)   
+
+1. The special account  for market  contributor shall be  reported to  the Exchange. In such 
+cases,  the  non-member  shall  report  the  special  account  for  market  contribution  through 
+member; and 
+
+2.  The  agreement  on  the  compensation  between  the  Exchange  and  market  contributor 
+(referring to the member making an agreement with the corresponding non-member for the 
+opening  of  the  special  account  for  market  contribution  if  the  market  contributor  is  non-
+member) shall be entered in advance. 
+
+(4) The market contribution products and contracts for the market contribution, the standards 
+for compensation for market contributors pursuant to the provisions of paragraphs (1) through 
+(3) and other matters necessary for payment of compensation for market contribution shall be 
+separately determined by the Exchange. (Amended on June 20, 2016) 
+
+[August 28, 2014] 
+
+§90-3. Underlying Asset Conversion Rates of Market Makers, etc. 
+
+(1) Pursuant to [§83(4)] of the Regulation, the conversion rates that aim at exempting market 
+makers from the securities transaction tax (referring to the underlying asset conversion rates of 
+stock index futures trades and stock index options trades as prescribed in Article 50-7(4)1(a) 
+of  the  Enforcement  Rule  of  the  Restriction  of  Special  Taxation Act  and  the  stock  trading 
+volume conversion rates of the stock futures trades and stock options trades as prescribed in 
+Article 50-6(2)2 of the same Enforcement Rule; the same hereinafter) shall be the figures in 
+the following subparagraphs applicable to each issue: (Amended on March 21, 2016; May 24, 
+2023; April 5, 2024) 
+
+1. For the trades of stock index futures and stock futures: 1 for buying, and -1 for selling; 
+and   
+
+2. For the trades of stock index options and stock options: Figures specified in [Annex 27]. 
+
+(2) The  portion  of  market  capitalization  of  a  constituent  stock  in  the  index  for  stock  index 
+futures  trades  and  stock  index  options  trades  prescribed  in  Article  50-7(4)1(a)  of  the 
+Enforcement  Rule  of  the  Restriction  of  Special Taxation Act  that  aim  at  exempting  market 
+makers from the securities transaction tax pursuant to pursuant to [§83(4)] of the Regulation 
+(hereinafter referred to as “portion of market capitalization in the index”) shall be the figures 
+91 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+that the Exchange calculates by dividing the current market capitalization of the constituent 
+stock by the current market capitalization of the total constituents. Provided that the Exchange 
+may change the portion of market capitalization in the index in the case of any abnormal trading 
+situation  or  other  cases  where  it  deems  necessary  for  the  purpose  of  efficient  market 
+administration. [March 21, 2016] (Amended on May 24, 2023; April 5, 2024) 
+
+(3) The Exchange shall notify the market makers of the conversion rates and the portions of 
+market capitalization in the index after the market closing on each trading day. (Amended on 
+March 21, 2016) 
+
+[March 12, 2015] 
+
+PART IV. MEMBER MARGIN AND SETTLEMENT BETWEEN EXCHANGE AND 
+MEMBER 
+
+CHAPTER 1. MEMBER MARGIN 
+
+§91. Deposit Limits of Substitute Securities, Foreign Currencies and Foreign Securities 
+
+(1)  “Limits  set  by  the  Enforcement  Rules"  in  [§88(3)]  of  the  Regulation  shall  refer  to  the 
+amounts classified in each of the following subparagraphs for securities, foreign currencies and 
+foreign securities: 
+
+1. For the substitute securities under subparagraph 2(a) of [§47] of the Enforcement Rules 
+of Securities Market Clearing and Settlement Business Regulation, foreign currencies and 
+foreign  securities (referred to  as “cash equivalents” hereinafter in  this Article):  The total 
+amount of member margins deposited with the Exchange; and (Amended on March 24, 2025) 
+
+2. For the substitute securities under subparagraphs 1, 2(b) and 3 of [§47] of the Enforcement 
+Rules  of  Securities  Market  Clearing  and  Settlement  Business  Regulation:  The  amount 
+obtained by summing up the limits for each account group under each of the following items: 
+(Amended on March 24, 2025) 
+
+(a) For derivatives account groups for proprietary account trades of members: An amount 
+equivalent to 40/100 of the net risk-based margin under [§94]; and (Amended on May 29, 
+2025; April 9, 2026) 
+
+(b) For derivatives account groups of customers: An amount equivalent to 70/100 of the 
+member margin for net exposure under [§94]. (Amended on May 29, 2025) 
+
+(2) In cases where a member has deposited more than the amount obtained by subtracting the 
+amounts under paragraph (1)2 from the sum of the maximum net loss equivalent and the credit 
+risk  loss  equivalent  calculated  according  to  [§88(1)]  of  the  Regulation  in  cash  or  cash 
+equivalents as its member margin, the limits under paragraph (1)2 shall not apply thereto. 
+
+92 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3) In cases where it is deemed necessary for market management, the Exchange may change 
+the limits under paragraph (1). 
+
+(Wholly amended on November 27, 2019) 
+
+§92. Types and Valuation, etc. of Foreign Currencies 
+
+(1)  The  types  of  foreign  currencies  under  [§88(4)]  of  the  Regulation  shall  be  the  foreign 
+currencies falling under any of the following subparagraphs: 
+
+1. US dollar; 
+2. Japanese Yen; 
+3. European Union Euro; 
+4. British Pound; 
+5. Hong Kong dollar; 
+6. Australian dollar; 
+7. Singapore dollar; 
+8. Swiss Franc; 
+9. Canadian dollar; and 
+10. Chinese Yuan.   
+
+(2) Pursuant to [§88(4)] of the Regulation, the Exchange shall calculate the price converted 
+into Korean currency (referred to as the “evaluated price” hereinafter in this Article), which is 
+calculated by multiplying the assessment rate by the base market price of the foreign currency 
+on each business day. In such cases, the amount less than KRW 1 shall be discarded. (Amended 
+on May 29, 2025) 
+
+(3) The basic market price of foreign currency under paragraph (2) shall be the basic exchange 
+rate (referring to the basic rate of the day determined and published pursuant to the Foreign 
+Exchange Transaction Regulation; but it shall be the basic rate of the previous day, if no basic 
+rate of the day is available) noted in each of the following subparagraphs, and the assessment 
+rates of foreign currencies under paragraph (2) shall be calculated on the last business day of 
+each quarter in accordance with [Annex: Form 19-4] based on the yields of the basic rates of 
+each foreign currency determined and published pursuant to the Foreign Exchange Transaction 
+Regulation  and  applied  from  the  first  business  day  of  the  following  quarter.  (Amended  on 
+December 31, 2015; September 19, 2017; May 29, 2025) 
+
+1. For US dollar and Chinese Yuan: The basic exchange rate determined and published on 
+the day following the day (hereinafter referred to as “member margin calculation date”) on 
+which the member margin is calculated as of the time of market closing pursuant to the main 
+sentence 
+the 
+Regulation                                                                                                                                                 
+                                                                                                                ;  and  (Amended  on 
+May 29, 2025) 
+
+[§88(1)] 
+
+of 
+
+of 
+
+2. For currencies other than US dollar and Chinese Yuan: the adjusted basic rate determined 
+93 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and published on the member margin calculation date. 
+
+(4) Notwithstanding paragraphs (1) through (3), in cases where the collateral value of foreign 
+currency changes, a restriction is placed on the exchange of foreign currency or it is deemed 
+necessary for the market management, the Exchange may limit the types of foreign currencies 
+accepted, change the basic market price and assessment rate, or the revaluation method.   
+
+(5)  The  Exchange  shall,  after  having  calculated  the  evaluated  prices  of  foreign  currencies 
+pursuant to paragraphs (2) and (4), make public such prices for each currency type through the 
+electronic  information  delivery  medium  operated  by  the  Exchange,  including  its  internet 
+website.   
+
+§92-2. Types and Evaluation of Foreign Securities, etc. 
+
+(1)  The  types  of  foreign  securities  under  [§88(4)]  of  the  Regulation  shall  be  the  foreign 
+securities falling under any of the following subparagraphs:   
+
+1. US Treasury bills; 
+
+2. US Treasury notes;           
+
+3. US Treasury bonds; and   
+
+4. Other foreign securities that the Exchange accepts. 
+
+(2) Pursuant to [§88(4)] of the Regulation, the Exchange shall calculate the price converted 
+into Korean currency (referred to as the “evaluated price” hereinafter in this Article), which is 
+calculated  by  multiplying  the  base  market  price  of  foreign  security  by  the  basic  rate  and 
+assessment rate on each  business  day.  In such  cases, the amount less than KRW 1 shall be 
+discarded. (Amended on May 29, 2025) 
+
+(3) The basic market price of foreign security pursuant to paragraph (2) shall be the average 
+(to  round  off  at  the  5th  decimal  place)  of  the  market  prices  for  each  issue  that  the  global 
+information and communication service provider provides consecutively in the recent five (5) 
+business days. Provided that, in cases where the market prices per issue was provided for less 
+than five (5) business days, it shall be the average of the market prices provided consecutively. 
+(Amended on May 29, 2025) 
+
+(4) The basic rate pursuant to paragraph (2) shall be the basic exchange rate (referring to the 
+basic rate of the day determined and publicized pursuant to the Foreign Exchange Transaction 
+Regulation;  but  it  shall  be  the  basic  rate  of  the  previous  day,  if  no  basic  rate  of  the  day  is 
+available)  noted  in  each  of  the  following  subparagraphs:(Amended  on  August  28,  2014; 
+December 31, 2015) 
+
+1. For US dollar and Chinese Yuan, the basic rate determined and published on the day after 
+the member margin calculation date; and 
+
+2. For currencies other than US dollar and Chinese Yuan, the adjusted basic rate determined 
+and published on the member margin calculation date. 
+
+94 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) The foreign securities referred to in paragraph 1 shall be categorized into the government 
+bond group under item (a) of subparagraph 2 of [§47] of the Enforcement Rules of Securities 
+Market Clearing and Settlement Business Regulation, and the assessment rates of each foreign 
+security  shall  be  calculated  every  business  day  based  on  the  terms  to  maturity  of  relevant 
+foreign security and the assessment rates of the foreign currency (referring to the currency in 
+which the relevant foreign security is denominated), etc. under [Annex: Form 19-4] and applied 
+on the following business day.(Amended on September 19, 2017; March 24, 2025; May 29, 
+2025) 
+
+(6)  Notwithstanding  paragraphs  (1)  through  (5),  in  cases  where  it  deems  necessary  for 
+restricting  change  of  collateral  value  and  conversion  of  foreign  securities  and  market 
+management, the Exchange may restrict the type of foreign securities, or may change the base 
+market  price  and  assessment  rate  of  foreign  securities  and  revaluation  method  of  foreign 
+securities.   
+
+(7) When evaluated prices of foreign securities have been determined according to paragraphs 
+(2) and (6), the Exchange shall make public such prices of each foreign security using such 
+medium as the electronic information delivery device operated by the Exchange.   
+
+(8) The clearing member may put a restriction on the types of foreign securities that the trading 
+member for whom it acts as the designated clearing member may utilizes to make a deposit of 
+member margin.   
+
+[December 18, 2012] 
+
+§93. Calculation of Member Margins per Account and Reporting of Accounts, etc. 
+
+(1) The net  risk-based margin  deposited by a  clearing member  to  the Exchange pursuant  to 
+[§88(7)] of the Regulation shall be calculated for each derivatives account noted in each of the 
+following subparagraphs. In such cases, when the same person has two (2) or more derivatives 
+accounts, the calculation shall be made per account: (Amended on April 9, 2026) 
+
+1. The derivatives accounts for proprietary account trading of the relevant clearing member; 
+
+2.  The  derivatives  accounts  of  each  customer  (when  receiving  an  entrustment  from  an 
+investment broker, the customer who made an entrustment to that investment broker shall 
+be included: the same hereinafter in this Article) of the relevant clearing member; 
+
+3. The derivatives accounts for proprietary account trading of non-clearing member who has 
+entered into an agreement  for settlement  entrustment  with  the relevant  clearing member; 
+and 
+
+4. The derivatives accounts of customers of a non-clearing member who has entered into an 
+agreement on settlement entrustment with the relevant clearing member. 
+
+(2) The derivatives accounts noted in each subparagraph of paragraph (1) shall be classified 
+into the member margin discount account [referring to the derivatives accounts, which were 
+
+95 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+opened by the members or the qualified institutional investors who deposit the ex-post member 
+margin, in order to conduct the trade satisfying the conditions (excluding the conditions noted 
+in [§147(1)3], in the case of a member which is the investment broker or trader specializing in 
+the exchange-traded derivatives business pursuant to Article 12 of the Act) of arbitrage or hedge 
+under [§147(1)]: the same hereinafter] and the member margin regular account (referring to the 
+derivatives accounts, excluding the member margin discount account: the same hereinafter). 
+(Amended on August 28, 2014) 
+
+(3)  When  opening,  changing  or  closing  its  own  or  the  qualified  institutional  investors’ 
+derivatives  accounts  (excluding  foreigner’s  consolidated  accounts),  each  member  shall 
+immediately  report  the  details  about  the  relevant  derivatives  account  to  the  Exchange  by 
+inputting  the  details  into  the  Exchange  derivatives  system  through  the  member  derivatives 
+input device. In such cases, when reporting the opening of member margin discount account, 
+the information on substitute securities account (including the equity linked account pursuant 
+to [§147(1)3] and ex-post customer margin regular account pursuant to [§115(1)8a] in the case 
+of the qualified institutional investors) of the same person shall also be reported. (Amended on 
+March 18, 2009; June 15, 2017) 
+
+§94. Net Exposure Member Margins 
+
+(1) The amount equivalent to maximum net loss under [§88(7)] of the Regulation (hereinafter 
+referred to as the “net exposure member margin”) shall be the amount calculated according to 
+[Annex 18] while using the market closing time as base (amount less than KRW 10 shall be 
+discarded).In  such  cases,  the  “margin  for  net  exposure”,  “margin  rate”,  the  “base  price  for 
+margin calculation”, the “margin interval value” and theoretical price for margin calculation” 
+in [Annex 18] shall be construed as the “net exposure member margin”, the “member margin 
+rate”, the “base price for member margin calculation”, the “member margin interval value” and 
+“theoretical price for member margin calculation”, respectively.   
+
+(2) The member margin rate, product group, price correlation ratio, amount of member futures 
+spread  margin  per  contract,  minimum  margin  per  contract,  base  price  for  member  margin 
+calculation  for  options  and  theoretical  price  for  member  margin  calculation  for  option  with 
+regard  to  the  calculation  of  net  exposure  member  margins  under  paragraph  (1)  shall  be 
+determined in [Annex 19].   
+
+(3) Notwithstanding paragraph (1), when calculating the net exposure member margins for the 
+member margin discount accounts, the option premium margin, the price volatility margin and 
+the futures spread margin noted in [Annex 18] shall be the amounts obtained by multiplying 
+the amounts calculated according to [Annex 18] by the margin discount rate for arbitraging and 
+hedging. (Amended on August 28, 2014) 
+
+(4) The member margin discount rate for arbitraging and hedging noted in paragraph (3) shall 
+be 80/100. (Amended on November 3, 2014) 
+
+(5)  When  it  is  deemed  necessary  for  market  management,  the  Exchange  may  change  the 
+member margin rate, product group, price correlation ratio, amount of futures spread margin 
+per contract, amount of Minimum margin per contract noted in paragraph (2) and the member 
+margin discount rate for arbitraging and hedging noted in paragraph (4).   
+
+96 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(6) [Deleted on May 29, 2025] 
+
+(7) In the case falling under the proviso to [§88(1)] of the Regulation and corresponding to any 
+of  the  following  subparagraphs,  the  net  exposure  member  margin  shall  be  the  amount 
+calculated by applying paragraph (1) mutatis mutandis based on open interests at the closing 
+time of night trading: [May 29, 2025] 
+
+1. The member margin calculated at the time of closing of night trading is 120% or more of 
+the member margin calculated at the time of closing of the immediately preceding trading 
+session; and [May 29, 2025] 
+
+2. The member margin calculated at the time of closing of night trading is KRW 50 billion 
+or more than the member margin calculated at the closing time of the immediately preceding 
+trading session. [May 29, 2025] 
+
+(Wholly amended on October 26, 2009) 
+
+§94-2. Member Margin for Credit Risk 
+
+(1) The credit risk loss equivalent noted in [§88(7)] of the Regulation (hereinafter referred to 
+as  “credit  risk-based”)  shall  be  an  amount  obtained  by  deducting  the  amount  of  payment 
+guarantee (in case the relevant amount is  equal to or less than KRW 0, it shall be KRW 0; 
+hereinafter  the  same  in  this  Article)  that  the  clearing  members  have  received  from  the 
+settlement bank from the amount obtained by multiplying the net risk-based margin calculated 
+across each derivatives trading account at the time of market closing for each trading by the 
+imposition rate under [Annex 19-5]. Provided that, in the case of falling under [§94(7)], the 
+member  margin  for  credit  risk  shall  be  an  amount  at  the  closing  time  of  night  trading. 
+(Amended on March 16, 2020; May 29, 2025; April 9, 2026) 
+
+(2) The method by which a member pays the member margin for credit risk shall be as follows: 
+(Amended on August 31, 2016; September 19, 2017; January 25, 2019; March 16, 2020; April 
+9, 2026) 
+
+1.  In  cases  where  payment  is  made  with  the  assets  of  a  clearing  member:  Cash  or  cash 
+equivalents under [§91]; and (Amended on May 29, 2025; April 9, 2026) 
+
+2. In cases where payment is made with the assets of a customer: Cash or foreign currency. 
+(amended on April 9, 2026) 
+
+(3) If a member intends to pay the credit risk member margin amount under paragraph (1) with 
+the  assets  of  a  customer,  the  member  shall  notify  the  customer  of  such  fact.  (Amended  on 
+March 16, 2020; May 29, 2025; April 9, 2026) 
+
+(4) [Deleted on April 9, 2026] 
+
+(5) [Deleted on April 9, 2026] 
+
+97 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. [Deleted on April 9, 2026] 
+
+2. [Deleted on April 9, 2026] 
+
+(6) [Deleted on April 9, 2026] 
+
+(7) [Deleted on April 9, 2026]                             
+
+1. [Deleted on April 9, 2026] 
+
+2. [Deleted on April 9, 2026] 
+
+[April 9, 2026] 
+
+§94-3. Verification, etc. of Calculation Methods of Margins 
+
+(1)  Pursuant  to  [§88(7)]  of  the  Regulation,  when  the  Exchange  changes  key  details  in  the 
+method  of  calculating  margin  or  deems  necessary  for  market  management,  it  shall  have  an 
+independent external institution equipped with verification competency evaluate the eligibility 
+of the margin calculation method, etc. (Amended on September 19, 2017) 
+
+(2) When the eligibility check is conducted pursuant to paragraph (1), the Exchange shall report 
+the result of the check to the Risk Management Committee. 
+
+[November 13, 2014] 
+
+§94-4.  Assessment  of  Eligibility  of  Substitute  Securities  and  Invalidation  of  Ineligible 
+Substitute Securities, etc. 
+
+(1)  In the event  that substitute securities deposited as member margin  fall under any of the 
+following  subparagraphs,  the  Exchange  shall  not  recognize  the  validity  of  the  relevant 
+substitute  securities  pursuant  to  [§89(2)]  of  the  Regulation:  (Amended  on  March  8,  2009; 
+November 1, 2024) 
+
+1. For the stocks and DRs of foreign stocks listed on the KOSPI market or KONEX market; 
+in the case of falling under any of the following items: 
+
+(a) When  the period of time required for disposal  of the securities in  a crisis situation, 
+calculated in accordance with [Annex 2] of the Enforcement Rules of Securities Market 
+Clearing and Settlement Business Regulation (hereinafter referred to as the “securitization 
+period”) exceeds ten (10) trading days; (Amended on March 24, 2025) 
+
+(b) When the proportion of the number of days when the trade of the relevant security was 
+executed to the number of trading days of the regular session, calculated in accordance 
+with [Annex 2] of the Enforcement Rules of Securities Market Clearing and Settlement 
+Business Regulation (hereinafter referred to as the “proportion of trade execution days”) 
+is below 75 percent. (Amended on March 24, 2025) 
+
+98 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. For the listed debt securities falling under corporate bond groups as classified in [Annex 
+3] the Enforcement Rules of Securities Market Clearing and Settlement Business Regulation 
+(excluding the bonds falling under subparagraph 3, 4 or 4-2 of [§85] of the KOSPI Market 
+Listing Regulation); when the lowest of the credit ratings issued by qualified external credit 
+rating  agencies  selected  by  the  Exchange  from  among  those  designated  by  the  Financial 
+Supervisory Service is lower than ‘BBB+’. (Amended on March 24, 2025) 
+
+3. Unlisted beneficiary certificates from among the beneficiary certificates under Article 189 
+of the Act and unlisted stocks of investment companies. 
+
+4.  Among  ETFs,  ETFs  whose  index  underlying  asset  type  pursuant  to  [Annex  4]  of  the 
+Enforcement Rules of Securities Market Clearing and Settlement Business Regulation falls 
+under raw materials or whose classification falls under the equity group (derivative type). 
+(Amended on March 24, 2025) 
+
+5. ETNs whose index underlying asset type pursuant to [Annex 4] of the Enforcement Rules 
+of  Securities  Market  Clearing  and  Settlement  Business  Regulation  is  not  a  bond  type  or 
+whose classification falls under the equity group (derivative type). (Amended on March 24, 
+2025) 
+
+(2) The timing for assessment of whether a substitute security falls under each subparagraph 
+of paragraph (1) and the timing for adjustment of the substitute prices of a substitute security 
+of which validity is not recognized according to the assessment results and publication thereof 
+shall be as stipulated in paragraphs (2) and (3) of [§45] of the Enforcement Rules of Securities 
+Market Clearing and Settlement Business Regulation. (Amended on March 24, 2025) 
+
+(3) “Company with which it has the relations specified in the Enforcement Rules” in [§89(4)] 
+of the Regulation shall refer to a company that falls under any of the following subparagraphs 
+(hereinafter referred to as “related company”): [July 22, 2019] (Amended on December 21, 
+2022) 
+
+1.  The  affiliated  company  prescribed  in  Subparagraph  12  of  Article  2  of  the  Monopoly 
+Regulation and Fair Trade Act; and 
+
+2.  The  financial  holding  company,  subsidiary,  second-tier  subsidiary  and  third-tier 
+subsidiary  prescribed  in  Subparagraphs  1  through  3-2  of  Article  2(1)  of  the  Financial 
+Holding Companies Act. (Amended on May 29, 2025) 
+
+(4) The Exchange may request a member to submit the relevant materials to confirm whether 
+it  has  complied  with  the  deposit  restrictions  for  the  securities  issued  by  the  member,  or  its 
+related companies stipulated in [§89(4)] of the Regulation. [July 22, 2019] 
+
+[September 19, 2017] 
+
+§94-5. Deposit Limits per Issue of Substitute Securities and Deduction Methods, etc. 
+
+(1)  In  the  event  that  the  value  of  each  issue  of  the  substitute  securities  deposited  by  each 
+member  exceeds  the  deposit  limit  for  each  issue  of  substitute  securities  under  each  of  the 
+
+99 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+following  subparagraphs,  by  each  group  of  the  derivatives  accounts  of  the  member  for 
+proprietary  account  trading  and  the  derivatives  accounts  of  customers,  the  Exchange  shall 
+deduct the amount exceeding the relevant deposit limit from the total amount of deposits of the 
+relevant member, respectively, pursuant to [§89(3)] of the Regulation: 
+
+1. For the  securities  falling  under  the stock groups under subparagraph 1 of  [§47] of the 
+Enforcement Rules of Securities Market Business Clearing and Settlement Regulation; the 
+amount equivalent to 50/100 (for the securities falling under subparagraph 1(b) of [§47] of 
+the Enforcement Rules of Securities Market Clearing and Settlement Business Regulation, 
+it shall be 100/100) of the average daily trading value (excluding transactions at multilateral 
+trading companies) per issue of the regular session trading days during the latest one (1) year 
+counting from the date of calculation. Provided that, in the case of newly listed stocks, for 
+the period from the listing date to the end of the quarter following the quarter in which the 
+listing date falls, it shall be as stipulated in [§46(1)2] of the Enforcement Rules of Securities 
+Market Clearing and Settlement Business Regulation; and (Amended on March 24, 2025) 
+
+2. For the securities falling under the corporate bond groups under subparagraph 3 of [§47] 
+of the Enforcement Rules of Securities Market Clearing and Settlement Business Regulation; 
+the amount equivalent to 10/100 of the sum of the issuance amounts per issue of listed debt 
+securities issued by the issuer of the relevant issue as of the date of calculation. Provided 
+that, in the case of the securities falling under subparagraph 3(b) of [§47] of the Enforcement 
+Rules  of  Securities  Market  Clearing  and  Settlement  Business  Regulation,  it  shall  be  as 
+stipulated  in  [§46(1)4]  of  the  Enforcement  Rules  of  Securities  Market  Clearing  and 
+Settlement Business Regulation. (Amended on March 24, 2025) 
+
+(2) The deposit limits per issue of substitute securities under paragraph (1) shall be calculated 
+on the last business day of each quarter and shall apply from the sixth (6th) business day of the 
+quarter following the quarter in which the calculation date falls. (Amended on May 29, 2025) 
+
+(3) The Exchange may, when it deems it necessary for market management, change the rates 
+under  each  subparagraph  of  paragraph  (1)  for  calculating  the  deposit  limits  per  issue  of 
+substitute securities. 
+
+[September 19, 2017] 
+
+§95. ~ §101. [Deleted on October 26, 2009] 
+
+§102. Deposit and Withdrawal of Member Margins 
+
+(1)  In  the  event  that  a  clearing  member  deposits  or  withdraws  member  margin  pursuant  to 
+[§91(2)] of the Regulation, the clearing member shall accomplish it by submitting a written 
+request  to  the  Exchange  in  accordance  with  [Annex:  Form  6]  through  [Annex:  Form  8]  or 
+inputting the details into the Exchange derivatives system via the member derivatives input 
+device. (Amended on September 5, 2019) 
+
+(2) The establishment or deletion of a right of sub-pledge of a clearing member on the substitute 
+securities under [§91(1)2(b)] of the Regulation pursuant to [§91(2)] of the Regulation shall be 
+made in such manner that the relevant clearing member requests the Exchange for confirmation 
+of the establishment thereof or approval of the deletion thereof by specifying the issue, quantity, 
+100 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+etc.  of  the  relevant  substitute  securities,  and  reflects  it  to  the  customer  account  book  of  a 
+customer after the Exchange’s confirmation or approval of it. [September 5, 2019] 
+
+(3) Pursuant to [§91(2)] of the Regulation, each clearing member shall submit the details of 
+sub-pledge established in customer account books under [§91(1)2(b)] of the Regulation on the 
+basis of 17:00 hours of each trading day to the Exchange by 17:30 hours on the same day in 
+accordance with [Annex: Form 8-2]. [September 5, 2019] 
+
+§102-2. Operation of Member Margins 
+
+(1) Pursuant to [§92(4)] of the Regulation, when operating the member margins deposited in 
+cash or foreign currencies in such a way of depositing them with the settlement banks or the 
+securities  finance  companies,  the  Exchange  shall  prevent  the  amount  under  operation  from 
+being concentrated in a single settlement bank or securities finance company  in accordance 
+with the standards set by the Exchange separately. (Amended on May 19, 2017) 
+
+(2) Pursuant to [§92(4)] of the Regulation, in the case of reckoning the proceeds and expenses, 
+etc. by incorporating them in the member margins, the proceeds to be paid to or the expenses 
+to  be collected from  each clearing member shall be calculated respectively  and added to  or 
+subtracted from  the member margins  in  accordance with  the standards set  by the Exchange 
+separately. [May 19, 2017] 
+
+(3) Pursuant to [§92(4)] of the Regulation, in cases where the Exchange operates the member 
+margins deposited in  cash or foreign  currencies, it shall operate the member margins in the 
+form of general operation and special operation by currency according to standards separately 
+determined by itself. [March 24, 2025] 
+
+(4) In addition to paragraphs (1) through (3), the Exchange shall separately determine matters 
+necessary for operating cash or foreign  currency deposited as member margins.  [March 24, 
+2025] 
+
+§102-3. Calculation and Imposition, etc. of Additional Intraday Member Margin 
+
+(1) Pursuant to [§93-2(1) and (5)] of the Regulation, in cases where all of the requirements 
+under each of the following subparagraphs are met based on both the point of one (1) minute 
+and each point of time (hereinafter referred to as “time of calculating intraday member margin”) 
+of every one (1) hour after the start of trading hours of the KOSPI Market (excluding the time 
+right before the market closing), the Exchange shall impose additional intraday member margin 
+on the relevant clearing member at the time one (1) hour after the time of calculating intraday 
+member margin(hereafter referred to as “time of imposition”). (Amended on March 23, 2018; 
+July 18, 2023; November 1, 2024) 
+
+1.  Where  the  price  fluctuation  rate  of  KOSPI  200  is  equal  to  80/100  or  higher  than  the 
+member margin rate of KOSPI 200 Futures (the price fluctuation rate shall be the absolute 
+value of the amount obtained by dividing the difference between the underlying asset price 
+at the time of calculating intraday member margin and the underlying asset base price on 
+the previous day by the underlying asset base price on the previous day.); and 
+
+101 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Where the intraday member margin calculated for each member is equal to or more than 
+120/100 of the total amount of deposit. 
+
+(2)  The  additional  intraday  member  margin  under  paragraph  (1)  shall  be  calculated  by 
+subtracting the total  amount of deposit (referring  to the sum of the amount of cash deposit, 
+substitute amount of substitute securities and the valuation amount of foreign currencies and 
+foreign securities; the same hereinafter) calculated based on the time of imposition from the 
+intraday member margin calculated based on the time of calculating intraday member margin 
+for  each  member,  and  the  intraday  member  margin  shall  be  calculated  by  summing  up  the 
+amounts under each of the following subparagraphs. (Amended on May 13, 2016) 
+
+1. The net exposure member margin calculated pursuant to the [Annex 18] based on the time 
+of calculating intraday member margin by applying [§94(1)] mutatis mutandis. In such cases, 
+“base  price  for  member  margin”,  “theoretical  member  margin  price”,  “base  price  for 
+underlying asset”, “delta based on the closing time” in the [Annex 18] shall be construed as 
+the “base price for intraday member margin”, “theoretical intraday member margin price”, 
+“underlying asset price at the time of calculating intraday member margin”, “delta at the 
+time of calculating intraday member margin”, respectively; 
+
+2.  The  member  margin  for  credit  risk  loss  as  at  the  time  of  market  closing  on  the  latest 
+trading day, calculated pursuant to [§94-2]; 
+
+3. The intraday settlement difference for the day’s trade (referring to the amount calculated 
+by multiplying the difference between the execution price of futures trades concluded on 
+the  day  to  which  the  time  of  calculating  intraday  member  margin  belongs  and  intraday 
+settlement price to the execution quantity and multiplier); (Amended on May 29, 2025) 
+
+4. The intraday settlement difference for the previous day’s open interests (referring to the 
+amount  calculated  by  multiplying  the  difference  between  the  settlement  price  of  futures 
+trades of the immediately preceding trading day and intraday settlement price to the quantity 
+of open interests as of the market closing time of immediately preceding trading day and 
+multiplier); and (Amended on May 29, 2025) 
+
+5.  The  intraday  option  premium  (referring  to  the  amount  calculated  by  multiplying  the 
+execution  price  of  options  trades  concluded  on  the  day  to  which  the  time  of  calculating 
+intraday member margin belong by the execution quantity and the multiplier for each option 
+traded). (Amended on May 29, 2025) 
+
+(3)  The  intraday  settlement  price  noted  in  subparagraphs  3  and  4  of  paragraph  (2)  shall  be 
+calculated by applying the provisions of [§103] mutatis mutandis. In such cases, “settlement 
+price”, “theoretical settlement price of futures”, “during the regular session of the day”, “the 
+base price for settlement”, “at the market closing time” and “the closing value of the V-KOSPI 
+200”  in  [§103]  shall  be  construed  as  the  “intraday  settlement  price”,  “intraday  theoretical 
+settlement  price of futures”, “within the time of calculating intraday member margin  of the 
+day”,  “the  intraday  base  price  for  settlement”,  ”at  the  time  of  calculating  intraday  member 
+margin”  and  “value  of  V-KOSPI  200  at  the  time  of  calculating  intraday  member  margin”, 
+respectively, and “the underlying asset base price on the previous day”, “the annual yield in 
+the morning of previous day”, “fixed benchmark interest rate as of the previous day”, “as of 
+the  morning  of  the  previous  day”,  “the  day  before  the  previous  day”  and  “clearing  and 
+
+102 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+settlement time after the market closing” in [Annex 7] through [Annex 13] shall be construed 
+as “the underlying asset base price at the time of calculating intraday member margin”, “the 
+annual yield in the morning of the day”, “fixed benchmark interest rate as of the day”, “as of 
+the morning of the day (limited to the case of Annex 9-2)”, “the previous day”, and “time of 
+calculating intraday member margin”, respectively. (Amended on May 13, 2016; March 13, 
+2017; February 16, 2022; September 22, 2023; November 1, 2024) 
+
+(4)  When  imposing  additional  intraday  member  margins,  the  Exchange  shall  inform  the 
+relevant member of such fact, the amount of additional intraday member margin, deadline for 
+deposit, and other necessary matters without delay.   
+
+(5) If the number of cases falling under paragraph (1) is two (2) or more, the Exchange shall 
+impose additional intraday member margin on the basis of the time the requirements are met 
+first, and notwithstanding paragraph (1), the additional intraday member margin may not be 
+imposed in consideration of market situation, etc. 
+
+[May 26, 2015] 
+
+§102-4. Depositing of Additional Intraday Member Margins, etc. 
+
+(1) “Time specified in the Enforcement Rules” in [§93-2(2)] of the Regulation shall refer to a 
+time  within  two  (2)  hours  after  the  Exchange  informed  the  fact  of  imposition  of  additional 
+intraday member margin pursuant to [§102-3(4)].   
+
+(2) “Time specified in the Enforcement Rule” in [§93-2(3)] of the Regulation shall refer to a 
+time that a designated clearing member specifies within the time stated in the paragraph (1).   
+
+(3)  Notwithstanding  paragraphs  (1)  and  (2),  where  it  is  deemed  necessary  for  market 
+management, the Exchange may change the date and time of depositing the additional intraday 
+member margins and the additional intraday member margins of non-clearing members. 
+
+[May 26, 2015] 
+
+§102-5. Release from Imposition of Additional Intraday Member Margin 
+
+(1) In cases where the additional intraday member margin calculated based on the time thirty 
+(30) minutes after the time of imposition is less than or equal to the total amount of deposit 
+calculated  based  on  the  time  one  (1)  hour  after  the  time  of  imposition,  the  Exchange  may 
+release the relevant member from imposition of additional intraday member margin.   
+
+(2)  When  releasing  a  member  from  imposition  of  additional  intraday  member  margins,  the 
+Exchange shall notify such fact to the relevant member without delay. 
+
+[May 26, 2015] 
+
+103 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER 2. CLEARING AND SETTLEMENT BETWEEN THE EXCHANGE AND 
+MEMBERS 
+
+Section 1. Settlement Price of Futures 
+
+§103. Settlement Price of Futures 
+
+(1)  Pursuant  to  the  proviso  to  [§96(2)]  of  the  Regulation,  the  settlement  price  per  futures 
+contract shall be the price falling under each of the followings. Provided that, in the case of 
+quarterly month contract of Mini KOSPI200 futures, the settlement price shall be the settlement 
+price of KOSPI200 futures of which the last trading day is the same, and in the case of USD 
+FLEX  futures  trades,  the  settlement  price  shall  be  the  theoretical  futures  price:  [Proviso  on 
+August 21, 2009] (Amended on July 3, 2015; June 20, 2016) 
+
+1. If there are the contract prices (excluding the deemed contract prices resulted from the 
+futures  spread  trade  and  contract  price  of  negotiated  trade:  the  same  hereinafter  in  this 
+Paragraph) established during the regular session of the day: The contract price established 
+most recently; 
+
+2. If there is no price falling under subparagraph 1 or the price stipulated in subparagraph 1 
+falls under the disparate conditions noted in paragraph (3) (this provision shall not apply to 
+the  cases  of  a  contract  of  which  the  last  trading  day  has  arrived,  the  contracts  of  equity 
+futures  and  interest  rate  futures):  the  base  price  for  settlement  determined  according  to 
+paragraph (2);   
+
+3. [Deleted on December 10, 2010] 
+
+4. [Deleted on December 10, 2010] 
+
+(2) The base price for settlement noted in paragraph (1)2 shall be the price noted in each of the 
+following subparagraphs. (Amended on June 20, 2016; March 14, 2022; April 18, 2025) 
+
+1. In the cases other than item 3 among futures trade that involves a contract for which the 
+last trading day has arrived, the price noted in each of the following items:   
+
+(a)In the case of the nearest month contract, the base price of futures calculated on the day 
+pursuant to [§55]. Provided that, in the case of Lean Hog futures trades, it shall be the real-
+time average price of lean hog at the market closing time (referring to the real-time average 
+price that the Animal Products Grading Service publishes at one (1) minute interval from 
+09:00 hours to 17:00 hours pursuant to the Administrative Guidelines for Average Price 
+of Lean Hog; the same hereinafter); 
+
+(b) In the case of the next nearest month contract, the theoretical settlement price of futures; 
+and 
+
+(c) In the case of farther month contracts, excluding the next nearest month contract, the 
+price obtained by following calculation formula. Provided that, if there is no settlement 
+price  of  the  next  nearest  month  contract,  it  shall  be  the  theoretical  settlement  price  of 
+104 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+futures: 
+
+(Theoretical  settlement  price  of  futures  of  the  relevant  farther  month  contract  –
+Theoretical  settlement  price  of  futures  of  next  nearest  month  contract)  +Settlement 
+price of the next nearest month contract 
+
+2. In the cases other than item 3 among futures trade that involves contract for which the 
+last trading day has not arrived, the price noted in each of the following items:     
+
+(a) In the case of the nearest month contract, the theoretical settlement price; and 
+
+(b)  In  the  case  of  farther  month  contract,  the  price  obtained  by  following  calculation 
+formula. Provided that, if there is no settlement price of nearest month contract, it shall be 
+the theoretical settlement price of futures: 
+
+(Theoretical  settlement  price  of  the  relevant  farther  month  contract  -  Theoretical 
+settlement price of nearest month contract) + Settlement price of the nearest month.   
+
+3. In the case of 3-month risk free benchmark interest rate futures trade, the price noted in 
+each of the following items: [February 16, 2022]   
+
+(a)  In the case where there are both bid quotations and ask quotations at the time of the 
+
+market closing, the price noted in each of the followings. 
+
+(i) Case where there is a theoretical settlement price between the best bid quotation 
+and the best ask quotation at the time of the market closing; Theoretical settlement 
+price of futures 
+
+(ii) Case where there is no theoretical settlement price between the best bid quotation 
+and the best ask quotation at the time of the market closing; The best bid price or 
+the best ask price, whichever is closer to the theoretical settlement price of futures 
+
+(b) In the case where there is no bid quotation and ask quotation at the time of the market 
+closing  or  there  are  quotations  only  in  bid  or  ask  side;  Theoretical  settlement  price  of 
+futures 
+
+(3) The disparate conditions noted in paragraph (1)2 shall be as noted in each of the following 
+subparagraphs:(Amended on December 10, 2010; September 16, 2015; April 14, 2016) 
+
+1.  For  the  farther  month  contracts  in  currency  futures  trade  (excluding  the  next  nearest 
+month contract during the four (4) trading days counting retroactively from the last trading 
+day of the nearest month contract): the case where the absolute value of the amount obtained 
+by subtracting the base price for settlement from the price falling under paragraph (1)1 is 
+higher than the value specified in [Annex 19-3]; and     
+
+2. For the futures trades other than those noted in subparagraph 1 (excluding the contract 
+whose  last  trading  day  has  arrived):  the  case  where  the  value  obtained  by  dividing  the 
+absolute value of amount determined by subtracting the base price for settlement from the 
+price falling under paragraph (1)1 by the base price for settlement (to be rounded off at the 
+
+105 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6th decimal place) is higher that the value specified in [Annex 19-3]. 
+
+(4) Theoretical settlement price of futures in paragraphs (1) and (2) shall be the price calculated 
+by applying [§55(1)1a] mutatis mutandis. In such cases, “previous day”, “the day before the 
+previous day”, and “calculation date” noted in [Annexes7 through 13] shall be construed as 
+“the  day”,  “the  previous  day”,  and  “the  day  following  the  calculation  date”,  respectively. 
+(Amended on August 21, 2009; December 10, 2010; November 3, 2014; September 16, 2015; 
+September 22, 2023) 
+
+(5)  Notwithstanding  paragraph  (4),  theoretical  settlement  price  of  futures  shall  be  the  price 
+classified in each the following subparagraphs: [September 16, 2015]     
+
+1. For KOSPI High Dividend 50 futures trades, the last value of KOSPI High Dividend 50; 
+
+2. For KOSPI Dividend Growth 50 futures trades, the last value of KOSPI Dividend Growth 
+50; 
+
+3. For V-KOSPI 200 futures trades, the last value of V-KOSPI 200 
+
+4. For the contract  of USD FLEX futures of which the last trading  day arrives, the  final 
+settlement price; and 
+
+5. For Lean Hog futures trades, the real-time representative price of lean hog at the market 
+closing. 
+
+(6)  In  cases  where  the  price  (excluding  settlement  price  of  quarterly  month  contract  of 
+KOSPI200 futures) according to paragraph (1) is not consistent with the quotation price unit, 
+it shall be, of the prices consistent with the quotation price unit, the price that is closest to the 
+price noted in paragraph (1) (in case there are two (2) such prices, the higher price). [December 
+10, 2010] (Amended July 3, 2015) 
+
+(7) Notwithstanding paragraph (1), the Exchange may change the settlement price if there is a 
+trading  abnormality,  or  it  is  deemed  necessary  for  the  market  management.  [December  10, 
+2010] 
+
+(8) The settlement price noted in [§96(1) and (2)] of the Regulation shall be the settlement price 
+calculated at the time of market closing on the trading day on which the settlement is conducted. 
+[May 29, 2025] 
+
+§104. Exceptions in Calculation of Settlement Difference for Previous Day’s Open Interests 
+
+(1) Pursuant to the proviso to [§98(1)] of the Regulation, the settlement difference for previous 
+day’s open interests on the trading day on which the multiplier or the quantity of open interests 
+of Single Stock Futures are adjusted shall be calculated using the following calculation formula:   
+
+(Adjusted settlement price – Settlement price of the relevant trading day) × Multiplier of 
+the  relevant  trading  day  ×  Quantity  of  open  interests  at  the  time  of  market  closing  of 
+immediately preceding trading day (when the quantity of open interests is adjusted, it shall 
+
+106 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+be  the  quantity  of  open  interests  adjusted  in  accordance  with    [§10])  (Amended  on 
+December 10, 2010; November 3, 2014; May 29, 2025) 
+
+(2) The adjusted settlement price noted in paragraph (1) shall be the price determined using the 
+following calculation formula (to be rounded off at the 9th decimal place):   
+
+Settlement  price  of  immediately  preceding  trading  day    (Adjusted  base  price  of 
+underlying  asset  ÷  Closing  price  of  underlying  asset  on  previous  day)  (Amended  on 
+December 10, 2010; August 28, 2014; November 3, 2014; May 29, 2025) 
+
+Section 2. Option Exercise 
+
+§105. Deemed Value for Reporting Option Exercise 
+
+(1) The deemed value for reporting option exercise pursuant to [§100(3)1] of the Regulation 
+shall be each of the following subparagraphs: (Amended on July 8, 2013; November 3, 2014; 
+July 3, 2015; March 15, 2018) 
+
+1. For KOSPI 200 options and Mini KOSPI 200 options: 0.01 point; 
+
+2. For KOSDAQ 150 options: 0.1 points; 
+
+3. For single stock options: KRW 5. Provided that, in the case of a contract for which the 
+exercise price has been adjusted pursuant to [§15], it shall be the amount larger than zero 
+(0); and 
+
+4. For currency options: 0.10 
+
+(2)  When  it  is  deemed  necessary  by  taking  into  consideration  such  factors  as  the  level  of 
+brokerage  commission,  the  Exchange  may  change  the  deemed  value  for  reporting  option 
+exercise. 
+
+§106. Methods of Reporting Option Exercise and Reporting Deadline 
+
+The reporting of option exercise pursuant to [§100(5)] of the Regulation shall be accomplished 
+in  accordance  with  [Annex:  Form  9],  which  shall  be  inputted  to  the  Exchange  derivatives 
+system via the member derivatives system or member derivatives input device or submitting a 
+written document via facsimile or in person or any other method within twenty (20) minutes 
+after the market closing on the option exercise day. (Amended on August 21, 2009; August 28, 
+2014; April 6, 2026)       
+
+§107. Allotment Methods of Option Exercises 
+
+The allotment  of  options exercise pursuant  to  [§101(1)] of the Regulation  shall be  done by 
+splitting  the  quantity  of  open  short  interest  positions  of  each  option  exercise  reported  into 
+
+107 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+trading quantity unit. (Amended on November 3, 2014) 
+
+§108. Notification Methods of Allotment of Option Exercises 
+
+Allotment  of  option  exercise  pursuant  to  [§101(3)]  of  the  Regulation  shall  be  notified  in 
+accordance  with  [Annex:  Form  10],  which  is  inputted  to  the  member  derivatives  system  or 
+member  derivatives  input  device  via  the  Exchange  derivatives  system  or  other  means. 
+(Amended on August 28) 
+
+Section 3. Methods of Delivering/Receiving Settlement Amounts, etc. 
+
+§109. Deadline for Physical Delivery 
+
+“Time specified in the Enforcement Rules” in [§103(4)3] of the Regulation shall refer to 12:00 
+noon on the final settlement day of currency futures. (Amended on October 20, 2010; July 8, 
+2013; October 28, 2015) 
+
+(Wholly amended on August 28, 2014) 
+
+§110. Methods of Calculating Net Settlement Cash, etc. 
+
+(1) The net settlement cash and net settlement underlying asset that the Exchange delivers to 
+and  receives  from  the  clearing  members  pursuant  to  [§103(7)]  of  the  Regulation  shall  be 
+calculated by netting the amounts calculated separately for each of derivative account noted in 
+each subparagraph of [§93(1)]. (Amended on December 30, 2009; October 20, 2010; August 
+20, 2014; March 24, 2025) 
+
+(2) In cases when calculating the net settlement cash noted in paragraph (1), the final settlement 
+difference, settlement difference for the day’s trade, settlement difference for previous day’s 
+open interests and exercise difference of single stock options shall be calculated per contract 
+(the amount less than KRW 1 shall be  discarded), and then the amounts calculated shall be 
+added. (Amended on August 28, 2014) 
+
+§111. Designation of Settlement Bank and Termination of Designation Thereof 
+
+(1)  Pursuant  to  [§104(4)]  of  the  Regulation,  the  Exchange  shall  designate  settlement  banks 
+from  among  the  banks  satisfying  all  of  the  requirements  in  each  of  the  following 
+subparagraphs:(Amended on December 30, 2009;  April 18, 2014;  July  3, 2015;  August 31, 
+2016) 
+
+1. The ratio of common equity capital, the ratio of basic equity capital, and the ratio of total 
+equity  capital  prescribed  in  [§26(1)1]  of  the  Regulations  on  Supervision  of  Banking 
+Business shall be at least 1.2 times the minimum observance ratio as prescribed in [Annex2-
+9]  of  the  same  Regulations.  Provided  that,  for  the  branches  of  foreign  banks,  the  equity 
+
+108 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+capital ratio (referring to the ratio of equity capital to risk-weighted assets provided in [§26] 
+of  the  former  Regulation  on  Supervision  of  Banking  Business  (referring  to  the  same 
+Regulation  before  having  been  amended  by  the  Financial  Supervisory  Commission 
+Announcement #2013-22)] shall be 10/100 or higher;   
+
+2.  The  liquidity  coverage  ratio  shall  be  at  least  1.1  times  the  liquidity  coverage  ratio 
+prescribed in [§26(1)2] of the Regulations on Supervision of Banking Business; and 
+
+3. The lowest of the credit ratings issued by qualified external rating agencies designated by 
+the Financial Supervisory Service shall be ‘AA’ or higher. 
+
+(2)  In  cases  where  a  settlement  bank  designated  by  the  Exchange  falls  under  any  of  the 
+following subparagraphs, the Exchange shall terminate such designation within fourteen (14) 
+business days after it became aware of such fact. Provided that, in cases where it is deemed 
+necessary in consideration of market situation and financial conditions of the relevant bank, 
+etc., the Exchange may postpone the termination of designation of the settlement bank for up 
+to two (2) months, and when the reason for termination is not resolved by the end of the grace 
+period, the Exchange shall terminate the designation within fourteen (14) business days from 
+the end of the grace period. (Amended on July 3, 2015; May 13, 2016; December 5, 2018; May 
+29, 2025) 
+
+1.  Case  where  it  fails  to  reach  the  minimum  capital  ratio  prescribed  in  [§26(1)1]  of  the 
+Regulations on Supervision of Banking Business or the liquidity coverage ratio prescribed 
+in [§26(1)2] of the same Regulations; 
+
+1-2. Case where it fails to meet the credit rating requirement noted in paragraph (1)3; 
+
+2.  Case  where,  pursuant  to  [§34]  through  [§36]  of  the  Regulations  on  Supervision  of 
+Banking Business, the Financial Services Commission has recommended the management 
+improvement,  requested  the  management  improvement  or  ordered  the  management 
+improvement; or 
+
+3. Case where, pursuant to [§38] of the Regulations on Supervision of Banking Business, 
+the Financial Services Commission has taken an emergency measure.   
+
+§111-2. Notification of Settlement Capability, etc. by Clearing Members 
+
+Pursuant  to  [§104-3(3)]  of the Regulation,  the Exchange may request  the clearing member, 
+who is expected to run into difficulty in fulfilling its settlement obligation, to report the matters 
+noted in each of the following subparagraphs: (Amended on April 18, 2014) 
+
+1. Information about the net settlement cash or net settlement underlying asset, of which the 
+settlement is expected to be difficult and the cause for such difficulties; 
+
+2. Information about the member margin that is unlikely to be deposited and the reasons; 
+and   
+
+3. Additionally, information about the matters that the Exchange deems them necessary for 
+
+109 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the reliable and efficient settlement.   
+
+[December 30, 2009] 
+
+§111-3. Risk Management Training 
+
+(1) Pursuant to [§104-3(5)] of the Regulation, to cope with the default of a clearing member, 
+the Exchange shall conduct a risk management training, every year or in case when it deems 
+necessary  by  the  Exchange,  to  check  matters  determined  in  each  of  the  following 
+subparagraphs: 
+
+1. Application of [§107] and [§109] of the Regulation in assumption of under the default; 
+
+2. Other matters deem necessary by the Exchange; and 
+
+3. Additionally, information about the matters that the Exchange deems them necessary for 
+the reliable and efficient settlement.   
+
+(2) The result of risk management training pursuant to paragraph (1) shall be reported to the 
+Risk Management Committee. 
+
+[November 13, 2014] 
+
+§112. Amount Equivalent to Value of Underlying Asset 
+
+The  amount  equivalent  to  the  value  of  underlying  asset  pursuant  to  the  main  sentence  of 
+[§105(3)] of the Regulation shall be calculated on the basis of the price specified in [Annex 
+20]. (Amended on December 30, 2009) 
+
+§112-2. Types of Financial Resources for Settlement, etc. 
+
+(1) The types of financial resources for settlement under [§105(6)] of the Regulation shall be 
+each of the followings: (Amended on September 20, 2019) 
+
+1. Settlement reserve under [§54(1)4] of the “Articles of Incorporation”; 
+
+2. Credit lines or foreign exchange swap that the Exchange have established with securities 
+finance companies or financial institutions engaging in banking business;   
+
+3. Joint compensation fund; 
+
+4. Fidelity guarantee moneyunderArticle395 of the Act; and 
+
+5. Other financial resources for settlement that the Exchange deems necessary. 
+
+(2)  The  methods  of  using  financial  resources  for  settlement  pursuant  to  [§105(6)]  of  the 
+Regulation shall be stipulated separately by the Exchange considering how easily and quickly 
+110 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+they can be converted into cash, the settlement deadlines, or other necessary matters. 
+
+(3) When, before the Exchange supplies the liquidity for settlement pursuant to [§105(1)] of 
+the Regulation, a clearing member delivered the net cash balance  to the Exchange after the 
+settlement  deadline,  it  shall  be  deemed  that  the  liquidity  was  supplied  from  the  financial 
+resources for settlement. 
+
+[December 30, 2009] 
+
+§112-3. Receiver of Settlement Instruction for Net Settlement Underlying Assets 
+
+“Parties stipulated in the Enforcement Rules” in subparagraph of [§105-2] of the Regulation 
+shall be the settlement banks. (Wholly amended on October 28, 2015) 
+
+§112-4. Calculation Methods, etc. of Losses caused by Settlement Delay 
+
+(1) The loss caused by settlement delay pursuant to [§105-3(1)] of the Regulation shall be the 
+larger one between the amount (amount less than KRW 10 shall be discarded) determined by 
+multiplying the loss rate by net settlement cash not paid by settlement deadline (hereinafter 
+referred to as “overdue settlement amount”) and KRW 10,000. (Amended on October 20, 2011; 
+November 3, 2014) 
+
+(2) The loss rate noted in paragraph (1) shall be 2/10,000. Provided that, in cases where the 
+loss caused by settlement delay has been paid within fifteen (15) minutes of settlement deadline, 
+1/2 of loss rate shall apply. (Amended on October 20, 2011; November 13, 2014) 
+
+(3) In cases where the loss rate noted in paragraph (2) is lower than the cost ratio of the financial 
+resources under [§112-2(1)2] (shall be rounded up at the 9th decimal place; hereinafter referred 
+to as “corrected rate”) used to supply the liquidity, the financial resources for settlement and 
+loss  rate  applied  thereto  shall  be  each  of  the  followings:  (Amended  on  November  3,  2014; 
+September 20, 2019) 
+
+1. Financial resources used for settlement: The amount noted in each of following items; 
+
+(a) In the case of financial resources other than those under [§112-2(1)2]: The amount (the 
+amount less than KRW 10 shall be discarded) determined proportionally according to the 
+overdue settlement amount per clearing member who delayed the settlement (including the 
+clearing member who delayed the settlement in the KOSPI Market and KOSDAQ Market; 
+the same hereinafter); and 
+
+(b) In the case of the financial resources under [§112-2(1)2]: The amount determined by 
+subtracting the amount under item (a) from the overdue settlement amount of each clearing 
+member.   
+
+2. Applicable loss rates: 
+
+(a) In the case of financial resources other than those under [§112-2(1)2]: The loss rate 
+noted in paragraph (2); and 
+
+111 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)  In  the  case  of  the  financial  resources  under  [§112-2(1)2]:  The  higher  between  the 
+corrected rate and the loss rate noted in paragraph (2). 
+
+(4)  The  Exchange  shall  immediately  notify  the  amount  of  loss  caused  by  settlement  delay 
+calculated to the clearing member who delayed the settlement.   
+
+(5) Each clearing member shall pay the loss caused by settlement delay noted in paragraph (1) 
+into the Exchange’s account notified beforehand within three (3) days counting from the day 
+the settlement has been delayed (excluding market holidays; referred to as “payment deadline” 
+hereinafter in the Article).   
+
+(6) In cases where the clearing member failed to pay the loss caused by settlement delay by the 
+payment  deadline,  the  amount  calculated  for  each  day  after  the  payment  deadline  by 
+multiplying the rate noted in each of the following subparagraphs by the amount of loss caused 
+by settlement delay noted in paragraph (1) shall be added to the loss caused by settlement delay. 
+In such cases, the amount less than KRW 10 shall be discarded. 
+
+1. Where the payment is made within thirty (30) days (excluding the market holiday: the 
+same hereinafter) counting from  the day after the payment deadline (in  case it is  market 
+holiday, it shall be moved back sequentially: the same hereinafter): 6/10,000; and 
+
+2. Where the payment is made after thirty (30) days counting from the day after the payment 
+deadline: 8/10,000 
+
+[December 30, 2009] 
+
+§112-5. Settlement Support by Exchange Staff 
+
+(1) The Exchange staff who, pursuant to [§107(6)] of the Regulation, supports the settlement 
+work of a clearing member who has failed to  fulfill  settlement  obligations shall present  the 
+instruction for settlement support to the relevant clearing member.   
+
+(2)  The  Exchange  staff  shall  perform  his/her  duties  related  to  non-fulfillment  of  settlement 
+obligations in a sincere and fair manner and shall keep confidential the classified information 
+acquired in the course of performing the relevant work.   
+
+[December 30, 2009] 
+
+§112-6. Closing out of Open Interests of Trade-suspended Members 
+
+(1) The Exchange may let another clearing member designated by the Exchange (referred to 
+“closing-out  member”  hereinafter  in  this  Article)  to  conduct  the  ‘closing-out  of  the  open 
+interests’ noted in [§109(2)] or [§109(3)] of the Regulation, by using the member derivatives 
+system or the member derivatives terminal of the trade-suspended member or using the closing-
+out member’s own member derivatives system, or by other methods that the Exchange deems 
+appropriate. 
+
+112 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) The closing-out of the open interest pursuant to paragraph (1) shall be deemed to have been 
+conducted under the name of the trade-suspended member and the settlement subsequent to 
+this shall be completed by the trade-suspended member.   
+
+(3) The expenses associated with the closing-out of the open interests shall be borne by the 
+trade-suspended member. In such cases, the amount of expenses shall be determined in advance 
+by the consent of the trade-suspended member and the closing-out member, and in cases where 
+the consent was not reached, it shall be the amount mediated by the Exchange. 
+
+[December 30, 2009] 
+
+§113. Transfer of Open Interests of Trade-suspended Members 
+
+(1)  A  transaction  agreement  for  the  transfer  of  open  interests  noted  in  [§109(3)]  of  the 
+Regulation shall be concluded by way of a bi-lateral transaction between a member who holds 
+the  open  interests  of  the  customer  who  intends  to  transfer  (hereinafter  referred  to  as  the 
+“transferor  member”)  and  a  member  who  intends  to  acquire  the  relevant  open  interests 
+(hereinafter  referred  to  as  the  “transferee  member”),  and  the  Exchange  shall  mediate  such 
+transaction.  In  such  cases,  the  transferee  member  and  the  customer  shall  enter  into  an 
+agreement for opening of derivatives account before concluding the bi-lateral transaction, and 
+the  transferor  member  and  the  transferee  member  shall  submit  to  the  Exchange  a  written 
+statement stating  the matters  set  forth  by the Exchange  with  respect  to  the transfer of open 
+interests. (Amended on August 28, 2014) 
+
+(2) The relevant parties and the contract price of the bi-lateral transaction pursuant to paragraph 
+(1) shall be any of the following subparagraphs: 
+
+1. Parties of the transaction: The transferor member shall be the relevant party to the position 
+making the offsetting trade of open interests and the transferee member shall be the relevant 
+party to the position purchasing the open interests; and       
+
+2. Contract price of the transaction: In the case of futures, it shall be the settlement price of 
+the trading day immediately before the trading day on which the transfer is made and in the 
+case of options, it shall be zero. (Amended on May 29, 2025) 
+
+(3) When the bi-lateral transaction for the transfer of open interests is  executed pursuant  to 
+paragraphs (1) and (2), the customer shall transfer to the transferee member an amount higher 
+than the customer amount deposited with the transferor member. 
+
+113 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PART V. ENTRUSTMENT OF TRADES 
+
+CHAPTER 1. CONDITIONS OF ENTRUSTMENT 
+
+Section 1. Opening of Derivatives Accounts and Issuance of Terms and Conditions, etc. 
+
+§114. Derivatives Account Number, etc. 
+
+(1) Pursuant to [§110(1)] of the Regulation, the member shall issue twelve (12) digit number 
+to the derivatives account of customer. (Amended on March 18, 2009) 
+
+(2) When changing the derivatives account number pursuant to paragraph (1), the member shall 
+notify such change to the Exchange without delay. 
+
+(3) When issuing the derivatives account number to an investment broker who intermediates 
+the  entrustment  of  orders,  the  member  shall  separate  the  number  per  customer  who  has 
+entrusted an order to the relevant investment broker.   
+
+(4) In cases where a member receives an entrustment of orders from another member pursuant 
+to [§48(3)], the member shall report to the Exchange the matters related to the account that 
+receives the orders (opening, changing, closing, etc.) by inputting the details into the Exchange 
+derivatives system via the member derivatives system in advance in accordance with [Annex: 
+Form 17]. In this case, if a person who places the order is a person who has been approved for 
+the  admission  or  conversion  of  membership  pursuant  to  Article  5  or  Article  16  of  the 
+Membership Regulation, the person may make the report immediately after the market closing 
+on the trading day preceding the admission or conversion date. [September 3, 2020] (Amended 
+on November 24, 2023) 
+
+(5) Pursuant to [§110(3)] of the Regulation, when the customer who has opened a derivatives 
+account opens an additional derivatives account with the relevant member, the member may 
+neither deliver the derivatives service agreement and derivatives risk warning statement and 
+provide  the  explanation  thereof,  collect  the  acknowledgement  of  receipt  of  derivatives  risk 
+warning statement nor validate the customer information according to [§112 through §114] of 
+the Regulation. Provided that this provision shall not apply to the case where there is a change 
+in details of those matters. (Amended on November 3, 2014; September 3, 2020) 
+
+§114-2.  Foreign  Financial  Investment  Business  Entities  eligible  to  open  Foreigner’s 
+Consolidated Accounts, etc. 
+
+(1) Pursuant to [§110-2(3)] of the Regulation, any foreign financial investment business entity 
+that  intends  to  open  a  foreigner’s  consolidated  account  shall  satisfy  each  of  the  following 
+requirements: 
+
+1. It shall legitimately run a business falling under investment dealing, investment brokerage 
+or collective investment business in foreign countries; 
+
+114 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. It shall be a financial investment business entity of a country which is a full member of 
+the Financial Action Task Force; and 
+
+3. It shall be a person who was acknowledged by a KRX member as a qualified institutional 
+investor specified in [§133] of the Regulation. 
+
+(2) The foreign investors who can use the foreigner’s consolidated accounts pursuant to [§110-
+2(3)] of the Regulation (hereinafter referred to as “end-investors”) shall be classified as follows. 
+In such cases, the general end-investors under subparagraph 1 and the allocating end-investors 
+under  subparagraph  2  shall  be  the  non-resident  foreigners  (referring  to  the  non-resident 
+foreigners whose ‘classification code of resident and non-resident’ under the ‘classification of 
+investors’ in [Annex 6] is ‘20’; the same hereinafter). (Amended on September 20, 2017) 
+
+1. General end-investors (referring to the end-investors who do not fall under subparagraphs 
+2 and 3); 
+
+2.Allocating end-investors (referring to the end-investors who are the collective investment 
+business entities, pensions or funds, submitting the selling or buying intentions of the ‘sub-
+end  investors’  collectively  to  the  person  who  has  opened  the  foreigner’s  consolidated 
+account and transferring the open interests to the ‘sub-end investors’); and 
+
+3.Sub-endinvestors  (referring  to  the  end-investors  who  are  the  collective  investment 
+schemes or asset management units managed or operated by the allocating end-investors 
+under  subparagraph  2,  submitting  their  selling  or  buying  intentions  to  allocating  end-
+investors and receiving the open interests from the allocating end-investors). 
+
+[June 15, 2017] 
+
+§114-3.  End-investors  Classification  Codes  and  Reporting  Methods  of  Foreigner’s 
+Consolidated Accounts 
+
+(1)  Pursuant  to  [§110-2(3)]  of  the  Regulation,  members  shall  issue  12-digit  end-investor 
+classification  codes  to  each  end-investor  who  uses  the  foreigner’s  consolidated  accounts. 
+Provided that, in cases where a foreign financial investment business entity that has opened the 
+foreigner’s consolidated account fails to meet any of the requirements noted in [§114-2(1)], the 
+member  shall  not  newly  issue  an  end-investor  classification  code  to  the  relevant  foreign 
+financial investment business entity. 
+
+(2) Pursuant to [§110-2(3)] of the Regulation, when opening a foreigner’s consolidated account 
+or changing it, a member shall report such fact to the Exchange within twenty (20) minutes 
+from the market closing time of the trading day immediately preceding trading day on which 
+the  member  accepts  an  entrustment  of  orders  through  the  relevant  foreigner’s  consolidated 
+account,  by  inputting  it  to  the  Exchange  derivatives  system  via  the  member’s  derivatives 
+system or the member’s derivatives terminals. In such cases, in cases where the report on the 
+transfer of open interests noted in the proviso to [§114-4 (1)] is not made, the member may 
+make the report together with the sub-end investor to whom the relevant open interests are to 
+be transferred. (Amended on November 1, 2024; May 29, 2025; April 6, 2026) 
+
+115 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[June 15, 2017] 
+
+§114-4. Report on Transfer of Open Interests within A Foreigner’s Consolidated Account 
+
+(1)  Pursuant  to  [§110-2(3)]  of  the  Regulation,  members  shall  report  the  details  of  the  open 
+interests  transferred  to  sub-end  investors  from  allocating  end-investors  of  a  foreigner’s 
+consolidated account to the Exchange within twenty (20) minutes from the market closing time 
+of the trading day on which the trades of the relevant open interests are executed or within 
+twenty (20) minutes from the market closing time of the next trading day. Provided that, for a 
+contract  of  which  the  last  trading  day  has  arrived,  the  details  of  the  open  interests  shall  be 
+reported  to  the  Exchange  within  twenty  (20)  minutes  from  the  market  closing  time  of  the 
+trading day on which the trades of the relevant open interests are executed. (Amended on May 
+29, 2025; April 6, 2026) 
+
+(2) In cases where a member has failed to make the report noted in the proviso to paragraph 
+(1), the Exchange shall transfer the relevant open interests to the  sub-end investor who was 
+reported in advance pursuant to the latter part of [§114-3(2)]. 
+
+(3) Members shall record and keep the materials related to the transfer of open interests under 
+paragraph (1). 
+
+[June 15, 2017] 
+
+§114-5.  Exceptions  to  Margins,  Position  Limits,  High-speed  Algorithmic  Trades,  etc.  of 
+Foreigner’s Consolidated Accounts 
+
+(1) Pursuant to [§110-2(3)] of the Regulation, in the case of a foreigner’s consolidated account, 
+the member margins under [§88(1)] of the Regulation, the intraday margins under [§93-2(1)] 
+of  the  Regulation,  the  risk  exposure  amount  under  [§133(3)]  of  the  Regulation,  the  ex-post 
+customer  margins  under  [§135(1)]  of  the  Regulation  and  the  member  margins  that  shall 
+additionally be deposited pursuant to [§137-2] of the Regulation shall be calculated for each 
+end-investor within the foreigner’s consolidated account and summed up. In such cases, the 
+member may calculate the risk exposure amount under [§133(3)] of the Regulation, the ex-post 
+customer  margins  under  [§135(1)]  of  the  Regulation  and  the  member  margins  that  shall 
+additionally  be  deposited  pursuant  to  [§137-2]  of  the  Regulation  for  the  allocating  final 
+investors by applying [§144(1)2] mutatis mutandis. 
+
+(2) Pursuant to [§110-2(3)] of the Regulation, in the case of a foreigner’s consolidated account, 
+the  end-investors  within  the  foreigner’s  consolidated  account  shall  be  deemed  to  be  the 
+customers  when  applying  the  position  limits  under  [§154]  of  the  Regulation.  (Amended  on 
+September 20, 2017) 
+
+(3) In cases where a member makes a report of an algorithmic trade account for a foreigner’s 
+consolidated account pursuant to [§110-2(3)] of the Regulation, such report shall be made for 
+each  end-investor  within  the  foreigner’s  consolidated  account  who  carries  out  algorithmic 
+trades (it shall be deemed that the report of algorithmic trades for the foreigner’s consolidated 
+account to which the end-investor belongs has also been made). (Amended on July 1, 2019) 
+
+116 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4) In the case of applying the accumulated quotation quantity limit to foreigner’s consolidated 
+accounts pursuant to [§71] and [§110-2(3)] of the Regulation, it shall be applied separately for 
+each  end-investor  within  the  foreigner’s  consolidated  account.  In  such  cases,  “algorithmic 
+trading account” in [Annex 17-2] shall be construed as “end-investor of algorithmic trading” 
+and “non-algorithmic trading account” shall be construed as “end-investor who is not an end-
+investor of algorithmic trading”. [November 25, 2021] 
+
+(5) Pursuant to [§110-2(3)] and [§156-4(7)] of the Regulation, the final investor may conduct 
+high-speed algorithmic trades using foreigner’s consolidated account. In such cases, a member 
+shall  report  to  the  Exchange  the  final  investor’s  identification  code  connecting  to  the  high-
+speed algorithmic trade number in advance. [December 21, 2022] 
+
+[June 15, 2017] 
+
+§114-6. Transfer of Open Interests in Foreigner’s Consolidated Account 
+
+(1) Pursuant to [§110-2(3)] of the Regulation, at the request of a customer, members may apply 
+to the Exchange for the transfer of all or part of the open interests of a sub-end investor to other 
+sub-end  investors  of  the  same  allocating  end-investor  within  the  regular  trading  session. 
+(Amended on May 29, 2025) 
+
+(2) Pursuant to [§110-2(3)] of the Regulation, in cases where a member falls under any of the 
+following  subparagraphs,  the  member  may  apply  to  the  Exchange  for  the  transfer  of  open 
+interests within twenty (20) minutes from the market closing. In such cases, the member shall 
+input  a  number  that  can  identify  the  customer  such  as  the  foreign  investment  registration 
+number, business registration number, or a number on an identification card of the customer 
+who requested the transfer in each of the following subparagraphs: (Amended on November 
+25, 2021; September 22, 2023; April 6, 2026) 
+
+1.  Case where a customer who is a non-resident foreigner makes a request to transfer   
+the entire open interests in a derivatives account opened by the customer to an end-investor 
+(referring  to  the  end-investor  who  is  the  same  person  as  relevant  customer)  in  the 
+foreigner’s consolidated account; and 
+
+2.  Case where a foreign financial investment business entity makes a request to transfer 
+the entire open interests of a general end-investor in the foreigner’s consolidated account 
+opened  by  the  foreign  financial  investment  business  entity  to  the  general  end-investor 
+(referring to the same end-investor) in the foreigner’s consolidated account opened by the 
+same member. 
+
+(3) Members shall record and keep the materials related to the transfer of open interests under 
+paragraphs (1) and (2). 
+
+[June 15, 2017] 
+
+117 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§114-7. Publication of Order Entrustment Methods, etc. 
+
+(1) In cases where the member establishes the details about the order entrustment methods, etc. 
+referred to in [§110-3(4)] of the Regulation, the details noted in the following subparagraphs 
+shall be included: (Amended on June 15, 2017) 
+
+1. With regard to the method of accepting the order entrustment, the matters noted in each 
+of the following items: 
+
+(a) Originator of order;   
+(b) Location where the order originated; 
+(c) Order input device;           
+(d) Order transmitting device; and 
+(e) Order receiving device. 
+
+2. With regard to the order processing method, the matters noted in each of the following 
+items:   
+
+(a) Verification method of order suitability, etc. according to [§65(2)] of the Regulation 
+and physical location of system used for verification; and   
+
+(b) Session types specified in the Guidelines on Connection, etc. to Member System. 
+
+3. Conditions of use and user fees per method according to subparagraphs 1 and 2.   
+
+4.  In  addition,  the  matters  that  the  member  deems  necessary  to  explain  the  differences 
+between order entrustment methods. 
+
+(2)  When  setting  or  changing  the  order  entrustment  methods,  etc.  under  [§110-3(4)]  of  the 
+Regulation, members shall make public such fact in advance through their internet websites 
+and etc. and notify the details to the Exchange without delay. (Amended on June 15, 2017) 
+
+[December 28, 2011] 
+
+§114-8. Matters to Be Entered in Terms and Conditions for High-speed Algorithmic Trading 
+
+Pursuant to [§111(1)19(b)] of the Regulation, in case where a customer of a member is a person 
+who is required to be registered as a high-speed algorithmic trader, the member shall include 
+each of the following matters in the terms and conditions: 
+
+    1. The customer shall identify and systemically manage risks that may arise from the high-
+
+speed algorithmic trading;   
+
+2. The customer shall prepare the procedures for developing and changing the electronic 
+systems including an ordering system, etc. and the program related to the high-speed 
+algorithmic trading, and shall comply with them when operating; 
+
+    3. The customer shall cooperate in fulfilling the member’s obligation to manage high-
+
+118 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+speed algorithmic traders, including checking the electronic system such as the ordering 
+system, etc.; 
+
+    4. The customer shall prepare an appropriate control and response system to effectively 
+
+cope with accidents or system failures related to the high-speed algorithmic trading and to 
+minimize damage therefrom; 
+
+    5. The customer shall maintain a mutual contact system with members to respond promptly 
+in the event of an emergency, such as errors in the electronic system such as the ordering 
+system, etc.; and 
+
+    6. In the case where the customer who has conducted the high-speed algorithmic trading 
+
+through multiple members pursuant to [§164-8] is suspended to submit the orders for high-
+speed algorithmic trading pursuant to [§156-4(5)], he/she shall notify all other members of 
+the relevant fact and reason. 
+
+[December 21, 2022] 
+
+§115. Customer Information 
+
+(1)  “Other  matters  specified  in  the  Enforcement  Rules”  in  subparagraph  4  of  [§114]  of  the 
+Regulation shall refer to each of the following subparagraphs: (Amended on August 28, 2014; 
+June 15, 2017; October 14, 2019; September 3, 2020) 
+
+1. Classification of investors;   
+
+2. [Deleted on September 3, 2020] 
+
+3. In the case of foreign investor, the nationality or country of permanent residence and the 
+residence status in Korea; 
+
+4. When an account has been opened for the payment of substitute securities such as stocks, 
+bonds, and other securities, the number of the relevant account and password; 
+
+5. In the case of having appointed an agent, the matters mentioned in subparagraphs 1 and 
+2  under  [§114]  of  the  Regulation,  the  relationship  with  the  customer  and  the  range  of 
+authority delegated;   
+
+6. Whether or not  the customer is  judged to  be a qualified institutional investor. In such 
+cases, it shall include whether the customer falls under [§132(3)2] of the Regulation; 
+
+7. Classification of upfront customer margin account (referring to the derivatives account 
+for the deposit of upfront initial customer margin: the same hereinafter) and export customer 
+margin account (referring to the derivatives account for deposit to ex-post margin: the same 
+hereinafter); 
+
+8.  In  the  case  of  ex-post  customer  margin  account,  the  sub-classification  of  each  of  the 
+following derivative accounts:     
+
+119 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Ex-post customer margin regular account (referring to the derivatives account for the 
+deposit  of  ex-post  customer  margin  pursuant  to  [§135(1)]  of  the  Regulation:  the  same 
+hereinafter); and 
+
+(b) Ex-post customer margin discount account (referring to the derivatives account for the 
+deposit of lower ex-post customer margin pursuant to [§135(2)] of the Regulation, which 
+was opened for arbitrage or hedge: the same hereinafter). 
+
+9. In the case of general individual investors (referring to the individuals with ‘investors 
+code’ of 8000 under ‘classification of investors’ in [Annex 6] except individual investors 
+falling under Article 9(5) of the Act and non-resident foreigners; the same hereinafter), it 
+shall include whether they have completed education courses on derivatives and derivatives 
+mock trading courses. 
+
+10. In addition, other matters that the member deems necessary. 
+
+(2) When  opening,  changing  or  canceling  an  ex-post  customer  margin  account  specified  in 
+paragraph  (1)8  (excluding  foreigner’s  consolidated  accounts),  the  member  shall  report  the 
+matters about the relevant account to the Exchange without delay. In such cases, when reporting 
+the  matters  about  the  opening  of  ex-post  customer  margin  discount  account,  the  securities-
+linked account (referring to the securities-linked account pursuant to [§147(1)3]) and ex-post 
+customer margin regular account of the same customer shall also be reported. (Amended on 
+June 15, 2017) 
+
+(3)  Completion  of  the  education  courses  on  derivatives  under  paragraph  (1)9  shall  refer  to 
+completing  derivatives-related  education  courses  provided  and  operated  by  the  KOFIA  for 
+more than the time set by a member, which is at least one (1) hour. (Amended on March 13, 
+2017; October 14, 2019) 
+
+1. [Deleted on October 14, 2019] 
+2. [Deleted on October 14, 2019] 
+
+(4)  Completion  of  mock  trading  courses  under  paragraph  (1)9  shall  refer  to  completing 
+derivatives mock trading courses provided and operated by the Exchange or derivatives mock 
+trading courses of members certified by the Exchange for more than the time set by a member, 
+which is at least three (3) hours. [March 13, 2017] (Amended on October 14, 2019) 
+
+(5)  Each  member  shall  set  the  criteria,  by  which  each  customer  can  be  applied  with 
+differentiated hours of completion of the education courses on derivatives and the derivatives 
+mock trading courses under paragraph (1)9, taking into account the customer information, etc. 
+under subparagraph 3 of [§114] of the Regulation. [October 14, 2019] 
+
+(6) Notwithstanding paragraph (3), when a person has passed examinations falling under any 
+of  subparagraphs  in  [§2-5-3(3)]  of  the  ‘Regulations  on  Business  Conduct  and  Services  of 
+Financial Investment Companies’ of the KOFIA and the passing of the examination remains 
+valid, it shall be deemed that the person has completed the derivatives education course. [March 
+13, 2017] 
+
+120 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(7)  Notwithstanding  paragraphs  (3)  and  (4),  any  person  who  falls  under  any  of  following 
+subparagraphs  shall  be  deemed  to  have  completed  the  derivatives  education  course  and  the 
+derivatives mock trading course: [March 13, 2017] 
+
+1. A  person,  among  the  persons  with  working  career  in  the  area  of  derivatives  business, 
+falling under [§2-5-3(3)2] of the Regulations on Business Conduct and Services of Financial 
+Investment Companies; and   
+
+2. A person who has entered into a discretionary investment agreement on the on-Exchange 
+derivatives products with a person engaging in the discretionary investment business [This 
+is  limited  to  the  case  of  being  entrusted  by  the  derivatives  product  account  (hereinafter 
+referred to as the “discretionary investment account”) on which the relevant discretionary 
+investment agreement has been entered into.] 
+
+(8) In order to be applied with the Class No-action Relief issued by the U.S. Securities and 
+Exchange Commission (referred to as the “Class Relief” hereinafter in this Paragraph), each 
+member  shall  comply  with  all  terms  and  conditions  set  forth  in  the  Class  Relief  and  the 
+requirements separately determinedly the Exchange. In such cases, the member shall submit a 
+written confirmation on provision of transaction-related information, etc. to the Exchange, and 
+shall  collect  and  keep  a  written  confirmation  signed  by  a  US  investor  in  relation  to  the 
+qualifications for trading and the trade-associated risks, etc., before receiving entrustment from 
+such US investor. [August 17, 2018] 
+
+(9) The Exchange shall separately determine the matters necessary for the written confirmation 
+under  paragraph  (8),  and  if  requested  by  the  Exchange,  each  member  shall  submit  the 
+transaction-related  data  of  US  investors  to  the  Exchange.  [August  17,  2018]  (Amended  on 
+October 14, 2019) 
+
+Section 2. Entrustment Method and Conditions 
+
+§116. Order Details 
+
+“Order details specified in the Enforcement rules” mentioned in [§117] of the Regulation shall 
+refer to  the details  noted in  each of the  following subparagraphs: (Amended on August 28, 
+2014; June 15, 2017; December 21, 2022) 
+
+1. Order type; 
+2. Contract name; 
+3. Quantity; 
+4. Price, in the case of an order specifying prices;   
+5. Classification of offer and bid; 
+6. Derivatives account number (for foreigner’s consolidated accounts, it shall be the end-
+investor classification code); 
+7. [Deleted on September 3, 2020] 
+8. In cases where an order (including the immediate or cancel condition and the fill or kill 
+condition  pursuant  to  [§48(1)8]  and  self-match  prevention  condition  pursuant  to 
+[§48(1)17(c)]) is affixed with a condition, such condition; 
+
+121 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9. In cases where the order has a validity period, such validity period; 
+10. Matters noted in subparagraph 1 under [§114] of the Regulation; and (Amended on May 
+29, 2025) 
+11. In addition, the matters that the member deems necessary. 
+
+§117. Order Entrustment by Written Document and Recording of Order Details 
+
+Pursuant  to  [§118(3)]  of  the  Regulation,  in  case  where  the  member  receives  an  order 
+entrustment  by  written  document  method,  it  shall  be  the  order  slip  where  the  customer  has 
+recorded  the  order  details  and  put  his/her  seal  or  signature  thereon.  (Wholly  amended  on 
+December 28, 2011) 
+
+§117-2. Order Entrustment over Telephone, etc. and Recording of Order Details 
+
+(1) Pursuant to [§118(3)] of the Regulation, in case where the member receives an entrustment 
+of  order  over  the  telephone,  etc.,  it  shall  be  the  method  falling  under  any  of  the  following 
+subparagraphs:   
+
+1. The method of using the order slip where the person receiving the entrustment fills in the 
+order details and puts his/her seal or signature thereon; and 
+
+2.  The  method  where  the  person  receiving  the  relevant  entrustment  puts  his/her  seal  or 
+signature on the printed order details (hereinafter referred to as the “electronic order slip”) 
+after inputting the order details into the member derivatives system.   
+
+(2) Notwithstanding paragraphs (1) and (2), in case where the order details and the person who 
+inputted the order details can be verified by using the magnetic tape, magnetic disc or other 
+auxiliary memory devices, it shall deem to be by the method noted in paragraphs (1) and (2).   
+
+(3) In the case of receiving the order entrustment over the telephone, etc., the member may use 
+a recording device and other method to prove the order details. 
+
+(4) The member using the electronic order slip noted in paragraph (1)2 shall comply with the 
+matter noted in each of the following subparagraphs: 
+
+1. To input the order details into the member derivatives system immediately after receiving 
+the entrustment; 
+
+2. To record such facts as the order input time, the person who inputted and details of order 
+cancellation and order correction in the member derivatives system;     
+
+3. To make a copy of order details and other matters inputted in the member derivatives 
+system using the magnetic tape, magnetic disc or other auxiliary memory devices and keep 
+such copy; and   
+
+4. To make sure that the inputted and recorded order details and the person who inputted the 
+order  details  pursuant  to  subparagraphs  1  through  3  can  be  printed  in  an  easily  readable 
+format. 
+
+122 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Wholly amended on December 28, 2011) 
+
+§117-3. Order Entrustment via Electronic Communication Method 
+
+(1) Pursuant to [§118(3)] of the Regulation, in the case of receiving an order entrustment via 
+electronic  communication  method,  a  member  shall  enter  into  an  agreement  for  order 
+entrustment via electronic communication method with the customer in advance.   
+
+(2)  In  cases  where  a  member  receives  an  order  entrustment  via  electronic  communication 
+method, it shall be using the member derivatives system meeting all requirements noted in each 
+of the following subparagraphs: 
+
+1.  The  member  shall  be  able  to  verify  if  the  user  of  member  derivatives  system  is  the 
+legitimately authorized user;   
+
+2. In the case of entrusting an order, the customer shall be able to confirm the order details 
+immediately; 
+
+3. The customer shall be able to inquire the order details and trading details noted in [§125(1)] 
+of the Regulation; 
+
+4. The member shall be able to record the order details, refusal of order entrustment and 
+other handling details of member derivatives system and keep such record;   
+
+5.  To  be  able  to  prevent  inputting  of  order  details,  withdrawal  and  transfer  of  customer 
+margin and cash, substitute security, foreign currency or foreign securities deposited as the 
+basic  deposit  by  a  person  other  than  the  entrusting  customer,  and  prevent  stealing  and 
+leaking of information about the customer; 
+
+6.  The  member  shall  be  able  to  refuse  the  order  entrustment  immediately  when  it  is 
+necessary; and 
+
+7. In cases where the customer requests, the member may submit all cancellation quotations 
+noted in such request end bloc. 
+
+[December 28, 2011] 
+
+§118. Entrustment of Negotiated Trade 
+
+(1) When a member accepts the entrustment of negotiated trade from a customer pursuant to 
+[§123(2)]  of  the  Regulation,  the  matters  to  be  verified  shall  be  each  of  the  followings: 
+(Amended on August 21, 2009; October 1, 2010; August 28, 2014; June 15, 2017; May 29, 
+2025) 
+
+1. Contract name; 
+2. Price; 
+
+123 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Quantity; 
+4. Derivatives account number (for foreigner’s consolidated accounts, it shall be the end-
+investor classification code); 
+5. Classification of offer and bid; 
+6. Name and derivatives account number (for foreigner’s consolidated accounts, it shall be 
+the end-investor classification code) of the counter party member; 
+7. Time when the agreement for negotiated block trade was concluded;   
+7-2. In the case of trading the exchange of futures for physicals, the spot price of US dollar 
+noted in [§72-3(2)];     
+7-3. In the case of negotiated FLEX trade, the last trading day and settlement method; and     
+8. Additionally, the matters that the member deems necessary. 
+
+(2) When intending to accept the trade entrustment of exchange of futures for physicals, the 
+member shall receive the deposit of US dollar or amount noted in [§72-4], which is related to 
+the relevant trade, in advance. [August 21, 2009]   
+
+§118-2. [Deleted on May 29, 2025] 
+
+[August 25, 2010] 
+
+§119. Refusal to Accept Entrustment, etc. 
+
+(1) Pursuant to the proviso to [§124(1)2] of the Regulation, the member may not refuse the 
+entrustment of orders falling under any of the following subparagraphs. In such cases, if the 
+orders falling under subparagraphs 1 through 3 have been entrusted, the member shall take into 
+account  the  possibility  of  the  order  being  executed,  etc.  (Amended  on  October  26,  2009; 
+January  31,  2011;  October  20,  2011;  August  28,  2014;  November  3,  2014;  May  26,  2015; 
+September 20, 2017) 
+
+1. The order for offsetting trade that does not cause the increase of customer margin when 
+many orders received simultaneously or consecutively in an equivalent manner is executed; 
+
+2. In cases where only total amount of deposit is insufficient, the order for offsetting trade 
+that does not increase the customer margin and increases only the amount requiring cash 
+deposit within the amount of cash deposited; 
+
+3. In cases where only the cash deposit is insufficient, the order for offsetting trade that does 
+not increase the customer margin and increases only the cash deposit requirement within the 
+amount of total deposit; 
+
+4. In the case of receiving an entrustment of orders from the customer permitted to pay the 
+ex-post customer margin that paid the ex-post customer margin after the deposit deadline; 
+
+5. In the case of receiving an entrustment of orders from the overseas qualified institutional 
+investor  who  failed  to  deposit  the  ex-post  customer  margin  or  fulfill  the  settlement 
+obligation due to the public holiday of overseas banks. In such cases, the member shall keep 
+
+124 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the records of relevant materials; 
+
+6.  In  the  case  of  receiving  an  entrustment  of  orders  from  overseas  qualified  institutional 
+investors who have submitted the payment instructions sent to the foreign exchange banks 
+in Korea for the deposit of ex-post customer margins or settlement payments. In such cases, 
+the member shall keep the records of relevant materials. 
+
+(2)  The  cases  where  the  entrustment  of  orders  must  be  refused  according  to  the  proviso  to 
+[§124(1)3] of the Regulation shall be stipulated in [Annex 22]. [January 31, 2011] 
+
+(3) “Cases of receiving entrustment of trades stipulated in the Enforcement Rules” in [§124(1)5] 
+of the Regulation shall refer to the cases falling under any of the followings: (Amended on 
+January 31, 2011; August 28, 2014; December 24, 2014; February 13, 2015; March 13, 2017; 
+June 15, 2017; September 20, 2017; March 15, 2018; October 14, 2019; September 3, 2020; 
+December 21, 2022) 
+
+1. Case of receiving the entrustment of orders that infringes the Regulation, etc. including 
+the order price exceeds the upper or lower limit price;   
+
+2. Case of receiving the entrustment of orders that is not consistent with the classification 
+of derivatives account pursuant to [§115(1)7&8];   
+
+3. Case of receiving the entrustment of orders through the ex-post customer margin discount 
+account that has failed to submit the documentary evidence for arbitrage or hedge and also 
+failed to deposit the amount of customer margin applicable to the ex-post customer margin 
+regular account;   
+
+4. [Deleted on May 29, 2025] 
+
+5. [Deleted on May 29, 2025] 
+
+6. Case of receiving an entrustment of new trades (referring to the trades that will increase 
+the number of open interests of each of bid and offer per contract except for the contracts of 
+futures spreads; the same hereinafter in this Paragraph) from a general individual investor 
+who has not completed the education courses under [§115(3) and (4)]; 
+
+7. Case of receiving an entrustment of new trades of V-KOSPI 200 futures or options sale 
+from a general individual investor (excluding a person who falls under [§115(6)2])who has 
+no  experience  of  holding  open  interests  (excluding  open  interests  of  an  discretionary 
+investment account) calculated for each member for more than ten (10) trading days during 
+the period from the trading day of opening of the customer’s derivatives product account (in 
+the case of an account that entered into a discretionary investment agreement on that trading 
+day, it shall be the trading day following the trading day when the discretionary investment 
+agreement has been terminated) to the trading day when the member was entrusted with the 
+trades. Provided that the same shall not apply to the case of receiving an entrustment of new 
+trades to sell options through a hedge-dedicated account under [§127(3)2] of the Regulation; 
+(Amended on May 29, 2025) 
+
+8. [Deleted on October 14, 2019] 
+
+125 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9. [Deleted on October 14, 2019] 
+
+10.  Case  of  receiving  an  entrustment  for  anew  trade  through  a  discretionary  investment 
+account from any person other than the person who has entered into discretionary investment 
+agreement; 
+
+11. Case of receiving an entrustment of trades for buying or selling from a person who has 
+opened foreigner’s consolidated accounts and directly received the intention of such trades 
+from a sub-end investor; 
+
+12.  Case  of  receiving  an  entrustment  for  a  new  trade  from  a  foreigner’s  consolidated 
+accounts  of  a  foreign  financial  investment  business  entity  which  has  failed  to  meet  the 
+requirements specified in [§114-2(1) 1 or 3]; 
+
+13. Case of receiving an entrustment of trades from a person who has opened the foreigner’s 
+consolidated account and to whom the allocating end-investor of a sub-end investor whose 
+open interests have exceeded the position limits specified in [§154] of the Regulation has 
+submitted the buying or selling intentions;   
+
+14.  Case  of  receiving  an  entrustment  of  derivatives  trades  for  hedging  (referring  to  the 
+derivative trades noted in [§122-2(2)]), the amount of which exceeds the assessment value 
+of the assets deposited in the hedge-linked securities account mentioned in [§122-2(1)] from 
+the customer of a hedge-dedicated account; 
+
+15. Case of receiving an entrustment of trades that should be rejected as a result of applying 
+mutatis  mutandis  the  provisions  of  [Annex  22]  to  each  of  same  underlying  stocks  for 
+KOSDAQ 150 futures, KOSDAQ 150 options, single stock futures and single stock options; 
+and 
+
+16. Case of receiving an entrustment of trade that is different from the details reported to 
+the Exchange pursuant to [§114(4)] from other members. 
+
+(4)    ;[Deleted on May 29, 2025]   
+
+(5) ;[Deleted on May 29, 2025] 
+
+§120. Notification of Trading Details to Customers 
+
+Pursuant to the proviso to [§125(1)] of the Regulation, the trading details that the member must 
+notify to the customer shall be each of the followings:   
+
+1. Trade execution date (year, month and date); 
+2. Contract name; 
+3. Quantity; 
+4. Price;   
+5. Classification of offer and bid; and   
+6. In addition, the matters that the member deems it necessary to notify the customer.   
+
+126 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER 2. CUSTOMER MARGIN 
+
+Section 1. General Provisions 
+
+§121. Entrustment Prices of Market Orders, etc. 
+
+The  entrustment  prices  of  market  orders,  limit-to-market-on-close  orders  and  immediately 
+executable limit orders under [§126(1)] of the Regulation shall refer to the price classified in 
+each of the following subparagraphs: (Amended on August 28, 2014; May 19, 2015; November 
+10, 2017) 
+
+1. For futures trades: Base price of underlying asset of the immediately preceding trading 
+day; and (Amended on May 29, 2025) 
+
+2. For options trades: The upper limit price noted in [§59(1)] Provided that, in the case of 
+the  options  trading  of  equity  derivatives,  it  shall  be  classified  as  follows:  (Amended  on 
+October 1, 2025) 
+
+(a)   In the case of regular trading: The higher price between the upper limit price in the 
+3rd phase under [Annex 14] and the lowest upper limit price under [§59-3]); or [October 
+1, 2025] 
+
+(b) In the case of night trading: The higher price between the upper limit price in the 1st 
+phase under [Annex 14] and the lowest upper limit price under [§59-3]. [October 1, 2025] 
+
+§121-2. [Deleted on October 20, 2011] 
+
+§122. Amount of Basic Deposits 
+
+(1) The amount of basic deposit under [§127(1)] of the Regulation shall be the amount set by 
+members  for  each  customer  by  taking  into  account  the  customer  information  under 
+subparagraph 3 of [§114] of the Regulation, which is within the amount falling under any of 
+the following subparagraphs: (Amended on October 14, 2019) 
+
+1. For a customer who intends to trade futures except V-KOSPI 200 futures and to conduct 
+options purchasing trades: KRW 10 million or more; and 
+
+2. Fora customer who intends to trade all derivatives: KRW 20 million or more. 
+
+(2) Notwithstanding paragraph (1), the members may set KRW 500,000 or higher as the basic 
+deposit for the customer who opens the derivatives account for the purpose of trading only the 
+Gold futures or Lean Hog futures. [July 30, 2010] (Amended on March 19, 2013; November 
+3, 2014; October 28, 2015) 
+
+127 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3) The member shall establish the phases of application, the amount applicable for each phase, 
+the application period and other necessary matters (hereinafter referred to as “the guidelines 
+for derivatives basic deposit”) per customer pursuant to paragraph (1). 
+
+(4) When establishing or amending the guidelines for derivatives basic deposit, the member 
+shall make public such fact in advance and notify the Exchange within seven (7) business days 
+from the date of application. (Amended on January 31, 2011; May 29, 2025) 
+
+(5) In the case of applying [§127(2)] of the Regulation, for the customer who placed an order 
+after the entire quantity of open interests has been closed out, but none of the relevant order 
+was executed and the settlement deadline of closed-out open interests has passed, the member 
+shall  collect  the  derivatives  basic  deposit  or  cancel  the  entire  quantity  of  relevant  order. 
+(Amended on August 28, 2014) 
+
+(6)  Notwithstanding  paragraph  (1),  when  it  is  deemed  necessary  in  view  of  the  trading 
+conditions, the Exchange may change the amount specified in each subparagraph of paragraph 
+(1). 
+
+§122-2. Opening, etc. of Hedge-dedicated Accounts 
+
+(1) Pursuant to [§127(4)] of the Regulation, members may open hedge-dedicated accounts to 
+general individual investors who meet the following requirements: (Amended on October 14, 
+2019) 
+
+1. Shall complete the education courses on derivatives under [§115(3)] and the derivatives 
+mock trading courses under [§115(4)]; and 
+
+2.  Shall  designate  a  securities  account  that  is  linked  to  a  hedge-dedicated  account 
+(hereinafter referred to as “hedge-linked securities account”). 
+
+(2) If a customer deposits assets more than the minimum securities quantity or the minimum 
+cash amount in his/her hedge-linked securities account, the customer may conduct a derivatives 
+trade to hedge the deposited assets (referring to a new trade for the sale of futures, purchase of 
+put options and sale of call options) through a hedge-dedicated account within the assessment 
+value of the deposited assets. 
+
+(3) The scope of the deposited assets, the minimum securities quantity or the minimum cash 
+amount of the deposit assets, the types of derivatives that can be traded for the hedging of the 
+relevant deposited assets and the transaction limits noted in paragraph (2) shall be stipulated in 
+[Annex 28]. 
+
+(4) In cases where a customer holds open interests acquired from a derivatives trade for hedging, 
+the member shall not pay the deposited asset which is the subject of the relevant hedging trade 
+to the customer. 
+
+(5) Notwithstanding Paragraph (4), in cases where a customer can immediately close out the 
+open interests acquired from a derivatives trade for hedging, the member may pay the deposited 
+
+128 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+asset which is the subject of the relevant hedging trade to the customer. Provided that, when 
+the customer fails to close out the relevant open interests by the time of market closing of the 
+relevant trading day, the member may conduct offsetting trades, taking into considering the 
+assessment value of the deposited assets, after 12:00 noon on the next trading day by applying 
+[§152] mutatis mutandis. (Amended on May 29, 2025) 
+
+[June 15, 2017] 
+
+Section 2. Substitute Securities, Foreign Currencies and Foreign Securities 
+(Amended on December 18, 2012) 
+
+§123.Types and Assessment of Foreign Currencies, etc. 
+
+(1) The type of foreign  currencies noted in [§127(4)] of the Regulation shall be the foreign 
+currency determined by the members from  among the foreign currencies falling under each 
+subparagraph of [§92(1)]. 
+
+(2) Pursuant to [§127(4)] of the Regulation, the Exchange shall determine the Korean Won 
+equivalent  price  (hereinafter  referred  to  as  “the  evaluated  price”  in  this  Article)  on  each 
+business day by multiplying the assessment rate by the basic price of foreign currency. In such 
+cases, the amount less than KRW 1 shall be discarded. 
+
+(3) The base price in paragraph (2) shall be the basic rate (referring to the basic rate of the day 
+determined and publicized pursuant to the Foreign Exchange Transaction Regulation; but the 
+basic rate of the previous day, if no basic rate of the day is available) specified in each of the 
+following  subparagraphs,  and  the  calculation  methods,  calculation  timing  and  application 
+timing of assessment rates for foreign currencies noted in paragraph (2) shall be as stipulated 
+in [§92(3)]. (Amended on December 31, 2015; September 19, 2017) 
+
+1.  In  the  case  of  determining  the  customer  margin  during  the  regular  trading  session 
+(including the time for receiving quotations for opening price by call auction), the basic rate 
+noted in each of the following items: (Amended on May 29, 2025) 
+
+(a) In the case of US dollar and Chinese Yuan: the basic rate determined and announced 
+on the calculation date; and 
+
+(b) In the case of foreign currencies other than US dollar and Chinese Yuan: the adjusted 
+basic rate determined and announced on the day before the calculation date. 
+
+2. In the case of determining the customer margin after the market closing of the regular 
+trading session and before the time for receiving quotations for opening price by call auction 
+in the night trading session, the basic rate noted in each of the following items: (Amended 
+on May 29, 2025) 
+
+(a) In the case of US dollar and Chinese Yuan: the basic rate determined and announced 
+on the day after the calculation date; and 
+
+129 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) In the case of foreign currencies other than US dollar and Chinese Yuan: the adjusted 
+basic rate determined and announced on the calculation date. 
+
+3. In the case of determining the customer margin during the night trading session (including 
+the time for receiving quotations for opening price by call auction): the basic rate noted in 
+each of the following items: (Amended on May 29, 2025) 
+
+(a) In the case of US dollar and Chinese Yuan: the basic rate determined and announced 
+on the trading day to which the point of time for calculation belongs; and (Amended on 
+May 29, 2025) 
+
+(b) In the case of foreign currencies other than US dollar and Chinese Yuan: the adjusted 
+basic  rate  determined  and  announced  on  the  day  immediately  preceding  trading  day  to 
+which the point of time for calculation belongs. (Amended on May 29, 2025) 
+
+(4) Notwithstanding paragraph (3), if the exchange rate of a foreign currency rapidly fluctuates 
+or there is a possibility of sudden change, a member may change the basic rates or apply the 
+assessment rates for the foreign currency after changing them within the assessment rates under 
+paragraph (3). (Amended on September 19, 2017) 
+
+(5) The methods for publication of evaluated prices shall be as specified in [§92(5)].   
+
+§123 -2. Types and Appraisal of Foreign Securities, etc. 
+
+(1) Pursuant to [§127(4)] of the Regulation, the types of foreign securities shall be determined 
+by members from among the foreign securities falling under any of each subparagraph of [§92-
+2(1)].   
+
+(2) Pursuant to [127-(4)] of the Regulation, the Exchange shall produce the price evaluated in 
+Korean  currency  (referred  to  as  the  “evaluated  price;  the  same  hereinafter  in  this Article) 
+according to the following calculation formula every trading day. In such cases, the amount 
+less than KRW 1 shall be discarded:(Amended on November 3, 2014)   
+
+Base market price of foreign security Basic rate Assessment rate 
+
+(3) The base market price and assessment rate of foreign securities pursuant to paragraph (2) 
+shall be as specified in [§92-2(3) & (5)].   
+
+(4) The basic rate pursuant to paragraph (2) shall be the basic exchange rate (referring to the 
+basic rate of the day determined and publicized pursuant to the Foreign Exchange Transaction 
+Regulation;  but  it  shall  be  the  basic  rate  of  the  previous  day,  if  no  basic  rate  of  the  day  is 
+available) noted in each of the following subparagraphs:(Amended on December 31, 2015) 
+
+1.  In  the  case  of  calculating  the  customer  margin  during  the  regular  trading  session 
+(including the time for receiving quotations for opening price by call auction), the basic rate 
+noted in each of the following items: (Amended on May 29, 2025) 
+
+130 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) In the case of    US dollar and Chinese Yuan, the basic rate determined and published 
+on the customer margin calculation date; and 
+
+(b) In the case of foreign currencies other than US dollar and Chinese Yuan, the adjusted 
+basic rate determined and published on the  day before the customer margin calculation 
+date. 
+
+2.  In  the  case  of  calculating  the  customer  margin  after  the  market  closing  of  the  regular 
+trading session and before the time for receiving quotations for opening price by call auction 
+in the night trading session, the basic rate noted in each of the following items: (Amended 
+on May 29, 2025) 
+
+(a) In the case of US dollar and Chinese Yuan, the basic rate determined and published on 
+the day after the customer margin calculation date; and 
+
+(b) In the case of foreign currencies other than US dollar and Chinese Yuan, the adjusted 
+basic rate determined and published on the customer margin calculation date. 
+
+3. In the case of determining the customer margin during the night trading session (including 
+the time for receiving quotations for opening price by call auction): the basic rate noted in 
+each of the following items: (Amended on May 29, 2025) 
+
+(a) In the case of US dollar and Chinese Yuan: the basic rate determined and announced 
+on the trading day to which the point of time for calculation belongs; and (Amended on 
+May 29, 2025) 
+
+(b) In the case of    foreign currencies other than US dollar and Chinese Yuan: the adjusted 
+basic  rate  determined  and  announced  on  the  day  immediately  preceding  trading  day  to 
+which the point of time for calculation belongs. (Amended on May 29, 2025) 
+
+(5) Notwithstanding the paragraphs (2) through (4), in case where the collateral value of foreign 
+securities fluctuates suddenly or there is worry about such sudden change of collateral value or 
+the redemption of foreign securities is restricted, the member may change the base market price 
+of foreign securities or apply the assessment rate of foreign securities after adjusting it within 
+the assessment rate pursuant to paragraph (3).   
+
+(6)  In  cases  where  the  evaluated  price  is  calculated  according  to  paragraphs  (2)  and  (5) 
+subsequent to the deposit of foreign securities, the evaluated price shall be made public using 
+the media such as the electronic delivery device operated by the member.   
+
+[December 18, 2012] 
+
+§124. Exceptions to Base Price of Substitute Securities 
+
+Pursuant  to  [§128(2)]  of  the  Regulation,  during  the  period  from  the  time  when  the  closing 
+prices of substitute securities of the day has been published to the time when the Exchange 
+publishes the substitute price (in the case of night trading, it shall be until the closing time of 
+night trading on the relevant day), the member may apply the substitute price calculated by 
+
+131 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+applying the base price noted in each of the following subparagraphs: (Amended on August 21, 
+2009; November 12, 2011; March 19, 2013; September 17, 2013; November 3, 2014; June 15, 
+2017; May 29, 2025) 
+
+1. In the case of calculating the customer margin before market closing: the closing price of 
+the day before the calculation date or the base price of the calculation date. Provided that, 
+in the case of a date when a stock has gone ex-dividend, etc., the price that the member 
+determines for each case by taking into account the base price of the relevant listed stock, 
+DR of foreign stock, ETFs and ETNs may be used. (Amended on May 29, 2025) 
+
+2. In the case of calculating the customer margin after market closing of the regular trading 
+session and before the time for receiving quotations for opening price by call auction in the 
+night  trading  session:  the  closing  price  on  the  calculation  date  or  the  base  price  on  the 
+following day of the calculation date. Provided that, in cases where the day after calculation 
+date is the day when the stock has gone ex-dividend, etc., the price that the Exchange (in the 
+case of determining an additional customer margin, it shall be the member) determines for 
+each case by taking into account the base price of the relevant listed stock, DR of foreign 
+stock, ETFs and ETNs may be used. (Amended on May 29, 2025) 
+
+3. In the case of determining the customer margin during the night trading session (including 
+the time for receiving quotations for opening price by call auction): the closing price on the 
+immediately preceding trading day and the base price on the relevant day. Provided that, in 
+the case of trading day to which the calculation date belongs is the trading day when the 
+stock has gone ex-dividend, etc., the price that the Exchange determines for each case by 
+taking into account the base price of the relevant listed stocks, DRs of foreign stocks, ETFs 
+and ETNs may be used. (Amended on May 29, 2025) 
+
+(Wholly amended on July 8, 2013) 
+
+§125 ~ §131 [Deleted on July 8, 2013] 
+
+Section 3. Deposit of Customer Margins 
+
+Sub-Section 1. Management of Qualified Institutional Investors 
+(Amended on November 3, 2014) 
+
+§132. Criteria for Selection of Qualified Institutional Investors and Request for Materials 
+
+(1) “Institutional investors who meet the requirements set forth in the Enforcement Rules” in 
+[§133(1)] of the Regulation shall refer to the institutional investors meeting both the tangible 
+requirements noted in subparagraph 1 and the asset size requirements noted in subparagraph 2. 
+Provided that the asset size requirements may not apply to the case where the risk management 
+unit  of  the  member  has  concluded  that  the  relevant  institutional  investor  has  adequate 
+settlement fulfillment capability after having examined such factors as the capability to fulfill 
+the settlement obligations, etc. (Amended on August 25, 2010; January 31, 2011; August 28, 
+
+132 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2014; November 21, 2016; July 30, 2019; March 9, 2021) 
+
+1. The tangible requirements: Investors falling under any of the following items: 
+
+(a)  Professional  investors  under  Subparagraph  1  through  3  of  Article  9(5)  of  the  Act 
+[excluding the investment advisory company under Article 8(5) of the Act]; 
+
+(b) Professional investors under Article 10(3) [excluding Subparagraphs 5 through 8, 15 
+through 17 and 18(d)] of the Enforcement Decree of the Act;     
+
+(c) Overseas  corporations  or organizations, which have equivalent  to  those specified in 
+item (b); 
+
+(d) [Deleted on May 29, 2025]   
+
+(e)  From  among  the  domestic  and  foreign  corporations  that  hold  the  accounts  for 
+algorithmic  trading  pursuant  [§156-3(2)]  of  the  Regulation  and  fall  under  any  of 
+followings, those selected through the assessment by the risk management department of 
+members.   
+
+(i) Wholly-owned subsidiaries of a parent company when the relevant parent company 
+satisfies any of the requirements noted in items (a) through (d). 
+
+(ii)  Members  of  the  foreign  derivatives  markets  prescribed  in  Article184  of  the 
+Enforcement  Decree  of  the  Act,  market  makers  or  a  person  who  acquired  the 
+qualifications equivalent thereto. 
+
+(iii) A person who received credits from financial institutions with high credit ratings 
+(limited to the case where a risk management agreement is entered into between the 
+corresponding financial institution and the member). 
+
+(iv) A person who has KRW 2 billion or more of total deposits in his/her derivatives 
+accounts on the day before the date of examination by member. 
+
+2. The asset size requirements: KRW 500 billion or more of total asset or KRW 1 trillion or 
+more of total asset under management. 
+
+(2)  Members  shall  obtain  the  documents  proving  the  requirements  noted  in  paragraph  (1) 
+(including the documents required at the time of special examination by the risk management 
+unit of members and those  required  for the  establishment of risk exposure limits) and keep 
+them. In such cases, members shall not select the institutional investor who has failed to submit 
+the documents as a qualified institutional investor. [January 31, 2011] 
+
+(3) In cases where a member was aware of the fact that a person who was selected as a qualified 
+institutional investor falls under any of the following subparagraphs, the member shall exclude 
+the relevant investor from the qualified institutional investors: [November 3, 2014] (Amended 
+on October 30, 2019) 
+
+1.  Where  it  fails  to  meet  the  requirements  under  paragraph  (1).  Provided  that,  the 
+
+133 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+requirements under paragraph(1)1(e)(iv) shall be reviewed every two (2) years; 
+
+2.  Where  it  has  been  subject  to  the  measures  prescribed  in  Article  376(1)11(c)  of  the 
+Enforcement Decree of the Act for unfair trading provided in PART IV of the Act by the 
+Securities and Futures Commission; and 
+
+3. Where it uses any domestic means of communications or communication technologies 
+such  as  long-distance  wireless  communication  networks  that  are  recognized  by  the 
+Exchange  to  undermine  the  stability  and  fairness  of  the  market  in  consideration  of  the 
+purpose  and  effect  of  using  the  means  of  communications,  and  the  impact  on  the  fair 
+competition in accepting entrustment of orders, etc., with respect to the transmission and 
+receipt of prices and transaction information, etc. 
+
+§132-2. Management of Risk Exposure Amount of Ex-post Customer Margin Account 
+
+(1) “Risk exposure amount calculated according to the method stipulated in the Enforcement 
+Rules”  in  [§133(3)]  of  the  Regulation  shall  refer  to  the  customer  margin  determined  by 
+applying  [§133(1)3  and  (1)4]  mutatis  mutandis  as  of  the  time  when  order  was  executed. 
+(Amended on August 28, 2014; November 3, 2014) 
+
+(2) Pursuant to the proviso to [§133(4)] of the Regulation, in the case of having received the 
+entrustment of orders for offsetting trade that lowers the risk exposure from the customer with 
+the risk exposure amount exceeded the limit, the member may not turn down that entrustment 
+of order. (Amended on July 8, 2013) 
+
+(3) In cases where the customer with the risk exposure amount exceeding the limit has reduced 
+the risk exposure amount below the exposure limit or the case where the risk exposure amount 
+does not exceed the limit as a result of increasing the total entrustment amount, it shall deem 
+that the relevant customer does not to exceed the risk exposure limit from that time onward. 
+(Amended on July 8, 2013) 
+
+(4) Pursuant to [§133(7)] of the Regulation, in the case of an ex-post customer margin account 
+where additional deposit of intraday customer margin is required pursuant to [§137-2(1)] of 
+the Regulation, the risk exposure limit of the regular trading session of the relevant trading day 
+and the risk exposure limit of the night trading session of the following trading day shall be set 
+at no more than twice the total amount of deposit (the sales amount of substitute securities for 
+which the settlement deadline has not come may be included). Provided that, in the case of 
+releasing  additional  deposit  of  intraday  customer  margin  during  trading  session  pursuant  to 
+[§137-2(3)] and [§151-3(1)] of the Regulation, the foregoing may not apply to the risk exposure 
+limit of the night trading session.. [May 26, 2015] (Amended on May 29, 2025) 
+
+[January 31, 2011] 
+
+§132-3. Guidelines for Risk Management of Qualified Institutional Investors 
+
+(1) “Time period specified in the Enforcement Rules” in [§133(6)] of the Regulation shall refer 
+to  seven  (7)  business  days  from  the  date  of  putting  the  guidelines  for  risk  management  of 
+qualified institutional investors into effect. (Amended on August 28, 2014; May 29, 2025) 
+
+134 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) Pursuant  to  [§133(7)] of the Regulation,  members  shall establish the guidelines for  risk 
+management of qualified institutional investors, which includes the matters noted in each of 
+the following subparagraphs: (Amended on July 26, 2011) 
+
+1.  The  selection  criteria  for  qualified  institutional  investors,  the  materials  required  for 
+selection and time of reexamination or re-selection;   
+
+2.  The  method  for  establishing  guidelines  for  setting  the  risk  exposure  limits  by  phase 
+according to the level of ability to perform the settlement, etc. per ex-post customer margin 
+account, materials required at the time of determination and time of re-determination of risk 
+exposure limits; 
+
+3. Measures to be taken when the risk exposure amount of ex-post customer margin account 
+exceeds the risk exposure limit; 
+
+4. Deposit deadline of ex-post customer margin; 
+
+5. Measures to be taken against the qualified institutional investor who has failed to deposit 
+the ex-post customer margin by the deposit deadline or to fulfill the settlement obligation; 
+
+6. In addition, the matters that deem to be necessary for the management of risks of qualified 
+institutional investors; and 
+
+7. Matters that deem to be necessary for the management of the organization of responsible 
+unit, work procedures and guidelines for risk management of the member.   
+
+[January 31, 2011] 
+
+Sub-Section 2. Deposit of Upfront Initial Customer Margin 
+[October 26, 2009] 
+
+§133. Deposit of Upfront Initial Customer Margin Rate 
+
+(1)  In  the  case  of  receiving  an  entrustment  of  orders  from  the  customer  who  is  required  to 
+deposit upfront customer margin pursuant to [§134(2)] of the Regulation, each member shall 
+collect the deposit of amount higher than the sum of the amounts noted in each of the following 
+subparagraphs per derivatives account (hereinafter referred to as “the upfront initial customer 
+margin”).  Provided  that  this  provision  shall  not  be  applicable  in  the  case  of  receiving  an 
+entrustment  of  order  for  offsetting  trade  pursuant  to  the  proviso  to  [§134(1)]  of  the 
+Regulation:(Amended on August 28, 2014; May 26, 2015; October 30, 2019) 
+
+1. Customer margin for entrustment of new orders [referring to the sum of amounts noted 
+in [§134(1)1(a) through 1(c)] of the Regulation for the entrustment quantity of new orders 
+(referring to the orders that result in increase in the quantity of open interests per offer and 
+bid of each contract, except for futures spread contracts). In such cases, the entrusted amount 
+for  a  limit  order  for  futures  shall  be  the  amount  calculated  using  the  price  noted  in 
+subparagraph 1 under [§121] as the entrustment price; the same hereinafter]; 
+
+135 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Customer margin for entrustment of futures spread orders {referring to the sum of the 
+amounts  noted  in  subparagraph  1(d)  of  [§134(1)]  of  the  Regulation  for  the  entrustment 
+quantities  for  futures  spread  trades;  the  same  hereinafter}.  Provided  that,  where  the 
+entrustment  quantity  of  an  intra-product  futures  spread  trade  would  cancel  out  the  open 
+interests of delivery month contracts, or where the entrustment quantity  of an inter-KTB 
+futures spread trade would cancel out the open interests in all of the constituent contracts, 
+the deposit of customer margins for entrustment of futures spread orders for the relevant 
+entrustment quantity may be waived; 
+
+3. Upfront initial customer margin for net exposures (referring to the amount corresponding 
+to the maximum net risk caused due to such positions as open interests, in case where the 
+price/value or volatility of underlying asset varies by certain level after market closing on 
+the previous day); and 
+
+4. The  estimated  settlement  amount  (referring  to  the  sum  of  net  futures  loss  during  the 
+session, net option purchase amount during the session, and settlement amount of the day). 
+Provided that, in the case of calculating the amount of upfront initial customer margin, the 
+settlement amount of next day shall be excluded.   
+
+5. [Deleted on October 20, 2011]   
+
+(2) In cases when calculating the entrustment amount noted in [§134(1)1(b)] of the Regulation 
+pursuant to paragraph (1)1, in case where there is an order regarded as an entrustment of new 
+order because any one side of ask or bid order has been executed, the entrustment price per ask 
+and  bid  of  each  contract  for  the  unexecuted  entrustment  quantity  shall  be  the  entrustment 
+quantity  weighted  average  entrustment  price.  (Amended  on  August  28,  2014;  November  3, 
+2014) 
+
+(3) “Price stipulated in the Enforcement Rules” in [§134(1)1(c)] of the Regulation shall be the 
+expected change of option price pursuant to [Annex 19] for option contract for which new ask 
+order has been entrusted. Provided that, in cases where the amount obtained by multiplying the 
+expected change of option price by the multiplier is less than the minimum margin per contract 
+pursuant to [Annex 19], it shall be the minimum margin per contract. (Amended on October 
+20, 2011; December 18, 2012; November 3, 2014) 
+
+(4) The customer margin rate under [§134(2)] of the Regulation shall be determined by the 
+member while using the rate specified in [Annex 19] as the minimum rate. [February 17, 2012] 
+
+(5) The customer margin per futures spread order under [§134(2)] of the Regulation shall be 
+determined by the member while setting the amount specified in [Annex 19-2] as the minimum 
+amount: 
+
+(6)  Notwithstanding  paragraph  (1),  pursuant  to  [§3-3(2)],  after  the  trading  hours  of  regular 
+sessions of a contract of which the last trading day has arrived, each member may or may not 
+collect the customer margin for entrustment of new orders under subparagraph 1 of paragraph 
+(1) and the customer margin for entrustment of futures spread orders under subparagraph 2 of 
+the same Paragraph for the customer orders of the relevant contract. [December 26, 2019] 
+
+136 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(7) Notwithstanding paragraph (5), when it deems it necessary for market management, the 
+Exchange may change the minimum amount noted in paragraph (5). (Amended on August 28, 
+2014) 
+
+(Wholly amended on October 26, 2009) 
+
+§134. Upfront Customer Margin for Net Exposure 
+
+(1) The upfront customer margin for net exposure pursuant to [§133(1)3] shall be the amount 
+calculated in accordance with [Annex 18]. In such cases, “margin for net exposures”, “margin 
+rate”, “base price for margin calculation”, “margin interval value” and “theoretical price for 
+margin  calculation”  noted  in  [Annex  18]  shall  be  construed  as  “customer  margin  for  net 
+exposures”, “customer margin rate”, “base price for customer margin calculation”, “customer 
+margin interval value” and “theoretical price for customer margin calculation”, respectively. 
+
+(2)  The  customer  margin  rate  related  to  the  calculation  of  upfront  customer  margin  for  net 
+exposure noted in paragraph (1) shall be determined by the member by setting the rate specified 
+in [Annex 19] as the Minimum rate, and the customer margin per futures spread contract and 
+the Minimum margin per contract shall be determined by the member by setting the amount 
+specified in [Annex 19] as the lowest amount.   
+
+(3) The product group, price correlation ratio, base price for customer margin for option trade 
+and theoretical option price for customer margin calculation that are related to the calculation 
+of  upfront  customer  margin  for  net  exposure  noted  in  paragraph  (1)  shall  be  determined 
+according to [Annex 19].   
+
+(4) When it is deemed necessary for the market management, the Exchange may change the 
+Minimum rate and Minimum amount noted in paragraph (2) and the product group and price 
+correlation ratio noted in paragraph (3). In such cases, this provision shall also apply from the 
+time  of  market  closing  immediately  preceding  the  day  when  the  change  is  put  into  effect. 
+(Amended on May 29, 2025) 
+
+(Wholly amended on October 26, 2009) 
+
+§135. [Deleted on October 26, 2009] 
+
+§136. [Deleted on October 26, 2009] 
+
+§137. Estimated Settlement Amount 
+
+(1) The net futures loss during the session, the amount of net option purchase during the session, 
+and the settlement amount of the day pursuant to [§133(1)4] shall be the amount falling under 
+each of the following subparagraphs. (Amended on October 26, 2009; October 20, 2011; May 
+26, 2015; May 29, 2025)   
+
+1. The amount of net futures loss during the session: the sum of the amounts calculated by 
+using the following calculation formula for each of the futures contracts executed during the 
+
+137 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+relevant  trading  day  (referred  to  as  “futures  trade  executed  on  the  relevant  trading  day” 
+hereinafter in this Article):   
+
+(Volume-weighted  average  purchase  price  -  Volume-weighted  average  sales  price)   
+Smaller quantity between the executed quantity of ask quotes (including the quantity of 
+open  interests  resulted  from  purchase  as  of  the  market  closing  time  of  the  immediately 
+preceding trading day) and executed quantity of bid quotes (including the quantity of open 
+interests resulted from sales as of the market closing time of the immediately preceding 
+trading day)  Multiplier (Amended on October, 2009; May 29, 2025)     
+
+2.  The  amount  of  net  option  purchase  during  the  session:  the  amount  determined  by 
+subtracting the sum of execution amounts of ask quotes from the sum of execution amounts 
+of bid quotes of the options executed on the relevant trading day (Amended on May 29, 
+2025)   
+
+3.  The  settlement  amount  of  the  day:  the  settlement  amount  (excluding  final  settlement 
+amount; the same hereinafter in this subparagraph) for which the delivery date arrives (in 
+the case of night time trading, it shall refer to the day which the regular trading hours of the 
+relevant  trading  day  belongs  to  is  the  delivery  date),  which  is  calculated  by  subtracting 
+settlement amount which a customer receives from a member from settlement amount which 
+the customer pays to the member before the delivery date. (Amended on May 29, 2025) 
+
+(2) The volume-weighted average purchase price and volume-weighted average sales price in 
+paragraph (1) shall be the price determined in accordance with the calculation formula noted 
+in following subparagraphs: (Amended on October 26, 2009; August 28, 2014) 
+
+1. Volume-weighted average purchase price: 
+
+(Quantity of open interests resulted from the purchase as of the market closing time of the 
+immediately  preceding  trading  day    Settlement  price  of  the  immediately  preceding 
+trading day  Multiplier + Sum of execution amounts of bid quotes of the futures trade 
+executed  on  the  relevant  trading  day  )  ÷  (Quantity  of  open  interests  resulted  from  the 
+purchase  as  of  the  market  closing  time  of  the  immediately  preceding  trading  day   
+Multiplier + Sum of executed quantities of bid quotes of the futures trade executed on the 
+relevant trading day x Multiplier) (Amended on May 29, 2025) 
+
+2. Volume-weighted average sales price: 
+
+(Quantity  of  open  interests  resulted  from  the  sales  as  of  the  market  closing  time  of  the 
+immediately preceding trading daySettlement price of the immediately preceding trading 
+day  Multiplier + Sum of execution amounts of ask quotes of the futures trade executed 
+on the relevant trading day )÷ (Quantity of open interests resulted from the sales as of the 
+market  closing  time  of  the  immediately  preceding  trading  day    Multiplier  +  Sum  of 
+executed quantities of ask quotes of the futures trade executed on the relevant trading day 
+ Multiplier) (Amended on May 29, 2025)   
+
+(3) Notwithstanding paragraphs (1)1and (1)2, a member can calculate the amount of net futures 
+loss during the session considering the contract of KOSPI200 futures trade and the contract of 
+Mini KOSPI200 futures trade with same the last trading day as the same contract. In such cases, 
+
+138 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the executed quantity and the number of open interests shall be the sum of the figures obtained 
+by  multiplying  the  executed  quantity  and  the  number  of  open  interests  of  contracts  of 
+KOSPI200 futures trade by five (5) and the executed quantity and the number of open interests 
+of contracts of Mini KOSPI200 futures trade, and the contract multiplier shall be that of Mini 
+KOSPI200 futures trades. [July 3, 2015] 
+
+§138. [Deleted on May 26, 2015] 
+
+§139. [Deleted on October 26, 2009] 
+
+§140. [Deleted on October 26, 2009] 
+
+§141. [Deleted on October 26, 2009] 
+
+§142. [Deleted on October 26, 2009] 
+
+§143. [Deleted on October 26, 2009] 
+
+§144. Amount of Customer Margin for Gross Exposure of Product Group, etc. 
+
+(1) Pursuant to [§134(2)] of the Regulation, notwithstanding [§134(1)], when it is deemed that 
+there is a danger of customer failing to fulfill settlement obligation in view of the investment 
+purpose and experience, asset and income level, credit standing and quantity of open interests 
+held by the customer or the market conditions, the member may use the amount (only when 
+the amount is larger than the amount pursuant to [§134(1)]) falling under any of the following 
+subparagraphs  as  the  upfront  customer  margin  for  net  exposure:  (Amended  on  October  26, 
+2009; July 8, 2013) 
+
+1. The amount determined by multiplying the customer margin  extra rate by the amount 
+pursuant to [§134(1)];   
+
+2. The larger amount between the amount noted in subparagraph 2(a) and the amount noted 
+in subparagraph 2(b): 
+
+(a) The sum of the amounts calculated using the formula noted in subparagraphs 2(a)(i) 
+through 2(a)(iv) for each contract:       
+
+(i) Quantity of open interests resulted from purchase of futures   Multiplier   Base 
+price of underlying asset on the immediately preceding trading day  Customer margin 
+rate per futures contract (Amended on May 29, 2025) 
+
+(ii) Quantity of open interests resulted from sale of put options   Multiplier  Base 
+price of underlying asset on the immediately preceding trading day  Customer margin 
+rate per options contract (Amended on May 29, 2025) 
+
+(iii) Quantity of open interests resulted from purchase of futures delivering underlying 
+asset    Multiplier    Base  price  of  underlying  asset  on  the  immediately  preceding 
+trading day  Customer margin rate per futures contract (Amended on May 29, 2025) 
+
+139 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(iv) Final settlement quantity for futures purchase subject to customer margin before 
+determination of final settlement price  Multiplier  Base price of underlying asset 
+on  the  immediately  preceding  trading  day      Customer  margin  rate  per  futures 
+contract (Amended on May 29, 2025) 
+
+(b) The sum of the amounts calculated by formula noted in subparagraphs 2(b)(i) through 
+2b(iv) for each contract:       
+
+(i) Quantity of open interests resulted from sale of futures  Multiplier  Base price of 
+underlying asset on the immediately preceding trading    day  Customer margin rate 
+per futures contract (Amended on May 29, 2025) 
+
+(ii) Quantity of open interests resulted from sale of call option   Multiplier   Base 
+price  of  underlying  asset  on  the  immediately  preceding  trading  s  day    Customer 
+margin rate per options contract (Amended on May 29, 2025) 
+
+(iii)  Final  settlement  quantity  for  sale  of  futures  delivering  underlying  asset   
+Multiplier  Base price of underlying asset on the immediately preceding trading    day 
+ Customer margin rate per futures contract (Amended on May 29, 2025) 
+
+(iv)  Final  settlement  quantity  for  sale  of  futures  subject  to  customer  margin  before 
+determination of final settlement price  Multiplier  Base price of underlying asset 
+on  the  immediately  preceding  trading    day    Customer  margin  rate  per  futures 
+contract (Amended on May 29, 2025) 
+
+(2) The customer margin extra rate noted in paragraph (1)1 shall be determined by the member, 
+while settling 100/100 as the Minimum rate. (Amended on November 3, 2014) 
+
+(3) The customer margin rate per futures contract and the customer margin rate per options 
+contract  noted  in  paragraph  (1)2  shall  be  determined  by  the  member,  while  setting  zero 
+percentage as the Minimum rate. (Amended on November 3, 2014) 
+
+(4) When it is deemed necessary for the market management, the Exchange may change the 
+Minimum rate noted in paragraphs (2) and (3). In such cases, this provision shall also apply 
+from the time of immediately preceding market closing before the effective date of the change. 
+(Amended on May 29, 2025) 
+
+§145. Upfront Cash Deposit Requirement 
+
+(1)  Pursuant  to  [§134(2)]  of  the  Regulation,  from  among  the  upfront  initial  margins  under 
+[§133], the amount exceeding the amount equivalent to the sum of the amounts noted in each 
+of the following subparagraphs (hereinafter referred to as “upfront cash deposit requirement”) 
+shall be collected in cash: (Amended on October 26, 2009; October 20, 2011; May 26, 2015) 
+
+1. Cash deposit requirement for new order (referring to the sum of the amounts noted in 
+each of the following items for the quantity of new entrustment: the same hereinafter):     
+
+(a) In the case of futures trade, the amount calculated by the following calculation 
+
+140 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Entrustment amount × Customer margin rate × Cash deposit requirement rate 
+
+(b) In the case of purchasing options, the entrustment amount; and 
+
+(c) In the case of selling options, zero amount. Provided that, in the case of a customer 
+falling under [§144(1)], it may be the amount determined by multiplying the cash rate for 
+option sale by the amount noted in [§134(1)1(c)] of the Regulation.   
+
+2. In the case of futures spread trade, zero; 
+
+3. Upfront cash deposit requirement for net exposure [referring to the sum of the amount 
+noted in subparagraph 3(a) and the amount noted in subparagraph 3(b); the same hereinafter]:     
+
+(a) In the case of futures: the amount obtained by multiplying cash rate for futures by the 
+smaller amount between the amount noted in subparagraph 3(a)(i) and the sum noted in 
+subparagraph 3(a)(ii): 
+
+(i) Upfront customer margin for net exposure pursuant to [§134]. In such cases, it shall 
+be calculated by setting the customer margin for delivery and customer margin before 
+determination of final settlement price to be zero; and     
+
+(ii) The sum of the amounts calculated by applying, mutatis mutandis, [§134] for the 
+quantity of open interests per futures contract.   
+
+(b) In the case of options trade: zero amounts. Provided that, in the case of a customer 
+falling under [§144(1)], it may be the amount determined by multiplying the cash rate for 
+option sale by the smaller amount between the amount noted in subparagraph 3(b)(i) and 
+the sum noted in subparagraph 3(b)(ii): 
+
+(i) Upfront initial customer margin for net exposure pursuant to [§134]; and     
+
+(ii) Sum of the amounts calculated for the quantity of open interests resulted from sale 
+of each options contract by applying, mutatis mutandis, [§134(1)1(c)] of the Regulation. 
+In such cases, the “entrustment quantity for sale of options” shall be construed as “the 
+quantity of open interests resulted from sale of options”. 
+
+4.  Amount  of  net  futures  loss  during  the  session  pursuant  to  [§137(1)1]  and  net  option 
+purchase during the session pursuant to [§137(1)2]; and 
+
+5. Settlement amount of the day pursuant to [§137(1)3]. 
+
+(2) The cash deposit requirement rate under paragraph (1)1(a) and the cash rate for futures shall 
+be  determined  by  the  member  within  100/100,  while  setting  50/100  as  the  Minimum  rate. 
+(Amended on October 20, 2011; February 17, 2012; November 3, 2014) 
+
+(3) The cash rate for option sale under subparagraphs 1(c) and 3(b) of paragraphs (1) shall be 
+determined by the member, within 100/100, while setting zero percentage as the lowest rate. 
+(Amended on November 3, 2014) 
+
+141 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4) Notwithstanding paragraph (1)3, for the customer falling under any of subparagraphs of 
+[§144(1)] as the upfront customer margin for net exposure of product group, the member may 
+deem  the  larger  amount  between  the  amount  obtained  by  multiplying  the  cash  rate  of  total 
+exposure by the amount corresponding to any amount noted in each subparagraph of [§144(1)] 
+and  the  amount  pursuant  to  paragraph  (1)3  as  the  upfront  cash  deposit  requirement  for  net 
+exposure. (Amended on October 26, 2009; October 20, 2011; November 3, 2014) 
+
+(5) Cash rate of total exposure noted in paragraph (4) shall be determined by the member within 
+100/100, while setting 50/100 as the lowest rate. (Amended on February 17, 2012; November 
+3, 2014) 
+
+(6) When it is deemed necessary for the market management, the Exchange may change the 
+lowest rate noted in paragraphs (2), (3) and (5). In such cases, this provision shall also apply 
+from the time of immediately preceding market closing before the effective date of the change. 
+(Amended on May 29, 2025) 
+
+Sub-Section 3. Deposit of Ex-post Customer Margins 
+
+§146. Deposit of Ex-post Customer Margins 
+
+(1) The ex-post customer margin for net exposure (referring to the amount corresponding to 
+the maximum net exposure that may result due to positions such as the open interests when the 
+price/value or volatility of underlying asset varies by certain level after the market closing of 
+the day) pursuant to [§135(3)] of the Regulation shall be the amount calculated as of the market 
+closing time of the day by applying [§134 or §144] mutatis mutandis. (Amended on October 
+26, 2009; October 20, 2011) 
+
+(2) Pursuant to [§135(3)] of the Regulation, for an ex-post customer margin regular account, 
+the member shall collect the amount (hereinafter referred to as “the amount of ex-post customer 
+margin”), which is higher than the amount determined by adding the ex-post customer margin 
+for net exposure to the settlement amount of the next day [of the settlement amounts before the 
+delivery  date  arrives  after  market  closing  (excluding  final  settlement  amount:  the  same 
+hereinafter in this Paragraph), it refers to the amount calculated by subtracting the settlement 
+amount  which  a  customer  receives  from  a  member  from  the  settlement  amount  which  the 
+customer pays to the member: the same hereinafter.], as the ex-post customer margin by the 
+deposit  deadline  of  the  ex-post  customer  margin  pursuant  to  [§132(4)]  of  the  Regulation. 
+(Amended on October 26, 2009; January 31, 2011; October 20, 2011; July 8, 2013; May 26, 
+2015) 
+
+(3) Pursuant to [§135(2) & (3)] of the Regulation, for the ex-post customer margin discount 
+account, the member shall collect the amount of ex-post customer margin, which is higher than 
+the amount determined through mutatis mutandis application of paragraph (2) by the deposit 
+deadline of the ex-post customer margin pursuant to [§133(4)] of the Regulation as the ex-post 
+customer margin. In such cases, the customer margin for options premium, customer margin 
+for price volatility and customer margin for futures spread noted in [Annex 18] shall be the 
+amounts determined by multiplying each amount calculated in accordance with paragraph (1) 
+142 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+by the customer margin discount rate for arbitraging and hedging. (Amended on October 26, 
+2009; January 31, 2011; July 8, 2013) 
+
+(4) The customer margin discount rate for arbitraging and hedging shall be determined by the 
+member within 100/100, while setting 80/100 as the lowest rate. (Amended on November 3, 
+2014) 
+
+(5) When it is deemed necessary for the market management, the Exchange may change the 
+lowest rate noted in paragraph (4). 
+
+§147. Scope of Arbitrage and Hedge eligible for Customer Margin Discount 
+
+(1) The arbitraging pursuant to [§135(3)] of the Regulation shall be the trade that satisfies the 
+requirements specified in subparagraphs 1 and3 and the hedging pursuant to [§135(3)] of the 
+Regulation shall be the trade that satisfies the requirement specified in subparagraphs 2 and 3:   
+(Amended on July 26, 2011; August 28, 2014; July 30, 2019) 
+
+1. In the case of arbitrage, it shall be the trade falling under any of the following items:   
+
+(a) Of the index arbitrage pursuant to [§49(1)] (in the case of synthetic index futures, it 
+shall be limited only to the put index options or call index options with identical underlying 
+asset, last trading day and exercise price, respectively; the same hereinafter in this Article), 
+the orders for the trading of basket of stocks, which is conducted in connection with the 
+index arbitrage, and the relevant index arbitrage are submitted concurrently or immediately 
+one after the other; and 
+
+(b) Of the single stock arbitrage pursuant to [§49(2)] (in the case of synthetic single stock 
+futures,  it  shall  be  limited  to  the  put  stock  options  or  call  stock  options  with  identical 
+underlying asset, last trading day and exercise price, respectively; the same hereinafter in 
+this Article), the orders for the single stock arbitrage and trading of underlying asset linked 
+with  the  relevant  single  stock  arbitrage  are  submitted  concurrently  or  immediately  one 
+after the other. 
+
+2. In the case of hedging, it shall be the trade that falls under each of the following items: 
+
+(a)Of the index hedging pursuant to [§49(3)] (limited to only the selling of index futures 
+and the synthetic index futures for hedging of basket of stocks: the same hereinafter in this 
+Article); and     
+
+(b) Of the stock hedging pursuant to [§49(4)] (limited to only the selling of index futures 
+and the synthetic index futures for hedging of underlying stocks: the same hereinafter in 
+this Article)     
+
+3. It  shall be the  arbitrage or hedge through  a  member who has  opened the stock linked 
+account (referring to the account linked to stocks for the purpose of conducting the arbitrage 
+noted in subparagraph 1 and hedging noted in subparagraph 2: the same hereinafter).   
+
+(2) In cases where a member acknowledges the arbitrage or hedge pursuant to paragraph (1), 
+
+143 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the member shall make a rational decision by taking into consideration the relationship between 
+the price of underlying asset and the price of derivatives. (Amended on August 28, 2014) 
+
+(3)  The  member  shall  maintain  the  records  of  the  facts  such  as  the  extent  and  basis  of 
+acknowledging the arbitrage or hedge pursuant to paragraph (2); obtain the documents proving 
+such facts from the qualified institutional investors by the time of the relevant trading day that 
+the  member  determined  and  verify  and  keep  the  documents;  and  submit  a  copy  of  such 
+documents to the Exchange without delay. In such cases, if the details of the documentary proof 
+are deemed to be inadequate, the member and Exchange may request the relevant institutional 
+investor to supplement the relevant documentary proof. (Amended on May 29, 2025) 
+
+(4) The member may take action falling under any of the following subparagraphs against the 
+qualified  institutional  investor  who  has  failed  to  submit  the  documentary  proof  pursuant  to 
+paragraph (3): 
+
+1. To request to deposit the amount of ex-post customer margin applicable to the ex-post 
+customer margin regular account pursuant to [§146(2)]; 
+
+2. To conduct the offsetting trade for the open interests held by the qualified institutional 
+investor; 
+
+3. To sell the substitute securities, foreign currency or foreign securities deposited as the ex-
+post customer margin; and   
+
+4. When it is after the market closing, an action falling under any of the following items: 
+
+(a)  To  change  the  ex-post  customer  margin  discount  account  to  the  ex-post  customer 
+margin regular account or upfront customer margin account; and 
+
+(b) To transfer the open interests of qualified institutional investor to the ex-post customer 
+margin regular account or upfront customer margin account.   
+
+(5)  “Synthetic  index  futures”  in  paragraph  (1)  shall  refer  to  the  trade  noted  in  any  of  the 
+following subparagraphs: [January 31, 2011] 
+
+1. A trade where a put index option is purchased at the same time or immediately after/before 
+selling a call index option; and   
+
+2. A trade where a put index option is sold at the same time or immediately before/after 
+buying a call index option.   
+
+(6) “Synthetic single stock futures” in paragraph (1) shall refer to the trade noted in any of the 
+following subparagraphs: [January 31, 2011] 
+
+1. A trade where a put single stock option is purchased at the same time or immediately 
+after/before selling a call single stock option; and   
+
+2.  A  trade  where  a  put  single  stock  option  is  sold  at  the  same  time  or  immediately 
+before/after purchasing a call single stock option.   
+
+144 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§148. Ex-post Cash Deposit Requirement 
+
+(1) Pursuant to [§135(3)] of the Regulation, the member shall collect, of the amount of ex-post 
+customer margin for ex-post customer margin regular account pursuant to [§146(2)], in cash, 
+the amount (hereinafter referred to as “the amount of ex-post cash deposit requirement”) higher 
+than the amount determined as of the market closing time by adding the amount resulted from 
+applying [§145(1)3 and §145(2)] mutatis mutandis after the market closing on the day, to the 
+settlement amount of the next day. Provided that, for the ex-post margin account of qualified 
+institutional  investor,  the  minimum  cash  rate  for  futures  may  be  0/100  (zero  percent). 
+(Amended on October 26, 2009; April 19, 2010; October 20, 2011)   
+
+(2) Pursuant to [§135(3)] of the Regulation, the member shall collect, of the amount of ex-post 
+customer  margin  for  ex-post  customer  margin  discount  account  pursuant  to  [§146(3)],  the 
+amount higher than the amount of ex-post cash deposit requirement determined by applying 
+paragraph  (1)  mutatis  mutandis  as  the  ex-post  cash  deposit  requirement.  In  such  cases,  the 
+customer margin for option premium, customer margin for price volatility and customer margin 
+for futures spread noted in [Annex 18] shall be the amounts determined by multiplying each of 
+the  amount  calculated  according  to  paragraph  (1)  by  the  customer  margin  discount  rate  for 
+arbitraging and hedging. (Amended on October 26, 2009; October 20, 2011) 
+
+Section 4. Payment, Appropriation and Additional Deposit of Customer Margins 
+
+§149. Repayment and Appropriation of Customer Margins and Restriction Thereabout 
+
+(1) Pursuant to [§136(2)] of the Regulation, the member may reimburse the cash, substitute 
+securities,  foreign  currency  or  foreign  securities  falling  under  any  of  the  following 
+subparagraphs to  the customer or appropriate them  for the customer margin  to  be collected 
+from the customer. [Proviso on October 26, 2009] (Amended on October 20, 2011; December 
+18, 2012; May 29, 2025) 
+
+1. The cash, substitute securities, foreign currency or foreign securities collected as the basic 
+deposit. Provided that, in the case of paying back, it shall be the amount equivalent to the 
+amount  of  cash  that  exceeds  the  amount  of  basic  deposit  and  the  amount  of  substitute 
+securities, foreign currency or foreign securities that exceeds the amount of basic deposit.   
+
+2. In cases where the sum of the total deposit amount and the sales amount of substitute 
+securities before the settlement deadline exceeds the amount noted in each of the following 
+items (as the case of paying back, if the relevant amount is less than the amount of basic 
+deposit, it shall be the relevant amount of basic deposit), the amount of substitute securities, 
+foreign  currency  or  foreign  securities  that  is  equivalent  to  the  relevant  excess  amount 
+(hereinafter referred to as “the excess of total deposit”). Provided that, in the case of paying 
+back, the total deposit amount shall be used as the limit. 
+
+(a) For night trading session or regular trading session (including the time for receiving 
+quotations for opening price by call auction in each trading session; the same hereinafter 
+145 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+in this Article): the amount falling under the followings. Provided that, item (b) shall be 
+applied to the night trading hours of a customer for whom the member acknowledges that 
+it  is  not  appropriate  to  apply  the  main  sentence  of  this  item,  such  as  for  customers 
+participating only in the regular trading session. (Amended on May 29, 2025) 
+
+(i)  In  the  case of upfront  customer margin  account: the amount of upfront  customer 
+margin under [§133]; and     
+
+(ii) In the case of ex-post customer margin account: the amount of customer margin 
+comparable  with  the  customer  margin  applicable  to  the  upfront  customer  margin 
+account, which is determined by applying [§133] mutatis mutandis. In such cases, for 
+the ex-post customer margin discount account, the customer margin for option premium, 
+customer margin for price volatility and customer margin for futures spread noted in 
+[Annex 18] shall be the amounts determined by multiplying each of such amounts by 
+the customer margin discount rate for arbitraging and hedging.   
+
+(b) For time other than item (a): the amount falling under the followings (in cases where 
+the amount is less than the amount of maintenance customer margin, it shall be the amount 
+of maintenance customer margin): (Amended on May 29, 2025) 
+
+(i)  In  the  case  of  upfront  customer  margin  account:  the  amount  of  customer  margin 
+comparable with the customer margin applicable to the ex-post customer margin regular 
+account determined by applying [§146(2)] mutatis mutandis; and   
+
+(ii) In the case of ex-post customer margin account: the amount of ex-post customer 
+margin under [§146(2)] or [§146(3)]. 
+
+3. In cases where the sum of the cash deposit and the sales amount of substitute securities 
+(in the case of the regular trading session, limited to the sales amount for which the delivery 
+day  has  arrived  and  the  sales  amount  of  the  day  before  the  delivery  date)  before  the 
+settlement deadline exceeds the amount noted in each of the following items, the amount in 
+cash, which is the lesser of such excess amount (hereinafter referred to as “the excess of 
+cash deposit”) and the excess of total deposit. Provided that, in the case of paying back, the 
+cash deposit amount shall be used as the limit. (Amended on May 29, 2025) 
+
+(a)  For  night  trading  session  or  regular  trading  session:  the  amount  falling  under  the 
+followings. Provided that item (b) shall be applied to the night trading hours of a customer 
+for whom the member acknowledges that it is not appropriate to apply the main sentence 
+of this item, such as participating only in the regular trading session. (Amended on May 
+29, 2025) 
+
+(i) In the case of upfront customer margin account: the amount of upfront cash deposit 
+requirement under [§145]; and     
+
+(ii)  In  the  case  of  ex-post  customer  margin  account:  the  amount  of  cash  deposit 
+requirement  comparable  with  the  upfront  initial  customer  margin  applicable  to  the 
+upfront  initial  customer  margin  account  determined  by  applying  [§145]  mutatis 
+mutandis thereto. In such cases, for the ex-post customer margin discount account, the 
+customer margin for option premium, customer margin for price volatility and customer 
+
+146 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+margin  for  futures  spread  noted  in  [Annex  18]  shall  be  the  amounts  determined  by 
+multiplying each of such amounts by the customer margin discount rate for arbitraging 
+and hedging.   
+
+(b) For time other than item (a): the amount falling under the followings: (Amended on 
+May 29, 2025) 
+
+(i)  In  the  case  of  upfront  customer  margin  account:  the  amount  of  cash  deposit 
+requirement comparable with the customer margin applicable to the ex-post customer 
+margin regular account determined by applying [§148(1)] mutatis mutandis; and     
+
+(ii) In the case of ex-post customer margin account: the amount of ex-post cash deposit 
+requirement under [§148(1)] or [§148(2)].   
+
+4. In the case of converting the excess of cash deposit into the substitute securities: foreign 
+currency  or  foreign  securities,  the  cash  equivalent  to  the  relevant  substitute  securities, 
+foreign currency or foreign securities.   
+
+5.  In  the  case  of  converting  substitute  securities:  foreign  currency  and  foreign  securities 
+deposited  as  the  basic  deposit  or  customer  margin  into  the  cash  or  different  issue  of 
+substitute securities, different kind of foreign currency or different issue of foreign securities, 
+the relevant cash amount or the amount of substitute securities, foreign currency and foreign 
+securities equivalent to the relevant different issue of substitute securities, different kind of 
+foreign currency and different issue of foreign securities.         
+
+(2)  Notwithstanding  paragraphs  (1)1  and  (1)2,  when,  as  a  case  where  there  is  no  customer 
+margin for entrustment of new orders, it falls under any of the following cases, the member 
+may pay back the amount of basic deposit (it shall be the cash or substitute securities/foreign 
+currency/foreign  securities  equivalent  to  the  amount  after  deducting  such  amounts  as  the 
+settlement amount that the customer owes the member) from the time when such cases have 
+occurred. (Amended on October 26, 2009; December 18, 2012; May 29, 2025) 
+
+1. Where the entire quantity of open interests resulted from derivatives trading have been 
+closed out  as  a result of offsetting  trade,  final  settlement,  report/allotment  of exercise or 
+expiration of option; and 
+
+2. Where, when there are only the open interests resulted from purchase of options, the quote 
+has been submitted for an entrustment of ask order received at the lower limit price pursuant 
+to [§59(1)] for the purpose of closing out the entire quantity of the relevant open interests. 
+
+(3) In cases where an entrustment of order is accepted from the customer from whom the basic 
+deposit has been paid back pursuant to paragraph (2), the member shall collect the basic deposit 
+in advance. Provided that this provision shall not apply to the case of accepting an entrustment 
+for the offsetting trade at the lower limit price pursuant to [§59(1)] for the purpose of closing 
+out the entire quantity of open interests resulted from the purchase of options after the trading 
+day following the trading day on which the quote pursuant to paragraph (2)2 has been submitted. 
+(Amended on November 3, 2014; May 29, 2025) 
+
+147 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§150. Shortfall in Total Deposit 
+
+(1) Pursuant to [§137(6)] of the Regulation, in case where the amount obtained at the market 
+closing time by aggregating the total deposit of a customer subject to upfront initial margin and 
+the sales amount of substitute securities before the settlement deadline is less than the amount 
+of maintenance customer margin, the member shall collect additionally the amount, which is 
+higher than the amount obtained by subtracting the sum of the total deposit and the amount of 
+substitute  securities  sold  before  the  settlement  deadline  from  the  amount  equivalent  to  the 
+customer  margin  applied  to  the  ex-post  margin  regular  account,  which  is  determined  by 
+applying  [§146(2)]  mutatis  mutandis  thereto  (if  the  amount  is  less  than  the  amount  of 
+maintenance  customer  margin,  it  shall  be  the  amount  of  maintenance  customer  margin). 
+(Amended on October 26, 2009; July 26, 2011; July 8, 2013; August 20, 2014) 
+
+1. [Deleted on July 8, 2013]   
+2. [Deleted on July 8, 2013] 
+
+(2) Notwithstanding paragraph (1), in the case of falling under any of following subparagraphs, 
+it shall be deemed that the customer margin has additionally been deposited: (Amended on 
+August 20, 2014; May 26, 2015; November 10, 2017) 
+
+1. Where the customer required to  additionally  deposit  the customer margin  requirement 
+satisfies the deposit level equivalent to the upfront customer margin requirement pursuant 
+to  [§133]  by  conducting  an  offsetting  trade  or  selling  of  substitute  securities  before  the 
+deadline for additional deposit; and 
+
+2.  Where,  as  the  result  of  calculation  of  total  deposit  by  applying  [§78-4(4)]  mutatis 
+mutandis pursuant to [§78-4(5)], the total deposit amount increases to satisfy the amount of 
+maintenance customer margin based on the time of the market closing of the trading day on 
+which transaction errors occurred. (Amended on May 29, 2025) 
+
+3. Where, when a member calculates upfront initial customer margin pursuant to [§151-4(2)], 
+a customer who is required to deposit the additional customer margin satisfies the level of 
+the  additional  deposit  amount  pursuant  to  the  paragraph  (1),  through  additional  deposit, 
+offsetting trade, or selling of substitute securities before the deadline for additional deposit.   
+
+(3) The amount of maintenance customer margin noted in paragraph (1) shall be the amount 
+determined by applying [§146(2)] mutatis mutandis thereto. In such cases, “the margin rate” 
+and “margin interval value” noted in [Annex 18] shall deem to be “maintenance margin rate” 
+and “maintenance margin interval value”, respectively. (Amended on October 26, 2009; July 
+8, 2013) 
+
+1. [Deleted on July 8, 2013] 
+2. [Deleted on July 8, 2013] 
+
+(4)  The  maintenance  customer  margin  rate  noted  in  paragraph  (3)  that  is  related  to  the 
+calculation of maintenance customer margin shall be determined by the member while setting 
+rate noted in [Annex 19] as the lowest rate: (Amended on October 26, 2009; August 28, 2014) 
+
+(5) The margin for futures spread per order that is related to the calculation of maintenance 
+
+148 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+customer margin noted in paragraph (3) shall be determined by the member, while setting the 
+amount noted in [Annex 19] as the minimum amount. (Amended on October 26, 2009; August 
+28, 2014) 
+
+(6) Notwithstanding paragraph (3), in the case of customer falling under [§144(1)], the member 
+may  use  the  higher  amount  between  the  amount  determined  by  multiplying  the  amount 
+calculated at the market closing time of the day by applying [§144] mutatis mutandis by the 
+maintenance margin rate for total exposure and the amount pursuant to paragraph (3) as the 
+maintenance customer margin. (Amended on October 26, 2009; August 28, 2014) 
+
+(7) The maintenance margin rate for total exposure in paragraph (6) shall be determined by the 
+member within 3/3, while setting 2/3 as the minimum rate. 
+
+(8)  Notwithstanding  paragraphs  (4),  (5)  and  (7),  when  it  deems  necessary  for  the  market 
+management, the Exchange may change the maintenance customer margin rate, the minimum 
+rate of maintenance margin rate for total exposure and the minimum amount of maintenance 
+customer margin per futures spread order. In such cases, this provision shall also apply from 
+the time of market closing immediately prior to the effective date of the change. (Amended on 
+May 29, 2025) 
+
+§151. Shortfall in Cash Deposit 
+
+(1) Pursuant to [§137(6)] of the Regulation, in cases where the amount determined at the market 
+closing time by aggregating the cash deposit of customer subject to upfront initial margin and 
+the sales amount of substitute securities before the settlement deadline is less than the amount 
+of cash maintenance deposit requirement, the member shall additionally collect the amount, 
+which  is  higher  than  the  amount  determined  by  subtracting  the  sum  of  the  cash  deposit  of 
+customer and the sales amount of substitute securities before the settlement deadline from the 
+amount  equivalent  to  cash  deposit  requirement  applicable  to  the  ex-post  customer  margin 
+regular  account,  which  is  determined  by  applying  [§148(1)]  mutatis  mutandis,  as  the  cash 
+deposit requirement before the deadline for additional deposit. (Amended on October 26, 2009; 
+July 26, 2011; October 20, 2011; July 8, 2013; August 20, 2014) 
+
+1. [Deleted on July 8, 2013] 
+2. [Deleted on July 8, 2013] 
+
+(2) Notwithstanding paragraph (1), in the case of falling under any of following subparagraphs, 
+it shall be deemed that the cash deposit requirement has additionally been deposited: (Amended 
+on August 20, 2014; May 26, 2015; November 10, 2017) 
+
+1. Where the customer required to additionally deposit the cash deposit requirement satisfies 
+the  deposit  level  equivalent  to  the  upfront  cash  deposit  requirement  under  [§145]  by 
+conducting  an  offsetting  trade  or  selling  of  substitute  securities  before  the  deadline  for 
+additional deposit; and 
+
+2. Where, as a result of calculation of cash deposit by applying [§78-4(4)] mutatis mutandis 
+pursuant to [§78-4(5)], the cash deposit increases to satisfy the cash maintenance deposit 
+requirement based on the time of market closing of the trading day on which transaction 
+
+149 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+errors occurred. (Amended on May 29, 2025) 
+
+3.  Case  where,  when  a  member  calculates  upfront  cash  deposit  requirement  pursuant  to 
+[§151-4(4)], a customer who is required to deposit the additional cash deposit requirement 
+satisfies the level of the cash deposit requirement under paragraph (1), through additional 
+deposit, offsetting trade, or selling of substitute securities before the deadline for additional 
+deposit.   
+
+(3) The amount of cash maintenance deposit requirement noted in paragraph (1) shall be the 
+amount determined by following calculation formula: (Amended on October 20, 2011; July 8, 
+2013; November 3, 2014) 
+
+Cash deposit requirement for net exposure of the day, which is calculated pursuant to [§148(1)] 
+×Cash maintenance deposit requirement rate + Settlement amount of the next day. 
+
+(4) The cash maintenance deposit requirement rate noted in paragraph (3) shall be 0/100 (zero). 
+(Amended on October 20, 2011; August 20, 2014; Amended on November 3, 2014) 
+
+(5) Notwithstanding paragraph (4), if it is deemed necessary for the market management, the 
+Exchange  may  change  the  cash  maintenance  deposit  requirement  rate.  In  such  cases,  this 
+provision shall apply from the time of market closing immediately prior to    the effective date 
+of the change. (Amended on October 20, 2011; August 20, 2014; May 29, 2025) 
+
+§151-2. Additional Deposit of Customer Margin during Market Hours 
+
+(1) “Cases specified in the Enforcement Rules” in [§137-2(1)] of the Regulation shall refer to 
+the cases where KOSPI 200 index changes 80/100 or more of the maintenance customer margin 
+rate of KOSPI 200 Futures specified in [Annex 19] against the final KOSPI 200 index of the 
+previous day at the time of calculating intraday customer margin. In such cases, the time of 
+calculating intraday customer margin shall refer to the time satisfying the requirements noted 
+in the former part of this Paragraph first among the point of one (1) minute and each point of 
+time of every one (1) hour after the start of trading hours of the KOSPI Market. (Amended on 
+July 18, 2023; November 1, 2024) 
+
+(2) Pursuant to[§137-2(4)] of the Regulation, in cases where it falls under paragraph (1) and 
+the total amount of deposit of a customer (including the sales amount of substitute securities 
+for which the settlement deadline has not arrived; the same in this Article and  §151-3) is less 
+than the intraday maintenance customer margin at the time of calculating intraday customer 
+margin (referring to the time when the member calculates customer margin by using margin 
+calculation variables that the Exchange provides at the time of calculating intraday customer 
+margin; the same hereinafter), the member shall collect additionally the amount calculated by 
+subtracting  the  total  amount  of  customer  deposit  from  the  intraday  maintenance  customer 
+margin or more from the customer. 
+
+(3) The amount of intraday maintenance customer margin, stated in paragraph (2), shall not be 
+less than the total of each of the following amounts obtained at the time of calculating customer 
+margin: 
+
+150 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. The upfront customer margin for net exposures calculated by applying [§134(1)] or [§144] 
+mutatis mutandis. In such cases, “margin rate”, “base price for margin”, “margin interval 
+value”, “theoretical margin price”, “base price of underlying asset”, and “delta based on the 
+closing price” shall be construed as the “maintenance customer margin rate”, “base price for 
+customer  margin”,  “maintenance  customer  margin  interval  value”,  “theoretical  customer 
+margin  price”,  “underlying  asset  price  at  the  time  of  calculating  customer  margin”,  and 
+“delta at the time of calculating customer margin”, respectively, in [Annex 18], and “base 
+price of underlying asset on the immediately preceding trading day” and “market closing 
+time of the day” shall be construed as the “underlying asset price at the time of calculating 
+intraday customer margin” and “time of calculating intraday customer margin”, respectively, 
+in [§144]. (Amended on May 29, 2025) 
+
+    2. The settlement amount of the day shall be pursuant to [§137(1)3]. 
+
+3. The settlement amount of the next day: the sum of the amounts of the following items: 
+
+(a) Intraday settlement difference for the day’s trade (referring to the amount calculated 
+by multiplying the difference between the execution price of futures trade of the trading 
+day  to  which  the  calculation  time  of  intraday  customer  margin  belongs    and  intraday 
+settlement price to the execution quantity and multiplier.) (Amended on May 29, 2025) 
+
+(b) Intraday settlement difference for previous day’s open interests (referring to the amount 
+calculated by multiplying the difference between the settlement price of futures trade of 
+the immediately preceding trading day and intraday settlement price to the quantity of open 
+interests  as  of  the  market  closing  time  of  the  immediately  preceding  trading  day  and 
+multiplier.); and (Amended on May 29, 2025) 
+
+(c) Net option purchase amount during the session pursuant to [§137(1)2].   
+
+(4)  The  amount  of  intraday  customer  margin  in  paragraph  (2)  shall  be  at  least  the  amount 
+calculated  by  applying  the  paragraph  (3)  at  the  time  of  calculating  the  amount  of  intraday 
+customer  margin.  In  such  cases,  “maintenance  customer  margin  rate”  and  “maintenance 
+customer  margin  interval  value”  shall  be  construed  as  the  “customer  margin  rate”  and 
+“customer margin interval value”, respectively. 
+
+(5) The intraday settlement  prices noted in  items (a) and  (b) of  paragraph (3)3 shall be the 
+prices  calculated  by  applying  [§102-3(3)]  mutatis  mutandis.  In  such  cases,  the  “time  of 
+calculating  intraday  member  margin”  in  [§102-3(3)]  shall  be  construed  as  the  “time  of 
+calculating intraday customer margin”.   
+
+(6) Pursuant to [§137-2(4)] of the Regulation, the deadline for the additional deposit shall be 
+the time decided by a member on the day of the occurrence of shortfall. Provided that, it may 
+be a time that is set by the member within the starting time of the quotation receiving hours for 
+the regular trading session of the next trading day considering the matters to be identified by a 
+customer, etc. (Amended on May 29, 2025) 
+
+[May 26, 2015] 
+
+151 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§151-3. Release of Additional Deposit of Intraday Customer Margin 
+
+(1) “As specified by the Enforcement Rules” in [§137-2(3)] of the Regulation shall refer to the 
+case falling under any of the following subparagraphs; 
+
+1. Before the market closing, cases falling under any of the following items: 
+
+(a)  Where  the  total  amount  of  deposit  is  not  less  than  the  amount  of  upfront  initial 
+customer margin pursuant to [§151-4(2)] (excluding the amount of [§151-4(2)1]); 
+
+(b)  Where  the  total  amount  of  deposit  is  not  less  than  intraday  maintenance  customer 
+margin calculated by using margin calculation variable that the Exchange provides after 
+the time of calculating intraday customer margin; or   
+
+(c)  Where  the  amount  of  intraday  shortfall  in  total  deposit  (referring  to  the  amount 
+obtained  by  subtracting  the  amount  of  deposit  from  the  amount  of  intraday  customer 
+margin:  the  same  hereinafter  in  this  article)  calculated  by  using  margin  calculation 
+variable at the market closing time of the previous trading day after the time of calculating 
+intraday customer margin decreases no less than the amount of intraday shortfall in total 
+deposit amount at the time of calculating intraday customer margin. 
+
+2. After the market closing, cases falling under any of the following items: 
+
+(a)  Where  the  total  amount  of  deposit  is  not  less  than  the  amount  of  upfront  initial 
+customer margin (excluding the amount noted in [§151-4(2)1]) pursuant to [§151-4(2)]; 
+(Amended on May 29, 2025) 
+
+(b)  Where  a  customer  subject  to  upfront  initial  customer  margin  does  not  fall  under 
+[§150(1)] or deposits customer margin additionally pursuant to [§150(1) or (2)]; 
+
+(c) Where a customer subject to ex-post customer margin does not fall under [§146(2)] or 
+deposits ex-post customer margin pursuant to [§146(2)]; or 
+
+(d) Where a customer makes up for the relevant shortfall amount by additional deposit, 
+offsetting trade, or selling of substitute securities.. (Amended on May 29, 2025) 
+
+(2) A member shall incorporate standards relating to the release of additional deposit during 
+the session pursuant to the paragraph (1) into its internal control standards, etc. 
+
+[May 26, 2015] 
+
+§151-4. Exceptions of Calculation Method of Margin, etc. in Additional Deposit of Intraday 
+Customer Margins 
+
+(1) Pursuant to [§137-2(4)] of the Regulation, for the trading day falling under [§151-1(1)], a 
+member  may  calculate  risk  exposure  amount  pursuant  to  [§132-2],  upfront  initial  customer 
+margin pursuant to [§133], and the amount of upfront cash deposit  requirement pursuant to 
+[§145],  by  using  margin  calculation  variable  at  the  time  of  calculating  intraday  customer 
+
+152 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+margin.   
+
+(2) Upfront initial customer margin shall be not less than the sum of amounts of the following 
+subparagraphs 
+
+1. Customer margin for entrustment of new orders calculated by applying [§133(1)1] mutatis 
+mutandis and customer margin for entrustment of futures spread order applying [§133(1)2] 
+mutatis  mutandis.  In  such  cases,  “base  price  of  underlying  asset  on  the  immediately 
+preceding  trading  day”  shall  be  construed  as  “underlying  asset  price  at  the  time  of 
+calculating intraday customer margin.” (Amended on May 29, 2025) 
+
+2.  The  amount  of  net  futures  loss  during  the  session  calculated  by  applying  [§137(1)1] 
+mutatis  mutandis.  In  such  cases,  “futures  trade  executed  on  the  relevant  trading  day”, 
+“market closing time of the immediately preceding trading day”, and “settlement price of 
+the immediately preceding trading day” shall be construed as “futures trade executed after 
+passing  time  of  calculating  intraday  customer  margin”,  “time  of  calculating  intraday 
+customer margin”, and “intraday settlement price”, respectively in [§137(1)1]. (Amended 
+on May 29, 2025) 
+
+3. The amount of intraday customer margin pursuant to [§151-2(4)] 
+
+(3)  Risk  exposure  amount  pursuant  to  the  paragraph  (1)  shall  refer  to  customer  margin 
+calculated  at  the  time  of  transaction  execution  applying  the  subparagraph  2  and  3  of  the 
+paragraph (2) mutatis mutandis.   
+
+(4) The upfront cash deposit requirement under paragraph (1) shall be the amount calculated 
+by applying [§145] mutatis mutandis. In such cases, “upfront initial customer margin pursuant 
+to  [§133]”,  “base  price  of  underlying  asset  on  the  immediately  preceding    trading  day”, 
+“upfront  customer  margin  for  net  exposures  pursuant  to  [§134]”,  “amount  calculated  by 
+applying [§134] mutatis mutandis”, and “net futures loss during the session” in [§145] shall be 
+construed as “upfront initial customer margin amount pursuant to [§151-4(2)]”, “underlying 
+asset price at the time of calculating intraday customer margin”, “upfront customer margin for 
+net exposures calculated by applying [§151-2(4)] mutatis mutandis”, “amount calculated by 
+applying [§151-2(4)] mutatis mutandis”, and “sum of futures loss during the session pursuant 
+to [§151-4(2)2], intraday settlement difference for the day’s trade pursuant to [§151-2(3)3(a)], 
+and  intraday  settlement  difference  for  previous  day’s  open  interests  pursuant  to  [§151-
+2(3)3(b)]”, respectively. (Amended on May 29, 2025) 
+
+(5) Pursuant to [§137-2(4)] of the Regulation, in cases where a member pays customer margin 
+before  the  market  closing  of  the  trading  day  falling  under  [§151-2(1)],  the  member  shall 
+calculate the amount payable by using margin calculation variable at the time of calculating 
+intraday customer margin applying [§149(1)2(a)] and [§149(1)3(a)] mutatis mutandis. In such 
+cases, “upfront initial  customer margin  under [§133]”, “applying [§133]  mutatis  mutandis”, 
+“amount  of  upfront  cash  deposit  requirement  under  [§145]”,  and  “applying  [§145]  mutatis 
+mutandis” shall be construed as “upfront initial customer margin under [§151-4(2)]”, “applying 
+[§151-4(2)]  mutatis  mutandis”,  “amount  of  upfront  cash  deposit  requirement  under  [§151-
+in  [§149(1)2(a)] 
+4(4)”,  and  “applying  [§151-4(4)]  mutatis  mutandis”,  respectively, 
+and[§149(1)3(a)], but a member may apply margin calculation variable of the previous trading 
+day  to  the  amount  under  [§151-4(2)1],  of  upfront  initial  customer  margin  calculated  by 
+
+153 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+applying [§151-4(2)] mutatis mutandis. 
+
+[May 26, 2015] 
+
+§152. Measures against Customers’ Non-fulfillment of Deposit Obligations, etc. 
+
+(1) Pursuant to [§138(1)] of the Regulation, when intending to conduct offsetting trade against 
+the open interests of a customer, a member shall submit a limit quotation(including market-to-
+limit-on-the-close  quotation  in  the  case  of  trade  or  contracts  applied  real-time  price  limit 
+pursuant to [§60-3]; the same hereinafter in this Article) at the price falling under each of the 
+following  subparagraphs  after  the  deposit  deadline  (referring  to  the  deposit  deadline  under 
+[§132] of the Regulation, the deadline of additional deposit of daily customer margin under 
+[§137] of the Regulation, or the deadline of additional intraday deposit under [§137-2] of the 
+Regulation) of customer margin (excluding the night trading hours).Provided that, in the case 
+of USD FLEX futures trades, the offsetting trade shall be carried out through the negotiated 
+FLEX trade:[Proviso on August 21, 2009] (Amended on October 26, 2009; November 3, 2014; 
+May 26, 2015; September 20, 2017; October 30, 2019; May 29, 2025) 
+
+1. In the case of ask quotation, the price of any of the followings: 
+
+(a)  The  most  recent  execution  price  and  the  nice  (9)  prices  resulting  from  sequentially 
+subtracting the quotation price units from the most recent execution price; and 
+
+(b)The price of the best bid quotation (if there is no price of the best bid quotation, it shall 
+be  the  price  of  the  best  ask  quotation)  and  nine  (9)  prices  resulting  from  sequentially 
+subtracting the quotation price units from the price of the best bid quotation. 
+
+2. In the case of bid quotation, the price of any of the followings: 
+
+(a)The  most  recent  execution  price  and  the  nice  (9)  prices  resulting  from  sequentially 
+adding the quotation price units to the most recent execution price; or 
+
+(b) The price of the best ask quotation (if there is no price of the best ask quotation, it shall 
+be the price of the best bid quotation) and nine (9) prices resulting from sequentially adding 
+the quotation price units to the price of the best ask quotation. 
+
+(2)  Notwithstanding  paragraph  (1),  in  the  case  of  falling  under  any  of  the  following 
+subparagraphs,  the  quotation  determined  by  the  corresponding  subparagraph  may  be 
+submitted:(Amended on November 3, 2014; October 30, 2019; December 21, 2022) 
+
+1.  In  the  case  of  periodic  call  auction  session  and  when  there  is  no  quotation  during 
+continuous  auction,  a  limit  quotation  at  the  price  other  than  the  price  noted  in  each 
+subparagraph of paragraph (1); and 
+
+2. In the case of trade or contracts applied real-time price limit pursuant to [§60-3] and when 
+the customer consents or requests, a market quotation. 
+
+(3) [Deleted on November 3, 2014] 
+
+154 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER 3. SETTLEMENT BETWEEN MEMBER AND CUSTOMER 
+
+§153. [Deleted on October 20, 2010] 
+
+§154. Settlement of Currency Futures by Physical Delivery 
+
+(1) Pursuant to [§144(3)] of the Regulation, a member shall notify the customer the details of 
+physical delivery, including the final quantity and amount of currency of currency futures to 
+be delivered during the period from the market closing time on the last trading day to the time 
+in that day that is determined by the member. (Amended on July 8, 2013) 
+
+(2)  Members  and  customers  shall  deliver  and  receive  the  currency  and  the  final  settlement 
+amount,  according  to  the  final  settlement  of  currency  futures,  by  the  deadline  for  physical 
+delivery. (Amended on July 8, 2013) 
+
+§155. [Deleted on October 28, 2015] 
+
+§156. [Deleted on October 28, 2015] 
+
+§157. Deadline for Reporting Option Exercise by Customer 
+
+The  deadline  for  reporting  the  option  exercise  by  customers  pursuant  to  [§147(1)]  of  the 
+Regulation shall be the time determined by the member, which is within twenty (20) minutes 
+from the market closing time on the option exercise day. (Amended on August 21, 2009; April 
+6, 2026) 
+
+§158. Physical Delivery Deadline 
+
+“Time set by the Enforcement Rules” in [§149(4)3] of the Regulation, shall be the time before 
+12:00 noon of the final settlement day of currency futures, which is determined by the member. 
+(Amended on October 28, 2015) 
+
+§159. Measures against Customers’ Failure to fulfill Settlement Obligations, etc. 
+
+Pursuant to [§152(1)] of the Regulation, the provisions of [§152] shall apply mutatis mutandis 
+to the case where the member intends to conduct offsetting trade against the open interests of 
+customer. 
+
+155 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PART VI. MARKET MANAGEMENT 
+
+§160. Criteria for Designation as Low Liquidity Products 
+
+(1)  Pursuant  to  [§153(3)]  of  the  Regulation,  the  products  of  which  the  average  quantity  of 
+contracts  executed  during  the  previous  three  (3)  months  (includes  the  night  trading  hours 
+immediately preceding the first regular trading hours during the relevant period, but excludes 
+the night trading hours starting on the last business day; the same hereinafter in this Article) 
+based on the first business day of each month is less than the quantity (hereinafter referred to 
+as “the base quantity for liquidity management”) noted in each of the following subparagraphs 
+shall be designated as low liquidity products. Provided that the product for which less than one 
+(1) year has passed since the month following the month to which its listing date belongs (if 
+the listing date is the first business day of the month, it shall be the month to which the listing 
+date belongs) and the USD Flex Futures shall be excluded: (Amended on August 21, 2009; 
+January 27, 2011; August 28, 2014; June 15, 2017; February 16, 2022; May 29, 2025) 
+
+1. For the futures and options underlying stock price indices: 300 contracts; 
+2. For the futures underlying stocks: 300 contracts; 
+3. For the options underlying stocks: 50 contracts; 
+4. For the futures underlying ETFs: 300 contracts; 
+5.  For  the  futures  and  options  underlying  interest  rates:  200  contracts  (for  the  3-month 
+
+benchmark interest rate futures; 20 contracts); 
+
+6. For the futures and options underlying currencies: 100 contracts; and 
+7. For the futures and options underlying commodities: 50 contracts. 
+
+(2) Pursuant to [§153(3)] of the Regulation, the designation period of low liquidity products 
+shall be from the date of such designation to the date of designation as a product warned for 
+delisting pursuant to [§161].   
+
+(3)  In the cases where the average daily contract  quantity  of a product  designated as  a low 
+liquidity product pursuant to paragraph (1) exceeds the base quantity for liquidity management 
+for three (3) consecutive times during the three (3) months preceding the first business day of 
+each  month,  the  Exchange  shall  release  the  relevant  product  from  the  designation  as  low 
+liquidity product. (Amended on May 29, 2025) 
+
+(4) The designation as low liquidity products and release thereafter pursuant to paragraphs (1) 
+and (3) shall be conducted on the trading day after the trading day on which the product falls 
+under the criteria for designation and release. In such cases, the Exchange shall make public 
+such facts without delay. (Amended on August 28, 2014; May 29, 2025) 
+
+(5) In cases where a product designated as a low liquidity product pursuant to paragraph (1) 
+(excluding the market-making products noted in [§81(1)]) falls under each of the following 
+subparagraphs,  the  Exchange  may  not  start  the  trading  of  new  delivery  month  contracts 
+(including new delivery week contracts; the same hereinafter in this Article and [§161]), or it 
+may take other necessary measures for the market management. In such cases, the Exchange 
+shall announce this fact without delay through the electronic information delivery mechanism 
+operated by the Exchange, including the internet homepage; 
+
+156 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  When  it  has  elapsed  four  (4)  years  from  the  date  of  designation  as  a  low  liquidity 
+product (in cases where the Exchange deems it is necessary to suspend the trading of 
+new  delivery  month  contracts  for  the  market  management,  it  shall  be  followed  as 
+specified by the Exchange); and 
+
+2.  Where the sum of appraisal scores according to Annex 21 is six (6) points or more but 
+
+less than eight (8) points. [July 30, 2020] 
+
+(6) The Exchange may perform the appraisal in accordance with the Annex 21 again for the 
+product that has not started the trading of new delivery month contracts pursuant to paragraph 
+(5), considering market revitalization situation, trading demands, other changes in the market 
+environment, etc. [July 30, 2020] 
+
+(7) In cases where a product that has not started the trading of new delivery month contracts 
+pursuant to paragraph (5) falls under paragraph (3) or has the sum of appraisal scores of eight 
+(8) points or more in accordance with paragraph (6), the trading of the new delivery month 
+contracts for the concerned product shall be resumed. In such cases, the Exchange may adjust 
+matters related to the trading resumption of the new delivery month contracts including the 
+timing of the trading resumption, the trading duration, etc., and it may take other necessary 
+measures for the market management. [July 30, 2020] 
+
+(8) In cases where the Exchange resumes the trading of new delivery month contracts pursuant 
+to paragraph (7), it shall announce this fact without delay through the electronic information 
+delivery mechanism operated by the Exchange, including the internet homepage. [July 30, 2020] 
+
+(9) Notwithstanding paragraphs (1) through (4), the Exchange may determine differently the 
+designation,  release  from  the  designation,  and  publication  of  low  liquidity  products  if  it   
+deems necessary for market management. [April 6, 2026] 
+
+§161. Criteria for Designation as Product warned for Delisting 
+
+(1) Pursuant to [§153(3)] of the Regulation, in cases where the product designated as a low 
+liquidity product fall under the criteria noted in each of the following subparagraphs (excluding 
+the market making products pursuant to [§81(1)]), the Exchange shall designate the relevant 
+product as a product warned for delisting: (Amended on July 8, 2013; August 28, 2014; July 
+30, 2019; July 30, 2020) 
+
+1. When it has elapsed four (4) years since the date of designation as low liquidity product 
+(in cases where the  Exchange deems  it is  necessary for the market  management, it shall 
+comply with what the Exchange specifies); and         
+
+2. Where the sum of appraisal scores according to Annex 21 is less than six (6) points.   
+
+(2) When designating a product as a product warned for delisting pursuant to paragraph (1), 
+the  Exchange  shall  make  public  such  fact  without  delay  through  the  electronic  information 
+delivery mechanism operated by the Exchange, including the internet homepage. 
+
+157 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3)  With  regard  to  the  product  designated  as  a  product  warned  for  delisting  pursuant  to 
+paragraph (1), the Exchange may not start the trading of new delivery month contracts, change 
+the  last  trading  days  thereof,  or  take  other  measures  necessary  for  market  management. 
+(Amended on July 30, 2019; July 30, 2020) 
+
+(4) The provisions of paragraph (1) through (3) shall apply mutatis mutandis in the case where 
+the sum of appraisal scores in accordance with [§160(6)] is less than six (6) points. [July 30, 
+2020] 
+
+§162. Methods of Determining Quantity of Open Interests of KOSPI 200 Futures and Options 
+Trades, etc. 
+
+(1)  “Quantity  of  open  interests  calculated  according  to  the  methods  specified  in  the 
+Enforcement  Rules” in the main sentence of  [§154(1)1(a)(i)] of the Regulation  shall be the 
+smaller  quantity  among  the  quantities  noted  in  each  of  the  following  subparagraphs  (if  the 
+quantities noted in each subparagraph are the same, that quantity): (Amended on January 31, 
+2011; August 28, 2014) 
+
+1. The quantity determined by applying  Delta at the market closing time of the relevant 
+trading day and the quantity of open interests at the market  closing time of the relevant 
+trading day to [Annex 23]; and (Amended on May 29, 2025) 
+
+2. The quantity determined by applying Delta at the market closing time of the immediately 
+preceding trading day and the quantity of open interests at the market closing time of the 
+relevant trading day to [Annex 23]. (Amended on May 29, 2025) 
+
+(2)  “Quantity  of  open  interests  calculated  according  to  the  methods  specified  in  the 
+Enforcement Rules” in the main sentence of [§154(1)1(a)(ii)] of the Regulation shall refer to 
+the smaller quantity between the quantities noted in each of the following subparagraphs (if 
+the quantities noted in each subparagraph are the same, such quantity): (Amended on January 
+31, 2011; August 28, 2014; July 12, 2016) 
+
+1. The quantity calculated by applying to [Annex 23] Delta at the time of market closing of 
+the  contracts  of  which  the  last  trading  has  arrived  and  the  quantity  of  open  interests 
+(excluding the  quantity  related to hedge transactions for the quantity  held in  the market 
+making account, which a member reported to the Exchange in accordance with [Annex: 
+Form  13-2]  by  10:00  hour  on  the  following  trading  day;  the  same  hereinafter  in  this 
+Paragraph), at the time of market closing, of the contracts of which the last trading day has 
+arrived; and   
+
+2.  The  quantity  calculated  by  applying  to  [Annex  23]  Delta  of  contracts  at  the  time  of 
+market closing of the immediately preceding trading day, whose last trading day has arrived, 
+and the quantity of open interests of contracts whose last trading day has arrived at the time 
+of market closing. (Amended on May 29, 2025) 
+
+(3)  “Customers  specified  in  the  Enforcement  Rules”  in  the  provisos  to  [§154(1)1(a)(i), 
+(1)1(ii)& (1)(b)] of the Regulation  shall refer to  the individual classified under the investor 
+classification code 8000 noted in [Annex 6]. (Amended on January 31, 2011; August 28, 2014; 
+
+158 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 3, 2014; October 28, 2015)   
+
+(4) In accordance with [§154(6)] of the Regulation, the member shall periodically monitor the 
+position  limit  of  open  interests  by  customer  pursuant  to  [§154(1)]  and  notify  the  customer, 
+without delay, if the quantity exceeds the position limit. (Amended on January 31, 2011; July 
+3, 2015) 
+
+(5) [Deleted on January 31, 2011] 
+(6) [Deleted on January 31, 2011] 
+(7) [Deleted on January 31, 2011] 
+(8) [Deleted on May 29, 2025] 
+
+§162-2. Position Limits of Equity Derivatives 
+
+(1) “Quantity specified in the Enforcement Rules” in [§154(1)1(b)] of the Regulation shall refer 
+to the quantities classified in each of the following subparagraphs: (Amended on March 13, 
+2017; June 15, 2017; September 20, 2017; February 28, 2018; March 15, 2018; August 17, 
+2018; September 7, 2018; April 5, 2024; November 1, 2024)   
+
+1.  For  KOSDAQ  150  futures  and  KOSDAQ  150  options:  20,000  contracts  based  on  the 
+open interests calculated pursuant to paragraph (2). Provided that, for the customers falling 
+under [§162(3)], it shall be 10,000 contracts, and for the Exchange-traded fund pursuant to 
+Article 234(1) of the Act (hereinafter referred to as the "ETF") that holds open interests of 
+KOSDAQ 150 futures or KOSDAQ 150 options, it shall be 100,000 contracts; 
+
+futures 
+
+2.  For  KRX  300 
+based on the net open interests (referring to the quantity obtained by subtracting the smaller 
+quantity between the sum of quantities of short open interests and the sum of quantities of 
+long  open  interests  from  the  larger  quantities  of  the  two  sums;  the  same  hereinafter). 
+Provided that, for the customers falling under [§162(3)], it shall be 10,000 contracts; 
+
+and  V-KOSPI  200 
+
+futures:  20,000 
+
+contracts                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+
+3. For KOSDAQ Global futures: 20,000 contracts based on the net open interests. Provided 
+that, for the customers falling under [§162(3)], it shall be 10,000 contracts, and for the ETFs 
+that hold open interests of KOSDAQ Global futures, it shall be 100,000 contracts; 
+
+4. For Sector Index futures (excluding Korea Value-up Index futures): 10,000 contracts for 
+each  underlying  asset,  based  on  the  net  open  interests.  Provided  that,  for  the  customers 
+falling under [§162(3)], it shall be 5,000 contracts; 
+
+4-2. For Korea Value-up Index futures:  40,000 contracts based on the  net  open interests. 
+Provided that, for the customers falling under [§162(3)], it shall be 20,000 contracts; 
+
+5. [Deleted on April 18, 2025] 
+
+6. For single stock futures and single stock options: the quantity (referred to as “position 
+limit” hereinafter in this Article) that is calculated according to the following formula (the 
+quantity  less  than  1,000  contracts  shall  be  discarded)  and  officially  announced  by  the 
+Exchange, based on the open interests calculated pursuant to paragraph (2) for each of same 
+
+159 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+underlying stocks: and 
+
+Max {5,000, total number of listed common shares of the underlying stock3/100 ÷Max 
+(multipliers of the contracts with an identical underlying stock)} 
+
+7. For ETFs futures: the quantity set forth in [Annex 1-4] for each underlying asset, based 
+on the net open interests. (Amended on May 29, 2025) 
+
+(2) The open interests under subparagraphs 1 and 6 of paragraph (1) shall be the quantities 
+classified  in  each  of  the  following  subparagraphs  for  each  of  the  same  underlying  assets: 
+[September 20, 2017] (Amended on March 15, 2018; June 25, 2024) 
+
+  1.  In  the  case  of  calculating  open  interests  for  all  the  contracts:  the  quantity  calculated  by 
+
+applying [§162(1)] mutatis mutandis; and 
+
+  2. In the case of calculating open interests for the contracts of which the last trading day has 
+
+arrived: the quantity calculated by applying [§162(2)] mutatis mutandis. 
+
+(3)  The  position  limits  under  paragraph  (1)6  shall  be  made  public  through  such  electronic 
+information dissemination media as the internet website, etc., operated by the Exchange, on 
+the first business day of each year (hereinafter referred to as “publication date of the position 
+limits”), and shall apply after seven (7) business days counting from the publication date of the 
+position limits. (Amended on August 28, 2014; November 3, 2014; March 13, 2017; March 15, 
+2018; June 25, 2024; May 29, 2025) 
+
+(4) The total number of listed common shares noted in paragraph (1)6 shall be based on the 
+last day of the year immediately preceding the year in which the publication date of the position 
+limits falls. (Amended on August 28, 2014; March 13, 2017; March 15, 2018; June 25, 2024) 
+
+(5) Notwithstanding paragraphs (3) and (4), the position limits shall be calculated and applied 
+according to  the following subparagraphs when the number of listed common shares of the 
+underlying  stocks  changes  by  10  percent  or  more  due  to  stock  dividends,  paid-in  capital 
+increases  and/or  bonus  stocks  issuance,  stock  splits,  etc.  (Amended  on  August  28,  2014; 
+September 20, 2017; September 3, 2020) 
+
+1. In the case of adjusting the base price of the underlying stocks due to ex-dividends, etc.: 
+At the time of adjusting the base price of the underlying stocks. In such cases, if there is an 
+adjustment in the multiplier, the position limits shall be calculated and applied even when 
+the last trading day of all the contracts with adjusted multipliers has passed; and 
+
+2. Cases other than subparagraph 1: At the time of supplementary listing or listing change 
+of the underlying stocks. 
+
+(6) Notwithstanding the provisions of subparagraphs 6 and 7 of paragraph (1) and paragraphs 
+(2)  through  (5),  when  it  is  deemed  necessary  for  market  management,  the  Exchange  may 
+change the position limits, the publication date of position limits and the application date of 
+position limits of single stock futures and single stock options, and the position limits of ETF 
+futures. (Amended on September 20, 2017; March 15, 2018; September 7, 2018; June 25, 2024) 
+
+160 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(7) In the event that an ETF with an increased position limit on open interests according to each 
+of the following subparagraphs holds the quantity of open interests stipulated in the relevant 
+subparagraphs  or  more,  the  relevant  member  shall  report  the  details  of  the  holding  to  the 
+Exchange without delay. In such cases, the member shall report the details of the holding to 
+the  Exchange  without  delay  in  accordance  with  [Annex:  Form  13-3].  [March  15,  2018] 
+(Amended on November 1, 2024; May 29, 2025) 
+
+      1. Proviso to paragraph (1)1: The quantity of open interests stipulated in the main sentence 
+
+of the same subparagraph [May 29, 2025] 
+
+      2. Proviso to paragraph (1)3: The quantity of open interests stipulated in the main sentence 
+
+of the same subparagraph [May 29, 2025] 
+
+      3. Note in [Annex 1-4]: The quantity of open interests stipulated in the table in [Annex 1-
+
+4] [May 29, 2025] 
+
+(8) [Deleted on November 1, 2024] 
+
+§162-3. [Deleted on March 13, 2017] 
+
+§163. Quantities relating to Arbitrage and Hedge, etc. 
+
+(1) “Deadline specified in the Enforcement Rules” in the forepart other than each subparagraph 
+of [§154(4)] of the Regulation shall refer to 10:00 hours of the following trading day. (Amended 
+on January 31, 2011; February 17, 2012; August 28, 2014) 
+
+(2) “Manner stipulated in the Enforcement Rules” in [§154(4)1&2] of the Regulation shall refer 
+to  submitting  the  report  under  [Annex:  Form  13]  or  inputting  into  the  Exchange  derivative 
+system via the member derivatives system or the member derivatives terminals. [February 17, 
+2012]   
+
+(3) Pursuant to [§154(6)] of the Regulation, the quantity of open interests acceptable from an 
+identical customer shall apply by dividing it into the trust asset and proprietary asset, and the 
+trust  asset  shall  be  divided  for  each  trust  asset.  In  such  cases,  the  Exchange  may  request 
+members for the details of the quantity of open interests per proprietary asset or trust asset for 
+the purpose of managing the position limits. (Amended on January 31, 2011; September 20, 
+2017) 
+
+(4) Pursuant to [§154(6)] of the Regulation, the quantity relating to arbitrage shall refer to the 
+quantity  of  open  interests  resulting  from  the  trades  noted  in  [§49(1)  or  (2)].  (Amended  on 
+January 31, 2011; November 3, 2014) 
+
+(5) Pursuant to  [§154(6)] of the Regulation, the quantity relating to hedge shall refer to the 
+quantity of open interests resulting for the trade noted in [§49(3) or (4)]. [January 31, 2011] 
+(Amended on November 3, 2014) 
+
+161 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§164. Restriction on Trading of Single Stock Futures, etc. 
+
+(1) Pursuant to [§155(1)] of the Regulation, in cases where the underlying stock is delisted, the 
+trading of domestic single stock futures, domestic single stock futures spreads and single stock 
+options based on the relevant underlying stock shall not be conducted from the date of delisting. 
+(Amended on February 17, 2012; August 28, 2014; June 20, 2016; June 15, 2017) 
+
+(2)  Pursuant  to  [§155(1)]  of  the  Regulation,  in  cases  where  a  stock  falls  under  any  of  the 
+following subparagraphs,  the Exchange may not commence  the trading  of the new  delivery 
+month  contract  of  the  single  stock  futures  or  single  stock  options  underlying  the  relevant 
+stock:(Amended on August 28, 2014; July 3, 2015; June 20, 2016; June 29, 2023; April 5, 2024) 
+
+1. Where it is excluded from the underlying stock pursuant to [§8-2]; 
+
+2. Cases that fall under any of subparagraphs of [§11(4)]; and 
+
+3. In addition, cases that intend to delist single stock futures and single stock options. 
+
+(3) Pursuant to [§155(2)] of the Regulation, in cases where the underlying asset of the overseas 
+index futures fails to satisfy any of the items of subparagraph 4 of [§10] of the Regulation, the 
+Exchange may restrict the trading of the aforementioned overseas index futures and overseas 
+index futures spread. [June 20, 2016] 
+
+(4) Pursuant to [§155(2)] of the Regulation, in the case of falling under any of the following 
+subparagraphs, the Exchange may not initiate the trading of overseas index futures for a new 
+delivery month. In such cases, the Exchange may restrict the trading of the contracts with no 
+open interests: [June 20, 2016] 
+
+1.  Where  the  causes  for  termination  specified  in  an  alliance  or  agreement  pursuant  to 
+subparagraph  4(d)  of  [§10]  occur  or  where  intending  to  terminate  the  aforementioned 
+alliance or agreement; 
+
+2. Where the overseas stock indices cannot be calculated (except the case of a temporary 
+discontinuation of calculation); or   
+
+3. Other cases that the Exchange deems it appropriate to restrict the trading of overseas index 
+futures. 
+
+(5) Pursuant to [§155(3)] of the Regulation, in cases where an underlying ETF is delisted, the 
+trading of ETF futures and ETF futures spreads based on the relevant underlying shall not be 
+conducted  from  the business  day immediately preceding  the delisting date. [June  15, 2017] 
+(Amended on May 29, 2025) 
+
+(6)  Pursuant  to  [§155(3)]  of  the  Regulation,  in  cases  where  an  ETF  falls  under  any  of  the 
+following subparagraphs,  the Exchange may not commence  the trading  of the new  delivery 
+month contract of the ETF futures underlying the relevant ETF: [June 15, 2017] 
+
+1. Where the ETF is excluded from the underlying assets of ETF futures as it fails to meet 
+the requirements noted in [§20-2(1)]; and 
+
+162 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Cases of intending to delist the ETF futures. 
+
+§164-2. Restriction on Receipt of Excessive Quotation 
+
+(1) Pursuant to [§156-2(3)] of the Regulation, the Exchange may take measures as classified in 
+the following subparagraphs for each session that the Exchange provides for the members to 
+process the receipt of quotations: [February 28, 2014] (Amended on August 28, 2014; May 29, 
+2025) 
+
+1. Where the average number of quotations submitted per second during the preceding three 
+(3) seconds exceeds 300 cases, the fact that excessive quotation of a member falls under the 
+criteria restricting the receipt of excessive quotation shall be notified to the member; and 
+
+2. Where the average number of quotations submitted per second during the preceding three 
+(3)  seconds  exceeds  300  cases  consecutively  after  the  notification  pursuant  to  paragraph 
+(1)1, the receipt of quotation shall be restricted for the next one (1) second. 
+
+(2) [Deleted on May 29, 2025] 
+
+1. [Deleted on May 29, 2025] 
+
+2. [Deleted on May 29, 2025] 
+
+(3) [Deleted on May 29, 2025] 
+
+[October 26, 2009] 
+
+§164-3. Charge for Excessive Quotations 
+
+(1)  Pursuant  to  [§156-2(3)]  of  the  Regulation,  the  charge  for  excessive  quotations  shall  be 
+imposed in case where the number of quotations of trades [Referring to  KOSPI200 Futures 
+trade (including futures spread trades), Mini KOSPI200 futures trade (including futures spread 
+trades), KOSPI200 options and Mini KOSPI200 options trades; hereinafter the same in this 
+Article]  subject  to  the  charge  for  excessive  quotations  during  the  night  trading  session  or 
+regular  trading  session  (including  the  quotation  receiving  hours  for  opening  price  by  call 
+auction in each trading session) of the relevant trading day falls under any of the following 
+subparagraphs: (Amended on March 30, 2015; July 3, 2015; March 13, 2017; December 21, 
+2022; May 29, 2025) 
+
+1.  Where  the  total  number  of  quotations  (including  the  number  of  quotations  cancelled 
+according to the application for mass order cancellation and excluding quotations submitted 
+through  a  market-making  account;  hereinafter  the  same  in  this  subparagraph)  is  200,000 
+(500,000 for Mini KOSPI200 futures trades and Mini KOSPI200 options trades) or higher 
+and  the  value  obtained  by  dividing  the  total  number  of  quotations  by  total  number  of 
+contracts is fifteen (15) or higher; or 
+
+2. Where the number of applications for mass order cancellation is 50 or higher.   
+
+163 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) The number of quotations in paragraph (1) shall be calculated for each derivative account 
+by distinguishing between regular trading session and night trading session. Provided that, in 
+the case of quotations submitted through high-speed algorithmic trading account, the number 
+of quotations shall be calculated for each high-speed algorithmic trade number by adding the 
+number of quotations of all high-speed algorithmic trading account that the relevant member 
+reported  to  the  Exchange  connecting  high-speed  algorithmic  trade  number,  distinguishing 
+between regular trading session and night trading session. (Amended on December 21, 2022; 
+May 29, 2025)   
+
+(3)  The  amount  of  the  charge  for  excessive  quotations  per  applicable  trade  shall  be  KRW 
+1,000,000 and charged for each derivatives account or for each high-speed algorithmic trade 
+number according to the calculation method pursuant to paragraphs (1) and (2). (Amended on 
+December 21, 2022) 
+
+(4) The Exchange may exempt the charge for excessive quotations up to twice per month for 
+each trade subject to the charge for excessive quotations. Provided that this provision shall not 
+apply to the case where the trade subject to the charge for excessive quotations corresponds to 
+paragraph (1)1 and the value obtained by dividing the number of total quotations by the number 
+of  total  contracts  as  prescribed  in  paragraph  (1)2  exceeds  seventy-five  (75).  (Amended  on 
+August 28, 2014; March 30, 2015; July 3, 2015; December 21, 2022; May 29, 2025) 
+
+(5)  The  Exchange  shall  notify  the  amount  of  the  charge  for  excessive  quotations  noted  in 
+paragraphs (1) through (3) to the relevant member after the closing of each trading session. In 
+such cases, the member  that  received the notification shall deposit  the charge  for excessive 
+quotations into the account that the Exchange notified beforehand within seven (7) business 
+days  of  receipt  of  the  notification.  (Amended  on  August  28,  2014;  September  6,  2016; 
+December 21, 2022; May 29, 2025) 
+
+(6) Notwithstanding paragraphs (1) through (4), the Exchange may relax the criteria regarding 
+trades  subject  to  imposition,  the  calculation  method,  and  exemptions  from  the  charge  for 
+excessive quotations, if deemed necessary for market management, taking into account trading 
+demand, market liquidity, and quotation conditions. [August 18, 2025] 
+
+[July 8, 2013] 
+
+§164-4. Management of Account for Algorithmic Trading 
+
+(1) Pursuant to [§156-3(4)] of the Regulation, the reporting of algorithmic trading account shall 
+be accomplished by way of the member inputting the details of the relevant derivatives account 
+into the Exchange’s derivatives system using the member derivatives system. (Amended on 
+August 28, 2014) 
+
+(2) In cases where there is a member that submitted two (2) quotations or more per second and 
+five thousand (5,000) quotations or more (excluding    negotiated trades) by the market closing 
+time  through  the  derivatives  account  that  was  not  reported  according  to  paragraph  (1) 
+(excluding the market making accounts), the Exchange shall notify such fact to the relevant 
+member. In such cases, the relevant member shall submit to the Exchange the material proving 
+
+164 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the fact that the relevant derivatives account is not the account for algorithmic trading by the 
+market closing time of the business day following the receipt day of notification. (Amended on 
+August 28, 2014; September 6, 2016; August 17, 2018; May 29, 2025) 
+
+[July 8, 2013] 
+
+§164-5. Methods of Requesting for Quotation Handling per Account, etc. 
+
+(1) Pursuant to [§156-3(4)] of the Regulation, members shall make the request for the quotation 
+handling per account in the manner of inputting each of the following matters into the Exchange 
+derivatives  system  through  member  derivatives  systems  or  member  derivatives  terminals. 
+Provided  that  the  request  for  quotation  handling  per  account  shall  be  made  limited  to  the 
+accounts that have been reported as algorithmic trade accounts (for foreigner’s consolidated 
+accounts, it shall be the end-investor classification codes) by the immediately preceding trading 
+day of request: (Amended on August 28, 2014; June 15, 2017; July 1, 2019; May 29, 2025) 
+
+1. The number of derivative accounts performing the algorithmic trades. Provided that, in 
+the case of a foreigner’s consolidated account,  it shall be the end-investor classification 
+codes; and   
+
+2. Other matters that the Exchange deems necessary. 
+
+(2) Members may make a termination request according to the procedures under paragraph (1) 
+only if ten (10) minutes have passed since the request for the quotation handling per account 
+and  the  Exchange  may  terminate  the  quotation  handling  per  account  at  the  time  of  market 
+closing of night trading session or regular trading session on the relevant trading day in cases 
+where the member does not request the termination. (Amended on May 29, 2025) 
+
+(3)  Notwithstanding  paragraphs  (1)  and  (2),  the  Exchange  may  reject  the  request  for  the 
+quotation handling per account or termination request for the same when it deems necessary 
+due to system failure or for market management. 
+
+(4) Members shall keep the records related to the quotation handling per account including the 
+details of system failure, etc. for a period of ten (10) years. 
+
+[February 28, 2014] 
+
+§164-6. Registration of High-speed Algorithmic Trader, etc. 
+
+(1) An application for registration or reporting pursuant to [§156-4(7)] of the Regulation shall 
+be made by a member’s inputting all matters in each of the following subparagraphs through 
+member derivatives system. Provided that, in the case where a member reports itself as a high-
+speed algorithmic trader, matters in subparagraphs 1 and 4 shall be excluded: 
+
+    1. Matters concerning the fulfilment of the requirement in each subparagraph of [§156-4(1)] 
+
+of the Regulation; 
+
+165 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    2. Information about a customer or member as information that can identify the subject of 
+
+registration, such as mane or trade name; 
+
+    3. Application for registration in accordance with [Annex: Form 18]; 
+
+    4. Confirmation on inspection of registration information, etc. in accordance with [Annex: 
+
+Form 19]; and 
+
+    5. Other matters that the Exchange deems necessary. 
+
+(2)  In  the  case  where  there  is  a  change  in  the  matters  registered  or  reported  pursuant  to 
+paragraph  (1),  the  member  shall  input  the  changed  matter  through  the  member  derivatives 
+system without delay.   
+
+(3) “The requirements specified in the Enforcement Rules” in [§156-4(1)3] of the Regulation 
+shall refer to the requirement in each of the following subparagraphs: 
+
+1. The customer shall have a management system such as an internal control organization 
+and two (2) or more of professional personnel in order to efficiently manage risks that may 
+arise from high-speed algorithmic trading. Provided that, with regard to the risks that 
+occurs from high-speed algorithmic trading, any of the following items shall be deemed to 
+meet the relevant requirement: 
+
+        (a) When a member directly conducts risk management, and   
+
+        (b) Where a member judges that the customer can recognize, evaluate, monitor, and 
+
+control risks in a timely manner.   
+
+2. Other matters that the Exchange deems necessary for market management, etc. 
+
+(4) When a member registers or reports itself pursuant to paragraph (1), the Exchange shall 
+process it without delay. In such case, the Exchange may ask the member to supplement if there 
+is a defect in the registration or report. 
+
+(5) The Exchange shall issue a trader registration number that can be commonly used in the 
+KOSPI  market,  KOSDAQ  market,  KONEX  market,  and  derivatives  market  for  each  high-
+speed algorithmic trader who has completed registration and reporting. In such case, the high-
+speed algorithmic trader can set the risk management number (referring to the two (2) digit 
+number set by the high-speed algorithmic trader to distinguish the range for applying the self-
+match  prevention  condition  and  the  mass  order  cancellation;  the  same  hereinafter)  to  the 
+relevant registration number.   
+
+(6) Pursuant to [§156-4(7)] of the Regulation, a member shall connect a high-speed algorithmic 
+trading number and a high-speed algorithmic trading account through the member derivatives 
+system and report it to the Exchange. 
+
+(7) The “case specified in the Enforcement Rules” in [§156-4(5)3] of the Regulation shall refer 
+to each of the following subparagraphs: 
+
+166 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    1. Where a customer takes out the ordering system from the member computer center, etc.; 
+
+or 
+
+    2. Where the Exchange recognizes that it is necessary for investor protection or the 
+
+stability of trading order in the market and notifies it to the member. 
+
+(8) In case where all members that have received orders from a high-speed algorithmic trader 
+cease to receive the orders pursuant to [§156-4(5)] of the Regulation, the Exchange may cancel 
+the registration of the high-speed algorithmic trader of the relevant customer. 
+
+[December 21, 2022] 
+
+§164-7. Special Cases for Registration of High-speed Algorithmic Trader 
+
+(1) In the case where a customer or a member completes the registration or reporting of a high-
+speed  algorithmic  trader  in  accordance  with  any  of  the  regulations  of  the  KOSPI  market, 
+KOSDAQ market, or KONEX market operated by the Exchange, the registration or reporting 
+is also deemed to have been completed in the derivatives market. 
+
+(2) In the case where multiple customers of a member satisfy all of the following subparagraphs, 
+the member can collectively register them as high-speed algorithmic traders. In such case, the 
+Exchange may issue a single trader registration number that can be jointly used by the relevant 
+customers to a specific customer: 
+
+    1. The customer shall be an affiliated corporation (including a foreign corporation 
+
+incorporated under foreign laws and regulations) of a specific customer; 
+
+2. The customer and the affiliated corporation shall use the same ordering system; and 
+
+3. The member shall verify whether the registration requirements stated in [§156-4(1)] of 
+the Regulation are met for all of the multiple customers. 
+
+[December 21, 2022] 
+
+§164-8. High-speed Algorithmic Trading through Multiple Members 
+
+In case where a member intends to receiver orders for high-speed algorithmic trading from a 
+customer who has completed the registration as a high-speed algorithmic trader through other 
+members,  the  member  shall  apply  for  the  right  to  use  the  trader  registration  number  of  the 
+relevant customer to the Exchange in advance. In such cases, the latter part of [§156-4(1)] of 
+the  Regulation  and  [§164-6(1)  (excluding  subparagraph  3)  through  (4)  and  (6)]  of  these 
+Enforcement Rules shall apply mutatis mutandis to the relevant application.     
+
+[December 21, 2022] 
+
+§164-9. Member’s Obligation to Manage High-speed Algorithmic Trading 
+
+167 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) Pursuant to [§156-5(1)] of the Regulation, a member shall inspect electronic system in order 
+to verify whether the electronic systems including ordering system, etc. used by a customer has 
+sufficient  stability  and adequacy to  carry out  high-speed  algorithmic trading  as specified in 
+each of the following subparagraphs: 
+
+    1. Matters concerning inspection of electronic system, etc. related to the registration stated 
+in [§156-4] of the Regulation; A member shall prepare the standards and procedures for 
+electronic system inspection, conduct the inspection of the electronic system thoroughly 
+through the linkage tests with trade ordering system by the customer before applying for 
+the registration, and file the results with the Exchange; 
+
+    2. Matters concerning regular inspection: A member shall inspect the connection with the 
+customer’s electronic system on a regular basis every year. Provided that, if the member 
+conducted the inspection on a timely basis due to the change of electronic system, etc. 
+during the relevant year, it shall be deemed that the inspection pursuant to the main clause 
+is completed and   
+
+    3. Other matters that the Exchange deems necessary for the stable operation of the 
+
+electronic system, etc. 
+
+(3) A member shall establish appropriate internal control mechanism for the management of 
+risks and the prevention of financial accidents related to the high-speed algorithmic trading 
+of customers as specified in each of following subparagraphs: 
+
+    1. Matters concerning the granting of order limits: A member shall grant an appropriate 
+
+order limit by evaluating the financial stability, credit rating, etc. and check the adequacy 
+of the relevant limit on the regular basis; 
+
+    2. Matters concerning the monitoring of trades: A member shall monitor and supervise 
+whether a customer complies with relevant regulations and internal control standards 
+through the monitoring of high-speed algorithmic trading; and 
+
+    3. Matters concerning the response to accidents and failures: A member shall prepare 
+appropriate control and response system including manuals to effectively cope with 
+accidents or failures related to high-speed algorithmic trading of customers and minimize 
+damage.   
+
+(3)  With  respect  to  the  request  for  submitting  materials  pursuant  to  [§156-5(2)]  of  the 
+Regulation, a member shall record and maintain the following materials for 10 years and submit 
+them if the Exchange requests for the market management, etc. 
+
+    1. Materials on the registration of high-speed algorithmic traders and their trades; and 
+
+    2. Results of inspection and supervision conducted pursuant to paragraphs (1) and (2) and 
+
+related materials. 
+
+[December 22, 2022] 
+
+168 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§164-10. Methods to Apply for Cancellation of Disconnected Quotations, etc. 
+
+(1) The “case where it is stipulated in the Enforcement Rules” in [§156-6(1)] of the Regulation 
+shall refer to the case where, as a case in which the connection between the member system 
+and the Exchange system is disconnected during the regular trading session or the night trading 
+session and electronic transmission and reception does not occur, there is a determination in 
+advance between the member applying for the cancellation of disconnected quotations and the 
+Exchange. (Amended on May 29, 2025) 
+
+(2)  Pursuant  to  [§156-6(2)]  of  the  Regulation,  the  range  of  cancellation  of  disconnected 
+quotations  shall  be  the  number  (excluding  the  number  changed  or  cancelled  through  other 
+sessions) of quotations not executed among quotations submitted through the session requested 
+in advance pursuant to paragraph (3).   
+
+(3)  Pursuant  to  [§156-6(2)]  of  the  Regulation,  the  methods  to  apply  for  the  cancellation  of 
+disconnected quotations and for the termination thereof shall be as specified in [§8(5)] of the 
+Guidelines for Connection, etc. of Member System. 
+
+(4) The Exchange may not apply the cancellation of disconnection quotations in case of system 
+failure or other cases where it deems necessary for market management. 
+
+[December 21, 2022] 
+
+§165. [Deleted on December 28, 2011] 
+
+§166. Matters to Be Notified to Members 
+
+(1) Pursuant to [§161] of the Regulation, the Exchange shall notify the members the matters 
+falling under any of the following subparagraphs: 
+
+1. The Regulation, these Enforcement Rules and other matters about the establishment and 
+abolition of the trading rules and regulations;   
+
+2.  Matters  about  the  amendments  and  measures  taken  on  the  Regulation  and  this 
+Enforcement Rule; and 
+
+3. Any other matter that the Exchange deems necessary. 
+
+(2) Notification pursuant to paragraph (1) shall be sent through any of the following methods: 
+
+1. By posting on the electronic information delivery media operated by the Exchange: 
+
+2. By posting on the information devices of the information service providers; and   
+
+3. By sending a written document. 
+
+169 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PART VII. SUPPLEMENTARY PROVISIONS 
+
+§167. [Deleted on December 18, 2012] 
+
+§168. Methods of Transferring Open Interests to Other Members, etc. 
+
+(1) The transaction agreement noted in [§166(4)] of the Regulation shall be concluded by way 
+of a bi-lateral transaction between a member who holds the open interests of a non-clearing 
+member  intending  to  transfer  the  open  interests  and  a  member  who  intends  to  acquire  the 
+relevant open interests, but the Exchange shall mediate  it. In such cases, [§113] shall apply 
+mutatis mutandis thereto. (Amended on August 28, 2014) 
+
+(2) Pursuant to [§166(4)] of the Regulation, a non-clearing member or a customer shall not 
+transfer the open interest held in a foreigner’s consolidated account to the derivatives account 
+opened with another member, which is not a foreigner’s consolidated account. [June 15, 2017] 
+
+(3) In relation to ‘other necessary matters related to the transfer of open interests’ in [§166(4)] 
+of  the  Regulation,  in  cases  where  the  members  carry  out  the  trade  specified  in  [§48(3)]  in 
+accordance  with  [§166(2)]  of  the  Regulation,  the  open  interests  may  be  transferred  by  the 
+methods in the following subparagraphs: 
+
+1. A member may transfer the open interests of the member, who has entered into an   
+agreement for opening of derivatives trading account, to another member; 
+
+2. A member may transfer the open interests of his/her proprietary account to another   
+member; and   
+
+3. A member may transfer the open interests of the member, who has entered into an   
+agreement for opening of derivatives trading account, to his/her own proprietary account. 
+
+[September 3, 2020] 
+
+§168-2. Methods of Taking over Open Interests 
+
+(1) In cases where a member takes over the open interests of customer as proprietary account 
+trades  pursuant  to  [§166-2(2)]  of  the  Regulation,  the  takeover  price  shall  be  the  price 
+determined by the negotiation between the member and customer, which is within the price 
+range for the relevant negotiated FLEX trade pursuant to [§72-6].   
+
+(2) Pursuant to [§166-2(2)] of the Regulation, by reaching an agreement before accepting the 
+entrustment  of  negotiated  FLEX  trade  of  customer,  in  cases  where  there  is  an  unfulfilled 
+settlement obligation by the customer, the member may enter into an agreement to take over 
+the open interests of the relevant customer as proprietary account trades in a form of negotiated 
+FLEX trade from the trading day following the trading day on which the settlement default has 
+occurred. In such cases, the price of negotiated FLEX trade shall be the price closest to the 
+settlement price of the immediately preceding trading day, which is within the price range noted 
+in the proviso to paragraph (1). (Amended on May 29, 2025) 
+
+170 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[August 21, 2009]   
+
+§169. Notification Period of Guidelines for Brokerage Commission Collection 
+
+“Time period specified in the Enforcement Rules” in [§167(3)] of the Regulation shall be the 
+period  of  seven  (7)  business  days  from  the  effective  day  of  the  brokerage  commission 
+collection  guideline.  Provided  that,  in  cases  where  the  brokerage  commission  per  contract 
+resulting from the option exercise exceeds the amount determined by multiplying the deemed 
+value of option exercise reported for the relevant product by multiplier, the period of seven (7) 
+business  days  before  the  effective  day  of  the  brokerage  commission  collection  guideline. 
+(Amended on August 28, 2014) (Wholly amended on July 26, 2011; May 29, 2025) 
+
+§170. Exceptions to Settlement Methods in Case of Merger between Members 
+
+(1) Notwithstanding [Annex 6] under [§48(5)], when the Exchange deems that it is unavoidable 
+for  a  member  to  use  the  ID  number  issued  before  the  merger  because  of  a  delay  in  the 
+integration of the member derivatives systems following the merger (including the cases that 
+are equivalent to merger; the same hereinafter in this Article) between members, such members 
+may input the quotations through the member ID numbers given before the merger until the 
+date determined by the Exchange. 
+
+(2) The Exchange shall, when the trades have been executed after inputting quotations through 
+each member’s ID number pursuant to paragraph (1), notify the details of executed trades for 
+each of the relevant ID number.   
+
+(3) Notwithstanding [§110] and [§111], in cases where the quotations were inputted and trading 
+details were notified for each of member ID number pursuant to paragraphs (1) and (2), the 
+Exchange  may  calculate  the  settlement  amount  for  each  clearing  member  ID  and  make 
+settlement accordingly. 
+
+§171. Exceptions to Additional Deposit Subsequent to Change of Substitute Prices, etc. 
+
+(1) In cases where an additional customer margin is resulted in because of the change of the 
+base price (including such cases as the change of interval value of customer margin caused by 
+ex-dividend, etc.: hereinafter the same in this Article) of substitute securities pursuant to the 
+provisos to subparagraphs 2 and 3 of [§124] or change of basic rate, assessment rate, etc. of 
+foreign  currency  pursuant  to  [§92(4)  and  §123(4)]  or  the  change  of  base  market  price, 
+assessment rate, etc. of foreign securities pursuant to [§92-2(6) and §123-2(5)], the member 
+shall notify the customer of such fact immediately and may collect the entire amount or a part 
+of the additional customer margins. (Amended on December 18, 2012; July 8, 2013; May 29, 
+2025) 
+
+(2) In cases where no additional customer margin is resulted in subsequent to the change of the 
+base price of substitute securities pursuant to the provisos to subparagraphs 2 and 3 of [§124] 
+or  change  of  basic  rate,  assessment  rate,  etc.  of  foreign  currency  pursuant  to  [§92(4)]  and 
+[§123(4)] or the change of base market price, assessment rate, etc. of foreign securities pursuant 
+to [§92-2(6)]and [§123-2(5)], the member shall notify the customer of such fact immediately 
+171 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and may not collect the entire amount or a part of the additional customer margin. (Amended 
+on December 18, 2012; July 8, 2013; May 29, 2025) 
+
+§172. Public Opinion Gathering 
+
+Public  opinion  gathering  pursuant  to  [§171-2]  of  the  Regulation  shall  be  governed  by  the 
+provisions  of  [§5]  of  the  Internal  Regulations  Management  Regulation  and  [§6]  of  the 
+Regulations Management Regulation. 
+
+[May 6, 2020] 
+
+172 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADDENDA 
+(January 24, 2005) 
+
+§1. Effective Date   
+
+These  Enforcement  Rules  shall  become  effective  on  the  date  when  the  Exchange  is 
+incorporated. Provided that the provisions of [§28], [§117] and [§118] that are concerned with 
+foreign  currency shall become  effective on October 2, 2006.  (Proviso amended on July  19, 
+2006) 
+
+§2. Effective Date of Provisions Relating to Foreign Currency   
+
+“Date stipulated in the Enforcement Rules” in [§1] of the Addenda to the Regulation shall be 
+the date specified in the proviso of [§1] of this Addenda.   
+
+§3. Abolition of the Former Enforcement Rules   
+
+The Enforcement Rules of the Business Regulation of the Korea Futures Exchange shall be 
+abolished on the date these Enforcement Rules is put into effect.   
+
+§4. Transitional Measures 
+
+Trading  of  futures  and  options,  which  was  conducted  in  accordance  with  the  Enforcement 
+Rules of the Business Regulation of the Korea Futures Exchange before these Enforcement 
+Rules  became  effective,  shall  be  construed  as  the  trades  executed  in  accordance  with  these 
+Enforcement Rules.   
+
+ADDEMDUM 
+(February 25, 2005) 
+
+This Enforcement Rule shall become effective on March 2, 2005.   
+
+ADDENDA 
+(September 16, 2005) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on September 26, 2005.   
+
+§2. Effective Date of the Futures Market Business Regulation 
+
+“Date  stipulated  in  the  Enforcement  Rules”  in  [§1]  of  the  Addenda  of  the  Futures  Market 
+Business Regulation (amended on July 22, 2005) shall be September 26, 2005.   
+
+§3.  Restriction  on  Input  of  Quotations  for  Single  Stock  Options  to  Be  Settled  by  Physical 
+Delivery 
+
+173 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pursuant to [§81] of these Enforcement Rules, notwithstanding [§1] of this Addenda, the input 
+of quotation for Single Stock Options to be settled by physical delivery pursuant to [§2] of 
+Addenda  of  the  Futures  Market  Business  Regulation  (amended  on  July  22,  2005)  shall  be 
+restricted from the day after these Enforcement Rules became effective (in case where it is a 
+market holiday, it shall be moved backward in a sequential order).   
+
+§4. Selection Date of Underlying Stocks   
+
+The date of the selection of underlying stocks pursuant to [§70(1)] of these Enforcement Rules 
+shall be May 2, 2005.   
+
+§5. Exceptions on the Last Trading Day and Trading Period for the Single Stock Options to Be 
+Settled by Cash Payment 
+
+(1) The first trading day of the Single Stock Options settled by cash payment pursuant to [§4] 
+of Addenda of the Futures Market Business Regulation (amended on July 22, 2005) shall be 
+the date specified in [§2] of this Addenda.   
+
+(2) The last trading days of the four expiration month contracts of Single Stock Options to be 
+settled by cash payment which begin trading on the date pursuant to [§1] of this Addenda shall 
+be the second Thursdays of each of the following months (in case where it is a market holiday, 
+it shall be moved forward in a sequential order): 
+
+1. October 2005;   
+2. November 2005;   
+3. December 2005; and   
+4. March 2006.   
+
+(3) The trading periods of four expiration month contracts of Single Stock Options to be settled 
+by cash payment which begin trading on the date pursuant to [§1] of this Addenda shall be the 
+period from the first trading day to the last trading day of each of the relevant expiration month 
+contract specified in [§2] of this Addenda.   
+
+§6. Exceptions to the Calculation of the Base Price of Single Stock Options to Be Settled by 
+Cash Payment for the First Trading Day 
+
+The provisions of [§91(1)1b] of these Enforcement Rules shall apply mutatis mutandis to the 
+calculation of the base price of the Single Stock Options to be settled by cash payment for the 
+first  trading  day.  In  such  cases,  the  volatility  in  Footnote  5  shall  be  the  annual  volatility 
+calculated by the Exchange, which is based on the price of underlying stocks over a period of 
+91 days immediately before the first trading day (number of market holidays for underlying 
+stocks are excluded from counting of the day, and in case where the underlying stocks were 
+traded for a period of less than 91 days, the number of the relevant trading days is used).   
+
+ADDENDA 
+(November 2, 2005) 
+
+174 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on November 7, 2005. Provided that [§2] of 
+this Addenda shall become effective on the amendment date of these Enforcement Rules (i.e., 
+November 2, 2005).   
+
+§2. Amendment of Enforcement Rules of the Futures Market Business Regulation 
+
+The Enforcement Rules of the Futures Market Business Regulation shall be amended as follows 
+on the day (in the case of the market holiday, it shall be deferred to the next business day in a 
+sequential  order)  after  the  last  trading  day  of  KOSTAR50  futures  or  KOSTAR50  options 
+expiration months that arrives very last:   
+The each of the proviso of [§6(2)] and the provisions of [§8(1)5] shall be deleted. 
+
+The provisions of [§9(2)] shall be deleted and the “KOSTAR50 options and the options on 3-
+year  KTB  Futures”  in  the  proviso  to  [9(5)]  shall  be  deemed  “the  options  on  3-year  KTB 
+Futures”. 
+
+The provisions of [§12, §16(2), §17/1p, §18/2, §26(2)5 and §31(2)] shall be deleted. 
+
+“Member margin ratio (in the case of KOSTAR50, it shall be 1/2 of the member margin ratio; 
+the same hereinafter in this Paragraph)” in [§32(2)] shall be deemed “member margin ratio”. 
+
+The Section 6 (from [§56] to [§59]) and Section 7 ([§60] and [§61]) of Chapter V in Part II 
+shall be deleted.   
+
+“[§138(2), §147(2) and §197(2)] of the Regulation” in [§141(1)12] shall be deemed “[§197(2)] 
+of the Regulation” and [§197(27)] shall be deleted.   
+
+“2. KOSTAR50 Options (rounded to the nearest second decimal place)” in [Annex 3] shall be 
+deleted.   
+
+“2. KOSTAR50 Futures (rounded to the nearest second decimal place)” in [Annex 4] shall be 
+deleted.   
+
+[Annex 5] shall be the one attached herewith.   
+
+[Annex 7] shall be deleted.   
+
+ADDENDA 
+(December 16, 2005) 
+
+§1. Effective Date 
+
+This Enforcement Rule shall become effective on December 19, 2005.   
+
+§2. Exceptions to the First Trading Day and Trading Period 
+
+175 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On the first trading day (referring to the effective day pursuant to [§1] of this Addenda; the 
+same hereinafter) of the Single Stock Options relating to stocks of Hana Financial Group Co. 
+Ltd., the trading of the four (4) expiration month contracts of Single Stock Options, of which 
+the last trading day is the second Thursday (in the case of the market holiday, it shall be moved 
+forward in sequential order) of each of the following months shall commerce: 
+
+1. January 2006;   
+2. February 2006; 
+3. March 2006; and 
+4. June 2006   
+
+§3. Exceptions to the Calculation of Base Price on First Trading Day 
+
+The provisions of [§92(1)1] of these Enforcement Rules shall apply mutatis mutandis to the 
+calculation of base price for the first trading day. In such cases, the volatility in Note 5 shall be 
+the annual volatility of underlying stock that is calculated by the Exchange on the basis of the 
+price of Hana Financial Group Co. Ltd. During the period of 91 days (the market holidays are 
+not included in counting 91 days; in case where the number of trading days of underlying stock 
+is less than 91 days, use that number of trading day) prior to the first trading day. 
+
+ADDEMDUM 
+(March 8, 2006) 
+
+These  Enforcement  Rules  shall  become  effective  on  March  20,  2006.  Provided  that  the 
+amended provisions of [Annex 9-2] and [Annex 11] shall become effective on March 10, 2006.   
+
+ADDEMDUM 
+(March 17, 2006) 
+
+These Enforcement Rules shall become effective on March 17, 2006. 
+
+ADDEMDUM 
+(May 22, 2006) 
+
+These Enforcement Rules shall become effective on May 26, 2006. 
+
+ADDEMDUM 
+(July 19, 2006) 
+
+These Enforcement Rules shall become effective on October 2, 2006. 
+
+ADDENDA 
+(November 13, 2006) 
+
+176 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on December 18, 2006. 
+
+§2. Effective Date of the Futures Market Business Regulation 
+
+“The  date  stipulated  in  the  Enforcement  Rules”  in  [§196]  of  the  Futures  Market  Business 
+Regulation (amended on October 27, 2006) shall be December 18, 2006.   
+
+§3.  Exceptions  to  the  Market  Making  Period  for  the  Product  Designated  as  low  liquidity 
+product 
+
+Notwithstanding  the  amended  provisions  of  [§2-3(3)]  of  these  Enforcement  Rules,  when 
+calculating the market making period of products tracking the same underlying assets that have 
+been designated as low liquidity product as of December 18, 2006, the market making period 
+shall begin on December 18, 2006 and ends on the day (if it is a market closing day, it shall be 
+moved forward in sequential order) before the day the product is designated as product warned 
+for delisting.   
+
+§4. Exceptions to the Period of Agreement for Market Making for the Product designated as 
+low liquidity product 
+
+(1)  Notwithstanding  the  amended  provisions  of  [§2-3(3)]  of  these  Enforcement  Rules,  the 
+period of market making in the first quarter for the products tracking the same underlying assets, 
+which have been designated as low liquidity product as of December 18, 2006, shall be from 
+December 18, 2006 to the March 31, 2007.   
+
+(2) Notwithstanding the amended provisions of [§2-4(3)] of these Enforcement Rules, the first 
+trading day in February and March 2007 may be chosen as the effective date of the agreement 
+for market making. In such cases, the market making period for the first quarter shall be June 
+30, 2007. 
+
+§5. Abolition of Operational Guidelines for Market Maker System 
+
+The Guiding Principle 11, the Operational Guidelines for Market Maker System (established 
+on April 6, 2005), shall be abolished as the Enforcement Rules becomes effective.   
+
+ADDENDUM 
+(February 5, 2007) 
+
+These Enforcement Rules shall become effective on February 7, 2007. 
+
+ADDENDUM (February 9, 2007) 
+
+These Enforcement Rules shall become effective on February 26, 2007. 
+
+177 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADDENDUM (March 23, 2007) 
+
+These Enforcement Rules shall become effective on March 27, 2007. 
+
+ADDENDA 
+(May 3, 2007) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on August 27, 2007. 
+
+§2. Effective Date of the Futures Market Business Regulation 
+
+“The date stipulated in the Enforcement Rules”  noted [§1] of Addenda of in the Regulation 
+(amended on January 19, 2007) shall be August 27, 2007.   
+
+§3.  Abolition  of  the  Principles  of  Decision-making  on  Matters  Delegated  Pursuant  to  the 
+Futures Market Business Regulation and the Enforcement Rules Thereof. 
+
+The Guiding Principle 72, “the Principles of Decision-making on Matters Delegated Pursuant 
+to the Futures Market Business Regulation and the Enforcement Rules Thereof” (amended on 
+February  5,  2007),  shall  be  abolished  on  the  day  when  these  Enforcement  Rules  become 
+effective. 
+
+ADDENDUM (May 28, 2007) 
+
+These Enforcement Rules shall become effective on May 29, 2007. 
+
+ADDENDUM (July 24, 2007) 
+
+These Enforcement Rules shall become effective on July 26, 2007. 
+
+ADDENDUM (August 13, 2007) 
+
+These Enforcement Rules shall become effective on August 27, 2007. 
+
+ADDENDUM (November 16, 2007) 
+
+These Enforcement Rules shall become effective on November 26, 2007. 
+
+ADDENDUM (December 21, 2007) 
+
+These Enforcement Rules shall become effective on December 26, 2007. 
+
+178 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADDENDA 
+(February 21, 2008) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on February 25, 2008. 
+
+§2. First Trading Date 
+
+“The date stipulated in the Enforcement Rules” in [§2(2)] of Addenda of the Futures Market 
+Business Regulation (Amended on December 21, 2007) shall be February 25, 2008.   
+
+§3. Exceptions to the Commencement of Trading and Trading Period of 10-year KTB Futures   
+
+Pursuant  to  [§2(2)]  of  Addenda  of  the  Futures  Market  Business  Regulation  (Amended  on 
+December 21, 2007), on the first trading day of 10-year KTB Futures, the trading of three (3) 
+delivery month contracts of 10-year KTB Futures, of which the last trading days shall be the 
+third Wednesday (shall move forward sequentially, if the day is market holiday) of each of the 
+following month, shall commence:   
+
+1. June 2008; 
+2. September 2008; and 
+3. December 2008. 
+
+ADDENDA 
+(April 25, 2008) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on May 6, 2008. 
+
+§2. First Trading Day of Single Stock Futures 
+
+“The date stipulated in the Enforcement Rules” in [§3(1)] of Addenda of the Futures Market 
+Business Regulation (Amended on December 21, 2007) shall be May 6, 2008.   
+
+§3. Selection Day of Underlying Stock of Single Stock Futures 
+
+Pursuant to the amended provisions of [§7-2(1)] of these Enforcement Rules, the selection day 
+of underlying stocks of Single Stock Futures shall be June 30, 2007.   
+
+§4. Exceptions to the First Trading Day of Single Stock Futures 
+
+Pursuant  to  [§3(2)]  of  Addenda  of  the  Futures  Market  Business  Regulation  (Amended  on 
+December 21, 2007), the trading of four (4) delivery month contracts of Single Stock Futures 
+of which the last trading  day is  the second Thursday of each of the following months shall 
+179 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+begin on the first trading day of the Single Stock Futures:   
+
+1. June 2008; 
+2. September 2008; 
+3. December 2008; and 
+4. March 2009. 
+
+§5. Exceptions to the Position Limit of Open Interests of Single Stock Futures 
+
+Notwithstanding [§103-2(2)] of these Enforcement Rules, the position limit of open interests 
+of Single Stock Futures that is made public on the trade first trading day noted in [§2] of this 
+Addenda shall apply from the publication date.   
+
+§6. Exceptions to the first trading day of Single Stock Options   
+
+On  the  first  trading  day  (referring  to  the  Effective  date  noted  in  [§1]  of  this  Addenda)  of 
+Shinsegae,  LG  Display  and  WOORIFINANCIAL,  the  trading  of  four  (4)  expiration  month 
+contracts, of which the last trading day is the second Thursday (if it is a market holiday, it shall 
+be moved forward in sequential order) of each of the following months, shall begin:   
+
+1. May 2008; 
+2. June 2008; 
+3. July 2008; and 
+4. September 2008. 
+
+§7.  Exceptions  to  the  Calculation  of  Base  Price  for  the  First  Trading  Day  of  Single  Stock 
+Options 
+
+The provisions of [§46(1)1] of these Enforcement Rules shall apply mutatis mutandis to the 
+calculation of base price for the first trading day of Single Stock Options specified in [§6] of 
+this Addenda. In such cases, the volatility in Note 4 shall be the annual volatility of underlying 
+stock, which is calculated by the Exchange on the basis of the price of underlying stocks during 
+the period of ninety-one (91) days (the market holidays are not included in counting the days) 
+prior to the first trading day. 
+
+ADDENDA 
+(July 8, 2008) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on July 21, 2008. 
+
+§2. Effective Date of the Futures Market Business Regulation 
+
+“The date stipulated in the Enforcement Rules” in [§1] of the Addenda of the Futures Market 
+Business Regulation (amended on June 27, 2008) shall refer to July 21, 2008.   
+
+180 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§3. Exceptions to the first Trading Day of Lean Hog Futures 
+
+Pursuant to [§2] of Addenda of the Futures Market Business Regulation (Amended on June 27, 
+2008), the trading of six (6) delivery month contracts of Lean Hog Futures, of which the last 
+trading day is the third Wednesday of each of the following months, shall begin on the first 
+trading day of the Lean Hog Futures:   
+
+1. August 2008; 
+2. September 2008; 
+3. October 2008;   
+4. November 2008; 
+5. December 2008; and 
+6. January 2009. 
+
+ADDENDA 
+(October 9, 2008) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on October 13, 2008. 
+
+§2. Exceptions to the First Trading Day of Single Stock Futures 
+
+On the first trading day of KB Financial Group (referring to the effective date noted in [§1] of 
+this  Addenda),  the  trading  of  four  (4)  delivery  month  contracts  of  Single  Stock  Futures,  of 
+which the last trading day is the second Thursday (if the day is a market holiday, it shall be 
+moved forward sequentially) of each month noted in the following subparagraphs, shall begin: 
+
+1.  December 2008; 
+2.  March 2009; 
+3.  June 2009; and 
+4.  September 2009. 
+
+§3. Exceptions to the First Trading Day of Single Stock Options 
+
+On the first trading day of KB Financial Group (referring to the effective date noted in [§1] of 
+this Addenda), the trading of four (4) expiration month contracts of Single Stock Options, of 
+which the last trading day is the second Thursday (if the day is a market holiday, it shall be 
+moved forward sequentially) of each month noted in the following subparagraphs, shall begin: 
+
+1.  November 2008; 
+2.  December 2008; 
+3.  January 2009; and 
+4.  March 2009. 
+
+§4. Exceptions to the Calculation of Base Price for First Trading Day of Single Stock Options 
+181 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The provisions of [§46(1)1] of these Enforcement Rules shall apply mutatis mutandis to the 
+calculation of base price for the first trading day of Single Stock Options specified in [§3] of 
+this Addenda. In such cases, the volatility in Note 4 of [Annex 13] shall be the annual volatility 
+of underlying stock, which is calculated by the Exchange on the basis of the price of underlying 
+stocks  during  the  period  of  ninety-one  (91)  days  (the  market  holidays  are  not  included  in 
+counting the days) prior to the first trading day. 
+
+ADDENDA 
+(January20, 2009) 
+
+§1. Effective Date 
+
+These  Enforcement  Rules  shall  become  effective  on  February4,  2009.Provided  that  the 
+provisions  that  are  concerned  with  the  amount  of  cash  customer  margin  for  interest  rate 
+derivatives, currency derivatives and commodity derivatives and the provisions of [§152] shall 
+become effective on April 27, 2009, while taking into consideration the time required for the 
+development of programs relating to the member derivatives system, etc. 
+
+§2. Exceptions to the Deposit of Cash Customer Margin 
+
+The provisions that are concerned with the deposit of cash customer margin for interest rate 
+derivatives,  currency  derivatives  and  commodity  derivatives  shall  apply  from  the  market 
+closing time of the day before [§1p] of this Addenda is put into effect. 
+
+§3. Transitional Measures for Calculation of Cash Customer Margin 
+
+Notwithstanding [§145(2)] of these Enforcement Rules, in the case of the derivatives accounts 
+through  which  the  customers  trade  only  3-year  KTB  Futures,  5-year  KTB  Futures,  10-year 
+KTB Futures, Monetary Stabilization Bond Futures, USD Futures, JPY Futures, EUR Futures, 
+USD Options, Gold Futures, Lean Hog Futures and USD FLEX Futures, the amount of upfront 
+initial cash customer margin and ex-post cash customer margin shall be calculated by applying 
+1/12  until  October  26,  2009  and  1/6  until  June  28,  2010  as  the  Minimum  rate  of  the  cash 
+customer margin  rate and the cash rate for futures noted in  [§145(2)] of these Enforcement 
+Rules. In such cases, the cash customer margin rate and the cash rate for futures shall apply 
+from the market closing time of the day before the effective date of the change. (Amended on 
+August 21, 2009; April 19, 2010) 
+
+§4. Exceptions to the Changes of Margin Rate for Currency Derivatives 
+
+When the trading session of trading day immediately before the effective date noted in [§1m] 
+of this Addenda is closed, the upper and lower limit prices, member margin, customer margin 
+and additional customer margin, etc. for currency products shall be calculated pursuant to the 
+amended provisions of the Enforcement Rules. 
+
+§5. Abolishment of Futures Market Brokerage Contract Rule 
+
+The Enforcement Rules of Futures Market Brokerage Contract Rule shall be abolished on the 
+
+182 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+effective date noted in [§1m] of this Addenda. 
+
+§6. Transitional Measures Related to Abolishment of Futures Market Brokerage Contract Rule 
+
+With  regard  to  the  matters  such  as  the  entrustment  of  futures  and  options  trades  that  were 
+carried out in accordance with the Enforcement Rules of Futures Market Brokerage Contract 
+Rule  before  the  effective  date  of  these  Enforcement  Rules  shall  be  regarded  as  the  matters 
+undertaken pursuant to these Enforcement Rules. 
+
+ADDENDUM 
+(March 18, 2009) 
+
+These Enforcement Rules shall become effective on March 23, 2009. 
+
+ADDENDA 
+(April 6, 2009) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on April 27, 2009. 
+
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+“The date stipulated in the Enforcement Rules” noted in [§1] of the Addenda of the Derivatives 
+Market  Business  Regulation  amended  on  March  4,  2009,  which  is  related  to  the  amended 
+provisions of [§44 and §45] of Derivatives Market Business Regulation, shall refer to April 27, 
+2009.   
+
+§3. Exceptions to the First Trading Date of Currency Futures 
+
+Pursuant to [§3] of the Addenda of the Derivatives Market Business Regulation amended on 
+March 4, 2009, the trading of two (2) delivery month contracts of currency futures, of which 
+the last trading day is the third Monday (if it is a market holiday, it shall be moved forward 
+sequentially) of each month noted in the following subparagraphs shall begin on the effective 
+date of these Enforcement Rules:   
+
+1. August 2009; and 
+2. October 2009. 
+
+ADDENDA 
+(August 21, 2009) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on August 31, 2009. 
+
+183 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+“The date stipulated in the Enforcement Rules” noted in [§1] of the Addenda of the Derivatives 
+Market  Business  Regulation  amended  on  March  4,  2009  shall  refer  to  August  31,  2009 
+(excluding  the  amended  provisions  of  [§44  and  §45]  the  Derivatives  Market  Business 
+Regulation).   
+
+ADDENDA 
+(October 26, 2009) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on November 16, 2009. 
+
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+“The date stipulated in the Enforcement Rules” noted in the Addenda of the Derivatives Market 
+Business Regulation amended on September 23, 2009 shall refer to November 16, 2009. 
+
+ADDENDA 
+(December 4, 2009) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on December 14, 2009. 
+
+§2. Selection Date of Underlying Stock of Single Stock Futures   
+
+In  accordance  with  the  amended  provisions  of  [§8(1)]  and  [Annex  2],  the  selection  date  of 
+underlying stocks of Single Stock Futures newly added shall be October 30, 2009.   
+
+§3. Exceptions to the First Trading Day of Single Stock Futures   
+
+In  accordance  with  the  amended  provisions  of  [§8(1)]  and  [Annex  2],  trading  of  four  (4) 
+delivery month contracts of Single Stock Futures newly added, of which the last trading day is 
+the second Thursday (if it is a market holiday, it shall be moved forward sequentially) of each 
+month noted in the following subparagraphs shall begin on the first trading day (referring to 
+the effective date of these Enforcement Rules noted in [§1] of this Addenda):   
+
+1. March 2010;   
+2. June 2010. 
+3. September 2010, and 
+4. December 2010.   
+
+ADDENDUM 
+(December 30, 2009) 
+
+These  Enforcement  Rules  shall  become  effective  on  December  31,  2009.  Provided  that  the 
+
+184 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+amended provisions of [§112-2 and §112-4] shall be put into effect on February 1, 2010.   
+
+ADDENDA 
+(April 19, 2010) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on April 20, 2010. Provided that the amended 
+provisions of [§148(1)] shall become effective on June 28, 2010. 
+
+§2. Exceptions in change of cash ratio for futures at the time of depositing ex-post cash 
+customer margin 
+
+When  calculating  the  ex-post  cash  customer  margin,  the  amended  provision  of  [§148(1)] 
+concerning the Minimum cash ratio for futures shall apply after the market closing on the day 
+before the effective date noted in [§1] of this Addenda (dated April 19, 2010). 
+
+ADDENDA 
+(June 18, 2010) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on June 18, 2010. Provided that the amended 
+provisions of [§60 and §61] shall become effective on July 5, 2010. 
+
+§2. Transitional measures subsequent to extension of market making period 
+
+The  market  making  period  of  products,  for  which  the  market  maker  has  entered  into  the 
+agreement for market making with the Exchange pursuant to [§82(1)] before the effective date 
+of these Enforcement Rules, shall deem to be twelve (12) quarters.   
+
+ADDENDUM 
+(June 23, 2010) 
+
+These Enforcement Rules shall become effective on June 24, 2010. 
+
+ADDENDA 
+(July 30, 2010) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on September 13, 2010. 
+
+§2. First Trading day of Mini-gold Futures 
+
+185 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“The date specified in the Enforcement Rules” noted in [§1] of Addenda of the Derivatives 
+Market Business Regulation (dated June 23, 2010) shall refer to September 13, 2010. 
+
+§3. Exceptions to First Trading Day of Mini-gold Futures 
+
+Pursuant to [§2] of Addenda of the Derivatives Market Business Regulation (dated June 23, 
+2010), trading of seven (7) Mini-gold Futures whose last trading day is the 3rd Wednesday of 
+the months noted in each of the following subparagraphs shall begin on the first trading day: 
+
+1. November 2010; 
+2. December 2010; 
+3. February 2011; 
+4. April 2011; 
+5. June 2011; 
+6. August 2011; and 
+7. October 2011. 
+
+ADDENDUM 
+(August 13, 2010) 
+
+These Enforcement Rules shall become effective on August 16, 2010.   
+
+ADDENDA 
+(August 25, 2010) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on August 30, 2010.   
+
+§2. Transitional Measures with Regard to Estimated Details of Request for Pre-hours 
+Negotiated Trade 
+
+The agreement that the Eurex and Exchange signed on December 15, 2008 and October 7, 2009 
+shall deem to be the agreement pursuant to [§72-11(1) and §72-13(5)] of these Enforcement 
+Rules. 
+
+ADDENDUM 
+(September 6, 2010) 
+
+These Enforcement Rules shall become effective on September 13, 2010. 
+
+ADDENDA 
+(September 13, 2010) 
+
+§1. Effective Date 
+
+186 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These Enforcement Rules shall become effective on October 11, 2010.   
+
+§2. Exceptions to Change of Margin Rate   
+
+When the regular session of the day before the effective day pursuant to [§1] of this Addenda 
+(September 13, 2010) has been closed, the customer margin, member margin and additional 
+customer  margin,  etc.  shall  be  determined  according  to  the  amended  provisions  of  these 
+Enforcement Rules.   
+
+ADDENDUM 
+(October 1, 2010) 
+
+These Enforcement Rules shall become effective on October 11, 2010.   
+
+ADDENDA 
+(October 20, 2010) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on October 25, 2010.   
+
+§2. Exceptions to Trading of 10-year KTB Futures Spread   
+
+Notwithstanding  the  amended  provisions  of  [§46(1)],  if  there  are  open  interests  of  delivery 
+month contract of 10-year KTB Futures as of the market closing time of the day before the 
+effective day of these Enforcement Rules, the former provisions of the Enforcement Rules shall 
+apply to the contracts of 10-year KTB Futures spreads.   
+
+§3. Exceptions to Restriction on Quotation Input for KTB Futures Spread Trade 
+
+In applying [§50/1], if each of delivery month contract of KTB Futures are classified as the 
+distinct  contract  according  to  the  difference  of  underlying  asset  noted  in  [§2(1)13]  of  the 
+Regulation, each of the nearest month contract next nearest month contract and farther month 
+contract shall be classified according to the relevant underlying asset.   
+
+§4. Transitional Measures for KTB Futures Trade 
+
+(1)  Notwithstanding  amended  provisions  of  [§21  through  §25,  §50/4,  §63,  §109,  §110(1), 
+§112-3/2, §153 and §158/1] of these Enforcement Rules, the amended provisions of [Annex 1], 
+[Annex 3], [Annex 6], [Annex 9], [Annex 10], [Annex 19], [Annex 19-2] and [Annex 20] and 
+[Annex: Form 1], the provisions of former Enforcement Rules, including the Annex and Form, 
+shall apply to the delivery month contract of KTB Futures that has accumulated an open interest 
+as of the market closing time of the day before the effective day of these Enforcement Rules. 
+
+(2) The amended provisions of [§21 through §25, §50/4, §63, §109, §110(1), §112-3/2, §153 
+and §158/1], amended provisions of [Annex 1], [Annex 3], [Annex 6], [Annex 9], [Annex 10], 
+
+187 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 19], [Annex 19-2] and [Annex 20] and [Annex: Form 1] of these Enforcement Rules 
+shall apply to the delivery month contract of KTB Futures that has not accumulated an open 
+interest as of the market closing time of the day before the effective day of these Enforcement 
+Rules, 
+
+ADDENDA 
+(November 12, 2010) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on November 29, 2010.   
+
+§2. Exceptions to the Assessment Rate of Substitute Securities 
+
+In applying these Enforcement Rules, the provisions of [§127-2 and §127-3] shall apply mutatis 
+mutandis to the determination of assessment rate of substitute securities of the quarter to which 
+the effective date of these Enforcement Rules belongs.   
+
+ADDENDUM 
+(December 10, 2010) 
+
+These  Enforcement  Rules  shall  become  effective  on  December  20,  2010.  Provided  that  the 
+amended provision of [§81] shall be put into effect on January 1, 2011. 
+
+ADDENDUM 
+(January 27, 2011) 
+
+These Enforcement Rules shall become effective on February 14, 2011.   
+
+ADDENDA 
+(January 31, 2011) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on March 7, 2011. Provided that the amended 
+provisions of [§128(4)] shall be put into effect on February 1, 2011 and the amended provisions 
+of [§122, §132. §132-2, §132-3 and §146] shall be put into effect on March 28, 2011. 
+
+§2.  Effective  Date  Specified  in  the  Enforcement  Rules  of  Derivatives  Market  Business 
+Regulation 
+
+The “date specified in the Enforcement Rules” noted in [§1] of the Addendum of the Regulation 
+(dated on January 26, 2011) in relation to the amendments of [§122, §124 and §154] shall refer 
+to  March  7,  2011  and  the  “date  specified  in  the  Enforcement  Rules”  noted  in  [§1]  of  the 
+Addendum of the Regulation (dated on January 26, 2011) in relation to the amended provisions 
+
+188 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+of [§5, §111, §132 and §133] shall refer to March 28, 2011. 
+
+ADDENDA 
+(March 23, 2011) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on April 4, 2011.   
+
+§2. Exceptions in Changing Margin Rate   
+
+When the regular session of the day before the effective date pursuant to [§1] of this Addendum 
+is  closed,  the  member  margin,  customer  margin  and  additional  customer  margin  shall  be 
+determined according to the amended provisions of these Enforcement Rules.   
+
+ADDENDUM 
+(April 21, 2011) 
+
+These Enforcement Rules shall become effective on May 3, 2011. Provided that the amended 
+provisions of [§50/7c] shall be put into effect on May 30, 2011.   
+
+ADDENDUM 
+(May 18, 2011) 
+
+These Enforcement Rules shall become effective on May 30, 2011.   
+
+ADDENDUM 
+(June 3, 2011) 
+
+These Enforcement Rules shall become effective on June 13, 2011.   
+
+ADDENDA 
+(June 22, 2011) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on July 1, 2011.   
+
+§2. Exceptions to Application 
+
+Provided that the amended provisions of [§82 and §90] shall also apply to the agreement for 
+market making that has been entered as of the effective date of these Enforcement Rules.   
+
+189 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADDENDUM 
+(July 26, 2011) 
+
+These Enforcement Rules shall become effective on August 1, 2011.   
+
+ADDENDA 
+(September 23, 2011) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on October 10, 2011.   
+
+§2. Exceptions to Change of Margin Rate 
+
+At the closing time of regular session on the day before the effective date pursuant to [§1] of 
+this Addenda, the member margin, customer margin, additional customer margin, etc. shall be 
+calculated in accordance with the stipulations of the amended Enforcement Rules.   
+
+ADDENDA 
+(October 10, 2011) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on October 17, 2011.   
+
+§2. Exceptions to Change of Margin Rate 
+
+At the closing time of regular session on the day before the effective date pursuant to [§1] of 
+this Addenda the member margin, customer margin, additional customer margin, etc. shall be 
+calculated in accordance with the stipulations of the amended Enforcement Rules. 
+
+ADDENDA 
+(October 20, 2011) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on October 31, 2011.   
+
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+With  regard  to  the  amended  provisions  of  [§88],  [§110-2],  [§124(1)2],  [§132],  and  [§134] 
+through [§137] of these Enforcement Rules, the “date stipulated in the Enforcement Rules” in 
+[§1] of ADDENDA (July 6, 2011) shall refer to October 31, 2011.   
+
+190 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADDENDUM 
+(November 17, 2011) 
+
+These Enforcement Rules shall become effective on November 21, 2011.   
+
+ADDENDA 
+(December 20, 2011) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on January 2, 2012.   
+
+§2. Exceptions to Change of Margin Rate 
+
+At the closing time of regular session on the day before the effective date pursuant to [§1] of 
+this Addenda, the member margin, customer margin, additional customer margin, etc. shall be 
+calculated in accordance with the stipulations of the amended Enforcement Rules. 
+
+ADDENDA 
+(December 28, 2011) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on April 2, 2012. Provided that the amended 
+provisions of [§48, §49-2, §50, and §165] shall be put into effect on December 29, 2011.   
+
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+The date specified in the Enforcement Rules that is noted in [§1] of Addenda (July 6, 2011) of 
+the  Derivatives  Market  Business  Regulation  shall  refer  to  the  date  noted  in  each  of  the 
+following subparagraphs:       
+
+1. December 29, 2011, in the case of the amended provisions of [§65 and §116]; and   
+
+2. April 2, 2012, in the case of the amended provisions of [§8-2, §110-2, §118 through 
+§122 and §160-2].   
+
+ADDENDA 
+(February 17, 2012) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on March 9, 2012. Provided that the amended 
+provisions of [§77] and [Annex: Form 4] shall be put into effect on April 16, 2012.   
+
+§2. Exceptions in Trading of Index Options     
+
+191 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notwithstanding [§1m] of this Addenda, the provisions of former version of the Enforcement 
+Rules shall apply to the expiry month contracts of index options noted in each of the following 
+subparagraphs:       
+
+1. April 2012; 
+2. May 2012; and 
+3. June 2012; 
+
+§3. Effective Date of Derivatives Market Business Regulation 
+
+The “date specified in the Enforcement Rules” in [§1 (however, of the amended provisions of 
+[§81-2 and §162] of the Regulation, the request for adjustment of transaction error made by 
+investor shall be excluded)] and [§2] of the ADDENDA of the Derivatives Market Business 
+Regulation (Regulation No. 800) shall refer to March 9, 2012. 
+
+§4. Exceptions to Change of Cash Deposit Requirement Ratio and Cash Ratio for futures 
+
+When the regular session on the day before the effective date pursuant to [§1] of this Addenda 
+is  closed,  the  member  shall  calculate  the  cash  deposit  requirement,  additional  cash  deposit 
+requirement, etc. in accordance with the provisions of the amended Enforcement Rules   
+
+ADDENDUM 
+(May 9, 2012) 
+
+These Enforcement Rules shall become effective on June 25, 2012. 
+
+ADDENDUM 
+(July 3, 2012) 
+
+These Enforcement Rules shall become effective on July 16, 2012. 
+
+ADDENDUM 
+(September 26, 2012) 
+
+These Enforcement Rules shall become effective on October 2, 2012. 
+
+ADDENDUM 
+(December 18, 2012) 
+
+These  Enforcement  Rules  shall  become  effective  on  March  18,  2013.  Provided  that  the 
+amended provisions of [§167] shall be put into effect on December 24, 2012, and the amended 
+provisions of [§81, §82, §84 and §90] shall be put into effect on April 1, 2013.   
+
+192 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADDENDUM 
+(March 19, 2013) 
+
+These Enforcement Rules shall become effective on April 1, 2013.   
+
+ADDENDUM 
+(May 9, 2013) 
+
+These Enforcement Rules shall become effective on May 27, 2013. Provided that the amended 
+provisions of [§74] shall be put into effect on the effective date of the KOSPI Market Listing 
+Regulation amended on February 22, 2013.   
+
+ADDENDUM 
+(June 24, 2013) 
+
+These Enforcement Rules shall become effective on July 1, 2013.   
+
+ADDENDA 
+(July 8, 2013) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on July 9, 2013. Provided that the amended 
+provisions of [§27, §28, §29-2, §29-3, §49-2, §50, §61, §63, §72-12, §77, §79-7, §81, §105, 
+§106, §109, §112-3, §117-3, §122, §132-2, §138, §144 through §146, §150, §151, §154, §157, 
+§158, §164-3 and §164-4], amended provisions of [Annex 1], [Annex 6], [Annex 14], [Annex 
+17], [Annex 17-2], [Annex 18], [Annex 19], [Annex 20], [Annex 24] and amended [Annex: 
+Form 9] shall be put into effect on September 30, 2013.   
+
+§2. Effective Date of the Derivatives Market Business Regulation   
+
+Pursuant to [§1] of Addenda dated July 3, 2013 of the Derivatives Market Business Regulation, 
+the amended provisions of [§2, §22, §27, §73, §128, and §156-3 (excluding paragraph (3))] of 
+the Regulation shall be put into effect on July 9, 2013. Provided that the amended provision of 
+[§4, §54, §55, §71, §82-7, §100, §103 through §105, §111, §133, §137, §147 through §149, and 
+§156-2] of the same Regulation shall be put into effect on September 30, 2013.   
+
+§3. Exceptions in Beginning of Currency Options and Calculating the Base Price of First 
+Trading Day   
+
+(1)  Pursuant  to  [§3]  of  Addenda  dated  July  3,  2013  of  the  Derivatives  Market  Business 
+Regulation, on the first trading day of Currency Options (referring to the effective date noted 
+in [§2] of Addenda), the trading of four (4) expiry month contracts of Currency Options whose 
+
+193 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+last trading day is the third Monday (to move forward sequentially if the relevant day is a market 
+holiday) of the month noted in each of the following subparagraphs shall begin:         
+
+1.    October 2013; 
+2.    November 2013; 
+3.    December 2013; and 
+4.    March 2014. 
+
+(2) The provisions of [§57(1)1] shall apply mutatis mutandis to the calculation of base price of 
+first trading day of currency option noted in paragraph (1).   
+
+§4. Exceptions in Reporting of Algorithmic Trading Account   
+
+(1) Pursuant to [§156-3(4)] of the Derivatives Market Business Regulation amended on July 3, 
+2013, despite [§156-3(2)] of the Derivatives Market Business Regulation, the opening, change 
+of account details or closing of algorithmic tracing account may be reported during the period 
+from July 9, 2013 to September 30, 2013.In such cases, the reporting shall be accomplished by 
+submitting the completed [Annex: Form 14] to the Exchange.   
+
+(2) The provisions of paragraph (1) shall apply retroactively to the accounts opened as of 
+July 9, 2013, through which the algorithmic trading is carried out.   
+
+(3) The member that reported the algorithmic trading account pursuant to paragraphs (1) and 
+(2)  shall  report  the  details  of  account  reported  pursuant  to  paragraphs  (1)  and  (2)  again 
+according to the method noted in the amended provisions of [§164-4].   
+
+ADDENDUM 
+(August 27, 2013) 
+
+These  Enforcement  Rules  shall  become  effective  on  August  30,  2013.  Provided  that  the 
+amended provisions of [§84] shall be put into effect on September 30, 2013.   
+
+ADDENDUM 
+(September 17, 2013) 
+
+These Enforcement Rules shall become effective on September 17, 2013.   
+
+ADDENDUM 
+(December 30, 2013) 
+
+This  Enforcement  Rule  shall  become  effective  on  the  date  determined  by  the  Exchange 
+considering the time period for the development of the computer programs. 
+
+ADDENDA 
+(February 28, 2014) 
+
+194 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on March 3, 2014. 
+
+§2. Exceptions to Restriction on the Receipt of Excessive Quotations 
+
+Notwithstanding the amended provisions of [§164-2(1)], the Exchange may take measures in 
+each of following subparagraphs by session that it provides for members for processing the 
+receipt of quotations from March 3, 2014 to the day determined by the Exchange except the 
+global trading. (Amended on May 2, 2014) 
+
+1.  In  cases  where  the  average  number  of  quotations  submitted  per  second  during  the 
+preceding  three  (3)  seconds  exceeds  200  cases,  the  fact  that  excessive  quotation  of  a 
+member  falls  under  the  criteria  restricting  the  receipt  of  excessive  quotation  shall  be 
+notified to the member; and 
+
+2.  In  cases  where  the  average  number  of  quotations  submitted  per  second  during  the 
+preceding three (3) seconds exceeds 200 cases consecutively after the notification pursuant 
+to subparagraph 1, the receipt of quotation shall be restricted for the next one (1) second. 
+
+ADDENDUM 
+(April 18, 2014) 
+
+These Enforcement Rules shall become effective on May 16, 2014. 
+
+ADDENDUM 
+(May 2, 2014) 
+
+These Enforcement Rules shall become effective on May 7, 2014. Provided that the amended 
+provision in [§79(1)2p] shall become effective on June 2, 2014 
+
+ADDENDUM 
+(July 28, 2014) 
+
+These Enforcement Rules shall become effective on July 28, 2014. 
+
+ADDENDA 
+(August 20, 2014) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on March 9, 2012. 
+
+§2. Effective Date of the Derivatives Market Business Regulation   
+
+195 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“The  day  determined  by  the  Enforcement  Rules”  referred  to  the  Addenda  of  the  Business 
+Regulation of the Derivatives Market amended on June 3, 2013 shall be September 1, 2014. 
+
+ADDENDA 
+(February 28, 2014) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on March 3, 2014. 
+
+§2. Exceptions to Restriction on the Receipt of Excessive Quotations 
+
+Notwithstanding the amended provisions of [§164-2(1)], the Exchange may take measures in 
+each of following subparagraphs by session that it provides for members for processing the 
+receipt of quotations from March 3, 2014 to the day determined by the Exchange except the 
+global trading. (Amended on May 2, 2014) 
+
+1.  In  cases  where  the  average  number  of  quotations  submitted  per  second  during  the 
+preceding  three  (3)  seconds  exceeds  200  cases,  the  fact  that  excessive  quotation  of  a 
+member  falls  under  the  criteria  restricting  the  receipt  of  excessive  quotation  shall  be 
+notified to the member; and 
+
+2.  In  cases  where  the  average  number  of  quotations  submitted  per  second  during  the 
+preceding three (3) seconds exceeds 200 cases consecutively after the notification pursuant 
+to subparagraph 1, the receipt of quotation shall be restricted for the next one (1) second. 
+
+ADDENDUM 
+(April 18, 2014) 
+
+These Enforcement Rules shall become effective on May 16, 2014. 
+
+ADDENDUM 
+(May 2, 2014) 
+
+These Enforcement Rules shall become effective on May 7, 2014. Provided that the amended 
+provision in [§79(1)2p] shall become effective on June 2, 2014 
+
+ADDENDUM 
+(July 28, 2014) 
+
+These Enforcement Rules shall become effective on July 28, 2014. 
+
+ADDENDA 
+
+196 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(August 20, 2014) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on March 9, 2012. 
+
+§2. Effective Date of the Derivatives Market Business Regulation   
+
+“The day determined by the Enforcement Rules” referred to the Addenda of the Business 
+Regulation of the Derivatives Market amended on June 3, 2013 shall be September 1, 2014. 
+
+ADDENDA 
+(August 28, 2014) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on March 9, 2012. Provided that amended 
+provisions of Section 3 ([§8 through 12], Chapter I, PART II, [§46(1)3] (limited to Single Stock 
+Futures spread trade), Section 3 ([§80 through 90-2], PART III, [§162-2], [§164], [Annex 2], 
+[Annex  17-3],  [Annex  19],  [Annex  19-2],  and  amended  [Annex:  Form  5]  shall  become 
+effective on September 15, 2014 
+
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+“The  day  determined  in  the  Enforcement  Rules”  in  proviso  of  Addendum  of  the 
+Derivatives Market Business Regulation (amended on August 27, 2014) shall refer to 
+the day in each of the following subparagraphs: 
+
+1. [§3(2)] (excluding matters regarding Sector Index Futures market and V-KOSPI 
+200 Futures market in subparagraph 1. And matters regarding Sector Index Futures 
+spread market and V-KOSPI 200 Futures spread market, [§4(2)] (excluding proviso 
+in subparagraph 1) and [§154(1)] [excluding subparagraph 1(c)]: September 1, 2014 
+
+2. Section 4 ([§22] through [§27]) Chapter II PART II, Chapter IV ([§83] through 
+[§87]) PART III: September 15, 2014 
+
+§3. Exceptions to Starting of Trading of KOSPI 200 Futures and Trading Period 
+
+Notwithstanding amended provisions of [§4-5(2)], on the effective date of the Addenda [§1m], 
+the trading of three (3) delivery month contracts of the KOSPI 200 Futures starts of which the 
+last trading day is the 2nd Thursday (to move forward sequentially if the relevant day is a market 
+holiday;  the  same  hereinafter  in  [§4  and  5])  of  the  month  that  falls  under  following 
+subparagraphs: 
+
+1. December 2015; 
+2. June 2016; and 
+3. December 2016. 
+
+197 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§4. Exceptions to Starting of Trading, Trading Period and Establishment of Exercise Price of 
+KOSPI 200 Options 
+
+(1)  Notwithstanding  amended  provisions  of  [§5-2(2)],  on  the  effective  date  of  [§1m]  of  the 
+Addenda, the trading  of  seven (7) expiration month  contracts  of the KOSPI 200 Options of 
+which  the  last  trading  day  is  the  2nd  Thursday  of  the  month  that  falls  under  following 
+subparagraphs shall be started: 
+
+1. January 2015; 
+2. February 2015; 
+3. March 2015; 
+4. June 2015; 
+5. December 2015; 
+6. June 2016; and 
+7. December 2016. 
+
+(2) Notwithstanding the amended provisions of [§6(2)3], in the case of 2015June contract in 
+paragraph (1)4, one (1) exercise price at at-the-money and each three (3) exercise price above 
+and below the exercise price at at-the-money consecutive with 5 points of exercise price unit. 
+
+§5. Exceptions to Selection Date, Starting of Trading and Trading Period of New Underlying 
+Stock of Single Stock Futures 
+
+(1) Pursuant to the amended provisions of [§8 and 8-3] and [Annex: Form 2], the selection date 
+of 35 stocks selected as  new underlying stocks [referring to CJ, LG, LG U plus, SK, Korea 
+Zincs,  Daerim,  Daesang,  Daewoo  International,  DSME,  Doosan  Heavy  Industry,  Lotte 
+Shopping,  Lotte  Chemical,  Mirae  Assets,  Samsung  SDI,  Samsung  Life  Insurance,  Samsung 
+Engineering,  Samsung  Electric-Mechanics,  Samsung  Heavy  Industry,  Samsung  Securities, 
+Samsung Card, Samsung Techwin, S-oil, NC Soft, LG Chemical, IBK, Hite Jinro, KOGAS, 
+Korea Tire, Korea Investment Holdings, Korea Aero, Hyundai E&C, Hyundai Mobis, Hyundai 
+Wia and Hotel Shilla] shall be June 30, 2014 
+
+(2) Notwithstanding amended provisions of [§8-4(2)], on the day of starting the trading of the 
+Single Stock Futures (referring  to  the effective date in  [§1p] of the  Addenda, the trading  of 
+seven (7) delivery month contracts of the Single Stock Futures of which the last trading day is 
+the 2nd Thursday of the month that falls under the following subparagraphs shall be started: 
+
+1. December 2014; 
+2. March 2015; 
+3. June 2015; 
+4. September 2015; 
+5. December 2015; 
+6. June 2016; and 
+7. December 2016. 
+
+§6. Exceptions to Starting of Trading and Trading Period of Single Stock Futures of Current 
+Underlying Stocks 
+
+198 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notwithstanding the amended provisions of [§8-4(2)], on the effective date in the proviso to 
+[§1] of the Addenda, the trading of three (3) delivery month contract falls under each of the 
+following subparagraphs shall be started: 
+
+1. December 2015; 
+2. June 2016; and 
+3. December 2016. 
+
+§7. Exceptions to Change of Calculation Variables of Margin Amount 
+
+When the regular trading session of the trading day immediately preceding the effective date 
+pursuant  to  [§1p]  of  Addenda  is  closed,  member  margins,  customer  margins  and  additional 
+customer margins shall be calculated according to the provisions of the amended Enforcement 
+Rules. 
+
+§8. Transitional Measures of the Number and Trading Period of Delivery Months of Global 
+Trading 
+
+Notwithstanding the amended provisions of [§4-5], in the case of global trade, the number of 
+delivery month shall be four (4) and the trading period of each delivery month shall be one (1) 
+year as usual by the time determined separately. 
+
+§9 Transitional Measures for Market Makers 
+
+Notwithstanding the proviso to [§1] of the Addenda, in the case of market makers who entered 
+into a market making agreement with the Exchange pursuant to [§82(1)] before amendment, 
+previous provisions shall apply until September 30, 2014. 
+
+ADDENDA 
+(November 3, 2014) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on March 9, 2012. Provided that amended 
+provisions of [§115(1)6], [§132], [§132-3], [§164-2], [Annex 14] and [Annex 17-2] (limited to 
+provisions  to  global  trade)  shall  become  effective  on  December  8,  2014  and  amended 
+provisions of [§115(1)9 and 10, and (3)], [§119], [§122] shall become effective on December 
+29, 2014. 
+
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+“The day determined in the Enforcement Rules” in proviso of Addendum of the Derivatives 
+Market Business Regulation (amended on August 27, 2014) shall refer to the day in each of 
+the following subparagraphs: 
+
+1. Matters regarding Sector Index Futures market and V-KOSPI 200 Futures market 
+in [§3(2)1] and matters regarding Sector Index Futures spread market and V-KOSPI 
+200  Futures  spread  market  in  [§3(2)5],    [§4(2)1p],  [§5(1)7],  [§10/3],  [§12(1)3], 
+
+199 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 5 ([§28] through [§37] Chapter II PART II, [§78(1)], [§154(1)c]; September 
+1, 2014 
+
+2. [§4-2(1): December 8, 2014 
+
+§3. Effective Date of the Enforcement Rules of the Derivatives Market Business Regulation 
+
+“The day determined by the Exchange” in [§8] of Addendum of the Enforcement Rules 
+of the Derivatives Market Business Regulation (amended on August 28, 2014) shall be 
+December 5, 2014. 
+
+§4. Exceptions to Starting of Trading and Trading Period of the Sector Index Futures 
+
+Notwithstanding  amended  provisions  of  [§4-6(2)],  on  the  effective  date  of  [§1m]  of  the 
+Addenda, the trading of seven (7) delivery month contracts of the Sector Index Futures of which 
+the last trading day is the 2nd Thursday (to move forward sequentially if the relevant day is a 
+market holiday; the same hereinafter in [§6(2) and (3)] and [§7(2)]) of the month that falls under 
+the following subparagraphs shall be started: 
+
+1. December 2014; 
+2. March 2015; 
+3. June 2015; 
+4. September 2015; 
+5. December 2015; 
+6. June 2016; and 
+7. December 2016 
+
+§5. Exceptions to Starting of Trading, Trading Period of the V-KOSPI 200 Futures 
+
+Notwithstanding  the  amended  provision  of  [§7(2)2],  on  the  effective  date  of  [§1m]  of  the 
+Addenda, the trading of six (6) delivery months contracts of V-KOSPI 200 Futures of which 
+the last trading day is the day (to move forward sequentially if the relevant day is a market 
+holiday)  before  30  days  of  the  last  trading  day  of  the  expiration  month  of  the  KOSPI  200 
+Options that arrive in the next months of the months falling under following subparagraphs 
+shall be started; 
+
+1. December 2014; 
+2. January 2015; 
+3. February 2015; 
+4. March 2015; 
+5. April 2015; and 
+6. May 2016 
+
+§6. Exceptions to Selection Date, Starting of Trading and Trading Period of New Underlying 
+Stock of Single Stock Futures 
+
+(1)  Pursuant  to  the  amended  provisions  of  [Annex  2],  the  selection  date  of  two  (2)  stocks 
+(referring  to  Kangwon  Land  and  Woori  Bank)  selected  as  new  underlying  stocks  of  Single 
+Stock Futures shall be June 30, 2014. 
+
+200 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) Notwithstanding amended provisions of [Annex 2], regarding the trading of the Single Stock 
+Futures  having  Woori  Bank  as  underlying  stock,  the  trading  of  seven  (7)  delivery  month 
+contracts of the Single Stock Futures of which the last trading day is the 2nd Thursday of the 
+month that falls under the following subparagraphs shall be started on the day determined by 
+the Exchange: 
+
+1. December 2014; 
+2. March 2015; 
+3. June 2015; 
+4. September 2015; 
+5. December 2015; 
+6. June 2016; and 
+7. December 2016 
+
+(3) Notwithstanding amended provisions of [Annex 2], regarding the trading of the Single Stock 
+Futures having Kangwon Land as underlying stock, the trading of seven (7) delivery month 
+contracts of the Single Stock Futures of which the last trading day is the 2nd Thursday of the 
+month that falls under the following subparagraphs shall be started on the day determined by 
+the Exchange: 
+
+1. March 2015; 
+2. June 2015; 
+3. September 2015; 
+4. December 2015; 
+5. June 2016;   
+6. December 2016; and 
+
+      7. December 2017 
+
+§7. Exceptions to Selection Date, Starting of Trading and Trading Period of New Underlying 
+Stock of Single Stock Options 
+
+(1)  Pursuant  to  the  amended  provisions  of  [Annex  2],  the  selection  date  of  ten  (10)  stocks 
+(referring  to  KB  Financial  Group,  LG  Electronics,  KIA  Motors,  Samsung  Electronics,  SK 
+Hynix, LG Display, POSCO, Hana Financial Group, KEPCO, and Hyundai Motors) selected 
+as new underlying stocks of the Single Stock Options shall be June 30, 2014 
+
+(2) The trading of nine (9) expiration month contracts of the Single Stock Options of which the 
+last trading day is the 2nd Thursday of the month that falls under the following subparagraphs 
+shall  be  started  on  the  day  that  starts  the  trading  of  the  Single  Stock  Options  of  underlying 
+stocks (referring to the effective date in [§1m] of the Addenda). 
+
+1. December 2014; 
+2. January 2015; 
+3. February 2015; 
+4. March 2015; 
+5. June 2015;   
+6. September 2015; 
+7. December 2015; 
+
+201 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. June 2016; and 
+9. December 2016 
+
+§8. Exceptions to the Last Trading Days of Previous Underlying Stock of Single Stock 
+Options 
+
+Notwithstanding the provision of  [§1] of the Addenda, the last trading  day of all expiration 
+month contracts of Single Stock Options regarding the 32 previous underlying stocks [referring 
+to KB Financial Group, Samsung Electronics, SK Telecom, POSCO, KT, KEPCO, Hyundai 
+Motors, Kangwon Land, KIA Motors, Korean Air, Samsung C&T,    Samsung SDI, Samsung 
+Electricity-mechanics,  Samsung  Securities,  Samsung  Fire  and  Marine  Insurance,  Shinhan 
+Financial Group, CJ, SK Innovation, LG, LG Electronics, LG Chemical, GS Holdings, KT&G, 
+Hana Financial Group, KOGAS, Korea Tire, HanjinShipping, Hyundai Mobis, Hyundai Steels, 
+Hyundai Heavy Industry, E-mart, LG Display] shall be November 5, 2014. 
+
+§9. Exceptions to the Rejection of Entrustments 
+
+(1) Notwithstanding amended provisions of[§119(3)6 and 7], [§119(3)6 and 7] shall not apply 
+to general individual investors who opened the derivatives account before the effective date in 
+the proviso to [§1] of the Addenda (referring to December 29, 2014; the same hereinafter this 
+Article and [§10] of the Addenda) and whose the number of days holding the open interests 
+calculated by member is 20 trading days or more within last two (2) years based on the effective 
+date in the proviso to [§1] of the Addenda 
+
+(2) Notwithstanding amended provisions of[§119(3)6 and 7], in case where general individual 
+investors opened the derivatives account before the effective date in the proviso to [§1] of the 
+Addenda and entrust offsetting trade of the open interests of which the number of days of their 
+holding the open interests calculated by member within last two (2) years based on the effective 
+date in [§1p] of the Addenda is less than 20 trading days, [§119(3)6 and 7] shall not apply.   
+
+§10. Transitional Measures in Applying the Basic Deposit Amount 
+
+Notwithstanding the amended provisions of [§122(1)], regarding the application of the basic 
+deposit amount, previous provisions shall apply to the derivatives accounts that were opened 
+before the effective date in the proviso to [§1] of the Addenda [limited to those of which the 
+number of days of holding open interests is 20 trading days or more within last two (2) years 
+based on the effective date in the proviso to [§1] of the Addenda (those of which the number 
+of days of holding open interests calculated for each account within last two (2) years based on 
+the entrustment day is less than 20 trading days shall be excluded.); referred to as “existing 
+accounts”  hereinafter  in  this  Article],  and  the  derivatives  accounts  that  were  opened  by  a 
+customer in addition to the existing accounts (referred to as “additionally opened accounts” 
+hereinafter  in  this  Article).In  such  cases,  notwithstanding  the  proviso  to  [§122(1)]  of  the 
+previous  provisions,  the  members  shall  not  apply  the  proviso  to  [§122(1)]  of  the  previous 
+provisions  to  the additionally opened accounts of the customers to  whom [§122(1)1] of the 
+previous provisions were applied by other members. (Wholly amended on October 28, 2015) 
+
+§11. Exceptions to the Report of Equity-linked Accounts by Market Makers 
+
+Notwithstanding the amended provisions of [§83(3)], market makers of Sector Index Futures, 
+
+202 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Single Stock Futures and Single Stock Options before the effective date of the main sentence 
+of [§1]] of the Addenda shall report the equity-linked accounts to the Exchange within five (5) 
+trading days from the effective date of the main sentence of [§1] of the Addenda. 
+
+ADDENDUM 
+(November 13, 2014) 
+
+These Enforcement Rules shall become effective on November 17, 2014. Provided that the 
+amended provision in [§111(3)] shall become effective on January 1, 2015, and the amended 
+provision in [Annex 19] on April 1, 2015. 
+
+ADDENDUM 
+(December 4, 2014) 
+
+These Enforcement Rules shall become effective on December 8, 2014. 
+
+ADDENDA 
+(December 24, 2014) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on December 29, 2014. 
+
+§2. Case of Applying the Number of Days of Holding the Open Interests 
+
+The number of days holding the open interests pursuant to amended provision of [§115(3)1] 
+shall apply separately by dividing before and after the effective date of [§1] of the Addenda. 
+
+ADDENDUM 
+(March 12, 2015 / Regulation No. 1154) 
+
+These  Enforcement  Rules  shall  become  effective  on  March  13,  2015.Provided  that  the 
+amended provisions of [§90-3(2)] shall become effective on the previous day of the effective 
+date of the main sentence, and the amended provisions of [§30], [§32-2] and [Annex 3-2] shall 
+become effective on March 20, 2015. 
+
+ADDENDUM 
+(March 30, 2015 / Regulation No. 1161) 
+
+These Enforcement Rules shall become effective on April 6, 2015. 
+
+ADDENDA 
+(May 19, 2015 /Regulation No. 1187) 
+
+203 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§1. Effective Date 
+
+These  Enforcement  Rules  shall  become  effective  on  June  15,  2015.  Provided  that,  when 
+deemed necessary due to the occurrence of matters related to the market management such as 
+sudden  change  of  the  economic  situation,  etc.,  they  shall  become  effective  on  the  date  the 
+Exchange specifies separately. 
+
+§2. Enforcement Date of the Derivatives Market Business Regulation 
+
+“The date specified by the Enforcement Rule” in the Addenda of Derivatives Market Business 
+Regulation (amended on April 29, 2015) shall refer to the enforcement date pursuant to [§1] of 
+the Addenda.   
+
+ADDENDUM 
+(May 26, 2015, Regulation No. 1189) 
+
+These Enforcement Rules shall become effective on June15, 2015. Provided that, when deemed 
+necessary due to the occurrence of matters related to the market management such as sudden 
+change of the economic situation, etc., they shall become effective on the date the Exchange 
+specifies separately. 
+
+ADDENDA 
+(July 3, 2015 /Regulation No. 1209) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on July 20, 2015. Provided that, the amended 
+provisions of [§67-4], [§69] and [§70] shall become effective on July 27, 2015, and [§8], [§8-
+2], [§8-3], [§9], [§11], [§74], [§111], [Annex 2] and the amended provisions of subparagraph 
+2(b)of[Annex 19] shall become effective on August 3, 2015. 
+
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+Pursuant  to  Addendum  of  the  Derivatives  Market  Business  Regulation  (amended  on  June  24, 
+2015), amended provisions in [§3(2)1 and 5 (excluding CNY Futures spread market)], [§10], 
+[§11], [§12], [§19], [§96] and [§154] shall become effective on July 20, 2015 
+
+§3. Exceptions to Starting of Trading and Trading Period of Mini KOSPI 200 Futures 
+
+Notwithstanding amended provisions of [§4-6(2)], on the effective date of the Addenda [§1m], 
+the trading of six (6) delivery month contracts of the Mini KOSPI 200 Futures of which the last 
+trading day is the 2nd Thursday (to move forward sequentially if the relevant day is a market 
+holiday;  the  same  hereinafter  in  [§4,  5  and  6])  of  the  month  that  falls  under  the  following 
+subparagraphs shall be started: 
+
+204 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  August 2015; 
+2.  September 2015; 
+3.  October 2015; 
+4.  November 2015; 
+5.  December 2015; and 
+6.  January 2016 
+
+§4. Exceptions to Starting of Trading and Trading Period of Mini KOSPI 200 Options 
+
+Notwithstanding  amended  provisions  of  [§5-2(2)],  on  the  effective  date  of  [§1m]  of  the 
+Addenda, the trading of six (6) expiration month contracts of the Mini KOSPI 200 Options of 
+which  the  last  trading  day  is  the  2nd  Thursday  of  the  month  that  falls  under  the  following 
+subparagraphs shall be started: 
+
+1.  August 2015; 
+2.  September 2015; 
+3.  October 2015; 
+4.  November 2015; 
+5.  December 2015; and 
+6.  January 2016 
+
+§5.  Exceptions  to  Selection  Date,  Starting  of  Trading  and  Trading  Period  of  New 
+Underlying Stock of Single Stock Futures 
+
+(1) Pursuant  to  the amended provisions of [Annex:  Form 2], the selection date of 31 stocks 
+selected as new underlying stocks [referring to BNK Financial Holdings, DGB Financial Group, 
+LG, LG Innotek, SKNetworks, SK, C&C, Grand Korea Leisure, Kumho Petro Chemical, Nexen 
+Tire, DaumKaKao, Samsung SDS, Seoul Semiconductor, Celltrion, CJ E&M, Seegene, Amore 
+Pacific,  NH  Securities,  OCI,  YG  Entertainment,  Wonik  IPS,  Webzen,  Cheil  Worldwide, 
+Samsung C&T, Paradise, POSCO ICT, Hanwha, Hanwha Life Insurance, Hanwha Chemical, 
+Hyundai Glovis, Hyundai Mipo Dockyard, Hyundai Marine & Fire Insurance] shall be June 30, 
+2015. 
+
+(2) On the day of starting the trading of the Single Stock Futures (referring to the effective date 
+of August 3, 2015 stipulated in [§1p] of the Addenda), the trading of seven (7) delivery month 
+contracts of the Single Stock Futures of which the last trading day is the 2nd Thursday of the 
+month that falls under the following subparagraphs shall be started: 
+
+1.  September 2015; 
+2.  December 2015; 
+3.  March 2016; 
+4.  June 2016; 
+5.  December 2016; 
+6.  June 2017; and 
+7.  December 2017 
+
+§6. Exceptions to Selection Date, Starting of Trading and Trading Period of New Underlying 
+Stock of Single Stock Options 
+
+205 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) Pursuant  to  the amended provisions of [Annex:  Form 2], the selection date of 10 stocks 
+selected as new underlying stocks [referring to LG U+, SK Innovation, SK Telecom, Samsung 
+SDS,  Amore  Pacific,  LG  Chem,  Samsung  C&T,  KT,  Hyundai  Mobis,  and  Hyundai  Heavy 
+Industries] shall be June 30, 2015. 
+
+(2) On the day of starting the trading of the Single Stock Options (referring to the effective date 
+of August 3, 2015 stipulated in  the proviso to  [§1] of the Addenda), the  trading  of nine (9) 
+delivery month contracts of the Single Stock Options of which the last trading day is the 2nd 
+Thursday of the month that falls under the following subparagraphs shall be started: 
+
+1.  August 2015; 
+2.  September 2015; 
+3.  October 2015; 
+4.  December 2015; 
+5.  March 2016; 
+6.  June 2016; 
+7.  December 2016; 
+8.  June 2017; and 
+9.  December 2017 
+
+§7. Exceptions to Change of Calculation Variables of Margin Amount   
+
+When the regular trading session of the trading day immediately preceding the effective date 
+pursuant to the proviso to [§1] of Addenda (referring to August 3, 2015), member margins, 
+customer  margins  and  additional  customer  margins  shall  be  calculated  according  to  the 
+provisions of the amended Enforcement Rules. 
+
+§8. Exceptions to Liquidity Coverage Ratio 
+
+The  liquidity  coverage  ratio  noted  in  amended  provision  in  [§111]  shall  apply  the  ratio 
+prescribed in [§3] of Addendum of the Regulations on Supervision of Banking Business (FSC 
+Notice: 2014-43) 
+
+ADDENDUM 
+(August 13, 2015 /Regulation No. 1223) 
+
+These  Enforcement  Rules  shall  become  effective  on  August  27,  2015.Provided  that,  the 
+amended provisions of [Annex 19-3] shall become effective on September 21, 2015 
+
+ADDENDA 
+(September 16, 2015 /Regulation No. 1230) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on October 5, 2015.   
+
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+206 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pursuant  to  Addendum  of  the  Derivatives  Market  Business  Regulation  (amended  on  June  24, 
+2015),  amended  provisions  in  [§3(2)3  and  5  (excluding  Mini  KOSPI  200  Futures  spread 
+market)], [§44] and [§46] shall become effective on October 5, 2015 
+
+§3. Exceptions to Starting of Trading of CNY Futures and Trading Period   
+
+Notwithstanding amended provisions of [§25-2], on the effective date of the Addenda [§1], the 
+trading of eight (8) delivery month contracts of the CNY Futures of which the last trading day 
+is the 3rd Monday (to move forward sequentially if the relevant day is a market holiday) of the 
+month that falls under the following subparagraphs shall be started: 
+
+1.  October 2015; 
+2.  November 2015; 
+3.  December 2015; 
+4.  January 2016; 
+5.  February 2016; 
+6.  March 2016; 
+7.  June 2016; and 
+8.  September 2016 
+
+§4. Exceptions to Starting of Trading of KOSPI High Dividend 50, etc. and Trading Period   
+
+Notwithstanding amended provisions of [§4-6], on the effective date of [§1] of the Addendum, 
+the trading of seven (7) expiration month contracts of the KOSPI High Dividend 50 Futures 
+and the KOSPI Dividend Growth Futures of which the last trading day is the 2nd Thursday of 
+the month that falls under the following subparagraphs shall be started: 
+
+1.  December 2015; 
+2.  March 2016; 
+3.  June 2016; 
+4.  September 2016; 
+5.  December 2016; 
+6.  June 2017; and 
+7.  December 2017 
+
+ADDENDA 
+(October 28, 2015 / Regulation No. 1242) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on November 23, 2015. Provided that, the 
+amended  provisions  of  [§122(1)]  and  [§10]  of  the  Addenda  of  the  Enforcement  Rules  of 
+Derivatives  Market  Business  Regulation  (amended  on  November  13,  2014)  shall  become 
+effective on November 2, 2015, the amended provisions of paragraph (6) of[Annex 19] shall 
+become effective on the date that is separately set by the Exchange, and the amended provisions 
+of [§8-4], [§46(1)4] (limited to the trades of Single Stock Futures spreads) and [§46(1)6] shall 
+become effective on December 11, 2015.    (Amended on November 26, 2015; December 16, 
+2015) 
+
+207 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+“The date stipulated in the Enforcement Rules” in the Addendum of the Derivatives Market 
+Business Regulation (amended on October 21, 2015) shall refer to the dates classified in each 
+of the following subparagraphs: 
+
+1.  For  the  amended  provisions  of  [§110],  [§113],  [§114],  [§114-2],  and  [§115]  of  the 
+Derivatives Market Business Regulation, November 2, 2015; 
+
+2. For the amended provisions of [§3], [§4], [§10], [§11], [§12], [§56], [§58], [§60], [§61], 
+[§76],  [§104],  [§154],  and  [§165]  of  the  Derivatives  Market  Business  Regulation, 
+November 23, 2015; 
+
+3. For the amended provisions of [§24] of the Derivatives Market Business Regulation, 
+December 11, 2015 
+
+§3. Exceptions to Starting of Trading and Trading Periods of KOSDAQ 150 Futures 
+
+Notwithstanding the amended provisions of [§4-6(2)], on the effective date of the main sentence 
+of [§1] of the Addenda, the trading of seven (7) delivery months contracts of KOSDAQ 150 
+Futures of which the last trading day is the 2ndThursday (to move forward sequentially if the 
+relevant day is a market holiday; the same hereinafter in [§4]) of the month that falls under each 
+of the following subparagraphs shall be started: 
+
+1. December 2015; 
+2. March 2016; 
+3. June 2016; 
+4. September 2016; 
+5. December 2016 
+6. June 2017; and 
+7. December 2017 
+
+§4. Exceptions to Starting of Trading and Trading Periods of Single Stock Futures 
+
+Notwithstanding  the  amended  provisions  of  [§8-4(2)],  on  the  effective  date  of  [§1p]  of  the 
+Addenda (referring to December 11, 2015), the trading of two (2) delivery month contracts of 
+Single Stock Futures of which the last trading day is the 2ndThursday of the month that falls 
+under each of the following subparagraphs shall be started:    (Amended on November 26, 2015) 
+
+1. April 2016; and 
+2. May 2016 
+
+§5. Exceptions to the Last Trading Day and Starting of Trading of Gold Futures and Mini 
+Gold Futures 
+
+(1) Notwithstanding the provisions of [§30(1)], the last trading day of seven (7) delivery month 
+contracts of the former Gold Futures and Mini Gold Futures shall be November 18, 2015 (to 
+move forward sequentially if the relevant day is a market holiday.)   
+
+208 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) After the last trading days pursuant to paragraph (1), no new delivery month contracts 
+shall be listed.   
+
+§6. Exceptions to Starting of Trading and Trading Periods of Gold Futures 
+
+Notwithstanding  the  amended  provisions  of  [§29-6(2)],  on  the  effective  date  of  the  main 
+sentence of [§1] of Addenda, the trading of seven (7) delivery month contracts of Gold Futures 
+of which the last trading day is the 3rd Wednesday (to move forward sequentially if the relevant 
+day is a market holiday) of the month that falls under each of the following subparagraphs shall 
+be started: 
+
+1. December 2015; 
+2. January 2016; 
+3. February 2016; 
+4. April 2016; 
+5. June 2016 
+6. August 2016; and 
+7. October 2016 
+
+ADDENDUM 
+(November 26, 2015 /Regulation No. 1256) 
+
+These Enforcement Rules shall become effective on November 30, 2015. Provided that the 
+amended provisions of [§6-2] shall become effective on January 15, 2016. 
+
+ADDENDUM 
+(December 16, 2015 /Regulation No. 1268) 
+
+These Enforcement Rules shall become effective on December 21, 2015. 
+
+ADDENDUM 
+(December 31, 2015 /Regulation No. 1282) 
+
+These Enforcement Rules shall become effective on January 4, 2016. 
+
+ADDENDUM 
+(January 14, 2016 /Regulation No. 1285) 
+
+These Enforcement Rules shall become effective on January 18, 2016. 
+
+ADDENDUM 
+(March 8, 2016 /Regulation No. 1297) 
+
+209 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These Enforcement Rules shall become effective on April 25, 2016. 
+
+ADDENDA 
+(March 21, 2016 / Regulation No. 1299) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on March 28, 2016.   
+
+§2. Exceptions to Starting of Trading and Trading Periods of Sector Index Futures 
+
+On  the  effective  date  (referring  to  the  effective  day  specified  in  [§1]of  this  addenda)  of  the 
+Sector Index Futures underlying the indexes that were newly selected pursuant to the amended 
+provisions  of  [Annex  1-2]  (KOSPI200  Construction,  KOSPI200  Heavy  Industries  and 
+KOSPI200 Health Care), the trading of seven (7) delivery months contracts of Sector Index 
+Futures of which the last trading day is the 2nd Thursday (to move forward sequentially if the 
+relevant  day  is  a  market  holiday)  of  the  month  that  falls  under  each  of  the  following 
+subparagraphs shall be started: 
+
+1. June 2016; 
+2. September 2016; 
+3. December 2016; 
+4. March 2017; 
+5. June 2017; 
+6. December 2017; and 
+7. December 2018 
+
+§3. Adjustment of Quantity of Open Interests of Sector Index Futures 
+
+In the case of the delivery month contract which holds open interests as of the market closing 
+on the trading day immediately preceding the effective date of these Enforcement Rules, among 
+the sector index  futures  (excluding KOSPI  High  Dividend 50  Futures  and KOSPI Dividend 
+Growth 50 Futures), the quantity of open interests shall be adjusted to the quantity obtained by 
+multiplying the relevant quantity by five (5).   
+
+§4. Exceptions to Calculation and Notification of Conversion Rates of Market Makers, 
+etc. 
+
+Notwithstanding  the  provisions  of  [§1]  of  this  Addenda,  the  Exchange  may  calculate  the 
+conversion rates and the portions of market capitalization in the index during the period from 
+the  effective  date  specified  in  the  main  sentence  of  [§1]  of  the  Addenda  of  the  partial 
+amendment to the Enforcement Rules of the Restriction of Special Taxation Act (Ministerial 
+Decree No. 555 of Ministry of Strategy and Finance)to the trading day immediately preceding 
+the effective date of these Enforcement Rules, and notify them to the market makers. 
+
+§5. Exceptions to Change of Calculation Variables of Margin Amount 
+
+210 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) When the regular trading session of the trading day immediately preceding the effective 
+date of these Enforcement Rules is closed, member margins shall be calculated according to the 
+provisions of the amended Enforcement Rules. 
+
+(2) Notwithstanding the amended provisions of [Annex 18], the previous provisions shall apply 
+in calculating customer margins. 
+
+ADDENDUM 
+(April 14, 2016 / Regulation No. 1308) 
+
+These Enforcement Rules shall become effective on April 15, 2016. 
+
+ADDENDUM 
+(April 14, 2016 / Regulation No. 1310) 
+
+These Enforcement Rules shall become effective on April 25, 2016. 
+
+ADDENDUM 
+(May 13, 2016 / Regulation No. 1322) 
+
+These Enforcement Rules shall become effective on June 28, 2016.Provided that the amended 
+provisions of [§111(1)] and [§111(2)1] shall become effective on May30, 2016. 
+
+ADDENDA 
+(June 20, 2016 / Regulation No. 1337) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on June 27, 2016. Provided that the amended 
+provisions of [§64] shall become effective on August 1, 2016. 
+
+§2. Exceptions to Commencement of Trading and Trading Periods of Overseas Index Futures 
+
+Notwithstanding the amended provisions of [§4-6(2)], on the effective date noted in the main 
+sentence of [§1] of this addenda, the trading of three (3) delivery months contracts of overseas 
+index futures of which the last trading day is the last trading day of Eurex EURO STOXX 50 
+futures (to move forward sequentially if the relevant day is a market holiday) of the month that 
+falls under each of the following subparagraphs shall be commenced: 
+
+1. September 2016; 
+2. December 2016; and 
+3. March 2017. 
+
+§3. Exceptions to the Regular Trading Hours for Overseas Index Futures 
+
+211 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notwithstanding the amended provisions of [§3-2], the regular trading hours of overseas index 
+futures  during  the  period  from  the  effective  date  noted  in  the  main  sentence  of  [§1]  of  this 
+addenda before August 1, 2016 shall be from 09:00 hours to 15:15 hours.   
+
+§4. Exceptions to Commencement of Trading and Trading Periods of USD Futures 
+
+Notwithstanding the amended provisions of [§25-2(2)], on the effective date noted in the main 
+sentence of [§1] of this addenda, the trading of twelve (12) delivery months contracts of USD 
+futures of which the last trading day is the 3rd Monday (to move forward sequentially if the 
+relevant  day  is  a  market  holiday)  of  the  month  that  falls  under  each  of  the  following 
+subparagraphs shall be commenced: 
+
+1. January 2017; 
+2. February 2017; 
+3. April 2017; 
+4. May 2017; 
+5. September 2017; 
+6. December 2017; 
+7. March 2018; 
+8. June 2018; 
+9. September 2018; 
+10. December 2018; 
+11. March 2019; and 
+12. June 2019. 
+
+§5. Transitional Measures in applying the Number of Delivery Months and Trading Periods of 
+Trading of USD Futures on CME Globex, etc. 
+
+(1) Notwithstanding the amended provisions of [§25-2], in the case of the trades of USD futures 
+on CME Globex, the number of delivery months shall be four (4) from the non-quarterly months 
+and four (4) from the quarterly months, and the trading period for each of the non-quarterly 
+months and the quarterly months shall be six (6) months and one (1) year, respectively, as before 
+until September 25, 2016. (Amended on September 6, 2016) 
+
+(2) Notwithstanding the amended provisions of [§25-2(2)], on September 26, 2016, the trading 
+on CME Globex of twelve (12) delivery months  contracts  of USD futures of which the last 
+trading  day is  the 3rd Monday (to move forward sequentially if the relevant  day is  a market 
+holiday) of the month that falls under each of the following subparagraphs shall be commenced: 
+
+1. April 2017; 
+2. May 2017; 
+3. July 2017; 
+4. August 2017; 
+5. December 2017; 
+6. March 2018; 
+7. June 2018; 
+8. September 2018; 
+9. December 2018; 
+10. March 2019; 
+
+212 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11. June 2019; and 
+12. September 2019. 
+
+ADDENDUM 
+(July 12, 2016 / Regulation No. 1349) 
+
+These Enforcement Rules shall become effective on July 14, 2016. 
+
+ADDENDUM 
+(August 31, 2016 / Regulation No. 1355) 
+
+These Enforcement Rules shall become effective on September 19, 2016. 
+
+ADDENDUM 
+(September 6, 2016 / Regulation No. 1358) 
+
+These  Enforcement  Rules  shall  become  effective  on  September  12,  2016.Provided  that  the 
+amended provisions of [Annex 12] and [Annex 17] shall become effective from the time of 
+market close on September 12, 2016. 
+
+ADDENDUM 
+(November 21, 2016 / Regulation No. 1379) 
+
+These Enforcement Rules shall become effective on November 28, 2016. 
+
+ADDENDA 
+(March 13, 2017 / Regulation No. 1430) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on March 27, 2017.   
+
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+The  “date  specified  in  the  Enforcement  Rules”  in  the  proviso  to  the  ADDENDUM  of  the 
+Derivatives Market Business Regulation (amended on February 8, 2017 and referred to as “the 
+Regulation” in this Article) shall refer to March 27, 2017 (limited to [§154(1)1a(i) and a(ii)] 
+of the Regulation). 
+
+§3. Special Cases concerning Quantity of Open Interests of KOSPI 200 Futures, etc. 
+
+On  the  effective  date  of  these  Enforcement  Rules,  the  quantity  of  open  interests  of  the 
+settlement  month  contracts  of  KOSPI  200  futures,  Mini  KOSPI  200  futures,  V-KOSPI  200 
+
+213 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+futures,  KOSPI  200  options  and  Mini  KOSPI  200  options  shall  be  adjusted  to  the  quantity 
+obtained by multiplying the relevant quantity by two(2).   
+
+§4. Special Cases concerning Calculation of Settlement Difference for Previous day’s Open 
+Interests, etc. of KOSPI 200 Futures, etc. 
+
+On the effective date of these Enforcement Rules, the settlement difference for previous day’s 
+open  interests,  the  intraday  settlement  difference  for  previous  day’s  open  interests  and  the 
+settlement amount of the next day shall be calculated using the quantity obtained by multiplying 
+the previous day’s open interests of KOSPI 200 futures, Mini KOSPI 200 futures, V-KOSPI 
+200 futures, KOSPI 200 options and Mini KOSPI 200 options by two (2) as the previous day’s 
+open interests.   
+
+§5. Transitional Measures concerning Completion of Derivatives Education Courses 
+
+Notwithstanding the amended provisions of [§115(3)], the person who has completed thirty (30) 
+hours  or  more  of  the  derivatives  education  courses  pursuant  to  the  previous  provisions  of 
+[§115(3)]  shall  be  construed  as  having  completed  the  educations  stipulated  in  the  amended 
+provisions of subparagraphs 1 and 2 of [§115(3)].   
+
+§6. Special Cases concerning Changing Variables for Margin Calculation, etc.   
+
+When the regular trading session of the trading day immediately preceding the effective date 
+noted in [§1] of this ADDENDA is closed, the member margins, the customer margins and the 
+additional customer margins, etc. shall be calculated pursuant to the amended provisions of the 
+Enforcement Rules. 
+
+ADDENDA 
+(May19, 2017 / Regulation No. 1452) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on June 1, 2017. 
+
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+The  “date  stipulated  in  the  Enforcement  Rules”  in  the  ADDENDUM  of  the  Derivatives 
+Market  Business  Regulation  (Regulation  No.  1393  amended  on  December  28,  2016  and 
+referred to as “the Regulation” in this Article) shall refer to June 1, 2017 (limited to [§92(3)& 
+(4)] of the Regulation). 
+
+§3. Special Cases concerning Collection of Expenses 
+
+The  expenses  of  the  quarter  in  which  these  Enforcement  Rules  becomes  effective  shall  be 
+calculated and collected for the period from the effective date to the last day of the quarter.   
+
+214 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADDENDA 
+(June 15, 2017 / Regulation No. 1460) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on June 26, 2017.   
+
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+The  “date  specified  in  the  Enforcement  Rules”  in  the  proviso  to  the  ADDENDUM  of  the 
+Derivatives Market Business Regulation (amended on February 8, 2017 and referred to as “the 
+Regulation” in this Article) shall refer to June 26, 2017 {limited to [§3(2)1] (limited to the ETF 
+futures  market)  and  [§3(2)5]  (limited  to  the  ETF  futures  spread  market),  Section  6  of 
+CHAPTER II under PART II ([§37-2] through [§37-5]),[§76(1)8] (limited to the ETF futures) 
+and [§76(1)9], and [§155] (limited to ETF futures and ETF futures spread) of the Regulation}. 
+
+§3. Special Cases concerning Commencement of Trading and Trading Periods of ETF 
+Futures 
+
+Notwithstanding the amended provisions of [§20-3(3)], the trading of four (4) delivery months 
+contracts of ETF futures of which the last trading day is the 2nd Thursday of each month of the 
+followings(to move forward sequentially if the relevant day falls on a market holiday) shall be 
+commenced on the effective date noted in [§1] of this ADDENDA: 
+
+1. September 2017; 
+2. December 2017; 
+3. March 2018; and 
+3. June 2018. 
+
+ADDENDA 
+(September 19, 2017 / Regulation No. 1492) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on  September 25, 2017. Provided that the 
+amended provisions of [§94-2(2)1] shall become effective on November 20, 2017. 
+
+§2. Special Cases concerning Timing for Calculating and Applying Assessment Rates 
+
+Notwithstanding  the  amended  provisions  of  [§92(3)]  and  [§92-2(5)]  of  these  Enforcement 
+Rules, the assessment rates of the quarter in which the effective date falls shall be calculated 
+on the day preceding the effective date and applied from the effective date to the end of the 
+quarter following the quarter in which the effective date falls. 
+
+§3.  Special  Cases  concerning  Invalidation  of  Substitute  Securities  Ineligible  for  Member 
+Margins 
+
+215 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notwithstanding the amended provisions of [§94-4] of these Enforcement Rules, the substitute 
+prices for the substitute securities ineligible for member margin shall be adjusted as follows:   
+
+1. The adjustment rate shall be 25 percent from the effective date of these Enforcement 
+Rules to September 24, 2018; and   
+
+2. The adjustment rate shall be 50 percent from September 25, 2018 to September 24, 2019. 
+
+§4. Special Cases concerning Deposit Limits per Issue of Substitute Securities 
+
+Notwithstanding  the  amended  provisions  of  [§94-5]  of  these  Enforcement  Rules,  the  rates 
+applied for calculation of deposit limits per issue or issuer of substitute securities shall be as 
+follows:   
+
+1. In the case of subparagraph 1 of [§94-5(1)]: 100/100 from the effective date of these 
+Enforcement  Rules  to  September  24,  2018;  and  75/100  from  September  25,  2018  to 
+September 24, 2019. Provided that, in the case of a security falling under subparagraph 1(b) 
+of [§112-2] of the Enforcement Rules of KOSPI Market Business Regulation, it shall be 
+200/100 and 150/100, respectively; and   
+
+2. In the case of subparagraphs 3 and 4 of [§94-5(1)]: 20/100 from the effective date of 
+these Enforcement Rules to September 24, 2018; and 15/100 from September 25, 2018 to 
+September 24, 2019. 
+
+ADDENDUM 
+(September 20, 2017 / Regulation No. 1493) 
+
+These  Enforcement  Rules  shall  become  effective  on  September  25,  2017.Provided  that  the 
+amended provisions of [§32-2] shall become effective on September 27, 2017, and the amended 
+provisions of [§72-12], [§79-8], [§118-2] and [§119(1)] shall become effective on October 23, 
+2017. 
+
+ADDENDUM 
+(November 10, 2017 / Regulation No. 1497) 
+
+These Enforcement Rules shall become effective on November 20, 2017. 
+
+ADDENDUM 
+(February 28, 2018 / Regulation No. 1534) 
+
+These Enforcement Rules shall become effective on March 5, 2018. 
+
+ADDENDA 
+(March 15, 2018 / Regulation No. 1541) 
+
+216 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on March26, 2018. 
+
+§2. Special Cases concerning Commencement of Trading and Trading Periods of KRX 300 
+Futures 
+
+Notwithstanding the amended provisions of [§4-7(3)], the trading of four (4) delivery months 
+contracts of KRX 300 futures of which the last trading day is the 2nd Thursday of each month 
+of the followings (to move forward sequentially if the relevant day falls on a market holiday) 
+shall be commenced on the effective date under[§1] of this ADDENDA: 
+
+1. June 2018; 
+2. September 2018; 
+3. December 2018; and 
+4. March2019. 
+
+§3. Special Cases concerning Commencement of Trading and Trading Periods of KOSDAQ 
+150Options 
+
+Notwithstanding the amended provisions of [§5-3(3)], the trading of six(6) expiration months 
+contracts of KOSDAQ 150 options of which the last trading day is the 2nd Thursday of each 
+month of the followings (to move forward sequentially if the relevant day falls on a market 
+holiday) shall be commenced on the effective date under[§1] of this ADDENDA: 
+
+1. April 2018; 
+2. May 2018; 
+3. June 2018;   
+4. September 2018; 
+5. December 2018; and 
+6. March 2019. 
+
+ADDENDUM 
+(March 23, 2018 / Regulation No. 1547) 
+
+These Enforcement Rules shall become effective on March 26, 2018. 
+
+ADDENDUM 
+(June 12, 2018 / Regulation No. 1565) 
+
+These Enforcement Rules shall become effective on June 15, 2018.Provided that the amended 
+provisions of [§56-2] shall become effective on July 2, 2018. 
+
+ADDENDA 
+(August 17, 2018 / Regulation No. 1576) 
+
+217 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§1. Effective Date   
+
+These  Enforcement  Rules  shall  become  effective  on  August  17,  2018.Provided  that, 
+notwithstanding  the  amended  provisions  of  [§164-4(2)],  the  provisions  on  the  foreigner’s 
+consolidated accounts shall be effective on the date separately determined by the Exchange.   
+
+§2. Special Cases concerning the Last Trading Day of Single Stock Options 
+
+Notwithstanding  the  provisions  of  [§13-2(3)]  and  the  main  sentence  of  [§1]  of  this 
+ADDEENDA,  the  last  trading  day  of  each  of  the  following  expiration  months  contracts  of 
+singly  stock options  shall  be the thirteenth  (13th) day of September 2018. In such cases, the 
+trading  of  new  expiration  month  contracts  for  each  of  following  expiration  month  contracts 
+shall not be commenced: 
+
+1. December 2019; 
+2. June 2020; and 
+3. December 2020. 
+
+§3. Special Cases concerning Commencement of Trading and Trading Periods of ETF 
+Futures 
+
+Notwithstanding the amended provisions of [§20-3(3)], the trading of four (4) delivery months 
+contracts of TIGER China CSI 300ETF Futures of which the last trading day is the 2nd Thursday 
+of each month of the followings (to move forward sequentially if the relevant day falls on a 
+market holiday) shall be commenced on the effective date under the main sentence of [§1] of 
+this ADDENDA: 
+
+1. December 2018; 
+2. March 2019; 
+3. June 2019; and 
+4. September 2019. 
+
+ADDENDUM 
+(September 7, 2018 / Regulation No. 1578) 
+
+These  Enforcement  Rules  shall  become  effective  on  September  17,  2018.Provided  that  the 
+amended provisions of [Annex 19] shall become effective on October 1, 2018. 
+
+ADDENDUM 
+(December 5, 2018 / Regulation No. 1600) 
+
+These Enforcement Rules shall become effective on December 10, 2018. 
+
+ADDENDUM 
+(December 7, 2018 / Regulation No. 1610) 
+
+218 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These  Enforcement  Rules  shall  become  effective  on  December  10,  2018.Provided  that  the 
+amended provisions of [§50], [§60-2] and  [Annex 25] shall become effective on  January 2, 
+2019. 
+
+ADDENDUM 
+(January 25, 2019 / Regulation No. 1635) 
+
+These Enforcement Rules shall become effective on January 28, 2019. 
+
+ADDENDUM 
+(April 4, 2019 / Regulation No. 1659) 
+
+These Enforcement Rules shall become effective on April 29, 2019. 
+
+ADDENDA 
+(July 1, 2019 / Regulation No. 1692) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on July 29, 2019.   
+
+§2. Effective Date of the Enforcement Rules of Derivatives Market Business Regulation 
+
+“Date separately determined by the Exchange” in [§1] of the ADDENDA of the Enforcement 
+Rules of Derivatives Market Business Regulation, Regulation No. 1576 (amended on August 
+17, 2018) shall refer to July 29, 2019. 
+
+ADDENDA 
+(July 22, 2019 / Regulation No. 1707) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on July 29, 2019.   
+
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+“Date set by the Enforcement Rules” in the proviso to the ADDENDUM of the Derivatives 
+Market Business Regulation, Regulation No. 1701 (amended on July 10, 2019), in the case of 
+the  amended  provisions  of  [§89]  of  the  Regulation  concerning  the  restriction  on  deposit  of 
+member margins in the securities issued by members or related companies of members, shall 
+refer to July 29, 2019. 
+
+219 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADDENDA 
+(July 30, 2019 / Regulation No. 1709) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on September 23, 2019. 
+
+§2. Special Cases concerning Commencement of Trading and Trading Periods of Delivery 
+Week Contracts of KOSPI 200 Options 
+
+Notwithstanding  the  amended  provisions  of  [§5-4(2)],  the  trading  of  one(1)  delivery  week 
+contract of KOSPI 200 options, the last trading day of which is the 4thThursday of September 
+2019(to  move  forward  sequentially  if  the  relevant  day  falls  on  a  market  holiday)  shall  be 
+commenced on the effective date of these Enforcement Rules. 
+
+ADDENDUM 
+(September 20, 2019 / Regulation No. 1732) 
+
+These Enforcement Rules shall become effective on September 23, 2019. 
+
+ADDENDA 
+(October 14, 2019 / Regulation No. 1739) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on December 2, 2019.   
+
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+“Date set by the Enforcement Rules” in the proviso to the ADDENDUM of the Derivatives 
+Market  Business  Regulation,  Regulation  No.  1701  (amended  on  July  10,  2019),  for  the 
+amended  provisions  of  [§127]  of  the  Regulation  concerning  improvement  of  basic  deposit 
+system, refers to December 2, 2019. 
+
+§3. Special Cases in applying Provisions on Amount of Basic Deposits 
+
+Notwithstanding the amended provisions of [§122(1)], the amounts of basic deposit under the 
+former provisions (1stphase: more than KRW 5,000,000, but less than KRW 15 million;2ndphase: 
+more than KRW 15 million, but less than KRW 30 million; and3rdphase: more than KRW 30 
+million) may apply to the customers who are applied with amounts that are lower than those 
+under the amended provisions based on the trading day immediately preceding the effective 
+date in [§1] of this ADDENDA (referring to December 2, 2019).   
+
+§4. Special Cases in applying Provisions on Training and Mock Trading 
+
+220 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notwithstanding  the  amended  provisions  of  [§115(3)&  (4)],  the  time  of  derivatives-related 
+training  (20  hours  or  more  of  derivatives  training  on  futures  trades  and  options  purchasing 
+trades  or  10  hours  or  more  of  derivatives  training  on  options  selling  trades,  etc.)  and  mock 
+trading  (50  hours  or  more)  that  a  customer  has  completed  by  the  trading  day  immediately 
+preceding the effective date in [§1] of this ADDENDA (referring to December 2, 2019) shall 
+be  included  in  the  time  of  completion  of  the  training  and  mock  trading  under  the  amended 
+provisions of [§115(3)& (4)]. 
+
+ADDENDA 
+(October 30, 2019 / Regulation No. 1743) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on December 2, 2019.   
+
+§2. Effective Date of the Derivatives Market Business Regulation 
+
+“Date set by the Enforcement Rules” in the proviso to the ADDENDUM of the Derivatives 
+Market  Business  Regulation,  Regulation  No.  1701  (amended  on  July  10,  2019),  for  the 
+amended provisions of subparagraphs 14 and 22 (limited to the amended provisions of “[§63] 
+and  [§63-3]”  of  [§2],  [§3],  [§62],  [§63],  [§63-2]  and  [§63-3]  of  the  Regulation  concerning 
+opening of the inter-KTB futures spreads market, refers to December 2, 2019. 
+
+ADDENDUM 
+(November 27, 2019 / Regulation No. 1752) 
+
+These Enforcement Rules shall become effective on July 1, 2020. (Amended on June 15, 2020)
+
+ADDENDUM 
+(December 26, 2019 / Regulation No. 1767) 
+
+These Enforcement Rules shall become effective on January 2, 2020. 
+
+ADDENDUM 
+(March16, 2020 / Regulation No. 1786) 
+
+These Enforcement Rules shall become effective on April 27, 2020. (Amended on April 22, 
+2020) 
+
+ADDENDUM 
+(March17, 2020 / Regulation No. 1790) 
+
+221 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These Enforcement Rules shall become effective on March 18, 2020. 
+
+ADDENDUM 
+(April22, 2020 / Regulation No. 1800) 
+
+These Enforcement Rules shall become effective on April 27, 2020. 
+
+ADDENDUM 
+(May 6, 2020 / Regulation No. 1814) 
+
+These Enforcement Rules shall become effective on May 8, 2020. 
+
+ADDENDUM 
+(May 18, 2020 / Regulation No. 1829) 
+
+These Enforcement Rules shall become effective on May 25, 2020. 
+
+ADDENDUM 
+(June 15, 2020 / Regulation No. 1840) 
+
+These Enforcement Rules shall become effective on June 12, 2020. 
+
+ADDENDA 
+(July 30, 2020 / Regulation No. 1861) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on July 31, 2020.   
+
+§2. Transitional Measures concerning Low Liquidity Products   
+
+For a product that has been designated as a low liquidity product when the Enforcement Rules 
+were effective for more than four years, measures shall be taken after assessing the product in 
+accordance with Annex 21 based on the day three (3) months later from the first trading day of 
+the next month of the month the effective date of the Enforcement Rules falls.   
+
+ADDENDA 
+(September 3, 2020 / Regulation No. 1867) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on September 7, 2020. Provided that, for the 
+
+222 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+report and negotiated trade which a member inputs the matters related to the derivatives account 
+to the Exchange derivatives system via the member derivative system pursuant to [§114] shall 
+start  from the date set  by the Exchange. The report of the matters related to  the derivatives 
+account before the Effective Date shall be made in writing.   
+
+§2. Commencement of ETF Futures Trading and Special Case regarding Trading Period 
+
+Notwithstanding  [§20(3)3],  trading  of  four  (4)  delivery  month  contracts  of  KODEX 
+Top5PlusTR ETF Futures, of which the last trading day is the second Thursday (if it is a market 
+holiday,  it  shall  be  moved  forward  sequentially)  of  the  months  noted  in  the  following 
+subparagraphs shall begin on the Effective Date of [§1] of this Addenda. 
+
+1. September 2020; 
+2. December 2020; 
+3. March 2021; and 
+4. June 2021. 
+
+§1. Effective Date   
+
+ADDENDA 
+(December 2, 2020 / Regulation No. 1893) 
+
+These Enforcement Rules shall become effective on December 7, 2019.   
+
+§2. Effective Date of the Enforcement Rules of Derivatives Market Business Regulation 
+
+“Date set by the Exchange “in relation to the implementation time of [§114(4)] stated in [§1] 
+of  the ADDENDA  of  the  Enforcement  Rules  of  Derivatives  Market  Business  Regulation, 
+Regulation No. 1867 (amended on September 3, 2020), shall refer to December 7, 2020 
+
+ADDENDUM 
+(December 10, 2020 / Regulation No. 1895) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on December 21, 2020.   
+
+ADDENDUM 
+(March 8, 2021 / Regulation No. 1919) 
+
+These Enforcement Rules shall become effective on March 15, 2021. 
+
+ADDENDA 
+(March9, 2021 / Regulation No. 1929) 
+
+223 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on March15, 2021. Provided that the amended 
+provisions of [§72-9], [§72-13] and [§132] shall become effective on March 22, 2021. 
+
+§2. Interim Measures concerning Market Making Products 
+
+For  a  product  whose  market  making  agreement  has  been  concluded  in  accordance  with  the 
+previous Regulation, and the market making is in progress (referring to KTB futures products, 
+spreads between KTB futures products and currency futures products) as of the effective date 
+of these Enforcement Rules, the previous Regulation and market making agreement shall be 
+effective. 
+
+ADDENDUM 
+(May 18, 2021 / Regulation No. 1962) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on May 20, 2021. 
+
+ADDENDUM 
+(June7, 2021 / Regulation No. 1965) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on June 21, 2021. 
+
+ADDENDA 
+(July 13, 2021 / Regulation No. 1973) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective onJuly19, 2021. Provided that, the amended 
+provision of [§72-9] shall become effective from July 26, 2021. 
+
+§2. Special Cases concerning Commencement of Trading and Exception to Trading Periods 
+of Newly Listed Products 
+
+(1) The  trades  of  KRX  K-New  Deal  index  futures  newly  selected  pursuant  to  the  amended 
+provisions of [Annex 1-3] and TIGER US NASDAQ 100 ETF futures newly selected pursuant 
+to the amended provisions of [Annex 1-4] (hereinafter referred to as “the newly listed products” 
+in this Article) shall be commenced on the effective date of these Enforcement Rules. 
+
+(4) Notwithstanding  [§4-7(3)3]  and  [§20-3(3)],  the  trading  of  four  (4)  delivery  months 
+224 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+contracts of the newly listed products of which the last trading day is the 2nd Thursday of 
+each month of the followings (to move forward sequentially if the relevant day falls on a 
+market holiday) shall be commenced on the effective date under the main sentence of [§1] 
+of this ADDENDA: 
+
+1. September2021; 
+2. December 2021; 
+3. March 2022; and 
+4. June 2022. 
+
+ADDENDA 
+(November 25, 2021 / Regulation No. 2007) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on November 29, 2021.   
+
+§2. Effective Period for Additional Exercise Prices of KOSPI200 Options and Mini 
+KOSPI200 Options 
+
+The amended provisions of [§6(4)] shall be effective until the date separately specified by the 
+Exchange in consideration of the time required for the development of computer program, 
+etc. 
+
+§3. Special Cases concerning Exercise Prices of KOSPI200 and Mini KOSPI200 
+
+Notwithstanding the amended provisions of [§6(3)], the exercise price of each expiration 
+month contract for KOSI200 option trades and Mini KOSPI200 option trades set in 
+accordance with the previous Regulation at the time when these Enforcement Rules became 
+effective shall be maintained until the last trading day of the relevant expiration month 
+contract. 
+
+ADDENDA 
+(February 16, 2022 / Regulation No. 2023) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on March 28, 2022.   
+
+§2. Effective Date of the Enforcement Rules of the Derivatives Market Business Regulation   
+
+“The day stipulated in the Enforcement Rules” in the Addenda of the Derivatives Market 
+Business Regulation amended on November 24, 2021, Regulation No. 2004, shall be March 
+28, 2022. 
+
+§3.  Commencement  of  3-month  Risk  Free  Benchmark  Interest  Rate  Futures  Trading  and 
+
+225 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Special Case regarding Trading Period 
+
+Notwithstanding [§25(3)3], trading of eight (8) delivery month contracts of 3-month Risk Free 
+Benchmark Interest Rate Futures, of which the last trading day is the trading day immediately 
+preceding the third Wednesday of the months noted in the following subparagraphs, shall begin 
+on the Effective Date of [§1] of this Addenda. 
+
+1. April 2022; 
+2. May 2022; 
+3. June 2022; 
+4. July 2022; 
+5. August 2022; 
+6. September 2022; 
+7. December 2022; and 
+8. March 2023. 
+
+ADDENDUM 
+(March 14, 2022 / Regulation No. 2024) 
+
+These Enforcement Rules shall become effective on March 28, 2022. 
+
+ADDENDUM 
+(March 24, 2022 / Regulation No. 2029) 
+
+These Enforcement Rules shall become effective on March 28, 2022. 
+
+ADDENDA 
+(December 21, 2022 / Regulation No. 2093) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on January 25, 2023. 
+
+§2. Enforcement Date of Derivatives Market Business Regulation 
+
+“The date stipulated in the Enforcement Rules” in [§1] of Addenda of the Derivatives Market 
+Business Regulation, Regulation No. 2083 (amended on December 7, 2022), shall be January 
+25, 2023.   
+
+ADDENDA 
+(May 24, 2023 / Regulation No. 2126) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on May 30, 2023. Provided that the amended 
+
+226 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+provisions in the Annexes 12and 17 shall be effective from the market closing on May 30, 2023. 
+
+§2. Application of Market Making Products 
+
+The amended provisions of [§81(2)] shall apply from the case where a market making contract 
+is concluded after the enforcement of these Enforcement Rules.   
+
+ADDENDUM 
+(June 29, 2023 / Regulation No. 2137) 
+
+These Enforcement Rules shall become effective on July 31, 2023. Provided that the amended 
+provisions of [§8], [§8-2], [§8-3] and [§13] shall become effective on June 30, 2023. 
+
+ADDENDA 
+(July 18, 2023 / Regulation No. 2141) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on July 31, 2023.   
+
+§2. Effective Date of Derivatives Market Business Regulation 
+
+“The date stipulated in the Enforcement Rules” in Addendum of the Derivatives Market 
+Business Regulation, Regulation No. 2138 (amended on July 5, 2023), shall be July 31, 2023. 
+
+ADDENDUM 
+(September 22, 2023 / Regulation No. 2178) 
+
+These Enforcement Rules shall become effective after the market closing on October 4, 2023. 
+Provided that the amended provisions of [§114-6(2)] shall become effective on October 4, 2023. 
+
+ADDENDUM 
+(November 24, 2023 / Regulation No. 2190) 
+
+These Enforcement Rules shall become effective on November 29, 2023. Provided that the 
+amended provisions of [§20-4] and [§69] shall become effective on December 11, 2023. 
+
+ADDENDA 
+(February 5, 2024 / Regulation No. 2208) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on February 19, 2024.   
+
+227 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§2. Special Cases concerning Trading Periods of 30-year KTB Futures 
+
+Notwithstanding [§20-7(3)], the trading of two (2) delivery month contracts of the 30-year 
+KTB futures of which the last trading day is the 3rd Tuesday of the month corresponding to 
+each  of  the  following  items  shall  be  commenced  on  the  effective  date  of  [§1]  of  these 
+Enforcement Rules: 
+
+1. March 2024; and 
+2. June 2024. 
+
+§1. Effective Date   
+
+ADDENDA 
+(April 5, 2024 / Regulation No. 2224) 
+
+These Enforcement Rules shall become effective on April 22, 2024.   
+
+§2. Special Cases concerning Trading Periods of KOSDAQ Global Index Futures 
+
+Notwithstanding the amended provisions of [§4-7(3)3], the trading day of four (4) delivery 
+month contracts of the KOSDAQ Global Index futures of which the last trading day is the 2nd 
+Thursday of the month corresponding to each of the following items shall be commenced on 
+the effective date of these Enforcement Rules: 
+
+1. June 2024; 
+2. September 2024; 
+3. December 2024; and 
+4. March 2025. 
+
+§3. Special Cases concerning Last Trading Day of Sector Index Futures 
+
+Notwithstanding the amended provisions of [§4-7(3)3], the last trading of contracts of which 
+the delivery month falls under any of the following items, among sector index futures listed 
+before the enforcement of these Enforcement Rules, shall be changed to April 19, 2024: 
+
+1. June 2025; 
+2. December 2025; and 
+3. December 2026. 
+
+§4. Special Cases concerning Last Trading Day of Single Stock Futures 
+
+Notwithstanding the amended provisions of [§8-4(3)], the last trading of contracts of which 
+the delivery month falls under any of the following items, among single stock futures listed 
+before the enforcement of these Enforcement Rules, shall be changed to April 19, 2024: 
+
+1. June 2025; 
+2. December 2025; and 
+
+228 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. December. 2026. 
+
+ADDENDUM 
+(June 25, 2024 / Regulation No. 2240) 
+
+These Enforcement Rules shall become effective on July 1, 2024. 
+
+ADDENDUM 
+(November 1, 2024 / Regulation No. 2263) 
+
+These Enforcement Rules shall become effective on November 4, 2024. 
+
+ADDENDUM 
+(March 24, 2025 / Regulation No. 2313) 
+
+These Enforcement Rules shall become effective on March 26, 2025. 
+
+ADDENDA 
+(April 18, 2025 / Regulation No. 2324) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on May 21, 2025.   
+
+§2. Special Cases concerning Last Trading Day of Euro STOXX 50 Futures   
+
+①  The last trading day for the eight (8) delivery months of the Euro Stoxx 50 Futures, 
+which have been listed before these Enforcement Rules become effective, shall be May 
+16, 2025 (If it falls on a holiday, the date will be brought sequentially). 
+
+②  After the last trading day specified in paragraph 1, new delivery months for Euro Stoxx 
+
+50 Futures shall not be listed. 
+
+ADDENDA 
+(May 29, 2025 / Regulation No. 2334) 
+
+§1. Effective Date 
+
+These Enforcement Rules shall become effective on June 9, 2025. 
+
+§2. Enforcement Date of Derivatives Market Business Regulation 
+
+“The date stipulated in the Enforcement Rules” in [§1] of Addenda of the Derivatives Market 
+Business Regulation, Regulation No. 2327 (amended on May 2, 2025), shall be June 9, 2025.   
+
+229 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§3. Special Case concerning Change of Trading Hours and discretionary suspension of trading 
+due to System Failure 
+
+Notwithstanding the amended provisions of [§4(2)3], in order to determine whether the number 
+of cleared contract of members falls under subparagraph 2 of [§4] due to a member derivatives 
+system  failure  that  occurs  during  night  trading  hours  from  the  effective  date  of  these 
+Enforcement Rules to a date separately determined by the Exchange, the quantity of cleared 
+contracts during regular trading hours shall be used. (Amended on October 1, 2025) 
+
+ADDENDUM 
+(August 18, 2025 / Regulation No. 2353) 
+
+These Enforcement Rules shall become effective on August 22, 2025. 
+
+ADDENDA 
+(October 1, 2025 / Regulation No. 2359) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective from the start of order receiving hours for 
+call auction for opening price in the regular trading session on October 27, 2025.   
+
+§2. Special Cases concerning Commencement of Trading and Trading Period of Newly Listed 
+Products 
+
+Notwithstanding  the  amended  provisions  of  [§4-7(3)3]  and  [§20-3(3)],  the  trading  day  of 
+newly listed products for the four (4) delivery month contracts with the final trading day being 
+the 2nd Thursday (if it is a holiday, the trading day shall be sequentially brought forward) of 
+the month corresponding to each of the following items shall be commenced after the effective 
+date of these Enforcement Rules: 
+
+1. December 2025; 
+2. March 2025; 
+3. June 2025; and 
+4. September 2025. 
+
+ADDENDUM 
+(February 9, 2026 / Regulation No. 2409) 
+
+These Enforcement Rules shall become effective on February 11, 2026. 
+
+ADDENDA 
+(April 6, 2026 / Regulation No. 2428) 
+
+230 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on April 27, 2026. Provided that the amended 
+provision of [§6] shall become effective from the start of quotation receiving hours for opening 
+call auction of the night trading session on April 24, 2026.   
+
+§2. Special Cases concerning Commencement of Trading and Trading Period of ETF Futures 
+
+Notwithstanding  the  amended  provisions  of  [§20-3(3)],  on  the  effective  day  of  the  main 
+sentence of [§1] of the Addenda, trading of TIGER Semi-conduct TOP 10 ETF futures for 
+four delivery month contracts of which the last trading day is the second Thursday (if it is a 
+holiday,  it  shall  be  moved  forward  sequentially)  of  the  month  falling  under  each  of  the 
+following subparagraphs: 
+
+1. June 2026; 
+2. September 2026; 
+3. December 2026; and 
+4. March 2027. 
+
+ADDENDA 
+(April 9, 2026 / Regulation No. 2429) 
+
+§1. Effective Date   
+
+These Enforcement Rules shall become effective on April 13, 2026.   
+
+§2. Application Cases concerning Calculation Standards for Credit Risk Member Margin 
+
+In the case of a clearing member for whom an excess state of credit risk member margin has 
+occurred and the resolution period is in progress pursuant to the former Article 94-2 as of the 
+effective date of these Enforcement Rules, the remaining resolution period shall expire from 
+the  effective  date  of  these  Enforcement  Rules,  and  the  calculation  standards  for  credit  risk 
+member margin shall be applied in accordance with the amended provision of [§94-2] of these 
+Enforcement Rules. 
+
+231 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 1] Base Prices of Underlying Assets 
+(Amended on August 21, 2009; July 30, 2010; July 8, 2013; November 3, 2014; July 3, 2015; September 16, 2015; 
+October 28, 2015; June 20, 2016; March 13, 2017; June 15, 2017; March 15, 2018; February 16, 2022; May 24, 
+2023; February 5, 2024; April 5, 2024; June 25, 2024; November 1, 2024; April 18, 2025) 
+
+Base Prices of Underlying Assets 
+(Pertaining to [§2(1)]) 
+
+Pursuant to [§2(1)], the base price of underlying asset shall be the price (if there is no such 
+price, it shall be the price of the day moved forward in sequential order) of underlying assets 
+falling under each of the following subparagraphs: 
+
+1. For KOSPI 200 Futures, Mini KOSPI 200 Futures, KOSPI 200 Options and Mini KOSPI200 
+Options: the closing value of KOSPI 200;   
+
+2. For KOSDAQ 150 Futures and KOSDAQ 150 Options: the closing value of KOSDAQ 150; 
+
+3. For KRX 300 Futures: the closing value of KRX 300; 
+
+4. For KOSDAQ Global futures: the closing value of KOSDAQ Global   
+
+5. For Sector Index Futures: the closing value of Sector Index; 
+
+6. [Deleted on April 18, 2025] 
+
+7. For V-KOSPI Futures: the closing value of V-KOSPI 200; 
+
+8. For Single Stock Futures and Single Stock Options: the closing prices of underlying stock; 
+
+9. For ETF futures: the closing price of underlying ETF; 
+
+10. For 3-year KTB Futures,  5-year KTB  Futures,  10-year  KTB Futures, and 30-year KTB 
+Futures: the value obtained by substituting the settlement yield of the formula noted in each 
+item of [§20-9(3)] with the annual yield in the morning (if there is no yield published in the 
+morning, it shall be the annual yield published immediately before; and if the underlying basket 
+of bonds for final settlement is more than one, it shall be the yield resulted from rounding off 
+the arithmetic average of the yields of underlying basket of bonds for final settlement at the 4th 
+decimal place) of the underlying basket of bonds for final settlement, which is published by the 
+Korea Financial Investment Association (“the Association”); 
+
+11. For 3-month Risk Free Benchmark Interest Rate Futures: 100 – KOFR 3-month compound 
+interest rate (However, in the case of calculating the margin and the resolution limit range of 
+transaction errors, “100 – the benchmark interest rate” shall be the base price of underlying 
+asset); 
+
+12. For USD Futures and USD FLEX Futures: the final US dollar spot rate at 15:30; 
+
+13. For Currency Options: the basic rate determined and published on the next business day 
+(referring to the business day of Seoul Money Brokerage Services) after producing the final 
+232 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+US dollar spot rate at 15:30; 
+
+14. For JPY Futures: the KRW/JPY100 exchange rate (to be rounded off at the 3rd decimal 
+place)  calculated  by  multiplying  100  by  the  value  resulted  from  dividing  the  base  price  of 
+underlying asset of USD Futures by the average of selling rate and buying rate of JPY/USD 
+published at 15:30 by an international information service provider designated by the Exchange; 
+
+15. For EUR Futures: the KRW/EUR exchange rate (to be rounded off at the 3rd decimal place) 
+calculated by multiplying the base price of underlying asset of USD Futures by the average of 
+selling rate and buying rate of USD/EUR published at 15:30 by an international information 
+service provider designated by the Exchange; 
+
+16. For CNY  Futures:  the closing  KRW/CNY  exchange  rate established in the spot market 
+operated by the Seoul Money Brokerage Services; 
+
+17. For Gold Futures: the closing price of gold bullions in KRX Gold Market; and 
+
+18. For Lean Hog Futures: the average daily price of lean hog. 
+
+Notes: 
+1. The “international information service provider designated by the Exchange” in subparagraphs 14 and 15 shall 
+refer  to  Refinitiv.  Provided  that,  when  it  is  deemed  necessary  for  the  market  management,  it  shall  be  the 
+information service provider designated by the Exchange for each case. (Amended on November 3, 2014) 
+
+(a) [Deleted on October 28, 2015] 
+(b) [Deleted on October 28, 2015] 
+
+2. In the case of newly designating or changing an international information service provider, the Exchange shall 
+make such fact, without delay, through the electronic information delivery medium operated by the Exchange. 
+3. [Deleted on October 20, 2010] 
+4. [Deleted on October 20, 2010] 
+
+233 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 1-2] Detailed Breakdown of Markets and Regular Trading Hours and Night Trading 
+Hours for Market and Product 
+[March 13, 2017] (Amended on June 15, 2017; March 15, 2018; October 30, 2019; February 16, 2022; July 18, 
+2023; February 5, 2024; April 5, 2024; November 1, 2024; April 18, 2025; May 29, 2025; October 1, 2025) 
+
+Detailed Breakdown of Markets and Regular Trading Hours and Night Trading Hours 
+for Market and Product 
+(Pertaining to [§3-2], [§3-3] and [§4-2]) 
+
+1. Breakdown of Markets 
+
+Type of markets 
+
+Detailed markets 
+
+Domestic Index Futures 
+Market 
+
+KOSPI 200 Futures Market 
+
+Mini KOSPI 200 Futures Market 
+
+KOSDAQ 150 Futures Market 
+
+KRX 300 Futures Market 
+
+KOSDAQ Global Futures Market 
+
+Sector Index Futures 
+Market 
+
+Futures Market for each underlying asset of 
+sector indices noted in [Annex 1-3] 
+
+Equity 
+Derivatives 
+Markets 
+
+Domestic Index Options 
+Market 
+
+Volatility Index Futures 
+Market 
+Domestic Single Stock 
+Futures Market 
+Domestic Single Stock 
+Options Market 
+ETF Futures Market 
+
+Interest Rate 
+Derivatives 
+Markets 
+
+KTB Futures Market 
+
+Short-term Interest Rate 
+Futures Market 
+
+Currency 
+Derivatives 
+Markets 
+
+Currency Futures 
+Market 
+
+KOSPI 200 Options Market 
+
+Mini KOSPI 200 Options Market 
+
+KOSDAQ 150 Options Market 
+
+V-KOSPI 200 Futures Market 
+
+Futures Market for each underlying stock 
+
+Options Market for each underlying stock 
+
+Futures Market for each underlying ETF 
+
+3-year KTB Futures Market 
+
+5-year KTB Futures Market 
+
+10-year KTB Futures Market 
+
+30-year KTB Futures Market 
+3-month Risk Free Benchmark Interest 
+Rate Futures Market 
+USD Futures Market 
+
+JPY Futures Market 
+
+EUR Futures Market 
+
+234 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Commodity 
+Derivatives 
+Markets 
+
+Currency Options 
+Market 
+Gold Futures Market 
+Lean Hog Futures 
+Market 
+
+CNY Futures Market 
+
+UDD Options Market 
+
+Gold Futures Market 
+
+Lean Hog Futures Market 
+
+Domestic Index Futures 
+Spreads Market 
+
+Sector Index Futures 
+Spreads Market 
+Volatility Index Futures 
+Spreads Market 
+Domestic Single Stock 
+Futures Spreads Market 
+
+KOSPI 200 Futures Spreads Market 
+
+Mini KOSPI 200 Futures Spreads Market 
+
+KOSDAQ 150 Futures Spreads Market 
+
+KRX 300 Futures Spreads Market 
+
+KOSDAQ Global Futures Spreads Market 
+Futures Spreads Market for each underlying 
+asset of sector indices noted in [Annex 1-3] 
+
+V-KOSPI 200 Futures Spreads Market 
+
+Futures Spreads Market for each underlying 
+stock 
+3-year KTB Futures Spreads Market 
+
+Futures Spreads 
+Markets 
+
+KTB Futures Spreads 
+Market 
+
+5-year KTB Futures Spreads Market 
+
+10-year KTB Futures Spreads Market 
+
+Inter-KTB Futures 
+Spreads 
+Short-term Interest Rate 
+Futures Spread Market 
+
+30-year KTB Futures Spreads Market 
+Inter-3-year and 10-year KTB Futures 
+Spreads Market 
+3-month Risk Free Benchmark Interest 
+Rate Futures Spread Market 
+USD Futures Spreads Market 
+
+Currency Futures 
+Spreads Market 
+
+Gold Futures Spreads 
+Market 
+Lean Hog Futures 
+Spreads Market 
+FLEX Futures Market 
+
+JPY Futures Spreads Market 
+
+EUR Futures Spreads Market 
+
+CNY Futures Spreads Market 
+
+Gold Futures Spreads Market 
+
+Lean Hog Futures Spreads Market 
+
+USD FLEX Futures Market 
+
+FLEX Markets 
+
+235 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Regular Trading Hours by Market 
+
+Type of Markets 
+
+Regular Trading Hours 
+
+Commodity Derivatives 
+Market 
+
+Futures Spread Market 
+
+Lean Hog Futures Market 
+
+From 10:15 to 15:45 
+
+Lean Hog Futures Spreads 
+Market 
+
+From 10:15 to 15:45 
+
+Note: Regular trading hours of the markets not stipulated in subparagraph 2 shall be as 
+stipulated in the main sentence in [§4(1)1] of the Regulation. 
+
+3. Regular Trading Hours of Contracts Whose Last Trading Day Arrives 
+
+Type of Markets 
+
+Regular Trading Hours 
+
+Equity Derivatives Market 
+
+Interest Rate Derivatives 
+Market 
+
+Currency Derivatives 
+Market 
+Commodity Derivatives 
+Market 
+
+Futures Spread Market 
+
+Domestic Index Futures Market 
+Domestic Index Options Market 
+Sector Index Futures Market 
+Domestic Single Stock Futures 
+Market 
+Domestic Single Stock Options 
+Market 
+ETF Futures Market 
+Volatility Index Futures Market   
+KTB Futures Market 
+Short-term Interest Rate Futures 
+Market 
+Currency Futures Market 
+Currency Options Market 
+Gold Futures Market 
+Lean Hog Futures Market 
+Domestic Index Futures Spreads 
+Market 
+Sector Index Futures Spreads 
+Market 
+Domestic Single Stock Futures 
+Spreads Market 
+ETF Futures Spreads Market   
+Volatility Index Futures Spreads 
+Market   
+KTB Futures Spreads Market 
+Inter-KTB Futures Spreads 
+Market 
+Short-term Interest Rate Futures 
+Spread Market 
+Currency Futures Spreads 
+Market 
+
+From 08:45 to 15:20 
+
+From 08:45 to 15:35 
+From 08:45 to 11:30 
+
+From 08:45 to 15:45 
+
+From 08:45 to 11:30 
+From 08:45 to 15:30 
+From 08:45 to 15:20 
+From 10:15 to 15:45 
+
+From 08:45 to 15:20 
+
+From 08:45 to 15:35 
+
+From 08:45 to 11:30 
+
+From 08:45 to 15:45 
+
+From 08:45 to 11:30 
+
+236 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gold Futures Spreads Market 
+Lean Hog Futures Spreads 
+Market 
+FLEX Futures Market 
+
+From 08:45 to 15:20 
+
+From 10:15 to 15:45 
+
+From 08:45 to 15:45 
+
+Flex Market 
+
+4. Markets Eligible for Night Trading 
+
+Type of markets 
+
+Detailed markets 
+
+Equity 
+Derivatives 
+Market 
+
+Interest Rate 
+Derivatives 
+Market 
+Currency 
+Derivatives 
+Market 
+
+Futures Spreads 
+Market 
+
+Domestic Index Futures 
+Market 
+
+Domestic Index Options 
+Market 
+
+KTB Futures Market 
+
+KOSPI 200 Futures Market 
+
+Mini KOSPI 200 Futures Market 
+
+KOSDAQ 150 Futures Market 
+
+KOSPI 200 Options Market 
+
+Mini KOSPI 200 Options Market 
+
+KOSDAQ 150 Options Market 
+
+3-year KTB Futures Market 
+
+10-year KTB Futures Market 
+
+Currency Futures 
+Market 
+
+USD Futures Market 
+
+Domestic Index Futures 
+Spreads Market 
+
+KTB Futures Spreads 
+Market 
+
+Currency Futures 
+Spreads Market 
+
+KOSPI 200 Futures Spreads Market 
+
+Mini KOSPI 200 Futures Spreads Market 
+
+KOSDAQ 150 Futures Spreads Market 
+
+3-year KTB Futures Spreads Market 
+
+10-year KTB Futures Spreads Market 
+
+USD Futures Spreads Market 
+
+237 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  [Annex 1-3] Underlying Assets and Multiplier of Sector Index Futures Trades 
+[November 3, 2014] (Amended on September 16, 2015; March 21, 2016; November 21, 2016; March 13, 2017; 
+July 13, 2021; November 24, 2023; November 1, 2024; October 1, 2025) 
+
+Underlying Assets and Multiplier of Sector Index Futures Trades 
+(Pertaining to [§4-6] and [§4-8]) 
+
+Products 
+
+Underlying Assets 
+
+Multipliers 
+
+KOSPI200 Energy/Chemicals 
+
+KOSPI200 Information Technology 
+
+KOSPI200 Financial 
+
+KOSPI200 Business Consumer Goods 
+
+KOSPI200 Construction 
+
+KOSPI200 
+Sector Index Futures 
+
+KOSPI200 Heavy Industries 
+
+10,000 
+
+KOSPI200 Health Care 
+
+KOSPI200 Consumer Discretionary 
+
+KOSPI200 Steel/Materials 
+
+KOSPI200 Industrials 
+
+KOSPI High Dividend 50 
+
+KOSPI Dividend Growth50 
+
+KRX BBIG 
+
+2,000 
+
+KRX Secondary Battery TOP 10 
+
+1,000 
+
+KRX Bio TOP 10 
+
+KRX Semiconductor 
+
+Korea Value-up 
+
+10,000 
+
+10,000 
+
+238 
+
+KOSPI 
+Dividend Index 
+Futures 
+
+KRX BBIG Index 
+Futures   
+
+KRX Secondary Battery 
+Index Futures 
+KRX Bio   
+Index Futures 
+KRX Semiconductor 
+Index Futures 
+Korea Value-up Index 
+Futures 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 1-4] Underlying ETFs of ETF Futures and Position Limit of Open Interests 
+[June15, 2017] (Amended on August 17, 2018; September 7, 2018; September 3, 2020; July 13, 2021; 
+December 21, 2022; November 1, 2024; May 29, 2025; October 1, 2025; April 27, 2026) 
+
+Underlying ETFs of ETF Futures and Position Limit of Open Interests 
+(Pertaining to [§20-2] and [§162-2]   
+
+Products 
+
+Underlying ETFs 
+
+KODEX Samsung Group 
+ETF Futures 
+
+TIGER Health Care ETF 
+Futures 
+
+PLUS High-dividend Stock 
+ETF Futures 
+
+TIGER China CSI300 ETF 
+Futures 
+
+KODEX Top5 Plus TR ETF 
+Futures 
+
+TIGER US Nasdaq 100 
+ETF Futures 
+
+PLUS K-Defense 
+ETF Futures 
+
+SOL Shipbuilding TOP3 
+PLUS ETF Futures 
+
+TIGER Semi-conduct TOP 
+10 ETF Futures   
+
+KODEX Samsung Group ETF 
+(Referring to the Samsung KODEX 
+Samsung Group stock ETF investment 
+trust) 
+TIGER Health Care ETF 
+(Referring to the Mirae Asset TIGER 
+Health Care stock ETF investment trust) 
+PLUS High-dividend Stock ETF 
+(Referring to the Hanwha PLUS high-
+dividend stock ETF investment trust) 
+TIGER China CSI300 ETF 
+(Referring to the Mirae Asset TIGER 
+ChinaA300 stock ETF investment trust) 
+KODEX Top5Plus TR ETF   
+(Referring to the Samsung KODEX 
+Top5Plus Total Return ETF investment 
+trust) 
+TIGER US Nasdaq 100 ETF (Referring 
+to Mirae Asset TIGER US Nasdaq 100 
+ETF investment trust) 
+
+PLUS K-Defense ETF (Referring to the 
+Hanwha Plus K-Defense ETF investment 
+trust) 
+
+SOL Shipbuilding TOP3 PLUS ETF 
+(Referring to the Shinhan SOL 
+Shipbuilding TOP3 PLUS ETF 
+investment trust) 
+TIGER Semi-conduct TOP 10 ETF 
+(Referring to Mirae Asset TIGER Semi-
+conduct TOP 10 ETF investment trust)   
+
+Position 
+Limits 
+
+20,000 
+
+5,000 
+
+10,000 
+
+20,000 
+
+10,000 
+
+10,000 
+
+10,000 
+
+10,000 
+
+20,000 
+
+Note: In the case of ETFs that hold open positions in ETF futures trading included in the table 
+above, the position limit on such ETF future positions shall be set at 50,000 contracts (20,000 
+contracts in cases of holding TIGER Semi-conduct TOP 10 ETF futures trade). 
+
+239 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 2] Exercise Price Setting Range of Single Stock Options   
+[April 5, 2024]   
+
+Exercise Price Setting Range of Single Stock Options 
+(Pertaining to [§14(3)]) 
+
+The exercise price setting range for single stock options shall range from the price obtained by 
+adding the exercise price setting width (hereinafter referred to as the “exercise price setting 
+width”)  calculated  by  the  following  formula  to  the  at-the-money  exercise  price  to  the  price 
+obtained by subtracting the exercise price setting width from the at-the-money exercise price. 
+
+Exercise  price  setting  width  =  at-the-money  exercise  price  x  margin  rate  of  the  relevant 
+
+contract 
+
+Note: Margin rate refers to the margin rate under paragraph 1 of Appendix 19 
+
+240 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 3] [Deleted on October 20, 2010] 
+
+[Annex 3-2] [Deleted on October 28, 2015] 
+
+[Annex 4] [Deleted on October 28, 2015] 
+
+[Annex 5] [Deleted on October 28, 2015] 
+
+241 
+
+ 
+ 
+ 
+ 
+ 
+[Annex 6] Codes for Input of Quotation Details 
+(Amended on March 18, 2009; April 6, 2009; August 21, 2009; October 20, 2010; December 10, 2010; January 
+27, 2011; July 26, 2011; May 9, 2012; July 3, 2012; July 8, 2013; November 3, 2014; July 3, 2015; September 16, 
+2015; October 28, 2015; March 21, 2016; June 20, 2016; November 21, 2016; June 15, 2017; March 15, 2018; 
+August  17,  2018;  July  30,  2019;  October  30,  2019;  September  3,  2020;  July  13,  2021;  February  16,  2022; 
+December 21, 2022; June 29, 2023; February 5, 2024; April 5, 2024; November 1, 2024; April 18, 2025; October 
+1, 2025; February 9, 2026; April 27, 2026) 
+
+Codes for Input of Quotation Details 
+(Pertaining to [§48(5)])   
+
+Input codes 
+
+Quotation details 
+
+Member ID number 
+
+Method to generate quotation 
+
+Quotation type 
+
+Conditions affixed to limit quotation 
+
+Five-digit number assigned to each member by the Exchange 
+General quotation: 1, Algorithmic quotation: 2, High-speed 
+algorithmic quotation: 3 
+Limit quotation: 1; Market quotation: 2; Limit-to-market-on-close 
+quotation: I; Immediately Executable limit quotation: X 
+Immediate or cancel: 3; Fill or kill: 4 
+
+High-speed algorithmic 
+trade number 
+
+For quotations submitted through 
+high-speed algorithmic trading 
+account 
+
+Quotation group 
+number 
+
+Self-match prevention 
+code 
+
+Six-digit number combining trader 
+registration number and risk management 
+number 
+Two-digit number that a member designates 
+to apply the mass order cancellation when 
+inputting quotations 
+Not applicable:0, cancellation of existing 
+quotation: 1, cancellation of new quotation: 
+2, cancellation of both-direction quotations 
+
+Classification of sale and purchase 
+
+Trade types 
+
+Contract codes 
+
+Types of 
+underlying 
+assets 
+
+Sale: 1, Purchase: 2 
+Futures trading: 1; Call options trading: 2; Put options trading: 3; 
+Futures spread trading: 4; Call option on futures: 5; Put option on 
+futures: 6; FLEX Futures trade: 7. 
+Provided that for contracts whose expiration date is arrived after 2026; 
+Futures trading: A; Call options trading: B; Put options trading: C; 
+Futures spread trading: D; Call option on futures: E; Put option on 
+futures: F; FLEX Futures trade: G. 
+KOSPI 200: 01 (limited to KOSPI200 Futures and delivery month 
+trades of KOSPI200 Options);V-KOSPI 200 Index: 04; KOSPI200 : 
+05 (limited to Mini KOSPI200 Futures and Mini KOSPI200 Options 
+trades);KOSDAQ 150: 06;KRX300: 08;KOSPI 200: 09 (limited to 
+Thursday delivery week trades of KOSPI200 Options); KOSPI200 
+Energy/Chemicals : A0; KOSPI200 Information Technology: A1; 
+KOSPI200 Financial: A2; KOSPI200 Business Consumer Goods: 
+A3;KOSPI High Dividend 50: A4; KOSPI Dividend Growth 50: 
+A5;KOSPI200 Construction: A6; KOSPI200 Heavy Industries: A7; 
+KOSPI200 Heal Care: A8;KOSPI200 Steels/Materials: A9; KOSPI200 
+Consumer Discretionary: AA;KOSPI200 Industrials: AB.KRX BBIG: 
+AC; KRX Secondary Battery Top 10: AD; KRX Bio Top 10: AE; 
+KOSPI200: AF (limited to Monday delivery week trades of KOSPI200 
+Options), KOSDAQ Global: AG, KOSDAQ Value-up: AH, KOSDAQ 
+150: AJ (limited to the Thursday delivery week trade of KOSDAQ 150 
+options), KOSDAQ 150; AK (limited to Monday delivery week trade, 
+KRX Semiconductor; AL, underlying stocks; Codes of 10~59 and 
+B0~BZ that the Exchange assigns according to the Guideline for 
+Standard Code of Securities and Securities-related Financial Products. 
+KODEX Samsung Group ETF: M0; TIGER Health Care ETF: M1; 
+PLUS High-dividends Stock ETF: M2; TIGER China CSI300 ETF: 
+M3; KODEX Top5Plus TR ETF: M4; TIGER US Nasdaq 100 ETF: 
+M5, PLUS K-Defense ETF; M6, SOL Shipbuilding TOP3 PLUS ETF, 
+M7, TIGER Semi-conduct TOP 10 ETF: M8, Benchmark 3-year KTB: 
+242 
+
+ 
+ 
+ 
+65; Benchmark 5-year KTB: 66; Benchmark 10-year KTB: 67; Inter-3-
+year and 10-year KTB futures spreads: 68; KOFR 3-month compound 
+interest rate: 69; Benchmark 30-year KTB: 70; USD: 75; JPY: 76; 
+EUR: 77; CNY: 78; Gold bar: 85; Average daily price of lean hog: 86; 
+gold bullion: 88 
+
+Intra-product 
+spreads 
+
+Futures, 
+Inter-product 
+spreads and 
+options 
+
+The last numbers of the year and the alphabet & 
+number of months which the last trading day belongs 
+to (in the case of October, November, and December, 
+A, B, and C shall be used instead of the alphabet and 
+number of months; the same hereinafter). Provided that 
+the codes for delivery week trades shall be those 
+assigned by the Exchange in accordance with the 
+“Guidelines for Management of Standard Codes of 
+Securities and Related Financial Products”, such as 
+01~ZZ. 
+The last number and the alphabet of the year in which 
+the last trading of the nearest month contract falls and 
+the number of the month, followed by the last number 
+of the year and the alphabet & number of months in 
+which the last trading day of the farther months 
+contract falls, and followed by S. 
+KOSPI 200 Options and Mini KOSPI 200 Options: Integers of the 
+exercise price (when the exercise price is less than 1,000 points), or the 
+number (when the exercise price is 1,000 points or more) assigned 
+sequentially from A01 to Z99 in chronological order (when the setting 
+dates are the same, in ascending order of the exercise price) of the 
+exercise price setting date; KOSDAQ 150 Options and single stock 
+options: The number assigned in ascending order starting from 001, in 
+chronological order of the exercise price setting date (when the setting 
+dates are the same, in ascending order of the exercise price);currency 
+options: Integers of the exercise price excluding the KRW units digit; 
+USD FLEX futures: Codes assigned by the Exchange for the last 
+trading day and final settlement method 
+The quantity of contracts intending to trade   
+The price at which the order be traded   
+Trade entrusted: 11; Brokering of entrusted trade 12; Entrusted trade of 
+other  members:  13(ID  number  of  the  entrusting  member  shall  be 
+inputted together.) 
+Proprietary trade of members placing quotation: 31 
+
+The country code (ISO3166-1) established by the International 
+Organization for Standardization 
+Financial Investment company: 1000; Insurance companies: 2000; 
+Collective investment vehicle: 3000; Banks: 4000; Other financial 
+company: 5000; Pensions, funds & associations: 6000; Government, 
+local government, international organizations & public services 
+institutions: 7000; Other corporations: 7100; Individual: 8000 
+
+Korean: 00; Resident foreigner: 10; Non-resident foreigner: 20 
+
+Five-digit numbers which were assigned by members and notified to 
+the Exchange. 
+Twelve-digit numbers assigned by members (End-investor 
+classification codes for foreigner’s consolidated accounts) 
+
+Last trading day 
+
+Exercise price, 
+etc. 
+
+Quantity 
+Price 
+
+Classification of 
+customer trade 
+and proprietary 
+trade 
+
+Classification of 
+investors 
+
+Account 
+numbers of 
+investors 
+
+Entrusted trade 
+
+Proprietary 
+trade 
+
+Nationality 
+
+Classification 
+code of investors 
+Resident and 
+Non-resident 
+Korean 
+
+Classification of 
+resident and non-
+resident 
+Nationality 
+
+Numbers of 
+business offices 
+Investors’ 
+account numbers 
+
+Substitute securities account numbers  Numbers pursuant to [§48(1)12] 
+
+Classification of 
+accounts 
+
+Types of accounts 
+
+Customer account: 31; Proprietary account: 41; Market-making 
+account: 42; Arbitrage/hedge-dedicated account: 51; Hedge-dedicated 
+
+243 
+
+ 
+Types of end-
+investors 
+
+Types of margins 
+
+Classification of 
+program trading 
+
+Classification of entrustment 
+methods 
+
+account: 52; Algorithmic trading account: 61 
+Algorithmic trading general end-investor: 63; Algorithmic trading 
+allocating end-investor: 64; Non-algorithmic trading general end-
+investor: 72; Non-algorithmic trading allocating end-investor: 73 
+Regular upfront margin: 10; Regular ex-post margin: 11; Discount ex-
+post margin: 12 
+Stock index arbitraging and stock arbitraging: 10; 
+Stock index hedging and stock hedging: 20; 
+Other trades: 00 
+Method of inputting the order information received in written form or 
+via telephone, etc. to the member derivatives system by the employee of 
+member using the input device in office: 1; 
+Method  of  member  placing  quotations  on  the  basis  of  the  order 
+information  inputted  to  the  member  derivatives  system  via  wire 
+communication device by customer: 2; 
+Method  of  member  placing  quotations  on  the  basis  of  the  order 
+information inputted via wireless communication device by customers: 
+3; 
+Method  of  member  placing  quotations  on  the  basis  of  the  order 
+information inputted to the member derivatives system via computer by 
+customer: 4; 
+Method of placing quotations by other means: 9 
+
+Notes: 
+1. Detailed classification of “contract codes” shall be made in accordance with the  “Guidelines for Managing 
+Securities and Related Financial Products Codes”   
+2. In classifying the proprietary trade and customer trade, when any entrustment of proprietary trade is received 
+from a member who has been suspended from trading, such entrustment shall be classified into "31"; when an 
+entrustment for the management of trust assets of investment trader has been received, it shall be classified into 
+“11” (note that it cannot be inputted as a proprietary trade). 
+3. The foreigners who are treated as Korean nationals pursuant to the Regulation on Financial Investment Services 
+of the Financial Services Commission shall be deemed to be Korean.   
+4. In cases where the investor’s ID number in “account number of investors” has been changed, such fact shall be 
+notified to the Exchange without delay. 
+5. [Deleted on April 6, 2009] 
+6. The exclusive account for arbitraging/hedging in “Classification of account refers to the account established 
+for discount of margin (member margin and ex-post margin) for arbitraging and hedging. 
+
+244 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+245 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 6-2] Matters Necessary to Apply for Mass Order Cancellation, etc. 
+[[December 21, 2022] (Amended on February 5, 2024; April 5, 2024; November 1, 2024; April 18, 2025; October 
+1, 2025) 
+
+Matters Necessary to Apply for Mass Order Cancellation, etc. 
+(Pertaining to [§54-2(1)])   
+
+1. Matters necessary to apply for mass order cancellation 
+
+Details 
+
+Matters necessary to apply for 
+mass order cancellation 
+
+Member number 
+
+High-speed algorithmic trade number 
+
+Products 
+
+Conditions 
+
+Five-digit number assigned by the Exchange to each member 
+Six-digit  number  combining  trader  registration  number  and  risk 
+management number 
+Ten-digit code assigned by the Exchange for each derivative product 
+Contract code or all contracts 
+
+Contract 
+Call option or put option  Call option: C, put option: P, call and put option: * 
+Sell or buy 
+
+Sell: 1, buy: 2, sell and buy: 3 
+A  specific  account  or  all  accounts  reported  by  high-speed 
+algorithmic trader pursuant to [§156-4(3)] of the Regulation 
+
+Account number 
+
+Quotation group number  A specific group number or the entire quotation group 
+
+Notes: 
+1. “Products” refers to the products noted in the table below, and the ten-digit code is separately announced by 
+the Exchange. 
+2. The specific classification of “contract code” is as specified in the “Standard Code Management Guidelines for 
+Securities and Related Financial Products” 
+3. The “quotation group number” refers to two-digit number designated by the member when inputting quotations 
+in order to clarify the range of application for mass order cancellation. 
+
+2. Classification of products 
+
+Products 
+
+KOSPI200 futures 
+Mini KOSPI200 futures 
+KOSDAQ 150 futures 
+KRX300 futures 
+KOSDAQ Global Futures 
+Futures  for  each  underlying  asset 
+of sector indices noted in [Annex 
+1-3] 
+KOSPI200 options delivery month 
+trade 
+KOSPI200 options Monday 
+delivery week trade 
+KOSPI200 options Thursday 
+delivery week trade 
+Mini KOSPI200 options 
+KOSDAQ  150  options  delivery 
+month trade 
+KOSDAQ  150  options  Monday 
+delivery week trade 
+KOSDAQ  150  options  Thursday 
+delivery week trade 
+V-KOSPI200 futures 
+Futures for each underlying stock 
+Options for each underlying stock 
+Futures for each underlying ETF 
+
+Details 
+
+Includes KOSPI200 futures spread 
+Includes Mini KOSPI200 futures spread 
+Includes KOSDAQ 150 futures spread 
+Includes KRX300 futures spread 
+Includes KOSDAQ Global futures spread 
+Includes futures spread for each underlying asset of sector indices noted 
+in [Annex 1-3] 
+
+Includes V-KOSPI200 futures spread 
+Includes futures spread for each underlying stock 
+
+Includes futures spread for each underlying ETF 
+
+246 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3-year KTB futures 
+5-year KTB futures 
+10-year KTB futures 
+30-year KTB futures 
+Inter-3-year and 10-year KTB 
+futures spread 
+3-month risk free benchmark 
+interest rate futures 
+USD futures   
+JPY futures 
+EUR futures 
+CNY futures 
+USD Options 
+Gold futures 
+Lean Hog futures 
+
+Includes 3-year KTB futures spread 
+Includes 5-year KTB futures spread 
+Includes 10-year KTB futures spread 
+Includes 30-year KTB futures spread 
+
+Includes 3-month risk free benchmark interest rate futures spread 
+
+Includes USD futures spread 
+Includes JPY futures spread 
+Includes EUR futures spread 
+Includes CNY futures spread 
+
+Includes Gold futures spread 
+Includes Lean Hog futures spread 
+
+247 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 7] Theoretical Prices of Stock Price Index Futures 
+(Amended on October 26, 2009; November 3, 2014; July 3, 2015; September 16, 2015; October 28, 2015; March 
+13, 2017; March 15, 2018; July 13, 2021; September 22, 2023; April 5, 2024; November 1, 2024; May 29, 2025; 
+October 1, 2025) 
+
+Theoretical Prices of Stock Price Index Futures 
+(Pertaining to [§55(1)]) 
+
+ F = 
+
+ KOSPI 200 Futures and Mini KOSPI 200 Futures:   
+
+𝐷𝑖   =  
+
+𝐷𝑖𝑣𝑖
+𝑀𝐶
+
+  × 100 × (1  + 𝑓𝑖   ×
+
+𝑡𝑖
+365
+
+) 
+
+ KOSDAQ 150 Futures, KRX 300 Futures, KOSDAQ Global Futures, and Sector Index 
+Futures (excluding KOSPI Dividend Index Futures; the same hereinafter in this Annex):   
+
+𝐷𝑖   =  
+
+𝐷𝑖𝑣𝑖
+𝑀𝐶
+
+  × 1,000 × (1  + 𝑓𝑖   ×
+
+𝑡𝑖
+365
+
+) 
+
+F: Theoretical futures price (for KOSPI 200 Futures and Mini KOSPI 200 Futures, it is rounded up 
+at the 3rd decimal place and for KOSDAQ 150 Futures, KRX 300 Futures, KOSDAQ Global Futures, 
+and Sector Index Futures, it is rounded up at the 2nd decimal place)   
+
+S; Base price of underlying asset on the previous day 
+
+r: The interest rate applicable to the period t among the linearly interpolated coupon rates as of the 
+morning  of  the  previous  day  calculated  in  accordance  with  [§3(a)(i)]  of  the  Annex  2  of  the 
+Enforcement Rules of the OTC Derivatives Clearing Business Regulations (if there is no coupon rate 
+calculated in the morning, the coupon rate calculated in the morning of the day immediately before 
+shall be used.). 
+
+t: Number of days counting from the calculation date to the last trading day 
+
+Di: Dividend index of futures 
+
+Divi: Total cash dividend (referring to the sum of cash dividends paid in the previous fiscal year by 
+the issuing companies of all issues of constituent stocks of index that go ex-dividend on the same day 
+during the remaining calculation period. Provided that, if the amount of relevant cash dividends is 
+deemed to be inappropriate, it shall be the amount calculated by the Exchange)   
+
+MC: Base market capitalization of index on the previous day. 
+
+ti: Number of days in remaining ex-dividend period in the remaining calculation period, counting 
+from the ex-dividend day to the last trading day.   
+
+248 
+
+iDtrS−+3651 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fi: Forward interest rate applied to the period ti calculated using r 
+
+Note :   
+1. When calculating the theoretical price during night trading hours, “the previous day” shall be considered as 
+“the day before the day to which the regular trading hours of the relevant trading day belongs” and “calculation 
+day” shall be considered as “the day to which the regular trading hours of the relevant trading day belongs”. 
+2. When calculating the theoretical price during night trading hours, Note 1 shall apply to the calculation of period 
+mutatis mutandis.   
+
+249 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 8] Theoretical Prices of Single Stock Futures 
+(Amended on October 26, 2009; November 3, 2014; March 13, 2017; September 22, 2023; November 1, 2024; 
+October 1, 2025) 
+
+Theoretical Prices of Single Stock Futures 
+(Pertaining to [§55(1)]) 
+
+𝐷𝑖   = Divi × (1  + 𝑓𝑖   ×
+
+𝑡𝑖
+365
+
+) 
+
+F: Theoretical futures price (it is rounded up at the 1stdecimal place)   
+
+S: Base price of the underlying asset on the previous day 
+
+r: The interest rate applicable to the period t among the linearly interpolated coupon rates as of the 
+morning of the previous day calculated in accordance with [§3(a)(i)] of the Annex 2 of the Enforcement 
+Rules of the OTC Derivatives Clearing Business Regulations (if there is no coupon rate calculated in 
+the morning, the coupon rate calculated in the morning immediately before shall be used.). 
+
+t: Number of days in the remaining calculation period, counting from the calculation date to the last 
+trading day 
+
+Di: Future value of cash dividend per share   
+
+Divi: Amount of cash dividend per share (referring to the cash dividend per share paid to the minority 
+shareholders in the previous fiscal year by the issuing company of the stock that went ex-dividend during 
+the remaining calculation period. Provided that, if the amount of the relevant cash dividends is deemed 
+to be inappropriate, it shall be the amount calculated by the Exchange)   
+
+ti: Number of days in the remaining ex-dividend period in the remaining calculation period, counting 
+from the ex-dividend date to the last trading day. 
+
+fi: Forward interest rate applied to the period ti calculated using r 
+
+250 
+
+iDtrSF−+=3651 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 8-2] Theoretical Prices of ETF Futures 
+[June 15, 2017] (Amended on September 22, 2023; November 1, 2024; October 1, 2025)   
+
+Theoretical Prices of ETF Futures 
+(Pertaining to [§55(1)]) 
+
+𝐷𝑖   = Divi × 100 × (1  + 𝑓𝑖   ×
+
+𝑡𝑖
+365
+
+) 
+
+F: Theoretical futures price (it is rounded off at the 1stdecimal place)   
+
+S: Base price of the underlying asset on the previous day 
+
+r: The interest rate applicable to the period t among the linearly interpolated coupon rates as of the 
+morning of the previous day calculated in accordance with [§3(a)(i)] of the Annex 2 of the Enforcement 
+Rules of the OTC Derivatives Clearing Business Regulations (if there is no coupon rate calculated in 
+the morning, the coupon rate calculated in the morning immediately before shall be used.). 
+
+t: Number of days in the remaining calculation period, counting from the calculation date to the last 
+trading day 
+
+Di: Future value of cash distribution per unit 
+
+Divi:  Amount  of  cash  distribution  per  unit  (referring  to  the  distribution  per  unit  paid  by  the  asset 
+management company of the ETF during the latest one year. Provided that, if the amount of the relevant 
+distribution is deemed to be inappropriate, it shall be the amount calculated by the Exchange). 
+
+ti: Number of days of the remaining ex-distribution period in the remaining calculation period, counting 
+from the ex-distribution date to the last trading day. 
+
+fi: Forward interest rate applied to the period ti calculated using r 
+
+251 
+
+iDtrSF−+=3651 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 9] Theoretical Prices of 3-yr KTB Futures, 5-yr KTB Futures and 10-yr KTB Futures 
+(Amended on October 20, 2010; April 21, 2011; March 13, 2017; September 22, 2023; February 5, 2024; May 
+29, 2025) 
+
+Theoretical Prices of 3-yr KTB Futures, 5-yr KTB Futures and 10-yr KTB Futures 
+(Pertaining to [§55(1)]) 
+
+1.  The  theoretical  price  of  KTB  futures  shall  be  a  figure  (rounded  at  three  decimal  places) 
+calculated according to each of the following items. 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d)  Theoretical Price of 30-year KTBs = ∑
+
+60
+𝑖=1
+
+5/2
+(1+𝑟/2)𝑖
+
++
+
+100
+
+(1+𝑟/2)60 
+
+2. In each item of subparagraph 1, “r” refers to the average forward yield of underlying bond 
+basket for final settlement, and shall be calculated according to the following procedures. 
+
+(a) The market price of each bond that has been designated as a bond in the underlying bond 
+basket for final settlement (hereinafter referred to as the “individual underlying bond”) shall 
+be calculated by using the following formula while applying the annual yield of individual 
+underlying  bond  in  the  morning  of  the  previous  day,  which  is  published  by  the  Korea 
+Financial  Investment  Association (if there is  no annual  yield published in  the morning, it 
+shall be the annual yield published immediately before. Hereinafter, in this subparagraph, it 
+is referred to as the “yield to maturity”): 
+
+r1: Yield to maturity of individual underlying bond   
+d1: Number of days from the calculation date to the next interest payment day 
+t1: Number of days from the most recent interest payment day to the next interest payment 
+
+day 
+
+n: Number of times the interest will be paid until the maturity 
+c: Coupon rate of individual underlying bond × 100 
+
+(b) The forward prices of individual underlying bonds shall be calculated according to the 
+following formula by applying the market price of individual underlying bonds calculated in 
+accordance with (a). 
+
+252 
+
+661)2/1(100)2/1(2/5  KTBsyear -3 of Price lTheoreticarrii+++==10101)2/1(100)2/1(2/5  KTBsyear -5 of Price lTheoreticarrii+++==20201)2/1(100)2/1(2/5  KTBsyear -10 of Price lTheoreticarrii+++==(1) formula21100212211priceMarket 10111111→++++=−=−ninirrctdr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Forward price = (S – I) × (1 + r* × t/365) 
+
+S: Market price of individual underlying bond 
+I: Current value of ex-interest bond = 
+
+𝐴𝑚𝑜𝑢𝑛𝑡 𝑜𝑓 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑝𝑎𝑖𝑑 𝑑𝑢𝑟𝑖𝑛𝑔 𝑡ℎ𝑒 𝑝𝑎𝑠𝑡 𝑠𝑖𝑥 (6) 𝑚𝑜𝑛𝑡ℎ𝑠
+
+1+𝑟2 × 
+
+𝑑2
+365
+
+r2: In the case of ex-interest bonds, the interest rate applicable from the calculation date to 
+the  next  interest  payment  date  [referring  to  the  interest  rate  calculated  by  linearly 
+interpolating the average overnight call rate as at 11:30 hours of the previous day, which 
+was published by the Korea Money Brokerage Corporation (if there is no such interest 
+rate,  it  shall  be  the  average  overnight  call  rate  as  at  16:00  hours  of  the  immediately 
+preceding day) and the annual yields on the day before the previous day of  the 91-day 
+CDs  (if  there  is  no  yield  published  on  the  relevant  day,  it  shall  be  the  annual  yield  published 
+immediately before) and the annual yields in the morning of the previous  day the 1-year 
+Monetary Stabilization Bonds, which were published by the Korea Financial Investment 
+Association (if there is no annual yields published in the morning, it shall be the annual 
+yield published immediately before)] 
+
+d2: In the case of ex-interest bonds, the number of days from the calculation date to the next 
+
+interest payment day   
+
+r*: The interest rate applicable from the calculation date to the final settlement day [referring 
+to the interest rate calculated by linearly interpolating the average overnight call rate as 
+at 11:30 hours of the previous day, which was published by the Korea Money Brokerage 
+Corporation (if there is no such interest rate, it shall be the average overnight call rate as 
+at 16:00 hours of the immediately preceding day) and the annual yields on the day before 
+the previous day of the 91-day CDs (if there is no yield published on the relevant day, it shall 
+be the annual yield published immediately before) and the annual yields in the morning of the 
+previous  day  of  the 1-year  Monetary Stabilization  Bonds,  which were published by  the 
+Korea  Financial  Investment  Association  (if  there  is  no  annual  yields  published  in  the 
+morning, it shall be the annual yield published immediately before)] 
+t: Number of days from the calculation date to the final settlement day 
+
+(c) The forward yield that is consistent with the forward price of individual underlying bond 
+shall be calculated by using the formula (a) for calculation of the market prices. 
+
+(d)  The  average  forward  yields  of  underlying  basket  of  bonds  for  final  settlement  shall  be 
+calculated  by  simply  averaging  the  forward  yields  of  individual  underlying  bonds  and  then 
+rounding it at the 4th decimal place. 
+
+Note :   
+1. When calculating the theoretical price during night trading hours, “the previous day” shall be considered  as 
+“the day before the day to which the regular trading hours of the relevant trading day belongs” and “calculation 
+day” shall be considered as “the day to which the regular trading hours of the relevant trading day belongs”. 
+2. When calculating the theoretical price during night trading hours, Note 1 shall apply to the calculation of period 
+mutatis mutandis.   
+
+253 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 9-2] Theoretical Prices of 3-month Risk Free Benchmark Interest Rate Futures 
+[February 16, 2022] (Amended on September 22, 2023) 
+
+Theoretical Prices of 3-month Risk Free Benchmark Interest Rate Futures 
+(Pertaining to [§55(1)]) 
+
+F = 100 – theoretical KOFR 3-month compound interest rate (hereinafter referred to as the 
+
+“theoretical interest rate”) 
+
+F = Theoretical futures price 
+
+Theoretical interest rate: calculated by the following process (rounded to 4 decimal places) 
+
+1. Case where there are fixed benchmark interest rates during the reference period 
+
+Theoretical interest rate = 
+
+N = Number of days during the reference period 
+
+  = Multiplication of the first term to the xth term of the sequence 
+
+x = Number of base days for calculating the benchmark interest rate up to the day when the 
+
+benchmark interest rate is fixed during the reference period + 1 
+
+Ri = Benchmark interest rate fixed in the previous day (unit: %. however, if the KSD publishes 
+
+a substitute interest rate, the substitute interest rate shall be regarded as the fixed 
+benchmark interest rate) or 3-month KTB strip interest rate in the morning of the previous 
+day (unit: %) 
+
+di = Number of days applied Ri (
+
+)    (the number of days to which the benchmark 
+
+interest rate or the 3-month KTB strip interest rate is applied 
+
+2. Case where there is no fixed benchmark interest rate during the reference period 
+
+Theoretical interest rate = Forward CD interest rate during the reference period (3 months)                               
+
+for each contract - Spread 
+
+A.  Forward CD interest rate during the reference period (FA,B) = The interest rate 
+calculated according to the formula below using the discount coefficient in the 
+morning of the previous day calculated according to subparagraph 3(a)(i) of Annex 2 
+of the Enforcement Rules of the OTC Derivatives Clearing Business Regulations, 
+
+254 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+which is a forward rate applied from the third Wednesday (A) of the month three 
+months before the delivery month by contract until the third Wednesday (B) of the 
+delivery month (includes the first day, but excludes the last day) 
+
+FA,B =  (
+
+𝐷𝐹𝐴
+𝐷𝐹𝐵
+
+− 1)  X 
+
+365
+
+𝐷(𝐴,𝐵)
+
+DFA: Discount coefficient of A in the morning of previous day 
+
+DFB: Discount coefficient of B in the morning of previous day 
+
+            D(A,B): Number of days from A to B (includes the first day, but excludes the last day) 
+
+B.  Spread = CD interest rate as of the day before the previous day – 3-month KTB strip                                         
+
+interest rate as of the afternoon of the day before the previous day 
+
+Note: 
+1. Ri in subparagraph 1 shall be the fixed benchmark interest rate shall be used during the period for which the   
+benchmark interest rate is fixed during the reference period and the 3-month KTB strip interest rate during the   
+period for which the benchmark interest rate is not fixed during the reference period. 
+2. In the case where the fixed benchmark interest rate is used as Ri in subparagraph 1, only the benchmark   
+interest rate fixed at the time of clearing and settlement after the daily market closing shall be reflected. 
+
+255 
+
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+[Annex 10] [Deleted on October 20, 2010] 
+
+[Annex 11] [Deleted on January 27, 2011] 
+
+256 
+
+ 
+ 
+ 
+[Annex 12] Theoretical Prices of Currency Futures 
+(Amended on August 21, 2009; May 9, 2013; September 16, 2015; June 20, 2016; May 18, 2020; May 24, 2023; 
+June 25, 2024; May 29, 2025) 
+
+Theoretical Prices of Currency Futures 
+(USD Futures, JPY Futures, EUR Futures, CNY Futures and USD FLEX Futures) 
+(Pertaining to [§55(1)]) 
+
+F: Theoretical price of futures (to be rounded off at the 2nddecimal place) 
+S: Base price of underlying asset on the previous day 
+t: Number of days in the remaining period of calculation from calculation date to the last trading day 
+r: The interest rate calculated by linear interpolation of the interest rate of each of the followings: 
+        1. The Korean won rates (referring to the Korean won rates calculated using the formula for 
+calculation  of  the  theoretical  prices  of  currency  futures  and  rounded  off  at  the  third  decimal 
+places) implied in the1-month, 3-month, 6-month and 12-month FX-swap points (converted by 
+dividing  the  average  of  bid  and  offer  quotations  by  100),  which  is  published  by  a  global 
+information and communication service provider designated by the Exchange as of 15:30on the 
+previous day; and 
+2. The interest rates of cross-currency swaps with maturities of two and three years (the average 
+rate of  bid  and  offer  rounded  off  at  the  third  decimal  place)  published  by  the  currency  swap 
+interest rate information provider designated by the Exchange as of 15:30 on the previous day 
+
+rf: In the case of currency futures fallowing under each of the followings, the interest rate specified 
+
+in the relevant item: 
+a. SD Futures and USD Flex futures - The rate calculated by linearly interpolating the 1-month, 
+3-month, 6-month, and 12-month, 2-year, and 3-year USD SOFR OIS (Overnight Index Swap) 
+rates  (the  average  rate  of  bid  and  offer  rounded  off  at  the  third  decimal  place)  which  are 
+provided  to  the  Exchange  by  a  global  information  and  communication  service  provider 
+designated by the Exchange as of 15:30 on the previous day; 
+
+b. JPY Futures - The rate calculated by linearly interpolating the 1-month, 3-month, 6-month, and 
+
+12-month TIBOR published by the JBA on the basis of 11:00 hours of previous day; 
+
+c. EUR Futures - The rate calculated by linearly interpolating the 1-month, 3-month, 6-month, and 
+12-month EURIBOR published by the EBF on the basis of 11:00 hours Central European 
+Time; and 
+
+d. CNY Futures - The rate calculated by linearly interpolating the 1-month, 3-month, 6-month and 
+12-month HIBOR published by the TMA on the basis of 11:15 hours Hong Kong Time of the 
+previous day. 
+
+Notes: 
+1. The international information service provider designated by the Exchange shall be the Refinitiv. Provided that, 
+with regard to the application of interest rate for the calculation of theoretical price in case it is not possible to 
+utilize the information service provider due to the unavoidable reasons such as the natural disasters, it shall adopt 
+the procedure that the Exchange establishes separately. 
+2.  The  currency  swap  interest  rate  information  provider  designated  by  the  Exchange  shall  be  TullettPrebon. 
+Provided that, with regard to the application of interest rate for the calculation of theoretical price in case it is not 
+possible to utilize the interest rate information due to the unavoidable reasons such as the natural disasters, it shall 
+adopt the procedure that the Exchange establishes separately. 
+
+257 
+
+)3651(365)()3651()3651(trtrrSStrtrSFfff+−+=++= 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. In cases where an international information service provider or currency swap interest rate information provider 
+is newly designated or changed, the Exchange shall immediately make such fact public through the electronic 
+information dissemination medium operated by it. 4. When calculating the theoretical price during night trading 
+hours, “the previous day” shall be considered as “the day before the day to which the regular trading hours of the 
+relevant trading day belongs” and “calculation day” shall be considered as “the day to which the regular trading 
+hours of the relevant trading day belongs”. 
+5. When calculating the theoretical price during night trading hours, Note 1 shall apply to the calculation of period 
+mutatis mutandis.   
+
+258 
+
+ 
+ 
+ 
+[Annex 13] Theoretical Prices of Gold Futures and Mini-gold Futures 
+(Amended on October 26, 2009; July 30, 2010; April 21, 2011; October 28, 2015; March 13, 2017; September 22, 
+2023) 
+
+Theoretical Prices of Gold Futures 
+(Pertaining to [§55(1)]) 
+
+F = S × (1 + r ×t/365) + I 
+
+F: Theoretical futures price (to be rounded off to a whole integer) 
+
+S: Base price of underlying asset on the previous day 
+
+t: Number of days in the remaining period of calculation from the calculation date to the last trading 
+
+day 
+
+I: Storage fee per gram according to the standards of the Korea Securities Depository   
+
+r: The interest rate calculated by linearly interpolating the average overnight call interest rate as at 
+11:30 hours on the previous day, which is published by the Korea Money Broker Corporation (if 
+there is no such interest rate it shall be the average overnight call rate as at 16:00 hours of the 
+immediately preceding day) and the annual yields on the day before the previous day of the 91-day 
+CDs  (if  there  is  no  yield  published  on  the  relevant  day,  it  shall  be  the  annual  yield  published 
+immediately before) and the annual yields in the morning of the previous day of the 1-year Monetary 
+Stabilization Bonds, which are published by the Korea Financial Investment Association (if there is 
+no annual yields published in the morning, it shall be the annual yield publishes immediately before).   
+
+259 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 14] Rates for Quotation Price Limits 
+(Amended on August 21, 2009; October 26, 2009; June 18, 2010; July 30, 2010; January 27, 2011; July 8, 2013; 
+November 3, 2014; May 19, 2015; September 16, 2015; October 28, 2015; June 20, 2016; June 15, 2017; October 
+30, 2019; February 16, 2022; February 5, 2024; April 18, 2025; May 29, 2025) 
+
+Rates for Quotation Price Limits 
+(Pertaining to [§56], [§56-2], [§59], [§59-2] and [§60]) 
+
+1. Price limit rates in futures trading (Pertaining to [§56(1)] and [§56-2]) 
+
+Types of trading 
+
+Index Futures   
+
+Volatility Index Futures 
+Single Stock Futures / ETF Futures 
+3-year KTB Futures 
+5-year KTB Futures 
+10-year KTB Futures 
+30-year KTB futures 
+3-mongh Risk Free Benchmark Interest Rate 
+Futures 
+
+USD Futures, USD Flex Futures, CNY Futures 
+
+JPY Futures / EUR Futures 
+Gold Futures 
+Lean Hog Futures 
+
+Rates 
+1st Phase: 8% 
+2nd Phase: 15% 
+3rd Phase: 20% 
+1st Phase: 30% / 2nd Phase: 45% / 3rd Phase: 60% 
+1st phase: 10% / 2nd phase: 20% / 3rd phase: 30% 
+1.5% 
+1.8% 
+2.7% 
+3.9% 
+
+1.3% 
+
+4.5% 
+
+5.25% 
+10% 
+21% 
+
+2. Price limit rates in options trading (Pertaining to [§59(1)] and §59(2)) 
+
+Types of trading 
+
+Index options 
+Single Stock Options 
+Currency Options 
+
+Rates 
+1st Phase: 8% / 2nd Phase: 15% / 3rd Phase: 20% 
+1st Phase: 10% / 2nd Phase: 20% / 3rd Phase: 30% 
+4.5% 
+
+3. Price limit rates in futures spread trading (Pertaining to [§60(1) & (2)] 
+
+Types of trading 
+
+Index futures spreads 
+
+Rates 
+Regular session: 5% 
+Night session: 2.5%   
+
+Volatility Index Futures spreads / Single Stock Futures spreads / ETF Futures 
+spreads 
+3-year KTB Futures spreads / Inter-3-year and 10-year Futures spreads 
+5-year KTB Futures spreads 
+10-year KTB Futures spreads 
+30-year KTB Futures spreads 
+3-mongh Risk Free Benchmark Interest Rate Futures Spread 
+USD Futures spreads, JPY Futures spreads, EUR Futures spreads, CNY Futures 
+spreads 
+Gold Futures spreads 
+Lean Hog Futures spreads 
+
+10% 
+
+1.5% 
+1.8% 
+2.7% 
+3.9% 
+1.3% 
+3% 
+5% 
+10% 
+
+260 
+
+ 
+ 
+ 
+ 
+ 
+[Annex 15] Theoretical Prices of Stock Index Options 
+(Amended on October 26, 2009; November 3, 2014; July 3, 2015; March 13, 2017; March 15, 2018; July 30, 
+2019; October 14, 2019; November 25, 2021; September 22, 2023; November 1, 2024; May 29, 2025; October 1, 
+2025) 
+
+Theoretical Prices of Stock Index Options (KOSPI 200 Options and KOSDAQ 150 Options) 
+(Pertaining to [§57(1)]) 
+
+KOSPI 200 Options: 
+
+𝐷𝑖 =
+
+𝐷𝑖𝑣𝑖
+𝑀𝐶
+
+× 100 × 𝑒(−𝑟𝑖×
+
+𝑡𝑖
+365
+
+) 
+
+KOSDAQ 150 Options: 
+
+𝐷𝑖 =
+
+𝐷𝑖𝑣𝑖
+𝑀𝐶
+
+× 1,000 × 𝑒(−𝑟𝑖×
+
+𝑡𝑖
+365
+
+) 
+
+C: Theoretical call option price (to round up at the 3rd decimal place) 
+P: Theoretical put option price (to round up at the 3rd decimal place) 
+e: Base of natural logarithm 
+r: The interest rate applicable to the period t among the linearly interpolated coupon rates as of the 
+morning of the previous day calculated in accordance with [§3(a)(i)] of the Annex 2 of the Enforcement 
+Rules of the OTC Derivatives Clearing Business Regulations (if there is no coupon rate calculated in 
+the morning, the coupon rate calculated in the morning immediately before shall be used.). 
+t: Number of days in the remaining calculation period, counting from the calculation date to the last 
+trading day.   
+CTk: Price of call option at the time of option exercise   
+PTk: Price of put option at the time of option exercise 
+p: Probability of the price of underlying asset going up 
+q: Probability of the price of underlying asset going down 
+u: Rate of price increase of underlying asset (rates of increase of stock price indices) 
+d: Rate of price decrease of underlying asset (rates of decrease of stock price indices) 
+S: Base price of the underlying asset on the previous day   
+x: Exercise price 
+Di: Dividend index   
+
+261 
+
+=−−−=490)49()365(!)!49(!49kTkkktrCqPkkeC=−−−=490)49()365(!)!49(!49kTkkktrPqPkkePpqdudeptr−=−−=1,)491365(]0,)[()49(XduDSMaxCkkiTk−−=−]0,)([)49(kkiTkduDSXMaxP−−−=491365491365,−==ttedeu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Divi: Total amount of cash dividends (referring to the sum of cash dividends paid in the previous fiscal 
+year by the issuing companies of constituent stocks of the indices that go ex-dividend on the same day 
+during the remaining calculation period. Provided that, if the amount of the relevant cash dividends is 
+deemed to be inappropriate, it shall be the amount calculated by the Exchange) 
+MC: Base market capitalization of the stock price index on the previous day 
+ti: Number of days in remaining dividend period, counting from the calculation date to the day before 
+ex-dividend in the remaining calculation period 
+ri: The interest rate applicable to the period ti among the linearly interpolated coupon rates as of the 
+morning of the previous day calculated in accordance with [§3(a)(i)] of the Annex 2 of the Enforcement 
+Rules of the OTC Derivatives Clearing Business Regulations (if there is no coupon rate calculated in 
+the morning, the coupon rate calculated in the morning immediately before shall be used.). 
+σ: Volatilities classified as follows. Provided that, in cases where the relevant volatility is deemed to be 
+inappropriate, it shall be the annual volatility of stock price indices calculated by the Exchange for 
+each case. 
+
+1.  For  KOSPI  200  options:  The  previous  day’s  linearly  interpolated  volatilities  that  the  Exchange 
+calculates by linearly interpolating previous day’s annual implied volatilities or previous day’s linearly 
+interpolated volatilities of a contract with adjacent exercise prices per put option or call option in which 
+the  contract  subject  to  calculation  for  each  delivery  week  trade  or  delivery  month  trade  belongs 
+(contracts  with  no  transactions  shall  be  excluded),  and  in  cases  where  there  is  one  single  contract 
+adjacent  to  the contract subject to calculation, previous  day’s  annual  implied  volatility  or  previous 
+day’s  linearly  interpolated  volatility  of  the  relevant  adjacent  contract  shall  be  the  previous  day’s 
+linearly interpolated volatility of the relevant contract subject to calculation. Provided that, in cases 
+where there are no transactions for all contracts with adjacent exercise prices, it shall be the volatility 
+in each of the following items: 
+
+(a)  Delivery month trades: The previous day’s linearly interpolated volatility that the Exchange 
+calculated by linearly interpolating the previous day’s annual implied volatility or the previous 
+day’s linearly  interpolated  volatility  of  a  contract,  whose  number  of  days  in  the  remaining 
+calculation period is adjacent, per put option or call option to which the contract subject to 
+calculation belongs; and 
+
+(b)  Delivery  week  trades:  The  average  annual  implied  volatility  of  KOSPI200  options  on  the 
+
+previous day calculated by the method in subparagraph 2(a). 
+
+2. For KOSDAQ 150 options:   
+
+(a) Delivery month trades: The average annual implied volatility of the previous day, as calculated 
+by the Exchange  using the second calculation formula below, with weighting applied to the 
+strike  price  weighting  calculated  according  to  the  first  calculation  formula  below  and  the 
+previous  day’s  contract  quantity,  (referring  to  the  ratio  calculated  by  dividing  the  absolute 
+value  obtained  by  subtracting  the  exercise  price  from  the  previous  day’s  underlying  asset 
+reference price by the previous day’s underlying asset reference price; the same hereinafter) 
+for each put option or call option to which the contract subject to calculation belongs, among 
+the two near-month  contracts  (referring to  the two  (2)  contract  months  whose  final trading 
+dates  occur  first  based  on  the  calculation  date;  the  same  hereinafter)  whose  strike  price 
+deviation is within 5%. 
+
+(b) Delivery week trades: The average annual implied volatility of the previous day, as calculated 
+by the Exchange according to the second calculation formula, with weighting applied to the 
+strike  price  weighting  calculated  according  to  the  first  calculation  formula  below  and  the 
+previous day’s contract quantity, for each put option or call option to which the contract subject 
+to calculation belongs, among contracts whose strike price deviation is within 5%. Provided 
+that, in cases where there are no transactions for any delivery month contracts whose strike 
+price deviation is within 5%, it shall be the average annual implied volatility of the previous 
+
+262 
+
+ 
+ 
+ 
+ 
+ 
+day calculated according to (a). 
+
+Distance Factor 
+
+Average Annual Implied Volatility 
+
+Note :   
+1. When calculating the theoretical price during night trading hours, “the previous day” shall be considered as 
+“the day before the day to which the regular trading hours of the relevant trading day belongs” and “calculation 
+day” shall be considered as “the day to which the regular trading hours of the relevant trading day belongs”. 
+2. When calculating the theoretical price during night trading hours, Note 1 shall apply to the calculation of period 
+mutatis mutandis.   
+
+263 
+
+2205.0)05.0Pr(−=iceisetioOfExercDistanceRa)PrPr()PrPrIm(=iceedOnExercisiceWeighteuantityExecutionQiceedOnExercisiceWeighteuantityExecutionQilitypliedVolatAnnual 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 16] Theoretical Prices of Single Stock Options 
+(Amended on October 26, 2009; November 3, 2014; March 13, 2017; September 22, 2023; November 1, 2024; 
+October 1, 2025) 
+
+Theoretical Prices of Single Stock Options 
+(Pertaining to [§57(1)]) 
+
+C: Theoretical call option price (to round up at the 3rd decimal place) 
+P: Theoretical put option price (to round up at the 3rd decimal place) 
+e: Base of natural logarithm 
+r: The interest rate applicable to the period t among the linearly interpolated coupon rates as of the 
+morning of the previous day calculated in accordance with [§3(a)(i)] of the Annex 2 of the Enforcement 
+Rules of the OTC Derivatives Clearing Business Regulations (if there is no coupon rate calculated in 
+the morning, the coupon rate calculated in the morning immediately before shall be used.). 
+t: Number of days in the remaining calculation period, counting from the calculation date to the last 
+trading day.   
+CTk: Price of call option at the time of option exercise   
+PTk: Price of put option at the time of option exercise 
+p: Probability of the price of underlying asset going up 
+q: Probability of the price of underlying asset going down 
+u: Rate of increase of the underlying asset price (rate of increase of underlying stock) 
+d: Rate of decrease of the underlying asset price (rate of decrease of underlying stock) 
+S: Base price of the underlying asset on the previous day   
+x: Exercise price 
+Di: Current value of cash dividend per share 
+Divi: Cash dividend per share (referring to the cash dividends per share paid in the previous fiscal year 
+by the issuing company of underlying stock that go ex-dividend during the remaining calculation period. 
+Provided that, if the amount of the relevant cash dividends is deemed to be inappropriate, it shall be the 
+amount calculated by the. Exchange) 
+ti: Number of days in remaining dividend period, counting from the calculation date to the day before 
+ex-dividend day in the remaining calculation period 
+ri : The interest rate applicable to the period ti among the linearly interpolated coupon rates as of the 
+morning of the previous day calculated in accordance with [§3(a)(i)] of the Annex 2 of the Enforcement 
+
+264 
+
+=−−−=490)49()365(!)!49(!49kTkkktrCqPkkeC=−−−=490)49()365(!)!49(!49kTkkktrPqPkkePpqdudeptr−=−−=1,)491365(]0,)[()49(XduDSMaxCkkiTk−−=−]0,)([)49(kkiTkduDSXMaxP−−−=)365(itriieDivD−=491365491365,−==ttedeu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rules of the OTC Derivatives Clearing Business Regulations (if there is no coupon rate calculated in 
+the morning, the coupon rate calculated in the morning immediately before shall be used.). 
+σ: Volatility (referring to an average annual implied volatility of the previous day calculated by the 
+Exchange for the two (2) nearby month contracts with the exercise price disparate rate less than 5/100 
+per  put  options  or  call  options  in  which  the  contract  subject  to  calculation  belongs,  on  the  day 
+immediately before the calculation date, which is weighted on the exercise price and execution quantity 
+of the previous day. Provided that, in cases where such average annual implied volatility is deemed to 
+be inappropriate, it shall refer to the annual volatility of underlying stock calculated by the Exchange 
+for each case). 
+
+Distance Factor = 
+
+(𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑅𝑎𝑡𝑖𝑜 𝑜𝑓 𝐸𝑥𝑒𝑟𝑐𝑖𝑠𝑒 𝑃𝑟𝑖𝑐𝑒−0.015)2
+0.0152
+
+Average Annual Implied Volatility 
+=∑(𝐴𝑛𝑛𝑢𝑎𝑙 𝐼𝑛𝑝𝑙𝑖𝑒𝑑 𝑉𝑜𝑙𝑎𝑡𝑖𝑙𝑖𝑡𝑦 × 𝐸𝑥𝑒𝑐𝑢𝑡𝑖𝑜𝑛 𝑄𝑢𝑎𝑛𝑡𝑖𝑡𝑦 ×𝑃𝑟𝑖𝑐𝑒 𝑊𝑒𝑖𝑔ℎ𝑡𝑒𝑑 𝑜𝑛 𝐸𝑥𝑒𝑟𝑐𝑖𝑠𝑒 𝑃𝑟𝑖𝑐𝑒)
+∑(𝐸𝑥𝑒𝑐𝑢𝑡𝑖𝑜𝑛 𝑄𝑢𝑎𝑛𝑡𝑖𝑡𝑦 × 𝑃𝑟𝑖𝑐𝑒 𝑊𝑒𝑖𝑔ℎ𝑡𝑒𝑑 𝑜𝑛 𝐸𝑥𝑒𝑟𝑐𝑖𝑠𝑒 𝑃𝑅𝑖𝑐𝑒)
+
+265 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 17] Theoretical Prices of USD Options 
+(Amended on October 26, 2009; September 16, 2015; September 6, 2016; May 24, 2023; June 25, 2024) 
+
+Theoretical Prices of USD Options 
+(Pertaining to [§57(1)]) 
+
+C: Theoretical call option price (to round up at the 2nd decimal place) 
+P: Theoretical put option price (to round up at the 2nd decimal place) 
+s: Price of underlying asset on the previous day   
+σ: Volatility (referring to an average annual implied volatility of the previous day calculated by the 
+Exchange for the two (2) nearby month contracts with the exercise price disparate rate less than 5/100 
+per  put  options  or  call  options  in  which  the  contract  subject  to  calculation  belongs,  on  the  day 
+immediately before the calculation date, which is weighted on the exercise price and execution quantity 
+of the previous day. Provided that, in cases where such average annual implied volatility is deemed to 
+be inappropriate, it shall refer to the annual volatility of underlying stock calculated by the Exchange 
+for each case). 
+
+Distance Factor =   
+
+(𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑅𝑎𝑡𝑖𝑜 𝑜𝑓 𝐸𝑥𝑒𝑟𝑐𝑖𝑠𝑒 𝑃𝑟𝑖𝑐𝑒−0.015)2
+0.0152
+
+Average Annual Implied Volatility 
+
+x: Exercise price 
+r: The interest rate determinate by linearly interpolating the Korean won rates (referring to the Korean 
+won rates calculated using the formula for calculation of the theoretical prices of currency futures in 
+[Annex  12]  and  rounded  off  at  the  third  decimal  places)  implied  in  the1-month,  3-month  and  6-
+monthFX-swap points (converted by dividing the average of bid and offer quotations by 100), which is 
+published by an international information service provider designated by the Exchange as of 15:30 on 
+the previous day. 
+rf: The rate calculated by linearly interpolating the 1-month, 3-month, and 6-month USD SOFR OIS 
+(Overnight Index Swap) rates (the average rate of bid and offer rounded off at the third decimal place) 
+which  are  provided  to  the  Exchange  by  a  global  information  and  communication  service  provider 
+designated by the Exchange as of 15:30 on the previous day: 
+t: Number of days counting from the calculation date to the last trading day   
+ln: Natural logarithm function 
+e: Base of natural logarithm 
+N(d): Cumulative standard normal distribution function 
+
+266 
+
+)()(2365)365(dNeXdNeSCtritrf−=−−)()(1)365(2)365(dNeSdNeXPtrtrf−−−=−−365365)2()ln(21ttrrXSdf+−+=36512tdd−=)Price Exercise on Weighted PriceQuantity (ExecutionPrice) Exercise on Weighted PriceQuantity ExecutionVolatility Implied (Annual= 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes: 
+1. The international information service provider designated by the Exchange shall be the Refinitiv. Provided that, 
+with regard to the application of interest rate for the calculation of theoretical price in case it is not possible to 
+utilize the information service provider due to the unavoidable reasons such as the natural disasters, it shall adopt 
+the procedure that the Exchange establishes separately. 
+2. In cases where an international information service provider is newly designated or changed, the Exchange 
+shall immediately make such fact public through the electronic information dissemination medium operated by it.   
+
+267 
+
+ 
+ 
+[Annex 17-2] Quotation quantity limits and accumulated quotation quantity limits 
+[February 17, 2012] (Amended on July 8, 2013; August 28, 2014; November 3, 2014; July 3, 2015; September 
+16, 2015; October 28, 2015; June 20, 2016; March 13, 2017; June 15, 2017; March 15, 2018; September 7, 2018; 
+October 30, 2019; February 16, 2022; June 29, 2023; February 5, 2024; November 1, 2024; April 18, 2025; May 
+29, 2025) 
+
+Quotation quantity limits and accumulated quotation quantity limits 
+(Pertaining to [§61] and [§79-7]) 
+
+1. Quotation quantity limits 
+
+Products 
+
+Quotation quantity limits 
+
+KOSDAQ 150 Future, KOSDAQ Global Futures, 
+Sector Index Futures, 3-yr KTB Futures, 5-yr KTB 
+Futures, 10-yr KTB Futures, 30-yr KTB Futures, 3-
+month Risk Free Benchmark Interest Rate Futures,, 
+Gold Futures, Lean Hog Futures 
+
+KOSPI200 Futures, KRX 300 Futures, V-KOSPI 
+200 Index Futures, ETF Futures 
+
+Futures 
+
+USD Futures, JPY Futures, EUR Futures, CNY 
+Futures 
+
+Mini KOSPI200 Futures 
+
+Single Stock Futures 
+
+KOSDAQ  150  Future  spreads,  KOSDAQ  Global 
+Futures spreads, Sector Index Futures spreads, Inter-
+3-yr and 10-yr KTB Futures spreads 
+KOSPI200 Future spreads, KRX 300 Futures 
+spreads, V-KOSPI 200 Index Futures spreads, ETF 
+Futures spreads, 5-yr KTB Futures spreads, 10-yr 
+KTB Futures spreads, 30-yr KTB Futures spreads, 
+Gold Futures spreads, Lean Hog Futures spreads 
+3-yr KTB Futures spreads, 3-month Risk Free 
+Benchmark Interest Rate Futures Spread 
+Mini KOSPI200 Futures spreads, USD Futures 
+spreads, JPY Futures spreads, EUR Futures 
+spreads, CNY Futures spreads 
+
+Single Stock Futures spreads 
+
+Futures 
+spreads 
+
+Options  KOSDAQ 150 Options 
+
+Regular session: 1,000 (100) 
+contracts 
+Night session: 500 (50) contracts 
+
+Regular session: 2,000 (200) 
+contracts 
+Night session: 1,000 (100) 
+contracts 
+Regular session: 5,000 (500) 
+contracts   
+Night session: 2,500 (250) 
+contracts 
+Regular session: 10,000 (1,000) 
+contracts     
+Night session: 5,000 (500) 
+contracts 
+The quantity separately 
+determined by the Exchange from 
+among 1,000 (100) contracts, 
+2,000 (200) contracts, 5,000 (500) 
+contracts and 10,000 (1,000) 
+contracts.   
+
+Regular session: 1,000 contracts   
+Night session: 500 contracts 
+
+Regular session: 2,000 contracts   
+Night session: 1,000 contracts 
+
+Regular session: 5,000 contracts   
+Night session: 2,500 contracts 
+
+Regular session: 10,000 contracts   
+Night session: 5,000 contracts 
+
+The quantity separately determined 
+by the Exchange from among 1,000 
+contracts,  2,000  contracts,  5,000 
+contracts and 10,000 contracts. 
+Regular session: 1,000 (100) 
+contracts   
+Night session: 500 (50) contracts 
+
+268 
+
+ 
+ 
+ 
+ 
+KOSPI200 Options 
+
+Currency Options 
+
+Mini KOSPI200 Options 
+
+Single Stock Options 
+
+Regular session: 2,000 (200) 
+contracts     
+Night session: 1,000 (100) 
+contracts 
+5,000 (500) contracts 
+Regular session: 10,000 (1,000) 
+contracts     
+Night session: 5,000 (500) 
+contracts 
+The quantity separately 
+determined by the Exchange from 
+among 1,000 (100) contracts, 
+2,000 (200) contracts, 5,000 (500) 
+contracts and 10,000 (1,000) 
+contracts.   
+
+Note: The number in parentheses of the quotation quantity limit refers to the quotation quantity limit 
+when the product is a low liquidity product. 
+
+2. Accumulated quotation quantity limits and calculation methods 
+
+(a) Accumulated quotation quantity limits 
+
+Account types 
+
+Own-account 
+Ex-post 
+margin 
+account 
+
+KOSPI200 Futures 
+(including futures spread) 
+and 
+KOSPI200 Options 
+
+Mini KOSPI200 Futures 
+(including futures spread) 
+and 
+Mini KOSPI200 Options 
+
+Algorithmic 
+trading account 
+
+Non-algorithmic 
+trading account 
+
+Algorithmic 
+trading account 
+
+Non-algorithmic 
+trading account 
+
+Limits on accumulated 
+quotation quantity 
+Regular session: 15,000 
+contracts per upward or 
+downward direction 
+Night session: 7,500 contracts 
+per upward or downward 
+direction 
+Regular session: 30,000 
+contracts per upward or 
+downward direction 
+Night session: 15,000 
+contracts per upward or 
+downward direction 
+Regular session: 75,000 
+contracts per upward or 
+downward direction 
+Night session: 37,500 
+contracts per upward or 
+downward direction 
+Regular session: 150,000 
+contracts per upward or 
+downward direction 
+Night session: 75,000 
+contracts per upward or 
+downward direction 
+
+(b) Calculation methods of accumulated quotation quantity limits 
+
+Upward 
+direction 
+
+Calculation methods 
+∑(Quantity  of  bid  quotes  of  futures  +  Quantity  of  bid  quotes  of  futures  already 
+submitted) +  ∑(Quantity of quotes for futures spreads + Quantity of quotes for futures 
+spreads already submitted) +  ∑(Quantity of bid quotes for call option + Quantity of 
+bid quotes for call option already submitted) x Delta  Multiplier ratio +  ∑(Quantity 
+269 
+
+ 
+ 
+ 
+ 
+ 
+ 
+of ask quotes for put option + Quantity of ask quotes for put option already submitted) 
+ Delta  Multiplier ratio 
+∑(Quantity  of  ask  quotes  of  futures  +  Quantity  of  ask  quotes  of  futures  already 
+submitted) +  ∑(Quantity of quotes for futures spreads + Quantity of quotes for futures 
+spreads already submitted) +  ∑(Quantity of ask quotes for call option + Quantity of 
+ask quotes for call option already submitted)  Delta  Multiplier ratio +  ∑(Quantity 
+of bid quotes for put option + Quantity of bid quotes for put option already submitted) 
+ Delta  Multiplier ratio 
+
+Downward 
+direction 
+
+Notes: 
+1. Quotation quantity refers to the quantity of quotations to be submitted to the Exchange. 
+2. Quotation quantity already submitted referred to the quantities of quotations already submitted to the Exchange, 
+but not yet matched. 
+3. Delta refers to the delta at the market closing time of immediately preceding day that are made available by the 
+Exchange for the management of quantity of open interests held. 
+4. Multiplier ratio = Options multiplier / Futures multiplier   
+5.  The  calculation  of  the  accumulated  quotation  quantity  limit  for  regular  session  shall  be  based  only  on  the 
+quotation  quantity  submitted  during  quotation  receiving  hours  for  regular  session  and  the  quotation  quantity 
+already submitted, and the calculation of the accumulated quotation quantity limit for night session shall be based 
+only on the quotation quantity submitted during quotation receiving hours for night session and the quotation 
+quantity already submitted. 
+
+270 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  [Annex 17-3] [Deleted on August 28, 2014] 
+
+271 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 18] Calculation of Net Exposure Margins 
+(Amended on April 6, 2009; August 21, 2009; October 26, 2009; October 20, 2011; November 17, 2011; July 8, 
+2013; July 3, 2015; March 8, 2016; March 21, 2016; June 20, 2016; October 14, 2019; May 29, 2025) 
+
+Calculation of Net Exposure Margins 
+(Pertaining to [§94] and [§134]) 
+
+1. Net exposure margin   
+
+As the amount of maximum net loss that may results from the quantity of open interests, final 
+settlement  quantity  and  exercise  settlement  quantity  when  the  price,  value  or  volatility  of 
+underlying asset fluctuate by a certain level, it shall be the sum of the amounts of net exposure 
+margin calculated for each of product groups noted in [Annex 19]. Provided that, if the sum is 
+less than zero, it shall be zero.   
+
+Net exposure margin = Max(∑Net exposure margin per product group, 0) 
+
+2. Net exposure margin of product group 
+
+Net  exposure  margin  of  product  group  shall  be  determined  by  adding  the  option  premium 
+margin to the larger amount between the sum of price volatility margin, futures spread margin, 
+delivery margin and margin before determination of final settlement price and minimum net 
+exposure margin and the minimum net exposure margin, which were calculated for the trades 
+belong to the same product group.   
+
+Net  exposure  margin  of  product  group  =  Max  {Price  volatility  margin  +  Futures  spread  margin 
++Physical delivery margin + Margin before determination of final settlement price, Minimum net 
+exposure margin} + Option premium margin 
+
+(a) Option premium margin 
+
+Option premium margin shall be the sum of option premium margins calculated per contract 
+for the quantity of open interests resulted from option trade. 
+
+ Option premium margin =  ∑Option premium margin per contract 
+
+ Option premium margin per contract   
+
+= (Number of open short interest positions x Base price for margin calculation for options x 
+
+Multiplier) - (Number of open long interest positions x Base price for margin calculation for 
+options x Multiplier) 
+
+272 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Price volatility margin 
+
+Price volatility margin shall be the highest amount of the amounts that are calculated for the 
+quantity of open interests of derivative trade per same sequence of margin interval value.   
+
+(i) Margin interval value 
+
+Margin interval  value shall be determined as  follows, while  considering the change of 
+underlying  asset  price  (dividing  the  difference  between  the  value  when  the  price  of 
+underlying  asset  rises  as  much  as  the  margin  rate  and  the  value  when  the  price  of 
+underlying asset drops as much as the margin rate by a fixed interval) and the change of 
+price volatility (rate of increase and decrease of implied volatility per option contract):   
+
+ⓐ  One (1) margin interval of base price of underlying asset;   
+
+ⓑ  Two (2) margin intervals when the base price of underlying asset goes up or goes 
+down as much as the margin rate; and 
+
+ⓒ  As the margin interval values that are within the margin interval values noted in  ⓑ, 
+the values obtained by consecutively subtracting or adding the amount resulted from 
+multiplying the base price of underlying asset by specific percentage (1/15 for customer 
+margin and 1/10 for member margin and maintenance margin) of margin rate from and 
+to the base price of underlying asset. 
+
+ⓓ  Margin  interval  that  takes  into  account  each  rate  of  increase  and  decrease  of 
+volatility (the rate of increase and decrease shall be 30% while taking into account the 
+price volatility of underlying asset) for the interval value under  ⓐ,  ⓑ  and  ⓒ. 
+
+273 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Member margin (Maintenance margin) 
+
+Customer margin 
+
+Margin Interval Values 
+
+No. 
+
+futures/options 
+cause of price volatility 
+Change 
+Change of 
+of 
+underlying 
+volatility 
+asset price 
+
+futures 
+interval 
+value 
+
+options 
+interval 
+value 
+
+No. 
+
+1 
+
+2 
+
+. 
+
+21 
+
+22 
+
+. 
+
+41 
+
+42 
+
+S-10 
+
+. 
+
+S0 
+
+. 
+
+S+10 
+
+High 
+
+Low 
+
+. 
+
+High 
+
+Low 
+
+. 
+
+High 
+
+Low 
+
+S-10 
+
+S-10 
+
+. 
+
+S-0 
+
+S-0 
+
+. 
+
+S+10 
+
+S+10 
+
+f (S-10H) 
+
+f (S-10L) 
+
+. 
+
+f (S-0H) 
+
+f(S-0L) 
+
+. 
+
+f (S+10H) 
+
+f (S+10L) 
+
+1 
+2 
+. 
+11 
+
+12 
+
+. 
+
+31 
+
+32 
+
+. 
+
+51 
+
+52 
+. 
+61 
+62 
+
+Futures/options 
+Cause of price volatility 
+Change 
+Change of 
+of 
+underlying 
+volatility 
+asset price 
+High 
+Low 
+. 
+High 
+
+S-15 
+
+. 
+
+S-10 
+
+. 
+
+S0 
+
+. 
+
+S+10 
+
+. 
+
+S+15 
+
+Low 
+
+. 
+
+High 
+
+Low 
+
+. 
+
+High 
+
+Low 
+. 
+High 
+Low 
+
+futures 
+interval 
+value 
+
+options 
+interval 
+value 
+
+S-15 
+S-15 
+. 
+S-10 
+
+S-10 
+
+. 
+
+S-0 
+
+S-0 
+
+. 
+
+S+10 
+
+S+10 
+. 
+S+15 
+S+15 
+
+f(S-15H) 
+f (S-15L) 
+. 
+f (S-10H) 
+
+f (S-10L) 
+
+. 
+
+f (S-0H) 
+
+f (S0L) 
+
+. 
+
+f (S+10H) 
+
+f (S+10L) 
+. 
+f (S+15H) 
+f (S+15L) 
+
+Member (Maintenance) margin:    Sk= S0 x (1+k x Margin rate/10), {k=0, 1, 2, ….,10} 
+
+Customer Margin: Sk= S0 x (1+k x Margin rate/15), {k= 0, 1, 2, ….,15} 
+
+S0: Base price of underlying asset 
+
+H (rising volatility) = Implied volatility x (1 + Rate of volatility increase)   
+
+L (falling volatility) = Implied volatility x (1 - Rate of volatility decrease) 
+
+f(..): Formula for theoretical option price   
+
+(ii) Calculation of price volatility margin 
+
+ⓐ  When  there  are  no  trade  involving  different  underlying  assets  within  the  same 
+product group 
+
+It shall be the amount of price volatility margin at the margin interval value where the 
+margins for price volatility determined by adding the margin for futures price volatility 
+and margin for option price volatility calculated for the margin  interval  value at the 
+same consecutive order becomes the largest.   
+
+ Price volatility margin = Max (Price volatility margin for the margin interval value at the 
+same consecutive order)   
+
+ Amount determined for each margin interval value = Futures Price volatility margin for 
++ Options price volatility margin 
+
+ Futures price volatility margin =  ∑{Quantity of long open interests by contract x (Base 
+price  of  underlying  asset  –  Margin  interval  value)    Multiplier}  ∑{Quantity  of  short 
+
+274 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+open  interests  by  contract    (Margin  interval  value  –  Base  price  of  underlying  asset) 
+Multiplier}   
+
+ Options price volatility margin = Sum of margins for option price volatility per product 
+group + Sum of margins for option price volatility per contract 
+
+1. For options contracts of which underlying asset is KOSPI200: Margins for option price 
+volatility per product group. Provided that members may calculate the margins for option 
+price volatility using the method under subparagraph 2 even for options contracts of which 
+underlying asset is KOSPI200. 
+= Quantity of open interests resulting from call option purchase  (Base price for Margin 
+– Theoretical margin price) Max(Multipliers of contracts with same underlying assets) 
++ Quantity of open interests resulting from call option sale   (Base price for margin – 
+Theoretical margin price)  Max(Multipliers of contracts with same underlying assets) + 
+Quantity of open interests resulting from put option purchase  (Base price for margin – 
+Theoretical margin price)  Max(Multipliers of contracts with same underlying assets)+ 
+Quantity  of  open  interests  resulting  from  put  option  sale    (Base  price  for  Margin  – 
+Theoretical margin price)  Max(Multipliers of contracts with same underlying assets) 
+
+*Product group: A set of contracts of which underlying assets, option types, exercise prices 
+and last trading days are the same. 
+
+**The  quantity  of  open  interests  per  product  group  shall  be  the  quantity  calculated  by 
+following formula. In such cases, if the resulting value is in positive (+), it shall be the 
+quantity of long open interests and it the resulting value is in negative (-), it shall be the 
+quantity of short open interests. Provided that, the quantity to apply shall be the absolute 
+value of the quantity of open interests calculated: 
+
+∑(Quantity of long open interestsMultiplier ratio) - ∑(Quantity of short open interests 
+ Multiplier ratio) 
+
+***Multiplier ratio = Multiplier of the relevant contract / Max (Multipliers of contracts 
+based on same underlying assets) 
+
+2. For options contracts other than subparagraph 1: Margins for option price volatility per 
+contract 
+= Quantity of open interests resulting from call option purchase x (Base price for Margin 
+– Theoretical margin price) x Multiplier + Quantity of open interests resulting from call 
+option sale x (Base price for margin – Theoretical margin price) x Multiplier + Quantity 
+of open interests resulting from put option purchase x (Base price for margin – Theoretical 
+margin price) x Multiplier + Quantity of open interests resulting from put option sale x 
+(Base price for Margin – Theoretical margin price) x Multiplier 
+
+ⓑ  When there are trades involving different underlying assets within the same product 
+group 
+
+The amount of price volatility margin shall be the amount obtained by subtracting the 
+following  margin  reduction  amount  from  the  sum  of  price  volatility  margin  per 
+underlying asset calculated according to  ⓐ  above:   
+
+* (Method of margin reduction) After converting and standardizing delta for the open 
+275 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+interests  within  the  same  product  group,  it  shall  be  determined  by  multiplying  the 
+quantity possible to offset by the margin per contract and price correlation coefficient.   
+
+ Calculation of standardized quantity of contract size, etc. by considering delta on 
+the basis of the product for which the price per futures contract is the largest in the 
+same product group. 
+
+ To determine net delta per underlying asset 
+
+Futures 
+
+Call 
+options 
+
+Net delta = Positive delta + Negative delta   
+Positive delta 
+∑(Quantity of long open 
+interests×1×Multiplier ratio) 
+∑(Quantity of long open interests × 
+Delta × Multiplier ratio) 
+
+Negative delta 
+∑(Quantity of short open interests × (-1) × 
+Multiplier ratio) 
+∑(Quantity of short open interests ×(-1)×Delta 
+× Multiplier Ratio 
+∑(Quantity of long open interests ×Delta × 
+Multiplier ratio) 
+
+∑(Quantity of short open interests× 
+(-1) × Delta × Multiplier ratio) 
+
+Put 
+options 
+*Multiplier ratio = Multiplier of the relevant contract ÷ Max (Multiplier of contracts based on same 
+
+underlying asset   
+
+* Delta: Delta based on the closing price per option contract    
+
+When calculating member margin, maintenance margin & ex-post margin: Delta at 
+the market closing time of the day. 
+
+ Within the same product group, the relative size ratio per underlying asset that 
+the Exchange specified ( ̂ j) 
+
+  Within  the  same  product  group,  to  determine  the  standardized  quantity  per 
+underlying asset 
+
+Standardized contract quantity = Net delta ÷ Relative size ratio ( ̂ j)       
+
+ Calculation of linearized-part margin per underlying asset at the margin interval 
+value for which the price volatility margin has been calculated.   
+
+Linearized-part margin = Loss for futures + Loss for options 
+= Loss for futures + (-1) × Size of underlying asset price change ×Delta × Multiplier 
+× Net open interests on bid-side   
+(0≦  linearized-part margin per underlying asset  ≦  Price volatility margin), Size 
+of underlying asset price change (Sk - S0), Delta(Delta for margin interval value at 
+which the price volatility margin per underlying asset is determined) 
+
+276 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Calculation of margin reduction 
+
+To  determine  margin  per  contract  of  standardized  contract  quantity  for  each 
+positive and negative delta 
+
+Margin per contract of standardized contract quantity       
+
+B =   
+
+Net delta > 0 
+
+* m: No. of underlying asset with positive net delta       
+
+S =   
+
+Net delta < 0 
+
+* n: No. of underlying asset with negative net delta       
+
+To determine the standardized contract quantity (C) to be offset 
+
+ki: Standard contract quantity of underlying asset (i) with positive net delta   
+lj: Standard contract quantity of underlying asset (j) with negative net delta 
+
+To determine the margin reduction by multiplying the margin amount per contract 
+of standard contract quantity for each positive & negative net delta by the standard 
+contract quantity to be offset and the price correlation coefficient. 
+
+Margin reduction  
+= Margin reduction for positive net delta + Margin reduction for negative net delta       
+= B × C × Price correlation coefficient + S × C × Price correlation coefficient = 
+(B + S) × C × Price correlation coefficient 
+
+(c) Futures spread margin 
+
+The  futures  spread  margin  shall  be  the  smaller  amount  of  the  amounts  determined  by 
+multiplying the margin per futures spread contract by quantity of open interests (The number 
+of open interests is netted considering the multiplier between contracts with same last trading 
+day) per long and short for futures whose underlying assets are the same.   
+
+Futures spread margin for product group =  ∑futures spread margin per underlying asset 
+Futures spread margin per underlying asset = Min (∑long futures spread margin per product 
+
+277 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+group),  ∑short futures spread margin per product group) 
+  * Product group: A group of products with same underlying asset and the last trading day   
+Futures spread margin by contract group   
+1)  Long futures spread margin by contract group   
+Max{(∑Quantity  of  long  open  interests  by  contractFutures  spread  margin  per  contract  - 
+∑Quantity of short open interests by contract)Futures spread margin per contract, 0} 
+2) Short futures spread margin by contract group 
+Max{(∑Quantity  of  short  open  interests  by  contractFutures  spread  margin  per  contract  - 
+∑Quantity of long open interests by contractFutures spread margin per contract, 0} 
+
+Provided that members may calculate futures spread margin without netting the number of 
+open interests of contracts which have the same underlying asset and the last trading day. 
+
+Futures spread margin for product group =  ∑futures spread margin per underlying asset 
+Futures spread margin per underlying asset = Min (∑long futures spread margin per contract), 
+∑short futures spread margin per contract) 
+Futures spread margin by contract = Quantity of open interests × Futures spread margin per 
+contract 
+
+(d) Physical delivery margin 
+
+Physical delivery margin shall, as the amount equivalent to the loss that may sustain for the 
+final  settlement  quantity  when  the  price  of  underlying  asset  fluctuates,  be  the  amount 
+obtained by adding the sum of the margin for delivery price and the margin for delivery price 
+volatility calculated for the trade where the underlying assets are the same.   
+
+ Physical delivery margin = Sum of physical delivery margin per underlying asset 
+
+ Physical delivery margin per underlying asset = Margin for delivery price + Margin 
+for delivery price volatility 
+
+(i) Margin for delivery price   
+Margin for delivery price   
+=  {Final  settlement  quantity  for  bid    (Final  settlement  price  –  Base  price  of 
+underlying asset)  Multiplier} + {Final settlement quantity for ask  (Base price of 
+underlying asset - Final settlement price)  Multiplier} 
+
+(ii) Margin for delivery price volatility 
+Margin for delivery price volatility   
+=  {Final  settlement  quantity  for  bid    (Base  price  of  underlying  asset  –  Lowest 
+margin interval value)  Multiplier} + {Final settlement quantity for ask  (Highest 
+margin interval value – Base price of underlying asset)  Multiplier} 
+
+278 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(e) Margin before determination of final settlement price 
+
+Margin before determination of final settlement price shall, as the amount equivalent to the 
+loss  incurred  for  the  final  settlement  quantity  of  the  trade,  for  which  the  final  settlement 
+difference is paid/received on three (3) trading days later counting from the last trading day, 
+be calculated by aggregating the margin before determination of final settlement price per 
+underlying asset for the trades where the underlying assets are the same.   
+
+  Margin  before  determination  of  final  settlement  price  =  Sum  of  margin  before 
+determination of final settlement price per underlying asset 
+
+  Margin  before  determination  of  final  settlement  price  per  underlying  asset  =  Final 
+settlement quantity  Base price of underlying asset  Multiplier  Margin rate 
+
+(f) Minimum net exposure margin   
+
+Minimum  net  exposure  margin  shall  be  the  amount  obtained  by  adding  the  amounts 
+calculated by multiplying the minimum margin per contract by the quantity of open interests, 
+final settlement quantity and exercise settlement quantity of the trade belonging to the same 
+product group.   
+
+Minimum net exposure margin   
+= (Sum of quantity of open interests for futures trade x Minimum margin per contract) 
++  (Sum  of  final  settlement  quantity  of  futures  trade  delivering  underlying  asset   
+Minimum margin per contract) + (Sum of quantity of open short positions of options x 
+Minimum margin per contract) + (Sum of final settlement quantity of trade subject to 
+margin before determination of final settlement price  Minimum margin per contract) 
+
+Notes: 
+
+1. In calculating the net exposure margin, the base price for underlying asset shall be as follows: 
+a. Member margin: If calculated based on the time of market closing, it shall be the base price of underlying 
+asset of the trading day to which the calculation time belongs; and if calculated based on the time of market 
+closing of night session, it shall be the base price of underlying asset at the time of immediately preceding 
+market closing. 
+b. Customer margin: Before the market closing on the trading day to which the calculation time belongs, it 
+shall be the base price of underlying asset (if an ex-dividend, etc. have occurred with the Single Stock Futures 
+and Single Stock Options trade, the base price of underlying asset of previous day shall be the adjusted base 
+price of underlying asset) of immediately preceding trading day, and after the market closing on the trading 
+day to which the calculation time belongs, it shall be the base price of underlying asset of the relevant trading 
+day. 
+2. The physical delivery margin under subparagraph 2(d) shall, in the case of member margins, apply from the 
+market  closing  time  on  the  last  trading  day  to  the  deposit  deadline  of  margin  pursuant  to  [§88(5)]  of  the 
+Regulation, and shall, in the case of customer margin, apply from the market closing time on the last trading 
+day to the settlement deadline for physical delivery noted in [§158].   
+3. The margin before determination of final settlement price shall, in the case of member margin, apply from 
+the  market  closing  on  the  last  trading  day  to  the  deposit  deadline  of  margin  pursuant  to  [§88(5)]  of  the 
+Regulation and shall, in the case of the customer margin, be applies from the market closing on the last trading 
+
+279 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+day to the market closing on the day before the final settlement day.   
+4. When calculating the net exposure margin after the end of night trading session, the open interests are based 
+on the closing time of night trading session, but the member margin base price and member margin theoretical 
+price for each option issue are based on the time of immediately preceding market closing. 
+
+280 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 19] Margin Rates and Variables for Calculation of Margin Amounts 
+(Amended on October 26, 2009; December 4, 2009; July 30, 2010; September 13, 2010; October 1, 2010; October 
+20, 2010; January 27, 2011; March 23, 2011; September 23, 2011; October 10, 2011; October 20, 2011; November 
+17, 2011; December 20, 2011; February 17, 2012; September 26, 2012; July 8, 2013; August 28, 2014; November 
+3, 2014; November 13, 2014; May 26, 2015; July 3, 2015; August 13,  2015; September 16, 2015; October 28, 
+2015; March 8, 2016; March 21, 2016; June 20, 2016; March 13, 2017; June 15, 2017; March 15, 2018; September 
+7, 2018; October 14, 2019; July 13, 2021; September 22, 2023; February 5, 2024; April 5, 2024; November 1, 
+2024; April 18, 2025; May 29, 2025) 
+
+Margin Rates and Variables for Calculation of Margin Amounts 
+(Pertaining to [§57], [§94], [§102-3], [§133], [§134], [§150] and [§151-2]) 
+
+1. Margin rates 
+
+The member margin rates, customer margin rates and maintenance margin rates, etc. of the 
+Derivatives Market established and operated by the Exchange shall be separately determined 
+by the Exchange, based on the price volatility of underlying assets, pro-cyclicality etc. 
+
+2. Product groups and price tradeoff ratio correlations 
+
+The  product  groups,  relative  size  rations  and  price  correlation  coefficient  between  the 
+underlying assets of the product groups shall be determined separately and officially announced 
+by the Exchange, based on the correlations, etc. between underlying assets. 
+
+3. Futures spread margin per contract 
+
+The amount of futures spread margin per contract shall be the product of the underlying asset 
+base price and the multiplier and the futures spreads margin rate. 
+
+Trade types 
+
+Futures spread margin rates 
+
+Member margin 
+(%) 
+
+Customer margin 
+(%) 
+
+Maintenance margin 
+(%) 
+
+KOSPI 200 Futures 
+Mini KOSPI200 Futures 
+KRX 300 Futures 
+KOSPI Dividend Index Futures 
+
+KOSDAQ 150 Futures 
+KOSDAQ Global Futures 
+
+Sector Index Futures (excluding 
+KOSPI Dividend Index Futures) 
+
+V-KOSPI Index Futures 
+
+Single Stock Futures 
+ETF Futures 
+
+Lean Hog Futures 
+
+1.2 
+
+2.0 
+
+2.0 
+
+4.0 
+
+2.0 
+
+5.0 
+
+1.8 
+
+3.0 
+
+3.0 
+
+6.0 
+
+3.0 
+
+7.5 
+
+1.2 
+
+2.0 
+
+2.0 
+
+4.0 
+
+2.0 
+
+5.0 
+
+281 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3-year KTB Futures 
+5-year KTB Futures 
+10-year KTB Futures 
+30-year KTB Futures 
+USD Futures 
+JPY Futures 
+EUR Futures 
+CNY Futures 
+USD FLEX Futures 
+Gold Futures 
+
+Lean Hog Futures 
+
+0.20 
+
+0.30 
+
+0.20 
+
+0.20 
+
+0.90 
+
+5.0 
+
+0.30 
+
+1.35 
+
+7.5 
+
+0.20 
+
+0.90 
+
+5.0 
+
+4. Minimum margin per contract 
+
+Products 
+
+3-yr KTB Futures, 5-yr KTB Futures, 10-yr 
+KTB Futures, 30-yr KTB Futures 
+KOSPI 200 Futures, V-KOSPI 200 Index 
+Futures 
+KRX 300 Futures 
+KOSDAQ 150 Futures, KOSDAQ Global 
+Futures, Sector Index Futures (excluding 
+KOSPI Dividend Index Futures), USD Futures, 
+JPY Futures, EUR Futures, CNY Futures, Lean 
+Hog Futures, USD FLEX Futures, Gold Futures 
+Mini KOSPI200 Futures 
+KOSPI Dividend Index Futures 
+
+Futures 
+
+Single Stock Futures 
+ETF Futures 
+
+Minimum margin 
+per contract   
+
+KRW 50,000 
+
+KRW 25,000 
+
+KRW 20,000 
+
+KRW 10,000 
+
+KRW 5,000 
+KRW 2,000 
+ If the base price of underlying stock of 
+the day is less than KRW 100,000; 
+KRW 1,000 
+ If the base price of underlying stock of 
+the day is higher than KRW 100,000; 
+KRW 10,000 
+
+Options 
+
+KOSPI200 Options 
+KOSDAQ 150 Options, Single Stock Options, 
+Currency Options 
+Mini KOSPI200 Options 
+
+KRW 25,000 
+
+KRW 10,000 
+
+KRW 5,000 
+
+5. Base price of margin in options trade 
+
+(a) Base price of member margin 
+
+(i) In the case of contract for which execution price established during the regular trading 
+session of the day is available: 
+
+The base price of member margin shall be the latest execution price [excluding execution 
+price of negotiated trade: the same hereinafter in (i) of item (c)] executed in the regular 
+trading  session  of  the  day  per  option  contract  traded.  Provided  that,  in  the  case  of  an 
+282 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+abnormal trading circumstances or when deemed necessary for market management, the 
+price may be changed into the price calculated by (ii) etc. which the Exchange deems 
+appropriate.   
+
+(ii) In the case of a contract for which no execution price of the regular trading session of 
+the day is available: 
+
+It shall be the theoretical option price at the time of market closing of the day, which is 
+determined by applying  mutatis mutandis  the method  of calculating theoretical  option 
+price noted in [Annexes 15 through 17]. In such cases, among the days noted in [Annex 
+15] through [Annex 17], “base price of underlying asset on the previous day” shall be 
+construed as “base price of underlying asset of the day”; “the previous day” (except the 
+“previous day of ex-dividend day” in calculating the number of remaining days to  the 
+dividend date noted in [Annex 15] and [Annex 16]) as “the day”, and “the calculation 
+date” as “the business day following the calculation date”, respectively. 
+
+(b) Base price for customer margin   
+
+(i) Before the market closing of the relevant trading day: 
+
+Base price of the relevant trading day 
+
+(ii) After the market closing of the relevant trading day: 
+
+Base price of member margin of the relevant trading day 
+
+(c) Base price of intraday member margin   
+
+(i) For an issue with an execution price executed within the time of calculating intraday 
+member margin during the regular trading session of the day: The last execution price 
+within the time of calculating member margin per option issue shall be the base price of 
+intraday  member  margin.  Provided  that,  in  case  where  there  is  any  irregular  trading 
+situation  or  the  Exchange  deems  necessary  for  the  market  management,  it  may  be 
+changed  into  the  price  calculated  pursuant  to  (ii)  below,  etc.,  which  the  Exchange 
+recognize as appropriate.   
+
+(ii) For an issue with no execution price within the time of calculating intraday member 
+margin during the regular trading session of the day: It shall be option theoretical price at 
+the  time  of  calculating  intraday  member  margin  of  the  day,  which  is  calculated  by 
+applying the calculation method of option theoretical price in [Annex 15] through [Annex 
+17] mutatis mutandis. In such cases, “base price of underlying asset on the previous day” 
+shall be construed as “price of underlying asset at the time of calculating intraday member 
+margin”; “execution quantity  of the previous day” as “execution quantity  of the day”; 
+“annual implied volatility of the previous day” as “annual implied volatility at the time 
+of calculating intraday member margin”; “linearly interpolated volatility of the previous 
+day” as “linearly interpolated volatility at the time of calculating intraday member margin” 
+and “average annual implied volatility of the previous day” as “average annual implied 
+volatility  at  the  time  of  calculating  intraday  member  margin”  in  [Annex  15]  through 
+[Annex 17]. 
+
+283 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) Base price of intraday customer margin   
+
+(i) For an issue with an execution price concluded within the time of calculating intraday 
+customer margin during the regular trading session of the day: the last execution price 
+within the time of calculating intraday customer margin per option issue shall be the base 
+price of intraday customer margin. Provided that, in cases where there is any irregular 
+trading situation or of the Exchange deems necessary for the market management, it may 
+be  changed  into  the  price  calculated  pursuant  to  (ii)  below,  etc.,  which  the  Exchange 
+recognizes as appropriate. 
+
+(ii) For an issue with no execution price within the time of calculating intraday customer 
+margin during the regular trading session of the day: it shall be option theoretical price at 
+the time of calculating intraday customer margin of the day (at the time of calculating 
+intraday customer margin), which shall be calculated by applying the [(c)(ii)]. In such 
+cases, the “time of calculating intraday member margin” of [(c)(ii)] shall be construed as 
+the “time of calculating intraday customer margin”. 
+
+6. Theoretical price of margin in options trade 
+
+(a) Theoretical price of member margin   
+
+Theoretical  price  of  member  margin  shall  be  calculated  by  applying  the  method  of 
+calculating  theoretical  option  price  noted  in  [Annex  15]  through  [Annex  17]  mutatis 
+mutandis. In such cases, “3rd decimal place” and “2nd decimal place” shall be construed 
+as “7th decimal place”; “base price of the underlying asset on the previous day” and “the 
+previous day” (excluding “the day before the ex-dividend day” in determining the number 
+of  remaining  days  until  the  ex-dividend  day  noted  in  [Annex  15]  and  [Annex  16])  as 
+“member  margin  interval  value  of  the  calculation  date”  and  “the  day”,  respectively;; 
+“calculation  date”  and  “number  of  days  in  the  remaining  calculation  period  (t)”  as 
+“business day after the calculation date” and “number of days in the remaining calculation 
+period (t)-2” [in cases where the value is less than one (1), it shall be deemed as one (1)], 
+respectively,  but,  in  the  case  of  a  contract  of  which  trades  were  executed  during  the 
+regular trading session on the calculation date, the volatility noted in [Annex 15] through 
+[Annex 17] shall be the annual implied volatility of the relevant contract calculated by 
+the Exchange at the time of market closing on the calculation date. 
+
+(b) Theoretical price of customer margin   
+
+(i) Before the market closing of the relevant trading day 
+
+Theoretical price of customer margin before the market closing of the relevant trading 
+day shall be calculated by applying the method of calculating theoretical option price 
+noted in [Annexes 15 through 17] mutatis mutandis. In such cases, “3rd decimal place” 
+and “2nd decimal place” shall be construed as “7th decimal place”; “base price of the 
+underlying  asset  on  the  previous  day”  as  “customer  margin  interval  value  of  the 
+calculation date”; “number of days in the remaining calculation period(t)” as “number 
+of days in the remaining calculation period (t)-2” [in cases where the value is less than 
+
+284 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+one(1), it shall be deemed one (1)], but, in the case of a contract of which trades were 
+executed during the immediately preceding regular trading session, the volatility noted 
+in [Annex 15] through [Annex 17] shall be the annual implied volatility of the relevant 
+contract calculated by the Exchange at the time of market closing of the immediately 
+preceding day. 
+
+(ii) After the market closing of the relevant trading day 
+
+Theoretical price of customer margin after the market closing of the relevant trading 
+day shall be calculated by applying the method of calculating theoretical option price 
+noted in  [Annexes  15 through 17] mutatis  mutandis. In such cases, the “3rd decimal 
+place” and the “2nd decimal place” shall be construed as the “7th decimal place”; “base 
+price of the underlying asset on the previous day” as “customer margin interval value 
+of the calculation date”; “previous day” (excluding “the day before the ex-dividend day” 
+in determining the remaining number of days until ex-dividend day noted in [Annex 15] 
+and  [Annex  16])  as  “the  day”,  respectively;  “calculation  date”  as  “business  day 
+following  the  calculation  date”;  and  “number  of  days  in  the  remaining  calculation 
+period (t)” as “number of days in the remaining calculation period (t)-2” [in cases where 
+the value is less than one(1), it shall be deemed one (1)], but, in the case of a contract 
+of which trades were executed during the regular trading session of the relevant trading 
+day, the volatility noted in [Annex 15] through [Annex 17] shall be the annual implied 
+volatility  of  the  relevant  contract  calculated  by  the  Exchange  at  the  time  of  market 
+closing of the relevant trading day. 
+
+(c) Theoretical price of intraday member margin 
+
+Theoretical price of intraday member margin of options trades at the time of calculating 
+intraday member margin shall be calculated by applying the calculation method of option 
+theoretical price in the [Annex 15] through [Annex 17] mutatis mutandis. In such cases, 
+“3rd decimal place” and “2nd decimal place” shall be construed as “7th decimal place”; 
+“base  price  of  underlying  asset  on  the  day”  as  “interval  value  of  member  margin”; 
+“number  of  days  in  the  remaining  calculation  period  (t)”  as  “number  of  day  in  the 
+remaining calculation period (t)-2 [where the value is less than one(1), it shall be deemed 
+one (1)]”; “execution quantity of the previous day” as “execution quantity of the day”; 
+“annual implied volatility of the previous day” as “annual implied volatility at the time 
+of calculating intraday member margin”; “linearly interpolated volatility of the previous 
+day”  as  “linearly  interpolated  volatility  at  the  time  of  calculating  intraday  member 
+margin”; and “average annual implied volatility of the previous day” as “average annual 
+implied volatility at the time of calculating intraday member margin”, but, in the case of 
+a contract of which trades were executed during the regular trading session of the day, 
+the volatility in [Annex 15] through [Annex 17] shall be the annual implied volatility at 
+the time of calculating intraday member margin of the relevant contract calculated by the 
+Exchange. 
+
+(d) Theoretical price of intraday customer margin   
+
+Theoretical price of intraday customer margin of options trades at the time of calculating 
+intraday customer margin shall be calculated by applying item(c). In such cases, of item 
+(c), “member margin interval value” and “time of calculating intraday member margin” 
+
+285 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+shall  be  construed  as  “customer  margin  interval  value  of”  and  “time  of  calculating 
+intraday customer margin”, respectively.   
+
+(e)  Special  case  of  highest  or  lowest  margin  interval  value  for  the  quantity  of  open 
+interests resulted from short options   
+
+In  calculating  the  option  premium  volatility  margin  at  the  highest  or  lowest  margin 
+interval value according to [Annex 18], it shall be calculated by comparing the theoretical 
+option  price  for  margin  calculation  and  adjusted  theoretical  option  price  for  margin 
+calculation at the relevant margin interval value. In such cases, the expected change of 
+option price at the highest and lowest margin interval value noted below shall apply to 
+the calculation of price volatility margin at the relevant interval (the expected change of 
+option price noted in [§133(3)] shall apply mutatis mutandis to the expected change of 
+option price for the short option open interests). 
+
+Number 
+
+Member margin    Customer margin 
+
+Open interest   
+
+Expect change of option price   
+
+41 
+
+2 
+
+1 
+
+42 
+
+61 
+
+2 
+
+1 
+
+62 
+
+Short call 
+
+Long call 
+
+Short put 
+
+Long put 
+
+Max{ (f(Su) - C0)×30%, f(Sk) - C0 } 
+
+Max{ (C0 - f(Sd))×30%, C0 - f(Sk) } 
+
+Max{ (f(Sd) - C0)×30%, f(Sk) - C0 } 
+
+Max{ (C0 - f(Su))×30%, C0 - f(Sk) } 
+
+Sk: Margin interval value   
+C0: Base price for calculation of option margin   
+f(Sk): Theoretical price of call/put option margin calculated with margin interval value   
+Adjust theoretical price for option margin calculation: f (Su) = f (S×  (1+Margin rate × 2)), f (Sd) = f 
+(S×  (1-Margin rate × 2)) 
+
+7. Base price and theoretical price of margin of Mini KOSPI200 Options contract 
+
+Notwithstanding  subparagraphs 5  and 6, base price and theoretical  price  of margin  of Mini 
+KOSPI200 options contract shall be those of KOSPI200 options contract with same option type, 
+the last trading day and exercise price. 
+
+Notes: 
+1. Notwithstanding subparagraph 6, if it is deemed necessary for the market management, the Exchange 
+may change the method of calculating the volatility of relevant contract and adjusted theoretical option 
+price for margin calculation. In such cases, this provision shall also apply to the open interests of the 
+day before the change is put into effect.   
+2. In calculating the net exposure margin, the base price for underlying asset shall be as follows: 
+
+a. Member margin: If calculated based on the time of market closing, it shall be the base price of 
+underlying asset of the trading day to which the calculation time belongs; and if calculated based on 
+the time of market closing of night session, it shall be the base price of underlying asset at the time of 
+immediately preceding market closing. 
+b.  Customer  margin:  Before  the  market  closing  on  the  trading  day  to  which  the  calculation  time 
+belongs, it shall be the base price of underlying asset (if an ex-dividend, etc. have occurred with the 
+286 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Single Stock Futures and Single Stock Options trade, the base price of underlying asset of previous 
+day shall be the adjusted base price of underlying asset) of immediately preceding trading day, and 
+after the market closing on the trading day to which the calculation time belongs, it shall be the base 
+price of underlying asset of the relevant trading day. 
+
+3. When calculating the net exposure margin after the end of night trading session, the member margin 
+base  price  and  member  margin  theoretical  price  for  each  option  issue  are  based  on  the  time  of 
+immediately preceding market closing. 
+
+287 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 19-2] Amount of Customer Margin per Futures Spread Contract 
+[October 26, 2009] (Amended on July 30, 2010; October 20, 2010; January 27, 2011; October 20, 2011; August 
+28, 2014; November 3, 2014; July 3, 2015; September 16, 2015; October 28, 2015; June 20, 2016; June 15, 2017; 
+March 15, 2018; October 30, 2019; July 13, 2021; February 16, 2022; February 5, 2024; April 5, 2024; November 
+1, 2024; April 18, 2025; May 29, 2025) 
+
+Amount of Customer Margin per Futures Spread Contract 
+(Pertaining to [§133]) 
+
+1. For intra-product spreads: 
+
+The amount of customer margin per futures spread contract shall be the amount calculated by 
+multiplying the base price of underlying asset of the immediately preceding trading day by the 
+multiplier and the customer futures spread margin rate. 
+
+Types of trades 
+
+Customer futures spread margin rates 
+
+KOSPI 200 Futures spreads 
+Mini KOSPI 200 Futures spreads 
+KRX 300 Futures spreads 
+KOSPI Dividend Index Futures spreads 
+KOSDAQ 150 Futures spreads 
+KOSDAQ Global Futures spreads 
+Sector  Index  Futures  spreads  (excluding  KOSPI 
+Dividend Index Futures spreads) 
+
+V-KOSPI Index Futures spreads 
+Single Stock Futures spreads 
+EFT Futures 
+3-year KTB Futures spreads 
+5- year KTB Futures spreads 
+10-year KTB Futures spreads 
+30-year KTB Futures spreads 
+3-month  Risk  Free  Benchmark  Interest  Rate  Futures 
+spreads 
+USD Futures spreads 
+JPY Futures spreads 
+EUR Futures spreads 
+CNY Futures spreads 
+
+Gold Futures spreads 
+
+Lean Hog Futures spreads 
+
+1.8% 
+
+3.0% 
+
+3.0% 
+
+6.0% 
+
+3.0% 
+
+0.30% 
+
+0.15% 
+
+0.30% 
+
+1.35% 
+
+7.5% 
+
+2. For inter-KTB futures spreads: 
+
+The amount of customer margin per futures spread contract shall be the amount obtained by 
+subtracting the following margin deduction amounts that are calculated by applying  mutatis 
+mutandis subparagraph 2(b)(ii)ⓑ  of [Annex 18] from the sum of customer margins for each 
+
+288 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+of the products constituting the futures spread. 
+
+Types of trades 
+
+Inter-3-yr  and  10-yr  KTB 
+Futures spreads 
+
+Margin deduction amount 
+{Customer margin for entrustment of new orders per 3-yr KTB 
+futures contract  Relative size ratio of 3-yr KTB futures + 
+Customer margin for entrustment of new orders per 10-yr KTB 
+futures contract  Relative size ratio of 10-yr KTB futures} 
+Min (3÷ Relative size ration of 3-yr KTB futures, 1÷ Relative 
+size ratio of 10-yr KTB futures)  Price correlation coefficient 
+of KTB product group 
+
+289 
+
+ 
+ 
+ 
+[Annex 19-3] Disparate Values Applied to Base Price for Settlement 
+[December  10,  2010]  (Amended  on  January  27,  2011;  November  3,  2014;  July  3,  2015;  August  13,  2015; 
+September 16, 2015; October 28, 2015; January 14, 2016; April 14, 2016) 
+
+Disparate Values Applied to Base Price for Settlement 
+(Pertaining to [§103]) 
+
+Trading types 
+
+Disparate values 
+
+The nearest month contracts in USD Futures trades, 
+including the next nearest month contracts during the four 
+(4) trading days counting retroactively from the last trading 
+day of the nearest month contracts. 
+
+The nearest month contracts in JPY Futures, EUR Futures 
+and CNY Futures trades, including the next nearest month 
+contracts during the four (4) trading days counting 
+retroactively from the last trading day of the nearest month 
+contracts. 
+
+The farther month contracts in currency futures trades, 
+excluding the next nearest month contract during the four 
+(4) trading days counting retroactively from the last trading 
+day of the nearest month contract. 
+
+Trades of Lean Hog Futures 
+
+Trades of Gold Futures 
+
+0.2% 
+
+0.1% 
+
+KRW 0.3 
+
+10.0% 
+
+2.0% 
+
+290 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex  19-4]  Methods  for  Calculation  and  Inspection  of  Assessment  Rates  of  Foreign 
+Currencies and Foreign Securities 
+[September 19, 2017]   
+
+Methods for Calculation and Inspection of Assessment Rates of Foreign Currencies and 
+Foreign Securities 
+(Pertaining to [§92] and to [§92-2]) 
+
+1. Calculation and inspection methods of assessment rates of foreign currencies 
+
+(a) Calculation methods of assessment rates 
+
+Assessment  rates  of  foreign  currencies  shall  be  calculated  according  to  the  formula  in  the 
+following table based on the yields of the basic rates of each foreign currency determined and 
+published pursuant to the Foreign Exchange Transaction Regulation on the trading days of 
+the foreign exchange market for the latest one (1) year counting from the date of calculation.   
+
+Assessment rate = Min [95%, 100% -|(Base yield Procyclicality mitigation factor – Bank 
+buying commission)|] 
+
+Base yield: The base yield refers to a value corresponding to the 99th percentile by sorting the base 
+
+yields for the assessment period in descending order. 
+
+ Calculation of base yields: Log (Basic ratet-day / Basic ratet-2 day) 
+Procyclicality mitigation factor: 1.25 
+ Bank buying commission = Buying rate – Basic rate 
+
+(b) Checking the appropriateness of the assessment rate calculation methods 
+
+The inspection of the appropriateness of the methods for calculating assessment rates shall be 
+carried out once a year, as stipulated separately by the Exchange. 
+
+2. Calculation and inspection methods of assessment rates of foreign securities 
+
+(a) Calculation methods of assessment rates 
+
+    (i)  The  assessment  rate  of  a  foreign  security  shall  be  calculated  by  multiplying  the 
+assessment rate by the term to maturity of the government bond group corresponding to the 
+term  to  maturity  of  the  relevant  foreign  security  by  the  assessment  rate  of  the  foreign 
+currency in which the relevant foreign security is denominated.   
+
+Assessment  rate  of  a  foreign  security*  =  Assessment  rate  by  term  to  maturity  of 
+government bond group  Assessment rate of the foreign currency in which the foreign 
+security is denominated 
+
+* Figures less than 1% are rounded down. 
+
+    (ii)  The  assessment  rate  of  each  calculation  interval  of  the  government  bond  group 
+corresponding to the term to maturity of the relevant foreign security shall be the assessment 
+rate of the relevant issue, and the assessment rate of each calculation interval shall be set as 
+291 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+shown in the table below, by dividing the government bond group into five intervals by the 
+term to maturity and assigning a difference of 1% point to 2% points between each interval, 
+based on the rate corresponding to the interval with the shortest term to maturity (hereinafter 
+referred to as the “base rate”). 
+
+Classification 
+
+Terms to maturity 
+
+Credi
+t 
+rating 
+
+≤ 1 year 
+
+> 1 𝑦𝑒𝑎𝑟 𝑎𝑛𝑑  
+≤ 3 𝑦𝑒𝑎𝑟𝑠 
+
+> 3 𝑦𝑒𝑎𝑟𝑠 𝑎𝑛𝑑 
+≤ 5 𝑦𝑒𝑎𝑟𝑠 
+
+> 5 𝑦𝑒𝑎𝑟𝑠 
+≤ 10 𝑦𝑒𝑎𝑟𝑠 
+
+> 10 𝑦𝑒𝑎𝑟𝑠 
+
+n/a 
+
+r 
+
+r - 1% 
+
+r - 2% 
+
+r - 3% 
+
+r - 5% 
+
+Type of 
+issuer 
+
+Governmen
+t bond 
+group 
+
+  * r: base rate 
+
+    (iii) Base rates: The base rates are calculated by subtracting the ‘reference discount rate’, 
+which is calculated by subtracting ‘100%’ from the minimum margin rate under [Annex 1] 
+of the ‘Detailed Rules of Regulation on Open Market Operation’ of the Bank of Korea at the 
+end of each quarter, from  ‘100%’. Provided that, if the reference discount  rate fluctuates 
+rapidly during a quarter, the base rate may be changed from time to time. 
+
+(b) Checking the appropriateness of the assessment rate calculation methods 
+
+    The inspection of the appropriateness of the methods for calculating assessment rates shall 
+
+be conducted once a year, as stipulated separately by the Exchange. 
+
+292 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 19-5] Imposition Rate of Credit Risk Member Margin 
+[April 6, 2026]   
+
+Imposition Rate of Credit Risk Member Margin 
+(Pertaining to [§112]) 
+
+1. Calculation method for imposition rate of credit risk member margin 
+
+The credit risk member margin imposition rate shall be established as shown in the following 
+table, divided into five (5) ranges based on the ratio (hereinafter referred to as the "net exposure 
+member  margin  rate")  of  the  sum  of  the  net  exposure  member  margins  calculated  for  each 
+account  to  the  credit  risk  limit  calculated  on  the  10th  business  day  from  the  deadline  for 
+submitting the quarterly business report pursuant to [§12(1)2] of the    Enforcement Rules of 
+the Membership Regulations. 
+
+Net 
+exposure 
+member 
+margin rate 
+Imposition 
+rate 
+
+1.5 or more 
+~ Less than 
+2 
+
+2 or more ~ 
+Less than 3 
+
+3 or more ~ 
+Less than 4 
+
+4 or more ~ 
+Less than 5 
+
+5 or more 
+
+2.5% 
+
+5.0% 
+
+15.0% 
+
+20.0% 
+
+30.0% 
+
+2. Calculation method for credit risk limit amount 
+
+    (a) For the clearing members who are banks [referring to the banks under the Banking Act, 
+the branches of foreign banks (referring to the branches of foreign banks authorized pursuant 
+to Article 58 of the Banking Act; the same hereinafter), the Korea Development Bank under 
+the Korea Development Bank Act, the Industrial Bank of Korea under the Industrial Bank 
+of  Korea  Act,  the  Export-Import  Bank  of  Korea  the  Export-Import  Bank  of  Korea  Act, 
+Nonghyup  Bank  under  the  Agricultural  Cooperatives  Act  and  the  National  Federation  of 
+Fisheries Cooperatives under the Fisheries Cooperatives Act]:   
+
+Two (2) times the equity capital prescribed in Article 2 of the Regulations on Supervision of 
+Banking Business as at the end of each quarter. 
+
+    (b) For the clearing members other than those noted in subparagraph 2: 
+
+    One (1) time the net capital (for a clearing member that has a subsidiary, it shall be the net 
+capital based on separate financial statements) prescribed in [§3-6(1)] of the Regulations on 
+Financial Investment Business as at the end of each quarter. Provided that, when calculating 
+the net capital, two (2) percent of the value of credit risk under [Annex 5] of the Detailed 
+Regulations of the Regulations on Financial Investment Business shall apply for the joint 
+compensation fund that the member has paid to the Exchange 
+
+293 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Changes of imposition rate and credit risk limit amount 
+
+In cases where a clearing member submits to the Exchange the matters on the change in net 
+capital, equity capital, etc. and where it is deemed necessary for the management of credit risks, 
+the Exchange may change the imposition rate and credit risk limits. 
+
+294 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 20] Price Used in Calculation of the Amount Equivalent to the Value of Underlying 
+Assets 
+(Amended on august 21, 2009; July 30, 2010; October 20, 2010; July 8, 2013; September 16, 2015; October 28, 
+2015; May 24, 2023) 
+
+Price Used in Calculation of the Amount Equivalent to the Value of Underlying Assets 
+(Pertaining to [§112]) 
+
+The amount equivalent to the value of underlying asset pursuant to [§112] shall be calculated 
+on the basis of the price specified in each of the following subparagraphs: 
+
+1. [Deleted on October 20, 2010] 
+
+2.  In  the  case  of  USD  Futures,  and  USD  FLEX  Futures  which  is  to  be  settled by  physical delivery 
+method, the KRW/USD exchange rate established at 12:00 noon in the USD spot market operated by 
+the Seoul Money Brokerage Service (in case no such exchange rate is available, the rate established 
+immediately before: the same hereinafter). 
+
+3. In the case of JPY Futures, KRW/JPY 100 exchange rate calculated by multiplying 100 by the value 
+resulted from dividing the KRW/USD exchange rate established at 12:00 noon in the USD spot market 
+operated by the Seoul Money Brokerage Service by the average of sell rate and buy rate of JPY/USD 
+provided by the international information service provider designated by the Exchange at 12:00 noon 
+(to be rounded off at the 3rd decimal place). 
+
+4.  In  the  case  of  EUR  Futures,  KRW/EUR exchange  rate calculated  by multiplying the  KRW/USD 
+exchange  rate  established  at  12:00  noon  in  the  USD  spot  market  operated  by  the  Seoul  Money 
+Brokerage Service, by the average of sell rate and buy rate of USD/EUR provided by the international 
+information service provider designated by the Exchange at 12:00 noon (to be rounded off at the 3rd 
+decimal place). 
+
+5. In the case of CNY Futures, KRW/CNY exchange rate established at 12:00 noon in the CNY spot 
+market operated by the Seoul Money Brokerage Service 
+
+6. [Deleted on October 28, 2015] 
+
+Notes: 
+1. “The international information service provider designated by the Exchange” noted in subparagraphs 
+3 and 4 shall be the Refinitiv. Provided that, when it is deemed necessary for the market management, 
+it shall be the one designated by the Exchange for each case.   
+2. In cases where the international information service provider is newly designated or changed, the 
+Exchange  shall  make  public  such  fact  through  the  electronic  information  dissemination  medium 
+operated by it without delay. 
+
+295 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 21] Guidelines for Appraisal of Low Liquidity Products 
+[January 27, 2011] (Amended on July 30, 2020) 
+
+Guidelines for Appraisal of Low Liquidity Products 
+(Pertaining to [§160] and [§161]) 
+
+Area to be appraised 
+
+Details to be appraised 
+
+Score to be assigned 
+
+High  Average  Low 
+
+Appraisal 
+score 
+
+Market 
+representativeness 
+
+Symbolism and awareness of 
+the relevant product among 
+comparable products, etc. 
+
+3 
+
+2 
+
+1 
+
+Non-substitutability 
+
+Availability of substitute 
+product(s) that is able to meet 
+the hedging demand when the 
+relevant product is delisted, etc. 
+
+3 
+
+2 
+
+1 
+
+Possibility of   
+re-listing 
+
+Possibility of listing a derivative 
+product based on the same 
+underlying asset, when the 
+relevant product is delisted, etc. 
+
+3 
+
+2 
+
+1 
+
+Possibility of trading volume 
+increases above the base 
+quantity for liquidity 
+management within the next 3 
+years, etc. 
+
+Possibility of 
+stimulating the trade 
+
+Total 
+
+3 
+
+2 
+
+1 
+
+296 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex  22]  Refusal  of  Entrustment  of  Orders  Concerning  Position  Limits  of  KOSPI  200 
+Futures and KOSPI 200 Options, etc. 
+[January 31, 2011] (Amended on July 3, 2015; May 29, 2025) 
+
+Refusal of Entrustment of Orders Concerning Position Limits of KOSPI 200 Futures 
+and KOSPI 200 Options, etc. 
+(Pertaining to [119(2)]) 
+
+1. In the case of receiving the entrustment of orders noted in the followings from the customer 
+who has exceeded the position limit on the previous trading day during the night trading hours 
+or after 10:00 hour on the relevant trading day. Provided that this provision shall not apply on 
+the last trading day of KOSPI 200 Futures, Mini KOSPI 200 Futures, KOSPI 200 Options and 
+Mini KOSPI 200 Options. 
+
+Trade where Max (Converted quantity of open interests when the matching possibility of order 
+is considered – Position limit, 0) of order entrusted goes up more than Max (Converted quantity 
+of open interests – Position limit, 0) before the entrustment of order.   
+
+Converted quantity of open interests when the matching possibility of order is considered:     
+
+The converted quantity of open interests determined by applying Delta at the market closing of 
+immediately preceding trading day and quantity of open interests of the relevant trading day 
+(including the quantity when the matching possibility is considered) to [Annex 23].   
+
+Converted quantity of open interests: 
+
+The quantity determined by applying Delta at the market closing time of immediately preceding 
+trading day and quantity of open interest of the relevant trading day to [Annex 23]. 
+
+In such cases, when determining the converted quantity of open interests and refusing the 
+entrustment of order, the quantity related to arbitraging and hedging shall be excluded. 
+
+2. In cases where for the contracts whose last trading day has arrived, the entrustment of order 
+falling under item(c) was received from the customer falling under item (a) or (b): 
+
+(a) Customer whose orders are subject to refusal based on the trading day immediately before   
+the last trading day 
+
+Min (The quantity determined by applying Delta at the market closing time and the quantity of 
+open interests at the market closing time of the contract whose last trading day arrives on the 
+next trading day to [Annex 23], the quantity determined by applying Delta at the market closing 
+time  on  the  immediately  preceding  trading  day  and  quantity  of  open  interests  at  the  market 
+closing time of the contract whose last trading day arrives on the next day to [Annex 23]) is 
+larger than the position limit of open interests. 
+
+In such cases, when determining the converted quantity of open interests, the quantity related to 
+arbitraging or hedging shall be included.   
+
+297 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Customers whose orders are subject to refusal based on the last trading day 
+
+Customer who falls under the following condition at the time of order execution: 
+
+The  quantity  determined  by  applying  Delta  at  the  market  closing  time  on  the  immediately 
+preceding trading day and the quantity of open interests of contract whose last trading day has 
+arrived to [Annex 23] is larger than the position limit of open interests 
+
+In such cases, when determining the converted quantity of open interests, the quantity related to 
+arbitraging or hedging shall be included.   
+
+(c) Orders that must be refused   
+
+An order that makes Max (Converted quantity of open interests considering the order matching 
+possibility – Position limit, 0) goes up higher than Max (Converted quantity of open interests – 
+Position limit, 0) 
+
+Converted quantity of open interests when considering the order matching possibility:   
+
+Quantity  determined  by  applying  Delta  at  the  market  closing  time  on  the  immediately 
+preceding trading day and the quantity of open interests of contracts on the relevant trading day 
+whose last trading day (including the quantity when considering the order matching possibility) 
+has arrived to [Annex 23].   
+
+Converted quantity of open interests: 
+
+Quantity determined by applying Delta at market closing time on the immediately preceding 
+trading day and quantity of open interest of contract on the relevant trading day whose last 
+trading day has arrived to [Annex 23]. 
+
+In such cases, when determining the converted quantity of open interest and refusing the order 
+entrustment, the quantity related to arbitraging and hedging shall be included.   
+
+    Note: In the case where a member determines that a customer has not exceeded the position 
+limit on open interests on the immediately preceding trading day if the quantity of arbitrage 
+and hedge transactions of the customer scheduled to be reported by 10:00 on the relevant 
+trading day is excluded, the member may, at the member’s own responsibility, not apply 
+subparagraph  1  to  the  transactions  of  the  customer  during  the  night  trading  hours  on  the 
+relevant trading day. 
+
+298 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex  23]  Conversion  Methods  of  Open  Interests  of  KOSPI  200  Futures  and  KOSPI  200 
+Options, etc. 
+[January 31, 2011] (Amended on February 17, 2012; July 3, 2015) 
+
+Conversion Methods of Open Interests of KOSPI 200 Futures and KOSPI 200 Options, 
+etc. 
+(Pertaining to [§162]) 
+
+Converted quantity = | (Quantity of long open interest of futures) -  (Quantity of short open 
+interest of futures) + (Quantity of long open interest of call options x Delta of call options) - 
+(Quantity of short open interest of call options x Delta of call options) +  (Quantity of long 
+open interest of put options x Delta of put options) -  (Quantity of short open interest of put 
+options x Delta of put options) | 
+
+Converted quantity = | (Converted quantity by multiplier ratio x multiplier) | 
+
+Multiplier ratio = Multiplier of the relevant contract ÷ Max (Multiplier of contracts based on same 
+underlying asset 
+
+Converted quantity by multiplier ratio (Calculated using following formula by multiplier ratio) 
+
+Converted quantity = {(Quantity of long open interest of futures) -  (Quantity of short 
+open interest of futures) + (Quantity of long open interest of call options x Delta of call 
+options) - (Quantity of short open interest of call options x Delta of call options) +  
+(Quantity of long open interest of put options x Delta of put options) -  (Quantity of short 
+open interest of put options x Delta of put options)} 
+
+Notes:   
+1. Delta refers to Delta calculated by the Exchange.   
+2. The converted quantity shall be rounded down at the first decimal place.   
+
+299 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 24] Range of Resolution Limit of Transaction Errors 
+[May 9, 2012] (Amended on December 18, 2012; July 8, 2013; August 20, 2014; November 3, 2014; September 
+16, 2015; October 28, 2015; June 20, 2016; June 15, 2017; October 30, 2019; February 16, 2022; June 25, 2024; 
+April 18, 2025; May 29, 2025) 
+
+Range of Resolution Limit of Transaction Errors 
+(Pertaining to [§78-2] and [§78-4]) 
+
+1. Futures and Futures spreads 
+
+(a) Base price for resolution of transaction errors 
+
+The  base  price  for  resolving  transaction  errors  of  futures  and  futures  spread  shall  be  the 
+execution price immediately before the execution of large-sized transaction error caused by 
+investor. Provided that, in cases where the Exchange deems that the base price is inappropriate 
+in view of the market condition, the prices such as the theoretical price calculated using the 
+price of underlying asset just before the execution of transaction errors may deem the base 
+price of transaction errors caused by investor.   
+
+(b) Resolution limit of transaction errors 
+
+The  resolution  limit  of  transaction  errors  of  futures  shall  be  the  value  determined  by 
+multiplying the previous day’s closing price (in the case of USD futures, this refers to the 
+final US dollar spot rate at 15:30; hereinafter the same in this item) of underlying asset by the 
+resolution  limit  ratio of transaction errors,  and the resolution  limit  of transaction errors of 
+futures spread shall be the value calculated by multiplying the previous day’s closing price of 
+the futures constituting the relevant futures spread (for an inter-KTB futures spread, it refers 
+to the 3-year KTB futures constituting the relevant futures spread) by the resolution limit ratio 
+of transaction errors.   
+
+Ratios of Resolution Limit of Transaction Errors of Futures 
+
+Types of Futures 
+
+Index Futures   
+V-KOSPI 200 Futures 
+Single Stock Futures / ETF Futures 
+3-yr KTB Futures 
+5-yr KTB Futures 
+10-yr KTB Futures 
+30-yr KTB Futures 
+3-month Risk Free Benchmark Interest Rate Futures 
+USD Futures /CNY Futures 
+JPY Futures /EUR Futures 
+Gold Futures 
+Lean Hog Futures 
+
+Ratios (%) 
+3.0 
+15.0 
+5.0 
+0.5 
+0.6 
+0.9 
+                  1.3 
+0.43 
+1.5 
+3.0 
+3.0 
+7.0 
+
+Ratios of Resolution Limit of Transaction Errors of Futures Spreads 
+
+Type of futures spread 
+
+Index Futures spreads   
+V-KOSPI 200 Futures spreads 
+
+Ratios (%) 
+1.5 
+5.0 
+
+300 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Single Stock Futures spreads / EFT Futures spreads 
+3-yr KTB Futures spreads / Inter-3-yr and 10-yr KTB Futures spreads 
+5-yr KTB Futures spreads 
+10-yr KTB Futures spreads 
+30-yr KTB Futures spreads 
+3-month Risk Free Benchmark Interest Rate Futures 
+USD Futures spreads, CNY Futures spreads 
+JPY Futures spreads, EUR Futures spreads 
+Gold Futures spreads 
+Lean Hog Futures spreads 
+
+3.0 
+0.5 
+0.6 
+0.9 
+1.3 
+0.43 
+1.0 
+3.0 
+1.5 
+3.0 
+
+(c) Adjustment range of transaction errors 
+
+The range of resolution of transaction errors of futures and futures spread shall be between 
+the prices determined by adding and subtracting the resolution limit of transaction errors to 
+and  from  the  base  price  for  resolution  of  transaction  errors.  Provided  that,  if  it  deems 
+necessary for market management, the Exchange may change the prices at the upper or lower 
+resolution range of transaction errors.   
+
+2. Options 
+
+(a) Base price for resolution of transaction errors 
+
+The base price for resolution of transaction errors of options shall be the execution price 
+immediately before the execution of large-sized transaction error by investor. Provided that, 
+if the Exchange deems that such price is not appropriate in view of the market condition, the 
+theoretical price determined by using the price of underlying asset immediately before the 
+execution of transaction errors, etc. may be used as the base price for resolution of 
+transaction errors. 
+
+(b) Resolution limit of transaction errors 
+
+The resolution limit of transaction errors of options shall be the value determined by 
+multiplying the previous day’s closing price (in the case of USD options, this refers to the 
+final US dollar spot rate at 15:30) of underlying asset by the ratio of resolution limit of 
+transaction errors.   
+
+Ratios of Resolution Limit of Transaction Errors 
+
+Type of options 
+
+Index options 
+Stock options 
+Currency Options 
+
+(c) Resolution range of transaction errors 
+
+Ratios (%) 
+3 
+5 
+1.5 
+
+The resolution range of transaction errors shall be between the theoretical prices calculated 
+by adding and subtracting the resolution limit of transaction errors to and from the price of 
+underlying asset (refers to base price of underlying asset if large-sized transaction errors by 
+investor  occur  during  night  trading  hours)  just  before  the  execution  of  block  investor 
+
+301 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+transaction errors. Provided that, if it deems necessary for market management, the Exchange 
+may change the prices at the upper and lower resolutions of transaction errors. 
+
+302 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 25] Price Fluctuation of Real-time Price Restriction 
+[August 20, 2014] (Amended on July 3, 2015; September 16, 2015; March 15, 2018; August 17, 2018; December 
+7, 2018; October 14, 2019; October 30, 2019; April 5, 2024; May 29, 2025) 
+
+Price Fluctuation of Real-time Price Restriction 
+(Pertaining to [§60-4]) 
+
+1. Price Fluctuation Range 
+
+The price fluctuation range shall be set as figures calculated by the following formula. 
+Provided that, in cases where it is under the quotation price unit, it shall be set as the 
+quotation price unit.   
+
+Division 
+
+Futures 
+Futures spreads 
+
+Options 
+
+Calculation Methods of Price Fluctuation Range 
+
+Base price of futures x volatility 
+Base price of the nearest month contract in futures spreads x volatility 
+A. Price fluctuation of call option: Max (①,  ②) for regular trading session,   
+    [Max (①,  ②)] x2 for night trading session 
+①:  │rising  call  option  theoretical  price  –current  call  option  theoretical 
+
+price  │ 
+
+②:  │dropping call option theoretical price –current call option theoretical 
+
+price  │ 
+
+B. Price fluctuation of put option: Max (③,  ④) for regular trading session, 
+    [Max (③,  ④)] x2 for night trading session 
+③:  │  rising put option theoretical price – current call option theoretical 
+
+price│ 
+
+④:  │  dropping  put  option  theoretical  price  –  current  call  option 
+
+theoretical price│ 
+
+Note: Rising & dropping theoretical prices shall be calculated as follows in consideration of changes of 
+underlying assets price (price when base price of underlying assets rises or drops as much as volatility) and 
+volatility (value when volatility rises or drops as much as volatility change rate). 
+
+Division of Option Price 
+
+Calculation Methods 
+f[S×(1+volatility), volatility×(1+volatility change rate)] 
+f[S×(1-volatility), volatility×(1-volatility change rate)] 
+f[S×(1-volatility), volatility×(1+volatility change rate)] 
+f[S×(1+volatility), volatility×(1-volatility change rate)] 
+f(S, volatility) 
+
+Rising call option theoretical price 
+Dropping call option theoretical price 
+Rising put option theoretical price 
+Dropping put option theoretical price 
+Current theoretical price 
+-f(.): Calculation formula of theoretical price of the stock index options in accordance with [Annex15]. 
+-S: Base price of underlying asset on the previous day. 
+-Volatility: In the case of a contract in which trades were executed on the previous day, the previous day’s 
+annual implied volatility calculated by the Exchange; in the case of a contract in which trades were not 
+executed on the previous day, previous day’s linearly interpolated volatility or previous day’s average annual 
+implied volatility of the relevant contract, which is calculated by the Exchange in accordance with [Annex 15]. 
+-30% of volatility change rate is applied. 
+
+303 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Volatility Rates 
+
+The rates of volatility are as follows. 
+
+Futures 
+
+Division 
+
+Volatility Rates 
+
+KOSPI 200 Futures 
+Mini KOSPI 200 Futures 
+KOSDAQ 150 Futures 
+
+Regular trading session: 1.0% 
+Night trading session: 2.0% 
+
+Stock Futures 
+
+set between 3.0% and 6.0% by the Exchange 
+
+3-year KTB Futures 
+
+10-year KTB Futures 
+
+USD Futures 
+
+KOSPI200Futures spreads 
+Mini KOSPI 200 Futures spreads 
+KOSDAQ 150 Futures spreads 
+
+Regular trading session: 0.5% 
+Night trading session: 1.0% 
+
+Regular trading session: 0.9% 
+Night trading session: 1.8% 
+
+Regular trading session: 1.0% 
+Night trading session: 2.0% 
+
+Regular trading session: 1.0% 
+Night trading session: 2.0% 
+
+Stock Futures spreads 
+
+set between 3.0% and 6.0% by the Exchange 
+
+Futures Spreads 
+
+3-year KTB Futures spreads 
+
+10-year KTB Futures spreads 
+
+USD Futures spreads 
+
+Regular trading session: 0.5% 
+Night trading session: 1.0% 
+
+Regular trading session: 0.9% 
+Night trading session: 1.8% 
+
+Regular trading session: 1.0% 
+Night trading session: 2.0% 
+
+Options 
+
+KOSPI 200 Options 
+
+2.0% 
+
+304 
+
+ 
+ 
+ 
+[Annex 26] Requesting Quantity of Negotiated Block Trades 
+[August 28, 2014] (Amended on November 3, 2014; July 3, 2015; September 16, 2015; October 28, 2015; 
+March 21, 2016; June 20, 2016; June 15, 2017; September 20, 2017; March 15, 2018; September 7, 2018; July 
+30, 2019; February 16, 2022; June 29, 2023; February 5, 2024; April 5, 2024; June 25, 2024; November 1, 
+2024; April 18, 2025) 
+
+Requesting Quantity of Negotiated Block Trades 
+(Pertaining to [§70]) 
+
+Trade types 
+
+The nearest month contracts and 
+delivery week contracts 
+
+Contracts other than the nearest 
+month contracts and delivery week 
+contracts 
+
+Requesting quantities 
+
+KOSPI 200 Futures 
+Mini KOSPI 200 Futures 
+KOSDAQ 150 Futures 
+KRX 300 Futures 
+KOSDAQ Global Futures 
+Sector Index Futures 
+KOSPI 200 Options 
+Mini KOSPI 200 Options 
+KOSDAQ 150 Options 
+
+Single Stock Futures 
+
+20 contracts or more, but 5,000 
+contracts or less 
+
+The trading quantity unit or more, 
+but 5,000 contracts or less 
+
+20 contracts or more, but 10,000 
+contracts or less 
+
+The trading quantity unit or more, 
+but 10,000 contracts or less 
+
+20 contracts or more, but the quantity 
+limits (referring to the quantity limits 
+of open interests published by the 
+Exchange for each underlying stock 
+pursuant to [§162-2]; the same 
+hereinafter in this table) or less   
+
+The trading quantity unit or more, 
+but the quantity limits or less 
+
+Single Stock Options 
+
+The trading quantity unit or more, but the quantity limits or less 
+
+ETF Futures 
+
+3-year KTB Futures 
+10-year KTB Futures 
+30-year KTB Futures 
+3-month risk free benchmark 
+interest rate futures spreads 
+USD Futures / JYP Futures 
+EUR Futures / CNY Futures 
+Gold Futures 
+KOSPI 200 Futures Spreads 
+Mini KOSPI 200 Futures 
+Spreads 
+KOSDAQ 150 Futures 
+Spreads 
+KRX 300 Futures Spreads 
+KOSDAQ Global Futures 
+Spreads 
+Sector Index Futures Spreads 
+
+Single Stock Futures Spreads 
+
+ETF Futures Spreads 
+
+20 contracts or more, but less than the 
+position limits for each underlying 
+ETF specified in [§162-2(1)7] and 
+[Annex 1-4] 
+
+The trading quantity unit or more, 
+but less than the position limits for 
+each underlying ETF specified in 
+[§162-2(1)7] and [Annex 1-4] 
+
+100 contracts or more, but 5,000 
+contracts or less 
+
+50 contracts or more, but 5,000 
+contracts or less 
+
+10 contracts or more, but 5,000 contracts or less 
+
+100 contracts or more, but 15,000 
+contracts or less 
+
+50 contracts or more, but 15,000 
+contracts or less 
+
+50 contracts or more, but 1,000 contracts or less 
+
+20 contracts or more, 
+but 5,000 contracts or less 
+
+20 contracts or more, 
+but not more than the position limits 
+20 contracts or more, 
+but not more than the position limits for open interest for each underlying 
+ETF specified in [§162-2(1)7] and [Annex 1-4] 
+
+305 
+
+ 
+ 
+ 
+ 
+ 
+3-year KTB Futures Spreads 
+10-year KTB Futures 
+Spreads 
+30-year KTB Futures Spreads 
+USD Futures Spreads 
+JYP Futures Spreads 
+EUR Futures Spreads 
+CNY Futures Spreads 
+
+500 contracts or more, but 5,000 contracts or less 
+
+500 contracts or more, but 15,000 contracts or less 
+
+200 contracts or more, but 15,000 contracts or less 
+
+Gold Futures Spreads 
+
+50 contracts or more, but 1,000 contracts or less 
+
+306 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex 27] Conversion Rates of Stock Futures and Options 
+[March 12, 2015] (Amended on March 21, 2016; March 13, 2017; September 22, 2023; November 1, 2024; 
+May 29, 2025) 
+
+Conversion Rates of Stock Futures and Options 
+(Pertaining to [§90-3]) 
+
+1. In the case of options contracts of which the last trading day arrives, figures in the following 
+items: 
+
+(a) Case of a call options contract where the base price for exercise settlement exceeds an 
+exercise price or a put options contract where an exercise price exceeds the base price for 
+exercise settlement: 1 for buying call options and selling put options, and -1 for selling put 
+options and buying call options; 
+
+(b) Case of loss contracts noted in [§100(2)] of the Regulation: 0 
+
+2. In the case of stock options contracts other than those noted in subparagraph 1above: The 
+figures in the following items (rounded off at the 7th decimal place): 
+
+(a) For options contracts in which an execution price is made during the regular trading 
+session on the day relevant, figures are calculated as follows: i) to calculate volatility that 
+makes an execution price at point of each trade execution time during the regular trading 
+session  on  the  relevant  day  identical  to  stock  options  theoretical  price  obtained  from 
+formula  in  [Annex  16]{excluding  volatility  ( )}  at  the  point  of  each  trade  the  relevant 
+execution  time,  ii)  to  produce  delta  of  an  options  contract  obtained  by  substituting  the 
+volatility in the formula in [Annex 16], iii) to calculate figures produced by averaging deltas 
+weighted with trading volume during the regular trading session on the day. In such cases, 
+the “as of the morning of the previous day”, the “calculation date” and the “base price of 
+the underlying asset on the previous day” in [Annex 16] shall be construed as the “as of the 
+morning  of  the  day”,  the  “business  day  following  the  calculation  date”  and  the 
+“immediately previous price of the underlying asset, respectively. 
+
+(b) Of the days after the day on which the trade was executed for the first time, for options 
+contracts in which there is no trade during the regular trading session on the day, figures 
+are calculated as follows: i) to calculate volatility that makes the base price for margin on 
+the  relevant  day  identical  to  stock  options  theoretical  price  obtained  from  formula  in 
+[Annex 16]{excluding volatility ( )} at the time of the market closing, ii) to produce delta 
+of an options contract obtained by substituting the volatility in the formula in [Annex 16]. 
+In  such  cases,  the  latter  part  of  item  (a)  is  applied  mutatis  mutandis,  provided  that  the 
+immediately preceding underlying asset price is deemed to be the base price for underlying 
+asset on the calculation date. 
+
+(c) Notwithstanding items (a) and (b), in case where an abnormal trading condition occurs 
+or  it  deems  necessary  for  the  market  management  in  a  stock  options  product,  the 
+conversion rate may be changed into the figures that the Exchange considers reasonable. 
+
+3. In the case of stock index options contracts other than those noted in subparagraph 1: The 
+figures calculated by applying mutatis mutandis subparagraph 2 above. In such cases, “stock 
+
+307 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+options theoretical price” and “Annex 16” shall be construed as “stock index options theoretical 
+price” and “Annex 15”, respectively. 
+
+308 
+
+ 
+ 
+[Annex 28] Scope of Deposited Assets related to Hedge-dedicated Accounts, etc. 
+[June 15, 2017] (Amended on March 15, 2018; April 5, 2024; May 29, 2025) 
+
+Scope of Deposited Assets related to Hedge-dedicated Accounts, etc. 
+(Pertaining to [§122-2]) 
+
+1. The scope, minimum securities quantity or minimum cash amount of deposited assets and 
+the type of derivatives trades for deposited assets 
+
+Scope of deposited assets 
+
+Minimum securities quantity 
+(Minimum cash amount) 
+
+Underlying stocks 
+
+10 shares 
+
+ETFs linked to KOSPI 200 
+
+ETFs linked to KOSDAQ 
+150 
+ETFs linked to KRX 300 
+ETFs linked to KOSDAQ 
+Global   
+ETFs linked to the 
+underlying assets of sector 
+index futures under [§4-6] of 
+the Enforcement Rules 
+
+No less than the customer 
+margin for entrustment of new 
+order per contract of futures 
+(referring to the KOSPI 200 
+futures in the case of KOSPI 
+200) underlying the relevant 
+assets 
+
+Type of derivatives for deposited 
+assets 
+Single stock futures and single 
+stock options underlying the 
+relevant stocks 
+KOSPI 200 Futures, 
+Mini KOSPI 200 Futures, 
+KOSPI 200 Options, 
+Mini KOSPI 200 Options 
+KOSDAQ 150Futures 
+KOSDAQ 150 Options 
+KRX 300 Futures 
+
+KOSDAQ Global Futures 
+
+Sector index futures underlying 
+the relevant assets 
+
+Note:  An  ETF  of  which  price  rises  when the  price  or  value  of  the  deposited  asset declines  shall  be 
+excluded.   
+
+2. Limits of derivatives transaction for hedging 
+
+The limit of derivatives transaction that a customer can conduct for hedging purposes through 
+a hedge-dedicated account  shall be within  the  assessment  value  of the assets  deposited in  a 
+hedge-linked securities account. 
+
+(a) Before market closing on the relevant trading day 
+
+309 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The limit  of derivatives  transaction  for hedging  purpose = Σ(Closing price of  underlying 
+asset on the immediately preceding trading day × Multiplier × Converted quantity of open 
+interests) 
+
+*  Converted  quantity  of  open  interests  =  {Σ(Quantity  of  short  open  interests  of  futures)  + 
+Σ(Quantity of new selling orders of futures)} + {Σ(Quantity of short open interests of call options 
+× Delta of call options) + Σ(Quantity of new selling orders of call options × Delta of call options)} 
++ {Σ(Quantity of long open interests of put options × Delta of put options) + Σ(Quantity of new 
+buying orders of put options × Delta of put options)} 
+*  Delta  refers  to  the  absolute  value  of  the  delta  at  the  market  closing  time  on  the  immediately 
+
+preceding trading day, calculated by the Exchange. 
+
+The  assessment  value  of  deposited  asset  =  Σ(Closing  price  of  the  deposited  asset  on  the 
+immediately preceding trading day × Holding quantity) 
+
+(b) After market closing on the relevant trading day 
+
+The  limit  of  derivatives  transaction  for  hedging  purpose  =  Min{Σ(Closing  price  of  the 
+underlying  asset  on  the  immediately  preceding  trading  day  ×  Multiplier  ×  Converted 
+quantity of open interests calculated by applying the Delta at the market closing time on the 
+immediately preceding trading day), Σ(Closing price of the underlying asset on the relevant 
+trading day × Multiplier × Converted quantity of open interests calculated by applying the 
+Delta at the market closing time on the relevant trading day)} 
+
+* Converted quantity of open interests shall be calculated by applying the formula of sub-item (i) 
+mutatis mutandis. 
+* Delta refers to the absolute value of the delta at the market closing time on the immediately 
+preceding trading day or the relevant trading day, calculated by the Exchange. Provided that, in 
+the case of a contract whose final trading day has arrived, it shall be the delta at the trade closing 
+time, not the market closing time on the relevant trading day. 
+
+The assessment value of deposited asset = Σ(Closing price of deposited asset on the relevant 
+trading day × Holding quantity) 
+
+310 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex: Form 1] [Deleted on October 20, 2010] 
+
+[Annex: Form 2] [Deleted on August 21, 2009] 
+
+[Annex: Form 3] [Deleted on June 20, 2016] 
+
+311 
+
+ 
+ 
+ 
+[Annex: Form 4] Request for Correction of Transaction Errors 
+(Amended on February 17, 2012; November 21, 2016; June 15, 2017; October 30, 2019) 
+
+Received by 
+* 
+
+Inputted by 
+* 
+
+Confirmed by 
+* 
+
+Outcome of action 
+
+* 
+
+Request for Correction of Transaction Errors 
+
+To: The Korea Exchange 
+
+Pursuant to [§77(3)] of the Enforcement Rules of Derivatives Market Business Regulation, we 
+hereby submit the request for correction of transaction errors as follows:   
+
+Month / Date / Year 
+Name & seal of Representative: 
+Company name: 
+(Name of staff in charge:   
+(Phone no. of staff in charge:   
+(Name of supervisor:       
+(Phone no. of supervisor: 
+
+) 
+) 
+) 
+
+1. Trade details 
+
+Serial no. 
+
+Account 
+number 
+
+Name of 
+contract 
+
+Execution 
+number 
+
+Bid/ 
+Ask 
+
+Contract 
+price 
+
+Execution 
+quantity 
+
+2. Details of request for correction of transaction errors 
+
+Serial no. 
+
+Reasons for 
+correction 
+
+Quantity to be 
+corrected 
+
+Account number 
+after correction 
+
+Classification of Proprietary 
+account /Customer account   
+after correction 
+
+Notes: 
+1. Do not fill in the column marked with *. 
+2. [Deleted on November 21, 2016] 
+3. Account  number refers to the derivatives account number (end-investor classification  code in the  case  of a 
+foreigner’s consolidated account) that the members assigned to customers. 
+
+312 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex: Form 5][Deleted on August 28, 2014] 
+
+313 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex: Form 6] Notice of Deposit (Request for Withdrawal) of Cash for Member Margin 
+(Amended on November 21, 2016) 
+
+Received by 
+* 
+
+Inputted by 
+* 
+
+Confirmed by 
+* 
+
+Confirmation of 
+deposit/withdrawal 
+
+* 
+
+Notice of Deposit (Request for Withdrawal) of Cash for Member Margin 
+
+To: The Korea Exchange 
+
+Pursuant to [§102] of the Enforcement Rules of the Derivatives Market Business Regulation, 
+we hereby intend to deposit (withdraw) following amounts:   
+
+Month / Date / Year 
+Name & seal of Representative   
+Company name 
+(Responsible staff:     
+Contact no.:   
+
+) 
+
+Deposit (withdrawal) 
+amount (KRW) 
+
+Name of bank and 
+account no. 
+
+Entrusted 
+assets 
+
+Asset type 
+
+Proprietary asset 
+Clearing member (entrusted) 
+Propriety 
+Entrusted 
+Propriety 
+Entrusted 
+
+(        ) 
+(        ) 
+(        ) 
+(        ) 
+
+Subtotal 
+
+Total 
+
+Notes: 
+1. Do not fill in the column marked with *. 
+2. [Deleted on November 21, 2016] 
+3. Account number: In the case of the notice of deposit, write down the bank account under the name of Exchange; 
+in the case of requesting withdrawal, write down the bank account number under the member’s name.   
+4. Entrusted asset: Print the name of non-clearing member in (    ). 
+
+314 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex: Form 7] Notice of Deposit (Request for Withdrawal) of Foreign Currency for Member 
+Margin 
+(Amended on November 3, 2014; November 21, 2016) 
+
+Received by 
+* 
+
+Inputted by 
+* 
+
+Confirmed by 
+* 
+
+Confirmation of 
+deposit/withdrawal 
+
+* 
+
+Notice of Deposit (Request for Withdrawal) of Foreign Currency for Member Margin 
+
+To: The Korea Exchange 
+Pursuant to [§102] of the Enforcement Rules of the Derivatives Market Business Regulation, 
+we hereby intend to deposit (withdraw) following amounts:   
+
+Month / Date / Year 
+Name & seal of Representative   
+(Name & contact no. of responsible staff) 
+
+Deposit (withdrawal) amount 
+
+Amount of 
+foreign 
+currency 
+
+Evaluated 
+price 
+
+Amount 
+converted 
+into KRW 
+
+Name of bank 
+and account 
+no. 
+
+Asset type 
+
+Proprietary asset 
+
+Clearing member 
+(entrusted) 
+
+Entrusted 
+asset 
+
+(      ) 
+
+(      ) 
+
+Propriety 
+Entrusted 
+Propriety 
+Entrusted 
+
+Subtotal 
+
+Total 
+
+* 
+
+Notes: 
+1. Do not fill in the column marked with *. 
+2. [Deleted on November 21, 2016] 
+3. Amount of foreign currency: To write down the currency type (USD, JPY, EUR, GBP, HKD, AUD, SGD, CHF 
+and CAD, CNY) and the amount: Evaluated price - Amount converted into Korean won by multiplying the basic 
+market price per currency by assessment rate.   
+4. Amount converted into KRW: To write down the amount converted into Korean won by applying the appraisal 
+price to the amount of the relevant foreign currency. 
+5.  Account  number:  In  the  case  of  the  notice  of  deposit,  to  write  down  the  bank  account  under  the  name  of 
+Exchange; in the case of requesting withdrawal, write down the bank account number under the member’s name. 
+6. Entrusted asset: To print the name of non-clearing member in (    ). 
+
+315 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex:  Form  7-2]  Notice  of  Deposit  (Request  for  Withdrawal)  of  Foreign  Securities  for 
+Member Margin 
+[December 18, 2012] (Amended on November 21, 2016) 
+
+Received by 
+* 
+
+Inputted by 
+* 
+
+Confirmed by 
+* 
+
+Confirmation of 
+deposit/withdrawal 
+
+* 
+
+Notice of Deposit (Request for Withdrawal) of Foreign Securities for Member Margin 
+
+To: The Korea Exchange 
+
+Pursuant to [§102] of the Enforcement Rules of the Derivatives Market Business Regulation, 
+we hereby intend to deposit (withdraw) following issue of securities:   
+
+Month / Date / Year 
+Name & seal of Representative   
+Company name 
+(Name & contact no. of responsible staff) 
+
+Asset type 
+
+Proprietary asset 
+
+Entrusted 
+asset 
+
+Entrusted asset 
+
+(    ) 
+
+(    ) 
+
+Propriety 
+Entrusted 
+Propriety 
+Entrusted 
+
+Subtotal   
+
+Total 
+
+Code no. of 
+issue 
+
+Proprietary 
+asset 
+Entrusted 
+asset 
+- 
+
+- 
+
+* 
+
+Deposit (withdrawal) amount 
+Quantity 
+of 
+security 
+
+Evaluated 
+price 
+(KRW) 
+
+Name of 
+security 
+
+Proprietary 
+asset 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+* 
+
+Converted 
+amount 
+(KRW) 
+
+Account 
+no. 
+
+- 
+
+- 
+
+- 
+
+Notes: 
+1. Do not fill in the column marked with *. 
+2. [Deleted on November 21, 2016] 
+3. The name and code of security that the customer (non-resident investor) received when depositing the foreign 
+security into the non-resident foreigner’s consolidated account (customer account under the name of member) 
+with the Korea Securities Depository should be noted in issue code and name column.   
+4. The securities eligible for margin deposit are US treasury bills, US treasury notes and US treasury bonds and 
+the quantity of security is the quantity that the customer intends to deposit or withdraw.   
+5. The evaluated price is the price converted into Korean Won by multiplying the base price of foreign security 
+by the basic rate and assessment rate (on the basis on the deposit date or withdrawal date) 
+6. The converted amount is the amount converted into Korean Won by multiplying the evaluated price by the 
+quantity of foreign security. 
+7. Account number; In the case of the notice of deposit, to write down the account under the name of Exchange 
+with the Korea Securities Depository; in the case of requesting withdrawal, to write down the account number 
+under the member’s name with the Korea Securities Depository. 
+8. Entrusted asset; To print the name of non-clearing member in (    ) and the asset of non-member investment 
+dealing company or investment brokering company are to be included in the entrusted asset. 
+
+316 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex:  Form  8]  Notice  of  Deposit  (Request  for  Withdrawal)  of  Substitute  Security  for 
+Member Margin 
+(Amended on November 12, 2010; September 17, 2013; November 21, 2016) 
+
+Received by 
+* 
+
+Inputted by 
+* 
+
+Confirmed by 
+* 
+
+Confirmation of 
+deposit/withdrawal 
+
+* 
+
+Notice of Deposit (Request for Withdrawal) of Substitute Security for Member Margin 
+
+To: The Korea Exchange 
+
+Pursuant to [§102] of the Enforcement Rules of the Derivatives Market Business Regulation, 
+we hereby intend to deposit (withdraw) following substitute securities:   
+
+Month / Date / Year 
+Name & seal of Representative   
+Company name 
+(Name & contact no. of responsible staff) 
+
+Amount 
+(KRW) 
+- 
+
+- 
+
+Issue name 
+
+Code number 
+
+Quantity 
+
+Proprietary asset 
+
+Entruste
+d assets 
+
+Clearing member 
+(Entrusted) 
+(    ) Propriety 
+(    ) Entrusted 
+Subtotal 
+
+Stocks listed on KOSPI Market 
+(Subtotal) 
+Bonds listed on KOSPI Market 
+(Subtotal) 
+Stocks listed on KOSDAQ 
+Market (Subtotal) 
+Stocks listed on KONEX 
+Market   
+(Subtotal) 
+
+Others (Subtotal) 
+
+Total 
+
+- 
+
+- 
+
+Proprietary asset 
+Entrusted asset 
+Proprietary asset 
+Entrusted asset 
+Proprietary asset 
+Entrusted asset 
+Proprietary asset 
+
+Entrusted asset 
+
+Proprietary asset 
+Entrusted asset 
+- 
+
+- 
+
+- 
+
+- 
+
+Substitute price 
+(KRW) 
+- 
+
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+
+Notes: 
+1. Do not fill in the column marked with *. 
+2. [Deleted on November 21, 2016] 
+3. Issue name: After separating them into the proprietary asset and entrusted asset, record in the sequence of the 
+stocks listed on the KOSPI Market, bonds listed on the KOSPI Market, stocks listed on the KOSDAQ Market and 
+stocks  listed  on  the  KONEX Market,  and  in  the  sequence of  the  code number  issued  by  the  Exchange  or  the 
+Association.   
+4. In the case of beneficiary certificates, it refers the beneficiary certificates that are similar to bonds pursuant to 
+[§2(8)] of the KOSPI Market Listing Regulation.   
+5. Entrusted asset: Please print the name of non-clearing member in (    ). 
+
+317 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. The assets of non-member investment trader or broker should be included in the entrusted asset.   
+7. Substitute price refers the substitute price as of the deposit (withdrawal) date.   
+8. The quantity units are: share for stocks; KRW 10,000 for bonds; certificate for DRs of foreign stocks; unit for 
+beneficiary certificate; shares (unit) for ETFs; etc. 
+
+318 
+
+ 
+ 
+ 
+[Annex: Form 8-2] Details of Sub-pledge established in Customer Account Books 
+[September 5, 2019] 
+
+Details of Sub-pledge established in Customer Account Books 
+
+Member 
+name 
+
+Classification 
+of property 
+
+Account no. of 
+original pledger 
+
+Contract 
+code 
+
+Details of sub-pledge 
+
+Balance 
+
+Pledgee 
+
+Sub-
+pledgee 
+
+319 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex: Form 9] Notification of Exercise of Options 
+(Amended on July 8, 2013; June 15, 2017) 
+
+Received by 
+* 
+
+Inputted by 
+* 
+
+Confirmed by 
+* 
+
+Notification of Exercise of Options 
+
+To: The Korea Exchange 
+
+Pursuant to [§106] of the Enforcement Rules of the Derivatives Market Business Regulation, 
+we hereby notify the exercise of option as follows:   
+
+Month / Date / Year 
+Name & seal of Representative: 
+Company name: 
+(Name of staff in charge:     
+(Phone no. of stall in charge:   
+
+) 
+) 
+
+(Unit: contracts) 
+
+Account 
+number 
+
+Issue code 
+
+Issue 
+name 
+
+Quantity of open long 
+positions 
+
+Quantity of option 
+exercised 
+
+Others 
+
+Notes:   
+1. Do not fill in the column marked with *. 
+2. In the account number column, please list in the order of the proprietary trade of member, proprietary trade of 
+non-member and customer trade. In such cases, for foreigner’s consolidated accounts, please write down the end-
+investor classification codes in the column of account number. 
+3. Quantity of open long positions: Write down the quantity of open long positions of the contract, of which the 
+last trading day has arrived, after the closing of trade on the last trading day. 
+4. Note: Write down the details such as in-the-money, at-the-money and out-of-the-money options. 
+
+320 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex: Form 10] Notification of Options Exercise Allotment 
+(Amended on June 15, 2017) 
+
+Notification of Options Exercise Allotment 
+
+Pursuant to [§108] of the Enforcement Rules of the Derivatives Market Business Regulation, 
+we hereby notify the allotment quantity of options exercised. 
+
+Name of Member: 
+Allotment Date:   
+
+The Korea Exchange   
+
+Base price for exercise settlement: 
+
+Name of contract 
+
+Account number 
+
+Exercise quantity 
+allotted 
+
+Exercise difference 
+(settlement amount) 
+
+(unit: contracts, KRW) 
+
+Total 
+
+Note: In the case of a foreigner’s consolidated account, please write down the end-investor classification codes in 
+“Account number” column. 
+
+321 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex: Form 11] [Deleted on December 28, 2011] 
+
+[Annex: Form 12] [Deleted on December 18, 2012] 
+
+322 
+
+ 
+ 
+ 
+ 
+[Annex: Form 13] Written Report on Holding of Open Interests for Arbitraging/Hedging 
+[February 17, 2012] (Amended on December 18, 2012; July 3, 2015; June 15, 2017; September 20, 2017; March 
+15, 2018) 
+
+Written Report on Holding of Open Interests for Arbitraging/Hedging 
+
+To: The Korea Exchange   
+
+Pursuant to [§163(2)] of the Enforcement Rules of the Derivatives Market Business Regulation, 
+we hereby report the quantity details of open interests held for arbitraging or hedging as follows: 
+
+Date: mm/dd/yyyy 
+Representative Director    (seal) 
+(Person in charge: Name(seal)Contact number:    ) 
+
+Member   
+
+Account 
+Number 
+
+Date 
+exceeded 
+the Limit 
+
+Quantity of futures/options open interests 
+
+Category 
+
+Contracts 
+
+Position delta 
+
+Based on 
+previous 
+day’s delta 
+
+Based on 
+today’s 
+delta 
+
+Futures 
+Options 
+Subtotal 
+
+Futures 
+
+Options 
+
+Subtotal 
+
+Futures 
+
+Options 
+
+Subtotal 
+
+Total 
+
+Arbitraging 
+
+Hedging 
+
+Total for 
+arbitraging & 
+hedging 
+Matters of 
+interest 
+
+Underlying 
+Asset 
+
+Customer/ 
+Proprietary 
+
+Details of holding of the products linked to open 
+interests of futures/options 
+
+Position delta 
+
+Product group 
+
+Based on 
+previous 
+day’s delta 
+
+Based on 
+today’s delta 
+
+Futures 
+Options 
+Basket of 
+stocks 
+ETFs 
+ETNs 
+ELWs 
+Subtotal 
+Futures 
+Options 
+Basket of 
+Stocks 
+ETFs 
+ETNs 
+ELWs 
+ELS 
+ELD 
+Variable 
+insurance 
+Others 
+Subtotal 
+
+Total 
+
+323 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes: 
+1. Futures and options under “Product linked to open interests of futures/options” shall be filled in when there are 
+open interests of futures/option held by other members.   
+2. Position delta under “Product linked to open interests of futures/options” shall be determined on the basis of 
+the price of nearest month futures contract and multiplier. 
+3. Position delta based on previous day (applied only to the products of which underlying assets are KOSPI200 
+or the underlying stocks) shall be determined by applying the previous day’s delta to the quantity of open interests 
+at the market closing time of the day. 
+4. When filling in the position delta, the positive/negative signs must be recorded as well: 
+
+(+) for purchase of futures; purchase of call options and sale of put options 
+(-) for sale of futures, sale of call options and purchase of put options 
+
+5. In the case of a foreigner’s consolidated account, please write down the end-investor classification codes in the 
+field of account number. 
+
+324 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex:  Form  13-2] Written  Report  on  Holding  of  Open  Interests  for  Hedging  for  Market 
+Making Trades 
+[July 12, 2016] 
+
+Written Report on Holding of Open Interests for Hedging for Market Making Trades 
+
+To: The Korea Exchange   
+
+Pursuant to [§162(2)] of the Enforcement Rules of the Derivatives Market Business Regulation, 
+we hereby report the quantity details of open interests held  for hedging the quantity held in 
+market making accounts as follows: 
+
+Date: mm/dd/yyyy 
+Representative director    (seal) 
+(Person in charge: Name(seal)Contact number:    ) 
+
+Member 
+
+Hedging 
+Account 
+No. 
+
+Market Making 
+Account No. 
+
+Date 
+exceeded 
+the Limit 
+
+Underlying 
+Asset 
+
+Quantity of open interests for hedging market 
+making trades 
+
+Product 
+group 
+
+Contracts 
+
+Position delta 
+
+Based on 
+previous 
+day’s delta 
+
+Based on 
+today’s 
+delta 
+
+Subtotal 
+
+Subtotal 
+
+Futures 
+
+Options 
+
+Total 
+Matters of 
+interest 
+
+Details on holding in market making accounts 
+
+Position delta 
+
+Based on 
+previous 
+day’s delta 
+
+Based on 
+today’s 
+delta 
+
+Product 
+group 
+
+Contracts 
+
+Futures 
+
+Options 
+
+Total 
+
+Subtotal 
+
+Subtotal 
+
+Notes: 
+1. Details on holding in market making accounts shall be filled in with details of holding of open interests related 
+to the trades for hedging the market making trades.   
+2. The position delta shall be determined on the basis of the price of nearest month futures contract and multiplier, 
+and  the  position  delta  based  on  previous  day  shall  be  determined  by  applying  the  previous  day’s  delta  to  the 
+quantity of open interests at the market closing time of the day. 
+3. When filling in the position delta, the positive/negative signs must be recorded as well: 
+
+(+) for purchase of futures, purchase of call options and sale of put options 
+(-) for sale of futures, sale of call options and purchase of put options 
+
+325 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex:  Form  13-3] Written  Report  on  Holding of  Open  Interests  of  ETFs  (KOSDAQ  150 
+Futures and Options, KOSDAQ Global Futures, and ETF Futures) 
+[March 15, 2018] (Amended on April 5, 2024; October 1, 2025) 
+
+Member 
+Document number 
+Date of sending 
+Reference 
+
+Written Report on Holding of Open Interests of ETFs 
+(KOSDAQ 150 Futures and Options, KOSDAQ Global Futures, and ETF Futures) 
+
+To: Korea Exchange   
+
+Pursuant  to  [§162-2(7)]  of  the  Enforcement  Rules  of  the  Derivatives  Market  Business 
+Regulation, we hereby report the quantity details of open interests held by ETFs as follows: 
+
+Date: mm/dd/yyyy 
+Representative Director:    (seal) 
+(Person in charge: Name:      Contact number:      ) 
+
+Account Number 
+
+Date exceeded the threshold 
+
+Type of ETFs 
+
+Leverage  □        Inverse  □        Others  □ 
+
+KOSDAQ 150 Futures·Options  □, KOSDAQ Global Futures  □   
+ETF Futures  □  (Enter product name) 
+Position delta 
+
+Based on previous day’s delta 
+
+Based on today’s delta 
+
+Member   
+
+Contracts 
+
+Futures 
+
+Options 
+
+Subtotal 
+
+Matters of interest 
+
+Notes: 
+1. In the ‘Date exceeded the threshold’ column, please enter the date when the open interests of KOSDAQ 150 
+futures/options, KOSDAQ Global Futures, and ETF Futures held by the relevant account exceeded for the first 
+time the reporting threshold which is each 20, 000 contracts, 20,000 contracts, and position limit of open interests 
+specified in Annex 1-4, respectively. 
+2. For ETFs that hold open interests of KOSDAQ 150 futures and options, the data shall be entered based on the 
+previous day’s delta and the today’s delts, and for ETFS that hold open interests of KOSDAQ Global Futures or 
+ETF futures, the data shall be entered based on the previous day’s quantity and the today’s quantity. 
+3. Position delta based on previous day shall be determined by applying the previous day’s delta to the quantity 
+of open interests at the market closing time of the day. 
+4. When filling in the position delta, the positive/negative signs must be recorded as well: 
+
+(+) for purchase of futures, purchase of call options and sale of put options 
+
+(-) for sale of futures, sale of call options and purchase of put options 
+
+326 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex: Form 13-4] [Deleted on November 1, 2024] 
+
+[Annex: Form 14] [Deleted on November 21, 2016] 
+
+327 
+
+ 
+ 
+ 
+ 
+[Annex: Form 15] Request for Resolution of Large-sized Transaction Errors by Investor 
+[August 20, 2014] (Amended on November 21, 2016; September 20, 2017) 
+
+Received by 
+
+* 
+
+Inputted by 
+* 
+
+Confirmed by 
+* 
+
+Outcome of action 
+
+* 
+
+Request for Resolution of Large-sized Transaction Errors by Investor 
+
+To: The Korea Exchange 
+
+In  accordance  with  [§78-3(1)]  of  the  Derivatives  Market  Business  Regulation,  we  hereby 
+submit  the  request  for  the  resolution  of  large-sized  transaction  errors  by  investors  as  sown 
+below: 
+
+Date 
+Representative Director:        (seal) 
+Person in charge:        (seal)   
+(Contact no.:                    ) 
+
+1. Reason for requesting the large-sized transaction error. 
+
+Reasons 
+
+2. Details of the request for large-sized transaction errors by investors 
+
+Details 
+
+Division 
+
+Account number 
+
+Product name 
+
+Starting time of 
+
+transaction error 
+
+Ending time of 
+transaction error 
+
+Staff in charge 
+
+Contact of staff in 
+
+charge 
+
+Notes: 
+1. Do not fill in the column marked with *. 
+2. [Deleted on November 21, 2016] 
+3. Please input to 1/1000 second for starting and ending time of transaction errors. 
+4. [Deleted on September 20, 2017] 
+
+328 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex: Form 16] [Deleted on March 21, 2016] 
+
+2 
+
+ 
+ 
+ 
+ 
+[Annex: Form 17] Written Report on Entrusted Account of Other Member   
+[September 3, 2020]   
+
+To: The Korea Exchange 
+
+In  accordance  with  [§114]  of  the  Enforcement  Rules  of  the  Derivatives  Market  Business 
+Regulation, we hereby report the establishment, change or termination of the entrusted account 
+of other member with regards to the following derivatives account.   
+
+Date 
+Representative Director:        (seal) 
+
+Classification 
+
+Establishment □ Change □ Termination □ 
+
+Derivatives Account No. 
+
+Member Name 
+
+Member Name 
+
+Customer 
+
+Responsible 
+Person 
+
+Entrusted 
+Member 
+
+Responsible 
+Person 
+
+Contact 
+
+Contact 
+
+Base Date 
+
+(account opening date or date of change or termination) 
+
+Products subject to Trading 
+
+(indicate  in  the  market  unit  under  each  subparagraph  of  [§3(2)]  of  the  Business 
+
+Regulation) 
+
+1) Imposition of limitation per account (based on customer) : □ 
+
+(Proprietary: /Entrusted: ) 
+
+2) Managed by the customer on a real-time basis: □ 
+
+Y □ N □ 
+
+Methods of Managing 
+
+Limitations on Open 
+Interests 
+
+Whether the account is re-
+entrusted 
+
+Methods of Verifying 
+
+Suitability of Quotations 
+
+Grounds for Reporting and 
+Necessity Thereof 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes   
+
+1. With regards to the seal of the representative director, please put the seal impression reported and registered 
+with the Exchange by the member. 
+2. In the event of filing the report on change of the account number, please indicate both the terminated account 
+and the newly-opened account in the ‘Account No.’ column. In the event of filing the report on change of any 
+other items other than the account number, please indicate the details of change in the relevant columns.     
+3. If the products subject to transaction are limited to only parts of the products traded in each market, please 
+indicate the relevant products only.     
+4.  In  the  case  of  1)  in  the  ‘Methods  of  Managing  Limitations  on  Open  Interests’  column,  the  customer 
+(proprietary traded portion) and the entrusted member (entrusted portion of other member) shall ensure that the 
+quantity of open interests does not exceed the respective limitation reported.   
+5.  In  the  case  of  re-entrustment,  please  separately  submit  in  writing  the  necessity  of  re-entrustment  and  the 
+structure thereof.   
+6. With regards to the suitability of quotations, please briefly provide the procedures or methods of verifying the 
+classification code of other member’s entrusted trades of (13) and the customer’s member number.   
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex: Form 18] Application (Report) for Registration of High-speed Algorithmic Trader   
+[December 12, 2022] 
+
+Application (Report) for Registration of High-speed Algorithmic Trader 
+
+To: Korea Exchange 
+
+According to [§164-6(1)] of the Enforcement Rules of Derivatives Market Business Regulation, 
+we hereby apply (report) for the registration of high-speed algorithmic trader as follows. 
+
+Date: mm/dd/yyyy 
+Nambe of corporation: 
+Name and seal of representative director:     
+
+Details 
+
+Corporation/Individual 
+
+Corporate information 
+
+Individual information 
+
+Corporation            □                Individual            □ 
+Trade name 
+Corporate registration 
+Number* 
+Whether member or not 
+Name of representative 
+Name 
+Date of birth 
+Phone number 
+Individual or group** 
+
+  Individual  □    Group  □ 
+
+Member  □      General  □ 
+
+Foreigner    □                            Non-foreigner    □ 
+
+Type of investors 
+(Investor classification 
+code) 
+Whether the investor is 
+a foreigner or not 
+Foreign investor 
+registration number 
+Nationality 
+Outline of business 
+(up to 500 characters) 
+Market for trading 
+Applying member 
+* In the case of a foreign corporation, enter the number of the corporate (business) registration 
+
+KOSPI  □  KOSDAQ  □  Derivative market  □  KONEX  □ 
+
+certificate (COI) of the foreign country of incorporation. 
+
+** In the case of registering a group under the name of a representative 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Annex:  Form  19]  Confirmation  on  Inspection  of  Registration  Information  of  High-speed 
+Algorithmic Trader   
+[December 21, 2022] 
+
+Confirmation on Inspection of Registration Information of   
+High-speed Algorithmic Trader 
+
+To: Korea Exchange 
+
+Corporation 
+
+Individual 
+
+<Registration Information> 
+
+Trade name 
+Corporate registration 
+number 
+Name of representative 
+Name 
+Date of birth 
+Phone number 
+
+* In the case of a foreign corporation, enter the number of the corporate (business) registration 
+
+certificate (COI) of the foreign country of incorporation. 
+
+With respect to the registration of high-speed algorithmic trader pursuant to [§164-6] of the 
+Enforcement  Rules  of  Derivatives  Market  Business  Regulation  and  the  application  for 
+permission  to  use  the  trader  registration  number  pursuant  to  [§164-8]  of  the  same   
+Enforcement Rules, we checked the above customer’s registration information through related 
+documents, etc. and hereby confirm that it is correct. 
+
+Date: mm/dd/yyyy 
+Nambe of corporation: 
+Name and seal of representative director:     
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Confirmation on High-speed Algorithmic Trader Registration Requirements 
+
+To: Korea Exchange 
+
+In  accordance  with  [§164-6]  of  the  Enforcement  Rules  of  Derivatives  Market  Business 
+Regulation,  we  hereby  confirm  whether  the  customer  meets  the  requirements  for  the 
+registration as a high-speed algorithmic trader as follow. 
+
+1. Name of customer: 
+
+2. Whether high-speed algorithmic trader registration requirements are met. 
+
+Registration requirements 
+
+- The electronic system, such as ordering system, etc., used by 
+the customer shall have the stability and adequacy suitable for 
+conducting high-speed algorithmic trading* 
+- The customer shall have sufficient knowledge and experience 
+in conducting high-speed algorithmic trading 
+- The customer shall have the management mechanism such as 
+internal control organization and two or more professional 
+personnel to effectively manage risks that may occur from high-
+speed algorithmic trading. 
+- (In case of not meeting the above requirements) Case where the 
+member judges that the customer can recognize, evaluate, 
+monitor, and control all risks that may arise from high-speed 
+algorithmic trading in a timely manner, or the member directly 
+carries out the risk management. 
+
+Whether 
+requirements are 
+met or not 
+
+Satisfied/ 
+not satisfied 
+
+Satisfied/ 
+not satisfied 
+
+Satisfied/ 
+not satisfied 
+
+Applicable/ 
+not applicable 
+
+* Attached is the result of the electronic system inspection (including approval of the head of 
+the  department  in  charge)  pursuant  to  [§164-9(1)1]  of  the  Enforcement  Rules  of  KOSPI 
+Market Business Regulation in order to confirm whether the requirements are met. 
+
+Date: mm/dd/yyyy 
+Company name:                   
+Name and seal of employee   
+in charge: 
+Name and seal of representative:. 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consent to Provide Personal (Credit) Information to Third Parties 
+
+In accordance with the Personal Information Protection Act and the Credit Information Use 
+and Protection Act, we (name of company) agree to provide my personal (credit) information 
+to the Korea Exchange regarding in relation to the registration of high-speed algorithmic trader 
+and the use of risk management facility of high-speed algorithmic trading. 
+
+1. Information recipient: Korea Exchange 
+
+2. Items of personal (credit) information to be collected 
+
+    - Corporation: Trade name, corporate number, name of representative, high-speed 
+
+algorithmic trading account number 
+
+    - Individual: Name, date of birth, mobile phone number, high-speed algorithmic trading account 
+
+number 
+
+3. Purpose of acquiring person (credit) information of the recipient 
+
+- Understanding the current status of high-speed algorithmic traders and monitoring trades    for 
+
+stable market management, etc. 
+
+4. Period of retention and use of personal (credit) information 
+
+    - Personal (credit) information is destroyed after 6 months after the cancellation of high-speed 
+
+algorithmic trader registration 
+
+We agree to provide person (credit) information as above.    Agree  □          Disagree  □ 
+
+* You have the right to refuse consent to use personal information, but if you do not agree, you may 
+not register with the Korea Exchange as a high-speed algorithmic trader.   
+
+Date: 
+Company name/name: 
+Corporate registration number/ 
+Date of birth 
+
+8

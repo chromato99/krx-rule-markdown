@@ -1,0 +1,37 @@
+name: Sync KRX Rule Markdown
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Install collector
+        run: python -m pip install ".[convert]"
+      - name: Sync rules
+        run: krx-rule-markdown sync --all --data-dir data
+      - name: Clean unreferenced attachments
+        run: krx-rule-markdown clean --data-dir data --drop-past-rule-attachments --prune-unreferenced-attachments
+      - name: Audit data quality
+        run: krx-rule-markdown quality --data-dir data --output data/reports/data-quality.json --update-metadata --fail-on error
+      - name: Validate data
+        run: krx-rule-markdown validate --data-dir data --quality
+      - name: Test Python
+        run: python -m unittest discover -s tests
+      - uses: peter-evans/create-pull-request@v8
+        with:
+          branch: bot/sync-krx-rule-markdown
+          title: "Update KRX rule Markdown corpus"
+          commit-message: "Update KRX rule Markdown corpus"
+          body: "Scheduled KRX rule Markdown corpus refresh."
