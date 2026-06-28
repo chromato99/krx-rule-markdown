@@ -18,84 +18,136 @@ SYNC_LANGUAGE_CHOICES = (LANGUAGE_ALL, LANGUAGE_KO, LANGUAGE_EN)
 
 
 def sync_rules(
-    *,
-    data_dir: Path,
-    base_url: str,
-    limit: int,
+	*,
+	data_dir: Path,
+	base_url: str,
+	limit: int,
     recent_only: bool,
     rule_id: str,
-    download_attachments: bool,
-    language: str,
+	download_attachments: bool,
+	language: str,
 ) -> int:
-    language = normalize_sync_language(language)
-    client = Client(base_url)
-    client.bootstrap()
-    if rule_id:
-        items = [
-            Item(
-                id=rule_id,
-                book_id=rule_id,
-                title=rule_id,
-                document_type=DOCUMENT_RULE,
-                noformyn="N",
-            )
-        ]
-    else:
-        items = collect_items(client, limit, recent_only, language)
-    if limit and len(items) > limit:
-        items = items[:limit]
-    manifest_docs: list[Document] = []
-    attachment_log = []
-    for idx, item in enumerate(dedupe_items(items), start=1):
-        print(f"fetching {idx}/{len(items)} {item.document_type} {item.id} {item.title}", file=sys.stderr)
-        try:
-            doc = client.fetch_document(item)
-        except Exception as exc:  # noqa: BLE001 - keep long syncs moving.
-            print(f"warning: document fetch failed for {item.id}: {exc}", file=sys.stderr)
-            continue
-        doc.language = LANGUAGE_KO
-        if includes_korean(language) and download_attachments:
-            converted = []
-            used_converted_names: set[str] = set()
-            used_raw_names: set[str] = set()
-            for att in doc.attachments:
-                if not att.server_file:
-                    converted.append(att)
-                    continue
-                try:
-                    att, data = client.download_attachment(att)
-                    raw_path = raw_attachment_path(data_dir, doc, att, used_raw_names)
-                    raw_path.parent.mkdir(parents=True, exist_ok=True)
-                    raw_path.write_bytes(data)
-                    if not att.mime_type:
-                        att.mime_type = guess_mime_type(raw_path)
-                    text_path = converted_attachment_path(data_dir, doc, att, used_converted_names)
-                    att = convert_attachment(raw_path, text_path, att)
-                    att.raw_path = str(raw_path.relative_to(data_dir))
-                    if att.text_path:
-                        att.text_path = str(text_path.relative_to(data_dir))
-                except Exception as exc:  # noqa: BLE001 - failure belongs in metadata.
-                    att.status = ATTACHMENT_FAILED
-                    att.error = str(exc)
-                    att.text_path = ""
-                    mark_quality_failure(att, "conversion_failed")
-                converted.append(att)
-            doc.attachments = converted
-        if includes_korean(language):
-            path = write_document(data_dir, doc)
-            doc.path = str(path)
-            manifest_docs.append(doc)
-            attachment_log.extend(doc.attachments)
-        if includes_english(language) and doc.document_type == DOCUMENT_RULE:
-            english_doc, english_log = fetch_english_rule_document(data_dir, client, item, doc)
-            if english_log is not None:
-                attachment_log.append(english_log)
-            if english_doc is not None:
-                path = write_document(data_dir, english_doc)
-                english_doc.path = str(path)
-                manifest_docs.append(english_doc)
-    write_manifest(data_dir, manifest_docs, attachment_log, base_url)
-    return 0
+	return SyncRunner(
+		data_dir=data_dir,
+		base_url=base_url,
+		limit=limit,
+		recent_only=recent_only,
+		rule_id=rule_id,
+		download_attachments=download_attachments,
+		language=language,
+	).run()
+
+
+class SyncRunner:
+	def __init__(
+		self,
+		*,
+		data_dir: Path,
+		base_url: str,
+		limit: int,
+		recent_only: bool,
+		rule_id: str,
+		download_attachments: bool,
+		language: str,
+	) -> None:
+		self.data_dir = data_dir
+		self.base_url = base_url
+		self.limit = limit
+		self.recent_only = recent_only
+		self.rule_id = rule_id
+		self.download_attachments = download_attachments
+		self.language = normalize_sync_language(language)
+		self.client = Client(base_url)
+		self.manifest_docs: list[Document] = []
+		self.attachment_log = []
+
+	def run(self) -> int:
+		self.client.bootstrap()
+		items = self.items_to_collect()
+		for idx, item in enumerate(dedupe_items(items), start=1):
+			doc = self.fetch_document(item, idx, len(items))
+			if doc is None:
+				continue
+			self.write_korean_document(doc)
+			self.write_english_document(item, doc)
+		write_manifest(self.data_dir, self.manifest_docs, self.attachment_log, self.base_url)
+		return 0
+
+	def items_to_collect(self) -> list[Item]:
+		if self.rule_id:
+			items = [
+				Item(
+					id=self.rule_id,
+					book_id=self.rule_id,
+					title=self.rule_id,
+					document_type=DOCUMENT_RULE,
+					noformyn="N",
+				)
+			]
+		else:
+			items = collect_items(self.client, self.limit, self.recent_only, self.language)
+		if self.limit and len(items) > self.limit:
+			return items[: self.limit]
+		return items
+
+	def fetch_document(self, item: Item, index: int, total: int) -> Document | None:
+		print(f"fetching {index}/{total} {item.document_type} {item.id} {item.title}", file=sys.stderr)
+		try:
+			doc = self.client.fetch_document(item)
+		except Exception as exc:  # noqa: BLE001 - keep long syncs moving.
+			print(f"warning: document fetch failed for {item.id}: {exc}", file=sys.stderr)
+			return None
+		doc.language = LANGUAGE_KO
+		if includes_korean(self.language) and self.download_attachments:
+			doc.attachments = self.download_and_convert_attachments(doc)
+		return doc
+
+	def download_and_convert_attachments(self, doc: Document) -> list:
+		converted = []
+		used_converted_names: set[str] = set()
+		used_raw_names: set[str] = set()
+		for att in doc.attachments:
+			if not att.server_file:
+				converted.append(att)
+				continue
+			try:
+				att, data = self.client.download_attachment(att)
+				raw_path = raw_attachment_path(self.data_dir, doc, att, used_raw_names)
+				raw_path.parent.mkdir(parents=True, exist_ok=True)
+				raw_path.write_bytes(data)
+				if not att.mime_type:
+					att.mime_type = guess_mime_type(raw_path)
+				text_path = converted_attachment_path(self.data_dir, doc, att, used_converted_names)
+				att = convert_attachment(raw_path, text_path, att)
+				att.raw_path = str(raw_path.relative_to(self.data_dir))
+				if att.text_path:
+					att.text_path = str(text_path.relative_to(self.data_dir))
+			except Exception as exc:  # noqa: BLE001 - failure belongs in metadata.
+				att.status = ATTACHMENT_FAILED
+				att.error = str(exc)
+				att.text_path = ""
+				mark_quality_failure(att, "conversion_failed")
+			converted.append(att)
+		return converted
+
+	def write_korean_document(self, doc: Document) -> None:
+		if not includes_korean(self.language):
+			return
+		path = write_document(self.data_dir, doc)
+		doc.path = str(path)
+		self.manifest_docs.append(doc)
+		self.attachment_log.extend(doc.attachments)
+
+	def write_english_document(self, item: Item, doc: Document) -> None:
+		if not includes_english(self.language) or doc.document_type != DOCUMENT_RULE:
+			return
+		english_doc, english_log = fetch_english_rule_document(self.data_dir, self.client, item, doc)
+		if english_log is not None:
+			self.attachment_log.append(english_log)
+		if english_doc is not None:
+			path = write_document(self.data_dir, english_doc)
+			english_doc.path = str(path)
+			self.manifest_docs.append(english_doc)
 
 
 def collect_items(client: Client, limit: int, recent_only: bool, language: str) -> list:

@@ -27,6 +27,24 @@ def parse_markdown(data: str) -> Document:
 
 
 def parse_frontmatter(text: str) -> dict[str, Any]:
+    parsed = parse_frontmatter_with_yaml(text)
+    if parsed is not None:
+        return parsed
+    return parse_frontmatter_legacy(text)
+
+
+def parse_frontmatter_with_yaml(text: str) -> dict[str, Any] | None:
+    try:
+        import yaml
+    except ImportError:
+        return None
+    loaded = yaml.safe_load(text) or {}
+    if not isinstance(loaded, dict):
+        return {}
+    return loaded
+
+
+def parse_frontmatter_legacy(text: str) -> dict[str, Any]:
     out: dict[str, Any] = {}
     attachments: list[dict[str, Any]] = []
     current: dict[str, Any] | None = None
