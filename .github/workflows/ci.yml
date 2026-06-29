@@ -1,0 +1,50 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install package
+        run: python3 -m pip install -e .
+
+      - name: Syntax check
+        run: python3 -m py_compile krx_rule_markdown/*.py krx_rule_markdown/converters/*.py
+
+      - name: Unit tests
+        run: python3 -m unittest discover -s tests
+
+      - name: CLI smoke test
+        run: |
+          set -eu
+          export KRX_DATA_DIR="$RUNNER_TEMP/sample-corpus"
+          mkdir -p "$KRX_DATA_DIR/ko/rules/sample-rule"
+          cat > "$KRX_DATA_DIR/ko/rules/sample-rule/index.md" <<'EOF'
+          ---
+          id: "sample-rule"
+          title: "샘플 상장규정"
+          source_url: "https://example.test/rule"
+          collected_at: "2026-06-29T00:00:00Z"
+          content_hash: "sample-content-hash"
+          document_type: "rule"
+          language: "ko"
+          ---
+
+          # 제1조
+
+          신규상장 심사와 공시 의무에 관한 샘플 규정입니다.
+          EOF
+          krx-rule-markdown --help
+          krx-rule-markdown validate --data-dir "$KRX_DATA_DIR" --quality
+          krx-rule-markdown quality --data-dir "$KRX_DATA_DIR" --output "$RUNNER_TEMP/data-quality.json" --fail-on error
+          krx-rule-markdown clean --data-dir "$KRX_DATA_DIR" --drop-past-rule-attachments --prune-unreferenced-attachments --dry-run

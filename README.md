@@ -100,9 +100,11 @@ rsync -a data/ "$KRX_RULE_DATA_DIR"/
 
 [`krx-rule-mcp`](https://github.com/chromato99/krx-rule-mcp)는 위 경로를 읽기 전용 corpus 디렉터리로 사용하고, 필요한 경우 그 안의 `index/` 하위에 검색 snapshot을 생성합니다.
 
-## 자동 갱신
+## 자동화
 
-`.github/workflows/sync.yml`는 정기적으로 corpus를 갱신하고 변경분이 있으면 PR을 생성합니다. workflow는 수집, 정리, 품질 점검, 검증까지만 수행하며 검색 index는 만들지 않습니다.
+`.github/workflows/ci.yml`는 push와 pull request에서 패키지 설치, 문법 검사, 단위 테스트, CLI smoke test만 수행합니다. 실제 KRX 포털 sync는 네트워크와 실행 시간이 필요한 작업이라 기본 CI에 포함하지 않습니다.
+
+기존 sync workflow는 `.github/workflows/sync.yml.disabled`로 보존되어 있지만 현재 GitHub Actions에서는 실행되지 않습니다. 다시 자동 갱신을 켜려면 실패 원인을 수정한 뒤 `.github/workflows/sync.yml`로 되돌려 사용하세요.
 
 ## 테스트
 
