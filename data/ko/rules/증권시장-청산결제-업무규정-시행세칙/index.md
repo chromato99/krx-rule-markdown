@@ -23,10 +23,10 @@ attachments:
     size: 57344
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1008
-    converted_non_space_chars: 801
-    table_row_count: 2
-    formula_hint_count: 3
+    converted_text_chars: 3184
+    converted_non_space_chars: 2552
+    table_row_count: 8
+    formula_hint_count: 20
   - id: "210199110-210029969-hwp"
     title: "[별표 2] 주식시장 상장주권 등에 대한 유동화기간 및 매매거래성립일 비중 산출방법"
     file_name: "증권시장 청산결제 업무규정 시행세칙_1차_"
@@ -40,8 +40,9 @@ attachments:
     size: 45056
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 586
-    converted_non_space_chars: 461
+    converted_text_chars: 682
+    converted_non_space_chars: 539
+    table_row_count: 2
   - id: "210199110-210030106-hwp"
     title: "[별표 3] 상장채무증권의 분류"
     file_name: "증권시장 청산결제 업무규정 시행세칙_1차_"
@@ -55,8 +56,9 @@ attachments:
     size: 49152
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 840
-    converted_non_space_chars: 793
+    converted_text_chars: 2847
+    converted_non_space_chars: 2044
+    table_row_count: 61
   - id: "210199110-210030113-hwp"
     title: "[별표 4] 상장지수집합투자기구 집합투자증권, 상장지수증권 및 상장수익증권의 분류"
     file_name: "증권시장 청산결제 업무규정 시행세칙_1차_"
@@ -70,8 +72,9 @@ attachments:
     size: 53760
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 776
-    converted_non_space_chars: 677
+    converted_text_chars: 2044
+    converted_non_space_chars: 1526
+    table_row_count: 26
   - id: "210199110-210030122-hwp"
     title: "[별표 5] 주식시장 상장주권 등의 사정비율 산출방법 및 점검방법"
     file_name: "증권시장 청산결제 업무규정 시행세칙_1차_"
@@ -85,8 +88,9 @@ attachments:
     size: 51200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1003
-    converted_non_space_chars: 818
+    converted_text_chars: 2162
+    converted_non_space_chars: 1594
+    table_row_count: 8
   - id: "210199110-210030124-hwp"
     title: "[별표 6] 상장채무증권 등의 사정비율 산출방법 및 점검방법"
     file_name: "증권시장 청산결제 업무규정 시행세칙_1차_"
@@ -100,8 +104,9 @@ attachments:
     size: 54272
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1005
-    converted_non_space_chars: 804
+    converted_text_chars: 4646
+    converted_non_space_chars: 3277
+    table_row_count: 24
   - id: "210199110-210030126-hwp"
     title: "[별지 제1호 서식] 결제촉진담보금 현금 예탁(인출) 신청서"
     file_name: "증권시장 청산결제 업무규정 시행세칙_1차_"
@@ -115,9 +120,9 @@ attachments:
     size: 39936
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 552
-    converted_non_space_chars: 346
-    table_row_count: 4
+    converted_text_chars: 671
+    converted_non_space_chars: 474
+    table_row_count: 6
   - id: "210199110-210030131-hwp"
     title: "[별지 제2호 서식] 결제촉진담보금 국고채권 등 예탁(인출) 신청서"
     file_name: "증권시장 청산결제 업무규정 시행세칙_1차_"
@@ -131,9 +136,9 @@ attachments:
     size: 41472
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 532
-    converted_non_space_chars: 382
-    table_row_count: 2
+    converted_text_chars: 594
+    converted_non_space_chars: 402
+    table_row_count: 5
   - id: "210199110-210030133-hwp"
     title: "[별지 제3호 서식] 거래증거금 현금 예탁신고(인출청구)서"
     file_name: "증권시장 청산결제 업무규정 시행세칙_1차_"
@@ -147,9 +152,9 @@ attachments:
     size: 37888
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 498
-    converted_non_space_chars: 326
-    table_row_count: 3
+    converted_text_chars: 580
+    converted_non_space_chars: 422
+    table_row_count: 7
   - id: "210199110-210030135-hwp"
     title: "[별지 제4호 서식] 거래증거금 외화 예탁신고(인출청구)서"
     file_name: "증권시장 청산결제 업무규정 시행세칙_1차_"
@@ -163,9 +168,9 @@ attachments:
     size: 46592
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 709
-    converted_non_space_chars: 526
-    table_row_count: 2
+    converted_text_chars: 922
+    converted_non_space_chars: 695
+    table_row_count: 8
   - id: "210199110-210030140-hwp"
     title: "[별지 제5호 서식] 거래증거금 대용증권 예탁신고(인출청구)서"
     file_name: "증권시장 청산결제 업무규정 시행세칙_1차_"
@@ -179,9 +184,9 @@ attachments:
     size: 48128
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 719
-    converted_non_space_chars: 550
-    table_row_count: 2
+    converted_text_chars: 1264
+    converted_non_space_chars: 906
+    table_row_count: 12
 ---
 
 제1장 총칙

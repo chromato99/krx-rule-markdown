@@ -23,7 +23,7 @@ attachments:
     size: 182766
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 995
+    converted_text_chars: 997
     converted_non_space_chars: 750
     formula_hint_count: 2
   - id: "210219879-210219880-pdf"
@@ -40,7 +40,7 @@ attachments:
     size: 355978
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 15829
+    converted_text_chars: 15831
     converted_non_space_chars: 11688
     table_row_count: 26
     formula_hint_count: 2

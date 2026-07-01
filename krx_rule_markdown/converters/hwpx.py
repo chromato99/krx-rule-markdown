@@ -7,6 +7,7 @@ import xml.etree.ElementTree as ET
 from html import unescape
 
 from .base import ConversionError, dedupe_adjacent, normalize_text
+from .tables import render_html_table, render_markdown_table, table_needs_html
 
 
 def extract_hwpx(data: bytes) -> str:
@@ -40,17 +41,12 @@ def extract_hwpx_xml(xml: str) -> str:
             continue
         for node in tbl.iter():
             table_descendants.add(id(node))
-        for tr in tbl.iter():
-            if local_name(tr.tag) != "tr":
-                continue
-            cells = [
-                normalize_text(" ".join(iter_element_text(tc)))
-                for tc in tr.iter()
-                if local_name(tc.tag) == "tc"
-            ]
-            cells = [cell for cell in cells if cell]
-            if len(cells) >= 2:
-                lines.append("| " + " | ".join(cells) + " |")
+        rows, spans = extract_hwpx_table(tbl)
+        if rows:
+            if table_needs_html(rows, spans):
+                lines.append(render_html_table(rows, spans))
+            else:
+                lines.append(render_markdown_table(rows))
 
     for elem in root.iter():
         if id(elem) in table_descendants:
@@ -76,6 +72,51 @@ def local_name(tag: str) -> str:
     if ":" in tag:
         tag = tag.rsplit(":", 1)[1]
     return tag
+
+
+def extract_hwpx_table(tbl: ET.Element) -> tuple[list[list[str]], list[list[tuple[int, int]]]]:
+    rows: list[list[str]] = []
+    spans: list[list[tuple[int, int]]] = []
+    for tr in tbl.iter():
+        if local_name(tr.tag) != "tr":
+            continue
+        row: list[str] = []
+        span_row: list[tuple[int, int]] = []
+        for tc in direct_or_descendant_table_cells(tr):
+            row.append(normalize_text(" ".join(iter_element_text(tc))))
+            span_row.append(cell_span(tc))
+        if any(cell.strip() for cell in row):
+            rows.append(row)
+            spans.append(span_row)
+    return rows, spans
+
+
+def direct_or_descendant_table_cells(row: ET.Element) -> list[ET.Element]:
+    cells = [child for child in row if local_name(child.tag) == "tc"]
+    if cells:
+        return cells
+    return [elem for elem in row.iter() if local_name(elem.tag) == "tc"]
+
+
+def cell_span(cell: ET.Element) -> tuple[int, int]:
+    rowspan = 1
+    colspan = 1
+    for elem in [cell, *list(cell.iter())]:
+        for key, value in elem.attrib.items():
+            lname = local_name(key).lower()
+            if lname in {"rowspan", "rowspan"}:
+                rowspan = max(rowspan, positive_int(value))
+            elif lname in {"colspan", "colspan"}:
+                colspan = max(colspan, positive_int(value))
+    return rowspan, colspan
+
+
+def positive_int(value: str) -> int:
+    try:
+        parsed = int(value)
+    except (TypeError, ValueError):
+        return 1
+    return parsed if parsed > 0 else 1
 
 
 def iter_element_text(elem: ET.Element) -> list[str]:

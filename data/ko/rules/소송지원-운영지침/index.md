@@ -23,9 +23,9 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 897
-    converted_non_space_chars: 546
-    table_row_count: 2
+    converted_text_chars: 1337
+    converted_non_space_chars: 1023
+    table_row_count: 10
   - id: "204846763-201403240000003840000127002-byl-hwp"
     title: "[별지 제2호 서식] 위임장<개정 2006.11.30, 2010.12.10, 2012.10.15>"
     file_name: "소송지원 운영지침_4차_위임장.hwp"
@@ -39,9 +39,9 @@ attachments:
     size: 12288
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 403
-    converted_non_space_chars: 208
-    table_row_count: 2
+    converted_text_chars: 754
+    converted_non_space_chars: 568
+    table_row_count: 7
   - id: "204846763-201403240000003840000127003-byl-hwp"
     title: "[별지 제3호 서식] 소송지원신청취하서<개정 2006.11.30, 2010.12.10, 2012.10.15>"
     file_name: "소송지원 운영지침_4차_소송지원신청취하서.hwp"
@@ -55,9 +55,9 @@ attachments:
     size: 12288
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 403
-    converted_non_space_chars: 231
-    table_row_count: 1
+    converted_text_chars: 806
+    converted_non_space_chars: 607
+    table_row_count: 8
   - id: "204846763-201403240000003840000127004-byl-hwp"
     title: "[별지 제4호 서식] 소송지원계약서<개정 2006.11.30, 2010.12.10>"
     file_name: "소송지원 운영지침_4차_소송지원계약서.hwp"
@@ -71,9 +71,8 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 941
+    converted_text_chars: 730
     converted_non_space_chars: 535
-    table_row_count: 4
     formula_hint_count: 1
 ---
 

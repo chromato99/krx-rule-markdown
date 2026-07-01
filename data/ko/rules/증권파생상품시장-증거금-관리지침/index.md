@@ -23,8 +23,8 @@ attachments:
     size: 35328
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1255
-    converted_non_space_chars: 1020
+    converted_text_chars: 1371
+    converted_non_space_chars: 1129
     formula_hint_count: 7
   - id: "210210269-202212290000008140000259002-byl-hwp"
     title: "[별표 2] 평균가격변동성<신설 2021.11.25>"
@@ -39,8 +39,8 @@ attachments:
     size: 28672
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1239
-    converted_non_space_chars: 999
+    converted_text_chars: 1332
+    converted_non_space_chars: 1087
     formula_hint_count: 13
   - id: "210210269-210210295-hwp"
     title: "[별표 3] 증권시장 및 파생상품시장 거래증거금률의 산정<신설 2021.11.25,개정 2025. 3. 4.,2025. 10. 22.,2026. 4. 17.,2026. 5. 19.>"
@@ -55,8 +55,9 @@ attachments:
     size: 52224
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1004
-    converted_non_space_chars: 822
+    converted_text_chars: 1906
+    converted_non_space_chars: 1451
+    table_row_count: 12
   - id: "210210269-210113201-hwp"
     title: "[별표 4] 파생상품시장 증거금 감면액 산출변수의 산정<신설 2022.12.29,개정 2025. 8. 28.>"
     file_name: "증권·파생상품시장 증거금 관리지침_15차_파생상품시장증거금감면액산출변수의산정.hwp"
@@ -70,9 +71,10 @@ attachments:
     size: 50176
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2282
-    converted_non_space_chars: 1825
-    formula_hint_count: 20
+    converted_text_chars: 3126
+    converted_non_space_chars: 2551
+    table_row_count: 1
+    formula_hint_count: 26
 ---
 
 제1장 총칙

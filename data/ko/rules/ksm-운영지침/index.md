@@ -23,9 +23,9 @@ attachments:
     size: 34304
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 574
-    converted_non_space_chars: 334
-    table_row_count: 1
+    converted_text_chars: 471
+    converted_non_space_chars: 342
+    table_row_count: 2
   - id: "204847877-202409200000008990000254002-byl-hwp"
     title: "[별지 제2호 서식] 등록취소 신청서"
     file_name: "KSM 운영지침_15차_등록취소신청서.hwp"
@@ -39,9 +39,9 @@ attachments:
     size: 23552
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 324
-    converted_non_space_chars: 144
-    table_row_count: 1
+    converted_text_chars: 205
+    converted_non_space_chars: 143
+    table_row_count: 2
   - id: "204847877-202409200000008990000254003-byl-hwp"
     title: "[별지 제3호 서식] KSM 참여 신청서"
     file_name: "KSM 운영지침_15차_KSM참여신청서.hwp"
@@ -55,9 +55,8 @@ attachments:
     size: 23552
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 327
+    converted_text_chars: 203
     converted_non_space_chars: 141
-    table_row_count: 1
 ---
 
 제1장 총칙

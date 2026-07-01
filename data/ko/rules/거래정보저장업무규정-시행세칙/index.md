@@ -23,8 +23,10 @@ attachments:
     size: 307200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1003
-    converted_non_space_chars: 853
+    converted_text_chars: 180389
+    converted_non_space_chars: 133624
+    table_row_count: 1858
+    formula_hint_count: 4
   - id: "210024015-202409200000022490000294002-byl-hwp"
     title: "[별표 2] UTI 발급기관 결정 등에 관한 기준<개정 2024.9.20>"
     file_name: "거래정보저장업무규정 시행세칙_6차_UTI발급기관결정등에관한기준.hwp"
@@ -38,8 +40,9 @@ attachments:
     size: 80896
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1009
-    converted_non_space_chars: 842
+    converted_text_chars: 4103
+    converted_non_space_chars: 3148
+    table_row_count: 24
   - id: "210024015-202409200000022490000294003-byl-hwp"
     title: "[별표 3] 장외파생상품 거래정보 보고서"
     file_name: "거래정보저장업무규정 시행세칙_6차_장외파생상품거래정보보고서.hwp"
@@ -53,8 +56,9 @@ attachments:
     size: 65536
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 986
-    converted_non_space_chars: 847
+    converted_text_chars: 24582
+    converted_non_space_chars: 16244
+    table_row_count: 144
   - id: "210024015-202409200000022490000294004-byl-hwp"
     title: "[별지 제1호 서식] 이용자등록·변경·해지신청서<개정 2023.8.3>"
     file_name: "거래정보저장업무규정 시행세칙_6차_이용자등록·변경·해지신청서.hwp"
@@ -68,10 +72,10 @@ attachments:
     size: 53248
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1008
-    converted_non_space_chars: 713
-    table_row_count: 7
-    formula_hint_count: 1
+    converted_text_chars: 2680
+    converted_non_space_chars: 2091
+    table_row_count: 40
+    formula_hint_count: 4
   - id: "210024015-202409200000022490000294005-byl-hwp"
     title: "[별지 제1호의2 서식] 보고업무담당자 지정·변경 신고서 <신설 2022.6.28><개정 2024.9.20>"
     file_name: "거래정보저장업무규정 시행세칙_6차_보고업무담당자지정·변경신고서(신설2022.6.28).hwp"
@@ -85,9 +89,9 @@ attachments:
     size: 41984
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 800
-    converted_non_space_chars: 543
-    table_row_count: 4
+    converted_text_chars: 875
+    converted_non_space_chars: 774
+    table_row_count: 2
   - id: "210024015-202409200000022490000294006-byl-hwp"
     title: "[별지 제2호 서식] 이용자등록·변경·해지신청서(금융위원회·금융감독원·한국은행용)"
     file_name: "거래정보저장업무규정 시행세칙_6차_이용자등록·변경·해지신청서(금융위원회·금융감독원·한국은행용).hwp"
@@ -101,8 +105,8 @@ attachments:
     size: 40448
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 792
-    converted_non_space_chars: 527
+    converted_text_chars: 652
+    converted_non_space_chars: 555
     table_row_count: 2
   - id: "210024015-202409200000022490000294007-byl-hwp"
     title: "[별지 제3호 서식] 이용자 지위 승계 신청서"
@@ -117,10 +121,10 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1001
-    converted_non_space_chars: 677
-    table_row_count: 5
-    formula_hint_count: 1
+    converted_text_chars: 2325
+    converted_non_space_chars: 1775
+    table_row_count: 40
+    formula_hint_count: 4
   - id: "210024015-202409200000022490000294008-byl-hwp"
     title: "[별지 제4호 서식] 금융거래정보이용·제공동의서<개정 2023.8.3>"
     file_name: "거래정보저장업무규정 시행세칙_6차_금융거래정보이용·제공동의서.hwp"
@@ -134,8 +138,8 @@ attachments:
     size: 55808
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1017
-    converted_non_space_chars: 772
+    converted_text_chars: 1315
+    converted_non_space_chars: 901
     table_row_count: 1
   - id: "210024015-202409200000022490000294009-byl-hwp"
     title: "[별지 제5호 서식] 보고대행기관 지정·변경·지정해제신청서<개정 2024.9.20>"
@@ -150,9 +154,9 @@ attachments:
     size: 50688
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 997
-    converted_non_space_chars: 653
-    table_row_count: 4
+    converted_text_chars: 902
+    converted_non_space_chars: 772
+    table_row_count: 1
     formula_hint_count: 1
   - id: "210024015-202409200000022490000294010-byl-hwp"
     title: "[별지 제6호 서식] 비밀유지서약서<개정 2024.2.28>"
@@ -167,8 +171,8 @@ attachments:
     size: 51712
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 824
-    converted_non_space_chars: 583
+    converted_text_chars: 832
+    converted_non_space_chars: 668
     table_row_count: 1
 ---
 

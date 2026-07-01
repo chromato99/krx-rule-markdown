@@ -23,9 +23,9 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 887
-    converted_non_space_chars: 493
-    table_row_count: 3
+    converted_text_chars: 1592
+    converted_non_space_chars: 1221
+    table_row_count: 14
     formula_hint_count: 1
   - id: "204847401-201301100000003130000194002-byl-hwp"
     title: "[별지 제2호] 할당관세 적용 추천서"
@@ -40,9 +40,9 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 698
-    converted_non_space_chars: 416
-    table_row_count: 3
+    converted_text_chars: 1245
+    converted_non_space_chars: 928
+    table_row_count: 13
   - id: "204847401-201301100000003130000194003-byl-hwp"
     title: "[별지 제3호] 할당관세 적용 추천서(전산용)"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_할당관세적용추천서(전산용).hwp"
@@ -56,9 +56,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 908
-    converted_non_space_chars: 423
-    table_row_count: 7
+    converted_text_chars: 921
+    converted_non_space_chars: 706
+    table_row_count: 11
   - id: "204847401-201301100000003130000194004-byl-hwp"
     title: "[별지 제4호] 할당관세 추천 유효기간 연장신청서"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_할당관세추천유효기간연장신청서.hwp"
@@ -72,9 +72,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 596
-    converted_non_space_chars: 318
-    table_row_count: 4
+    converted_text_chars: 1075
+    converted_non_space_chars: 817
+    table_row_count: 11
   - id: "204847401-201301100000003130000194005-byl-hwp"
     title: "[별지 제5호] 할당관세 분할추천 신청서"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_할당관세분할추천신청서.hwp"
@@ -88,9 +88,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 595
-    converted_non_space_chars: 328
-    table_row_count: 4
+    converted_text_chars: 1104
+    converted_non_space_chars: 835
+    table_row_count: 12
   - id: "204847401-201301100000003130000194006-byl-hwp"
     title: "[별지 제6호] 할당관세 분할추천서"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_할당관세분할추천서.hwp"
@@ -104,9 +104,9 @@ attachments:
     size: 11776
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 370
-    converted_non_space_chars: 176
-    table_row_count: 2
+    converted_text_chars: 733
+    converted_non_space_chars: 536
+    table_row_count: 9
   - id: "204847401-201301100000003130000194007-byl-hwp"
     title: "[별지 제7호] 할당관세 추천실적 보고서"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_할당관세추천실적보고서.hwp"
@@ -120,9 +120,9 @@ attachments:
     size: 12800
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 580
-    converted_non_space_chars: 336
-    table_row_count: 10
+    converted_text_chars: 1347
+    converted_non_space_chars: 932
+    table_row_count: 8
   - id: "204847401-201301100000003130000194008-byl-hwp"
     title: "[별지 제8호] 수입 및 전자상거래 공급계획서"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_수입및전자상거래공급계획서.hwp"
@@ -136,9 +136,9 @@ attachments:
     size: 12288
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 529
-    converted_non_space_chars: 279
-    table_row_count: 2
+    converted_text_chars: 818
+    converted_non_space_chars: 628
+    table_row_count: 8
 ---
 
 **제1조(목적)**이 요령은 「관세법 제71조에 따른 할당관세의 적용에 관한 규정」 및 「지식경제부 소관품목에 대한 할당관세 추천요령(지식경제부 공고제2012-556호)」에 따라 한국거래소가 개설한 석유제품현물전자상거래(이하 "전자상거래"라 한다)를 통하여 공급할 목적으로 수입되는 석유제품에 대하여 할당관세 적용 추천을 받는 것과 관련한 세부추천요령을 정함을 그 목적으로 한다.<개정 2013. 1. 10.>

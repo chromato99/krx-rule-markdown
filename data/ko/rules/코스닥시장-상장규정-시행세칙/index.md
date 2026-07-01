@@ -21,9 +21,10 @@ attachments:
     size: 71168
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1017
-    converted_non_space_chars: 775
-    table_row_count: 1
+    converted_text_chars: 13417
+    converted_non_space_chars: 10042
+    table_row_count: 7
+    formula_hint_count: 1
   - id: "210195274-210190046-hwp"
     title: "[별표 2] 신규상장 신청 서류<개정 2026. 3. 16.>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_신규상장신청서류.hwp"
@@ -37,9 +38,9 @@ attachments:
     size: 59904
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1011
-    converted_non_space_chars: 780
-    table_row_count: 1
+    converted_text_chars: 2712
+    converted_non_space_chars: 2163
+    table_row_count: 5
     formula_hint_count: 1
   - id: "210195274-202407120000022430000112003-byl-hwp"
     title: "[별표 2의2] 합병상장 신청 서류<신설 2022.2.14, 2022.12.9>"
@@ -54,8 +55,9 @@ attachments:
     size: 41984
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 591
-    converted_non_space_chars: 440
+    converted_text_chars: 642
+    converted_non_space_chars: 515
+    table_row_count: 1
   - id: "210195274-202407120000022430000112004-byl-hwp"
     title: "[별표 3] 우회상장 심사서류<개정 2023.3.9>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_우회상장심사서류.hwp"
@@ -69,8 +71,8 @@ attachments:
     size: 62464
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1020
-    converted_non_space_chars: 774
+    converted_text_chars: 4696
+    converted_non_space_chars: 3459
     table_row_count: 1
   - id: "210195274-202407120000022430000112005-byl-hwp"
     title: "[별표 4] 재상장 신청 서류<개정 2022.2.14>"
@@ -85,8 +87,9 @@ attachments:
     size: 38912
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 520
-    converted_non_space_chars: 406
+    converted_text_chars: 587
+    converted_non_space_chars: 473
+    table_row_count: 1
   - id: "210195274-210190076-hwp"
     title: "[별표 5] 변경·추가상장 신청 서류<개정 2022.3.17, 2022.9.27,2026. 3. 16.>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_변경·추가상장신청서류.hwp"
@@ -100,9 +103,9 @@ attachments:
     size: 110080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1009
-    converted_non_space_chars: 742
-    table_row_count: 1
+    converted_text_chars: 2792
+    converted_non_space_chars: 2148
+    table_row_count: 2
   - id: "210195274-210143427-hwp"
     title: "[별표6] 질적심사기준<개정 2022.9.27, 2023.12.28, 2024.07.12,2025. 7. 3.,2025. 11. 24.>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_질적심사기준.hwp"
@@ -116,8 +119,9 @@ attachments:
     size: 124416
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1007
-    converted_non_space_chars: 768
+    converted_text_chars: 5562
+    converted_non_space_chars: 4233
+    table_row_count: 26
   - id: "210195274-210153940-hwp"
     title: "[별표 7] 업종별 질적심사기준 (기업의 계속성)<개정 2023.12.28,2025. 12. 30.>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_업종별질적심사기준(기업의계속성).hwp"
@@ -131,8 +135,9 @@ attachments:
     size: 67584
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1009
-    converted_non_space_chars: 753
+    converted_text_chars: 13341
+    converted_non_space_chars: 9496
+    table_row_count: 165
   - id: "210195274-202407120000022430000112009-byl-hwp"
     title: "[별표 8] 기업부실위험 선정기준"
     file_name: "코스닥시장 상장규정 시행세칙_98차_기업부실위험선정기준.hwp"
@@ -146,8 +151,10 @@ attachments:
     size: 54272
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1007
-    converted_non_space_chars: 849
+    converted_text_chars: 2233
+    converted_non_space_chars: 1636
+    table_row_count: 20
+    formula_hint_count: 3
   - id: "210195274-202407120000022430000112010-byl-hwp"
     title: "[별표 9] 투자주의 환기종목 지정·해제 시기<개정 2022.12.9>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_투자주의환기종목지정·해제시기.hwp"
@@ -161,8 +168,8 @@ attachments:
     size: 67584
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1021
-    converted_non_space_chars: 810
+    converted_text_chars: 3087
+    converted_non_space_chars: 2164
     table_row_count: 1
   - id: "210195274-210190254-hwp"
     title: "[별표 10] 관리종목 지정·해제 시기<개정 2022.12.9, 2025. 7. 9, 2025. 11. 24.,2026. 3. 16.>"
@@ -177,8 +184,8 @@ attachments:
     size: 65536
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1017
-    converted_non_space_chars: 827
+    converted_text_chars: 7212
+    converted_non_space_chars: 5049
     table_row_count: 1
   - id: "210195274-202407120000022430000112012-byl-hwp"
     title: "[별표 11] 업종 및 코드 분류표<개정 2024.6.14>"
@@ -193,9 +200,9 @@ attachments:
     size: 80384
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1016
-    converted_non_space_chars: 858
-    table_row_count: 2
+    converted_text_chars: 19919
+    converted_non_space_chars: 14092
+    table_row_count: 236
   - id: "210195274-202407120000022430000112013-byl-hwp"
     title: "[별표 12] 외국기업 정관필수기재사항"
     file_name: "코스닥시장 상장규정 시행세칙_98차_외국기업정관필수기재사항.hwp"
@@ -209,8 +216,8 @@ attachments:
     size: 56832
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1021
-    converted_non_space_chars: 759
+    converted_text_chars: 5234
+    converted_non_space_chars: 3682
     table_row_count: 1
   - id: "210195274-202407120000022430000112014-byl-hwp"
     title: "[별표 13] 기업인수목적회사 정관필수기재사항<개정 2022.2.14>"
@@ -225,8 +232,8 @@ attachments:
     size: 49152
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1020
-    converted_non_space_chars: 760
+    converted_text_chars: 3555
+    converted_non_space_chars: 2562
     table_row_count: 1
     formula_hint_count: 1
   - id: "210195274-210190283-hwp"
@@ -242,8 +249,8 @@ attachments:
     size: 55808
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1006
-    converted_non_space_chars: 850
+    converted_text_chars: 7516
+    converted_non_space_chars: 5425
     table_row_count: 2
   - id: "210195274-202407120000022430000112016-byl-hwp"
     title: "[별지 제1호 서식] 상장폐지 신청서"
@@ -258,8 +265,8 @@ attachments:
     size: 25600
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 304
-    converted_non_space_chars: 171
+    converted_text_chars: 294
+    converted_non_space_chars: 238
     table_row_count: 1
   - id: "210195274-202407120000022430000112017-byl-hwp"
     title: "[별지 제2호 서식] 유통주식 현황표"
@@ -274,9 +281,9 @@ attachments:
     size: 41984
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 950
-    converted_non_space_chars: 757
-    table_row_count: 2
+    converted_text_chars: 939
+    converted_non_space_chars: 784
+    table_row_count: 1
     formula_hint_count: 2
   - id: "210195274-202407120000022430000112018-byl-hwp"
     title: "[별지 제3호 서식] 상장신청서<개정 2022.2.14>"
@@ -291,9 +298,9 @@ attachments:
     size: 33792
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1018
-    converted_non_space_chars: 723
-    table_row_count: 5
+    converted_text_chars: 1372
+    converted_non_space_chars: 1144
+    table_row_count: 3
   - id: "210195274-210190410-hwp"
     title: "[별지 제4호 서식] 상장계약서<개정 2026. 3. 16.>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_상장계약서.hwp"
@@ -307,9 +314,9 @@ attachments:
     size: 70144
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1023
-    converted_non_space_chars: 756
-    table_row_count: 1
+    converted_text_chars: 8387
+    converted_non_space_chars: 6172
+    table_row_count: 3
   - id: "210195274-202407120000022430000112020-byl-hwp"
     title: "[별지 제5호 서식] 이해관계자의 투자현황 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_이해관계자의투자현황확인서.hwp"
@@ -323,8 +330,8 @@ attachments:
     size: 34304
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 474
-    converted_non_space_chars: 322
+    converted_text_chars: 485
+    converted_non_space_chars: 377
     table_row_count: 1
   - id: "210195274-202407120000022430000112021-byl-hwp"
     title: "[별지 제6호 서식] 주식등의 보유 부존재 확인서"
@@ -339,8 +346,8 @@ attachments:
     size: 32256
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 442
-    converted_non_space_chars: 294
+    converted_text_chars: 453
+    converted_non_space_chars: 353
     table_row_count: 1
   - id: "210195274-202407120000022430000112022-byl-hwp"
     title: "[별지 제7호 서식] 주채권은행 의견서"
@@ -355,9 +362,9 @@ attachments:
     size: 27136
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 403
-    converted_non_space_chars: 193
-    table_row_count: 2
+    converted_text_chars: 335
+    converted_non_space_chars: 272
+    table_row_count: 1
   - id: "210195274-202407120000022430000112023-byl-hwp"
     title: "[별지 제8호 서식] 명의개서 대행기관의 주권발행 증명서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_명의개서대행기관의주권발행증명서.hwp"
@@ -371,8 +378,8 @@ attachments:
     size: 29696
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 431
-    converted_non_space_chars: 320
+    converted_text_chars: 476
+    converted_non_space_chars: 403
     table_row_count: 1
   - id: "210195274-202407120000022430000112024-byl-hwp"
     title: "[별지 제9호 서식] 혁신기술기업 시장성 의견서<개정 2023.12.28>"
@@ -387,10 +394,10 @@ attachments:
     size: 35328
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1023
-    converted_non_space_chars: 708
+    converted_text_chars: 3119
+    converted_non_space_chars: 1958
     table_row_count: 1
-    formula_hint_count: 2
+    formula_hint_count: 59
   - id: "210195274-202407120000022430000112025-byl-hwp"
     title: "[별지 제10호 서식] 상장주선인 추천에 의한 사업모델기업 평가보고서<개정 2023.12.28>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_상장주선인추천에의한사업모델기업평가보고서.hwp"
@@ -404,10 +411,10 @@ attachments:
     size: 49664
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1023
-    converted_non_space_chars: 647
+    converted_text_chars: 3951
+    converted_non_space_chars: 2570
     table_row_count: 1
-    formula_hint_count: 2
+    formula_hint_count: 37
   - id: "210195274-202407120000022430000112026-byl-hwp"
     title: "[별지 제10호의2 서식] 신속이전기업에 대한 기업 계속성 보고서<신설 2022.4.29>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_신속이전기업에대한기업계속성보고서.hwp"
@@ -421,8 +428,8 @@ attachments:
     size: 40960
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1023
-    converted_non_space_chars: 635
+    converted_text_chars: 2958
+    converted_non_space_chars: 1924
     table_row_count: 1
     formula_hint_count: 2
   - id: "210195274-202407120000022430000112027-byl-hwp"
@@ -438,9 +445,10 @@ attachments:
     size: 50176
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1012
-    converted_non_space_chars: 787
-    table_row_count: 1
+    converted_text_chars: 2705
+    converted_non_space_chars: 1947
+    table_row_count: 2
+    formula_hint_count: 2
   - id: "210195274-210190303-hwp"
     title: "[별지 제12호 서식] 의무이행 확약서<개정 2026. 3. 16.>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_의무이행확약서.hwp"
@@ -454,8 +462,8 @@ attachments:
     size: 32768
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 420
-    converted_non_space_chars: 286
+    converted_text_chars: 427
+    converted_non_space_chars: 337
     table_row_count: 1
   - id: "210195274-210190310-hwp"
     title: "[별지 제13호 서식] 명목회사 확인서<개정 2026. 3. 16.>"
@@ -470,9 +478,10 @@ attachments:
     size: 46592
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1014
-    converted_non_space_chars: 787
-    table_row_count: 3
+    converted_text_chars: 2440
+    converted_non_space_chars: 1574
+    table_row_count: 1
+    formula_hint_count: 8
   - id: "210195274-210190403-hwp"
     title: "[별지 제14호 서식] 의무보유 확약서<개정 2022.2.14, 2022.2.17, 2022.4.29, 2023.12.28,2026. 3. 16.>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_의무보유확약서.hwp"
@@ -486,9 +495,10 @@ attachments:
     size: 84992
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1023
-    converted_non_space_chars: 753
-    table_row_count: 1
+    converted_text_chars: 16178
+    converted_non_space_chars: 11509
+    table_row_count: 9
+    formula_hint_count: 2
   - id: "210195274-210091149-hwp"
     title: "[별지 제15호 서식] 합병 관련 확인서<개정 2025. 7. 9.>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_합병관련확인서.hwp"
@@ -502,10 +512,10 @@ attachments:
     size: 59904
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1021
-    converted_non_space_chars: 776
-    table_row_count: 2
-    formula_hint_count: 4
+    converted_text_chars: 5851
+    converted_non_space_chars: 3979
+    table_row_count: 1
+    formula_hint_count: 29
   - id: "210195274-202407120000022430000112032-byl-hwp"
     title: "[별지 제16호 서식] 주식의 포괄적 교환 관련 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_주식의포괄적교환관련확인서.hwp"
@@ -519,10 +529,10 @@ attachments:
     size: 58368
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1021
-    converted_non_space_chars: 785
-    table_row_count: 2
-    formula_hint_count: 4
+    converted_text_chars: 5409
+    converted_non_space_chars: 3699
+    table_row_count: 1
+    formula_hint_count: 29
   - id: "210195274-202407120000022430000112033-byl-hwp"
     title: "[별지 제17호 서식] 영업양수 및 제3자 배정 증자 등 관련 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_영업양수및제3자배정증자등관련확인서.hwp"
@@ -536,10 +546,10 @@ attachments:
     size: 63488
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1020
-    converted_non_space_chars: 759
-    table_row_count: 3
-    formula_hint_count: 10
+    converted_text_chars: 9094
+    converted_non_space_chars: 6352
+    table_row_count: 1
+    formula_hint_count: 93
   - id: "210195274-202407120000022430000112034-byl-hwp"
     title: "[별지 제18호 서식] 영업양수 및 주식이전 관련 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_영업양수및주식이전관련확인서.hwp"
@@ -553,10 +563,10 @@ attachments:
     size: 60928
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1020
-    converted_non_space_chars: 766
-    table_row_count: 2
-    formula_hint_count: 14
+    converted_text_chars: 7472
+    converted_non_space_chars: 5228
+    table_row_count: 1
+    formula_hint_count: 64
   - id: "210195274-202407120000022430000112035-byl-hwp"
     title: "[별지 제19호 서식] 자산양수 및 제3자 배정 증자 등 관련 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_자산양수및제3자배정증자등관련확인서.hwp"
@@ -570,10 +580,10 @@ attachments:
     size: 69120
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1017
-    converted_non_space_chars: 781
+    converted_text_chars: 9496
+    converted_non_space_chars: 6666
     table_row_count: 1
-    formula_hint_count: 9
+    formula_hint_count: 93
   - id: "210195274-202407120000022430000112036-byl-hwp"
     title: "[별지 제20호 서식] 자산양수 및 주식이전 관련 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_자산양수및주식이전관련확인서.hwp"
@@ -587,10 +597,10 @@ attachments:
     size: 63488
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1017
-    converted_non_space_chars: 777
-    table_row_count: 2
-    formula_hint_count: 10
+    converted_text_chars: 7963
+    converted_non_space_chars: 5586
+    table_row_count: 1
+    formula_hint_count: 73
   - id: "210195274-202407120000022430000112037-byl-hwp"
     title: "[별지 제21호 서식] 현물출자 및 제3자 배정 증자 관련 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_현물출자및제3자배정증자관련확인서.hwp"
@@ -604,10 +614,10 @@ attachments:
     size: 64000
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1015
-    converted_non_space_chars: 783
+    converted_text_chars: 6248
+    converted_non_space_chars: 4265
     table_row_count: 1
-    formula_hint_count: 6
+    formula_hint_count: 41
   - id: "210195274-202407120000022430000112038-byl-hwp"
     title: "[별지 제22호 서식] 일괄상장신청서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_일괄상장신청서.hwp"
@@ -621,9 +631,9 @@ attachments:
     size: 35328
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 940
-    converted_non_space_chars: 716
-    table_row_count: 2
+    converted_text_chars: 898
+    converted_non_space_chars: 797
+    table_row_count: 1
   - id: "210195274-202407120000022430000112039-byl-hwp"
     title: "[별지 제23호 서식] 신주발행통지서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_신주발행통지서.hwp"
@@ -637,10 +647,10 @@ attachments:
     size: 44032
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1000
-    converted_non_space_chars: 778
-    table_row_count: 3
-    formula_hint_count: 2
+    converted_text_chars: 2673
+    converted_non_space_chars: 1612
+    table_row_count: 1
+    formula_hint_count: 4
   - id: "210195274-202407120000022430000112040-byl-hwp"
     title: "[별지 제24호 서식] 상장유예 이의신청서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_상장유예이의신청서.hwp"
@@ -654,9 +664,9 @@ attachments:
     size: 39936
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 642
-    converted_non_space_chars: 460
-    table_row_count: 2
+    converted_text_chars: 688
+    converted_non_space_chars: 573
+    table_row_count: 1
   - id: "210195274-210190323-hwp"
     title: "[별지 제25호 서식] 변경·추가상장신청서<개정 2022.9.27,2026. 3. 16.>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_변경·추가상장신청서.hwp"
@@ -670,8 +680,8 @@ attachments:
     size: 46592
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 988
-    converted_non_space_chars: 847
+    converted_text_chars: 2172
+    converted_non_space_chars: 1538
     table_row_count: 2
   - id: "210195274-202407120000022430000112042-byl-hwp"
     title: "[별지 제26호 서식] 상장법인 인수 관련 확인서"
@@ -686,9 +696,9 @@ attachments:
     size: 45568
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1018
-    converted_non_space_chars: 795
-    table_row_count: 2
+    converted_text_chars: 1711
+    converted_non_space_chars: 1150
+    table_row_count: 1
     formula_hint_count: 1
   - id: "210195274-202407120000022430000112043-byl-hwp"
     title: "[별지 제27호 서식] 최대주주(법인)의 매출액 확인서"
@@ -703,8 +713,8 @@ attachments:
     size: 25600
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 292
-    converted_non_space_chars: 175
+    converted_text_chars: 301
+    converted_non_space_chars: 254
     table_row_count: 1
   - id: "210195274-202407120000022430000112044-byl-hwp"
     title: "[별지 제28호 서식] 상장폐지 이의신청서"
@@ -719,9 +729,9 @@ attachments:
     size: 39424
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 631
-    converted_non_space_chars: 449
-    table_row_count: 2
+    converted_text_chars: 676
+    converted_non_space_chars: 562
+    table_row_count: 1
   - id: "210195274-210091249-hwp"
     title: "[별지 제29호 서식] 연구개발 우수기업 확인서<개정 2025. 7. 9.>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_연구개발·시장평가우수기업확인서.hwp"
@@ -735,9 +745,9 @@ attachments:
     size: 42496
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 718
-    converted_non_space_chars: 507
-    table_row_count: 3
+    converted_text_chars: 743
+    converted_non_space_chars: 606
+    table_row_count: 1
     formula_hint_count: 1
   - id: "210195274-202407120000022430000112046-byl-hwp"
     title: "[별지 제30호 서식] 주주명부요약표"
@@ -752,9 +762,9 @@ attachments:
     size: 52224
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1008
-    converted_non_space_chars: 813
-    table_row_count: 4
+    converted_text_chars: 3802
+    converted_non_space_chars: 2379
+    table_row_count: 1
   - id: "210195274-202407120000022430000112047-byl-hwp"
     title: "[별지 제31호 서식] 계속기업 불확실성 사유해소 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_계속기업불확실성사유해소확인서.hwp"
@@ -768,8 +778,8 @@ attachments:
     size: 35328
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 510
-    converted_non_space_chars: 360
+    converted_text_chars: 534
+    converted_non_space_chars: 435
     table_row_count: 1
     formula_hint_count: 2
   - id: "210195274-210091277-hwp"
@@ -785,8 +795,8 @@ attachments:
     size: 38400
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 598
-    converted_non_space_chars: 439
+    converted_text_chars: 637
+    converted_non_space_chars: 514
     table_row_count: 1
     formula_hint_count: 2
   - id: "210195274-202407120000022430000112048-byl-hwp"
@@ -802,9 +812,9 @@ attachments:
     size: 45056
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1016
-    converted_non_space_chars: 785
-    table_row_count: 4
+    converted_text_chars: 1602
+    converted_non_space_chars: 1039
+    table_row_count: 1
   - id: "210195274-202407120000022430000112049-byl-hwp"
     title: "[별지 제33호 서식] 관리종목 지정 예외사유 해당 여부 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_관리종목지정예외사유해당여부확인서.hwp"
@@ -818,9 +828,9 @@ attachments:
     size: 48128
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1017
-    converted_non_space_chars: 756
-    table_row_count: 2
+    converted_text_chars: 1748
+    converted_non_space_chars: 1179
+    table_row_count: 1
   - id: "210195274-202407120000022430000112050-byl-hwp"
     title: "[별지 제34호 서식] 내부회계관리제도 운영보고서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_내부회계관리제도운영보고서.hwp"
@@ -834,9 +844,10 @@ attachments:
     size: 46592
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1021
-    converted_non_space_chars: 513
-    table_row_count: 3
+    converted_text_chars: 3274
+    converted_non_space_chars: 1988
+    table_row_count: 1
+    formula_hint_count: 9
   - id: "210195274-202407120000022430000112051-byl-hwp"
     title: "[별지 제35호 서식] 외부감사인 확인서한"
     file_name: "코스닥시장 상장규정 시행세칙_98차_외부감사인확인서한.hwp"
@@ -850,8 +861,8 @@ attachments:
     size: 56320
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1023
-    converted_non_space_chars: 773
+    converted_text_chars: 3587
+    converted_non_space_chars: 2633
     table_row_count: 1
   - id: "210195274-202407120000022430000112052-byl-hwp"
     title: "[별지 제36호 서식] 외국기업 대표이사 의무이행 확약서"
@@ -866,8 +877,8 @@ attachments:
     size: 45568
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 778
-    converted_non_space_chars: 555
+    converted_text_chars: 792
+    converted_non_space_chars: 630
     table_row_count: 1
   - id: "210195274-202407120000022430000112053-byl-hwp"
     title: "[별지 제37호 서식] 합병 대상 법인과의 합병 관련 확인서"
@@ -882,9 +893,9 @@ attachments:
     size: 36352
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1018
-    converted_non_space_chars: 761
-    table_row_count: 2
+    converted_text_chars: 1597
+    converted_non_space_chars: 1105
+    table_row_count: 1
   - id: "210195274-202407120000022430000112054-byl-hwp"
     title: "[별지 제38호 서식] 신주인수권증권 상장신청서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_신주인수권증권상장신청서.hwp"
@@ -898,9 +909,9 @@ attachments:
     size: 36864
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 911
-    converted_non_space_chars: 704
-    table_row_count: 2
+    converted_text_chars: 868
+    converted_non_space_chars: 777
+    table_row_count: 1
   - id: "210195274-202407120000022430000112055-byl-hwp"
     title: "[별지 제39호 서식] 신주인수권증서 상장신청서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_신주인수권증서상장신청서.hwp"
@@ -914,9 +925,9 @@ attachments:
     size: 38912
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 663
-    converted_non_space_chars: 480
-    table_row_count: 2
+    converted_text_chars: 649
+    converted_non_space_chars: 553
+    table_row_count: 1
   - id: "210195274-202407120000022430000112056-byl-hwp"
     title: "[별지 제40호 서식] 코스닥시장 상장법인 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_코스닥시장상장법인확인서.hwp"
@@ -930,9 +941,9 @@ attachments:
     size: 31744
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 471
-    converted_non_space_chars: 290
-    table_row_count: 2
+    converted_text_chars: 459
+    converted_non_space_chars: 373
+    table_row_count: 1
   - id: "210195274-202407120000022430000112057-byl-hwp"
     title: "[별지 제41호 서식] 상장명세서"
     file_name: "코스닥시장 상장규정 시행세칙_98차_상장명세서.hwp"
@@ -946,9 +957,9 @@ attachments:
     size: 38912
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1013
-    converted_non_space_chars: 630
-    table_row_count: 8
+    converted_text_chars: 2378
+    converted_non_space_chars: 1400
+    table_row_count: 1
   - id: "210195274-202407120000022430000112058-byl-hwp"
     title: "[별지 제42호 서식] 리픽싱조건부 금융상품 관련 평가손실 확인서<신설 2022.12.9>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_리픽싱조건부금융상품관련평가손실확인서.hwp"
@@ -962,9 +973,9 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 761
-    converted_non_space_chars: 551
-    table_row_count: 2
+    converted_text_chars: 768
+    converted_non_space_chars: 638
+    table_row_count: 1
   - id: "210195274-210090659-hwp"
     title: "[별지 제43호 서식] 금융상품 관련 평가손실 확인서<신설 2025. 7. 9.>"
     file_name: "코스닥시장 상장규정 시행세칙_98차_[별지 제43호 서식] 금융상품 관련 평가손실 확인서.hwp"
@@ -978,9 +989,9 @@ attachments:
     size: 39936
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 682
-    converted_non_space_chars: 482
-    table_row_count: 2
+    converted_text_chars: 686
+    converted_non_space_chars: 565
+    table_row_count: 1
 ---
 
 제1장 총 칙

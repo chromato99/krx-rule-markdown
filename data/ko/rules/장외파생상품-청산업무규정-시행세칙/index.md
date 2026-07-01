@@ -23,9 +23,9 @@ attachments:
     size: 53248
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 7671
-    converted_non_space_chars: 6300
-    table_row_count: 1
+    converted_text_chars: 12544
+    converted_non_space_chars: 10255
+    table_row_count: 27
     formula_hint_count: 65
   - id: "210215757-210215841-hwp"
     title: "[별표 1의2] 정산금리의 산출<개정 2017.3.17, 2017.12.18, 2019.9.20, 2023.06.26, 2023.09.26,2025. 10. 23.,2026. 5. 28.>"
@@ -40,8 +40,9 @@ attachments:
     size: 109056
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1011
-    converted_non_space_chars: 794
+    converted_text_chars: 2906
+    converted_non_space_chars: 2280
+    table_row_count: 13
   - id: "210215757-210136622-hwp"
     title: "[별표 2] 순현재가치의 평가<개정 2016.12.16, 2021.1.22, 2023.06.26,2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_순현재가치의평가.hwp"
@@ -55,10 +56,10 @@ attachments:
     size: 82944
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 38448
-    converted_non_space_chars: 31878
-    table_row_count: 2
-    formula_hint_count: 442
+    converted_text_chars: 64134
+    converted_non_space_chars: 52735
+    table_row_count: 18
+    formula_hint_count: 459
   - id: "210215757-210136686-hwp"
     title: "[별표 4] 유동성위험증거금률 및 총가치변동증거금률<개정 2016.12.16,2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_유동성위험증거금률및총가치변동증거금률.hwp"
@@ -72,8 +73,9 @@ attachments:
     size: 55808
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2171
-    converted_non_space_chars: 1831
+    converted_text_chars: 11018
+    converted_non_space_chars: 7825
+    table_row_count: 62
     formula_hint_count: 10
   - id: "210215757-210136751-hwp"
     title: "[별표5] 순위험청산증거금의 산출<개정 2016.12.16, 2023.06.26, 2024.9.26,2025. 10. 23.>"
@@ -88,10 +90,10 @@ attachments:
     size: 48128
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 6175
-    converted_non_space_chars: 5007
+    converted_text_chars: 8919
+    converted_non_space_chars: 7352
     table_row_count: 1
-    formula_hint_count: 52
+    formula_hint_count: 55
   - id: "210215757-202409260000022520000225007-byl-hwp"
     title: "[별표6] 유동성위험증거금의 산출<개정 2016.12.16>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_유동성위험증거금의산출.hwp"
@@ -105,9 +107,9 @@ attachments:
     size: 13312
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1169
-    converted_non_space_chars: 948
-    formula_hint_count: 10
+    converted_text_chars: 1427
+    converted_non_space_chars: 1175
+    formula_hint_count: 11
   - id: "210215757-210136777-hwp"
     title: "[별표7] 총가치변동증거금액의 산출<개정 2016.12.16, 2022.6.7, 2023.7.14,2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_총가치변동증거금액의산출.hwp"
@@ -121,10 +123,10 @@ attachments:
     size: 50688
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1775
-    converted_non_space_chars: 1443
-    table_row_count: 2
-    formula_hint_count: 12
+    converted_text_chars: 2047
+    converted_non_space_chars: 1685
+    table_row_count: 3
+    formula_hint_count: 13
   - id: "210215757-210136795-hwp"
     title: "[별표8] 변동금리 산출 중단 시 비상계획<신설 2023.09.26,개정 2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_기준CD금리산출중단시비상계획.hwp"
@@ -138,8 +140,8 @@ attachments:
     size: 44032
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 994
-    converted_non_space_chars: 751
+    converted_text_chars: 3608
+    converted_non_space_chars: 2848
   - id: "210215757-210136786-hwp"
     title: "[별지 제1호 서식] 청산회원 가입신청서<개정 2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_청산회원가입신청서.hwp"
@@ -153,9 +155,10 @@ attachments:
     size: 43520
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1021
-    converted_non_space_chars: 645
+    converted_text_chars: 1801
+    converted_non_space_chars: 1351
     table_row_count: 3
+    formula_hint_count: 2
   - id: "210215757-202409260000022520000225011-byl-hwp"
     title: "[별지 제1호의2 서식] 외국 금융투자업자등의 청산참가확인서<신설 2016.12.16>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_외국금융투자업자등의청산참가확인서.hwp"
@@ -169,9 +172,9 @@ attachments:
     size: 17408
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1003
-    converted_non_space_chars: 672
-    table_row_count: 3
+    converted_text_chars: 2117
+    converted_non_space_chars: 1552
+    table_row_count: 17
     formula_hint_count: 6
   - id: "210215757-202409260000022520000225012-byl-hwp"
     title: "[별지 제2호 서식] 채무이행보증서"
@@ -186,8 +189,8 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 973
-    converted_non_space_chars: 735
+    converted_text_chars: 940
+    converted_non_space_chars: 747
     formula_hint_count: 6
   - id: "210215757-202409260000022520000225013-byl-hwp"
     title: "[별지 제3호 서식] 채무이행확약서"
@@ -202,8 +205,8 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 966
-    converted_non_space_chars: 711
+    converted_text_chars: 924
+    converted_non_space_chars: 723
     formula_hint_count: 6
   - id: "210215757-202409260000022520000225014-byl-hwp"
     title: "[별지 제4호 서식] 청산회원 탈퇴신청서"
@@ -218,8 +221,8 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 553
-    converted_non_space_chars: 322
+    converted_text_chars: 545
+    converted_non_space_chars: 433
     table_row_count: 3
   - id: "210215757-202409260000022520000225015-byl-hwp"
     title: "[별지 제5호 서식] 청산회원 전환신청서"
@@ -234,8 +237,8 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 688
-    converted_non_space_chars: 406
+    converted_text_chars: 684
+    converted_non_space_chars: 545
     table_row_count: 3
   - id: "210215757-202409260000022520000225016-byl-hwp"
     title: "[별지 제6호 서식] 청산계좌개설신청서<개정 2016.12.16>"
@@ -250,9 +253,9 @@ attachments:
     size: 17408
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 966
-    converted_non_space_chars: 576
-    table_row_count: 6
+    converted_text_chars: 1764
+    converted_non_space_chars: 1293
+    table_row_count: 22
   - id: "210215757-202409260000022520000225017-byl-hwp"
     title: "[별지 제7호 서식] 서약서"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_서약서.hwp"
@@ -266,7 +269,7 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 871
+    converted_text_chars: 684
     converted_non_space_chars: 523
     formula_hint_count: 6
   - id: "210215757-202409260000022520000225018-byl-hwp"
@@ -282,9 +285,9 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 531
-    converted_non_space_chars: 353
-    table_row_count: 3
+    converted_text_chars: 923
+    converted_non_space_chars: 650
+    table_row_count: 12
   - id: "210215757-202409260000022520000225019-byl-hwp"
     title: "[별지 제9호 서식] 청산증거금 현금 예탁신고(인출청구)서<개정 2016.12.16>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_청산증거금현금예탁신고(인출청구)서.hwp"
@@ -298,9 +301,9 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 595
-    converted_non_space_chars: 410
-    table_row_count: 3
+    converted_text_chars: 990
+    converted_non_space_chars: 707
+    table_row_count: 12
   - id: "210215757-202409260000022520000225021-byl-hwp"
     title: "[별지 제11호 서식] 청산증거금 대용증권 예탁신고(인출청구)서<개정 2016.12.16>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_청산증거금대용증권예탁신고(인출청구)서.hwp"
@@ -314,9 +317,9 @@ attachments:
     size: 17920
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 996
-    converted_non_space_chars: 741
-    table_row_count: 3
+    converted_text_chars: 2129
+    converted_non_space_chars: 1539
+    table_row_count: 19
   - id: "210215757-202409260000022520000225022-byl-hwp"
     title: "[별지 제12호 서식] 청산증거금 외화증권 예탁신고(인출청구)서<개정 2016.12.16>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_청산증거금외화증권예탁신고(인출청구)서.hwp"
@@ -330,9 +333,9 @@ attachments:
     size: 16384
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 797
-    converted_non_space_chars: 562
-    table_row_count: 2
+    converted_text_chars: 1254
+    converted_non_space_chars: 915
+    table_row_count: 11
 ---
 
 제1장 총칙

@@ -23,8 +23,9 @@ attachments:
     size: 38912
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1007
-    converted_non_space_chars: 773
+    converted_text_chars: 1657
+    converted_non_space_chars: 1252
+    table_row_count: 4
   - id: "210204739-202307200000021430000003002-byl-hwp"
     title: "[별지 제1호 서식] 회원가입 신청서<개정 2009.2.2, 2011.12.22, 2014.11.14, 2015.9.25, 2020.8.3, 2023.7.20>"
     file_name: "회원관리규정 시행세칙_21차_회원가입신청서.hwp"
@@ -38,8 +39,8 @@ attachments:
     size: 19968
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1020
-    converted_non_space_chars: 619
+    converted_text_chars: 1196
+    converted_non_space_chars: 970
     table_row_count: 3
   - id: "210204739-202307200000021430000003003-byl-hwp"
     title: "[별지 제2호 서식] 회원탈퇴 신청서<개정 2009.2.2, 2015.9.25, 2020.8.3, 2023.7.20>"
@@ -54,8 +55,8 @@ attachments:
     size: 66048
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 815
-    converted_non_space_chars: 460
+    converted_text_chars: 753
+    converted_non_space_chars: 603
     table_row_count: 3
   - id: "210204739-202307200000021430000003004-byl-hwp"
     title: "[별지 제3호 서식] 회원전환 신청서<개정 2009.2.2, 2015.9.25, 2020.8.3>"
@@ -70,8 +71,8 @@ attachments:
     size: 62464
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 669
-    converted_non_space_chars: 377
+    converted_text_chars: 654
+    converted_non_space_chars: 520
     table_row_count: 3
 ---
 

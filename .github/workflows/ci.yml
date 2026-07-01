@@ -45,6 +45,7 @@ jobs:
           신규상장 심사와 공시 의무에 관한 샘플 규정입니다.
           EOF
           krx-rule-markdown --help
+          krx-rule-markdown reconvert --data-dir "$KRX_DATA_DIR" --dry-run
           krx-rule-markdown validate --data-dir "$KRX_DATA_DIR" --quality
           krx-rule-markdown quality --data-dir "$KRX_DATA_DIR" --output "$RUNNER_TEMP/data-quality.json" --fail-on error
           krx-rule-markdown clean --data-dir "$KRX_DATA_DIR" --drop-past-rule-attachments --prune-unreferenced-attachments --dry-run

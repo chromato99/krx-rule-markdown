@@ -23,9 +23,9 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 510
-    converted_non_space_chars: 385
-    table_row_count: 1
+    converted_text_chars: 918
+    converted_non_space_chars: 687
+    table_row_count: 4
 ---
 
 **제1조(목적)**이 기준은「코스닥시장 상장규정 시행세칙」(이하 "세칙"이라 한다) 제43조제9항에 따라 한국거래소(이하 "거래소"라 한다)가 코스닥시장 상장법인의 소속부 지정 및 변경에 있어 필요한 사항을 규정함을 목적으로 한다.<개정 2021. 10. 29.>

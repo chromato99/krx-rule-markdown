@@ -23,8 +23,9 @@ attachments:
     size: 43520
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 990
-    converted_non_space_chars: 662
+    converted_text_chars: 2568
+    converted_non_space_chars: 1891
+    table_row_count: 11
   - id: "204847757-202410150000022550000233002-byl-hwp"
     title: "[별지 제1호 서식] 공정거래질서저해우려 풍문 또는 이상거래 징후·현상 보고"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_공정거래질서저해우려풍문또는이상거래징후·현상보고.hwp"
@@ -38,9 +39,9 @@ attachments:
     size: 32768
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 304
-    converted_non_space_chars: 218
-    table_row_count: 1
+    converted_text_chars: 301
+    converted_non_space_chars: 223
+    table_row_count: 2
   - id: "204847757-202410150000022550000233003-byl-hwp"
     title: "[별지 제2호 서식] 민원·분쟁현황 및 처리결과 보고"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_민원·분쟁현황및처리결과보고.hwp"
@@ -54,8 +55,8 @@ attachments:
     size: 41984
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 560
-    converted_non_space_chars: 443
+    converted_text_chars: 523
+    converted_non_space_chars: 405
     table_row_count: 1
   - id: "204847757-202410150000022550000233004-byl-hwp"
     title: "[별지 제3호 서식] 심리·감리 회피신청서"
@@ -70,9 +71,9 @@ attachments:
     size: 30720
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 288
-    converted_non_space_chars: 201
-    table_row_count: 1
+    converted_text_chars: 559
+    converted_non_space_chars: 402
+    table_row_count: 5
   - id: "204847757-202410150000022550000233005-byl-hwp"
     title: "[별지 제4호 서식] 위탁자 기본정보 현황"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_위탁자기본정보현황.hwp"
@@ -86,8 +87,8 @@ attachments:
     size: 44544
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 825
-    converted_non_space_chars: 713
+    converted_text_chars: 704
+    converted_non_space_chars: 549
     table_row_count: 1
   - id: "204847757-202410150000022550000233006-byl-hwp"
     title: "[별지 제5호 서식] 출석요청서"
@@ -102,8 +103,8 @@ attachments:
     size: 36352
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 427
-    converted_non_space_chars: 301
+    converted_text_chars: 466
+    converted_non_space_chars: 368
     table_row_count: 1
   - id: "204847757-202410150000022550000233007-byl-hwp"
     title: "[별지 제6호 서식] 확인서"
@@ -118,9 +119,9 @@ attachments:
     size: 28160
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 315
-    converted_non_space_chars: 274
-    table_row_count: 2
+    converted_text_chars: 559
+    converted_non_space_chars: 397
+    table_row_count: 8
   - id: "204847757-202410150000022550000233008-byl-hwp"
     title: "[별지 제7호 서식] 문답서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_문답서.hwp"
@@ -134,9 +135,9 @@ attachments:
     size: 33792
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 621
-    converted_non_space_chars: 304
-    table_row_count: 3
+    converted_text_chars: 982
+    converted_non_space_chars: 702
+    table_row_count: 11
   - id: "204847757-202410150000022550000233009-byl-hwp"
     title: "[별지 제8호 서식] 질문서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_질문서.hwp"
@@ -150,9 +151,9 @@ attachments:
     size: 18432
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 336
-    converted_non_space_chars: 171
-    table_row_count: 2
+    converted_text_chars: 531
+    converted_non_space_chars: 380
+    table_row_count: 6
   - id: "204847757-202410150000022550000233010-byl-hwp"
     title: "[별지 제9호 서식] 감리명령서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_감리명령서.hwp"
@@ -166,8 +167,8 @@ attachments:
     size: 27136
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 252
-    converted_non_space_chars: 147
+    converted_text_chars: 282
+    converted_non_space_chars: 218
     table_row_count: 1
   - id: "204847757-202410150000022550000233011-byl-hwp"
     title: "[별지 제10호 서식] 감리증"
@@ -182,9 +183,9 @@ attachments:
     size: 37888
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 455
-    converted_non_space_chars: 319
-    table_row_count: 2
+    converted_text_chars: 621
+    converted_non_space_chars: 475
+    table_row_count: 4
     formula_hint_count: 1
   - id: "204847757-202410150000022550000233012-byl-hwp"
     title: "[별지 제11호 서식] 현지조치사항"
@@ -199,9 +200,9 @@ attachments:
     size: 31232
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 310
-    converted_non_space_chars: 151
-    table_row_count: 2
+    converted_text_chars: 283
+    converted_non_space_chars: 228
+    table_row_count: 1
   - id: "204847757-202410150000022550000233013-byl-hwp"
     title: "[별지 제12호 서식] 회원제재금 부과통지서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_회원제재금부과통지서.hwp"
@@ -215,9 +216,8 @@ attachments:
     size: 36352
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 579
+    converted_text_chars: 496
     converted_non_space_chars: 362
-    table_row_count: 2
     formula_hint_count: 3
   - id: "204847757-202410150000022550000233014-byl-hwp"
     title: "[별지 제13호 서식] 서면의견진술서"
@@ -232,9 +232,9 @@ attachments:
     size: 28160
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 358
-    converted_non_space_chars: 190
-    table_row_count: 1
+    converted_text_chars: 454
+    converted_non_space_chars: 335
+    table_row_count: 4
   - id: "204847757-202410150000022550000233015-byl-hwp"
     title: "[별지 제14호 서식] 약식제재금 부과통지서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_약식제재금부과통지서.hwp"
@@ -248,9 +248,8 @@ attachments:
     size: 34816
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 545
+    converted_text_chars: 456
     converted_non_space_chars: 332
-    table_row_count: 2
     formula_hint_count: 2
   - id: "204847757-202410150000022550000233016-byl-hwp"
     title: "[별지 제15호 서식] KRX금시장 분쟁조정신청서"
@@ -265,9 +264,9 @@ attachments:
     size: 34816
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 407
-    converted_non_space_chars: 246
-    table_row_count: 1
+    converted_text_chars: 763
+    converted_non_space_chars: 569
+    table_row_count: 7
   - id: "204847757-202410150000022550000233017-byl-hwp"
     title: "[별지 제16호 서식] KRX금시장 조정신청조서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_KRX금시장조정신청조서.hwp"
@@ -281,9 +280,9 @@ attachments:
     size: 35328
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 440
-    converted_non_space_chars: 260
-    table_row_count: 2
+    converted_text_chars: 824
+    converted_non_space_chars: 614
+    table_row_count: 8
   - id: "204847757-202410150000022550000233018-byl-hwp"
     title: "[별지 제17호 서식] 위임장"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_위임장.hwp"
@@ -297,9 +296,8 @@ attachments:
     size: 29696
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 557
+    converted_text_chars: 320
     converted_non_space_chars: 229
-    table_row_count: 4
   - id: "204847757-202410150000022550000233019-byl-hwp"
     title: "[별지 제18호 서식] KRX금시장 분쟁조정신청취하서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_KRX금시장분쟁조정신청취하서.hwp"
@@ -313,9 +311,9 @@ attachments:
     size: 33792
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 300
-    converted_non_space_chars: 219
-    table_row_count: 1
+    converted_text_chars: 767
+    converted_non_space_chars: 573
+    table_row_count: 8
   - id: "204847757-202410150000022550000233020-byl-hwp"
     title: "[별지 제19호 서식] 제척·기피 신청서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_제척·기피신청서.hwp"
@@ -329,9 +327,9 @@ attachments:
     size: 30208
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 372
-    converted_non_space_chars: 177
-    table_row_count: 2
+    converted_text_chars: 725
+    converted_non_space_chars: 535
+    table_row_count: 8
   - id: "204847757-202410150000022550000233021-byl-hwp"
     title: "[별지 제20호 서식] 제척사유 부존재 확인서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_제척사유부존재확인서.hwp"
@@ -345,9 +343,9 @@ attachments:
     size: 30208
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 338
-    converted_non_space_chars: 200
-    table_row_count: 3
+    converted_text_chars: 566
+    converted_non_space_chars: 429
+    table_row_count: 7
   - id: "204847757-202410150000022550000233022-byl-hwp"
     title: "[별지 제21호 서식] 회피신청서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_회피신청서.hwp"
@@ -361,9 +359,9 @@ attachments:
     size: 28160
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 288
-    converted_non_space_chars: 151
-    table_row_count: 3
+    converted_text_chars: 564
+    converted_non_space_chars: 414
+    table_row_count: 8
   - id: "204847757-202410150000022550000233023-byl-hwp"
     title: "[별지 제22호 서식] 조정결정서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_조정결정서.hwp"
@@ -377,9 +375,8 @@ attachments:
     size: 34816
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 744
-    converted_non_space_chars: 362
-    table_row_count: 5
+    converted_text_chars: 471
+    converted_non_space_chars: 335
   - id: "204847757-202410150000022550000233024-byl-hwp"
     title: "[별지 제23호 서식] 각하결정서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_각하결정서.hwp"
@@ -393,9 +390,8 @@ attachments:
     size: 24576
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 478
-    converted_non_space_chars: 150
-    table_row_count: 5
+    converted_text_chars: 193
+    converted_non_space_chars: 123
   - id: "204847757-202410150000022550000233025-byl-hwp"
     title: "[별지 제24호 서식] 조정결정수락서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_조정결정수락서.hwp"
@@ -409,7 +405,7 @@ attachments:
     size: 25088
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 372
+    converted_text_chars: 216
     converted_non_space_chars: 156
   - id: "204847757-202410150000022550000233026-byl-hwp"
     title: "[별지 제25호 서식] 조정서"
@@ -424,7 +420,7 @@ attachments:
     size: 22528
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 278
+    converted_text_chars: 175
     converted_non_space_chars: 121
 ---
 

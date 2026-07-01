@@ -23,9 +23,9 @@ attachments:
     size: 47616
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1020
-    converted_non_space_chars: 780
-    table_row_count: 2
+    converted_text_chars: 3760
+    converted_non_space_chars: 2659
+    table_row_count: 1
   - id: "210183517-202411140000022710000216002-byl-hwp"
     title: "[공시서식 1] 이의신청서"
     file_name: "코넥스시장 공시규정 시행세칙_19차_이의신청서.hwp"
@@ -39,8 +39,8 @@ attachments:
     size: 13312
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 343
-    converted_non_space_chars: 223
+    converted_text_chars: 381
+    converted_non_space_chars: 302
     table_row_count: 1
   - id: "210183517-202411140000022710000216003-byl-hwp"
     title: "[공시서식 2] 코넥스시장 상장법인 공시책임자 등 (신규·변경) 신고서<개정 2015.7.24>"
@@ -55,9 +55,9 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 434
-    converted_non_space_chars: 292
-    table_row_count: 2
+    converted_text_chars: 454
+    converted_non_space_chars: 381
+    table_row_count: 1
   - id: "210183517-202411140000022710000216004-byl-hwp"
     title: "[공시서식 3] 코넥스시장 상장법인 공시책임자 직무수행 승낙 확인서"
     file_name: "코넥스시장 공시규정 시행세칙_19차_코넥스시장상장법인공시책임자직무수행승낙확인서.hwp"
@@ -71,8 +71,8 @@ attachments:
     size: 12800
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 353
-    converted_non_space_chars: 220
+    converted_text_chars: 347
+    converted_non_space_chars: 275
     table_row_count: 1
   - id: "210183517-202411140000022710000216005-byl-hwp"
     title: "[공시서식 4] 코넥스시장 상장법인 공시책임자에 대한 공시권한 위임장<신설 2016.12.30>"
@@ -87,8 +87,8 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 549
-    converted_non_space_chars: 274
+    converted_text_chars: 424
+    converted_non_space_chars: 337
     table_row_count: 1
 ---
 

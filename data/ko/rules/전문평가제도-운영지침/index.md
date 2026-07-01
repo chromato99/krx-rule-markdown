@@ -23,9 +23,9 @@ attachments:
     size: 37376
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 363
-    converted_non_space_chars: 306
-    table_row_count: 2
+    converted_text_chars: 1119
+    converted_non_space_chars: 807
+    table_row_count: 19
   - id: "210203237-202312280000008630000123002-byl-hwp"
     title: "[별표 2] 전문평가의 평가등급 체계 및 등급별 정의"
     file_name: "전문평가제도 운영지침_24차_전문평가의평가등급체계및등급별정의.hwp"
@@ -39,8 +39,9 @@ attachments:
     size: 50688
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 764
-    converted_non_space_chars: 584
+    converted_text_chars: 799
+    converted_non_space_chars: 582
+    table_row_count: 12
   - id: "210203237-210205190-hwp"
     title: "[별지 제1호 서식] 기술평가신청서<개정 2026. 5. 19.>"
     file_name: "전문평가제도 운영지침_24차_기술평가신청서.hwp"
@@ -54,8 +55,9 @@ attachments:
     size: 51200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 995
-    converted_non_space_chars: 790
+    converted_text_chars: 3670
+    converted_non_space_chars: 2711
+    table_row_count: 29
     formula_hint_count: 1
   - id: "210203237-202312280000008630000123004-byl-hwp"
     title: "[별지 제2호 서식] 평가신청기업 서약서"
@@ -70,9 +72,8 @@ attachments:
     size: 41472
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 802
-    converted_non_space_chars: 545
-    table_row_count: 5
+    converted_text_chars: 744
+    converted_non_space_chars: 555
   - id: "210203237-210205337-hwp"
     title: "[별지 제3호 서식] 평가인력 현황표<개정 2026. 5. 19.>"
     file_name: "전문평가제도 운영지침_24차_평가인력현황표.hwp"
@@ -86,8 +87,9 @@ attachments:
     size: 32768
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 271
-    converted_non_space_chars: 175
+    converted_text_chars: 243
+    converted_non_space_chars: 183
+    table_row_count: 1
   - id: "210203237-210205359-hwp"
     title: "[별지 제4호 서식] 전문평가기관 서약서<개정 2026. 5. 19.>"
     file_name: "전문평가제도 운영지침_24차_전문평가기관서약서.hwp"
@@ -101,9 +103,8 @@ attachments:
     size: 42496
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 782
-    converted_non_space_chars: 565
-    table_row_count: 3
+    converted_text_chars: 758
+    converted_non_space_chars: 570
   - id: "210203237-202312280000008630000123007-byl-hwp"
     title: "[별지 제5호 서식] 이해관계 부존재 확인서"
     file_name: "전문평가제도 운영지침_24차_이해관계부존재확인서.hwp"
@@ -117,9 +118,9 @@ attachments:
     size: 50688
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1012
-    converted_non_space_chars: 716
-    table_row_count: 4
+    converted_text_chars: 1627
+    converted_non_space_chars: 1225
+    table_row_count: 9
 ---
 
 제1장 총칙

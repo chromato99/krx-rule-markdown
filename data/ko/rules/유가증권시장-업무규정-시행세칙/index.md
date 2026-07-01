@@ -23,9 +23,10 @@ attachments:
     size: 58368
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1004
-    converted_non_space_chars: 788
-    formula_hint_count: 1
+    converted_text_chars: 4856
+    converted_non_space_chars: 3761
+    table_row_count: 3
+    formula_hint_count: 10
   - id: "210203562-202410290000022560000111003-byl-hwp"
     title: "[별표 1의2] 호가수량한도 산정을 위한 해당거래일 기준가격 산정기준<신설 2018.9.13>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_호가수량한도산정을위한해당거래일기준가격산정기준.hwp"
@@ -54,9 +55,9 @@ attachments:
     size: 40960
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 646
-    converted_non_space_chars: 504
-    table_row_count: 2
+    converted_text_chars: 1062
+    converted_non_space_chars: 825
+    table_row_count: 8
   - id: "210203562-210032783-hwp"
     title: "[별표 1의4] 주권 및 외국주식예탁증권의 신규상장 시 기준가격<신설 2023.4.12, 개정 2023. 8. 8, 2025. 2. 27.>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_주권및외국주식예탁증권의신규상장시기준가격.hwp"
@@ -70,8 +71,9 @@ attachments:
     size: 56832
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1005
-    converted_non_space_chars: 766
+    converted_text_chars: 2700
+    converted_non_space_chars: 2089
+    table_row_count: 2
   - id: "210203562-202410290000022560000111006-byl-hwp"
     title: "[별표 2] 배당락 또는 권리락의 기준가격<개정 2005.8.26, 2009.8.3, 2012.4.20>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_배당락또는권리락의기준가격.hwp"
@@ -85,9 +87,10 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 999
-    converted_non_space_chars: 735
-    formula_hint_count: 12
+    converted_text_chars: 2578
+    converted_non_space_chars: 1971
+    table_row_count: 2
+    formula_hint_count: 22
   - id: "210203562-202410290000022560000111007-byl-hwp"
     title: "[별표 2의2] 유동성 평가 및 저유동성종목 선정기준 등<신설 2016.3.25, 2016.6.21, 2017.2.28, 2017.9.7, 2018.9.13, 2018.12.6, 2019.11.28, 2020.11.26, 2021.3.12, 2022.7.15>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_유동성평가및저유동성종목선정기준등.hwp"
@@ -101,8 +104,9 @@ attachments:
     size: 45568
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 994
-    converted_non_space_chars: 782
+    converted_text_chars: 2986
+    converted_non_space_chars: 2307
+    table_row_count: 15
     formula_hint_count: 3
   - id: "210203562-202410290000022560000111008-byl-hwp"
     title: "[별표 2의3] 시장조성자의 선정 및 종목 선택 기준<신설 2016.3.25, 2017.2.28, 2018.12.6, 2022.7.15>"
@@ -117,7 +121,7 @@ attachments:
     size: 32256
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 387
+    converted_text_chars: 381
     converted_non_space_chars: 291
   - id: "210203562-202410290000022560000111009-byl-hwp"
     title: "[별표 2의4] 시장조성자 평가 및 시장조성대가 지급기준 등<신설 2016.3.25, 2017.2.28, 2017.9.7, 2018.12.6, 2018.12.28, 2020.3.25, 2021.3.12, 2021.8.4>"
@@ -132,10 +136,10 @@ attachments:
     size: 52736
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 993
-    converted_non_space_chars: 740
-    table_row_count: 1
-    formula_hint_count: 1
+    converted_text_chars: 6114
+    converted_non_space_chars: 4560
+    table_row_count: 32
+    formula_hint_count: 6
   - id: "210203562-210145510-hwp"
     title: "[별표2의5] 소액채권전담회원 평가 <개정 2010.5.7, 2011.3.23, 2014.2.28, 2014.7.10, 2015.7.16, 2016.3.24, 2016.3.25, 2020.5.26, 2020.11.20., 2022.6.8., 2023.12.4><개정 2025. 11. 27.>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_소액채권전담회원지정을위한평가및지정방법(개정2010.5.7,2011.3.23,2014.2.28,2014.7.10,2015.7.16,2016.3.24,2016.3.25,2020.5.26,2020.11.20.,2022.6.8.,2023.12.4).hwp"
@@ -149,8 +153,9 @@ attachments:
     size: 46592
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1002
-    converted_non_space_chars: 815
+    converted_text_chars: 3226
+    converted_non_space_chars: 2441
+    table_row_count: 11
   - id: "210203562-202410290000022560000111001-byl-hwp"
     title: "[별표 2의6] 원금이자분리채권 조성호가 대상종목 지정방법<신설 2024.10.29>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_원금이자분리채권조성호가대상종목지정방법.hwp"
@@ -164,8 +169,8 @@ attachments:
     size: 50176
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1003
-    converted_non_space_chars: 785
+    converted_text_chars: 1073
+    converted_non_space_chars: 841
   - id: "210203562-202410290000022560000111011-byl-hwp"
     title: "[별표 3] 금융채<신설 2007.5.18, 2009.2.3>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_금융채.hwp"
@@ -194,8 +199,10 @@ attachments:
     size: 54784
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1004
-    converted_non_space_chars: 796
+    converted_text_chars: 4492
+    converted_non_space_chars: 3394
+    table_row_count: 24
+    formula_hint_count: 17
   - id: "210203562-202410290000022560000111019-byl-hwp"
     title: "[별지 제1호 서식] 당일결제거래 신청서<개정 2009.2.3, 2011.12.30>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_당일결제거래신청서.hwp"
@@ -209,8 +216,8 @@ attachments:
     size: 34816
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 573
-    converted_non_space_chars: 247
+    converted_text_chars: 446
+    converted_non_space_chars: 350
     table_row_count: 2
     formula_hint_count: 7
   - id: "210203562-202410290000022560000111020-byl-hwp"
@@ -226,9 +233,9 @@ attachments:
     size: 34304
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 423
-    converted_non_space_chars: 317
-    table_row_count: 2
+    converted_text_chars: 968
+    converted_non_space_chars: 692
+    table_row_count: 12
   - id: "210203562-202410290000022560000111021-byl-hwp"
     title: "[별지 제2호 서식] 호가집계표<개정 2005.8.26, 2009.2.3, 2020.7.23>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_호가집계표.hwp"
@@ -242,9 +249,9 @@ attachments:
     size: 36864
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 991
-    converted_non_space_chars: 711
-    table_row_count: 2
+    converted_text_chars: 1347
+    converted_non_space_chars: 986
+    table_row_count: 8
   - id: "210203562-210153110-hwp"
     title: "[별지 제2호의2 서식] 미결제현황 통지서<신설 2009.3.6, 2012.9.20,개정 2025. 12. 29.>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_미결제현황통지서.hwp"
@@ -258,8 +265,8 @@ attachments:
     size: 45568
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 756
-    converted_non_space_chars: 435
+    converted_text_chars: 744
+    converted_non_space_chars: 586
     table_row_count: 3
     formula_hint_count: 4
   - id: "210203562-202410290000022560000111023-byl-hwp"
@@ -275,9 +282,9 @@ attachments:
     size: 35328
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 546
-    converted_non_space_chars: 395
-    table_row_count: 2
+    converted_text_chars: 518
+    converted_non_space_chars: 398
+    table_row_count: 5
   - id: "210203562-202410290000022560000111024-byl-hwp"
     title: "[별지 제2호의4 서식] 시장조성계좌 신고서<신설 2016.3.25, 2017.9.7, 2021.3.12>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_시장조성계좌신고서.hwp"
@@ -291,9 +298,9 @@ attachments:
     size: 32768
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 385
-    converted_non_space_chars: 287
-    table_row_count: 3
+    converted_text_chars: 757
+    converted_non_space_chars: 548
+    table_row_count: 8
   - id: "210203562-202410290000022560000111025-byl-hwp"
     title: "[별지 제2호의5 서식] 시장조성담당자 지정(변경) 신고서<신설 2016.3.25, 2021.3.12>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_시장조성담당자지정(변경)신고서.hwp"
@@ -307,9 +314,9 @@ attachments:
     size: 28672
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 337
-    converted_non_space_chars: 236
-    table_row_count: 2
+    converted_text_chars: 586
+    converted_non_space_chars: 427
+    table_row_count: 5
   - id: "210203562-202410290000022560000111026-byl-hwp"
     title: "[별지 제2호의6 서식] 주식시장 시장조성표준계약서<신설 2016.3.25, 2017.2.28, 2017.9.7, 2021.3.12, 2021.5.7, 2022.7.15, 2022.8.4, 2022.12.22>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_주식시장시장조성표준계약서.hwp"
@@ -323,8 +330,9 @@ attachments:
     size: 59904
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1000
-    converted_non_space_chars: 782
+    converted_text_chars: 5803
+    converted_non_space_chars: 4491
+    table_row_count: 8
   - id: "210203562-202410290000022560000111027-byl-hwp"
     title: "[별지 제2호의7 서식] 시장조성계좌 보유수량 변동신고서<신설 2016.3.25, 2019.11.28>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_시장조성계좌보유수량변동신고서.hwp"
@@ -338,9 +346,9 @@ attachments:
     size: 38400
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 562
-    converted_non_space_chars: 372
-    table_row_count: 2
+    converted_text_chars: 889
+    converted_non_space_chars: 682
+    table_row_count: 4
   - id: "210203562-202410290000022560000111028-byl-hwp"
     title: "[별지 제2호의8 서식] 유동성공급계좌 신고서<신설 2021.7.20>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_유동성공급계좌신고서.hwp"
@@ -354,9 +362,9 @@ attachments:
     size: 40448
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 629
-    converted_non_space_chars: 478
-    table_row_count: 4
+    converted_text_chars: 1040
+    converted_non_space_chars: 780
+    table_row_count: 9
   - id: "210203562-202410290000022560000111029-byl-hwp"
     title: "[별지 제3호 서식] 착오매매정정신청서<개정 2009.2.3>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_착오매매정정신청서.hwp"
@@ -370,9 +378,9 @@ attachments:
     size: 24064
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 310
-    converted_non_space_chars: 153
-    table_row_count: 3
+    converted_text_chars: 232
+    converted_non_space_chars: 170
+    table_row_count: 1
     formula_hint_count: 4
   - id: "210203562-202410290000022560000111030-byl-hwp"
     title: "[별지 제4호 서식] 착오매매처리약정서<개정 2009.2.3>"
@@ -387,9 +395,10 @@ attachments:
     size: 56320
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1010
-    converted_non_space_chars: 803
-    formula_hint_count: 4
+    converted_text_chars: 5151
+    converted_non_space_chars: 3673
+    table_row_count: 45
+    formula_hint_count: 24
   - id: "210203562-202410290000022560000111031-byl-hwp"
     title: "[별지 제5호 서식] 대규모착오매매 구제 신청서<신설 2016.6.21, 2017.2.28>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_대규모착오매매구제신청서.hwp"
@@ -403,9 +412,9 @@ attachments:
     size: 27136
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 434
-    converted_non_space_chars: 320
-    table_row_count: 1
+    converted_text_chars: 457
+    converted_non_space_chars: 330
+    table_row_count: 4
   - id: "210203562-202410290000022560000111032-byl-hwp"
     title: "[별지 제5호의2 서식] 대규모착오매매 구제가격 조정신청서<신설 2016.6.21>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_대규모착오매매구제가격조정신청서.hwp"
@@ -419,9 +428,9 @@ attachments:
     size: 28160
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 409
-    converted_non_space_chars: 303
-    table_row_count: 1
+    converted_text_chars: 437
+    converted_non_space_chars: 311
+    table_row_count: 3
   - id: "210203562-202410290000022560000111033-byl-hwp"
     title: "[별지 제6호 서식] 유가증권시장상장법인 자기주식매매신청서<개정 2006.9.8, 2009.2.3>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_유가증권시장상장법인자기주식매매신청서.hwp"
@@ -435,9 +444,9 @@ attachments:
     size: 40448
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 605
-    converted_non_space_chars: 442
-    table_row_count: 3
+    converted_text_chars: 699
+    converted_non_space_chars: 549
+    table_row_count: 2
     formula_hint_count: 7
   - id: "210203562-202410290000022560000111034-byl-hwp"
     title: "[별지 제7호 서식] 소액채권전담회원 지정신청서<개정 2009.2.3>"
@@ -452,9 +461,8 @@ attachments:
     size: 27648
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 431
+    converted_text_chars: 351
     converted_non_space_chars: 276
-    table_row_count: 1
     formula_hint_count: 4
   - id: "210203562-202410290000022560000111035-byl-hwp"
     title: "[별지 제7호의2 서식] 차입공매도 호가 통보서<신설 2009.2.3>"
@@ -469,8 +477,8 @@ attachments:
     size: 29696
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 395
-    converted_non_space_chars: 257
+    converted_text_chars: 603
+    converted_non_space_chars: 458
     table_row_count: 2
   - id: "210203562-202410290000022560000111036-byl-hwp"
     title: "[별지 제7호의3 서식] 채권시장조성회원 지정신청서<개정 2009.12.31, 2014.2.28, 2015.7.16>"
@@ -485,9 +493,9 @@ attachments:
     size: 32256
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 537
-    converted_non_space_chars: 276
-    table_row_count: 1
+    converted_text_chars: 379
+    converted_non_space_chars: 282
+    table_row_count: 4
     formula_hint_count: 1
   - id: "210203562-202410290000022560000111037-byl-hwp"
     title: "[별지 제7호의4 서식] 채권시장조성거래원 지정 및 지정취소 신청서<신설 2015.7.16, 2024.5.23>"
@@ -502,9 +510,9 @@ attachments:
     size: 40448
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 696
-    converted_non_space_chars: 533
-    table_row_count: 1
+    converted_text_chars: 2549
+    converted_non_space_chars: 1717
+    table_row_count: 18
   - id: "210203562-202410290000022560000111038-byl-hwp"
     title: "[별지 제7호의5 서식] 호가일괄취소처리 적용계좌 신고서<신설 2024.5.23>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_호가일괄취소처리적용계좌신고서.hwp"
@@ -518,9 +526,9 @@ attachments:
     size: 31744
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 396
-    converted_non_space_chars: 281
-    table_row_count: 2
+    converted_text_chars: 916
+    converted_non_space_chars: 656
+    table_row_count: 12
   - id: "210203562-202410290000022560000111039-byl-hwp"
     title: "[별지 제7호의6 서식] 채권시장조성계좌 신고서<신설 2024.5.23>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_채권시장조성계좌신고서.hwp"
@@ -534,9 +542,9 @@ attachments:
     size: 31744
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 392
-    converted_non_space_chars: 281
-    table_row_count: 4
+    converted_text_chars: 893
+    converted_non_space_chars: 644
+    table_row_count: 11
   - id: "210203562-202410290000022560000111051-byl-hwp"
     title: "[별지 제20호 서식] 고속 알고리즘거래자 등록신청(신고)서<신설 2022.12.22>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_고속알고리즘거래자등록신청(신고)서.hwp"
@@ -550,9 +558,9 @@ attachments:
     size: 41984
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 642
-    converted_non_space_chars: 448
-    table_row_count: 2
+    converted_text_chars: 1385
+    converted_non_space_chars: 997
+    table_row_count: 17
   - id: "210203562-202410290000022560000111052-byl-hwp"
     title: "[별지 제21호 서식] 고속 알고리즘거래자 등록정보 점검 확인서 등<신설 2022.12.22>"
     file_name: "유가증권시장 업무규정 시행세칙_172차_고속알고리즘거래자등록정보점검확인서등.hwp"
@@ -566,9 +574,9 @@ attachments:
     size: 36864
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 992
-    converted_non_space_chars: 687
-    table_row_count: 1
+    converted_text_chars: 1904
+    converted_non_space_chars: 1381
+    table_row_count: 12
 ---
 
 제1장 총칙

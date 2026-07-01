@@ -23,9 +23,9 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 964
-    converted_non_space_chars: 637
-    table_row_count: 6
+    converted_text_chars: 852
+    converted_non_space_chars: 752
+    table_row_count: 2
   - id: "210025875-201902150000006310000083002-byl-hwp"
     title: "[별지 서식2] 장외파생공동기금 적립액증명서"
     file_name: "손해배상공동기금 관리지침_14차_장외파생공동기금적립액증명서.hwp"
@@ -39,9 +39,9 @@ attachments:
     size: 14848
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 906
-    converted_non_space_chars: 578
-    table_row_count: 6
+    converted_text_chars: 784
+    converted_non_space_chars: 681
+    table_row_count: 2
 ---
 
 제1장 총칙

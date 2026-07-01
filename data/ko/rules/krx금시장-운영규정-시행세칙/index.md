@@ -23,9 +23,9 @@ attachments:
     size: 896000
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 477
-    converted_non_space_chars: 350
-    table_row_count: 1
+    converted_text_chars: 645
+    converted_non_space_chars: 480
+    table_row_count: 4
   - id: "210188913-210188949-hwp"
     title: "[별표2] 금지금제련업자명 또는 상표명<개정 2017.7.25, 2018.12.21, 2021.11.9, 2022.12.22,2026. 3. 16.>"
     file_name: "KRX금시장 운영규정 시행세칙_29차_금지금제련업자명또는상표명.hwp"
@@ -39,9 +39,9 @@ attachments:
     size: 124416
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 998
-    converted_non_space_chars: 854
-    table_row_count: 2
+    converted_text_chars: 1914
+    converted_non_space_chars: 1482
+    table_row_count: 39
   - id: "210188913-210188976-hwp"
     title: "[별표3] 금지금 국내 운송업체명<개정 2023.08.30,2026. 3. 16.>"
     file_name: "KRX금시장 운영규정 시행세칙_29차_금지금국내운송업체명.hwp"
@@ -55,8 +55,9 @@ attachments:
     size: 30208
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 348
-    converted_non_space_chars: 294
+    converted_text_chars: 568
+    converted_non_space_chars: 445
+    table_row_count: 5
   - id: "210188913-210189008-hwp"
     title: "[별표 4] 국제금가격 <신설 2016.6.10, 개정 2024.6.25><개정 2026. 3. 16.>"
     file_name: "KRX금시장 운영규정 시행세칙_29차_국제금가격(신설2016.6.10,개정2024.6.25).hwp"
@@ -70,7 +71,7 @@ attachments:
     size: 27136
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 328
+    converted_text_chars: 276
     converted_non_space_chars: 229
   - id: "210188913-202406250000022380000232005-byl-hwp"
     title: "[별지 제1호 서식] KRX금시장 회원가입신청서"
@@ -85,8 +86,8 @@ attachments:
     size: 17408
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1018
-    converted_non_space_chars: 604
+    converted_text_chars: 1219
+    converted_non_space_chars: 992
     table_row_count: 3
   - id: "210188913-202406250000022380000232006-byl-hwp"
     title: "[별지 제2호 서식] KRX금시장 회원탈퇴신청서"
@@ -101,8 +102,8 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 583
-    converted_non_space_chars: 286
+    converted_text_chars: 520
+    converted_non_space_chars: 415
     table_row_count: 3
   - id: "210188913-202406250000022380000232007-byl-hwp"
     title: "[별지 제3호 서식] KRX금시장 금지금공급사업자 지정신청서"
@@ -117,8 +118,8 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 937
-    converted_non_space_chars: 556
+    converted_text_chars: 866
+    converted_non_space_chars: 717
     table_row_count: 3
   - id: "210188913-202406250000022380000232008-byl-hwp"
     title: "[별지 제3호의2 서식] 유동성공급계약내용 신고서<신설 2016.6.10>"
@@ -133,9 +134,10 @@ attachments:
     size: 14848
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 553
-    converted_non_space_chars: 338
-    table_row_count: 2
+    converted_text_chars: 509
+    converted_non_space_chars: 429
+    table_row_count: 1
+    formula_hint_count: 1
   - id: "210188913-202406250000022380000232009-byl-hwp"
     title: "[별지 제4호 서식] 이의신청서"
     file_name: "KRX금시장 운영규정 시행세칙_29차_이의신청서.hwp"
@@ -149,8 +151,8 @@ attachments:
     size: 14848
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 552
-    converted_non_space_chars: 288
+    converted_text_chars: 462
+    converted_non_space_chars: 377
     table_row_count: 1
   - id: "210188913-202406250000022380000232010-byl-hwp"
     title: "[별지 제5호 서식] 착오매매정정신청서"
@@ -165,8 +167,8 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 671
-    converted_non_space_chars: 315
+    converted_text_chars: 399
+    converted_non_space_chars: 338
     table_row_count: 1
   - id: "210188913-202406250000022380000232011-byl-hwp"
     title: "[별지 제6호 서식] 윤리 서약서 <삭제 2020.11.30>"

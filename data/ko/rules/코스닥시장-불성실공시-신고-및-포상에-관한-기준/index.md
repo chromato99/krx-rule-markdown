@@ -23,9 +23,9 @@ attachments:
     size: 13312
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 229
-    converted_non_space_chars: 175
-    table_row_count: 1
+    converted_text_chars: 852
+    converted_non_space_chars: 626
+    table_row_count: 10
   - id: "204847353-202407180000008940000185002-byl-hwp"
     title: "[별지 제2호 서식] 공시의무 위반사실 신고내용 처리결과"
     file_name: "코스닥시장 불성실공시 신고 및 포상에 관한 기준_2차_공시의무위반사실신고내용처리결과.hwp"
@@ -39,9 +39,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 255
-    converted_non_space_chars: 211
-    table_row_count: 1
+    converted_text_chars: 1003
+    converted_non_space_chars: 747
+    table_row_count: 10
 ---
 
 **제1조(목적)**이 기준은「코스닥시장 공시규정」(이하 "규정"이라 한다)제49조에 따라 코스닥시장상장법인의 공시의무 위반사실을 한국거래소(이하 "거래소"라 한다)에 신고 또는 제보하는 자의 포상에 관하여 필요한 사항을 규정함을 목적으로 한다.

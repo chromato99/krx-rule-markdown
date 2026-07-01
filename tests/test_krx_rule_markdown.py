@@ -24,10 +24,13 @@ from krx_rule_markdown.collector import (
     safe_base,
 )
 from krx_rule_markdown.clean import clean_unreferenced_attachments, drop_past_rule_attachments
+from krx_rule_markdown.converters.hwp import render_hwp_paragraph, render_hwp_table_cells
+from krx_rule_markdown.converters.tables import normalize_angle_bracket_tables
 from krx_rule_markdown.markdown import load_documents, parse_markdown, write_document
 from krx_rule_markdown.models import ATTACHMENT_CONVERTED, Attachment, Document, Item, now_utc
 from krx_rule_markdown.paths import converted_attachment_path, raw_attachment_path
 from krx_rule_markdown.quality import audit_data_quality, inspect_attachment_quality
+from krx_rule_markdown.reconvert import reconvert_data
 from krx_rule_markdown.sync import collect_items, includes_english, includes_korean, normalize_sync_language
 
 
@@ -289,11 +292,75 @@ $(".goRdoc").click(function(){});
             text = convert_bytes(raw_path, raw_path.read_bytes())
             quality = inspect_attachment_quality(text, raw_path)
         self.assertIn("| 구분 | 산식 |", text)
+        self.assertIn("| --- | --- |", text)
+        self.assertIn("| A | B+1 |", text)
         self.assertIn("수식: A=B+1", text)
         self.assertGreaterEqual(quality.table_row_count, 1)
         self.assertGreaterEqual(quality.formula_hint_count, 1)
         self.assertNotIn("raw_table_hints_without_table_text", quality.flags)
         self.assertNotIn("raw_formula_hints_without_formula_text", quality.flags)
+
+    def test_hwpx_conversion_preserves_merged_table_cells_as_html(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            raw_path = Path(tmp) / "merged.hwpx"
+            raw_path.write_bytes(hwpx_bytes_with_merged_cells())
+            text = convert_bytes(raw_path, raw_path.read_bytes())
+            quality = inspect_attachment_quality(text, raw_path)
+        self.assertIn("<table>", text)
+        self.assertIn('<td rowspan="2">구분</td>', text)
+        self.assertIn('<td colspan="2">산식</td>', text)
+        self.assertIn("<td>가격</td>", text)
+        self.assertIn("<td>변동률</td>", text)
+        self.assertGreaterEqual(quality.table_row_count, 1)
+        self.assertNotIn("raw_table_hints_without_table_text", quality.flags)
+
+    def test_hwp_angle_bracket_tables_are_preserved_as_markdown_tables(self) -> None:
+        text = normalize_angle_bracket_tables(
+            "\n".join(
+                [
+                    "가격변동폭은 다음 표에 따른다.",
+                    "<구 분><가격변동폭 산출방법>",
+                    "<선물거래><선물거래의 기준가격 × 가격변동률>",
+                    "<옵션거래><Max(①, ②)>",
+                    "비고. 산식은 원문을 확인한다.",
+                ]
+            )
+        )
+        self.assertIn("| 구 분 | 가격변동폭 산출방법 |", text)
+        self.assertIn("| --- | --- |", text)
+        self.assertIn("| 선물거래 | 선물거래의 기준가격 × 가격변동률 |", text)
+        self.assertIn("| 옵션거래 | Max(①, ②) |", text)
+        self.assertIn("비고. 산식은 원문을 확인한다.", text)
+
+    def test_hwp_angle_bracket_table_normalizer_does_not_rewrite_html_cells(self) -> None:
+        text = normalize_angle_bracket_tables(
+            "\n".join(
+                [
+                    "<table>",
+                    "  <tr>",
+                    '    <td rowspan="3" colspan="5"></td>',
+                    "  </tr>",
+                    "</table>",
+                ]
+            )
+        )
+        self.assertIn('<td rowspan="3" colspan="5"></td>', text)
+        self.assertNotIn("| td rowspan=", text)
+
+    def test_hwp_table_cells_preserve_spans_and_line_breaks_as_html(self) -> None:
+        text = render_hwp_table_cells(
+            [
+                {"row": 0, "col": 0, "rowspan": 1, "colspan": 2, "text": "구 분"},
+                {"row": 0, "col": 2, "rowspan": 1, "colspan": 1, "text": "가격변동률"},
+                {"row": 1, "col": 0, "rowspan": 2, "colspan": 1, "text": "선물거래"},
+                {"row": 1, "col": 1, "rowspan": 1, "colspan": 1, "text": "코스피200<br>미니코스피200"},
+                {"row": 1, "col": 2, "rowspan": 1, "colspan": 1, "text": "1.0%"},
+            ]
+        )
+        self.assertIn("<table>", text)
+        self.assertIn('<td colspan="2">구 분</td>', text)
+        self.assertIn('<td rowspan="2">선물거래</td>', text)
+        self.assertIn("<td>코스피200<br>미니코스피200</td>", text)
 
     def test_hwp_eqedit_payload_decodes_script(self) -> None:
         script = "WC=Min LEFT { sum _{i=1} ^{m} |`k _{i}`| RIGHT }"
@@ -318,6 +385,33 @@ $(".goRdoc").click(function(){});
         self.assertIn("hat{beta _{j}}", text)
         self.assertIn(r"\hat{\beta_{j}}", text)
         self.assertGreaterEqual(quality.formula_hint_count, 2)
+
+    def test_hwp_paragraph_places_equations_near_placeholders(self) -> None:
+        chunks = [
+            ((0, 1), " "),
+            ((1, 9), {"code": 11, "chid": "eqed", "param": b"\x00" * 8}),
+            ((9, 20), " : 충격소멸계수"),
+            ((20, 21), {"code": 13}),
+        ]
+        text, next_index, used = render_hwp_paragraph(chunks, ["lambda _{}^{}"], 0)
+        self.assertEqual(next_index, 1)
+        self.assertEqual(used, 1)
+        self.assertLess(text.index("LaTeX(best-effort)"), text.index("충격소멸계수"))
+        self.assertIn("수식 1 원본(HWP EqEdit):", text)
+        self.assertIn("```hwp-equation", text)
+        self.assertIn("lambda _{}^{}", text)
+        self.assertIn(r"\lambda", text)
+
+    def test_hwp_standalone_equation_renders_as_nearby_block(self) -> None:
+        chunks = [
+            ((0, 8), {"code": 11, "chid": "eqed", "param": b"\x00" * 8}),
+            ((8, 9), {"code": 13}),
+        ]
+        text, next_index, used = render_hwp_paragraph(chunks, ["sigma _{t} = 1"], 0)
+        self.assertEqual(next_index, 1)
+        self.assertEqual(used, 1)
+        self.assertTrue(text.startswith("수식 1 원본(HWP EqEdit):"))
+        self.assertIn("```math", text)
 
     def test_hwp_equation_to_latex_converts_common_eqedit_syntax(self) -> None:
         latex = hwp_equation_to_latex(
@@ -390,6 +484,39 @@ $(".goRdoc").click(function(){});
         self.assertEqual(report["summary"]["quality_status"]["ok"], 1)
         self.assertEqual(loaded.attachments[0].quality_status, "ok")
         self.assertGreaterEqual(loaded.attachments[0].table_row_count, 1)
+
+    def test_reconvert_rebuilds_attachment_markdown_from_existing_raw_file(self) -> None:
+        doc = Document(
+            id="rule-1",
+            title="샘플 규정",
+            source_url="https://example.test/rule",
+            document_type="rule",
+            collected_at=now_utc(),
+            content_hash="hash-rule-1",
+            body="본문",
+            attachments=[
+                Attachment(
+                    id="att-1",
+                    title="별표 산식",
+                    file_name="formula.txt",
+                    raw_path="ko/rules/샘플-규정/raw/formula.txt",
+                )
+            ],
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            write_document(root, doc)
+            raw_path = root / "ko/rules/샘플-규정/raw/formula.txt"
+            raw_path.parent.mkdir(parents=True)
+            raw_path.write_text("표와 수식", encoding="utf-8")
+            result = reconvert_data(root)
+            loaded = load_documents(root)[0]
+            text_path = root / loaded.attachments[0].text_path
+            converted_text = text_path.read_text(encoding="utf-8").strip()
+        self.assertEqual(result.converted, 1)
+        self.assertEqual(loaded.attachments[0].status, ATTACHMENT_CONVERTED)
+        self.assertTrue(loaded.attachments[0].text_path.endswith(".md"))
+        self.assertEqual(converted_text, "표와 수식")
 
     def test_clean_removes_unreferenced_attachment_files(self) -> None:
         doc = Document(
@@ -496,6 +623,27 @@ def hwpx_bytes() -> bytes:
     </hp:tr>
   </hp:tbl>
   <hp:equation script="A=B+1" />
+</hp:body>
+"""
+    with zipfile.ZipFile(buf, "w") as zf:
+        zf.writestr("Contents/section0.xml", xml)
+    return buf.getvalue()
+
+
+def hwpx_bytes_with_merged_cells() -> bytes:
+    buf = io.BytesIO()
+    xml = """<?xml version="1.0" encoding="UTF-8"?>
+<hp:body xmlns:hp="http://www.hancom.co.kr/hwpml/2011/paragraph">
+  <hp:tbl>
+    <hp:tr>
+      <hp:tc rowSpan="2"><hp:p><hp:run><hp:t>구분</hp:t></hp:run></hp:p></hp:tc>
+      <hp:tc colSpan="2"><hp:p><hp:run><hp:t>산식</hp:t></hp:run></hp:p></hp:tc>
+    </hp:tr>
+    <hp:tr>
+      <hp:tc><hp:p><hp:run><hp:t>가격</hp:t></hp:run></hp:p></hp:tc>
+      <hp:tc><hp:p><hp:run><hp:t>변동률</hp:t></hp:run></hp:p></hp:tc>
+    </hp:tr>
+  </hp:tbl>
 </hp:body>
 """
     with zipfile.ZipFile(buf, "w") as zf:

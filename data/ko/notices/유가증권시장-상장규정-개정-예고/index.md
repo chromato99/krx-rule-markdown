@@ -23,7 +23,7 @@ attachments:
     size: 143892
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 568
+    converted_text_chars: 570
     converted_non_space_chars: 427
     formula_hint_count: 2
   - id: "210217077-210217078-pdf"
@@ -40,7 +40,7 @@ attachments:
     size: 225685
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 4416
+    converted_text_chars: 4418
     converted_non_space_chars: 3255
     formula_hint_count: 1
 ---

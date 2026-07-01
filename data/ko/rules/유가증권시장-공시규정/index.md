@@ -23,9 +23,9 @@ attachments:
     size: 67584
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 971
-    converted_non_space_chars: 773
-    table_row_count: 1
+    converted_text_chars: 1504
+    converted_non_space_chars: 1122
+    table_row_count: 11
 ---
 
 제1편 유가증권시장주권상장법인의 신고 등

@@ -23,8 +23,8 @@ attachments:
     size: 52224
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1005
-    converted_non_space_chars: 842
+    converted_text_chars: 1826
+    converted_non_space_chars: 1500
   - id: "210217137-210125187-hwp"
     title: "[별표1의2] 세부 시장의 구분, 시장별·종목별 정규거래시간 및 야간거래 대상시장 <신설 2017.3.13, 개정 2017.6.15, 2018.3.15., 2019.10.30., 2022.2.16.,2023.7.18., 2024.2.5., 2024.4.5., 2024.11.1., 2025.4.18., 2025.5.29.><개정 2025. 4. 18.,2025. 5. 29.,2025. 10. 1.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_세부시장의구분및시장별·종목별정규거래시간(신설2017.3.13,개정2017.6.15,2018.3.15.,2019.10.30.,2022.2.16.,2023.7.18.,2024.2.5.,2024.4.5.,2024.11.1).hwp"
@@ -38,8 +38,9 @@ attachments:
     size: 52736
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1014
-    converted_non_space_chars: 923
+    converted_text_chars: 6384
+    converted_non_space_chars: 4800
+    table_row_count: 93
   - id: "210217137-210125193-hwp"
     title: "[별표 1의3] 섹터지수선물거래의 기초자산 및 거래승수 <신설 2014.11.3, 개정 2015.9.16, 2016.3.21, 2016.11.21, 2017.3.13., 2021.7.13., 2023.11.24., 2024.11.1>[별표1의2에서 이동 2017.3.13]<개정 2025. 10. 1.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_섹터지수선물거래의기초자산및거래승수(신설2014.11.3,개정2015.9.16,2016.3.21,2016.11.21,2017.3.13.,2021.7.13.,2023.11.24.,2024.11.1)[별표1의2에서이동2017.3.13].hwp"
@@ -53,8 +54,9 @@ attachments:
     size: 43008
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 573
-    converted_non_space_chars: 507
+    converted_text_chars: 1302
+    converted_non_space_chars: 973
+    table_row_count: 18
   - id: "210217137-210197409-hwp"
     title: "[별표1의4] ETF선물거래의 기초ETF 및 미결제약정수량 보유한도 <신설 2017.6.15, 개정 2018.8.17, 2018.9.7, 2020.9.3., 2021.7.13., 2022.12.21., 2024.11.1., 2025.5.29.><개정 2025. 5. 29.,2025. 10. 1.,2026. 4. 6.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_ETF선물거래의기초ETF및미결제약정수량보유한도(신설2017.6.15,개정2018.8.17,2018.9.7,2020.9.3.,2021.7.13.,2022.12.21.,2024.11.1).hwp"
@@ -68,9 +70,9 @@ attachments:
     size: 56320
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1009
-    converted_non_space_chars: 898
-    table_row_count: 1
+    converted_text_chars: 1737
+    converted_non_space_chars: 1394
+    table_row_count: 11
   - id: "210217137-202411010000022630000114005-byl-hwp"
     title: "[별표 2] 주식옵션의 행사가격설정구간<신설 2024.4.5>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_주식옵션의행사가격설정구간.hwp"
@@ -84,8 +86,8 @@ attachments:
     size: 12800
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 254
-    converted_non_space_chars: 195
+    converted_text_chars: 252
+    converted_non_space_chars: 200
     formula_hint_count: 1
   - id: "210217137-210197416-hwp"
     title: "[별표 6] 호가내용입력코드 <개정 2009.3.18, 2009.4.6, 2009.8.21, 2010.10.20, 2010.12.10, 2011.1.27, 2011.7.26, 2011.12.28, 2012.5.9, 2012.7.3, 2013.7.8, 2014.11.3, 2015.7.3, 2015.9.16, 2015.10.28, 2016.3.21, 2016.6.20, 2016.11.21, 2017.6.15, 2018.3.15, 2018.8.17, 2019.7.30, 2019.10.30, 2020.09.03., 2021.7.13., 2022.2.16., 2022.12.21.,2023.6.29., 2024.2.5., 2024.4.5., 2024.11.1><개정 2025. 4. 18.,2025. 10. 1.,2026. 2. 9.,2026. 4. 6.>"
@@ -100,8 +102,10 @@ attachments:
     size: 70656
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1013
-    converted_non_space_chars: 840
+    converted_text_chars: 6169
+    converted_non_space_chars: 4817
+    table_row_count: 30
+    formula_hint_count: 1
   - id: "210217137-210125228-hwp"
     title: "[별표 6의2] 일괄호가취소의 신청사항 등 <신설 2022.12.21., 개정 2023.11.24., 2024.2.5. 2024.4.5., 2024.11.1><개정 2025. 4. 18.,2025. 10. 1.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_일괄호가취소의신청사항등(신설2022.12.21.,개정2023.11.24.,2024.2.5.2024.4.5.,2024.11.1).hwp"
@@ -115,8 +119,9 @@ attachments:
     size: 51200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 998
-    converted_non_space_chars: 822
+    converted_text_chars: 3130
+    converted_non_space_chars: 2299
+    table_row_count: 40
   - id: "210217137-210125233-hwp"
     title: "[별표7] 주가지수선물이론가격 <개정 2009.10.26, 2014.11.3, 2015.7.3, 2015.9.16, 2015.10.28, 2017.3.13, 2018.3.15., 2021.7.13., 2023.9.22., 2024.4.5., 2024.11.1., 2025.5.29.><개정 2025. 5. 29.,2025. 10. 1.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_주가지수선물이론가격(개정2009.10.26,2014.11.3,2015.7.3,2015.9.16,2015.10.28,2017.3.13,2018.3.15.,2021.7.13.,2023.9.22.,2024.4.5.,2024.11.1).hwp"
@@ -130,8 +135,8 @@ attachments:
     size: 54272
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3006
-    converted_non_space_chars: 2444
+    converted_text_chars: 3534
+    converted_non_space_chars: 2946
     formula_hint_count: 22
   - id: "210217137-210125238-hwp"
     title: "[별표 8] 주식선물이론가격 <개정 2009.10.26, 2014.11.3., 2017.3.13., 2023.9.22., 2024.11.1><개정 2025. 10. 1.>"
@@ -146,8 +151,8 @@ attachments:
     size: 44544
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2163
-    converted_non_space_chars: 1750
+    converted_text_chars: 2496
+    converted_non_space_chars: 2070
     formula_hint_count: 17
   - id: "210217137-210125248-hwp"
     title: "[별표 8의2] ETF선물이론가격 <신설 2017.6.15., 개정 2023.9.22., 2024.11.1><개정 2025. 10. 1.>"
@@ -162,8 +167,8 @@ attachments:
     size: 41984
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2119
-    converted_non_space_chars: 1711
+    converted_text_chars: 2454
+    converted_non_space_chars: 2031
     formula_hint_count: 17
   - id: "210217137-210064540-hwp"
     title: "[별표9] 국채선물이론가격 <개정 2010.10.20, 2011.1.27, 2011.4.21., 2017.3.13., 2023.9.22., 2024.2.5., 2025.5.29.><개정 2025. 5. 29.>"
@@ -178,9 +183,9 @@ attachments:
     size: 48640
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 4478
-    converted_non_space_chars: 3671
-    formula_hint_count: 73
+    converted_text_chars: 6163
+    converted_non_space_chars: 5140
+    formula_hint_count: 77
   - id: "210217137-210125253-hwp"
     title: "[별표 9의2] 3개월무위험지표금리선물 이론가격 <신설 2022.2.16., 개정 2023.9.22><개정 2025. 10. 1.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_3개월무위험지표금리선물이론가격(신설2022.2.16.,개정2023.9.22).hwp"
@@ -194,9 +199,10 @@ attachments:
     size: 44032
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3382
-    converted_non_space_chars: 2689
-    formula_hint_count: 37
+    converted_text_chars: 4394
+    converted_non_space_chars: 3570
+    table_row_count: 5
+    formula_hint_count: 40
   - id: "210217137-210064599-hwp"
     title: "[별표12] 통화선물이론가격 <개정 2009.8.21, 2013.5.9, 2015.9.16, 2016.6.20, 2016.9.6., 2020.5.18., 2023.5.24., 2024.6.25., 2025.5.29.><개정 2025. 5. 29.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_통화선물이론가격(개정2009.8.21,2013.5.9,2015.9.16,2016.6.20,2016.9.6.,2020.5.18.,2023.5.24.,2024.6.25).hwp"
@@ -210,8 +216,8 @@ attachments:
     size: 55808
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2073
-    converted_non_space_chars: 1678
+    converted_text_chars: 2866
+    converted_non_space_chars: 2347
     formula_hint_count: 12
   - id: "210217137-202411010000022630000114020-byl-hwp"
     title: "[별표 13] 금선물이론가격 <개정 2009.10.26, 2010.7.30, 2011.4.21, 2015.10.28., 2017.3.13., 2023.9.22>"
@@ -226,8 +232,8 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1254
-    converted_non_space_chars: 1005
+    converted_text_chars: 1365
+    converted_non_space_chars: 1110
     formula_hint_count: 8
   - id: "210217137-210064610-hwp"
     title: "[별표14] 호가가격제한 관련 비율 <개정 2009.8.21, 2009.10.26, 2010.6.18, 2010.7.30, 2010.10.1, 2011.1.27, 2013.7.8, 2014.11.3, 2015.5.19, 2015.9.16, 2015.10.28, 2016.6.20, 2017.6.15., 2019.10.30., 2022.2.16., 2024.2.5., 2025.4.18., 2025.5.29.><개정 2025. 4. 18.,2025. 5. 29.>"
@@ -242,9 +248,9 @@ attachments:
     size: 44544
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 992
-    converted_non_space_chars: 866
-    table_row_count: 5
+    converted_text_chars: 2315
+    converted_non_space_chars: 1785
+    table_row_count: 28
   - id: "210217137-210125272-hwp"
     title: "[별표15] 주가지수옵션이론가격 <개정 2009.10.26, 2014.11.3, 2015.7.3, 2017.3.13, 2018.3.15, 2019.7.30, 2019.10.14., 2021.11.25., 2023.9.22., 2024.11.1., 2025.5.29.><개정 2025. 5. 29.,2025. 10. 1.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_주가지수옵션이론가격(개정2009.10.26,2014.11.3,2015.7.3,2017.3.13,2018.3.15,2019.7.30,2019.10.14.,2021.11.25.,2023.9.22.,2024.11.1).hwp"
@@ -258,9 +264,9 @@ attachments:
     size: 52224
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 6029
-    converted_non_space_chars: 4946
-    formula_hint_count: 78
+    converted_text_chars: 8533
+    converted_non_space_chars: 7081
+    formula_hint_count: 83
   - id: "210217137-210125279-hwp"
     title: "[별표 16] 주식옵션이론가격 <개정 2009.10.26, 2014.11.3., 2017.3.13., 2023.9.22., 2024.11.1><개정 2025. 10. 1.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_주식옵션이론가격(개정2009.10.26,2014.11.3.,2017.3.13.,2023.9.22.,2024.11.1).hwp"
@@ -274,9 +280,9 @@ attachments:
     size: 45568
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 5616
-    converted_non_space_chars: 4590
-    formula_hint_count: 73
+    converted_text_chars: 6659
+    converted_non_space_chars: 5555
+    formula_hint_count: 78
   - id: "210217137-202411010000022630000114024-byl-hwp"
     title: "[별표 17] 미국달러옵션이론가격 <개정 2009.10.26, 2013.7.8, 2015.9.16., 2016.9.6., 2023.5.24., 2024.6.25>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_미국달러옵션이론가격(개정2009.10.26,2013.7.8,2015.9.16.,2016.9.6.,2023.5.24.,2024.6.25).hwp"
@@ -290,8 +296,8 @@ attachments:
     size: 16896
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3647
-    converted_non_space_chars: 2990
+    converted_text_chars: 4037
+    converted_non_space_chars: 3354
     formula_hint_count: 37
   - id: "210217137-210064641-hwp"
     title: "[별표17의2] 호가수량한도 및 누적호가수량한도 <신설 2012.2.17, 개정 2013.7.8, 2014.8.28, 2014.11.3, 2015.7.3, 2015.9.16, 2015.10.28, 2016.6.20, 2017.3.13, 2017.6.15, 2018.3.15, 2018.8.17, 2018.9.7., 2019.10.30., 2022.2.16., 2023.6.29., 2024.2.5., 2024.4.5., 2024.11.1., 2025.4.18., 2025.5.29.><개정 2025. 4. 18.,2025. 5. 29.>"
@@ -306,8 +312,10 @@ attachments:
     size: 61952
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1016
-    converted_non_space_chars: 914
+    converted_text_chars: 3978
+    converted_non_space_chars: 3237
+    table_row_count: 26
+    formula_hint_count: 16
   - id: "210217137-210064724-hwp"
     title: "[별표18] 순위험증거금액 산출기준<개정 2009.10.26, 2011.10.20, 2011.11.17, 2013.7.8, 2015.7.3, 2016.3.8, 2016.3.21, 2016.6.20., 2019.10.14., 2025.5.29.><개정 2009.10.26, 2011.10.20, 2011.11.17, 2013.7.8, 2015.7.3, 2016.3.8, 2016.3.21, 2016.6.20, 2019.10.14,2025. 5. 29.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_순위험증거금액산출기준.hwp"
@@ -321,10 +329,10 @@ attachments:
     size: 57344
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2331
-    converted_non_space_chars: 1921
-    table_row_count: 3
-    formula_hint_count: 40
+    converted_text_chars: 12121
+    converted_non_space_chars: 9422
+    table_row_count: 31
+    formula_hint_count: 154
   - id: "210217137-210064740-hwp"
     title: "[별표19] 증거금률 및 증거금액 산출변수 <개정 2009.10.26, 2009.12.4, 2010.7.30, 2010.9.13, 2010.10.1, 2010.10.20, 2011.1.27, 2011.3.23, 2011.9.23, 2011.10.10, 2011.10.20, 2011.11.17, 2011.12.20, 2012.2.17, 2012.9.26, 2013.7.8, 2014.8.28, 2014.11.3, 2014.11.13, 2015.5.26, 2015.7.3, 2015.8.13, 2015.9.16, 2015.10.28, 2016.3.8, 2016.3.21, 2016.6.20, 2017.3.13, 2017.6.15, 2018.3.15, 2018.9.7, 2019.10.14., 2021.7.13., 2022.2.16., 2023.9.22., 2024.2.5., 2024.4.5., 2024.11.1., 2025.4.18., 2025.5.29.><개정 2025. 4. 18.,2025. 5. 29.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_증거금률및증거금액산출변수(개정2009.10.26,2009.12.4,2010.7.30,2010.9.13,2010.10.1,2010.10.20,2011.1.27,2011.3.23,2011.9.23,2011.10.10,2011.10.20,2011.11.17,2011.12.20,2012.2.17,2012.9.26,2013.7.8,2014.8.28,2014.11.3,2014.11.13,2015.5.26,2015.7.3,2015.8.13,2015.9.16,2015.10.28,2016.3.8,2016.3.21,2016.6.20,2017.3.13,2017.6.15,2018.3.15,2018.9.7,2019.10.14.,2021.7.13.,2022.2.16.,2023.9.22.,2024.2.5.,2024.4.5.,2024.11.1).hwp"
@@ -338,8 +346,10 @@ attachments:
     size: 49664
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1005
-    converted_non_space_chars: 880
+    converted_text_chars: 8288
+    converted_non_space_chars: 6540
+    table_row_count: 29
+    formula_hint_count: 8
   - id: "210217137-210064829-hwp"
     title: "[별표19의2] 계약당스프레드주문위탁증거금액 <신설 2009.10.26, 개정 2010.10.20, 2011.1.27, 2011.10.20, 2014.8.28, 2014.11.3, 2015.7.3, 2015.9.16, 2015.10.28, 2016.6.20, 2017.6.15, 2018.3.15, 2019.10.30., 2021.7.13., 2022.2.16., 2024.2.5., 2024.4.5., 2024.11.1., 2025.4.18., 2025.5.29.><개정 2025. 4. 18.,2025. 5. 29.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_계약당스프레드주문위탁증거금액(신설2009.10.26,개정2010.10.20,2011.1.27,2011.10.20,2014.8.28,2014.11.3,2015.7.3,2015.9.16,2015.10.28,2016.6.20,2017.6.15,2018.3.15,2019.10.30.,2021.7.13.,2022.2.16.,2024.2.5.,2024.4.5.,2024.11.1).hwp"
@@ -353,8 +363,10 @@ attachments:
     size: 50176
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1001
-    converted_non_space_chars: 894
+    converted_text_chars: 1591
+    converted_non_space_chars: 1315
+    table_row_count: 14
+    formula_hint_count: 6
   - id: "210217137-202411010000022630000114030-byl-hwp"
     title: "[별표 19의3] 정산기준가격 적용 괴리수치 <신설 2010.12.10, 개정 2011.1.27, 2014.11.3, 2015.7.3, 2015.8.13, 2015.9.16, 2015.10.28, 2016.1.14 2016.4.14>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_정산기준가격적용괴리수치(신설2010.12.10,개정2011.1.27,2014.11.3,2015.7.3,2015.8.13,2015.9.16,2015.10.28,2016.1.142016.4.14).hwp"
@@ -368,8 +380,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 407
-    converted_non_space_chars: 354
+    converted_text_chars: 656
+    converted_non_space_chars: 511
+    table_row_count: 6
   - id: "210217137-202411010000022630000114031-byl-hwp"
     title: "[별표 19의4] 외화 및 외화증권의 사정비율 산출방법 및 점검방법"
     file_name: "파생상품시장 업무규정 시행세칙_162차_외화및외화증권의사정비율산출방법및점검방법.hwp"
@@ -383,8 +396,9 @@ attachments:
     size: 17408
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 995
-    converted_non_space_chars: 754
+    converted_text_chars: 1645
+    converted_non_space_chars: 1252
+    table_row_count: 5
     formula_hint_count: 2
   - id: "210217137-210197600-hwp"
     title: "[별표19의5] 신용위험거래증거금 부과율<신설 2026. 4. 9.>"
@@ -399,8 +413,9 @@ attachments:
     size: 43008
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 930
-    converted_non_space_chars: 747
+    converted_text_chars: 1118
+    converted_non_space_chars: 880
+    table_row_count: 2
     formula_hint_count: 1
   - id: "210217137-202411010000022630000114032-byl-hwp"
     title: "[별표 20] 기초자산에 상당하는 금액의 산정 가격 <개정 2009.8.21, 2010.10.20, 2013.7.8, 2015.9.16., 2015.10.28., 2023.5.24>"
@@ -415,7 +430,7 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 997
+    converted_text_chars: 992
     converted_non_space_chars: 803
   - id: "210217137-202411010000022630000114033-byl-hwp"
     title: "[별표 21] 유동성관리상품에 대한 평가기준<개정 2020.7.30>"
@@ -430,8 +445,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 378
-    converted_non_space_chars: 314
+    converted_text_chars: 966
+    converted_non_space_chars: 689
+    table_row_count: 7
   - id: "210217137-210064836-hwp"
     title: "[별표22] 코스피200선물거래 또는 코스피200옵션거래의 미결제약정수량의 보유한도 관련 수탁의 거부 <신설 2011.1.27, 개정 2015.7.3., 2025.5.29.><개정 2025. 5. 29.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_코스피200선물거래또는코스피200옵션거래의미결제약정수량의보유한도관련수탁의거부(신설2011.1.27,개정2015.7.3).hwp"
@@ -445,9 +461,9 @@ attachments:
     size: 54272
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1011
-    converted_non_space_chars: 800
-    table_row_count: 1
+    converted_text_chars: 1965
+    converted_non_space_chars: 1564
+    table_row_count: 4
   - id: "210217137-202411010000022630000114035-byl-hwp"
     title: "[별표 23] 코스피200선물·옵션거래의 미결제약정수량 환산방법 <신설 2011.1.27, 개정 2012.2.17, 2015.7.3>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_코스피200선물·옵션거래의미결제약정수량환산방법(신설2011.1.27,개정2012.2.17,2015.7.3).hwp"
@@ -461,9 +477,9 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 487
-    converted_non_space_chars: 395
-    table_row_count: 1
+    converted_text_chars: 534
+    converted_non_space_chars: 438
+    table_row_count: 2
     formula_hint_count: 6
   - id: "210217137-210064866-hwp"
     title: "[별표24] 착오거래구제제한범위 <신설 2012.5.9, 개정 2012.12.18, 2013.7.8, 2014.8.20, 2014.11.3, 2015.9.16, 2015.10.28, 2016.6.20, 2017.6.15., 2019.10.30., 2022.2.16., 2024.2.5., 2024.6.25., 2025.4.18., 2025.5.29.><개정 2025. 4. 18.,2025. 5. 29.>"
@@ -478,8 +494,9 @@ attachments:
     size: 48640
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 992
-    converted_non_space_chars: 854
+    converted_text_chars: 2622
+    converted_non_space_chars: 2067
+    table_row_count: 32
   - id: "210217137-210064875-hwp"
     title: "[별표25] 실시간 가격제한의 가격변동폭 <신설 2014.8.20, 개정 2015.7.3, 2015.9.16, 2018.3.15, 2018.8.17., 2018.12.7, 2019.10.14., 2019.10.30., 2024.4.5., 2025.5.29.><개정 2025. 5. 29.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_실시간가격제한의가격변동폭(신설2014.8.20,개정2015.7.3,2015.9.16,2018.3.15,2018.8.17.,2018.12.7,2019.10.14.,2019.10.30.,2024.4.5).hwp"
@@ -493,9 +510,9 @@ attachments:
     size: 49152
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1001
-    converted_non_space_chars: 822
-    table_row_count: 1
+    converted_text_chars: 2449
+    converted_non_space_chars: 1906
+    table_row_count: 24
     formula_hint_count: 12
   - id: "210217137-210054711-hwp"
     title: "[별표 26] 협의대량거래의 신청수량 <신설 2014.8.28, 개정 2014.11.3, 2015.7.3, 2015.9.16, 2015.10.28, 2016.3.21, 2016.6.20, 2017.6.15, 2017.9.20, 2018.3.15, 2018.9.7., 2019.7.30., 2022.2.16., 2023.6.29. 2024.2.5., 2024.4.5., 2024.6.25., 2024.11.1><개정 2025. 4. 18.>"
@@ -510,9 +527,9 @@ attachments:
     size: 55296
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1009
-    converted_non_space_chars: 870
-    table_row_count: 1
+    converted_text_chars: 2453
+    converted_non_space_chars: 1969
+    table_row_count: 19
   - id: "210217137-210064925-hwp"
     title: "[별표27] 옵션거래의 환산비율 <신설 2015.3.12, 개정 2016.3.21., 2017.3.13., 2023.9.22., 2024.11.1., 2025.5.29.><개정 2025. 5. 29.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_옵션거래의환산비율(신설2015.3.12,개정2016.3.21.,2017.3.13.,2023.9.22.,2024.11.1).hwp"
@@ -526,8 +543,8 @@ attachments:
     size: 48128
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1378
-    converted_non_space_chars: 1086
+    converted_text_chars: 1562
+    converted_non_space_chars: 1241
     formula_hint_count: 2
   - id: "210217137-210064938-hwp"
     title: "[별표28] 헤지전용계좌 관련 예탁자산의 범위 등 <신설 2017.6.15., 개정 2018.3.15., 2024.4.5., 2025.5.29.><개정 2025. 5. 29.>"
@@ -542,9 +559,10 @@ attachments:
     size: 48128
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1003
-    converted_non_space_chars: 818
-    formula_hint_count: 6
+    converted_text_chars: 1881
+    converted_non_space_chars: 1465
+    table_row_count: 9
+    formula_hint_count: 12
   - id: "210217137-202411010000022630000114044-byl-hwp"
     title: "[별지 제4호서식] 착오거래정정 신청서<개정 2012.2.17, 2016.11.21, 2017.6.15, 2019.10.30>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_착오거래정정신청서.hwp"
@@ -558,9 +576,9 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 598
-    converted_non_space_chars: 436
-    table_row_count: 3
+    converted_text_chars: 583
+    converted_non_space_chars: 421
+    table_row_count: 9
   - id: "210217137-202411010000022630000114046-byl-hwp"
     title: "[별지 제6호서식] 거래증거금 현금 예탁신고(인출청구)서<개정 2016.11.21>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_거래증거금현금예탁신고(인출청구)서.hwp"
@@ -574,9 +592,9 @@ attachments:
     size: 16384
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 893
-    converted_non_space_chars: 435
-    table_row_count: 5
+    converted_text_chars: 1219
+    converted_non_space_chars: 874
+    table_row_count: 14
   - id: "210217137-202411010000022630000114047-byl-hwp"
     title: "[별지 제7호서식] 거래증거금 외화 예탁신고(인출청구)서<개정 2014.11.3, 2016.8.31, 2016.11.21>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_거래증거금외화예탁신고(인출청구)서.hwp"
@@ -590,9 +608,9 @@ attachments:
     size: 16896
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 833
-    converted_non_space_chars: 638
-    table_row_count: 3
+    converted_text_chars: 1688
+    converted_non_space_chars: 1232
+    table_row_count: 15
   - id: "210217137-202411010000022630000114048-byl-hwp"
     title: "[별지 제7호의2서식] 거래증거금 외화증권 예탁신고(인출청구)서 <신설 2012.12.18, 개정 2016.11.21>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_거래증거금외화증권예탁신고(인출청구)서(신설2012.12.18,개정2016.11.21).hwp"
@@ -606,9 +624,9 @@ attachments:
     size: 17920
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 998
-    converted_non_space_chars: 778
-    table_row_count: 3
+    converted_text_chars: 2243
+    converted_non_space_chars: 1653
+    table_row_count: 15
   - id: "210217137-202411010000022630000114049-byl-hwp"
     title: "[별지 제8호서식] 거래증거금 대용증권 예탁신고(인출청구)서<개정 2009.8.21, 2010.11.12, 2013.9.17, 2016.11.21>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_거래증거금대용증권예탁신고(인출청구)서.hwp"
@@ -622,9 +640,9 @@ attachments:
     size: 17920
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 994
-    converted_non_space_chars: 794
-    table_row_count: 3
+    converted_text_chars: 2440
+    converted_non_space_chars: 1767
+    table_row_count: 22
   - id: "210217137-202411010000022630000114050-byl-hwp"
     title: "[별지 제8호의2서식] 고객계좌부 전질권 설정 내역<신설 2019.9.5>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_고객계좌부전질권설정내역.hwp"
@@ -638,8 +656,9 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 422
-    converted_non_space_chars: 385
+    converted_text_chars: 316
+    converted_non_space_chars: 242
+    table_row_count: 2
   - id: "210217137-202411010000022630000114051-byl-hwp"
     title: "[별지 제9호서식] 권리행사 신고서<개정 2013.7.8, 2017.6.15>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_권리행사신고서.hwp"
@@ -653,9 +672,9 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 636
-    converted_non_space_chars: 385
-    table_row_count: 2
+    converted_text_chars: 613
+    converted_non_space_chars: 459
+    table_row_count: 5
   - id: "210217137-202411010000022630000114052-byl-hwp"
     title: "[별지 제10호서식] 권리행사배정통지서<개정 2017.6.15>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_권리행사배정통지서.hwp"
@@ -669,9 +688,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 349
-    converted_non_space_chars: 238
-    table_row_count: 1
+    converted_text_chars: 413
+    converted_non_space_chars: 307
+    table_row_count: 3
   - id: "210217137-202411010000022630000114055-byl-hwp"
     title: "[별지 제13호서식] 차익·헤지거래용 미결제약정수량 보유신고서 <신설 2012.2.17, 개정 2012.12.18, 2015.7.3, 2017.6.15, 2017.9.20, 2018.3.15>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_차익·헤지거래용미결제약정수량보유신고서(신설2012.2.17,개정2012.12.18,2015.7.3,2017.6.15,2017.9.20,2018.3.15).hwp"
@@ -685,9 +704,9 @@ attachments:
     size: 18432
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1002
-    converted_non_space_chars: 718
-    table_row_count: 2
+    converted_text_chars: 4469
+    converted_non_space_chars: 3464
+    table_row_count: 30
   - id: "210217137-202411010000022630000114056-byl-hwp"
     title: "[별지 제13호의2서식] 시장조성거래에 대한 헤지거래용 미결제약정수량 보유신고서<신설 2016.7.12>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_시장조성거래에대한헤지거래용미결제약정수량보유신고서.hwp"
@@ -701,9 +720,9 @@ attachments:
     size: 16896
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 938
-    converted_non_space_chars: 590
-    table_row_count: 2
+    converted_text_chars: 2285
+    converted_non_space_chars: 1780
+    table_row_count: 11
   - id: "210217137-210125286-hwp"
     title: "[별지 제13호의3 서식] 상장지수집합투자기구 미결제약정수량 보유신고서(코스닥150선물·옵션/코스닥글로벌선물/ETF선물) <신설 2018.3.15., 개정 2024.4.5., 2024.11.1.><개정 2025. 10. 1.>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_상장지수집합투자기구미결제약정수량보유신고서(코스닥150선물·옵션_코스닥글로벌선물_TIGER미국나스닥100ETF선물)(신설2018.3.15.,개정2024.4.5.,2024.11.1.).hwp"
@@ -717,9 +736,9 @@ attachments:
     size: 48640
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 997
-    converted_non_space_chars: 757
-    table_row_count: 3
+    converted_text_chars: 1560
+    converted_non_space_chars: 1211
+    table_row_count: 10
   - id: "210217137-202411010000022630000114060-byl-hwp"
     title: "[별지 제15호서식] 대량투자자착오거래 구제신청서 <신설 2014.8.20, 개정 2016.11.21, 2017.6.15, 2017.9.20>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_대량투자자착오거래구제신청서(신설2014.8.20,개정2016.11.21,2017.6.15,2017.9.20).hwp"
@@ -733,9 +752,9 @@ attachments:
     size: 14848
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 566
-    converted_non_space_chars: 394
-    table_row_count: 3
+    converted_text_chars: 593
+    converted_non_space_chars: 421
+    table_row_count: 8
     formula_hint_count: 1
   - id: "210217137-202411010000022630000114062-byl-hwp"
     title: "[별지 제17호 서식] 타회원 위탁계좌 신고서<신설 2020.09.03>"
@@ -750,9 +769,9 @@ attachments:
     size: 16384
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 939
-    converted_non_space_chars: 662
-    table_row_count: 3
+    converted_text_chars: 1623
+    converted_non_space_chars: 1208
+    table_row_count: 11
   - id: "210217137-202411010000022630000114063-byl-hwp"
     title: "[별지 제18호 서식] 고속 알고리즘거래자 등록신청(신고)서<신설 2022.12.21>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_고속알고리즘거래자등록신청(신고)서.hwp"
@@ -766,9 +785,9 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 632
-    converted_non_space_chars: 439
-    table_row_count: 2
+    converted_text_chars: 1374
+    converted_non_space_chars: 988
+    table_row_count: 17
   - id: "210217137-202411010000022630000114064-byl-hwp"
     title: "[별지 제19호 서식] 고속 알고리즘거래자 등록정보 점검 확인서 등<신설 2022.12.21>"
     file_name: "파생상품시장 업무규정 시행세칙_162차_고속알고리즘거래자등록정보점검확인서등.hwp"
@@ -782,9 +801,9 @@ attachments:
     size: 17920
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 992
-    converted_non_space_chars: 690
-    table_row_count: 1
+    converted_text_chars: 1905
+    converted_non_space_chars: 1386
+    table_row_count: 12
 ---
 
 제1편 총칙

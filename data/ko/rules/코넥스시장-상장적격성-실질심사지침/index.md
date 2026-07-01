@@ -23,9 +23,9 @@ attachments:
     size: 52224
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1018
-    converted_non_space_chars: 758
-    table_row_count: 4
+    converted_text_chars: 1920
+    converted_non_space_chars: 1492
+    table_row_count: 7
   - id: "210212163-210212278-hwp"
     title: "[별표2] 상장적격성 실질심사 기준표<개정 2024.1.17,2026. 5. 15.>"
     file_name: "코넥스시장 상장적격성 실질심사지침_4차_상장적격성실질심사기준표.hwp"
@@ -39,9 +39,9 @@ attachments:
     size: 46592
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1019
-    converted_non_space_chars: 734
-    table_row_count: 2
+    converted_text_chars: 1889
+    converted_non_space_chars: 1467
+    table_row_count: 5
 ---
 
 제1장 총칙

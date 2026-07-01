@@ -23,9 +23,9 @@ attachments:
     size: 97280
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1021
-    converted_non_space_chars: 822
-    table_row_count: 1
+    converted_text_chars: 23049
+    converted_non_space_chars: 17907
+    table_row_count: 23
   - id: "210218410-202406140000022350000016002-byl-hwp"
     title: "[별표 2] 의무보유 관련 제출 서류 및 제출 시기<개정 2016.4.22, 2018.12.28., 2019.9.10., 2022.3.17.>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_의무보유관련제출서류및제출시기(개정2016.4.22,2018.12.28.,2019.9.10.,2022.3.17.).hwp"
@@ -39,9 +39,9 @@ attachments:
     size: 62464
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1020
-    converted_non_space_chars: 762
-    table_row_count: 2
+    converted_text_chars: 1314
+    converted_non_space_chars: 1038
+    table_row_count: 3
   - id: "210218410-210086039-hwp"
     title: "[별표2의2] 질적심사기준<개정 2015.11.4, 2015.12.2, 2015.12.16, 2016.2.29, 2018.12.28, 2020.8.25., 2020.12.18., 2021.3.8., 2021.5.13., 2022.9.26., 2022.12.09., 2024.4.3., 2024. 11. 29., 2025. 7. 3.>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_질적심사기준(개정2015.11.4,2015.12.2,2015.12.16,2016.2.29,2018.12.28,2020.8.25.,2020.12.18.,2021.3.8.,2021.5.13.,2022.9.26.,2022.12.09.,2024.4.3.).hwp"
@@ -55,8 +55,8 @@ attachments:
     size: 99840
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1003
-    converted_non_space_chars: 786
+    converted_text_chars: 8748
+    converted_non_space_chars: 6671
   - id: "210218410-210203392-hwp"
     title: "[별표 2의3] 상장지수펀드증권 상장심사기준<개정 2015.12.16, 2016.6.27, 2017.4.28, 2017.5.2, 2017.10.27, 2018.7.17., 2019.1.25., 2020.7.23., 2022.5.27., 2022.6.30., 2022.8.4., 2022.8.30., 2023.10.17., 2024.1.31,2026. 4. 27.>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_상장지수펀드증권상장심사기준(개정2015.12.16,2016.6.27,2017.4.28,2017.5.2,2017.10.27,2018.7.17.,2019.1.25.,2020.7.23.,2022.5.27.,2022.6.30.,2022.8.4.,2022.8.30.,2023.10.17.,2024.1.31).hwp"
@@ -70,9 +70,10 @@ attachments:
     size: 104960
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1023
-    converted_non_space_chars: 806
+    converted_text_chars: 8472
+    converted_non_space_chars: 6157
     table_row_count: 1
+    formula_hint_count: 1
   - id: "210218410-202406140000022350000016005-byl-hwp"
     title: "[별표 2의4] 주식워런트증권 상장심사기준<개정 2015.12.16, 2016.6.27, 2018.4.6, 2019.4.29>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_주식워런트증권상장심사기준.hwp"
@@ -86,9 +87,10 @@ attachments:
     size: 49664
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1023
-    converted_non_space_chars: 787
+    converted_text_chars: 5460
+    converted_non_space_chars: 3727
     table_row_count: 1
+    formula_hint_count: 2
   - id: "210218410-210203409-hwp"
     title: "[별표 2의5] 상장지수증권 상장심사기준<개정 2015.12.16, 2016.6.27, 2017.2.8, 2017.4.28, 2019.1.25, 2020.7.23, 2022.5.27, 2022.8.4, 2022.10.20., 2023.10.17., 2023.12.7., 2024.1.31,2026. 4. 27.>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_상장지수증권상장심사기준(개정2015.12.16,2016.6.27,2017.2.8,2017.4.28,2019.1.25,2020.7.23,2022.5.27,2022.8.4,2022.10.20.,2023.10.17.,2023.12.7.,2024.1.31).hwp"
@@ -102,9 +104,10 @@ attachments:
     size: 62464
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1022
-    converted_non_space_chars: 792
-    table_row_count: 2
+    converted_text_chars: 10351
+    converted_non_space_chars: 7339
+    table_row_count: 1
+    formula_hint_count: 2
   - id: "210218410-210205138-hwp"
     title: "[별표 3] 신규상장 신청 서류 <개정 2014.6.25, 2014.9.2, 2015.11.4, 2018.12.28, 2019.6.28, 2019.9.10., 2021.5.13., 2022.12.9., 2024.3.11.,2026. 4. 30.>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_신규상장신청서류(개정2014.6.25,2014.9.2,2015.11.4,2018.12.28,2019.6.28,2019.9.10.,2021.5.13.,2022.12.9.,2024.3.11.).hwp"
@@ -118,9 +121,10 @@ attachments:
     size: 93696
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1011
-    converted_non_space_chars: 802
-    table_row_count: 2
+    converted_text_chars: 11231
+    converted_non_space_chars: 8682
+    table_row_count: 58
+    formula_hint_count: 1
   - id: "210218410-202406140000022350000016008-byl-hwp"
     title: "[별표 3의2] 합병상장 신청 서류<신설 2022.2.14>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_합병상장신청서류.hwp"
@@ -134,8 +138,9 @@ attachments:
     size: 29696
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 239
-    converted_non_space_chars: 186
+    converted_text_chars: 349
+    converted_non_space_chars: 280
+    table_row_count: 2
   - id: "210218410-202406140000022350000016009-byl-hwp"
     title: "[별표 4] 재상장 신청 서류 <개정 2018.12.28, 2019.6.28, 2019.9.10, 2021.5.13., 2021.7.22., 2023.7.26.>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_재상장신청서류(개정2018.12.28,2019.6.28,2019.9.10,2021.5.13.,2021.7.22.,2023.7.26.).hwp"
@@ -149,9 +154,9 @@ attachments:
     size: 64512
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1004
-    converted_non_space_chars: 764
-    table_row_count: 1
+    converted_text_chars: 3912
+    converted_non_space_chars: 2880
+    table_row_count: 37
   - id: "210218410-202406140000022350000016010-byl-hwp"
     title: "[별표 5] 추가상장 신청 서류<개정 2014.9.2, 2015.3.27, 2018.3.15, 2019.9.10>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_추가상장신청서류.hwp"
@@ -165,9 +170,9 @@ attachments:
     size: 68608
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1023
-    converted_non_space_chars: 792
-    table_row_count: 1
+    converted_text_chars: 2883
+    converted_non_space_chars: 2199
+    table_row_count: 6
   - id: "210218410-202406140000022350000016011-byl-hwp"
     title: "[별표 6] 변경상장 신청 서류<개정 2014.9.2, 2015.3.27, 2018.3.15, 2019.1.25, 2019.4.29, 2019.9.10, 2020.7.23, 2022.10.20>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_변경상장신청서류.hwp"
@@ -181,9 +186,9 @@ attachments:
     size: 116224
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1022
-    converted_non_space_chars: 793
-    table_row_count: 2
+    converted_text_chars: 2344
+    converted_non_space_chars: 1708
+    table_row_count: 3
   - id: "210218410-210089469-hwp"
     title: "[별표 7] 관리종목지정·해제 시기 <개정 2014.6.25, 2014.9.2, 2015.7.31, 2015.12.16, 2016.10.10, 2019.4.1, 2019.6.28, 2020.3.11, 2020.7.27., 2021.2.10., 2022.12.9.,2025. 7. 9.>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_관리종목지정·해제시기(개정2014.6.25,2014.9.2,2015.7.31,2015.12.16,2016.10.10,2019.4.1,2019.6.28,2020.3.11,2020.7.27.,2021.2.10.,2022.12.9.).hwp"
@@ -197,9 +202,9 @@ attachments:
     size: 66048
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1014
-    converted_non_space_chars: 820
-    table_row_count: 2
+    converted_text_chars: 8578
+    converted_non_space_chars: 6501
+    table_row_count: 48
   - id: "210218410-202406140000022350000016013-byl-hwp"
     title: "[별표 8] 정관 필수기재사항<개정 2022.2.14>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_정관필수기재사항.hwp"
@@ -213,9 +218,10 @@ attachments:
     size: 81920
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1021
-    converted_non_space_chars: 748
-    table_row_count: 1
+    converted_text_chars: 10178
+    converted_non_space_chars: 7177
+    table_row_count: 3
+    formula_hint_count: 1
   - id: "210218410-202406140000022350000016014-byl-hwp"
     title: "[별표 9] 주식워런트증권의 발행조건 변경기준 <개정 2018.01.31., 2019.4.29., 2021.7.22>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_주식워런트증권의발행조건변경기준(개정2018.01.31.,2019.4.29.,2021.7.22).hwp"
@@ -229,9 +235,10 @@ attachments:
     size: 56320
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1022
-    converted_non_space_chars: 798
+    converted_text_chars: 3629
+    converted_non_space_chars: 2715
     table_row_count: 1
+    formula_hint_count: 10
   - id: "210218410-202406140000022350000016015-byl-hwp"
     title: "[별표 9의2] 상장지수증권의 최종거래일 등 변경<신설 2017.2.8., 개정 2020.7.23.>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_상장지수증권의최종거래일등변경(신설2017.2.8.,개정2020.7.23.).hwp"
@@ -245,8 +252,8 @@ attachments:
     size: 43008
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 658
-    converted_non_space_chars: 517
+    converted_text_chars: 713
+    converted_non_space_chars: 576
     table_row_count: 1
   - id: "210218410-210153459-hwp"
     title: "[별표10] 상장수수료 및 연부과금 <개정 2014.6.25, 2014.9.2, 2015.7.31, 2015.12.2, 2016.9.6, 2017.2.8, 2017.10.27, 2018.12.28, 2019.1.25, 2019.4.29, 2020.6.10, 2020.7.23., 2020.12.18., 2022.2.14, 2023.5.8., 2024.3.11., 2025.5.15.,2025. 12. 29.>"
@@ -261,8 +268,10 @@ attachments:
     size: 84480
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1012
-    converted_non_space_chars: 852
+    converted_text_chars: 12711
+    converted_non_space_chars: 9995
+    table_row_count: 40
+    formula_hint_count: 1
   - id: "210218410-202406140000022350000016017-byl-hwp"
     title: "[별표 11] 업종 및 코드 분류표<개정 2017.6.26., 2024.4.3.>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_업종및코드분류표(개정2017.6.26.,2024.4.3.).hwp"
@@ -276,9 +285,9 @@ attachments:
     size: 75776
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1015
-    converted_non_space_chars: 858
-    table_row_count: 2
+    converted_text_chars: 19983
+    converted_non_space_chars: 14142
+    table_row_count: 237
   - id: "210218410-202406140000022350000016018-byl-hwp"
     title: "[별지 제1호 서식] 증권 상장폐지신청서<개정 2014.9.2, 2019.9.10>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_증권상장폐지신청서.hwp"
@@ -292,9 +301,9 @@ attachments:
     size: 34816
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 626
-    converted_non_space_chars: 339
-    table_row_count: 2
+    converted_text_chars: 492
+    converted_non_space_chars: 414
+    table_row_count: 1
   - id: "210218410-202406140000022350000016019-byl-hwp"
     title: "[별지 제2호 서식] 상장계약서<개정 2014.9.2, 2015.7.31, 2015.12.2>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_상장계약서.hwp"
@@ -308,9 +317,9 @@ attachments:
     size: 62976
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1023
-    converted_non_space_chars: 762
-    table_row_count: 1
+    converted_text_chars: 5775
+    converted_non_space_chars: 4150
+    table_row_count: 2
   - id: "210218410-202406140000022350000016020-byl-hwp"
     title: "[별지 제2호의2 서식] 상장명세서<신설 2014.6.25>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_상장명세서.hwp"
@@ -324,9 +333,9 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1013
-    converted_non_space_chars: 629
-    table_row_count: 8
+    converted_text_chars: 2346
+    converted_non_space_chars: 1383
+    table_row_count: 1
   - id: "210218410-202406140000022350000016021-byl-hwp"
     title: "[별지 제3호 서식] 상장유예 이의신청서"
     file_name: "유가증권시장 상장규정 시행세칙_129차_상장유예이의신청서.hwp"
@@ -340,9 +349,9 @@ attachments:
     size: 39424
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 677
-    converted_non_space_chars: 372
-    table_row_count: 2
+    converted_text_chars: 581
+    converted_non_space_chars: 469
+    table_row_count: 1
   - id: "210218410-202406140000022350000016022-byl-hwp"
     title: "[별지 제4호 서식] 상장폐지 이의신청서<개정 2022.12.9>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_상장폐지이의신청서.hwp"
@@ -356,9 +365,9 @@ attachments:
     size: 38912
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 681
-    converted_non_space_chars: 375
-    table_row_count: 2
+    converted_text_chars: 584
+    converted_non_space_chars: 472
+    table_row_count: 1
   - id: "210218410-202406140000022350000016023-byl-hwp"
     title: "[별지 제5호 서식] 주식분포상황표<개정 2016.4.4., 2019.9.10., 2022.2.14., 2022.3.17.>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_주식분포상황표(개정2016.4.4.,2019.9.10.,2022.2.14.,2022.3.17.).hwp"
@@ -372,9 +381,10 @@ attachments:
     size: 68096
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1010
-    converted_non_space_chars: 805
-    table_row_count: 3
+    converted_text_chars: 6457
+    converted_non_space_chars: 3921
+    table_row_count: 2
+    formula_hint_count: 5
   - id: "210218410-210089477-hwp"
     title: "[별지 제6호 서식] 주권비상장법인과의 합병 관련 확인서<개정 2014.10.1, 2015.7.31, 2019.6.28,2025. 7. 9.>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_주권비상장법인과의합병관련확인서.hwp"
@@ -388,10 +398,10 @@ attachments:
     size: 138752
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1021
-    converted_non_space_chars: 753
-    table_row_count: 2
-    formula_hint_count: 6
+    converted_text_chars: 4838
+    converted_non_space_chars: 3305
+    table_row_count: 1
+    formula_hint_count: 29
   - id: "210218410-202406140000022350000016025-byl-hwp"
     title: "[별지 제7호 서식] 주권비상장법인과의 주식의 포괄적 교환 관련 확인서<개정 2014.10.1, 2015.7.31, 2019.6.28>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_주권비상장법인과의주식의포괄적교환관련확인서.hwp"
@@ -405,10 +415,10 @@ attachments:
     size: 70144
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1021
-    converted_non_space_chars: 754
-    table_row_count: 2
-    formula_hint_count: 6
+    converted_text_chars: 3836
+    converted_non_space_chars: 2648
+    table_row_count: 1
+    formula_hint_count: 20
   - id: "210218410-202406140000022350000016026-byl-hwp"
     title: "[별지 제8호 서식] 주권비상장법인으로부터의 영업양수와 제3자 배정 증자등 관련 확인서<개정 2014.10.1, 2015.7.31>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_주권비상장법인으로부터의영업양수와제3자배정증자등관련확인서.hwp"
@@ -422,10 +432,10 @@ attachments:
     size: 74752
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1020
-    converted_non_space_chars: 751
-    table_row_count: 2
-    formula_hint_count: 6
+    converted_text_chars: 6318
+    converted_non_space_chars: 4454
+    table_row_count: 1
+    formula_hint_count: 52
   - id: "210218410-202406140000022350000016027-byl-hwp"
     title: "[별지 제9호 서식] 주권비상장법인으로부터의 영업양수와 주식이전등 관련 확인서<개정 2014.10.1, 2015.7.31>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_주권비상장법인으로부터의영업양수와주식이전등관련확인서.hwp"
@@ -439,10 +449,10 @@ attachments:
     size: 145920
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1019
-    converted_non_space_chars: 782
-    table_row_count: 2
-    formula_hint_count: 7
+    converted_text_chars: 6477
+    converted_non_space_chars: 4595
+    table_row_count: 1
+    formula_hint_count: 51
   - id: "210218410-202406140000022350000016028-byl-hwp"
     title: "[별지 제10호 서식] 주권비상장법인이 발행한 지분증권 양수와 제3자 배정 증자등 관련 확인서<개정 2014.10.1, 2015.7.31, 2019.6.28>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_주권비상장법인이발행한지분증권양수와제3자배정증자등관련확인서.hwp"
@@ -456,10 +466,10 @@ attachments:
     size: 70656
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1017
-    converted_non_space_chars: 796
-    table_row_count: 2
-    formula_hint_count: 5
+    converted_text_chars: 6691
+    converted_non_space_chars: 4774
+    table_row_count: 1
+    formula_hint_count: 64
   - id: "210218410-202406140000022350000016029-byl-hwp"
     title: "[별지 제11호 서식] 주권비상장법인이 발행한 지분증권 양수와 주식이전등 관련 확인서<개정 2014.10.1, 2015.7.31, 2019.6.28>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_주권비상장법인이발행한지분증권양수와주식이전등관련확인서.hwp"
@@ -473,10 +483,10 @@ attachments:
     size: 70144
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1017
-    converted_non_space_chars: 799
-    table_row_count: 2
-    formula_hint_count: 7
+    converted_text_chars: 6744
+    converted_non_space_chars: 4819
+    table_row_count: 1
+    formula_hint_count: 66
   - id: "210218410-202406140000022350000016030-byl-hwp"
     title: "[별지 제12호 서식] 현물출자에 따른 제3자 배정 신주발행 관련 확인서<개정 2014.10.1, 2015.7.31, 2019.6.28>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_현물출자에따른제3자배정신주발행관련확인서.hwp"
@@ -490,10 +500,10 @@ attachments:
     size: 71680
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1015
-    converted_non_space_chars: 781
+    converted_text_chars: 5077
+    converted_non_space_chars: 3525
     table_row_count: 1
-    formula_hint_count: 6
+    formula_hint_count: 36
   - id: "210218410-202406140000022350000016031-byl-hwp"
     title: "[별지 제13호 서식] 신주일괄상장신청서<개정 2019.9.10>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_신주일괄상장신청서.hwp"
@@ -507,9 +517,9 @@ attachments:
     size: 41984
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1002
-    converted_non_space_chars: 633
-    table_row_count: 2
+    converted_text_chars: 1512
+    converted_non_space_chars: 949
+    table_row_count: 1
   - id: "210218410-202406140000022350000016032-byl-hwp"
     title: "[별지 제14호 서식] 신주발행통지서<개정 2019.9.10>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_신주발행통지서.hwp"
@@ -523,9 +533,10 @@ attachments:
     size: 43520
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 993
-    converted_non_space_chars: 617
-    table_row_count: 4
+    converted_text_chars: 3881
+    converted_non_space_chars: 2308
+    table_row_count: 1
+    formula_hint_count: 22
   - id: "210218410-202406140000022350000016033-byl-hwp"
     title: "[별지 제15호 서식] 최대주주인 명목회사의 최대주주 변경신고서"
     file_name: "유가증권시장 상장규정 시행세칙_129차_최대주주인명목회사의최대주주변경신고서.hwp"
@@ -539,8 +550,8 @@ attachments:
     size: 47616
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1012
-    converted_non_space_chars: 782
+    converted_text_chars: 2105
+    converted_non_space_chars: 1443
     table_row_count: 1
   - id: "210218410-202406140000022350000016034-byl-hwp"
     title: "[별지 제16호 서식] 명목회사 확인서"
@@ -555,9 +566,10 @@ attachments:
     size: 48640
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1014
-    converted_non_space_chars: 778
-    table_row_count: 3
+    converted_text_chars: 2340
+    converted_non_space_chars: 1495
+    table_row_count: 1
+    formula_hint_count: 8
   - id: "210218410-202406140000022350000016035-byl-hwp"
     title: "[별지 제17호 서식] 내부회계관리제도 운영보고서"
     file_name: "유가증권시장 상장규정 시행세칙_129차_내부회계관리제도운영보고서.hwp"
@@ -571,9 +583,10 @@ attachments:
     size: 49664
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1019
-    converted_non_space_chars: 669
-    table_row_count: 5
+    converted_text_chars: 3275
+    converted_non_space_chars: 1996
+    table_row_count: 1
+    formula_hint_count: 9
   - id: "210218410-202406140000022350000016036-byl-hwp"
     title: "[별지 제18호 서식] 최대주주등 소유주식변동신고서<개정 2014.10.1>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_최대주주등소유주식변동신고서.hwp"
@@ -587,10 +600,10 @@ attachments:
     size: 75264
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1013
-    converted_non_space_chars: 851
+    converted_text_chars: 5459
+    converted_non_space_chars: 3292
     table_row_count: 2
-    formula_hint_count: 1
+    formula_hint_count: 2
   - id: "210218410-202406140000022350000016037-byl-hwp"
     title: "[별지 제19호 서식] 국채증권 상장의뢰서<개정 2019.9.10>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_국채증권상장의뢰서.hwp"
@@ -604,8 +617,8 @@ attachments:
     size: 39936
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 558
-    converted_non_space_chars: 352
+    converted_text_chars: 474
+    converted_non_space_chars: 407
     table_row_count: 1
   - id: "210218410-202406140000022350000016038-byl-hwp"
     title: "[별지 제20호 서식] 채무증권 일괄상장신청서<개정 2019.9.10>"
@@ -620,9 +633,9 @@ attachments:
     size: 43520
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 934
-    converted_non_space_chars: 685
-    table_row_count: 3
+    converted_text_chars: 644
+    converted_non_space_chars: 590
+    table_row_count: 1
   - id: "210218410-210141988-hwp"
     title: "[별지 제21호 서식] 전환청구권 등 행사보고서<개정 2019.9.10,2025. 11. 11.>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_전환청구권등행사보고서.hwp"
@@ -636,9 +649,9 @@ attachments:
     size: 40960
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 581
-    converted_non_space_chars: 342
-    table_row_count: 2
+    converted_text_chars: 487
+    converted_non_space_chars: 415
+    table_row_count: 1
   - id: "210218410-202406140000022350000016040-byl-hwp"
     title: "[별지 제22호 서식] 주식워런트증권 권리행사보고서"
     file_name: "유가증권시장 상장규정 시행세칙_129차_주식워런트증권권리행사보고서.hwp"
@@ -652,9 +665,9 @@ attachments:
     size: 45568
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 758
-    converted_non_space_chars: 511
-    table_row_count: 3
+    converted_text_chars: 639
+    converted_non_space_chars: 558
+    table_row_count: 1
   - id: "210218410-202406140000022350000016041-byl-hwp"
     title: "[별지 제23호 서식] 주식워런트증권 조기종료 보고서"
     file_name: "유가증권시장 상장규정 시행세칙_129차_주식워런트증권조기종료보고서.hwp"
@@ -668,9 +681,9 @@ attachments:
     size: 40960
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 688
-    converted_non_space_chars: 430
-    table_row_count: 2
+    converted_text_chars: 575
+    converted_non_space_chars: 485
+    table_row_count: 1
   - id: "210218410-202406140000022350000016042-byl-hwp"
     title: "[별지 제24호 서식] 주식워런트증권 조기종료 결제보고서"
     file_name: "유가증권시장 상장규정 시행세칙_129차_주식워런트증권조기종료결제보고서.hwp"
@@ -684,9 +697,9 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 767
-    converted_non_space_chars: 495
-    table_row_count: 2
+    converted_text_chars: 655
+    converted_non_space_chars: 560
+    table_row_count: 1
   - id: "210218410-202406140000022350000016043-byl-hwp"
     title: "[별지 제25호 서식] 주식워런트증권 유동성공급 및 취득(처분)보고서"
     file_name: "유가증권시장 상장규정 시행세칙_129차_주식워런트증권유동성공급및취득(처분)보고서.hwp"
@@ -700,8 +713,8 @@ attachments:
     size: 43008
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 663
-    converted_non_space_chars: 429
+    converted_text_chars: 585
+    converted_non_space_chars: 522
     table_row_count: 1
   - id: "210218410-202406140000022350000016044-byl-hwp"
     title: "[별지 제25호의2 서식] 상장지수증권 유동성공급자의 취득(처분)수량 정정보고서<신설 2014.9.2., 개정 2020.7.23.>"
@@ -716,8 +729,8 @@ attachments:
     size: 38912
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 677
-    converted_non_space_chars: 413
+    converted_text_chars: 571
+    converted_non_space_chars: 482
     table_row_count: 1
   - id: "210218410-202406140000022350000016045-byl-hwp"
     title: "[별지 제25호의3 서식] 상장지수증권 조기상환보고서<신설 2017.2.8., 개정 2020.7.23.>"
@@ -732,9 +745,9 @@ attachments:
     size: 37888
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 617
-    converted_non_space_chars: 383
-    table_row_count: 2
+    converted_text_chars: 536
+    converted_non_space_chars: 451
+    table_row_count: 1
   - id: "210218410-202406140000022350000016046-byl-hwp"
     title: "[별지 제25호의4 서식] 상장지수증권 조기상환결제보고서<신설 2017.2.8., 개정 2020.7.23.>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_상장지수증권조기상환결제보고서(신설2017.2.8.,개정2020.7.23.).hwp"
@@ -748,8 +761,8 @@ attachments:
     size: 38912
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 585
-    converted_non_space_chars: 363
+    converted_text_chars: 503
+    converted_non_space_chars: 431
     table_row_count: 1
   - id: "210218410-202406140000022350000016047-byl-hwp"
     title: "[별지 제25호의5 서식] 상장지수증권 조기상환조건 미성취 보고서<신설 2017.2.8., 개정 2020.7.23.>"
@@ -764,8 +777,8 @@ attachments:
     size: 33792
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 521
-    converted_non_space_chars: 306
+    converted_text_chars: 435
+    converted_non_space_chars: 366
     table_row_count: 1
   - id: "210218410-202406140000022350000016048-byl-hwp"
     title: "[별지 제26호 서식] 순자본비율 보고서<개정 2014.6.25, 2014.9.2, 2015.2.23, 2018.1.31., 2019.1.25., 2020.7.23.>"
@@ -780,9 +793,9 @@ attachments:
     size: 53760
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1021
-    converted_non_space_chars: 667
-    table_row_count: 2
+    converted_text_chars: 1385
+    converted_non_space_chars: 930
+    table_row_count: 1
   - id: "210218410-202406140000022350000016049-byl-hwp"
     title: "[별지 제27호 서식] 신규상장신청서(채무증권, 주가연계증권)<개정 2014.6.25, 2014.9.2, 2019.9.10>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_신규상장신청서(채무증권,주가연계증권).hwp"
@@ -796,9 +809,9 @@ attachments:
     size: 54784
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 858
-    converted_non_space_chars: 564
-    table_row_count: 5
+    converted_text_chars: 810
+    converted_non_space_chars: 747
+    table_row_count: 1
     formula_hint_count: 1
   - id: "210218410-202406140000022350000016050-byl-hwp"
     title: "[별지 제28호 서식] 외국채무증권 신규상장신청서<개정 2019.9.10>"
@@ -813,9 +826,9 @@ attachments:
     size: 40960
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 981
-    converted_non_space_chars: 638
-    table_row_count: 5
+    converted_text_chars: 844
+    converted_non_space_chars: 741
+    table_row_count: 1
   - id: "210218410-202406140000022350000016051-byl-hwp"
     title: "[별지 제29호 서식] 신주인수권증권 신규상장신청서<개정 2018.12.28, 2019.9.10>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_신주인수권증권신규상장신청서.hwp"
@@ -829,9 +842,9 @@ attachments:
     size: 43008
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 986
-    converted_non_space_chars: 711
-    table_row_count: 2
+    converted_text_chars: 961
+    converted_non_space_chars: 857
+    table_row_count: 1
   - id: "210218410-202406140000022350000016052-byl-hwp"
     title: "[별지 제30호 서식] 신주인수권증서 신규상장신청서<개정 2018.12.28, 2019.9.10>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_신주인수권증서신규상장신청서.hwp"
@@ -845,9 +858,9 @@ attachments:
     size: 92672
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 812
-    converted_non_space_chars: 539
-    table_row_count: 2
+    converted_text_chars: 713
+    converted_non_space_chars: 610
+    table_row_count: 1
   - id: "210218410-202406140000022350000016053-byl-hwp"
     title: "[별지 제31호 서식] 채무증권재상장신청서<개정 2019.9.10>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_채무증권재상장신청서.hwp"
@@ -861,9 +874,9 @@ attachments:
     size: 54272
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 845
-    converted_non_space_chars: 545
-    table_row_count: 5
+    converted_text_chars: 791
+    converted_non_space_chars: 732
+    table_row_count: 1
     formula_hint_count: 1
   - id: "210218410-202406140000022350000016054-byl-hwp"
     title: "[별지 제32호 서식] 추가상장신청서 <개정 2014.9.2, 2014.10.1., 2019.9.10., 2022.3.17.>"
@@ -878,9 +891,10 @@ attachments:
     size: 108032
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 988
-    converted_non_space_chars: 676
-    table_row_count: 3
+    converted_text_chars: 6189
+    converted_non_space_chars: 3818
+    table_row_count: 1
+    formula_hint_count: 20
   - id: "210218410-202406140000022350000016055-byl-hwp"
     title: "[별지 제33호 서식] 변경상장신청서<개정 2014.9.2, 2015.7.31, 2016.4.4., 2019.9.10., 2020.7.23.>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_변경상장신청서(개정2014.9.2,2015.7.31,2016.4.4.,2019.9.10.,2020.7.23.).hwp"
@@ -894,10 +908,10 @@ attachments:
     size: 48640
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1012
-    converted_non_space_chars: 719
-    table_row_count: 2
-    formula_hint_count: 1
+    converted_text_chars: 4221
+    converted_non_space_chars: 2648
+    table_row_count: 6
+    formula_hint_count: 2
   - id: "210218410-202406140000022350000016056-byl-hwp"
     title: "[별지 제34호 서식] 추가/변경상장신청서(상장지수펀드)"
     file_name: "유가증권시장 상장규정 시행세칙_129차_추가_변경상장신청서(상장지수펀드).hwp"
@@ -911,9 +925,9 @@ attachments:
     size: 48640
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1015
-    converted_non_space_chars: 566
-    table_row_count: 3
+    converted_text_chars: 801
+    converted_non_space_chars: 701
+    table_row_count: 1
   - id: "210218410-202406140000022350000016057-byl-hwp"
     title: "[별지 제35호 서식] 수량감소 변경상장신청서(상장지수증권)<신설 2014.9.2, 2019.1.25>"
     file_name: "유가증권시장 상장규정 시행세칙_129차_수량감소변경상장신청서(상장지수증권).hwp"
@@ -927,8 +941,8 @@ attachments:
     size: 70144
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 503
-    converted_non_space_chars: 292
+    converted_text_chars: 405
+    converted_non_space_chars: 345
     table_row_count: 1
   - id: "210218410-202406140000022350000016058-byl-hwp"
     title: "[별지 제36호 서식] 자산의 구성현황 확인서<신설 2018.12.28>"
@@ -943,8 +957,9 @@ attachments:
     size: 44032
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 967
-    converted_non_space_chars: 658
+    converted_text_chars: 1961
+    converted_non_space_chars: 1369
+    table_row_count: 15
 ---
 
 제1장 총칙

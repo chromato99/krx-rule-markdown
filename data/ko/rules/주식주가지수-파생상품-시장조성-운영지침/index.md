@@ -23,8 +23,9 @@ attachments:
     size: 55296
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1419
-    converted_non_space_chars: 1155
+    converted_text_chars: 4775
+    converted_non_space_chars: 3601
+    table_row_count: 24
     formula_hint_count: 2
   - id: "210202173-210149407-hwp"
     title: "[별표 2] 시장조성상품 배정 기준<개정 2023.12.20, 2024.4.12,2024. 12. 12.,2025. 10. 23.,2025. 12. 12.>"
@@ -39,8 +40,8 @@ attachments:
     size: 91648
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1002
-    converted_non_space_chars: 754
+    converted_text_chars: 2013
+    converted_non_space_chars: 1559
   - id: "210202173-210069538-hwp"
     title: "[별표 3] 시장조성의무 설정 기준<개정 2023.1.2, 2023.12.20,2024. 12. 12.,2025. 6. 9.>"
     file_name: "주식·주가지수 파생상품 시장조성 운영지침_11차_시장조성의무설정기준.hwp"
@@ -54,10 +55,10 @@ attachments:
     size: 42496
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 854
-    converted_non_space_chars: 665
-    table_row_count: 4
-    formula_hint_count: 5
+    converted_text_chars: 1752
+    converted_non_space_chars: 1339
+    table_row_count: 10
+    formula_hint_count: 3
   - id: "210202173-210140405-hwp"
     title: "[별표 4] 시장조성실적 평가 기준<개정 2022.1.5, 2023.1.2, 2023.7.23, 2023.12.20, 2024.4.12,2024. 12. 12.,2025. 6. 9.,2025. 10. 23.,2025. 12. 12.>"
     file_name: "주식·주가지수 파생상품 시장조성 운영지침_11차_시장조성실적평가기준.hwp"
@@ -71,10 +72,10 @@ attachments:
     size: 145920
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 5660
-    converted_non_space_chars: 4808
-    table_row_count: 3
-    formula_hint_count: 60
+    converted_text_chars: 24712
+    converted_non_space_chars: 19619
+    table_row_count: 85
+    formula_hint_count: 108
   - id: "210202173-210134276-hwp"
     title: "[별표 5] 시장조성 의무 조정 기준<개정 2023.1.2, 2024.4.12,2025. 10. 23.>"
     file_name: "주식·주가지수 파생상품 시장조성 운영지침_11차_시장조성의무조정기준.hwp"
@@ -88,8 +89,9 @@ attachments:
     size: 56320
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1005
-    converted_non_space_chars: 790
+    converted_text_chars: 1822
+    converted_non_space_chars: 1323
+    table_row_count: 11
   - id: "210202173-210077684-hwp"
     title: "[별지 제1호 서식] 시장조성 담당자 신고관련 제출 서류 양식<개정 2025. 6. 9.>"
     file_name: "주식·주가지수 파생상품 시장조성 운영지침_11차_시장조성담당자신고관련제출서류양식.hwp"
@@ -103,8 +105,8 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1013
-    converted_non_space_chars: 706
+    converted_text_chars: 1453
+    converted_non_space_chars: 1179
     table_row_count: 3
   - id: "210202173-202404120000008760000292007-byl-hwp"
     title: "[별지 제2호 서식] 차입공매도 내부통제장치 구비 확인서"
@@ -119,9 +121,8 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 804
+    converted_text_chars: 430
     converted_non_space_chars: 329
-    table_row_count: 1
   - id: "210202173-210140417-hwp"
     title: "[별지 제3호 서식] 주식·주가지수 파생상품 시장조성 표준 계약서 <개정 2022.1.5., 2023.1.2., 2024.4.12><개정 2024. 12. 12.,2025. 6. 9.,2025. 7. 22.,2025. 10. 23.,2025. 12. 12.>"
     file_name: "주식·주가지수 파생상품 시장조성 운영지침_11차_주식·주가지수파생상품시장조성표준계약서(개정2022.1.5.,2023.1.2.,2024.4.12).hwp"
@@ -135,8 +136,9 @@ attachments:
     size: 63488
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1004
-    converted_non_space_chars: 777
+    converted_text_chars: 6798
+    converted_non_space_chars: 5176
+    table_row_count: 15
   - id: "210202173-210077710-hwp"
     title: "[별지 제4호 서식] 시장조성자 계좌 신규 및 변경 신고서<개정 2025. 6. 9.>"
     file_name: "주식·주가지수 파생상품 시장조성 운영지침_11차_시장조성자계좌신규및변경신고서.hwp"
@@ -150,8 +152,8 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 645
-    converted_non_space_chars: 474
+    converted_text_chars: 607
+    converted_non_space_chars: 539
     table_row_count: 1
     formula_hint_count: 2
   - id: "210202173-202404120000008760000292010-byl-hwp"
@@ -167,8 +169,8 @@ attachments:
     size: 14848
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 723
-    converted_non_space_chars: 346
+    converted_text_chars: 503
+    converted_non_space_chars: 401
     table_row_count: 1
   - id: "210202173-210077729-hwp"
     title: "[별지 제6호 서식] 위험회피거래신고서 작성용 정보 제공에 관한 합의서<신설 2024.4.12,개정 2025. 6. 9.>"
@@ -183,8 +185,9 @@ attachments:
     size: 54272
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1006
-    converted_non_space_chars: 782
+    converted_text_chars: 1275
+    converted_non_space_chars: 987
+    table_row_count: 3
 ---
 
 **제1조(목적)**이 지침은 「파생상품시장 업무규정」제2편 제2장에 따른 주식상품거래의 시장조성에 필요한 사항을 규정함을 목적으로 한다.

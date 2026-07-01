@@ -23,9 +23,8 @@ attachments:
     size: 11264
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 442
+    converted_text_chars: 359
     converted_non_space_chars: 244
-    table_row_count: 2
 ---
 
 **제1조(목적)**이 기준은 한국거래소(이하 "거래소"라 한다)의 주주가 거래소 「정관」제58조의 규정에 의하여 거래소 주식의 상장 전에 그 보유주식을 양도하고자 하는 경우에 적용함을 목적으로 한다.<개정 2009. 12. 8.>

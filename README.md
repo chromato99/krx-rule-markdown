@@ -9,6 +9,7 @@
 - 한국어/영문 corpus를 `ko/`, `en/` 디렉터리로 분리
 - 별표·서식·첨부 원본 보존
 - HWP/HWPX/PDF/HTML 첨부의 Markdown 텍스트 변환
+- HWP/HWPX 표 구조를 가능한 경우 Markdown/HTML table로 보존
 - HWP EqEdit 수식 원본 보존 및 RAG 참조용 LaTeX(best-effort) 블록 생성
 - 변환 품질 점검과 metadata 반영
 - corpus 참조 무결성 검증
@@ -26,6 +27,7 @@ python3 -m pip install -e ".[convert]"
 
 ```bash
 krx-rule-markdown sync --all --data-dir data
+krx-rule-markdown reconvert --data-dir data
 krx-rule-markdown clean --data-dir data --drop-past-rule-attachments --prune-unreferenced-attachments
 krx-rule-markdown quality --data-dir data --output data/reports/data-quality.json --update-metadata
 krx-rule-markdown validate --data-dir data --quality
@@ -46,16 +48,29 @@ krx-rule-markdown sync --rule-id 210203562 --language en --data-dir /tmp/krx-rul
 krx-rule-markdown validate --data-dir /tmp/krx-rule-smoke --quality
 ```
 
+이미 받은 raw 첨부를 새 변환 로직으로 다시 Markdown화하려면 `reconvert`를 사용합니다. HWP/HWPX 표·수식 변환 로직을 개선한 뒤 기존 corpus에 반영할 때 유용합니다.
+
+```bash
+krx-rule-markdown reconvert --data-dir data
+krx-rule-markdown reconvert --data-dir data --document-id 210217137
+```
+
 ## HWP 수식 변환 정책
 
-HWP 첨부에서 EqEdit 수식 블록을 찾으면 변환 Markdown 끝에 `## HWP 수식` 섹션을 추가합니다. 이 섹션은 RAG가 놓치기 쉬운 수식을 명시적으로 읽을 수 있도록 다음 두 블록을 항상 함께 제공합니다.
+HWP 첨부에서 EqEdit 수식 블록을 찾으면 문단이나 표 안의 수식 placeholder 위치에 최대한 가깝게 LaTeX 참조를 삽입합니다. 원본 확인이 가능하도록 해당 문단 또는 표 근처에 다음 두 블록도 함께 제공합니다.
 
 - `hwp-equation`: HWP EqEdit 원본 수식
 - `math`: Markdown/RAG 참조용 LaTeX 자동 변환 결과
 
 LaTeX는 `best-effort` 변환입니다. `over`, 첨자/윗첨자, `sum`, `prod`, `sqrt`, `hat`, `bar`, `LEFT/RIGHT`, `cases`, `eqalign`, `GEQ/LEQ/NEQ`, 한국어 텍스트 래핑 같은 KRX 첨부에서 확인된 주요 패턴을 변환하지만, 원본 HWP 렌더링과 100% 동일하다는 법적·수학적 보증은 하지 않습니다. 그래서 각 문서에는 “수식을 인용하거나 검증할 때는 원본 HWP 수식과 LaTeX 변환을 함께 참조하라”는 안내문이 함께 들어갑니다.
 
-RAG 사용자는 LaTeX 블록을 우선 읽어도 되지만, 답변 근거를 엄밀하게 확인할 때는 바로 위의 `hwp-equation` 원본도 함께 확인해야 합니다. 변환기가 원본에서 닫히지 않은 괄호 같은 불완전한 EqEdit 스크립트를 만나면 LaTeX가 깨지지 않도록 보정할 수 있습니다.
+RAG 사용자는 원문 위치 근처의 LaTeX 참조를 우선 읽어도 되지만, 답변 근거를 엄밀하게 확인할 때는 근처의 `hwp-equation` 원본도 함께 확인해야 합니다. 변환기가 원본에서 닫히지 않은 괄호 같은 불완전한 EqEdit 스크립트를 만나면 LaTeX가 깨지지 않도록 보정할 수 있습니다. 원문 위치를 안정적으로 복원하지 못한 수식만 `## 위치 미확정 HWP 수식` 섹션으로 분리합니다.
+
+## 표 변환 정책
+
+HWPX 표는 행과 셀을 파싱해 일반 표는 Markdown table로 변환합니다. 병합 셀처럼 Markdown table로 표현하기 어려운 구조는 `rowspan`, `colspan`을 포함한 HTML table로 변환해 행/열 모양을 최대한 유지합니다.
+
+HWP 파일은 `pyhwp` 모델에서 표 행/셀과 병합 정보를 읽어 Markdown table 또는 HTML table로 변환합니다. 모델 기반 복원이 실패한 경우에도 텍스트 추출 결과에서 `<셀><셀>` 형태로 드러나는 표 행은 Markdown table block으로 후처리합니다. 이 방식은 행/열 구조를 RAG가 읽기 쉽게 보존하기 위한 것이며, 원본 HWP의 픽셀 단위 너비, 테두리, 정렬, 셀 배경색까지 동일하게 재현하지는 않습니다.
 
 ## 산출물 구조
 
@@ -84,7 +99,7 @@ data/
 
 각 Markdown frontmatter에는 `language: "ko"` 또는 `language: "en"`이 들어갑니다. 영문 규정 문서는 한국어 규정과 구분되는 `{한국어 id}-en` id를 사용하고, `source_id`로 원 한국어 규정 id를 보존합니다.
 규정/예고의 별표, 서식, 첨부는 해당 문서 디렉터리 안에 함께 저장되므로 RAG 처리 시 본문과 부속 문서를 한 단위로 추적할 수 있습니다.
-HWP 첨부에 수식이 있으면 변환된 첨부 Markdown의 `## HWP 수식` 섹션에 원본 EqEdit와 LaTeX(best-effort)가 나란히 저장됩니다.
+HWP 첨부에 수식이 있으면 가능한 경우 원문 문단의 placeholder 위치에 가까운 곳에 LaTeX(best-effort)가 삽입되며, 원본 EqEdit 블록은 해당 문단 또는 표 근처에 함께 저장됩니다. 원위치가 복원되지 않은 수식만 별도 위치 미확정 섹션으로 분리됩니다.
 
 `data/index`는 이 프로젝트가 만들지 않습니다. BM25/vector index는 [`krx-rule-mcp`](https://github.com/chromato99/krx-rule-mcp)의 `krx-rule-index`가 이 corpus를 입력으로 받아 생성합니다.
 

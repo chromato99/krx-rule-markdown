@@ -23,9 +23,9 @@ attachments:
     size: 45056
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1009
-    converted_non_space_chars: 721
-    table_row_count: 5
+    converted_text_chars: 1188
+    converted_non_space_chars: 991
+    table_row_count: 2
   - id: "204848011-202304270000008300000318002-byl-hwp"
     title: "[별지 제2호 서식] 손해배상 심사 결과에 관한 통지서"
     file_name: "전자금융거래 분쟁처리지침_0차_손해배상심사결과에관한통지서.hwp"
@@ -39,9 +39,9 @@ attachments:
     size: 28672
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 264
-    converted_non_space_chars: 144
-    table_row_count: 2
+    converted_text_chars: 229
+    converted_non_space_chars: 191
+    table_row_count: 1
 ---
 
 **제1조(목적)**이 지침은 「전자금융거래법」 제27조에 따라 한국거래소가 전자금융거래와 관련하여 이용자가 제기하는 정당한 의견이나 불만을 반영하고 이용자가 전자금융거래에서 입은 손해를 배상하기 위해 필요한 사항을 규정함을 목적으로 한다.

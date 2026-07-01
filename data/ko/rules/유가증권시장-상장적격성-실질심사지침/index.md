@@ -23,8 +23,9 @@ attachments:
     size: 16384
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1016
-    converted_non_space_chars: 769
+    converted_text_chars: 1575
+    converted_non_space_chars: 1232
+    table_row_count: 7
   - id: "210128148-202012280000007080000014002-byl-hwp"
     title: "[별표 2] 상장적격성 실질심사기준"
     file_name: "유가증권시장 상장적격성 실질심사지침_9차_상장적격성실질심사기준.hwp"
@@ -38,9 +39,9 @@ attachments:
     size: 18432
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1019
-    converted_non_space_chars: 778
-    table_row_count: 1
+    converted_text_chars: 2323
+    converted_non_space_chars: 1702
+    table_row_count: 16
   - id: "210128148-210130790-hwp"
     title: "[별표 3] 회계처리기준 위반금액 산정방식<개정 2025. 11. 21.>"
     file_name: "유가증권시장 상장적격성 실질심사지침_9차_회계처리기준위반금액산정방식.hwp"
@@ -54,7 +55,7 @@ attachments:
     size: 31232
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 326
+    converted_text_chars: 320
     converted_non_space_chars: 250
 ---
 

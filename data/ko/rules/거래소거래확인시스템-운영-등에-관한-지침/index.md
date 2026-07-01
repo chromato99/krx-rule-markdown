@@ -23,8 +23,8 @@ attachments:
     size: 33280
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 458
-    converted_non_space_chars: 256
+    converted_text_chars: 424
+    converted_non_space_chars: 343
     table_row_count: 2
   - id: "204847707-202306260000008360000227002-byl-hwp"
     title: "[별지 제2호 서식] 거래확인서비스 이용계약 해지 신청서"
@@ -39,8 +39,8 @@ attachments:
     size: 32768
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 447
-    converted_non_space_chars: 242
+    converted_text_chars: 407
+    converted_non_space_chars: 325
     table_row_count: 2
 ---
 

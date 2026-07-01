@@ -23,7 +23,7 @@ attachments:
     size: 123310
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 526
+    converted_text_chars: 528
     converted_non_space_chars: 395
     formula_hint_count: 4
   - id: "210220231-210220236-pdf"
@@ -40,7 +40,7 @@ attachments:
     size: 143565
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1534
+    converted_text_chars: 1536
     converted_non_space_chars: 1141
     formula_hint_count: 2
 ---

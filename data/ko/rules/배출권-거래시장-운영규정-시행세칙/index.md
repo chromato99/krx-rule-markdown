@@ -23,7 +23,7 @@ attachments:
     size: 32768
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 394
+    converted_text_chars: 384
     converted_non_space_chars: 298
   - id: "210132992-202306270000021320000243002-byl-hwp"
     title: "[별지 제1호 서식] 배출권 거래시장 회원가입 신청서<개정 2021.10.26>"
@@ -38,8 +38,8 @@ attachments:
     size: 40960
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 663
-    converted_non_space_chars: 384
+    converted_text_chars: 656
+    converted_non_space_chars: 521
     table_row_count: 3
   - id: "210132992-210133355-hwp"
     title: "[별지 제2호 서식] 배출권 거래시장 회원탈퇴 신청서<개정 2025. 11. 21.>"
@@ -54,8 +54,8 @@ attachments:
     size: 33792
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 485
-    converted_non_space_chars: 246
+    converted_text_chars: 468
+    converted_non_space_chars: 367
     table_row_count: 3
     formula_hint_count: 1
   - id: "210132992-202306270000021320000243004-byl-hwp"
@@ -71,8 +71,8 @@ attachments:
     size: 36352
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 587
-    converted_non_space_chars: 312
+    converted_text_chars: 566
+    converted_non_space_chars: 445
     table_row_count: 3
   - id: "210132992-210133391-hwp"
     title: "[별지 제4호 서식] 착오매매정정 신청서<신설 2025. 11. 21.>"
@@ -87,8 +87,8 @@ attachments:
     size: 33280
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 618
-    converted_non_space_chars: 303
+    converted_text_chars: 377
+    converted_non_space_chars: 330
     table_row_count: 1
 ---
 

@@ -23,7 +23,7 @@ attachments:
     size: 140753
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 641
+    converted_text_chars: 643
     converted_non_space_chars: 473
     formula_hint_count: 2
   - id: "210221769-210221771-pdf"
@@ -40,7 +40,7 @@ attachments:
     size: 179524
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 4248
+    converted_text_chars: 4250
     converted_non_space_chars: 3371
     formula_hint_count: 2
 ---

@@ -23,8 +23,8 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 601
-    converted_non_space_chars: 485
+    converted_text_chars: 684
+    converted_non_space_chars: 524
     table_row_count: 1
   - id: "210214876-202410150000022530000006002-byl-hwp"
     title: "[별지 제2호 서식] 공정거래질서저해우려 풍문 또는 이상거래 징후·현상 보고<개정 2009.2.3, 2012.4.10>"
@@ -39,9 +39,9 @@ attachments:
     size: 36352
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 338
-    converted_non_space_chars: 256
-    table_row_count: 1
+    converted_text_chars: 351
+    converted_non_space_chars: 264
+    table_row_count: 2
   - id: "210214876-202410150000022530000006004-byl-hwp"
     title: "[별지 제4호 서식] 민원·분쟁현황 및 처리결과 보고<개정 2009.2.3, 2012.4.10>"
     file_name: "시장감시규정 시행세칙_73차_민원·분쟁현황및처리결과보고.hwp"
@@ -55,8 +55,8 @@ attachments:
     size: 43520
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 551
-    converted_non_space_chars: 464
+    converted_text_chars: 547
+    converted_non_space_chars: 407
     table_row_count: 2
   - id: "210214876-202410150000022530000006005-byl-hwp"
     title: "[별지 제5호 서식] 심리·감리 회피신청서<개정 2009.2.3>"
@@ -71,9 +71,9 @@ attachments:
     size: 30720
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 331
-    converted_non_space_chars: 206
-    table_row_count: 1
+    converted_text_chars: 569
+    converted_non_space_chars: 410
+    table_row_count: 5
   - id: "210214876-202410150000022530000006006-byl-hwp"
     title: "[별지 제6호 서식] 위탁자 기본정보 현황<개정 2009.2.3, 2012.4.10, 2024.5.21>"
     file_name: "시장감시규정 시행세칙_73차_위탁자기본정보현황.hwp"
@@ -87,8 +87,8 @@ attachments:
     size: 48128
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 874
-    converted_non_space_chars: 767
+    converted_text_chars: 728
+    converted_non_space_chars: 565
     table_row_count: 1
     formula_hint_count: 1
   - id: "210214876-202410150000022530000006008-byl-hwp"
@@ -104,9 +104,9 @@ attachments:
     size: 47616
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 631
-    converted_non_space_chars: 489
-    table_row_count: 2
+    converted_text_chars: 1031
+    converted_non_space_chars: 728
+    table_row_count: 10
   - id: "210214876-202410150000022530000006009-byl-hwp"
     title: "[별지 제9호 서식] 확인서<개정 2009.2.3>"
     file_name: "시장감시규정 시행세칙_73차_확인서.hwp"
@@ -120,9 +120,9 @@ attachments:
     size: 30720
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 413
-    converted_non_space_chars: 310
-    table_row_count: 2
+    converted_text_chars: 636
+    converted_non_space_chars: 452
+    table_row_count: 8
   - id: "210214876-202410150000022530000006010-byl-hwp"
     title: "[별지 제10호 서식] 문답서<개정 2006.11.30>"
     file_name: "시장감시규정 시행세칙_73차_문답서.hwp"
@@ -136,9 +136,9 @@ attachments:
     size: 40960
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 668
-    converted_non_space_chars: 345
-    table_row_count: 4
+    converted_text_chars: 900
+    converted_non_space_chars: 625
+    table_row_count: 12
   - id: "210214876-202410150000022530000006011-byl-hwp"
     title: "[별지 제11호 서식] 질문서<개정 2006.11.30, 2009.2.3>"
     file_name: "시장감시규정 시행세칙_73차_질문서.hwp"
@@ -152,9 +152,9 @@ attachments:
     size: 31744
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 408
-    converted_non_space_chars: 311
-    table_row_count: 4
+    converted_text_chars: 1156
+    converted_non_space_chars: 812
+    table_row_count: 13
   - id: "210214876-202410150000022530000006012-byl-hwp"
     title: "[별지 제12호 서식] 감리명령서<개정 2006.11.30, 2009.2.3>"
     file_name: "시장감시규정 시행세칙_73차_감리명령서.hwp"
@@ -168,9 +168,9 @@ attachments:
     size: 36352
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 508
-    converted_non_space_chars: 380
-    table_row_count: 2
+    converted_text_chars: 883
+    converted_non_space_chars: 593
+    table_row_count: 11
   - id: "210214876-202410150000022530000006014-byl-hwp"
     title: "[별지 제14호 서식] 현지조치사항<개정 2009.2.3>"
     file_name: "시장감시규정 시행세칙_73차_현지조치사항.hwp"
@@ -184,9 +184,9 @@ attachments:
     size: 36352
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 414
-    converted_non_space_chars: 301
-    table_row_count: 4
+    converted_text_chars: 1064
+    converted_non_space_chars: 755
+    table_row_count: 13
   - id: "210214876-210036233-hwp"
     title: "[별지 제14호의2 서식] 공매도 중앙점검시스템 보고서<신설 2025. 3. 14.>"
     file_name: "시장감시규정 시행세칙_73차_"
@@ -200,9 +200,9 @@ attachments:
     size: 56320
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1017
-    converted_non_space_chars: 777
-    table_row_count: 3
+    converted_text_chars: 2418
+    converted_non_space_chars: 1561
+    table_row_count: 1
     formula_hint_count: 1
   - id: "210214876-210036234-hwp"
     title: "[별지 제14호의3 서식] 사실관계확인서<신설 2025. 3. 14.>"
@@ -217,9 +217,9 @@ attachments:
     size: 36864
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 614
-    converted_non_space_chars: 333
-    table_row_count: 3
+    converted_text_chars: 501
+    converted_non_space_chars: 430
+    table_row_count: 1
     formula_hint_count: 1
   - id: "210214876-210036248-hwp"
     title: "[별지 제14호의4 서식] 자료제출요구서<신설 2021.3.12,개정 2025. 3. 14.>"
@@ -234,8 +234,8 @@ attachments:
     size: 33792
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 339
-    converted_non_space_chars: 247
+    converted_text_chars: 384
+    converted_non_space_chars: 314
     table_row_count: 1
     formula_hint_count: 1
   - id: "210214876-210068401-hwp"
@@ -251,9 +251,8 @@ attachments:
     size: 39936
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 679
+    converted_text_chars: 606
     converted_non_space_chars: 454
-    table_row_count: 2
     formula_hint_count: 2
   - id: "210214876-202410150000022530000006017-byl-hwp"
     title: "[별지 제15-2호 서식] 서면의견진술서<신설 2006.11.30, 2009.2.3>"
@@ -268,9 +267,9 @@ attachments:
     size: 30720
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 493
-    converted_non_space_chars: 219
-    table_row_count: 1
+    converted_text_chars: 535
+    converted_non_space_chars: 398
+    table_row_count: 5
     formula_hint_count: 1
   - id: "210214876-202410150000022530000006020-byl-hwp"
     title: "[별지 제15-5호서식] 징계내역 확인 요청서<개정 2021.9.14>"
@@ -285,8 +284,8 @@ attachments:
     size: 30208
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 473
-    converted_non_space_chars: 188
+    converted_text_chars: 403
+    converted_non_space_chars: 312
     table_row_count: 3
     formula_hint_count: 1
   - id: "210214876-202410150000022530000006021-byl-hwp"
@@ -302,9 +301,9 @@ attachments:
     size: 41984
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 670
-    converted_non_space_chars: 456
-    table_row_count: 3
+    converted_text_chars: 855
+    converted_non_space_chars: 671
+    table_row_count: 5
     formula_hint_count: 1
   - id: "210214876-202410150000022530000006022-byl-hwp"
     title: "[별지 제15-7호서식] 징계내역 통보서<개정 2021.9.14>"
@@ -319,9 +318,9 @@ attachments:
     size: 31232
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 357
-    converted_non_space_chars: 235
-    table_row_count: 2
+    converted_text_chars: 583
+    converted_non_space_chars: 425
+    table_row_count: 7
     formula_hint_count: 1
   - id: "210214876-210068447-hwp"
     title: "[별지 제16호 서식] 약식제재금 부과 통지서<개정 2009.2.3, 2021.9.14, 2022.6.15, 2024.1.30,2025. 5. 15.>"
@@ -336,9 +335,8 @@ attachments:
     size: 38400
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 680
+    converted_text_chars: 609
     converted_non_space_chars: 461
-    table_row_count: 2
     formula_hint_count: 2
   - id: "210214876-202410150000022530000006024-byl-hwp"
     title: "[별지 제17호 서식] 컨설팅 요청서<신설 2016.4.18>"
@@ -353,9 +351,9 @@ attachments:
     size: 35328
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 409
-    converted_non_space_chars: 301
-    table_row_count: 1
+    converted_text_chars: 623
+    converted_non_space_chars: 453
+    table_row_count: 4
   - id: "210214876-202410150000022530000006025-byl-hwp"
     title: "[별지 제18호 서식] 예방교육 요청서<신설 2016.5.31>"
     file_name: "시장감시규정 시행세칙_73차_예방교육요청서.hwp"
@@ -369,9 +367,9 @@ attachments:
     size: 30208
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 307
-    converted_non_space_chars: 215
-    table_row_count: 1
+    converted_text_chars: 515
+    converted_non_space_chars: 375
+    table_row_count: 4
   - id: "210214876-202410150000022530000006026-byl-hwp"
     title: "[별지 제19호 서식] 임직원 등록 및 매매알림 서비스 이용신청서<신설 2018.12.11>"
     file_name: "시장감시규정 시행세칙_73차_임직원등록및매매알림서비스이용신청서.hwp"
@@ -385,9 +383,9 @@ attachments:
     size: 41472
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 636
-    converted_non_space_chars: 464
-    table_row_count: 2
+    converted_text_chars: 916
+    converted_non_space_chars: 665
+    table_row_count: 7
     formula_hint_count: 2
   - id: "210214876-202410150000022530000006027-byl-hwp"
     title: "[별지 제20호 서식] 위법·위규행위 발생사실 신고서<신설 2023.06.07>"
@@ -402,9 +400,9 @@ attachments:
     size: 51200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 826
-    converted_non_space_chars: 629
-    table_row_count: 3
+    converted_text_chars: 1412
+    converted_non_space_chars: 1093
+    table_row_count: 8
   - id: "210214876-210216184-hwp"
     title: "[별표 1] 회원제재금 부과기준<개정 2022.11.23, 2023.06.07, 2024.10.15,2026. 1. 29.>"
     file_name: "시장감시규정 시행세칙_73차_회원제재금부과기준.hwp"
@@ -418,9 +416,9 @@ attachments:
     size: 43520
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 998
-    converted_non_space_chars: 713
-    table_row_count: 2
+    converted_text_chars: 4961
+    converted_non_space_chars: 3679
+    table_row_count: 21
   - id: "210214876-202410150000022530000006029-byl-hwp"
     title: "[별표 1의2] 공매도 점검결과 보고 사항<신설 2021.3.12>"
     file_name: "시장감시규정 시행세칙_73차_공매도점검결과보고사항.hwp"
@@ -434,8 +432,9 @@ attachments:
     size: 55296
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 873
-    converted_non_space_chars: 756
+    converted_text_chars: 1871
+    converted_non_space_chars: 1321
+    table_row_count: 26
   - id: "210214876-210213282-hwp"
     title: "[별표2] 약식제재금 부과기준<신설 2006.11.30, 2007.8.27, 2008.6.27, 2009.3.27, 2009.11.27, 2010.5.31, 2011.12.26, 2012.4.10, 2015.11.20, 2016.4.18, 2017.8.11, 2019.9.20, 2022.6.15,개정 2025. 5. 15.,2026. 5. 19.>"
     file_name: "시장감시규정 시행세칙_73차_약식제재금부과기준.hwp"
@@ -449,9 +448,10 @@ attachments:
     size: 53760
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1005
-    converted_non_space_chars: 818
-    formula_hint_count: 11
+    converted_text_chars: 2278
+    converted_non_space_chars: 1766
+    table_row_count: 8
+    formula_hint_count: 12
 ---
 
 제1장 총칙

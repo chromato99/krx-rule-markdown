@@ -23,8 +23,9 @@ attachments:
     size: 33792
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 333
-    converted_non_space_chars: 257
+    converted_text_chars: 448
+    converted_non_space_chars: 352
+    table_row_count: 2
   - id: "210137438-210067531-hwp"
     title: "[별표2] 신규상장 신청 서류<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
@@ -38,8 +39,9 @@ attachments:
     size: 36864
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 391
-    converted_non_space_chars: 296
+    converted_text_chars: 513
+    converted_non_space_chars: 403
+    table_row_count: 2
   - id: "210137438-210067532-hwp"
     title: "[별표3] 상장형 수익증권 상장심사기준<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
@@ -53,8 +55,8 @@ attachments:
     size: 38400
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 978
-    converted_non_space_chars: 709
+    converted_text_chars: 2070
+    converted_non_space_chars: 1545
   - id: "210137438-210067544-hwp"
     title: "[별표4] 추가상장 신청 서류<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
@@ -68,8 +70,9 @@ attachments:
     size: 23552
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 156
-    converted_non_space_chars: 115
+    converted_text_chars: 207
+    converted_non_space_chars: 162
+    table_row_count: 1
   - id: "210137438-210067546-hwp"
     title: "[별표5] 변경상장 신청 서류<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
@@ -83,8 +86,9 @@ attachments:
     size: 24064
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 159
-    converted_non_space_chars: 120
+    converted_text_chars: 214
+    converted_non_space_chars: 167
+    table_row_count: 1
   - id: "210137438-210067547-hwp"
     title: "[별표6] 관리종목지정·해제 시기<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
@@ -98,8 +102,9 @@ attachments:
     size: 38400
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 572
-    converted_non_space_chars: 461
+    converted_text_chars: 1079
+    converted_non_space_chars: 798
+    table_row_count: 8
   - id: "210137438-210067556-hwp"
     title: "[별표7] 상장수수료 및 연부과금<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
@@ -113,9 +118,9 @@ attachments:
     size: 72192
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1014
-    converted_non_space_chars: 828
-    table_row_count: 1
+    converted_text_chars: 3729
+    converted_non_space_chars: 2987
+    table_row_count: 19
   - id: "210137438-210137539-hwp"
     title: "[별지 제1호 서식] 상장계약서<신설 2025. 5. 9.,개정 2025. 10. 24.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
@@ -129,8 +134,8 @@ attachments:
     size: 50176
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1023
-    converted_non_space_chars: 764
+    converted_text_chars: 1731
+    converted_non_space_chars: 1254
     table_row_count: 1
   - id: "210137438-210067580-hwp"
     title: "[별지 제2호 서식] 추가·변경상장신청서<신설 2025. 5. 9.>"
@@ -145,9 +150,9 @@ attachments:
     size: 33280
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 600
-    converted_non_space_chars: 314
-    table_row_count: 2
+    converted_text_chars: 461
+    converted_non_space_chars: 395
+    table_row_count: 1
   - id: "210137438-210067582-hwp"
     title: "[별지 제3호 서식] 유동성공급계좌 신고서<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
@@ -161,9 +166,9 @@ attachments:
     size: 39424
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 617
-    converted_non_space_chars: 456
-    table_row_count: 4
+    converted_text_chars: 1022
+    converted_non_space_chars: 762
+    table_row_count: 9
 ---
 
 제1장 총 칙

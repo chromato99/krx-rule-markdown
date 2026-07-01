@@ -23,7 +23,7 @@ attachments:
     size: 207756
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3530
+    converted_text_chars: 3532
     converted_non_space_chars: 2747
   - id: "210217910-210217916-pdf"
     title: "파생상품시장 업무규정 시행세칙 일부개정세칙안_의견수렴 공고문.pdf"
@@ -39,7 +39,7 @@ attachments:
     size: 130872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 489
+    converted_text_chars: 491
     converted_non_space_chars: 371
     formula_hint_count: 4
 ---

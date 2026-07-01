@@ -23,9 +23,9 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 384
-    converted_non_space_chars: 246
-    table_row_count: 1
+    converted_text_chars: 760
+    converted_non_space_chars: 569
+    table_row_count: 7
   - id: "204844636-202308310000021560000011002-byl-hwp"
     title: "[별지 제2호 서식] 조정신청조서<개정 2009.2.3, 2012.10.15>"
     file_name: "분쟁조정규정시행세칙_9차_조정신청조서.hwp"
@@ -39,9 +39,9 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 471
-    converted_non_space_chars: 270
-    table_row_count: 2
+    converted_text_chars: 834
+    converted_non_space_chars: 624
+    table_row_count: 8
   - id: "204844636-202308310000021560000011003-byl-hwp"
     title: "[별지 제3호 서식] 위임장<개정 2009.2.3, 2012.10.15>"
     file_name: "분쟁조정규정시행세칙_9차_위임장.hwp"
@@ -55,9 +55,8 @@ attachments:
     size: 13312
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 587
+    converted_text_chars: 331
     converted_non_space_chars: 241
-    table_row_count: 3
   - id: "204844636-202308310000021560000011004-byl-hwp"
     title: "[별지 제4호 서식] 분쟁조정신청취하서<개정 2009.2.3, 2012.10.15>"
     file_name: "분쟁조정규정시행세칙_9차_분쟁조정신청취하서.hwp"
@@ -71,9 +70,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 303
-    converted_non_space_chars: 220
-    table_row_count: 1
+    converted_text_chars: 801
+    converted_non_space_chars: 607
+    table_row_count: 8
   - id: "204844636-202308310000021560000011005-byl-hwp"
     title: "[별지 제5호 서식] 제척·기피신청서<개정 2009.2.3>"
     file_name: "분쟁조정규정시행세칙_9차_제척·기피신청서.hwp"
@@ -87,9 +86,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 369
-    converted_non_space_chars: 181
-    table_row_count: 1
+    converted_text_chars: 759
+    converted_non_space_chars: 562
+    table_row_count: 9
   - id: "204844636-202308310000021560000011008-byl-hwp"
     title: "[별지 제6호 서식] 회피신청서<개정 2009.2.3>"
     file_name: "분쟁조정규정시행세칙_9차_회피신청서.hwp"
@@ -103,9 +102,9 @@ attachments:
     size: 13312
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 280
-    converted_non_space_chars: 153
-    table_row_count: 3
+    converted_text_chars: 561
+    converted_non_space_chars: 420
+    table_row_count: 8
   - id: "204844636-202308310000021560000011009-byl-hwp"
     title: "[별지 제7호 서식] 조정결정서<개정 2006.11.30>"
     file_name: "분쟁조정규정시행세칙_9차_조정결정서.hwp"
@@ -119,9 +118,8 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 849
-    converted_non_space_chars: 375
-    table_row_count: 5
+    converted_text_chars: 487
+    converted_non_space_chars: 348
   - id: "204844636-202308310000021560000011010-byl-hwp"
     title: "[별지 제8호 서식] 각하결정서"
     file_name: "분쟁조정규정시행세칙_9차_각하결정서.hwp"
@@ -135,9 +133,8 @@ attachments:
     size: 13312
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 660
-    converted_non_space_chars: 149
-    table_row_count: 4
+    converted_text_chars: 194
+    converted_non_space_chars: 122
   - id: "204844636-202308310000021560000011011-byl-hwp"
     title: "[별지 제9호 서식] 조정결정수락서<개정 2009.2.3, 2012.10.15>"
     file_name: "분쟁조정규정시행세칙_9차_조정결정수락서.hwp"
@@ -151,7 +148,7 @@ attachments:
     size: 12800
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 388
+    converted_text_chars: 234
     converted_non_space_chars: 178
   - id: "204844636-202308310000021560000011012-byl-hwp"
     title: "[별지 제10호 서식] 조정서<개정 2009.2.3>"
@@ -166,7 +163,7 @@ attachments:
     size: 12800
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 522
+    converted_text_chars: 188
     converted_non_space_chars: 133
 ---
 

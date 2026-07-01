@@ -23,9 +23,10 @@ attachments:
     size: 48128
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1004
-    converted_non_space_chars: 761
-    table_row_count: 1
+    converted_text_chars: 5066
+    converted_non_space_chars: 3803
+    table_row_count: 24
+    formula_hint_count: 1
   - id: "210179748-202411140000022700000013003-byl-hwp"
     title: "[별표 3] 공시내용 확인절차 대상법인 지정·해제 사유 및 시기<개정 2019.12.27.>"
     file_name: "유가증권시장 공시규정 시행세칙_46차_공시내용확인절차대상법인지정·해제사유및시기.hwp"
@@ -39,8 +40,9 @@ attachments:
     size: 38400
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 418
-    converted_non_space_chars: 342
+    converted_text_chars: 968
+    converted_non_space_chars: 709
+    table_row_count: 9
   - id: "210179748-202411140000022700000013004-byl-hwp"
     title: "[별표 4] 공시전문인 인증기준<신설 2019.9.25.>"
     file_name: "유가증권시장 공시규정 시행세칙_46차_공시전문인인증기준.hwp"
@@ -54,8 +56,8 @@ attachments:
     size: 42496
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 995
-    converted_non_space_chars: 760
+    converted_text_chars: 1437
+    converted_non_space_chars: 1101
   - id: "210179748-202411140000022700000013005-byl-hwp"
     title: "[별지 제1호 서식] 불성실공시예방을 위한 개선계획서<개정 2012. 4. 19.>"
     file_name: "유가증권시장 공시규정 시행세칙_46차_불성실공시예방을위한개선계획서(개정2012.4.19).hwp"
@@ -69,8 +71,8 @@ attachments:
     size: 34816
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 351
-    converted_non_space_chars: 224
+    converted_text_chars: 355
+    converted_non_space_chars: 289
     table_row_count: 1
   - id: "210179748-202411140000022700000013006-byl-hwp"
     title: "[별지 제2호 서식] 불성실공시예방 개선계획에 대한 이행보고서<신설 2015. 8. 28.>"
@@ -85,8 +87,8 @@ attachments:
     size: 34304
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 349
-    converted_non_space_chars: 229
+    converted_text_chars: 353
+    converted_non_space_chars: 286
     table_row_count: 1
   - id: "210179748-202411140000022700000013007-byl-hwp"
     title: "[별지 제3호 서식] 공시권한 위임장"
@@ -101,8 +103,8 @@ attachments:
     size: 35328
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 467
-    converted_non_space_chars: 236
+    converted_text_chars: 368
+    converted_non_space_chars: 293
     table_row_count: 1
   - id: "210179748-202411140000022700000013008-byl-hwp"
     title: "[별지 제4호 서식] 공시대리인 선임신고서<개정 2012. 4. 19.>"
@@ -117,8 +119,8 @@ attachments:
     size: 45568
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 583
-    converted_non_space_chars: 389
+    converted_text_chars: 562
+    converted_non_space_chars: 450
     table_row_count: 1
   - id: "210179748-202411140000022700000013009-byl-hwp"
     title: "[별지 제5호 서식] 공시위반제재금 부과 통지서<개정 2012. 4. 19.>"
@@ -133,8 +135,8 @@ attachments:
     size: 34816
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 410
-    converted_non_space_chars: 248
+    converted_text_chars: 405
+    converted_non_space_chars: 325
     table_row_count: 1
     formula_hint_count: 2
   - id: "210179748-202411140000022700000013010-byl-hwp"
@@ -150,8 +152,8 @@ attachments:
     size: 36864
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 506
-    converted_non_space_chars: 327
+    converted_text_chars: 496
+    converted_non_space_chars: 392
     table_row_count: 1
   - id: "210179748-202411140000022700000013011-byl-hwp"
     title: "[별지 제7호 서식] 지주회사의 상장자회사 주요경영사항 연계공시 신청서<개정 2012. 4. 19., 2013. 2. 26.>"
@@ -166,9 +168,9 @@ attachments:
     size: 38912
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 562
-    converted_non_space_chars: 404
-    table_row_count: 2
+    converted_text_chars: 751
+    converted_non_space_chars: 547
+    table_row_count: 4
   - id: "210179748-202411140000022700000013012-byl-hwp"
     title: "[별지 제8호 서식] 기업지배구조 보고서 신고서<신설 2019.1.2, 2023.11.21>"
     file_name: "유가증권시장 공시규정 시행세칙_46차_기업지배구조보고서신고서.hwp"
@@ -182,8 +184,8 @@ attachments:
     size: 30720
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 276
-    converted_non_space_chars: 179
+    converted_text_chars: 275
+    converted_non_space_chars: 224
     table_row_count: 1
 ---
 

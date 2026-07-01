@@ -23,9 +23,9 @@ attachments:
     size: 48640
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1017
-    converted_non_space_chars: 755
-    table_row_count: 4
+    converted_text_chars: 1823
+    converted_non_space_chars: 1410
+    table_row_count: 8
   - id: "210088759-210088778-hwp"
     title: "[별표 2] 코스닥시장 상장적격성 실질심사 기준표<개정 2022.07.28,2024. 12. 5.,2025. 7. 9.>"
     file_name: "코스닥시장 상장적격성 실질심사지침_15차_코스닥시장상장적격성실질심사기준표.hwp"
@@ -39,9 +39,9 @@ attachments:
     size: 56320
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1021
-    converted_non_space_chars: 719
-    table_row_count: 1
+    converted_text_chars: 3719
+    converted_non_space_chars: 2835
+    table_row_count: 17
   - id: "210088759-202407190000008950000019003-byl-hwp"
     title: "[별표 3] 코스닥시장 약식심사 대상 우량기업 기준표"
     file_name: "코스닥시장 상장적격성 실질심사지침_15차_코스닥시장약식심사대상우량기업기준표.hwp"
@@ -55,9 +55,9 @@ attachments:
     size: 41472
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 619
-    converted_non_space_chars: 487
-    table_row_count: 1
+    converted_text_chars: 1265
+    converted_non_space_chars: 942
+    table_row_count: 10
     formula_hint_count: 4
 ---
 

@@ -23,9 +23,10 @@ attachments:
     size: 66560
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1021
-    converted_non_space_chars: 659
-    table_row_count: 1
+    converted_text_chars: 2642
+    converted_non_space_chars: 2109
+    table_row_count: 3
+    formula_hint_count: 3
   - id: "204847935-202404300000008790000270002-byl-hwp"
     title: "[별지 제2호서식] ESG채권 정보플랫폼 등록취소 신청서 <개정 2021.11.23., 2023.3.31., 2024.4.30.>"
     file_name: "ESG채권 정보플랫폼 운영지침_5차_ESG채권정보플랫폼등록취소신청서(개정2021.11.23.,2023.3.31.,2024.4.30.).hwp"
@@ -39,8 +40,8 @@ attachments:
     size: 31744
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 407
-    converted_non_space_chars: 215
+    converted_text_chars: 340
+    converted_non_space_chars: 278
     table_row_count: 1
 ---
 

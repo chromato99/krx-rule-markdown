@@ -12,6 +12,7 @@ from .clean import (
 )
 from .collector import DEFAULT_BASE_URL
 from .quality import audit_data_quality, write_quality_report
+from .reconvert import reconvert_data
 from .sync import sync_rules
 from .validate import validate_data
 
@@ -44,6 +45,11 @@ def main(argv: list[str] | None = None) -> int:
     quality_parser.add_argument("--output", default=os.getenv("KRX_QUALITY_REPORT", ""))
     quality_parser.add_argument("--update-metadata", action="store_true")
     quality_parser.add_argument("--fail-on", choices=("none", "error", "warn"), default="none")
+
+    reconvert_parser = subparsers.add_parser("reconvert", help="Rebuild converted attachment Markdown from existing raw files.")
+    reconvert_parser.add_argument("--data-dir", default=os.getenv("KRX_DATA_DIR", "data"))
+    reconvert_parser.add_argument("--document-id", default="", help="Only reconvert one document id or source_id.")
+    reconvert_parser.add_argument("--dry-run", action="store_true")
 
     clean_parser = subparsers.add_parser("clean", help="Clean generated corpus artifacts.")
     clean_parser.add_argument("--data-dir", default=os.getenv("KRX_DATA_DIR", "data"))
@@ -99,6 +105,18 @@ def main(argv: list[str] | None = None) -> int:
             print(f"quality failed with {len(failures)} issue(s)", file=sys.stderr)
             return 1
         return 0
+    if args.command == "reconvert":
+        result = reconvert_data(Path(args.data_dir), document_id=args.document_id, dry_run=args.dry_run)
+        action = "would convert" if args.dry_run else "converted"
+        print(
+            "reconvert "
+            f"documents={result.documents} "
+            f"attachments={result.attachments} "
+            f"{action}={result.converted} "
+            f"failed={result.failed} "
+            f"skipped={result.skipped}"
+        )
+        return 1 if result.failed else 0
     if args.command == "clean":
         did_work = False
         if args.drop_professional_attachments:

@@ -23,8 +23,8 @@ attachments:
     size: 16384
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1013
-    converted_non_space_chars: 769
+    converted_text_chars: 2333
+    converted_non_space_chars: 1792
 ---
 
 제1장 총칙

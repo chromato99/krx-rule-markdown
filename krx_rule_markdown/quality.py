@@ -96,6 +96,8 @@ def inspect_attachment_quality(text: str, raw_path: Path | None = None) -> Attac
 
 def is_table_like_line(line: str) -> bool:
     stripped = line.strip()
+    if re.search(r"<tr\b", stripped, re.I):
+        return True
     if stripped.count("|") >= 2:
         cells = [cell.strip() for cell in stripped.strip("|").split("|") if cell.strip()]
         return len(cells) >= 2

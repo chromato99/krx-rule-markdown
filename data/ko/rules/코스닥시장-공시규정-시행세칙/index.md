@@ -23,9 +23,10 @@ attachments:
     size: 49152
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 953
-    converted_non_space_chars: 750
-    table_row_count: 1
+    converted_text_chars: 5215
+    converted_non_space_chars: 3979
+    table_row_count: 4
+    formula_hint_count: 3
   - id: "210202465-202411140000022690000110003-byl-hwp"
     title: "[공시서식 1] 이의신청서<개정 2009.9.25, 2012.4.18>"
     file_name: "코스닥시장 공시규정 시행세칙_52차_이의신청서.hwp"
@@ -39,9 +40,8 @@ attachments:
     size: 13312
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 396
+    converted_text_chars: 367
     converted_non_space_chars: 267
-    table_row_count: 2
   - id: "210202465-202411140000022690000110004-byl-hwp"
     title: "[공시서식 2] 불성실공시 예방을 위한 개선계획서<신설 2008.9.22><개정 2009.2.3., 2012.4.18>"
     file_name: "코스닥시장 공시규정 시행세칙_52차_불성실공시예방을위한개선계획서(신설2008.9.22,2009.2.3).hwp"
@@ -55,9 +55,8 @@ attachments:
     size: 12800
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 358
+    converted_text_chars: 322
     converted_non_space_chars: 240
-    table_row_count: 1
   - id: "210202465-202411140000022690000110005-byl-hwp"
     title: "[공시서식 3] 공시위반제재금 부과 통지서<신설 2009.2.3>"
     file_name: "코스닥시장 공시규정 시행세칙_52차_공시위반제재금부과통지서.hwp"
@@ -71,9 +70,8 @@ attachments:
     size: 12800
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 325
+    converted_text_chars: 306
     converted_non_space_chars: 222
-    table_row_count: 2
     formula_hint_count: 2
   - id: "210202465-202411140000022690000110006-byl-hwp"
     title: "[공시서식 4] 공시유보신청서<신설 2009.2.3><개정 2012.4.18>"
@@ -88,9 +86,8 @@ attachments:
     size: 12800
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 274
+    converted_text_chars: 243
     converted_non_space_chars: 178
-    table_row_count: 1
   - id: "210202465-202411140000022690000110007-byl-hwp"
     title: "[공시서식 4-1] 계속적 공시유보 신청서<신설 2018.5.2>"
     file_name: "코스닥시장 공시규정 시행세칙_52차_계속적공시유보신청서.hwp"
@@ -104,9 +101,8 @@ attachments:
     size: 12800
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 308
+    converted_text_chars: 277
     converted_non_space_chars: 201
-    table_row_count: 1
     formula_hint_count: 1
   - id: "210202465-202411140000022690000110008-byl-hwp"
     title: "[공시서식 5] 코스닥상장법인 공시책임자 등 (신규·변경) 신고서<개정 2008.9.22, 2009.2.3, 2011.11.4, 2012.4.18, 2019.5.3>"
@@ -121,9 +117,9 @@ attachments:
     size: 14848
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 567
-    converted_non_space_chars: 407
-    table_row_count: 2
+    converted_text_chars: 852
+    converted_non_space_chars: 634
+    table_row_count: 4
   - id: "210202465-202411140000022690000110009-byl-hwp"
     title: "[공시서식 6] 코스닥상장법인 공시책임자 직무수행 승낙 확인서<개정 2008.9.22, 2009.2.3, 2012.4.18., 2015.8.31., 2021.11.25.>"
     file_name: "코스닥시장 공시규정 시행세칙_52차_코스닥상장법인공시책임자직무수행승낙확인서(개정2008.9.22,2009.2.3,2012.4.18.,2015.8.31.,2021.11.25.).hwp"
@@ -137,9 +133,9 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 718
-    converted_non_space_chars: 515
-    table_row_count: 2
+    converted_text_chars: 930
+    converted_non_space_chars: 696
+    table_row_count: 5
   - id: "210202465-202411140000022690000110010-byl-hwp"
     title: "[공시서식 7] 공시대리인 선임 신고서<신설 2005.12.26, 2009.2.3, 2011.11.4, 2012.4.18, 2019.5.3>"
     file_name: "코스닥시장 공시규정 시행세칙_52차_공시대리인선임신고서.hwp"
@@ -153,9 +149,8 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 537
+    converted_text_chars: 494
     converted_non_space_chars: 386
-    table_row_count: 1
   - id: "210202465-210202568-hwp"
     title: "[공시서식7-1] 기업성장집합투자증권 상장법인 공시책임자 등(신규,변경) 신고서<신설 2026-04-24>"
     file_name: "코스닥시장 공시규정 시행세칙_52차_"
@@ -169,9 +164,9 @@ attachments:
     size: 33792
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 441
-    converted_non_space_chars: 300
-    table_row_count: 2
+    converted_text_chars: 643
+    converted_non_space_chars: 471
+    table_row_count: 3
     formula_hint_count: 1
   - id: "210202465-210202578-hwp"
     title: "[공시서식7-2] 기업성장집합투자증권 상장법인 공시책임자 직무수행 승낙 확인서<신설 2026-04-24>"
@@ -186,9 +181,8 @@ attachments:
     size: 27648
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 337
+    converted_text_chars: 283
     converted_non_space_chars: 217
-    table_row_count: 1
     formula_hint_count: 1
   - id: "210202465-202411140000022690000110011-byl-hwp"
     title: "[공시서식 8] 지주회사의 상장자회사 주요경영사항 연계공시 신청서<신설 2010.9.1><개정 2012.4.18, 2013.2.27>"
@@ -203,9 +197,9 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 575
-    converted_non_space_chars: 418
-    table_row_count: 2
+    converted_text_chars: 764
+    converted_non_space_chars: 561
+    table_row_count: 4
   - id: "210202465-202411140000022690000110012-byl-hwp"
     title: "[공시서식 9] 불성실공시 예방을 위한 개선계획에 대한 이행보고서<신설 2015.8.31>"
     file_name: "코스닥시장 공시규정 시행세칙_52차_불성실공시예방을위한개선계획에대한이행보고서.hwp"
@@ -219,9 +213,8 @@ attachments:
     size: 12800
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 353
+    converted_text_chars: 318
     converted_non_space_chars: 235
-    table_row_count: 1
   - id: "210202465-202411140000022690000110013-byl-hwp"
     title: "[공시서식 10] 공시권한 위임장<신설 2015.8.31>"
     file_name: "코스닥시장 공시규정 시행세칙_52차_공시권한위임장.hwp"
@@ -235,9 +228,8 @@ attachments:
     size: 13312
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 527
+    converted_text_chars: 341
     converted_non_space_chars: 255
-    table_row_count: 3
   - id: "210202465-210202583-hwp"
     title: "[공시서식10-1] 기업성장투자신탁수익증권 상장법인의 공시권한 위임장<신설 2026-04-24>"
     file_name: "코스닥시장 공시규정 시행세칙_52차_"
@@ -251,9 +243,8 @@ attachments:
     size: 29696
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 519
+    converted_text_chars: 334
     converted_non_space_chars: 252
-    table_row_count: 3
     formula_hint_count: 1
 ---
 

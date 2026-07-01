@@ -23,8 +23,9 @@ attachments:
     size: 51200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1010
-    converted_non_space_chars: 801
+    converted_text_chars: 2994
+    converted_non_space_chars: 2135
+    table_row_count: 26
 ---
 
 **제1조(목적)**이 지침은 한국거래소가 인덱스사업을 수행함에 있어 투명하고 신뢰도 높은 지수를 개발, 산출 및 공표 등 필요한 사항들을 규정하는 것을 목적으로 한다.

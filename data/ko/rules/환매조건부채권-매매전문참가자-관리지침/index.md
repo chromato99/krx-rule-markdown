@@ -23,8 +23,8 @@ attachments:
     size: 12800
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 586
-    converted_non_space_chars: 315
+    converted_text_chars: 557
+    converted_non_space_chars: 448
     table_row_count: 3
   - id: "204847919-201911260000006700000267002-byl-hwp"
     title: "[별지 제2호 서식] 환매조건부채권매매거래 탈퇴 신청서"
@@ -39,8 +39,8 @@ attachments:
     size: 13312
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 491
-    converted_non_space_chars: 235
+    converted_text_chars: 443
+    converted_non_space_chars: 348
     table_row_count: 3
 ---
 

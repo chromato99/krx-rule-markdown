@@ -23,8 +23,9 @@ attachments:
     size: 57856
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 796
-    converted_non_space_chars: 637
+    converted_text_chars: 1258
+    converted_non_space_chars: 948
+    table_row_count: 9
 ---
 
 **제1조(목적)**이 지침은 한국거래소가 「정관」제48조의4에 따라 코스닥시장 및 코스닥시장 상장법인을 관리하기 위하여 코스닥시장 글로벌 기업을 지정하거나 취소하는 데에 필요한 사항을 규정함을 목적으로 한다.

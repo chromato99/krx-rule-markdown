@@ -23,8 +23,9 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 526
-    converted_non_space_chars: 433
+    converted_text_chars: 957
+    converted_non_space_chars: 764
+    table_row_count: 7
   - id: "204847848-202104160000007280000250002-byl-hwp"
     title: "[서식 1] 전문가회의 참석 동의 및 보안각서"
     file_name: "전문가회의 및 기술평가제도 운영지침_3차_전문가회의참석동의및보안각서.hwp"
@@ -38,8 +39,8 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 691
-    converted_non_space_chars: 449
+    converted_text_chars: 676
+    converted_non_space_chars: 532
     table_row_count: 1
   - id: "204847848-202104160000007280000250003-byl-hwp"
     title: "[서식 2] 기술평가신청서"
@@ -54,8 +55,9 @@ attachments:
     size: 400896
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 565
-    converted_non_space_chars: 460
+    converted_text_chars: 1681
+    converted_non_space_chars: 1257
+    table_row_count: 18
   - id: "204847848-202104160000007280000250004-byl-hwp"
     title: "[서식 3] 기술평가서"
     file_name: "전문가회의 및 기술평가제도 운영지침_3차_기술평가서.hwp"
@@ -69,9 +71,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 218
-    converted_non_space_chars: 171
-    table_row_count: 2
+    converted_text_chars: 259
+    converted_non_space_chars: 218
+    table_row_count: 1
   - id: "204847848-202104160000007280000250005-byl-hwp"
     title: "[서식 4] 이해관계 부존재 확인서<개정 2016.12.29>"
     file_name: "전문가회의 및 기술평가제도 운영지침_3차_이해관계부존재확인서.hwp"
@@ -85,9 +87,9 @@ attachments:
     size: 16384
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 841
-    converted_non_space_chars: 611
-    table_row_count: 3
+    converted_text_chars: 994
+    converted_non_space_chars: 758
+    table_row_count: 7
 ---
 
 제1장 총칙

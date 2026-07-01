@@ -23,7 +23,7 @@ attachments:
     size: 245122
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1678
+    converted_text_chars: 1680
     converted_non_space_chars: 1264
     formula_hint_count: 3
   - id: "210219622-210219624-pdf"
@@ -40,7 +40,7 @@ attachments:
     size: 577607
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 21958
+    converted_text_chars: 21960
     converted_non_space_chars: 16225
     formula_hint_count: 2
 ---

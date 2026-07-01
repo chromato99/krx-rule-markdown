@@ -23,9 +23,9 @@ attachments:
     size: 11776
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 239
-    converted_non_space_chars: 183
-    table_row_count: 1
+    converted_text_chars: 911
+    converted_non_space_chars: 668
+    table_row_count: 11
   - id: "210069181-201204190000002800000184002-byl-hwp"
     title: "[별지 제2호 서식] 공시의무 위반사실 신고내용 처리결과"
     file_name: "유가증권시장 불성실공시 신고 및 포상에 관한 기준_2차_공시의무위반사실신고내용처리결과.hwp"
@@ -39,8 +39,9 @@ attachments:
     size: 11776
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 250
-    converted_non_space_chars: 208
+    converted_text_chars: 988
+    converted_non_space_chars: 728
+    table_row_count: 10
 ---
 
 **제1조(목적)**이 기준은「유가증권시장 공시규정」(이하 "규정"이라 한다)제90조에 따라 유가증권시장주권상장법인의 공시의무 위반사실을 거래소에 신고 또는 제보(이하 "신고"라 한다)하는 자의 포상에 관하여 필요한 사항을 규정함을 목적으로 한다.

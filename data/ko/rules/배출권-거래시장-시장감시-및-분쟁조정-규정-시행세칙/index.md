@@ -23,9 +23,9 @@ attachments:
     size: 28672
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 290
-    converted_non_space_chars: 202
-    table_row_count: 1
+    converted_text_chars: 561
+    converted_non_space_chars: 403
+    table_row_count: 5
   - id: "204847824-202410150000022540000246002-byl-hwp"
     title: "[별지 제2호 서식] 출석요청서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_출석요청서.hwp"
@@ -39,8 +39,8 @@ attachments:
     size: 36352
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 429
-    converted_non_space_chars: 302
+    converted_text_chars: 471
+    converted_non_space_chars: 373
     table_row_count: 1
   - id: "204847824-202410150000022540000246003-byl-hwp"
     title: "[별지 제3호 서식] 확인서"
@@ -55,9 +55,9 @@ attachments:
     size: 27136
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 314
-    converted_non_space_chars: 270
-    table_row_count: 2
+    converted_text_chars: 557
+    converted_non_space_chars: 395
+    table_row_count: 8
   - id: "204847824-202410150000022540000246004-byl-hwp"
     title: "[별지 제4호 서식] 문답서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_문답서.hwp"
@@ -71,9 +71,9 @@ attachments:
     size: 33280
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 621
-    converted_non_space_chars: 304
-    table_row_count: 3
+    converted_text_chars: 982
+    converted_non_space_chars: 702
+    table_row_count: 11
   - id: "204847824-202410150000022540000246005-byl-hwp"
     title: "[별지 제5호 서식] 질문서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_질문서.hwp"
@@ -87,9 +87,9 @@ attachments:
     size: 17408
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 326
-    converted_non_space_chars: 171
-    table_row_count: 2
+    converted_text_chars: 531
+    converted_non_space_chars: 380
+    table_row_count: 6
   - id: "204847824-202410150000022540000246006-byl-hwp"
     title: "[별지 제6호 서식] 감리명령서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_감리명령서.hwp"
@@ -103,8 +103,8 @@ attachments:
     size: 26624
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 271
-    converted_non_space_chars: 148
+    converted_text_chars: 283
+    converted_non_space_chars: 219
     table_row_count: 1
   - id: "204847824-202410150000022540000246007-byl-hwp"
     title: "[별지 제7호 서식] 감리증표"
@@ -119,9 +119,9 @@ attachments:
     size: 37376
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 481
-    converted_non_space_chars: 320
-    table_row_count: 3
+    converted_text_chars: 623
+    converted_non_space_chars: 476
+    table_row_count: 4
     formula_hint_count: 1
   - id: "204847824-202410150000022540000246008-byl-hwp"
     title: "[별지 제8호 서식] 현지조치사항"
@@ -136,9 +136,9 @@ attachments:
     size: 29184
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 311
-    converted_non_space_chars: 150
-    table_row_count: 2
+    converted_text_chars: 282
+    converted_non_space_chars: 227
+    table_row_count: 1
   - id: "204847824-202410150000022540000246009-byl-hwp"
     title: "[별지 제9호 서식] 회원제재금 부과통지서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_회원제재금부과통지서.hwp"
@@ -152,9 +152,8 @@ attachments:
     size: 36352
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 582
+    converted_text_chars: 499
     converted_non_space_chars: 363
-    table_row_count: 2
     formula_hint_count: 3
   - id: "204847824-202410150000022540000246010-byl-hwp"
     title: "[별지 제10호 서식] 서면의견진술서"
@@ -169,9 +168,9 @@ attachments:
     size: 27648
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 355
-    converted_non_space_chars: 190
-    table_row_count: 1
+    converted_text_chars: 457
+    converted_non_space_chars: 339
+    table_row_count: 4
   - id: "204847824-202410150000022540000246011-byl-hwp"
     title: "[별지 제11호 서식] 약식제재금 부과통지서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_약식제재금부과통지서.hwp"
@@ -185,9 +184,8 @@ attachments:
     size: 34304
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 549
+    converted_text_chars: 459
     converted_non_space_chars: 334
-    table_row_count: 2
     formula_hint_count: 2
   - id: "204847824-202410150000022540000246012-byl-hwp"
     title: "[별지 제12호 서식] 배출권 거래시장 분쟁조정신청서"
@@ -202,9 +200,9 @@ attachments:
     size: 35840
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 354
-    converted_non_space_chars: 248
-    table_row_count: 1
+    converted_text_chars: 797
+    converted_non_space_chars: 606
+    table_row_count: 7
   - id: "204847824-202410150000022540000246013-byl-hwp"
     title: "[별지 제13호 서식] 배출권 거래시장 조정신청조서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_배출권거래시장조정신청조서.hwp"
@@ -218,9 +216,9 @@ attachments:
     size: 35328
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 400
-    converted_non_space_chars: 257
-    table_row_count: 2
+    converted_text_chars: 864
+    converted_non_space_chars: 657
+    table_row_count: 8
   - id: "204847824-202410150000022540000246014-byl-hwp"
     title: "[별지 제14호 서식] 위임장"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_위임장.hwp"
@@ -234,9 +232,8 @@ attachments:
     size: 29696
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 577
+    converted_text_chars: 322
     converted_non_space_chars: 230
-    table_row_count: 4
   - id: "204847824-202410150000022540000246015-byl-hwp"
     title: "[별지 제15호 서식] 배출권 거래시장 분쟁조정신청취하서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_배출권거래시장분쟁조정신청취하서.hwp"
@@ -250,9 +247,9 @@ attachments:
     size: 34304
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 305
-    converted_non_space_chars: 222
-    table_row_count: 1
+    converted_text_chars: 773
+    converted_non_space_chars: 576
+    table_row_count: 8
   - id: "204847824-202410150000022540000246016-byl-hwp"
     title: "[별지 제16호 서식] 제척·기피 신청서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_제척·기피신청서.hwp"
@@ -266,9 +263,9 @@ attachments:
     size: 29696
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 370
-    converted_non_space_chars: 178
-    table_row_count: 1
+    converted_text_chars: 723
+    converted_non_space_chars: 532
+    table_row_count: 8
   - id: "204847824-202410150000022540000246017-byl-hwp"
     title: "[별지 제17호 서식] 제척사유 부존재 확인서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_제척사유부존재확인서.hwp"
@@ -282,9 +279,9 @@ attachments:
     size: 31232
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 338
-    converted_non_space_chars: 201
-    table_row_count: 3
+    converted_text_chars: 567
+    converted_non_space_chars: 430
+    table_row_count: 7
   - id: "204847824-202410150000022540000246018-byl-hwp"
     title: "[별지 제18호 서식] 회피신청서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_회피신청서.hwp"
@@ -298,9 +295,9 @@ attachments:
     size: 28160
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 275
-    converted_non_space_chars: 152
-    table_row_count: 3
+    converted_text_chars: 566
+    converted_non_space_chars: 415
+    table_row_count: 8
   - id: "204847824-202410150000022540000246019-byl-hwp"
     title: "[별지 제19호 서식] 조정결정서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_조정결정서.hwp"
@@ -314,9 +311,8 @@ attachments:
     size: 32256
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 823
-    converted_non_space_chars: 362
-    table_row_count: 5
+    converted_text_chars: 471
+    converted_non_space_chars: 335
   - id: "204847824-202410150000022540000246020-byl-hwp"
     title: "[별지 제20호 서식] 각하결정서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_각하결정서.hwp"
@@ -330,9 +326,8 @@ attachments:
     size: 24576
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 502
-    converted_non_space_chars: 150
-    table_row_count: 5
+    converted_text_chars: 193
+    converted_non_space_chars: 123
   - id: "204847824-202410150000022540000246021-byl-hwp"
     title: "[별지 제21호 서식] 조정결정수락서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_조정결정수락서.hwp"
@@ -346,7 +341,7 @@ attachments:
     size: 24064
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 322
+    converted_text_chars: 216
     converted_non_space_chars: 156
   - id: "204847824-202410150000022540000246022-byl-hwp"
     title: "[별지 제22호 서식] 조정서"
@@ -361,7 +356,7 @@ attachments:
     size: 22016
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 272
+    converted_text_chars: 175
     converted_non_space_chars: 121
 ---
 

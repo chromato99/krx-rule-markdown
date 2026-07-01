@@ -23,8 +23,8 @@ attachments:
     size: 90624
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 880
-    converted_non_space_chars: 664
+    converted_text_chars: 886
+    converted_non_space_chars: 669
     formula_hint_count: 2
   - id: "210136803-210136989-hwp"
     title: "[별표2] 신종증권 상장심사기준<신설 2025. 10. 23.>"
@@ -39,8 +39,8 @@ attachments:
     size: 50688
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 996
-    converted_non_space_chars: 729
+    converted_text_chars: 2527
+    converted_non_space_chars: 1888
   - id: "210136803-210136992-hwp"
     title: "[별표3] 신규상장 예비심사 신청 서류<신설 2025. 10. 23.>"
     file_name: "신종증권시장 운영규정 시행세칙_0차_[별표3] 신규상장 예비심사 신청 서류.hwp"
@@ -54,8 +54,8 @@ attachments:
     size: 121344
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1014
-    converted_non_space_chars: 752
+    converted_text_chars: 1224
+    converted_non_space_chars: 973
     table_row_count: 1
   - id: "210136803-210136995-hwp"
     title: "[별표4] 의무보유 관련 제출 서류 및 제출 시기<신설 2025. 10. 23.>"
@@ -70,7 +70,7 @@ attachments:
     size: 53760
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 828
+    converted_text_chars: 806
     converted_non_space_chars: 607
   - id: "210136803-210136998-hwp"
     title: "[별표5] 신규상장 신청 서류<신설 2025. 10. 23.>"
@@ -85,8 +85,9 @@ attachments:
     size: 71168
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 389
-    converted_non_space_chars: 288
+    converted_text_chars: 450
+    converted_non_space_chars: 347
+    table_row_count: 1
   - id: "210136803-210137001-hwp"
     title: "[별표6] 추가상장 신청 서류<신설 2025. 10. 23.>"
     file_name: "신종증권시장 운영규정 시행세칙_0차_[별표6] 추가상장 신청 서류.hwp"
@@ -100,8 +101,9 @@ attachments:
     size: 29696
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 279
-    converted_non_space_chars: 215
+    converted_text_chars: 334
+    converted_non_space_chars: 262
+    table_row_count: 1
   - id: "210136803-210137004-hwp"
     title: "[별표7] 변경상장 신청 서류<신설 2025. 10. 23.>"
     file_name: "신종증권시장 운영규정 시행세칙_0차_[별표7] 변경상장 신청 서류.hwp"
@@ -115,8 +117,9 @@ attachments:
     size: 28672
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 259
-    converted_non_space_chars: 195
+    converted_text_chars: 313
+    converted_non_space_chars: 242
+    table_row_count: 1
   - id: "210136803-210137007-hwp"
     title: "[별표8] 관리종목지정ㆍ해제 시기<신설 2025. 10. 23.>"
     file_name: "신종증권시장 운영규정 시행세칙_0차_[별표8] 관리종목지정ㆍ해제 시기.hwp"
@@ -130,9 +133,9 @@ attachments:
     size: 51712
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1013
-    converted_non_space_chars: 814
-    table_row_count: 1
+    converted_text_chars: 2430
+    converted_non_space_chars: 1825
+    table_row_count: 12
   - id: "210136803-210137010-hwp"
     title: "[별표9] 상장수수료 및 연부과금<신설 2025. 10. 23.>"
     file_name: "신종증권시장 운영규정 시행세칙_0차_[별표9] 상장수수료 및 연부과금.hwp"
@@ -146,9 +149,9 @@ attachments:
     size: 51200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 990
-    converted_non_space_chars: 742
-    table_row_count: 1
+    converted_text_chars: 2083
+    converted_non_space_chars: 1604
+    table_row_count: 14
   - id: "210136803-210137013-hwp"
     title: "[별지 제1호 서식] 상장계약서<신설 2025. 10. 23.>"
     file_name: "신종증권시장 운영규정 시행세칙_0차_[별지 제1호 서식] 상장계약서.hwp"
@@ -162,8 +165,8 @@ attachments:
     size: 55808
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1022
-    converted_non_space_chars: 763
+    converted_text_chars: 2042
+    converted_non_space_chars: 1485
     table_row_count: 1
   - id: "210136803-210137016-hwp"
     title: "[별지 제2호 서식] 상장폐지 신청서<신설 2025. 10. 23.>"
@@ -178,9 +181,9 @@ attachments:
     size: 33280
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 657
-    converted_non_space_chars: 348
-    table_row_count: 2
+    converted_text_chars: 534
+    converted_non_space_chars: 439
+    table_row_count: 1
   - id: "210136803-210137019-hwp"
     title: "[별지 제3호 서식] 추가상장신청서<신설 2025. 10. 23.>"
     file_name: "신종증권시장 운영규정 시행세칙_0차_[별지 제3호 서식] 추가상장신청서.hwp"
@@ -194,10 +197,10 @@ attachments:
     size: 39424
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 696
-    converted_non_space_chars: 451
-    table_row_count: 2
-    formula_hint_count: 1
+    converted_text_chars: 617
+    converted_non_space_chars: 524
+    table_row_count: 1
+    formula_hint_count: 2
   - id: "210136803-210137022-hwp"
     title: "[별지 제4호 서식] 변경상장신청서<신설 2025. 10. 23.>"
     file_name: "신종증권시장 운영규정 시행세칙_0차_[별표4] 변경상장신청서.hwp"
@@ -211,9 +214,9 @@ attachments:
     size: 32256
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 653
-    converted_non_space_chars: 386
-    table_row_count: 3
+    converted_text_chars: 524
+    converted_non_space_chars: 457
+    table_row_count: 1
   - id: "210136803-210137027-hwp"
     title: "[별지 제5호 서식] 증권분포상황표<신설 2025. 10. 23.>"
     file_name: "신종증권시장 운영규정 시행세칙_0차_[별지 제5호 서식] 증권분포상황표.hwp"
@@ -227,9 +230,9 @@ attachments:
     size: 36864
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 760
-    converted_non_space_chars: 466
-    table_row_count: 2
+    converted_text_chars: 632
+    converted_non_space_chars: 541
+    table_row_count: 1
 ---
 
 제1장 총칙

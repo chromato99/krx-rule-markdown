@@ -23,8 +23,9 @@ attachments:
     size: 50688
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 995
-    converted_non_space_chars: 921
+    converted_text_chars: 2856
+    converted_non_space_chars: 2038
+    table_row_count: 21
   - id: "210084351-202309070000021740000268002-byl-hwp"
     title: "[별지 제1호 서식] 참가자 가입신청서<개정 2023.9.7>"
     file_name: "KRX석유시장 운영규정 시행세칙_3차_참가자가입신청서.hwp"
@@ -38,10 +39,10 @@ attachments:
     size: 67584
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1000
-    converted_non_space_chars: 774
-    table_row_count: 2
-    formula_hint_count: 5
+    converted_text_chars: 4094
+    converted_non_space_chars: 3204
+    table_row_count: 28
+    formula_hint_count: 9
   - id: "210084351-202309070000021740000268003-byl-hwp"
     title: "[별지 제2호 서식] 지점ID 발급신청서"
     file_name: "KRX석유시장 운영규정 시행세칙_3차_지점ID발급신청서.hwp"
@@ -55,9 +56,9 @@ attachments:
     size: 51200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 986
-    converted_non_space_chars: 765
-    table_row_count: 2
+    converted_text_chars: 2665
+    converted_non_space_chars: 2040
+    table_row_count: 32
   - id: "210084351-202309070000021740000268004-byl-hwp"
     title: "[별지 제3호 서식] 지점ID 폐쇄신청서"
     file_name: "KRX석유시장 운영규정 시행세칙_3차_지점ID폐쇄신청서.hwp"
@@ -71,9 +72,9 @@ attachments:
     size: 37888
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 482
-    converted_non_space_chars: 343
-    table_row_count: 1
+    converted_text_chars: 1554
+    converted_non_space_chars: 1153
+    table_row_count: 18
   - id: "210084351-202309070000021740000268005-byl-hwp"
     title: "[별지 제4호 서식] 참가자 탈퇴신청서"
     file_name: "KRX석유시장 운영규정 시행세칙_3차_참가자탈퇴신청서.hwp"
@@ -87,9 +88,9 @@ attachments:
     size: 35328
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 367
-    converted_non_space_chars: 248
-    table_row_count: 1
+    converted_text_chars: 685
+    converted_non_space_chars: 526
+    table_row_count: 7
     formula_hint_count: 1
   - id: "210084351-202309070000021740000268006-byl-hwp"
     title: "[별지 제5호 서식] 호가입력 대행 신청서"
@@ -104,9 +105,8 @@ attachments:
     size: 24064
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 261
+    converted_text_chars: 188
     converted_non_space_chars: 139
-    table_row_count: 2
   - id: "210084351-202309070000021740000268007-byl-hwp"
     title: "[별지 제6호 서식] 거래보증금 현금 인출청구서"
     file_name: "KRX석유시장 운영규정 시행세칙_3차_거래보증금현금인출청구서.hwp"
@@ -120,9 +120,9 @@ attachments:
     size: 36864
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 593
-    converted_non_space_chars: 381
-    table_row_count: 3
+    converted_text_chars: 664
+    converted_non_space_chars: 477
+    table_row_count: 7
   - id: "210084351-202309070000021740000268008-byl-hwp"
     title: "[별지 제7호 서식] 매매당사자 변경 신청서"
     file_name: "KRX석유시장 운영규정 시행세칙_3차_매매당사자변경신청서.hwp"
@@ -136,9 +136,9 @@ attachments:
     size: 32256
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 487
-    converted_non_space_chars: 248
-    table_row_count: 4
+    converted_text_chars: 368
+    converted_non_space_chars: 253
+    table_row_count: 5
   - id: "210084351-202309070000021740000268009-byl-hwp"
     title: "[별지 제8호 서식] 결제대금 반환청구서"
     file_name: "KRX석유시장 운영규정 시행세칙_3차_결제대금반환청구서.hwp"
@@ -152,9 +152,9 @@ attachments:
     size: 38400
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 584
-    converted_non_space_chars: 374
-    table_row_count: 3
+    converted_text_chars: 655
+    converted_non_space_chars: 470
+    table_row_count: 7
   - id: "210084351-202309070000021740000268010-byl-hwp"
     title: "[별지 제9호 서식] 결제지연 등 관련 당사자 간 합의내용 통지서"
     file_name: "KRX석유시장 운영규정 시행세칙_3차_결제지연등관련당사자간합의내용통지서.hwp"
@@ -168,9 +168,9 @@ attachments:
     size: 32768
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 500
-    converted_non_space_chars: 276
-    table_row_count: 3
+    converted_text_chars: 411
+    converted_non_space_chars: 282
+    table_row_count: 4
   - id: "210084351-202309070000021740000268011-byl-hwp"
     title: "[별지 제10호 서식] 석유제품담당자 등록(취소) 신청서<개정 2023.9.7>"
     file_name: "KRX석유시장 운영규정 시행세칙_3차_석유제품담당자등록(취소)신청서.hwp"
@@ -184,10 +184,10 @@ attachments:
     size: 52224
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 998
-    converted_non_space_chars: 737
-    table_row_count: 3
-    formula_hint_count: 3
+    converted_text_chars: 2783
+    converted_non_space_chars: 2124
+    table_row_count: 30
+    formula_hint_count: 4
 ---
 
 제1장 총칙

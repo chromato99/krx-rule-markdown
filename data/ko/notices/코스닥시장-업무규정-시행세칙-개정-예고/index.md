@@ -23,7 +23,7 @@ attachments:
     size: 139957
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 643
+    converted_text_chars: 645
     converted_non_space_chars: 473
     formula_hint_count: 2
   - id: "210221766-210221768-pdf"
@@ -41,7 +41,7 @@ attachments:
     quality_status: "warn"
     quality_score: 55
     quality_flags: "very_short_text"
-    converted_text_chars: 65
+    converted_text_chars: 67
     converted_non_space_chars: 20
 ---
 

@@ -23,9 +23,9 @@ attachments:
     size: 32256
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 325
-    converted_non_space_chars: 231
-    table_row_count: 2
+    converted_text_chars: 716
+    converted_non_space_chars: 498
+    table_row_count: 8
   - id: "210147374-202212280000008130000190002-byl-hwp"
     title: "[별지 제2호 서식] 네트워크 변경 신청서"
     file_name: "회원시스템 접속 등에 관한 지침_13차_네트워크변경신청서.hwp"
@@ -39,9 +39,9 @@ attachments:
     size: 21504
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 210
-    converted_non_space_chars: 157
-    table_row_count: 1
+    converted_text_chars: 573
+    converted_non_space_chars: 422
+    table_row_count: 7
   - id: "210147374-210065018-hwp"
     title: "[별지 제3호 서식] 세션 등 변경 신청서<개정 2014.2.28, 2022.12.28,2025. 5. 30.>"
     file_name: "회원시스템 접속 등에 관한 지침_13차_세션등변경신청서.hwp"
@@ -55,9 +55,9 @@ attachments:
     size: 41472
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 505
-    converted_non_space_chars: 358
-    table_row_count: 2
+    converted_text_chars: 871
+    converted_non_space_chars: 663
+    table_row_count: 7
 ---
 
 제1장 총칙
