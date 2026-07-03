@@ -113,7 +113,7 @@ mkdir -p "$KRX_RULE_DATA_DIR"
 rsync -a data/ "$KRX_RULE_DATA_DIR"/
 ```
 
-[`krx-rule-mcp`](https://github.com/chromato99/krx-rule-mcp)는 위 경로를 읽기 전용 corpus 디렉터리로 사용하고, 필요한 경우 그 안의 `index/` 하위에 검색 snapshot을 생성합니다.
+[`krx-rule-mcp`](https://github.com/chromato99/krx-rule-mcp)는 위 경로를 읽기 전용 corpus 디렉터리로 사용하고, BM25/vector 검색 snapshot은 MCP 프로젝트가 소유하는 별도 index 디렉터리(`KRX_RULE_INDEX_DIR`)에 생성합니다.
 
 ## 자동화
 

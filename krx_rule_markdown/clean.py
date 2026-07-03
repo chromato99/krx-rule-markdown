@@ -2,6 +2,8 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from pathlib import Path
+import json
+import shutil
 
 from .attachment_policy import is_excluded_current_rule_attachment, is_professional_attachment
 from .markdown import load_documents, write_document
@@ -44,6 +46,26 @@ def clean_unreferenced_attachments(data_dir: Path, *, dry_run: bool = False) -> 
             removed += 1
             if not dry_run:
                 path.unlink()
+    return CleanResult(scanned=scanned, removed=removed)
+
+
+def clean_unreferenced_documents(data_dir: Path, *, dry_run: bool = False) -> CleanResult:
+    data_dir = Path(data_dir)
+    referenced = manifest_document_paths(data_dir)
+    duplicate_paths = duplicate_document_paths(data_dir)
+    scanned = 0
+    removed = 0
+    for path in document_index_paths(data_dir):
+        scanned += 1
+        rel = normalize_relative(str(path.relative_to(data_dir)))
+        should_remove = rel in duplicate_paths
+        if referenced:
+            should_remove = should_remove or rel not in referenced
+        if not should_remove:
+            continue
+        removed += 1
+        if not dry_run:
+            remove_document_bundle(path, data_dir)
     return CleanResult(scanned=scanned, removed=removed)
 
 
@@ -120,6 +142,81 @@ def attachment_roots(data_dir: Path) -> list[Path]:
                     continue
                 roots.append(bundle / "raw")
                 roots.append(bundle / "attachments")
+    return roots
+
+
+def document_index_paths(data_dir: Path) -> list[Path]:
+    paths: list[Path] = []
+    for language in ("ko", "en"):
+        for folder in ("rules", "notices"):
+            base = data_dir / language / folder
+            if not base.exists():
+                continue
+            paths.extend(sorted(base.glob("*.md")))
+            paths.extend(sorted(base.glob("*/index.md")))
+    for folder in ("rules", "notices"):
+        base = data_dir / folder
+        if not base.exists():
+            continue
+        paths.extend(sorted(base.glob("*.md")))
+        paths.extend(sorted(base.glob("*/index.md")))
+    return paths
+
+
+def manifest_document_paths(data_dir: Path) -> set[str]:
+    manifest = data_dir / "manifest.json"
+    if not manifest.exists():
+        return set()
+    try:
+        payload = json.loads(manifest.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return set()
+    paths: set[str] = set()
+    for item in payload.get("documents", []):
+        if not isinstance(item, dict):
+            continue
+        path = str(item.get("path") or "").strip()
+        if path:
+            paths.add(normalize_relative(path))
+    return paths
+
+
+def duplicate_document_paths(data_dir: Path) -> set[str]:
+    groups: dict[tuple[str, str, str], list] = {}
+    for doc in load_documents(data_dir):
+        if not doc.path:
+            continue
+        key = (doc.language, doc.document_type, doc.id)
+        groups.setdefault(key, []).append(doc)
+    duplicates: set[str] = set()
+    for docs in groups.values():
+        if len(docs) <= 1:
+            continue
+        kept = max(docs, key=lambda doc: (doc.collected_at, doc.path))
+        for doc in docs:
+            if doc.path == kept.path:
+                continue
+            try:
+                duplicates.add(normalize_relative(str(Path(doc.path).relative_to(data_dir))))
+            except ValueError:
+                duplicates.add(normalize_relative(doc.path))
+    return duplicates
+
+
+def remove_document_bundle(index_path: Path, data_dir: Path) -> None:
+    if index_path.name == "index.md" and index_path.parent.parent in document_container_roots(data_dir):
+        shutil.rmtree(index_path.parent)
+        return
+    index_path.unlink()
+
+
+def document_container_roots(data_dir: Path) -> set[Path]:
+    roots: set[Path] = set()
+    for language in ("ko", "en"):
+        for folder in ("rules", "notices"):
+            roots.add(data_dir / language / folder)
+    for folder in ("rules", "notices"):
+        roots.add(data_dir / folder)
     return roots
 
 

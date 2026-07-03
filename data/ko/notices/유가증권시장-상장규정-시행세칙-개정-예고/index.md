@@ -2,7 +2,7 @@
 id: "210219879"
 title: "유가증권시장 상장규정 시행세칙 개정 예고"
 source_url: "https://rule.krx.co.kr/out/pds/pdsViewPop.do"
-collected_at: "2026-06-28T06:53:31.421389Z"
+collected_at: "2026-07-03T15:03:10.203585Z"
 content_hash: "517ede0662f9945d3feabbb4ad618427b00488fe91ac831e54efc88dc3a774f5"
 document_type: "notice"
 language: "ko"
@@ -23,7 +23,7 @@ attachments:
     size: 182766
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 997
+    converted_text_chars: 995
     converted_non_space_chars: 750
     formula_hint_count: 2
   - id: "210219879-210219880-pdf"
@@ -40,7 +40,7 @@ attachments:
     size: 355978
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 15831
+    converted_text_chars: 15796
     converted_non_space_chars: 11688
     table_row_count: 26
     formula_hint_count: 2

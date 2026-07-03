@@ -9,7 +9,7 @@ import re
 import time
 
 from .attachment_policy import is_excluded_current_rule_attachment
-from .html import attr_value, elements_by_class, first_match, html_to_markdown, strip_tags
+from .html import attr_value, element_by_id, elements_by_class, first_match, html_to_markdown, strip_tags
 from .models import (
     ATTACHMENT_PENDING,
     DOCUMENT_NOTICE,
@@ -273,7 +273,7 @@ def parse_recent_items(body: str) -> list[Item]:
 
 def parse_rule_document(body: str, item: Item, base_url: str) -> Document:
     title = strip_tags(first_match(r"<p\b[^>]*class=[\"'][^\"']*\btitle\b[^\"']*[\"'][^>]*>(.*?)</p>", body)) or item.title
-    inner = first_match(r"<div\b[^>]*id=[\"']innerbody[\"'][^>]*>(.*?)</div>", body)
+    inner = element_by_id(body, "innerbody")
     body_md = html_to_markdown(inner or body)
     jang = strip_tags(first_match(r"<p\b[^>]*class=[\"'][^\"']*\bjang\b[^\"']*[\"'][^>]*>(.*?)</p>", body))
     effective = first_non_empty(extract_effective_date(jang), item.effective_date)

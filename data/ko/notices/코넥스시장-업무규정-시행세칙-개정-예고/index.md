@@ -2,7 +2,7 @@
 id: "210221769"
 title: "코넥스시장 업무규정 시행세칙 개정 예고"
 source_url: "https://rule.krx.co.kr/out/pds/pdsViewPop.do"
-collected_at: "2026-06-28T06:53:20.207119Z"
+collected_at: "2026-07-03T15:02:58.330743Z"
 content_hash: "d21aff83fcf741dd4f07ded20ad92928ffb1f9a5af09505759c3a58961046b90"
 document_type: "notice"
 language: "ko"
@@ -23,7 +23,7 @@ attachments:
     size: 140753
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 643
+    converted_text_chars: 641
     converted_non_space_chars: 473
     formula_hint_count: 2
   - id: "210221769-210221771-pdf"
@@ -40,7 +40,7 @@ attachments:
     size: 179524
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 4250
+    converted_text_chars: 4248
     converted_non_space_chars: 3371
     formula_hint_count: 2
 ---

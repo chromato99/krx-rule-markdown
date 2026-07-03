@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from html import unescape
+from html import escape, unescape
 from html.parser import HTMLParser
 import re
 
@@ -57,6 +57,69 @@ def html_to_markdown(html: str) -> str:
     parser = MarkdownHTMLParser()
     parser.feed(html)
     return parser.markdown()
+
+
+class ElementByIDParser(HTMLParser):
+    def __init__(self, element_id: str) -> None:
+        super().__init__(convert_charrefs=False)
+        self.element_id = element_id
+        self.parts: list[str] = []
+        self.depth = 0
+        self.done = False
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if self.done:
+            return
+        if self.depth == 0:
+            if any(name.lower() == "id" and value == self.element_id for name, value in attrs):
+                self.depth = 1
+            return
+        self.parts.append(render_start_tag(tag, attrs))
+        self.depth += 1
+
+    def handle_startendtag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if self.depth > 0 and not self.done:
+            self.parts.append(render_start_tag(tag, attrs)[:-1] + " />")
+
+    def handle_endtag(self, tag: str) -> None:
+        if self.depth == 0 or self.done:
+            return
+        self.depth -= 1
+        if self.depth == 0:
+            self.done = True
+            return
+        self.parts.append(f"</{tag}>")
+
+    def handle_data(self, data: str) -> None:
+        if self.depth > 0 and not self.done:
+            self.parts.append(data)
+
+    def handle_entityref(self, name: str) -> None:
+        if self.depth > 0 and not self.done:
+            self.parts.append(f"&{name};")
+
+    def handle_charref(self, name: str) -> None:
+        if self.depth > 0 and not self.done:
+            self.parts.append(f"&#{name};")
+
+    def html(self) -> str:
+        return "".join(self.parts).strip()
+
+
+def render_start_tag(tag: str, attrs: list[tuple[str, str | None]]) -> str:
+    rendered = []
+    for name, value in attrs:
+        if value is None:
+            rendered.append(f" {name}")
+        else:
+            rendered.append(f' {name}="{escape(value, quote=True)}"')
+    return f"<{tag}{''.join(rendered)}>"
+
+
+def element_by_id(html: str, element_id: str) -> str:
+    parser = ElementByIDParser(element_id)
+    parser.feed(html)
+    return parser.html()
 
 
 def strip_tags(html: str) -> str:

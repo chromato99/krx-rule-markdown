@@ -5,7 +5,7 @@ from pathlib import Path
 
 from .convert import convert_attachment
 from .markdown import load_documents, write_document
-from .models import ATTACHMENT_CONVERTED
+from .models import ATTACHMENT_CONVERTED, Attachment, hash_text
 from .paths import converted_attachment_path
 from .quality import write_manifest
 
@@ -28,6 +28,20 @@ def reconvert_data(data_dir: Path, *, document_id: str = "", dry_run: bool = Fal
             continue
         result.documents += 1
         changed = False
+        if doc.raw_path:
+            result.attachments += 1
+            raw_path = data_dir / doc.raw_path
+            if not raw_path.exists() or not doc.text_path:
+                result.failed += 1
+            elif dry_run:
+                result.converted += 1
+            else:
+                pseudo_attachment = convert_document_file(data_dir, doc, raw_path)
+                if pseudo_attachment.status == ATTACHMENT_CONVERTED and pseudo_attachment.text_path:
+                    result.converted += 1
+                    changed = True
+                else:
+                    result.failed += 1
         used_converted_names = existing_converted_names(doc)
         for att in doc.attachments:
             result.attachments += 1
@@ -51,6 +65,7 @@ def reconvert_data(data_dir: Path, *, document_id: str = "", dry_run: bool = Fal
                 result.failed += 1
             changed = True
         if changed:
+            refresh_document_body_from_text_path(data_dir, doc)
             write_document(data_dir, doc)
             touched_docs.append(doc)
     if not dry_run and touched_docs:
@@ -64,3 +79,32 @@ def existing_converted_names(doc) -> set[str]:
         if att.text_path:
             names.add(Path(att.text_path).name)
     return names
+
+
+def convert_document_file(data_dir: Path, doc, raw_path: Path):
+    text_path = data_dir / doc.text_path
+    pseudo_attachment = Attachment(
+        id=doc.id,
+        title=doc.title,
+        file_name=doc.file_name or raw_path.name,
+        raw_path=doc.raw_path,
+        text_path=doc.text_path,
+    )
+    pseudo_attachment = convert_attachment(raw_path, text_path, pseudo_attachment)
+    if pseudo_attachment.status != ATTACHMENT_CONVERTED or not pseudo_attachment.text_path:
+        return pseudo_attachment
+    doc.raw_path = str(raw_path.relative_to(data_dir))
+    doc.text_path = str(text_path.relative_to(data_dir))
+    doc.file_content_hash = pseudo_attachment.content_hash
+    refresh_document_body_from_text_path(data_dir, doc)
+    return pseudo_attachment
+
+
+def refresh_document_body_from_text_path(data_dir: Path, doc) -> None:
+    if not doc.text_path:
+        return
+    text_path = data_dir / doc.text_path
+    if not text_path.exists():
+        return
+    doc.body = text_path.read_text(encoding="utf-8").strip()
+    doc.content_hash = hash_text(doc.title + "\n" + doc.body)

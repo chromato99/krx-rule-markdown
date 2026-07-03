@@ -2,7 +2,7 @@
 id: "210220231"
 title: "코스닥시장 공시규정 시행세칙 개정 예고"
 source_url: "https://rule.krx.co.kr/out/pds/pdsViewPop.do"
-collected_at: "2026-06-28T06:53:27.948826Z"
+collected_at: "2026-07-03T15:03:06.710627Z"
 content_hash: "60ea22f08ef48f8e4197ef97642d61c9423401e3592116cbcab482fa098dbc19"
 document_type: "notice"
 language: "ko"
@@ -23,7 +23,7 @@ attachments:
     size: 123310
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 528
+    converted_text_chars: 526
     converted_non_space_chars: 395
     formula_hint_count: 4
   - id: "210220231-210220236-pdf"
@@ -40,7 +40,7 @@ attachments:
     size: 143565
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1536
+    converted_text_chars: 1534
     converted_non_space_chars: 1141
     formula_hint_count: 2
 ---

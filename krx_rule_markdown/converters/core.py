@@ -5,7 +5,7 @@ import contextlib
 
 from ..models import Attachment, ATTACHMENT_CONVERTED, ATTACHMENT_FAILED, hash_bytes
 from ..quality import apply_quality, inspect_attachment_quality, mark_quality_failure
-from .base import ConversionError, infer_extension
+from .base import ConversionError, infer_extension, normalize_converted_text
 from .hwp import extract_hwp
 from .hwpx import extract_hwpx
 from .pdf import extract_pdf
@@ -19,11 +19,11 @@ def convert_attachment(raw_path: Path, out_path: Path, att: Attachment) -> Attac
     att.size = len(data)
     att.content_hash = hash_bytes(data)
     try:
-        text = convert_bytes(raw_path, data)
+        text = normalize_converted_text(convert_bytes(raw_path, data))
         if not text.strip():
             raise ConversionError("conversion produced empty text")
         out_path.parent.mkdir(parents=True, exist_ok=True)
-        out_path.write_text(text.strip() + "\n", encoding="utf-8")
+        out_path.write_text(text + "\n", encoding="utf-8")
         apply_quality(att, inspect_attachment_quality(text, raw_path))
         att.status = ATTACHMENT_CONVERTED
         att.error = ""
@@ -32,7 +32,7 @@ def convert_attachment(raw_path: Path, out_path: Path, att: Attachment) -> Attac
         att.error = str(exc)
         att.text_path = ""
         mark_quality_failure(att, "conversion_failed")
-        with contextlib.suppress(FileNotFoundError):
+        with contextlib.suppress(OSError):
             out_path.unlink()
     return att
 

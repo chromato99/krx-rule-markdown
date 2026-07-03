@@ -30,6 +30,11 @@ def normalize_text(text: str) -> str:
     return re.sub(r"\s+", " ", unescape(text)).strip()
 
 
+def normalize_converted_text(text: str) -> str:
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+    return "\n".join(line.rstrip() for line in text.split("\n")).strip()
+
+
 def dedupe_adjacent(lines: list[str]) -> list[str]:
     out: list[str] = []
     for line in lines:

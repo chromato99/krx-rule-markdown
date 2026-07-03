@@ -3,12 +3,14 @@ from __future__ import annotations
 from pathlib import Path
 import ast
 import io
+import json
 import tempfile
 import unittest
 import zipfile
 
 from krx_rule_markdown.convert import (
     append_hwp_equations,
+    convert_attachment,
     convert_bytes,
     hwp_equation_to_latex,
     infer_extension,
@@ -20,14 +22,15 @@ from krx_rule_markdown.collector import (
     parse_notice_attachments,
     parse_notice_document,
     parse_recent_items,
+    parse_rule_document,
     parse_rule_attachments,
     safe_base,
 )
-from krx_rule_markdown.clean import clean_unreferenced_attachments, drop_past_rule_attachments
+from krx_rule_markdown.clean import clean_unreferenced_attachments, clean_unreferenced_documents, drop_past_rule_attachments
 from krx_rule_markdown.converters.hwp import render_hwp_paragraph, render_hwp_table_cells
-from krx_rule_markdown.converters.tables import normalize_angle_bracket_tables
+from krx_rule_markdown.converters.tables import normalize_angle_bracket_tables, render_html_table
 from krx_rule_markdown.markdown import load_documents, parse_markdown, write_document
-from krx_rule_markdown.models import ATTACHMENT_CONVERTED, Attachment, Document, Item, now_utc
+from krx_rule_markdown.models import ATTACHMENT_CONVERTED, ATTACHMENT_FAILED, Attachment, Document, Item, now_utc
 from krx_rule_markdown.paths import converted_attachment_path, raw_attachment_path
 from krx_rule_markdown.quality import audit_data_quality, inspect_attachment_quality
 from krx_rule_markdown.reconvert import reconvert_data
@@ -197,6 +200,35 @@ document_type: rule
         self.assertEqual(byul.server_file, "210032775.hwp")
         self.assertEqual(byul.source_url, "/Download.do")
 
+    def test_rule_document_keeps_nested_innerbody_articles(self) -> None:
+        html = """
+<html>
+<p class="title">유가증권시장 상장규정</p>
+<p class="jang">시행일 : 2026. 7. 2</p>
+<div id="innerbody">
+  <div class="article">
+    <p><strong>제1조(목적)</strong>첫 번째 조문입니다.</p>
+  </div>
+  <div class="article">
+    <p><strong>제2조(정의)</strong>두 번째 조문입니다.</p>
+  </div>
+</div>
+<div id="footer">닫기</div>
+</html>
+"""
+        item = Item(
+            id="210220143",
+            book_id="210220143",
+            title="유가증권시장 상장규정",
+            document_type="rule",
+            effective_date="2026-07-02",
+        )
+        doc = parse_rule_document(html, item, "https://rule.krx.co.kr")
+        self.assertIn("제1조", doc.body)
+        self.assertIn("제2조", doc.body)
+        self.assertIn("두 번째 조문입니다.", doc.body)
+        self.assertNotIn("닫기", doc.body)
+
     def test_extract_state_history_id_for_english_download(self) -> None:
         html = """
 obj.put("statehistoryid","210016751");
@@ -362,6 +394,60 @@ $(".goRdoc").click(function(){});
         self.assertIn('<td rowspan="2">선물거래</td>', text)
         self.assertIn("<td>코스피200<br>미니코스피200</td>", text)
 
+    def test_hwp_table_cells_preserve_explicit_empty_column_gaps(self) -> None:
+        text = render_hwp_table_cells(
+            [
+                {"row": 0, "col": 0, "rowspan": 1, "colspan": 1, "text": "A"},
+                {"row": 0, "col": 2, "rowspan": 1, "colspan": 1, "text": "C"},
+            ]
+        )
+        self.assertIn("| A |  | C |", text)
+
+    def test_hwp_table_cells_do_not_duplicate_rowspan_covered_columns(self) -> None:
+        text = render_hwp_table_cells(
+            [
+                {"row": 0, "col": 0, "rowspan": 2, "colspan": 1, "text": "구분"},
+                {"row": 0, "col": 1, "rowspan": 1, "colspan": 1, "text": "값"},
+                {"row": 1, "col": 1, "rowspan": 1, "colspan": 1, "text": "10"},
+            ]
+        )
+        self.assertIn('<td rowspan="2">구분</td>', text)
+        self.assertIn("  <tr>\n    <td>10</td>\n  </tr>", text)
+        self.assertNotIn("<td></td>", text)
+
+    def test_html_table_normalizes_rows_and_spans_together(self) -> None:
+        text = render_html_table(
+            [[""], ["A", "B"]],
+            [[(9, 9)], [(1, 2), (1, 1)]],
+        )
+        self.assertNotIn('rowspan="9"', text)
+        self.assertIn('<td colspan="2">A</td>', text)
+        self.assertIn("<td>B</td>", text)
+
+    def test_convert_attachment_trims_trailing_whitespace_per_line(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            raw_path = root / "sample.txt"
+            raw_path.write_text("alpha   \ncontracts" + (" " * 2000) + "\n", encoding="utf-8")
+            out_path = root / "sample.md"
+            att = Attachment(id="att-1", title="sample", file_name="sample.txt")
+            converted = convert_attachment(raw_path, out_path, att)
+            output = out_path.read_text(encoding="utf-8")
+        self.assertEqual(converted.status, ATTACHMENT_CONVERTED)
+        self.assertEqual(output, "alpha\ncontracts\n")
+
+    def test_convert_attachment_does_not_mask_cleanup_errors(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            raw_path = root / "sample.txt"
+            raw_path.write_text("body", encoding="utf-8")
+            out_path = root / "sample.md"
+            out_path.mkdir()
+            att = Attachment(id="att-1", title="sample", file_name="sample.txt")
+            converted = convert_attachment(raw_path, out_path, att)
+        self.assertEqual(converted.status, ATTACHMENT_FAILED)
+        self.assertIn("Is a directory", converted.error)
+
     def test_hwp_eqedit_payload_decodes_script(self) -> None:
         script = "WC=Min LEFT { sum _{i=1} ^{m} |`k _{i}`| RIGHT }"
         payload = (
@@ -518,6 +604,67 @@ $(".goRdoc").click(function(){});
         self.assertTrue(loaded.attachments[0].text_path.endswith(".md"))
         self.assertEqual(converted_text, "표와 수식")
 
+    def test_reconvert_refreshes_document_body_from_converted_text_path(self) -> None:
+        doc = Document(
+            id="rule-1-en",
+            title="Sample Rule",
+            source_url="https://example.test/rule",
+            document_type="rule",
+            language="en",
+            collected_at=now_utc(),
+            content_hash="old-hash",
+            body="old body",
+            text_path="en/rules/sample-rule/attachments/english-full-text.md",
+            attachments=[
+                Attachment(
+                    id="att-1",
+                    title="English full text",
+                    file_name="english.txt",
+                    raw_path="en/rules/sample-rule/raw/english.txt",
+                    text_path="en/rules/sample-rule/attachments/english-full-text.md",
+                )
+            ],
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            write_document(root, doc)
+            raw_path = root / "en/rules/sample-rule/raw/english.txt"
+            raw_path.parent.mkdir(parents=True)
+            raw_path.write_text("fresh body   \ncontracts" + (" " * 2000), encoding="utf-8")
+            result = reconvert_data(root)
+            loaded = load_documents(root)[0]
+        self.assertEqual(result.converted, 1)
+        self.assertEqual(loaded.body, "fresh body\ncontracts")
+        self.assertNotEqual(loaded.content_hash, "old-hash")
+
+    def test_reconvert_rebuilds_document_level_markdown_from_existing_raw_file(self) -> None:
+        doc = Document(
+            id="rule-1-en",
+            title="Sample Rule",
+            source_url="https://example.test/rule",
+            document_type="rule",
+            language="en",
+            collected_at=now_utc(),
+            content_hash="old-hash",
+            body="old body",
+            raw_path="en/rules/sample-rule/raw/english.txt",
+            text_path="en/rules/sample-rule/attachments/english-full-text.md",
+            file_name="english.txt",
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            write_document(root, doc)
+            raw_path = root / "en/rules/sample-rule/raw/english.txt"
+            raw_path.parent.mkdir(parents=True)
+            raw_path.write_text("fresh body   \ncontracts" + (" " * 2000), encoding="utf-8")
+            result = reconvert_data(root)
+            loaded = load_documents(root)[0]
+            converted_text = (root / loaded.text_path).read_text(encoding="utf-8")
+        self.assertEqual(result.converted, 1)
+        self.assertEqual(loaded.body, "fresh body\ncontracts")
+        self.assertEqual(converted_text, "fresh body\ncontracts\n")
+        self.assertNotEqual(loaded.content_hash, "old-hash")
+
     def test_clean_removes_unreferenced_attachment_files(self) -> None:
         doc = Document(
             id="rule-1",
@@ -554,6 +701,47 @@ $(".goRdoc").click(function(){});
             self.assertTrue(converted.exists())
             self.assertFalse(old.exists())
         self.assertEqual(result.removed, 1)
+
+    def test_clean_removes_unreferenced_document_bundles(self) -> None:
+        current = Document(
+            id="rule-1",
+            title="새 규정",
+            source_url="https://example.test/rule",
+            document_type="rule",
+            collected_at="2026-07-03T00:00:00Z",
+            content_hash="new",
+            body="new body",
+        )
+        stale = Document(
+            id="rule-1",
+            title="옛 규정",
+            source_url="https://example.test/rule",
+            document_type="rule",
+            collected_at="2026-01-01T00:00:00Z",
+            content_hash="old",
+            body="old body",
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            current_path = write_document(root, current)
+            stale_path = write_document(root, stale)
+            (root / "manifest.json").write_text(
+                json.dumps(
+                    {
+                        "documents": [
+                            current.to_mapping() | {"path": str(current_path.relative_to(root))}
+                        ]
+                    },
+                    ensure_ascii=False,
+                ),
+                encoding="utf-8",
+            )
+            result = clean_unreferenced_documents(root)
+            loaded = load_documents(root)
+        self.assertEqual(result.removed, 1)
+        self.assertFalse(stale_path.exists())
+        self.assertEqual([doc.id for doc in loaded], ["rule-1"])
+        self.assertEqual(loaded[0].title, "새 규정")
 
     def test_clean_drops_past_rule_attachment_metadata_but_keeps_notice_attachments(self) -> None:
         rule_doc = Document(

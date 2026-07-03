@@ -25,10 +25,13 @@ def render_markdown_table(rows: list[list[str]]) -> str:
 
 
 def render_html_table(rows: list[list[str]], spans: list[list[tuple[int, int]]] | None = None) -> str:
-    rows = normalize_rows(rows)
+    if spans is None:
+        rows = normalize_rows(rows)
+        spans = [[(1, 1) for _ in row] for row in rows]
+    else:
+        rows, spans = normalize_rows_and_spans(rows, spans)
     if not rows:
         return ""
-    spans = spans or [[(1, 1) for _ in row] for row in rows]
     lines = ["<table>"]
     for row, span_row in zip(rows, spans, strict=False):
         lines.append("  <tr>")
@@ -111,6 +114,24 @@ def table_needs_html(rows: list[list[str]], spans: list[list[tuple[int, int]]]) 
 def normalize_rows(rows: list[list[str]]) -> list[list[str]]:
     normalized = [[normalize_text(cell) for cell in row] for row in rows]
     return [row for row in normalized if any(cell.strip() for cell in row)]
+
+
+def normalize_rows_and_spans(
+    rows: list[list[str]],
+    spans: list[list[tuple[int, int]]],
+) -> tuple[list[list[str]], list[list[tuple[int, int]]]]:
+    normalized_rows: list[list[str]] = []
+    normalized_spans: list[list[tuple[int, int]]] = []
+    for index, row in enumerate(rows):
+        normalized = [normalize_text(cell) for cell in row]
+        if not any(cell.strip() for cell in normalized):
+            continue
+        span_row = list(spans[index]) if index < len(spans) else []
+        if len(span_row) < len(normalized):
+            span_row.extend((1, 1) for _ in range(len(normalized) - len(span_row)))
+        normalized_rows.append(normalized)
+        normalized_spans.append(span_row[: len(normalized)])
+    return normalized_rows, normalized_spans
 
 
 def escape_markdown_cell(cell: str) -> str:

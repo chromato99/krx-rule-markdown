@@ -6,6 +6,7 @@ import os
 import sys
 
 from .clean import (
+    clean_unreferenced_documents,
     clean_unreferenced_attachments,
     drop_past_rule_attachments,
     drop_professional_attachments,
@@ -60,6 +61,7 @@ def main(argv: list[str] | None = None) -> int:
         help="Drop current-rule attachments that are past revision history, while keeping future notices.",
     )
     clean_parser.add_argument("--prune-unreferenced-attachments", action="store_true")
+    clean_parser.add_argument("--prune-unreferenced-documents", action="store_true")
     clean_parser.add_argument("--dry-run", action="store_true")
 
     args = parser.parse_args(argv)
@@ -134,10 +136,16 @@ def main(argv: list[str] | None = None) -> int:
             result = clean_unreferenced_attachments(Path(args.data_dir), dry_run=args.dry_run)
             action = "would remove" if args.dry_run else "removed"
             print(f"clean unreferenced_attachments scanned={result.scanned} {action}={result.removed}")
+        if args.prune_unreferenced_documents:
+            did_work = True
+            result = clean_unreferenced_documents(Path(args.data_dir), dry_run=args.dry_run)
+            action = "would remove" if args.dry_run else "removed"
+            print(f"clean unreferenced_documents scanned={result.scanned} {action}={result.removed}")
         if not did_work:
             print(
                 "nothing to clean; pass --drop-past-rule-attachments, "
-                "--drop-professional-attachments, or --prune-unreferenced-attachments",
+                "--drop-professional-attachments, --prune-unreferenced-attachments, "
+                "or --prune-unreferenced-documents",
                 file=sys.stderr,
             )
             return 2

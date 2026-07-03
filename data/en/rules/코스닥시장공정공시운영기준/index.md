@@ -2,8 +2,8 @@
 id: "204844930-en"
 title: "코스닥시장공정공시운영기준"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-06-28T06:51:31.987402Z"
-content_hash: "dc38d84e36f47e2b4e1525e6309adbe60049d30b6e4eceb5e18641950cd9c43c"
+collected_at: "2026-07-03T15:00:58.050330Z"
+content_hash: "6995bf7ebff9cd65b1c55adbd93163d0edca1d2874420fdd06cbdf60727b1f55"
 document_type: "rule"
 language: "en"
 category: "업무규정 / 코스닥시장규정"
@@ -16,886 +16,886 @@ text_path: "en/rules/코스닥시장공정공시운영기준/attachments/english
 file_content_hash: "b8fbe5f33d8e772de1adf63a0cca0c16a9f03f4468a57b71655431e03c1c4d28"
 ---
 
-KOSDAQ MARKET OPERATIONAL GUIDELINES   
+KOSDAQ MARKET OPERATIONAL GUIDELINES
 
-ON FAIR DISCLOSURE 
+ON FAIR DISCLOSURE
 
-Formulated on January 27, 2005 
+Formulated on January 27, 2005
 
-Amended on March 23, 2006 
-Amended on May 14, 2007 
+Amended on March 23, 2006
+Amended on May 14, 2007
 
-Amended on September 22, 2008 
+Amended on September 22, 2008
 
-Amended on February 3, 2009 
+Amended on February 3, 2009
 
-Amended on April 18, 2012 
+Amended on April 18, 2012
 
-Amended on March 26, 2013 
+Amended on March 26, 2013
 
-Amended on June 29, 2017 
+Amended on June 29, 2017
 
-Rules  and  Regulations  available  from  this  English  version  do  not  warrant  or  assume 
+Rules  and  Regulations  available  from  this  English  version  do  not  warrant  or  assume
 
-any  liability  or  responsibility  for  the  accuracy,  completeness  or  usefulness  of  any 
+any  liability  or  responsibility  for  the  accuracy,  completeness  or  usefulness  of  any
 
-information. Only Korean version shall be deemed authentic. 
+information. Only Korean version shall be deemed authentic.
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-TABLE OF CONTENTS 
 
-§1. Purpose ....................................................................................................................... 1 
 
-§2. Definitions .................................................................................................................. 1 
 
-§3. Information subject to Fair Disclosure ....................................................................... 1 
 
-§4. Providers of Fair Disclosure Information ................................................................... 3 
 
-§5. Prohibition of Roundabout Provision of Information subject to Fair Disclosure ...... 4 
 
-§6. Receivers of Faire Disclosure Information ................................................................. 4 
 
-§7. Notification Deadline ................................................................................................. 5 
 
-§8. Notification Methods .................................................................................................. 7 
 
-§9. Exception in Applying Fair Disclosure Obligations .................................................. 8 
 
-§10. Relationship with Timely Disclosure ..................................................................... 10 
 
-§11. Due Care and Other Duties of KOSDAQ-Listed Corporations .............................. 11 
 
-ADDENDA .................................................................................................................... 12 
 
- 
- 
-§1. Purpose 
 
-The purpose of this Operational Guidelines on Fair Disclosure (hereinafter referred to 
 
-as the “Operational Guidelines”) is to stipulate the matters necessary for the effective 
 
-operation of fair disclosure system stated in Section 3 under Chapter III of Part I of the 
 
-KOSDAQ Market Disclosure Regulation (hereinafter referred to as “the Regulation”) 
 
-pursuant to [§18] of the Regulation. (Amended on February 3, 2009; April 18, 2012)         
 
-§2. Definitions 
+TABLE OF CONTENTS
 
-The  terms  used  in  this  Operational  Guidelines  shall  have  the  same  meanings  given  to 
+§1. Purpose ....................................................................................................................... 1
 
-them in the Regulation.   
+§2. Definitions .................................................................................................................. 1
 
-§3. Information subject to Fair Disclosure 
+§3. Information subject to Fair Disclosure ....................................................................... 1
 
-(1)  The  “future  business  plans  or  management  plans”  in  [§12(1)1]  of  the  Regulation 
+§4. Providers of Fair Disclosure Information ................................................................... 3
 
-shall refer to the plans for a period up to the next three (3) years, which concern each of 
+§5. Prohibition of Roundabout Provision of Information subject to Fair Disclosure ...... 4
 
-the  following  matters  that  have  substantial  influence  on  the  overall  business  activities 
+§6. Receivers of Faire Disclosure Information ................................................................. 4
 
-and performance of a company. (Amended on February 3, 2009) 
+§7. Notification Deadline ................................................................................................. 5
 
-1. New businesses planned; 
+§8. Notification Methods .................................................................................................. 7
 
-2. Development of new markets; 
+§9. Exception in Applying Fair Disclosure Obligations .................................................. 8
 
-3. Change in main business areas; 
+§10. Relationship with Timely Disclosure ..................................................................... 10
 
-4. Change in corporate organizational structure; 
+§11. Due Care and Other Duties of KOSDAQ-Listed Corporations .............................. 11
 
-5. Development and production of new products; 
+ADDENDA .................................................................................................................... 12
 
-6. Development of new technologies; 
 
-7. Entering into agreements on strategic alliances with other domestic and overseas 
 
-corporations; and 
+§1. Purpose
 
-8. Change in the existing businesses (suspension, closing, disposal, etc.) 
+The purpose of this Operational Guidelines on Fair Disclosure (hereinafter referred to
 
-(2) The “estimates of or forecast on sales, operating income/losses, profits/losses before 
+as the “Operational Guidelines”) is to stipulate the matters necessary for the effective
 
-tax  from  continuing  operations  or  net  income/losses”  in  [§12(1)2]  of  the  Regulation 
-shall  refer  to  the  estimations  or  forecasts  (including  the  sales  amount,  etc.  in  special 
+operation of fair disclosure system stated in Section 3 under Chapter III of Part I of the
 
-business  area  or  operation  or  specific  products)  about  the  sales,  operating  income 
+KOSDAQ Market Disclosure Regulation (hereinafter referred to as “the Regulation”)
 
-1 
+pursuant to [§18] of the Regulation. (Amended on February 3, 2009; April 18, 2012)
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-(losses), profits (losses) before tax from continuing operations or net income (losses) for 
+§2. Definitions
 
-a period up to the next three (3) years. (Amended on May 14, 2007; February 3, 2009) 
+The  terms  used  in  this  Operational  Guidelines  shall  have  the  same  meanings  given  to
 
-(3)  The  “business  performance  such  as  sales,  operating  income/losses,  profits/losses 
+them in the Regulation.
 
-before  tax  from  continuing  operations,  or  net  income/losses  that  are  included  in  the 
+§3. Information subject to Fair Disclosure
 
-annual  reports,  etc.  that  is  released  before  submitting  the  annual  reports,  etc.”  in 
+(1)  The  “future  business  plans  or  management  plans”  in  [§12(1)1]  of  the  Regulation
 
-[§12(1)3] of the Regulation shall refer to the business results, including sales, operating 
+shall refer to the plans for a period up to the next three (3) years, which concern each of
 
-income  (losses),  profits  (losses)  before  tax  from  continuing  operations,  or  net  income 
+the  following  matters  that  have  substantial  influence  on  the  overall  business  activities
 
-(losses),  stated  in  the  annual  reports,  etc.  that  are  not  yet  submitted  at  the  time  of 
+and performance of a company. (Amended on February 3, 2009)
 
-releasing  the  concerned  information  subject  to  fair  disclosure.  In  this  case,  the 
+1. New businesses planned;
 
-indications  on  the  year  on  year  increases/  decreases  turn  a  profit/turn  a  loss,  the 
+2. Development of new markets;
 
-information on the amount/rate of year on year increase/decrease, etc., and the business 
+3. Change in main business areas;
 
-performance during the period that is part of the period for which the annual reports, etc. 
-are  prepared  shall  be  included.  However,  this  provision  shall  not  apply  after  the 
+4. Change in corporate organizational structure;
 
-business  performance  for  the  whole  periods  encompassing  the  period  concerned  is 
+5. Development and production of new products;
 
-already disclosed. (Amended on May 14, 2007; February 3, 2009) 
+6. Development of new technologies;
 
-(4) “From among the matters related to those set forth in Articles [§6] through [§9-2], 
+7. Entering into agreements on strategic alliances with other domestic and overseas
 
-the matters  for which the reporting deadlines have not  yet  passed” in  [§12(1)4] of the 
+corporations; and
 
-Regulation shall refer to, from among the matters corresponding to the criteria specified 
+8. Change in the existing businesses (suspension, closing, disposal, etc.)
 
-in  Articles  [§6]  through  [§9-2]  of  the  Regulation,  the  matters  that  are  not  yet  clearly 
+(2) The “estimates of or forecast on sales, operating income/losses, profits/losses before
 
-come  under  the  disclosure  obligation  because  the  board  of  directors  has  not  made  its 
+tax  from  continuing  operations  or  net  income/losses”  in  [§12(1)2]  of  the  Regulation
+shall  refer  to  the  estimations  or  forecasts  (including  the  sales  amount,  etc.  in  special
 
-decision, and the matters not disclosed in accordance with Articles [§6] through [§9-2] 
+business  area  or  operation  or  specific  products)  about  the  sales,  operating  income
 
-of the Regulation although they clearly come under the disclosure obligation. (Amended 
+1
 
-on February 3, 2009; April 18, 2012; March 26, 2013) 
 
-(5)  “When  a  fair  disclosure  information  provider  selectively  releases  the  matters”  in 
 
-the  main  sentence  of  [§12(1)]  of  the  Regulation  shall  include  the  distribution  or 
 
-provision of materials prepared beforehand verbally or via telecommunication means 
 
-(including  use  of  landline  or  mobile  telephone,  e-mails,  online  messengers,  etc.). 
 
-(Amended on February 3, 2009) 
 
-(6)  In  cases  where  the  information  provided  has  already  been  disclosed  through  the 
 
-disclosure  or  fair  disclosure  prescribed  by  the  Financial  Investment  Services  and 
-Capital  Market  Act  (hereinafter  referred  to  as  “the  Act”)  and  the  Regulation,  the 
 
-2 
 
- 
- 
- 
- 
- 
-provisions of [§12] of the Regulation shall not apply thereto. (Amended on February 3, 
 
-2009) 
+(losses), profits (losses) before tax from continuing operations or net income (losses) for
 
-§4. Providers of Fair Disclosure Information 
+a period up to the next three (3) years. (Amended on May 14, 2007; February 3, 2009)
 
-(1)  “Its  representative”  in  [§12(2)1]  of  the  Regulation  shall  refer  to  an  agent  that 
+(3)  The  “business  performance  such  as  sales,  operating  income/losses,  profits/losses
 
-performs  the  legal  tasks  in  the  name  of  corporation  listed  on  the  KOSDAQ  Market 
+before  tax  from  continuing  operations,  or  net  income/losses  that  are  included  in  the
 
-(hereinafter referred to as the “KOSDAQ-listed corporation”) to give the legal effect of 
+annual  reports,  etc.  that  is  released  before  submitting  the  annual  reports,  etc.”  in
 
-such task to the KOSDAQ-listed corporation. (Amended on February 3, 2009) 
+[§12(1)3] of the Regulation shall refer to the business results, including sales, operating
 
-(2) For the officers under [§12(2)2] of the Regulation, it shall be regardless whether or 
+income  (losses),  profits  (losses)  before  tax  from  continuing  operations,  or  net  income
 
-not they are registered or in full-time status; for the directors under the same provision, 
-the outside directors shall be included; and, for the auditors under the same provision, 
+(losses),  stated  in  the  annual  reports,  etc.  that  are  not  yet  submitted  at  the  time  of
 
-the members of audit committee shall be included. (Amended on February 3, 2009)   
+releasing  the  concerned  information  subject  to  fair  disclosure.  In  this  case,  the
 
-(3) “Any persons who hold an equivalent positions” in [§12(2)2] of the Regulation shall 
+indications  on  the  year  on  year  increases/  decreases  turn  a  profit/turn  a  loss,  the
+
+information on the amount/rate of year on year increase/decrease, etc., and the business
+
+performance during the period that is part of the period for which the annual reports, etc.
+are  prepared  shall  be  included.  However,  this  provision  shall  not  apply  after  the
+
+business  performance  for  the  whole  periods  encompassing  the  period  concerned  is
+
+already disclosed. (Amended on May 14, 2007; February 3, 2009)
+
+(4) “From among the matters related to those set forth in Articles [§6] through [§9-2],
+
+the matters  for which the reporting deadlines have not  yet  passed” in  [§12(1)4] of the
+
+Regulation shall refer to, from among the matters corresponding to the criteria specified
+
+in  Articles  [§6]  through  [§9-2]  of  the  Regulation,  the  matters  that  are  not  yet  clearly
+
+come  under  the  disclosure  obligation  because  the  board  of  directors  has  not  made  its
+
+decision, and the matters not disclosed in accordance with Articles [§6] through [§9-2]
+
+of the Regulation although they clearly come under the disclosure obligation. (Amended
+
+on February 3, 2009; April 18, 2012; March 26, 2013)
+
+(5)  “When  a  fair  disclosure  information  provider  selectively  releases  the  matters”  in
+
+the  main  sentence  of  [§12(1)]  of  the  Regulation  shall  include  the  distribution  or
+
+provision of materials prepared beforehand verbally or via telecommunication means
+
+(including  use  of  landline  or  mobile  telephone,  e-mails,  online  messengers,  etc.).
+
+(Amended on February 3, 2009)
+
+(6)  In  cases  where  the  information  provided  has  already  been  disclosed  through  the
+
+disclosure  or  fair  disclosure  prescribed  by  the  Financial  Investment  Services  and
+Capital  Market  Act  (hereinafter  referred  to  as  “the  Act”)  and  the  Regulation,  the
+
+2
+
+
+
+
+
+
+provisions of [§12] of the Regulation shall not apply thereto. (Amended on February 3,
+
+2009)
+
+§4. Providers of Fair Disclosure Information
+
+(1)  “Its  representative”  in  [§12(2)1]  of  the  Regulation  shall  refer  to  an  agent  that
+
+performs  the  legal  tasks  in  the  name  of  corporation  listed  on  the  KOSDAQ  Market
+
+(hereinafter referred to as the “KOSDAQ-listed corporation”) to give the legal effect of
+
+such task to the KOSDAQ-listed corporation. (Amended on February 3, 2009)
+
+(2) For the officers under [§12(2)2] of the Regulation, it shall be regardless whether or
+
+not they are registered or in full-time status; for the directors under the same provision,
+the outside directors shall be included; and, for the auditors under the same provision,
+
+the members of audit committee shall be included. (Amended on February 3, 2009)
+
+(3) “Any persons who hold an equivalent positions” in [§12(2)2] of the Regulation shall
 
 mean the persons who instruct other persons to conduct business as prescribed in [§401-
 
-2] of the Commercial Act and the major shareholders (limited to the case where he/she 
+2] of the Commercial Act and the major shareholders (limited to the case where he/she
 
-is  a  member  of  the  board  of  directors  of  the  concerned  KOSDAQ-listed  corporation) 
+is  a  member  of  the  board  of  directors  of  the  concerned  KOSDAQ-listed  corporation)
 
-prescribed in item (b) of subparagraph 6 of [§2] of the Act on Corporate Governance of 
+prescribed in item (b) of subparagraph 6 of [§2] of the Act on Corporate Governance of
 
-Financial Companies. (Amended on February 3, 2009) 
+Financial Companies. (Amended on February 3, 2009)
 
-(4) The “employees of the concerned KOSDAQ-listed corporation” in [§12(2)3] of the 
+(4) The “employees of the concerned KOSDAQ-listed corporation” in [§12(2)3] of the
 
-Regulation shall refer to the persons, regardless of their designations, who entered into 
+Regulation shall refer to the persons, regardless of their designations, who entered into
 
-an  employment  contract  that  is  subject  to  the  Labor  Standards  Act.  (Amended  on 
+an  employment  contract  that  is  subject  to  the  Labor  Standards  Act.  (Amended  on
 
-February 3, 2009) 
+February 3, 2009)
 
-(5)  The  “staff  members  of  the  department  that  handles  the  matters  concerning  the 
+(5)  The  “staff  members  of  the  department  that  handles  the  matters  concerning  the
 
-information subject to fair disclosure” in [§12(2)3] of the Regulation shall refer to the 
+information subject to fair disclosure” in [§12(2)3] of the Regulation shall refer to the
 
-staff  members  of  the  department  that  actually  makes  and  implements  the  decisions 
+staff  members  of  the  department  that  actually  makes  and  implements  the  decisions
 
-about  the  work  relating  to  the  information  subject  to  fair  disclosure,  who  directly  or 
+about  the  work  relating  to  the  information  subject  to  fair  disclosure,  who  directly  or
 
-indirectly  participate  in  such  work;  and  “staff  members  of  the  department  that  is 
+indirectly  participate  in  such  work;  and  “staff  members  of  the  department  that  is
 
-responsible  for  disclosure”  shall  refer  to  the  staff  members  of  the  department  that 
-actually  makes  the  decisions  on  the  contents  and  time  of  disclosure,  etc.  and  the  staff 
+responsible  for  disclosure”  shall  refer  to  the  staff  members  of  the  department  that
+actually  makes  the  decisions  on  the  contents  and  time  of  disclosure,  etc.  and  the  staff
 
-members  who  directly  or  indirectly  participate  in  the  work  relating  to  disclosure. 
+members  who  directly  or  indirectly  participate  in  the  work  relating  to  disclosure.
 
-3 
+3
 
- 
- 
- 
- 
- 
- 
- 
- 
-(Amended on February 3, 2009) 
 
-§5. Prohibition of Roundabout Provision of Information subject to Fair Disclosure   
 
-The provider of fair disclosure information shall not provide the information subject to 
 
-fair disclosure in a roundabout manner by using various ratios and scales of increases or 
 
-decreases, etc. 
 
-§6. Receivers of Faire Disclosure Information 
 
-(1)  The  “officers”  mentioned  in  [§12(3)]  of  the  Regulation  shall  refer  to  the  persons 
-who fall under Paragraphs (2) and (3) of [§4]. (Amended on February 3, 2009) 
 
-(2) The “employees” mentioned in [§12(3)] of the Regulation shall refer to the persons 
 
-who fall under [§4(4)]. (Amended on February 3, 2009) 
+(Amended on February 3, 2009)
 
-(3)  The  “relationship  of  delegation”  in  [§12(3)1]  of  the  Regulation  shall  refer  to  an 
+§5. Prohibition of Roundabout Provision of Information subject to Fair Disclosure
 
-agreement,  regardless  of  its  title,  that  states  that  the  delegatee  handles  the  affairs 
+The provider of fair disclosure information shall not provide the information subject to
 
-entrusted  to  him/her  by  the  delegation  of  the  delegator  and  falls  under  any  of  the 
+fair disclosure in a roundabout manner by using various ratios and scales of increases or
 
-followings: (Amended on February 3, 2009) 
+decreases, etc.
 
-1.  To request a lawyer to perform a lawsuit as an attorney; 
+§6. Receivers of Faire Disclosure Information
 
-2.  To request an investment trader or an investment broker under the Act to handle 
-the  tasks  relating  to  the  preparation  and  submission  of  documents  such  as  the 
+(1)  The  “officers”  mentioned  in  [§12(3)]  of  the  Regulation  shall  refer  to  the  persons
+who fall under Paragraphs (2) and (3) of [§4]. (Amended on February 3, 2009)
 
-securities registration statement;   
+(2) The “employees” mentioned in [§12(3)] of the Regulation shall refer to the persons
 
-3.  To request an underwriter or an accounting firm for such tasks as analysis of the 
-value of securities; or 
+who fall under [§4(4)]. (Amended on February 3, 2009)
 
-4. To request a technology appraisal company, etc. to analyze the value of technology. 
+(3)  The  “relationship  of  delegation”  in  [§12(3)1]  of  the  Regulation  shall  refer  to  an
 
-(4) The “partnership” mentioned in [§12(3)1] of the Regulation shall means, regardless 
+agreement,  regardless  of  its  title,  that  states  that  the  delegatee  handles  the  affairs
 
-of  its  name,  that  two  (2)  or  more  companies  jointly  run  or  cooperate  in  technology, 
+entrusted  to  him/her  by  the  delegation  of  the  delegator  and  falls  under  any  of  the
 
-4 
+followings: (Amended on February 3, 2009)
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-production,  capital,  etc.  in  performing  the  business  activities  such  as  sales,  product 
+1.  To request a lawyer to perform a lawsuit as an attorney;
 
-developments and investment, etc. (Amended on February 3, 2009) 
+2.  To request an investment trader or an investment broker under the Act to handle
+the  tasks  relating  to  the  preparation  and  submission  of  documents  such  as  the
 
-(5) The “foreign professional investors” mentioned in [§12(3)3] of the Regulation shall 
+securities registration statement;
 
-refer  to,  regardless  of  their  names,  the  financial  institutions,  investment  companies, 
+3.  To request an underwriter or an accounting firm for such tasks as analysis of the
+value of securities; or
 
-hedge funds and other companies performing similar functions, which operate financial 
+4. To request a technology appraisal company, etc. to analyze the value of technology.
 
-businesses  by  acquiring  the  permits  or  licenses  pursuant  to  the  financial  laws  and 
+(4) The “partnership” mentioned in [§12(3)1] of the Regulation shall means, regardless
 
-ordinances of foreign countries. (Amended on February 3, 2009)           
+of  its  name,  that  two  (2)  or  more  companies  jointly  run  or  cooperate  in  technology,
 
-(6)  The  “securities  information  sites”  in  [§12(3)5]  of  the  Regulation  shall  refer  to  the 
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+production,  capital,  etc.  in  performing  the  business  activities  such  as  sales,  product
+
+developments and investment, etc. (Amended on February 3, 2009)
+
+(5) The “foreign professional investors” mentioned in [§12(3)3] of the Regulation shall
+
+refer  to,  regardless  of  their  names,  the  financial  institutions,  investment  companies,
+
+hedge funds and other companies performing similar functions, which operate financial
+
+businesses  by  acquiring  the  permits  or  licenses  pursuant  to  the  financial  laws  and
+
+ordinances of foreign countries. (Amended on February 3, 2009)
+
+(6)  The  “securities  information  sites”  in  [§12(3)5]  of  the  Regulation  shall  refer  to  the
 
 Internet  sites  that  are  concerned  with  the  provision  of  information  about  KOSDAQ-
 
-listed  corporations  and 
+listed  corporations  and
 
-include 
+include
 
-internet  securities 
+internet  securities
 
-information  sites, 
+information  sites,
 
-internet 
+internet
 
-broadcasting on securities and wired/wireless internet securities information providers.       
-(Amended on February 3, 2009) 
+broadcasting on securities and wired/wireless internet securities information providers.
+(Amended on February 3, 2009)
 
-(7)  The  “holders  of  the  stocks  of  a  KOSDAQ-listed  corporation,  who  are  expected  to 
+(7)  The  “holders  of  the  stocks  of  a  KOSDAQ-listed  corporation,  who  are  expected  to
 
-buy or sell the concerned stocks by exploiting the information subject to fair disclosure” 
+buy or sell the concerned stocks by exploiting the information subject to fair disclosure”
 
-in  [§12(3)6]  of  the  Regulation  shall  refer  to  the  holders  of  the  stocks  issued  by  the 
+in  [§12(3)6]  of  the  Regulation  shall  refer  to  the  holders  of  the  stocks  issued  by  the
 
-concerned  KOSDAQ-listed  corporation,  for  which  they  have  not  made  a  written 
+concerned  KOSDAQ-listed  corporation,  for  which  they  have  not  made  a  written
 
-declaration  not  to  buy  or  sell  the  stocks  on  the  basis  of  the  information  received. 
+declaration  not  to  buy  or  sell  the  stocks  on  the  basis  of  the  information  received.
 
-(Amended on February 3, 2009) 
+(Amended on February 3, 2009)
 
-(8)  The  “persons  who  are  specified  by  the  Exchange”  in  [§12(3)7]  of  the  Regulation 
+(8)  The  “persons  who  are  specified  by  the  Exchange”  in  [§12(3)7]  of  the  Regulation
 
-shall refer to the persons who fall under any of the followings: [June 29, 2017] 
+shall refer to the persons who fall under any of the followings: [June 29, 2017]
 
-1.  A  person  who  provides  advisory  services  with  respect  to  the  exercise  of  voting 
+1.  A  person  who  provides  advisory  services  with  respect  to  the  exercise  of  voting
 
-rights; or 
+rights; or
 
-2.  In  cases  where  the  provider  of  fair  disclosure  information  intends  to  selectively 
+2.  In  cases  where  the  provider  of  fair  disclosure  information  intends  to  selectively
 
-provide  the  information  subject  to  fair  disclosure  to  the  persons  noted  in 
+provide  the  information  subject  to  fair  disclosure  to  the  persons  noted  in
 
-subparagraphs 1 through 6 under [§12(3)] of the Regulation, a person who can easily 
+subparagraphs 1 through 6 under [§12(3)] of the Regulation, a person who can easily
 
-access the means of providing the information and obtain it. 
+access the means of providing the information and obtain it.
 
-§7. Notification Deadline 
+§7. Notification Deadline
 
-5 
+5
 
- 
- 
- 
- 
- 
-     
- 
- 
- 
- 
-(1) With regard to the case where a KOSDAQ-listed corporation intends to release the 
 
-information  subject  to  fair  disclosure  prepared  beforehand  at  an  investor  relations 
 
-seminar, press conference, conference call or workshop, etc., “before the information is 
 
-provided” in the main sentence of [§12(4)] of the Regulation shall refer to the start time 
 
-of the concerned event. (Amended on February 3, 2009) 
 
-(2)  With  regard  to  Paragraph  (1),  when  the  information  subject  to  fair  disclosure 
 
-which  has  not  been  notified  yet  is  provided  during  the  event,  the  corporation 
 
-concerned shall notify such fact without delay. (Amended on February 3, 2009) 
 
-(3) Notwithstanding the notification deadline set forth in the main sentence of [§12(4)] 
 
-of  the  Regulation,  KOSDAQ-listed  corporations  shall  make  an  effort  to  notify  the 
 
-Exchange  at  least  ten  (10)  minutes  before  releasing  the  information  subject  to  fair 
-disclosure of the concerned information. However, when it is acknowledged that the 
+(1) With regard to the case where a KOSDAQ-listed corporation intends to release the
 
-notification  prior  to  the  release  of  the  information  was  practically  impossible  due  to 
+information  subject  to  fair  disclosure  prepared  beforehand  at  an  investor  relations
 
-geographical  locations,  provision  methods  or  procedures,  the  corporation  concerned 
+seminar, press conference, conference call or workshop, etc., “before the information is
 
-shall  notify  it  within  the  minimum  time  required  for  reporting,  while  taking  into 
+provided” in the main sentence of [§12(4)] of the Regulation shall refer to the start time
 
-account  the  time  needed  for  preparation  of  electronic  documents,  etc.  (Amended  on 
+of the concerned event. (Amended on February 3, 2009)
 
-February 3, 2009) 
+(2)  With  regard  to  Paragraph  (1),  when  the  information  subject  to  fair  disclosure
 
-(4) In cases where the time of provision of the information subject to fair disclosure is 
+which  has  not  been  notified  yet  is  provided  during  the  event,  the  corporation
 
-after the day’s deadline for receipt of notification of the electronic disclosure system 
+concerned shall notify such fact without delay. (Amended on February 3, 2009)
 
-noted  in  [§54(1)]  of  the  Regulation  (hereinafter  referred  to  as  the  “electronic 
+(3) Notwithstanding the notification deadline set forth in the main sentence of [§12(4)]
 
-disclosure  system”),  the  notification  shall  be  made  by  ten  (10)  minutes  before  the 
+of  the  Regulation,  KOSDAQ-listed  corporations  shall  make  an  effort  to  notify  the
 
-opening  of  pre-hours  session  on  the  next  day  (in  cases  where  the  pre-hours  session 
+Exchange  at  least  ten  (10)  minutes  before  releasing  the  information  subject  to  fair
+disclosure of the concerned information. However, when it is acknowledged that the
 
-does not open, by thirty (30) minutes before the opening of regular session). In cases 
+notification  prior  to  the  release  of  the  information  was  practically  impossible  due  to
 
-where it is before the beginning of receipt of notification by the electronic disclosure 
+geographical  locations,  provision  methods  or  procedures,  the  corporation  concerned
+
+shall  notify  it  within  the  minimum  time  required  for  reporting,  while  taking  into
+
+account  the  time  needed  for  preparation  of  electronic  documents,  etc.  (Amended  on
+
+February 3, 2009)
+
+(4) In cases where the time of provision of the information subject to fair disclosure is
+
+after the day’s deadline for receipt of notification of the electronic disclosure system
+
+noted  in  [§54(1)]  of  the  Regulation  (hereinafter  referred  to  as  the  “electronic
+
+disclosure  system”),  the  notification  shall  be  made  by  ten  (10)  minutes  before  the
+
+opening  of  pre-hours  session  on  the  next  day  (in  cases  where  the  pre-hours  session
+
+does not open, by thirty (30) minutes before the opening of regular session). In cases
+
+where it is before the beginning of receipt of notification by the electronic disclosure
 
 system, the notification shall be made by ten (10) minutes before the opening of pre-
 
-hours session on the day (in cases where the pre-hours session does not open, by thirty 
+hours session on the day (in cases where the pre-hours session does not open, by thirty
 
-(30) minutes before the opening of regular session). (Amended on February 3, 2009) 
+(30) minutes before the opening of regular session). (Amended on February 3, 2009)
 
-(5) “In case where such information is released due to a minor error” in the proviso to 
+(5) “In case where such information is released due to a minor error” in the proviso to
 
-[§12(4)]  of  the  Regulation  shall  refer  to  a  case  where,  although  adequate  care  was 
+[§12(4)]  of  the  Regulation  shall  refer  to  a  case  where,  although  adequate  care  was
 
-taken,  the  information  provider  was  not  aware  of  the  fact  noted  in  each  of  the 
-followings: (Amended on February 3, 2009) 
+taken,  the  information  provider  was  not  aware  of  the  fact  noted  in  each  of  the
+followings: (Amended on February 3, 2009)
 
-6 
+6
 
- 
- 
- 
- 
- 
- 
-1. The fact that the concerned information is subject to fair disclosure; 
 
-2.  The  fact  that  the  concerned  receiver  of  information  is  the  receiver  of  fair 
 
-disclosure information;     
 
-3. The fact that the concerned information has not yet been notified; and   
 
-4. In addition, the facts equivalent to those noted above.       
 
-§8. Notification Methods 
 
-(1) When disclosing the details of the matters noted in [§12(1)1] of the Regulation, the 
+1. The fact that the concerned information is subject to fair disclosure;
 
-objectives,  implementation  schedule,  estimated  effect  and  estimates  of  related 
+2.  The  fact  that  the  concerned  receiver  of  information  is  the  receiver  of  fair
 
-investment  costs  of  the  plans  concerned  shall  be  stated  in  detail.  (Amended  on 
+disclosure information;
 
-February 3, 2009) 
+3. The fact that the concerned information has not yet been notified; and
 
-(2) When disclosing the details of the matters noted in [§12(1)2] of the Regulation, the 
+4. In addition, the facts equivalent to those noted above.
 
-bases of estimation and judgment related to the concerned forecast or estimation shall 
+§8. Notification Methods
 
-be stated in detail. (Amended on February 3, 2009) 
+(1) When disclosing the details of the matters noted in [§12(1)1] of the Regulation, the
 
-(3) When disclosing the details of the matters noted in [§12(1)3] of the Regulation, the 
+objectives,  implementation  schedule,  estimated  effect  and  estimates  of  related
 
-numbers in comparison with the same period of the previous year shall be stated, and 
+investment  costs  of  the  plans  concerned  shall  be  stated  in  detail.  (Amended  on
 
-if  the  period  concerned  is  longer  than  a  quarter,  the  sales  amount,  operating  income 
+February 3, 2009)
 
-(losses), profits (losses) before tax from continuing operations and net income (losses) 
+(2) When disclosing the details of the matters noted in [§12(1)2] of the Regulation, the
 
-of the period shall be included. However, this provision shall not be applicable if it is 
+bases of estimation and judgment related to the concerned forecast or estimation shall
 
-unavoidable due to the delay in account closing of subsidiaries or the characteristics of 
+be stated in detail. (Amended on February 3, 2009)
 
-accounting standards of the industrial sector concerned, etc. (Amended May 14, 2007; 
+(3) When disclosing the details of the matters noted in [§12(1)3] of the Regulation, the
 
-February 3, 2009)   
+numbers in comparison with the same period of the previous year shall be stated, and
 
-(4)  KOSDAQ-listed  corporations  shall  include  the  names  of  disclosure  officers  and 
+if  the  period  concerned  is  longer  than  a  quarter,  the  sales  amount,  operating  income
 
-employees  responsible  for  disclosure,  and  the  names  and  contact  numbers  of  the 
+(losses), profits (losses) before tax from continuing operations and net income (losses)
 
-departments  related  to  the  concerned  information  subject  to  fair  disclosure,  in  the 
+of the period shall be included. However, this provision shall not be applicable if it is
 
-notification,  so  that  the  investors,  whenever  necessary,  can  make  inquiries  about  the 
+unavoidable due to the delay in account closing of subsidiaries or the characteristics of
 
-specifics of  the  details  of  the disclosed information without  difficulty. (Amended on 
+accounting standards of the industrial sector concerned, etc. (Amended May 14, 2007;
 
-February 3, 2009)   
+February 3, 2009)
 
-(5)  When  a  KOSDAQ-listed  corporation  makes  notifications  in  accordance  with  the 
+(4)  KOSDAQ-listed  corporations  shall  include  the  names  of  disclosure  officers  and
 
-methods specified in [§5] of the Regulation pursuant to [§14(1)] of the Regulation, it 
+employees  responsible  for  disclosure,  and  the  names  and  contact  numbers  of  the
 
-7 
+departments  related  to  the  concerned  information  subject  to  fair  disclosure,  in  the
 
- 
- 
- 
- 
- 
- 
- 
- 
-shall be suitable for publication through the information inquiry terminals operated by 
+notification,  so  that  the  investors,  whenever  necessary,  can  make  inquiries  about  the
 
-the KOSCOM. (Amended on March 23, 2006)         
+specifics of  the  details  of  the disclosed information without  difficulty. (Amended on
 
-(6) “In cases where the details to be notified are extensive” in the proviso to [§14(1)] 
+February 3, 2009)
 
-of the Regulation shall refer to the cases where, with regard to the notification of the 
+(5)  When  a  KOSDAQ-listed  corporation  makes  notifications  in  accordance  with  the
 
-information  subject  to  fair  disclosure  including  the  information  released  at  investor 
+methods specified in [§5] of the Regulation pursuant to [§14(1)] of the Regulation, it
 
-relations seminars, the volume of documents notified exceeds three (3) megabits, the 
+7
 
-notification  is  not  suitable  for  publication  through  the  information  inquiry  terminal 
 
-operated  by  the  KOSCOM  or  the  Exchange  deems  it  to  be  extensive.  (Amended  on 
 
-March 23, 2006; February 3, 2009)       
 
-(7) The “website, etc. of the concerned corporation” in the proviso to [§14(1)] of the 
 
-Regulation shall refer to the website of the concerned KOSDAQ-listed corporation or 
-the website operated by the Exchange. (Amended on February 3, 2009)       
 
-(8)  When  making  a  summary  notification  pursuant  to  the  proviso  to  [§14(1)]  of  the 
 
-Regulation, KOSDAQ-listed corporations shall clearly state the methods of accessing 
 
-the original copy of the details notified, and, provided that there is no special reason, 
 
-shall post the original documents and the summary on its website by the notification 
+shall be suitable for publication through the information inquiry terminals operated by
 
-date. (Amended on February 3, 2009)   
+the KOSCOM. (Amended on March 23, 2006)
 
-§9. Exception in Applying Fair Disclosure Obligations 
+(6) “In cases where the details to be notified are extensive” in the proviso to [§14(1)]
 
-(1)  The  “coverage  for  news  reporting”  in  subparagraph  1  under  [§15]  of  the 
+of the Regulation shall refer to the cases where, with regard to the notification of the
 
-Regulation shall refer to a series of activities taken by an employee of a newspaper or 
+information  subject  to  fair  disclosure  including  the  information  released  at  investor
 
-broadcasting  company,  which  generates  newsworthy  information  by  collecting  and 
+relations seminars, the volume of documents notified exceeds three (3) megabits, the
 
-synthesizing  information  gathered  through  a  personal  visit  to  KOSDAQ-listed 
+notification  is  not  suitable  for  publication  through  the  information  inquiry  terminal
 
-corporations  or  contact  with 
+operated  by  the  KOSCOM  or  the  Exchange  deems  it  to  be  extensive.  (Amended  on
 
-the  officers  or  employees  of  KOSDAQ-listed 
+March 23, 2006; February 3, 2009)
 
-corporations,  in  order  to  satisfy  the  public’s  right  to  know.    In  this  case,  when  a 
+(7) The “website, etc. of the concerned corporation” in the proviso to [§14(1)] of the
 
-KOSDAQ-listed  corporation  makes  available  fair  disclosure  information  through  a 
+Regulation shall refer to the website of the concerned KOSDAQ-listed corporation or
+the website operated by the Exchange. (Amended on February 3, 2009)
 
-news release, press conference, press gathering, conference call, etc., the exemptions 
+(8)  When  making  a  summary  notification  pursuant  to  the  proviso  to  [§14(1)]  of  the
 
-in  application  of  fair  disclosure  obligation  shall  not  apply.  (Amended  in  February  3, 
+Regulation, KOSDAQ-listed corporations shall clearly state the methods of accessing
 
-2009)       
+the original copy of the details notified, and, provided that there is no special reason,
 
-8 
+shall post the original documents and the summary on its website by the notification
 
- 
- 
- 
- 
- 
- 
- 
- 
-(2) The “persons who are required to keep confidentiality” and the “persons who have 
+date. (Amended on February 3, 2009)
 
-clearly  stated  to  keep  the  confidentiality”  noted  in  items  a  and  b  of  subparagraph  2 
+§9. Exception in Applying Fair Disclosure Obligations
 
-under [§15] of the Regulation shall refer to the persons who are under the obligation 
+(1)  The  “coverage  for  news  reporting”  in  subparagraph  1  under  [§15]  of  the
 
-of any of the following contracts: (Amended on March 23, 2006; February 3, 2009)         
+Regulation shall refer to a series of activities taken by an employee of a newspaper or
+
+broadcasting  company,  which  generates  newsworthy  information  by  collecting  and
+
+synthesizing  information  gathered  through  a  personal  visit  to  KOSDAQ-listed
+
+corporations  or  contact  with
+
+the  officers  or  employees  of  KOSDAQ-listed
+
+corporations,  in  order  to  satisfy  the  public’s  right  to  know.    In  this  case,  when  a
+
+KOSDAQ-listed  corporation  makes  available  fair  disclosure  information  through  a
+
+news release, press conference, press gathering, conference call, etc., the exemptions
+
+in  application  of  fair  disclosure  obligation  shall  not  apply.  (Amended  in  February  3,
+
+2009)
+
+8
+
+
+
+
+
+
+
+
+
+(2) The “persons who are required to keep confidentiality” and the “persons who have
+
+clearly  stated  to  keep  the  confidentiality”  noted  in  items  a  and  b  of  subparagraph  2
+
+under [§15] of the Regulation shall refer to the persons who are under the obligation
+
+of any of the following contracts: (Amended on March 23, 2006; February 3, 2009)
 
 1. Contract authorizing the law firms or lawyers, which are subject to the Attorneys-
 
-at-Law  Act,  to  provide  such  services  as  the  legal  advices,  act  as  a  proxy  for  the 
+at-Law  Act,  to  provide  such  services  as  the  legal  advices,  act  as  a  proxy  for  the
 
-delegated matter, and handle the legal proceedings;       
+delegated matter, and handle the legal proceedings;
 
-2.  Contract  authorizing  the  certified  public  accounts,  who  are  subject  to  the 
+2.  Contract  authorizing  the  certified  public  accounts,  who  are  subject  to  the
 
-Certified Public Accountant Act, to provide consulting services relating to external 
+Certified Public Accountant Act, to provide consulting services relating to external
 
-audit, management or securities business; to be an agent for tax reconciliation and 
+audit, management or securities business; to be an agent for tax reconciliation and
 
-handling  of  tasks  relating  to  foreign  capital  inducement;  to  assess  the  assets  and 
-debts  for  commencement  of  rehabilitation  procedures,  to  analyze  the  corporate 
+handling  of  tasks  relating  to  foreign  capital  inducement;  to  assess  the  assets  and
+debts  for  commencement  of  rehabilitation  procedures,  to  analyze  the  corporate
 
-worth  for  mergers  and  splits;  and  to  carry  out  the  tasks  of  managing  overseas 
+worth  for  mergers  and  splits;  and  to  carry  out  the  tasks  of  managing  overseas
 
-corporations, etc.; 
+corporations, etc.;
 
-3.  Contract  authorizing  the  certified  public  tax  accounts,  who  are  subject  to  the 
+3.  Contract  authorizing  the  certified  public  tax  accounts,  who  are  subject  to  the
 
-Certified Public Tax Accountants Act, to be an agent for filings, applications and 
+Certified Public Tax Accountants Act, to be an agent for filings, applications and
 
-claims  relating  to  taxation,  to  prepare  the  documents  relating  to  taxation  such  as 
+claims  relating  to  taxation,  to  prepare  the  documents  relating  to  taxation  such  as
 
-the statement for tax reconciliation, etc. and to act as an agent for taxation matters 
+the statement for tax reconciliation, etc. and to act as an agent for taxation matters
 
-including consultations or advices on taxation, etc.; 
+including consultations or advices on taxation, etc.;
 
-4.  Underwriting  agreements  entered  into  with  the  underwriting  syndicates, 
+4.  Underwriting  agreements  entered  into  with  the  underwriting  syndicates,
 
-including the lead managing underwriter who carries out the tasks of underwriting 
+including the lead managing underwriter who carries out the tasks of underwriting
 
-(limited  to  the  case  where  the  confidentiality  obligation  is  clearly  stated  in  the 
+(limited  to  the  case  where  the  confidentiality  obligation  is  clearly  stated  in  the
 
-underwriting agreement); 
+underwriting agreement);
 
-5.  Agreements  entered  into  with  the  financial  institutions  on  loans,  payment 
+5.  Agreements  entered  into  with  the  financial  institutions  on  loans,  payment
 
-guarantee  and  review  to  open  letters  of  credit  (limited  to  the  case  where  the 
+guarantee  and  review  to  open  letters  of  credit  (limited  to  the  case  where  the
 
-officers  and  employees  of  the  concerned  financial  institution  have  explicitly 
+officers  and  employees  of  the  concerned  financial  institution  have  explicitly
 
-agreed to keep the confidentiality in writing.    However, in case where the officers 
+agreed to keep the confidentiality in writing.    However, in case where the officers
 
-and  employees  of  the  financial  institutions  subject  to  [§66]  of  the  Banking  Act 
+and  employees  of  the  financial  institutions  subject  to  [§66]  of  the  Banking  Act
 
-receive  the  information  relating  to  loans,  payment  guarantee  and  review  to  open 
-letters of credit, the written consent to keep confidentiality is not required);       
+receive  the  information  relating  to  loans,  payment  guarantee  and  review  to  open
+letters of credit, the written consent to keep confidentiality is not required);
 
-9 
+9
 
- 
- 
- 
- 
- 
- 
- 
-6.  Agreements  entered  into  to  act  as  an  agent  for  capital  raising  and  business 
 
-activities of a corporation (limited to the case where there is a written consent to 
 
-keep the confidentiality); 
 
-7.  Agreements  that  a  KOSDAQ-listed  corporation  subject  to  the  Corporate 
 
-Restructuring  Promotion  Act  entered  into  with  the  council  of  creditor  financial 
 
-institutions for implementation of the business  normalization plan  (limited to  the 
 
-case  where  the  council  of  creditor  financial  institutions  or  the  principal  creditor 
 
-bank has agreed in writing to keep the confidentiality); and 
+6.  Agreements  entered  into  to  act  as  an  agent  for  capital  raising  and  business
 
-8. Other contracts entered into with persons who have certificates of qualification 
+activities of a corporation (limited to the case where there is a written consent to
 
-or licenses in specific fields (limited to the case where, in relation to performing 
+keep the confidentiality);
 
-the  assigned  tasks,  the  person  is  obliged  to  keep  the  confidentiality  under  the 
-relevant laws and regulations), to authorize the performance of tasks which require 
+7.  Agreements  that  a  KOSDAQ-listed  corporation  subject  to  the  Corporate
 
-specialized knowledge.   
+Restructuring  Promotion  Act  entered  into  with  the  council  of  creditor  financial
 
-(3) The “other persons who are deemed to be equivalent to those specified in items a 
+institutions for implementation of the business  normalization plan  (limited to  the
 
-through  c,  and  are  identified  by  the  Exchange”  in  item  d  under  subparagraph  2  of 
+case  where  the  council  of  creditor  financial  institutions  or  the  principal  creditor
 
-[§15]  of  the  Regulation  shall  refer  to  the  administrative  agencies  that  require  the 
+bank has agreed in writing to keep the confidentiality); and
 
-submission  of information  noted in  each  subparagraph  of [§12(1)] of the Regulation 
+8. Other contracts entered into with persons who have certificates of qualification
 
-from  the  KOSDAQ-listed  corporations  for  the  validation  of  various  authorizations, 
+or licenses in specific fields (limited to the case where, in relation to performing
 
-permits,  licenses,  certificates  or  confirmations,  etc.,  and  the  corporations  and 
+the  assigned  tasks,  the  person  is  obliged  to  keep  the  confidentiality  under  the
+relevant laws and regulations), to authorize the performance of tasks which require
 
-organizations  who  perform  the  tasks  delegated  by  such  administrative  agencies. 
+specialized knowledge.
 
-(Amended on February 3, 2009)         
+(3) The “other persons who are deemed to be equivalent to those specified in items a
 
-(4) In the event where any person specified in each item of under subparagraph 2 of 
+through  c,  and  are  identified  by  the  Exchange”  in  item  d  under  subparagraph  2  of
 
-[§15] of the Regulation acts on behalf of a KOSDAQ-listed corporation as an agent of 
+[§15]  of  the  Regulation  shall  refer  to  the  administrative  agencies  that  require  the
 
-the  corporation,  such  person  shall  become  a  provider  of  fair  disclosure  information. 
+submission  of information  noted in  each  subparagraph  of [§12(1)] of the Regulation
 
-(Amended on February 3, 2009)     
+from  the  KOSDAQ-listed  corporations  for  the  validation  of  various  authorizations,
 
-§10. Relationship with Timely Disclosure   
+permits,  licenses,  certificates  or  confirmations,  etc.,  and  the  corporations  and
 
-(1) In the event where the matters which have already been disclosed pursuant to [§12] 
-of  the  Regulation  fall  under  Articles  [§6]  through  [§9-2]  of  the  Regulation,  the 
+organizations  who  perform  the  tasks  delegated  by  such  administrative  agencies.
 
-concerned  KOSPI-listed  corporation  shall  report  such  fact  in  accordance  with  the 
+(Amended on February 3, 2009)
 
-10 
+(4) In the event where any person specified in each item of under subparagraph 2 of
 
- 
- 
- 
- 
- 
- 
- 
- 
-applicable  regulation.  (Amended  on  February  3,  2009;  April  18,  2012;  March  26, 
+[§15] of the Regulation acts on behalf of a KOSDAQ-listed corporation as an agent of
 
-2013) 
+the  corporation,  such  person  shall  become  a  provider  of  fair  disclosure  information.
 
-(2) In the case of Paragraph (1), when the details of the information already disclosed 
+(Amended on February 3, 2009)
 
-were  changed,  the  fact  that  the  contents  of  the  fair  disclosure  made  previously  has 
+§10. Relationship with Timely Disclosure
 
-been  changed  shall  be  stated  the  in  the  report  that  is  made  pursuant  to  Articles  [§6] 
+(1) In the event where the matters which have already been disclosed pursuant to [§12]
+of  the  Regulation  fall  under  Articles  [§6]  through  [§9-2]  of  the  Regulation,  the
 
-through  [§9-2]  of  the  Regulation.  In  such  case,  it  shall  be  deemed  that  the  report 
+concerned  KOSPI-listed  corporation  shall  report  such  fact  in  accordance  with  the
 
-specified in [§30] of the Regulation has been made. (Amended on February 3, 2009; 
+10
 
-April 18, 2012; March 26, 2013) 
 
-§11. Due Care and Other Duties of KOSDAQ-Listed Corporations 
-(Title changed on February 3, 2009) 
 
-(1)  When  preparing  the  documents  for  fair  disclosure,  KOSDAQ-listed  corporations 
 
-shall  take  due  care  not  to  make  mistakes  or  omissions  of  material  information.   
 
-(Amended on September 22, 2008; February 3, 2009) 
 
-(2)  In  preparing  the  disclosure  documents,  KOSDAQ-listed  corporations  shall  use 
 
-terminology that facilitates the understanding of details of the disclosure, and not use 
 
-terminology that exaggerates or distorts the details. (Amended on February 3, 2009) 
 
-(3)  KOSDAQ-listed  corporations  shall  make  the  efforts  necessary  to  fulfill  the  fair 
+applicable  regulation.  (Amended  on  February  3,  2009;  April  18,  2012;  March  26,
 
-disclosure  obligations,  including  the  in-house  training  for  the  providers  of  fair 
+2013)
 
-disclosure  information,  etc.,  so  that  the  providers  can  make  appropriate  responses  to 
+(2) In the case of Paragraph (1), when the details of the information already disclosed
 
-the inquires about the information subject to fair disclosure made by the receivers of 
+were  changed,  the  fact  that  the  contents  of  the  fair  disclosure  made  previously  has
 
-the information.    (Amended on February 3, 2009) 
+been  changed  shall  be  stated  the  in  the  report  that  is  made  pursuant  to  Articles  [§6]
 
-(4)  In  addition  to  Paragraphs  (1)  through  (3),  KOSDAQ-listed  corporations  shall 
+through  [§9-2]  of  the  Regulation.  In  such  case,  it  shall  be  deemed  that  the  report
 
-faithfully  fulfill  and  comply  with  the  requirements  and  requests  that  the  Exchange 
+specified in [§30] of the Regulation has been made. (Amended on February 3, 2009;
 
-makes in relation to the fair disclosure. (Amended on February 3, 2009)         
+April 18, 2012; March 26, 2013)
 
-11 
+§11. Due Care and Other Duties of KOSDAQ-Listed Corporations
+(Title changed on February 3, 2009)
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-ADDENDA 
-(January 27, 2005) 
+(1)  When  preparing  the  documents  for  fair  disclosure,  KOSDAQ-listed  corporations
 
-§1. Effective Date 
+shall  take  due  care  not  to  make  mistakes  or  omissions  of  material  information.
 
-This  Operational  Guidelines  shall  become  effective  on  the  day  when  the  Korea 
-Exchange is incorporated.   
+(Amended on September 22, 2008; February 3, 2009)
 
-§2. Abolition of the former Operation Guidelines on Fair Disclosure 
+(2)  In  preparing  the  disclosure  documents,  KOSDAQ-listed  corporations  shall  use
 
-The  former  Operational  Guidelines  on  Fair  Disclosure  shall  be  abolished  on  the 
+terminology that facilitates the understanding of details of the disclosure, and not use
 
-effective date of this Operational Guidelines. 
+terminology that exaggerates or distorts the details. (Amended on February 3, 2009)
 
-§3. Interim Measures subsequent to Abolition of the Former Operational Guidelines   
+(3)  KOSDAQ-listed  corporations  shall  make  the  efforts  necessary  to  fulfill  the  fair
 
-The actions, etc. taken in accordance with the former Operational Guidelines before the 
+disclosure  obligations,  including  the  in-house  training  for  the  providers  of  fair
 
-effective date of this Operational Guidelines shall be deemed to be the actions taken in 
+disclosure  information,  etc.,  so  that  the  providers  can  make  appropriate  responses  to
 
-accordance to this Operational Guidelines. 
+the inquires about the information subject to fair disclosure made by the receivers of
 
-ADDENDUM 
-  (March 23, 2006) 
+the information.    (Amended on February 3, 2009)
 
-This Operational Guidelines shall become effective on April 1, 2006.   
+(4)  In  addition  to  Paragraphs  (1)  through  (3),  KOSDAQ-listed  corporations  shall
 
-ADDENDA 
-  (May 14, 2007) 
+faithfully  fulfill  and  comply  with  the  requirements  and  requests  that  the  Exchange
 
-§1.    Effective Date 
+makes in relation to the fair disclosure. (Amended on February 3, 2009)
 
-This Operational Guidelines shall become effective on May 17, 2007 
+11
 
-§2.      Exceptions in Application 
 
-The  amended  provisions  of  [§3(2)  &  (3)]  and  [§8(3)]  shall  apply  starting  from  the 
 
-fiscal year that begins after December 31, 2006.   
 
-12 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-ADDENDUM 
-  (September 22, 2008) 
 
-This Operational Guidelines shall become effective on October 1, 2008.   
 
-ADDENDUM 
-  (February 3, 2009) 
 
-This Operational Guidelines shall become effective on February 4, 2009.   
 
-ADDENDUM 
-  (April 18, 2012) 
 
-This Operational Guidelines shall become effective on April 23, 2012.   
 
-ADDENDUM 
-  (March 26, 2013) 
 
-This Operational Guidelines shall become effective on April 2, 2012.   
+ADDENDA
+(January 27, 2005)
 
-ADDENDUM 
-  (June 29, 2017) 
+§1. Effective Date
 
-This Operational Guidelines shall become effective on July 3, 2017.   
+This  Operational  Guidelines  shall  become  effective  on  the  day  when  the  Korea
+Exchange is incorporated.
+
+§2. Abolition of the former Operation Guidelines on Fair Disclosure
+
+The  former  Operational  Guidelines  on  Fair  Disclosure  shall  be  abolished  on  the
+
+effective date of this Operational Guidelines.
+
+§3. Interim Measures subsequent to Abolition of the Former Operational Guidelines
+
+The actions, etc. taken in accordance with the former Operational Guidelines before the
+
+effective date of this Operational Guidelines shall be deemed to be the actions taken in
+
+accordance to this Operational Guidelines.
+
+ADDENDUM
+  (March 23, 2006)
+
+This Operational Guidelines shall become effective on April 1, 2006.
+
+ADDENDA
+  (May 14, 2007)
+
+§1.    Effective Date
+
+This Operational Guidelines shall become effective on May 17, 2007
+
+§2.      Exceptions in Application
+
+The  amended  provisions  of  [§3(2)  &  (3)]  and  [§8(3)]  shall  apply  starting  from  the
+
+fiscal year that begins after December 31, 2006.
+
+12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADDENDUM
+  (September 22, 2008)
+
+This Operational Guidelines shall become effective on October 1, 2008.
+
+ADDENDUM
+  (February 3, 2009)
+
+This Operational Guidelines shall become effective on February 4, 2009.
+
+ADDENDUM
+  (April 18, 2012)
+
+This Operational Guidelines shall become effective on April 23, 2012.
+
+ADDENDUM
+  (March 26, 2013)
+
+This Operational Guidelines shall become effective on April 2, 2012.
+
+ADDENDUM
+  (June 29, 2017)
+
+This Operational Guidelines shall become effective on July 3, 2017.
 
 13

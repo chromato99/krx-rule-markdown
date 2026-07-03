@@ -190,15 +190,51 @@ def render_hwp_table(models: list, table_index: int, formulas: list[str], formul
 
 
 def render_hwp_table_cells(cells: list[dict]) -> str:
-    max_row = max(cell["row"] for cell in cells)
-    rows: list[list[str]] = [[] for _ in range(max_row + 1)]
-    spans: list[list[tuple[int, int]]] = [[] for _ in range(max_row + 1)]
-    for cell in sorted(cells, key=lambda value: (value["row"], value["col"])):
-        rows[cell["row"]].append(cell["text"])
-        spans[cell["row"]].append((max(1, cell["rowspan"]), max(1, cell["colspan"])))
+    rows, spans = hwp_cells_to_table_grid(cells)
     if table_needs_html(rows, spans):
         return render_html_table(rows, spans)
     return render_markdown_table(rows)
+
+
+def hwp_cells_to_table_grid(cells: list[dict]) -> tuple[list[list[str]], list[list[tuple[int, int]]]]:
+    normalized_cells = [
+        {
+            "row": max(0, int(cell.get("row", 0) or 0)),
+            "col": max(0, int(cell.get("col", 0) or 0)),
+            "rowspan": max(1, int(cell.get("rowspan", 1) or 1)),
+            "colspan": max(1, int(cell.get("colspan", 1) or 1)),
+            "text": str(cell.get("text", "")),
+        }
+        for cell in cells
+    ]
+    if not normalized_cells:
+        return [], []
+
+    max_row = max(cell["row"] + cell["rowspan"] - 1 for cell in normalized_cells)
+    rows: list[list[str]] = [[] for _ in range(max_row + 1)]
+    spans: list[list[tuple[int, int]]] = [[] for _ in range(max_row + 1)]
+    covered: dict[int, set[int]] = {}
+    cells_by_row: dict[int, list[dict]] = {}
+    for cell in normalized_cells:
+        cells_by_row.setdefault(cell["row"], []).append(cell)
+
+    for row_index in range(max_row + 1):
+        cursor = 0
+        for cell in sorted(cells_by_row.get(row_index, []), key=lambda value: value["col"]):
+            col = max(cell["col"], cursor)
+            while cursor < col:
+                if cursor in covered.get(row_index, set()):
+                    cursor += 1
+                    continue
+                rows[row_index].append("")
+                spans[row_index].append((1, 1))
+                cursor += 1
+            rows[row_index].append(cell["text"])
+            spans[row_index].append((cell["rowspan"], cell["colspan"]))
+            for covered_row in range(row_index, row_index + cell["rowspan"]):
+                covered.setdefault(covered_row, set()).update(range(col, col + cell["colspan"]))
+            cursor = col + cell["colspan"]
+    return rows, spans
 
 
 def format_inline_equation(index: int, formula: str) -> str:

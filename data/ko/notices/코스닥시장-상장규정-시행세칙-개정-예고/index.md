@@ -2,7 +2,7 @@
 id: "210219622"
 title: "코스닥시장 상장규정 시행세칙 개정 예고"
 source_url: "https://rule.krx.co.kr/out/pds/pdsViewPop.do"
-collected_at: "2026-06-28T06:53:37.026737Z"
+collected_at: "2026-07-03T15:03:15.456077Z"
 content_hash: "6beba864b08726083fd1cfece8232ce1124f1447c5ae091c8ec4c608b0123029"
 document_type: "notice"
 language: "ko"
@@ -23,7 +23,7 @@ attachments:
     size: 245122
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1680
+    converted_text_chars: 1678
     converted_non_space_chars: 1264
     formula_hint_count: 3
   - id: "210219622-210219624-pdf"
@@ -40,7 +40,7 @@ attachments:
     size: 577607
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 21960
+    converted_text_chars: 21958
     converted_non_space_chars: 16225
     formula_hint_count: 2
 ---

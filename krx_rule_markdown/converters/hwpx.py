@@ -104,9 +104,9 @@ def cell_span(cell: ET.Element) -> tuple[int, int]:
     for elem in [cell, *list(cell.iter())]:
         for key, value in elem.attrib.items():
             lname = local_name(key).lower()
-            if lname in {"rowspan", "rowspan"}:
+            if lname == "rowspan":
                 rowspan = max(rowspan, positive_int(value))
-            elif lname in {"colspan", "colspan"}:
+            elif lname == "colspan":
                 colspan = max(colspan, positive_int(value))
     return rowspan, colspan
 
