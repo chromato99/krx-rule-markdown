@@ -2,7 +2,7 @@
 id: "204848011"
 title: "전자금융거래 분쟁처리지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:01:29.648845Z"
+collected_at: "2026-07-03T21:16:09.700907Z"
 content_hash: "4cd402fa100114fedd12e1a62637eaeb1d0f29e094c240425471906f5c80ec74"
 document_type: "rule"
 language: "ko"

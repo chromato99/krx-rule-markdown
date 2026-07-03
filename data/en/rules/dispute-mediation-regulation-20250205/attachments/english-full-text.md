@@ -10,117 +10,11 @@ Rules and Regulations available from this English version do not warrant or assu
 or responsibility for the accuracy, completeness or usefulness of any information. Only Korean
 version shall be deemed authentic.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Table of Contents
-
-CHAPTER I. GENERAL PROVISIONS .................................................................................... 1
-
-§1. Purpose ............................................................................................................................. 1
-
-§2. Definitions ........................................................................................................................ 1
-
-§3. Disputes Eligible for Mediation ........................................................................................... 1
-
-CHAPTER II. REQUEST FOR DISPUTE MEDIATION, ETC. .................................................... 2
-
-§4. Request for Mediation ........................................................................................................ 2
-
-§5. Selection of Representative ................................................................................................. 3
-
-§6. Supplementation of Request for Dispute Mediation ................................................................ 3
-
-§7. Notification of Request for Dispute Mediation ....................................................................... 3
-
-§8. Investigation of Facts .......................................................................................................... 4
+Table of Contents
 
 CHAPTER  III.  CLOSING,  WITHDRAWAL  AND  ETC.  OF  DISPUTE  CASE  PRIOR  TO
 
-REFERRAL TO THE COMMISSION ....................................................................................... 5
-
-§9. Closing of Dispute case Prior to Referral to the Commission ................................................... 5
-
-§10. Withdrawal of Mediation Request....................................................................................... 6
-
-§11. Recommendation for Reconciliation ................................................................................... 6
-
-CHAPTER IV. DISPUTE MEDIATION BY THE COMMISSION ................................................ 8
-
-§12. Referral to the Commission and Notification ....................................................................... 8
-
-§13. Committee for Deliberation of Dispute Mediation ................................................................ 8
-
-§14. Exclusion, Challenge and Evasion of the Members of Commission ........................................ 9
-
-§15. Investigation of Facts and Request for Expert Advice by Commission .................................. 10
-
-§16. Date of Mediation ........................................................................................................... 10
-
-§17. Hearing of Opinions of Concerned Parties, Etc. .................................................................. 10
-
-§18. Decision of Commission and Notification Thereof ............................................................. 11
-
-§19. Realization of Mediation, etc. .......................................................................................... 12
-
-§20. Petition for Re-mediation ................................................................................................ 12
-
-§21. Reporting of Actions Taken ............................................................................................. 13
-
-CHAPTER V. SUPPLEMENTARY PROVISIONS ................................................................... 14
-
-§22. Support for Lawsuit ........................................................................................................ 14
-
-§23. Confidentiality of Mediation and Prohibition of Divulgence ................................................ 14
-
-§24. Publication of Dispute Mediation ..................................................................................... 14
-
-§25. Maintenance and Conservation of Mediation Records ......................................................... 14
-
-§26. Payment of Allowance, etc............................................................................................... 15
-
-§26-2. Opinion Collection ...................................................................................................... 15
-
-§27. Enforcement Rules ......................................................................................................... 15
-
-ADDENDA .......................................................................................................................... 16
-
-
-
-
-CHAPTER I. GENERAL PROVISIONS
+CHAPTER I. GENERAL PROVISIONS
 
 §1. Purpose
 
@@ -159,26 +53,7 @@ January 28, 2009)
 
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER II. REQUEST FOR DISPUTE MEDIATION, ETC.
+CHAPTER II. REQUEST FOR DISPUTE MEDIATION, ETC.
 
 §4. Request for Mediation
 
@@ -229,23 +104,7 @@ confirmation  of  petitioner  has  been  obtained,  it  shall  deem  that  the  
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-mediation has been received. (Amended on November 24, 2006; January 28, 2009)
+mediation has been received. (Amended on November 24, 2006; January 28, 2009)
 
 (6)  The  formats  of  the  application  for  mediation,  record  of  mediation  request,  method  of
 requesting  the mediation  and  other  matters  related  to  dispute  mediation  request  pursuant  to
@@ -293,28 +152,7 @@ details  of  mediation  request  to  the  respondent  without  delay.  (Amended 
 
 3
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2)  After  receiving  the  notification  pursuant  to  Para.(1),  the  respondent  may  submit  the
+(2)  After  receiving  the  notification  pursuant  to  Para.(1),  the  respondent  may  submit  the
 opinion  statement  and  relevant  documents  within  the  period  stipulated  in  the  Enforcement
 Rules. (Amended on November 24, 2006; January 28, 2009)
 
@@ -348,22 +186,7 @@ Paras.(1) through (3) shall be stipulated in the Enforcement Rules. (Amended on 
 
 4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER III. CLOSING, WITHDRAWAL AND ETC. OF DISPUTE CASE PRIOR
+CHAPTER III. CLOSING, WITHDRAWAL AND ETC. OF DISPUTE CASE PRIOR
 TO REFERRAL TO THE COMMISSION
 
 §9. Closing of Dispute case Prior to Referral to the Commission
@@ -413,22 +236,7 @@ Act  was  filed  with  the  court  or  a  mediation  request  was  submitted  to
 Supervisory Service, the concerned party shall send the written notification stating the matter
 5
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-stipulated  in  the  Enforcement  Rules  to  the  Commission  without  delay.  (Amended  on
+stipulated  in  the  Enforcement  Rules  to  the  Commission  without  delay.  (Amended  on
 November 24, 2006; January 28, 2009)
 
 (3)  In  case  of  closing  the  case  pursuant  to  Para.(1),  the  Chairman  shall  send  the  written
@@ -478,33 +286,11 @@ agreement. (Amended on November 24, 2006)
 
 6
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-reconciliation recommendation procedures shall be stipulated in the Enforcement Rules.
+reconciliation recommendation procedures shall be stipulated in the Enforcement Rules.
 
 7
 
-
-
-
-
-
-
-
-CHAPTER IV. DISPUTE MEDIATION BY THE COMMISSION
+CHAPTER IV. DISPUTE MEDIATION BY THE COMMISSION
 
 §12. Referral to the Commission and Notification
 
@@ -554,25 +340,7 @@ person who have been working or worked in such company for at least ten (10) yea
 
 8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5.  Executive  officer  of  the  Market  Oversight  Division,  who  is  nominated  by  the
+5.  Executive  officer  of  the  Market  Oversight  Division,  who  is  nominated  by  the
 Chairman; and
 
 6.  Additionally,  person  who  is  or  was  engaged  in  the  work  related  to  the  mediation  or
@@ -621,25 +389,7 @@ appraisal service or adjudicated the loss for the case.
 
 9
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-from  a  Commission  member,  the  concerned  party  may  file  an  application  for  challenge.  In
+from  a  Commission  member,  the  concerned  party  may  file  an  application  for  challenge.  In
 this case, the Commission shall make the decision on whether or not to accept the challenge
 against the concerned commission member.
 
@@ -687,25 +437,7 @@ days before the mediation date.
 (2) The concerned parties and other interested persons may attend the Commission meeting
 10
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-to present their statements, and upon receiving the request of the concerned parties and other
+to present their statements, and upon receiving the request of the concerned parties and other
 interested persons, the appraisers or witnesses shall present their opinions by appearing at the
 Commission meeting after obtaining the permission of Commission. (Amended on November
 24, 2006)
@@ -757,22 +489,7 @@ shall be stipulated in the Enforcement Rules. [January 28, 2009]
 
 11
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§19. Realization of Mediation, etc.
+§19. Realization of Mediation, etc.
 
 (1)  The  mediation  shall  be  realized  when  both  the  concerned  parties  have  expressed  their
 willingness  of  acceptance  of  mediation  decision  within  fifteen  (15)  days  from  date  of
@@ -820,24 +537,7 @@ mediation decision has been amended;
 
 12
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4.  Cases  where  the  Commission  has  overlooked  the  matter  that  could  have  significant
+4.  Cases  where  the  Commission  has  overlooked  the  matter  that  could  have  significant
 impact on the mediation outcome; and
 
 5.  Cases  where  a  member  of  Commission  who  comes  under  the  exclusion  criteria  has
@@ -862,20 +562,7 @@ realization of mediation within twenty (20) days of the day when the mediation w
 
 13
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER V. SUPPLEMENTARY PROVISIONS
+CHAPTER V. SUPPLEMENTARY PROVISIONS
 
 §22. Support for Lawsuit
 
@@ -924,26 +611,7 @@ the  records  concerning
 
 14
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§26. Payment of Allowance, etc.
+§26. Payment of Allowance, etc.
 
 The  Exchange  may  pay  the  allowance,  expense,  etc.  to  the  members  of  deliberation
 committee, appraiser, witness and others in accordance with the guidelines established by the
@@ -963,22 +631,7 @@ Enforcement Rules.
 
 15
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDA
+ADDENDA
 (Regulation No. 15 / January 21, 2005)
 
 §1. Effective Date

@@ -2,7 +2,7 @@
 id: "210225129"
 title: "유가증권시장 업무규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:44:11.623668Z"
+collected_at: "2026-07-03T20:58:32.525007Z"
 content_hash: "32b2be77204d5a1d26811e3dd2a378335c3cf053b6e3be41e69656613345aaf7"
 document_type: "rule"
 language: "ko"
@@ -202,7 +202,7 @@ attachments:
     converted_text_chars: 4492
     converted_non_space_chars: 3394
     table_row_count: 24
-    formula_hint_count: 17
+    formula_hint_count: 13
   - id: "210225129-202410290000022560000111019-byl-hwp"
     title: "[별지 제1호 서식] 당일결제거래 신청서<개정 2009.2.3, 2011.12.30>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_당일결제거래신청서.hwp"
@@ -496,7 +496,6 @@ attachments:
     converted_text_chars: 379
     converted_non_space_chars: 282
     table_row_count: 4
-    formula_hint_count: 1
   - id: "210225129-202410290000022560000111037-byl-hwp"
     title: "[별지 제7호의4 서식] 채권시장조성거래원 지정 및 지정취소 신청서<신설 2015.7.16, 2024.5.23>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_채권시장조성거래원지정및지정취소신청서.hwp"

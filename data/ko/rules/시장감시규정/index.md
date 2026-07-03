@@ -2,7 +2,7 @@
 id: "210162282"
 title: "시장감시규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:56:49.655861Z"
+collected_at: "2026-07-03T21:11:22.912809Z"
 content_hash: "4deb5f394c83f868923bbb57bf7cfd0e77424c6644f4b96f1866f28337e06b2f"
 document_type: "rule"
 language: "ko"

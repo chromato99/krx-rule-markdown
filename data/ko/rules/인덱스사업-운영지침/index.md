@@ -2,7 +2,7 @@
 id: "204847912"
 title: "인덱스사업 운영지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:00:45.867333Z"
+collected_at: "2026-07-03T21:15:24.896322Z"
 content_hash: "900451160ee968fd89ad71433381f7f104713f8311a86649658211e987cca547"
 document_type: "rule"
 language: "ko"

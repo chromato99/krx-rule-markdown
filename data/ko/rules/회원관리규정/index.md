@@ -2,7 +2,7 @@
 id: "210073008"
 title: "회원관리규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:58:12.151250Z"
+collected_at: "2026-07-03T21:12:48.075008Z"
 content_hash: "aa8542a50699fe6f5d97fe9f330708702ac470056cc194d9456197ccf768fae0"
 document_type: "rule"
 language: "ko"

@@ -2,7 +2,7 @@
 id: "210223407"
 title: "코스닥시장 업무규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:47:34.084546Z"
+collected_at: "2026-07-03T21:01:57.232511Z"
 content_hash: "9ac38e73385202539fd699abaed81aa6671ab9453dc96889281e0885faec9069"
 document_type: "rule"
 language: "ko"

@@ -2,7 +2,7 @@
 id: "210223621"
 title: "코넥스시장 공시규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:51:30.570863Z"
+collected_at: "2026-07-03T21:05:59.897649Z"
 content_hash: "4d4bd17026adc004dfd70a07a61b84834c7659452badcfb86796d2e94f3bb45a"
 document_type: "rule"
 language: "ko"

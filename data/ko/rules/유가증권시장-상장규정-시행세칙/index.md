@@ -2,8 +2,8 @@
 id: "210222644"
 title: "유가증권시장 상장규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:46:07.611893Z"
-content_hash: "05b0f5a8e1d340bff4db064490b6a31c4360476fc1fc9f61e8c1614dbcfc292d"
+collected_at: "2026-07-03T21:00:31.407133Z"
+content_hash: "ab1c5d909e8c2221f54707137b14af1fdea69ba6e034fa3369e11286026c94fe"
 document_type: "rule"
 language: "ko"
 category: "업무규정 / 유가증권시장규정"
@@ -73,7 +73,6 @@ attachments:
     converted_text_chars: 8472
     converted_non_space_chars: 6157
     table_row_count: 1
-    formula_hint_count: 1
   - id: "210222644-202406140000022350000016005-byl-hwp"
     title: "[별표 2의4] 주식워런트증권 상장심사기준<개정 2015.12.16, 2016.6.27, 2018.4.6, 2019.4.29>"
     file_name: "유가증권시장 상장규정 시행세칙_130차_주식워런트증권상장심사기준.hwp"
@@ -90,7 +89,6 @@ attachments:
     converted_text_chars: 5460
     converted_non_space_chars: 3727
     table_row_count: 1
-    formula_hint_count: 2
   - id: "210222644-210203409-hwp"
     title: "[별표 2의5] 상장지수증권 상장심사기준<개정 2015.12.16, 2016.6.27, 2017.2.8, 2017.4.28, 2019.1.25, 2020.7.23, 2022.5.27, 2022.8.4, 2022.10.20., 2023.10.17., 2023.12.7., 2024.1.31,2026. 4. 27.>"
     file_name: "유가증권시장 상장규정 시행세칙_130차_상장지수증권상장심사기준(개정2015.12.16,2016.6.27,2017.2.8,2017.4.28,2019.1.25,2020.7.23,2022.5.27,2022.8.4,2022.10.20.,2023.10.17.,2023.12.7.,2024.1.31).hwp"
@@ -107,7 +105,7 @@ attachments:
     converted_text_chars: 10351
     converted_non_space_chars: 7339
     table_row_count: 1
-    formula_hint_count: 2
+    formula_hint_count: 1
   - id: "210222644-210205138-hwp"
     title: "[별표 3] 신규상장 신청 서류 <개정 2014.6.25, 2014.9.2, 2015.11.4, 2018.12.28, 2019.6.28, 2019.9.10., 2021.5.13., 2022.12.9., 2024.3.11.,2026. 4. 30.>"
     file_name: "유가증권시장 상장규정 시행세칙_130차_신규상장신청서류(개정2014.6.25,2014.9.2,2015.11.4,2018.12.28,2019.6.28,2019.9.10.,2021.5.13.,2022.12.9.,2024.3.11.).hwp"
@@ -124,7 +122,6 @@ attachments:
     converted_text_chars: 11231
     converted_non_space_chars: 8682
     table_row_count: 58
-    formula_hint_count: 1
   - id: "210222644-202406140000022350000016008-byl-hwp"
     title: "[별표 3의2] 합병상장 신청 서류<신설 2022.2.14>"
     file_name: "유가증권시장 상장규정 시행세칙_130차_합병상장신청서류.hwp"
@@ -221,7 +218,6 @@ attachments:
     converted_text_chars: 10178
     converted_non_space_chars: 7177
     table_row_count: 3
-    formula_hint_count: 1
   - id: "210222644-202406140000022350000016014-byl-hwp"
     title: "[별표 9] 주식워런트증권의 발행조건 변경기준 <개정 2018.01.31., 2019.4.29., 2021.7.22>"
     file_name: "유가증권시장 상장규정 시행세칙_130차_주식워런트증권의발행조건변경기준(개정2018.01.31.,2019.4.29.,2021.7.22).hwp"
@@ -271,7 +267,6 @@ attachments:
     converted_text_chars: 12711
     converted_non_space_chars: 9995
     table_row_count: 40
-    formula_hint_count: 1
   - id: "210222644-202406140000022350000016017-byl-hwp"
     title: "[별표 11] 업종 및 코드 분류표<개정 2017.6.26., 2024.4.3.>"
     file_name: "유가증권시장 상장규정 시행세칙_130차_업종및코드분류표(개정2017.6.26.,2024.4.3.).hwp"
@@ -401,7 +396,7 @@ attachments:
     converted_text_chars: 4838
     converted_non_space_chars: 3305
     table_row_count: 1
-    formula_hint_count: 29
+    formula_hint_count: 2
   - id: "210222644-202406140000022350000016025-byl-hwp"
     title: "[별지 제7호 서식] 주권비상장법인과의 주식의 포괄적 교환 관련 확인서<개정 2014.10.1, 2015.7.31, 2019.6.28>"
     file_name: "유가증권시장 상장규정 시행세칙_130차_주권비상장법인과의주식의포괄적교환관련확인서.hwp"
@@ -418,7 +413,7 @@ attachments:
     converted_text_chars: 3836
     converted_non_space_chars: 2648
     table_row_count: 1
-    formula_hint_count: 20
+    formula_hint_count: 2
   - id: "210222644-202406140000022350000016026-byl-hwp"
     title: "[별지 제8호 서식] 주권비상장법인으로부터의 영업양수와 제3자 배정 증자등 관련 확인서<개정 2014.10.1, 2015.7.31>"
     file_name: "유가증권시장 상장규정 시행세칙_130차_주권비상장법인으로부터의영업양수와제3자배정증자등관련확인서.hwp"
@@ -435,7 +430,7 @@ attachments:
     converted_text_chars: 6318
     converted_non_space_chars: 4454
     table_row_count: 1
-    formula_hint_count: 52
+    formula_hint_count: 2
   - id: "210222644-202406140000022350000016027-byl-hwp"
     title: "[별지 제9호 서식] 주권비상장법인으로부터의 영업양수와 주식이전등 관련 확인서<개정 2014.10.1, 2015.7.31>"
     file_name: "유가증권시장 상장규정 시행세칙_130차_주권비상장법인으로부터의영업양수와주식이전등관련확인서.hwp"
@@ -452,7 +447,7 @@ attachments:
     converted_text_chars: 6477
     converted_non_space_chars: 4595
     table_row_count: 1
-    formula_hint_count: 51
+    formula_hint_count: 2
   - id: "210222644-202406140000022350000016028-byl-hwp"
     title: "[별지 제10호 서식] 주권비상장법인이 발행한 지분증권 양수와 제3자 배정 증자등 관련 확인서<개정 2014.10.1, 2015.7.31, 2019.6.28>"
     file_name: "유가증권시장 상장규정 시행세칙_130차_주권비상장법인이발행한지분증권양수와제3자배정증자등관련확인서.hwp"
@@ -469,7 +464,7 @@ attachments:
     converted_text_chars: 6691
     converted_non_space_chars: 4774
     table_row_count: 1
-    formula_hint_count: 64
+    formula_hint_count: 2
   - id: "210222644-202406140000022350000016029-byl-hwp"
     title: "[별지 제11호 서식] 주권비상장법인이 발행한 지분증권 양수와 주식이전등 관련 확인서<개정 2014.10.1, 2015.7.31, 2019.6.28>"
     file_name: "유가증권시장 상장규정 시행세칙_130차_주권비상장법인이발행한지분증권양수와주식이전등관련확인서.hwp"
@@ -486,7 +481,7 @@ attachments:
     converted_text_chars: 6744
     converted_non_space_chars: 4819
     table_row_count: 1
-    formula_hint_count: 66
+    formula_hint_count: 2
   - id: "210222644-202406140000022350000016030-byl-hwp"
     title: "[별지 제12호 서식] 현물출자에 따른 제3자 배정 신주발행 관련 확인서<개정 2014.10.1, 2015.7.31, 2019.6.28>"
     file_name: "유가증권시장 상장규정 시행세칙_130차_현물출자에따른제3자배정신주발행관련확인서.hwp"
@@ -503,7 +498,7 @@ attachments:
     converted_text_chars: 5077
     converted_non_space_chars: 3525
     table_row_count: 1
-    formula_hint_count: 36
+    formula_hint_count: 2
   - id: "210222644-202406140000022350000016031-byl-hwp"
     title: "[별지 제13호 서식] 신주일괄상장신청서<개정 2019.9.10>"
     file_name: "유가증권시장 상장규정 시행세칙_130차_신주일괄상장신청서.hwp"
@@ -536,7 +531,7 @@ attachments:
     converted_text_chars: 3881
     converted_non_space_chars: 2308
     table_row_count: 1
-    formula_hint_count: 22
+    formula_hint_count: 4
   - id: "210222644-202406140000022350000016033-byl-hwp"
     title: "[별지 제15호 서식] 최대주주인 명목회사의 최대주주 변경신고서"
     file_name: "유가증권시장 상장규정 시행세칙_130차_최대주주인명목회사의최대주주변경신고서.hwp"
@@ -569,7 +564,7 @@ attachments:
     converted_text_chars: 2340
     converted_non_space_chars: 1495
     table_row_count: 1
-    formula_hint_count: 8
+    formula_hint_count: 1
   - id: "210222644-202406140000022350000016035-byl-hwp"
     title: "[별지 제17호 서식] 내부회계관리제도 운영보고서"
     file_name: "유가증권시장 상장규정 시행세칙_130차_내부회계관리제도운영보고서.hwp"
@@ -894,7 +889,7 @@ attachments:
     converted_text_chars: 6223
     converted_non_space_chars: 3846
     table_row_count: 1
-    formula_hint_count: 20
+    formula_hint_count: 1
   - id: "210222644-202406140000022350000016055-byl-hwp"
     title: "[별지 제33호 서식] 변경상장신청서<개정 2014.9.2, 2015.7.31, 2016.4.4., 2019.9.10., 2020.7.23.>"
     file_name: "유가증권시장 상장규정 시행세칙_130차_변경상장신청서(개정2014.9.2,2015.7.31,2016.4.4.,2019.9.10.,2020.7.23.).hwp"
@@ -911,7 +906,7 @@ attachments:
     converted_text_chars: 4221
     converted_non_space_chars: 2648
     table_row_count: 6
-    formula_hint_count: 2
+    formula_hint_count: 1
   - id: "210222644-202406140000022350000016056-byl-hwp"
     title: "[별지 제34호 서식] 추가/변경상장신청서(상장지수펀드)"
     file_name: "유가증권시장 상장규정 시행세칙_130차_추가_변경상장신청서(상장지수펀드).hwp"
@@ -3630,17 +3625,10 @@ attachments:
 
 **제2조(종류주권의 관리종목해제에 관한 특례 등)**① 이 규정 시행일 현재 상장되어 있는 종류주권의 경우에는 별표 7의 개정규정에도 불구하고 2020년 10월 1일부터 2022년 9월 30일까지 별표 7의 개정규정에 따른 상장시가총액은 다음 표에 따른 상장시가총액으로 적용한다.
 
-적용기간
-
-상장시가총액
-
-2020년10월1일부터2021년9월30일까지
-
-5억원
-
-2021년10월1일부터2022년9월30일까지
-
-10억원
+| 적용기간 | 상장시가총액 |
+| --- | --- |
+| 2020년10월1일부터2021년9월30일까지 | 5억원 |
+| 2021년10월1일부터2022년9월30일까지 | 10억원 |
 
 ② 이규정적용 당시 별표 7의 종전규정에 따른 시가총액 충족일수는 개정규정에 따른 일수로 본다.
 

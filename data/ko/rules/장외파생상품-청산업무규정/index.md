@@ -2,7 +2,7 @@
 id: "210124485"
 title: "장외파생상품 청산업무규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:57:15.033572Z"
+collected_at: "2026-07-03T21:11:48.697642Z"
 content_hash: "17282206b7a0927d20ca0dcc610613c0b81ff502d031e7b9357d57e3fe11ea22"
 document_type: "rule"
 language: "ko"

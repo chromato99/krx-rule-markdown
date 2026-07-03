@@ -2,7 +2,7 @@
 id: "210084351"
 title: "KRX석유시장 운영규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:58:26.003360Z"
+collected_at: "2026-07-03T21:13:02.102201Z"
 content_hash: "d6555403a009efac5cc69b4fc74268018b325e911bb1a0519f0ed741843db2a2"
 document_type: "rule"
 language: "ko"

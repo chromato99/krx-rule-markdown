@@ -1,9 +1,9 @@
 ---
 id: "210136803-en"
-title: "Enforcement_Rules_of_Reg._on_Operating_the_New-Type_Sec._Market_20251023"
+title: "Enforcement Rules of Reg. on Operating the New Type Sec. Market 20251023"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:57:44.454014Z"
-content_hash: "4bd7286395abfb5ff379a7b7c116abb8f895559c75cef7c1a2e5760c90bdbe12"
+collected_at: "2026-07-03T21:12:19.284513Z"
+content_hash: "162b035a584c41cfc5217c9023ee052ffd73c08f0d3e994d3dc7f465516927a2"
 document_type: "rule"
 language: "en"
 category: "업무규정 / 유가증권시장규정"
@@ -27,154 +27,16 @@ This English version does not warrant or assume any liability or responsibility 
 accuracy, completeness or usefulness of any information contained herein. Only Korean
 version shall be deemed authentic.
 
+TABLE OF CONTENTS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-Chapter I. General Provisions .................................................................................... 4
-§1. Purpose ................................................................................................................. 4
-§2. Definitions............................................................................................................ 4
-Chapter II. Listing of New-Type Securities ............................................................... 4
-§3. Procedures of Listing Review, etc. ...................................................................... 4
-§4. Methods of Listing Review .................................................................................. 5
-§5. Listing Agreement ............................................................................................... 6
-§6. Documents for Delisting Application and Criteria for Deliberation ................... 6
-§7. Contract for Appointment of Designated Advisors, etc....................................... 6
-§8. Measures Against Designated Advisors .............................................................. 7
-§9. Documents for Application for Preliminary Listing Review, etc. ....................... 7
-§10. Mandatory Holdings .......................................................................................... 7
-§11. Documents for Application for Initial Listing ................................................... 7
-§12. Documents for Application for Supplementary Listing ..................................... 8
-§13. Documents for Application for Listing Change ................................................. 8
-§14. Designation of Administrative Issues ................................................................ 8
-§15. Period of Trading Suspension, etc. .................................................................... 8
-Chapter III. Reporting and Disclosure ....................................................................... 9
-§16. Qualifications for Designated Advisors ............................................................. 9
-§17. Submission of Financial Statements .................................................................. 9
-§18. Obligation of Reporting ................................................................................... 10
-Chapter IV. Market Operation, Trading, Clearing and Settlement, etc. .................. 12
-§19. Base Price......................................................................................................... 12
-§20. Price Change Limits ......................................................................................... 13
-§21. Quotation Quantity Units and Trading Quantity Units .................................... 13
-§22. Scope of Quotations Participating in Call Auction .......................................... 13
-§23. Base Price Used for Determination of Price at Call Auction........................... 14
-§24. Change of Trade Execution Methods, etc. by Issue......................................... 14
-§25. Method to Determine First Trading Price for Newly Listed Issues, etc. ......... 15
-§26. Investor Notice ................................................................................................. 15
-Chapter V. Supplementary Provisions ..................................................................... 16
-§27. Listing Fees and Annual Dues ......................................................................... 16
-ADDENDA .............................................................................................................. 17
 [Appendix  1]  Criteria  for  calculating  the  lowest  and  highest  quotation  prices  to
 determine the first trading price of issues with the base price set at the opening price
-.................................................................................................................................. 18
-[Appendix 2] Guidelines for Listing Review of New-Type Securities ................... 19
 [Appendix 3] Documents for Application of Preliminary Listing Review of Initial
-Listing ...................................................................................................................... 23
 [Appendix 4] Documents to be Submitted for Mandatory Holding and Submission
-Timing ...................................................................................................................... 25
-[Appendix 5] Documents for Application for Initial Listing ................................... 26
-[Appendix 6] Documents for Application for Supplementary Listing .................... 27
-[Appendix 7] Documents for Application for Listing Change ................................ 28
 [Appendix 8] Timing of Designation as and Removal from Administrative Issues 29
 
-
-[Appendix 9] Listing Fees and Annual Dues ........................................................... 31
-[Appendix Form No. 1] Listing Agreement ............................................................ 34
-[Appendix Form No. 2] Application for Delisting .................................................. 37
-[Appendix Form No. 3] Application for Supplementary Listing ............................ 38
-[Appendix Form No. 4] Application for Listing Change ........................................ 39
-[Appendix Form No. 5] Status of Securities Distribution ....................................... 41
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Enforcement Rules of Regulations on
-  Operating the New-Type Securities Market
+Enforcement Rules of Regulations on
+Operating the New-Type Securities Market
 
 Chapter  I.  General Provisions
 
@@ -197,15 +59,15 @@ New-Type Securities Market " (hereinafter referred to as the "Regulations") as t
 price  on  that  day  within  the  range  of  the  lowest  and  highest  quotation  prices  under
 Appendix 1, and is classified as follows:
 
-        (a) Newly listed issues with no initial public offering or secondary offering within the past
+(a) Newly listed issues with no initial public offering or secondary offering within the past
 
 six (6) months from the listing date;
 
-        (b) Issues that resume trading after trading has been halted or suspended for thirty (30)
+(b) Issues that resume trading after trading has been halted or suspended for thirty (30)
 
 consecutive trading days or more; or
 
-        (c)  Issues  for  which  the  Korea  Exchange  (hereinafter  referred  to  as  the  “Exchange”)
+(c)  Issues  for  which  the  Korea  Exchange  (hereinafter  referred  to  as  the  “Exchange”)
 recognizes  that  the  adjustment  of  base  price  is  necessary  due  to  the  fact  that
 transactions are not continuously executed despite the existence of an upper limit price
 (hereinafter referred to as the “upper limit price”) noted in the former part of paragraph
@@ -219,27 +81,7 @@ Chapter  II.  Listing  of  New-Type  Securities
 (1) Pursuant to [§5(2)] of the Regulations, when the Exchange concludes the preliminary listing
 review or the listing review for new-type securities, it shall notify the listing applicant of the
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-result of approval or disapproval in writing. In this case, if there is any information required to
+result of approval or disapproval in writing. In this case, if there is any information required to
 be included in the securities registration statement, etc. pursuant to [§4(8)] of the Regulations,
 such information shall be included, and if the notification of disapproval is notified, the reasons
 for the disapproval shall be included.
@@ -289,18 +131,7 @@ securities registration statement, etc. any improvements or supplementary measur
 pursuant to subparagraph 7 as well as any other information related to the review that it
 deems necessary to disclose for the public interest and investor protection.
 
-
-
-
-
-
-
-
-
-
-
-
-§5. Listing Agreement
+§5. Listing Agreement
 
 “Listing agreement prescribed by the Enforcement Rules” in the latter part of [§5(3)] of the
 Regulations shall refer to the listing agreement in Appendix Form No. 1.
@@ -317,57 +148,39 @@ relation to the delisting.
 (1) “Matters stipulated in the Enforcement Rules” in the latter part of [§6(3)] of the Regulations
 shall refer to those in each of the following subparagraphs:
 
-    1.  Matters  concerning  the  pledge  to  comply  with  financial  laws  and  regulations  and  the
+1.  Matters  concerning  the  pledge  to  comply  with  financial  laws  and  regulations  and  the
 Exchange's  business  regulations  between  the  relevant  corporation  and  the  designated
 advisor;
 
-    2. Matters concerning the officer in charge of the task, employees in charge of the task, the
+2. Matters concerning the officer in charge of the task, employees in charge of the task, the
 scope of task, and contact procedures and methods between the relevant corporation and
 the designated advisor;
 
-    3. Matters concerning the confidentiality of the information received from the other party
+3. Matters concerning the confidentiality of the information received from the other party
 
 and the prohibition of inappropriate use;
 
-    4.  Matters  concerning  the  rights  and  obligations  of  the  relevant  corporation  and  the
+4.  Matters  concerning  the  rights  and  obligations  of  the  relevant  corporation  and  the
 
 designated advisor;
 
-    5. Matters  concerning the notification of changes in the business  and  organization of the
+5. Matters  concerning the notification of changes in the business  and  organization of the
 
 relevant corporation and the designated advisor;
 
-    6. Matters concerning the fees paid in return for the performance of the designated advisor's
+6. Matters concerning the fees paid in return for the performance of the designated advisor's
 
 duties;
 
-    7. Matters concerning the termination of the designated advisor appointment contract; and
+7. Matters concerning the termination of the designated advisor appointment contract; and
 
-    8. Other matters that the Exchange deems necessary.
+8. Other matters that the Exchange deems necessary.
 
 (2) Pursuant to [§6(6)] of the Regulations, applicants for initial listing of investment contract
 securities  (including  listed  corporations)  shall  enter  into  a  designated  advisor  appointment
 agreement with one (1) designated advisor.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§8. Measures Against Designated Advisors
+§8. Measures Against Designated Advisors
 
 (1) The suspension period for a designated advisor pursuant to the latter part other than each
 subparagraph of Article 8, Paragraph 1 of the Regulations shall not exceed six (6) months.
@@ -385,18 +198,18 @@ listing review and accompanying documents under Appendix 3.
 (2) “Documents prescribed by the Enforcement Rules” in [§9(7)] of the Regulations shall refer
 to the documents in each of the following subparagraph:
 
-    1.  When  a  report  has  been  filed  for  an  initial  public  offering  or  secondary  offering:  The
+1.  When  a  report  has  been  filed  for  an  initial  public  offering  or  secondary  offering:  The
 
 reporting documents thereon;
 
-    2. When a material fact concerning the management of the listing applicant has arisen: The
+2. When a material fact concerning the management of the listing applicant has arisen: The
 report thereon;
 
-    3. When forty-five (45) days have passed since the end of the first half of the relevant fiscal
+3. When forty-five (45) days have passed since the end of the first half of the relevant fiscal
 year  of  an  applicant  for  initial  listing:  The  semi-annual  financial  statements  and  the
 auditor's review report thereon; and
 
-    4. Any other documents deemed necessary and requested by the Exchange.
+4. Any other documents deemed necessary and requested by the Exchange.
 
 §10. Mandatory Holdings
 
@@ -415,24 +228,7 @@ submission deadline shall be as prescribed in Appendix 4.
 Rules”  of  [§11(1)]  of  the  Regulations  shall  refer  to  the  application  for  initial  listing  and
 accompanying documents under Appendix 5. Provided that if the applicant for initial listing
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-has  already  submitted  documents  to  the  Exchange  in  relation  to  the  listing  of  new-type
+has  already  submitted  documents  to  the  Exchange  in  relation  to  the  listing  of  new-type
 securities  and  there  are  no  changes  to  them,  the  submission  of  the  relevant  accompanying
 documents may be omitted.
 
@@ -460,43 +256,26 @@ administrative issues shall be as stipulated in Appendix 8.
 specified in each of the following subparagraphs. In this case, the relevant suspension period
 shall be based on the trading day:
 
-    1. Cases falling under any of the subparagraphs of [§17(1) (excluding subparagraph 3)] of
+1. Cases falling under any of the subparagraphs of [§17(1) (excluding subparagraph 3)] of
 the Regulations: From the date the reason for trading suspension occurred until the date
 such reason was confirmed to have been resolved; and
 
-    2.  Cases  falling  under  [§17(1)3]  of  the  Regulations:  From  the  date  of  the  request  for
+2.  Cases  falling  under  [§17(1)3]  of  the  Regulations:  From  the  date  of  the  request  for
 explanation  until  the  date  of  the  public  announcement  of  a response  to  the  request  for
 explanation.
 
 (2) Notwithstanding paragraph (1), the Exchange may extend the period of trading suspension
 where any of the following subparagraphs applies:
 
-    1. If the rumor or news remains unresolved even after the disclosure of explanation has been
+1. If the rumor or news remains unresolved even after the disclosure of explanation has been
 
 made pursuant to paragraph 1(2);
 
-    2. If the content of the disclosure of explanation made pursuant to paragraph 1(2) falls under
+2. If the content of the disclosure of explanation made pursuant to paragraph 1(2) falls under
 any  of  the  reasons  for  delisting  specified  in  each  subparagraph  of  [§15(1)]  of  the
 Regulations; or
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    3. If the Exchange recognizes that an extension of the suspension period is necessary due to
+3. If the Exchange recognizes that an extension of the suspension period is necessary due to
 a potential material impact  on the price and trading volume of securities issued by the
 listed corporation.
 
@@ -511,27 +290,27 @@ Chapter III. Reporting and Disclosure
 “Qualifications specified in the Enforcement Rules” of [§20(2)] of the Regulations shall refer
 to a person who satisfies all of the following requirements:
 
-    1. The person shall meet one (1) of the following criteria:
+1. The person shall meet one (1) of the following criteria:
 
-        (a) A person who has worked as an employee (including a disclosure agent) in charge of
+(a) A person who has worked as an employee (including a disclosure agent) in charge of
 
 disclosure for a listed corporation for at least two (2) years:
 
-        (b) A lawyer;
+(b) A lawyer;
 
-        (c)  A  certified  public  accountant  who  has  performed  accounting  auditing  or  corporate
+(c)  A  certified  public  accountant  who  has  performed  accounting  auditing  or  corporate
 
 advisory/consulting business for at least two years; or
 
-        (d) A person who has performed corporate financing, research and analysis, or proprietary
+(d) A person who has performed corporate financing, research and analysis, or proprietary
 asset management work  for a company that conducts an investment dealing and/or
 brokerage business for at least two (2) years.
 
-    2.  The  person  shall  not  have  been  subject  to  sanctions  disqualifying  them  from  being  a
+2.  The  person  shall  not  have  been  subject  to  sanctions  disqualifying  them  from  being  a
 
 disclosure agent by the Exchange within the past two (2) years;
 
-    3. The person shall have completed the disclosure training course provided by the Exchange
+3. The person shall have completed the disclosure training course provided by the Exchange
 
 pursuant to the former part of [§20(4)] of the Regulations.
 
@@ -546,26 +325,7 @@ consolidated financial statements; the same hereinafter).
 
 (2)  “Semi-annual  report,  etc.  as  stipulated  in  the  Enforcement  Rules”  of  [§21(1)]  of  the
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Regulations shall refer to the semi-annual financial statements of the latest fiscal year (in the
+Regulations shall refer to the semi-annual financial statements of the latest fiscal year (in the
 case of corporations subject to the preparation of semi-annual consolidated financial statements,
 the semi-annual consolidated financial statements are included; the same hereinafter) and the
 auditor’s review report (in the case of corporations subject to the preparation of semi-annual
@@ -579,16 +339,16 @@ to any of the following subparagraphs:
 
 1. Where a new-type securities listed corporation falls under any of the following:
 
-        (a) Where a listed corporation falls under any of the following in the audit report or
+(a) Where a listed corporation falls under any of the following in the audit report or
 
 review report:
 
-        (i) Where the audit opinion on the latest fiscal year's financial statements is "adverse",
+(i) Where the audit opinion on the latest fiscal year's financial statements is "adverse",
 “disclaimer of opinion” or “qualified” due to limitations on the scope of the audit;
 
-            (ii) Where the semi-annual review opinion is “adverse” or “disclaimer of opinion”; or
+(ii) Where the semi-annual review opinion is “adverse” or “disclaimer of opinion”; or
 
-            (iii) Where 50% or more of capital has been impaired as of the end of the latest fiscal
+(iii) Where 50% or more of capital has been impaired as of the end of the latest fiscal
 
 year.
 
@@ -598,14 +358,14 @@ year.
 
 and Bankruptcy Act:
 
-    (i)  Where  an  application  for  the  commencement,  termination,  or  discontinuance  of
+(i)  Where  an  application  for  the  commencement,  termination,  or  discontinuance  of
 rehabilitation  procedures  is  filed;  or  notice  of  a  decision  regarding  the
 commencement,  termination,  or  discontinuance  of  rehabilitation  procedures,  the
 dismissal  of  an  application  for  commencement,  the  revocation  of  a  decision  to
 commence, or the approval or disapproval of a rehabilitation plan, etc. is received
 from the court; or
 
-    (ii)  Where  a  bankruptcy  application  is  filed;  or  notice  of  a  decision  regarding  a
+(ii)  Where  a  bankruptcy  application  is  filed;  or  notice  of  a  decision  regarding  a
 bankruptcy declaration or dismissal of a bankruptcy application is received from the
 court.
 
@@ -617,22 +377,7 @@ regulations;
 
 or prohibited;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(f) Where a lawsuit or other procedures that have a material impact on a listed corporation
+(f) Where a lawsuit or other procedures that have a material impact on a listed corporation
 
 or listed securities is filed or requested;
 
@@ -646,88 +391,72 @@ name, or business purpose.
 
 2. Where an issue of new-type securities falls under any of the following:
 
-        (a) Where significant changes to the structure of business or rights described in the product
+(a) Where significant changes to the structure of business or rights described in the product
 
 disclosure statement occur;
 
-        (b)  Where  there  is  a  decision  regarding  supplementary  listing  or  listing  change  of
+(b)  Where  there  is  a  decision  regarding  supplementary  listing  or  listing  change  of
 
 securities;
 
-        (c) Where the number of listed securities of an issue of new-type securities is less than
+(c) Where the number of listed securities of an issue of new-type securities is less than
 
 100,000 shares or 100,000 units;
 
-        (d) Where new-type securities fall  under any of the following with respect to trusts or
+(d) Where new-type securities fall  under any of the following with respect to trusts or
 
 custodians, etc.:
 
-            (i) In the event of the execution, amendment, or termination of a contract with a trust
+(i) In the event of the execution, amendment, or termination of a contract with a trust
 
 company or custodian, etc.; or
 
-            (ii) In the event of a bankruptcy, rehabilitation procedures, dissolution, or suspension
+(ii) In the event of a bankruptcy, rehabilitation procedures, dissolution, or suspension
 
 of business of a trust company or custodian, etc.
 
-        (e) Where a listed corporation falls under any of the following with respect to the
+(e) Where a listed corporation falls under any of the following with respect to the
 
 number of shares issued and held by itself:
 
-            (i) Where the number of its own issued securities by a listed corporation falls below
+(i) Where the number of its own issued securities by a listed corporation falls below
 
 the required number of securities;
 
-            (ii) Where a listed corporation holds less than the required number of securities and
+(ii) Where a listed corporation holds less than the required number of securities and
 
 the number of securities held decreases; or
 
-            (iii) Where the number of securities issued and held by a listed corporation changes
+(iii) Where the number of securities issued and held by a listed corporation changes
 
 by 5/100 or more.
 
-        (f) Where any of the following reasons arises in relation to the exercise of securities rights,
+(f) Where any of the following reasons arises in relation to the exercise of securities rights,
 etc.:
 
-            (i) Where notice is issued or a resolution is adopted regarding the convocation of a
+(i) Where notice is issued or a resolution is adopted regarding the convocation of a
 
 general meeting of beneficiaries and investors or a decision regarding the
 reference date for confirming the list of the owners of the relevant securities;
 
-            (ii) Where there is a decision regarding the extension of maturity or early liquidation
+(ii) Where there is a decision regarding the extension of maturity or early liquidation
 
+of securities, etc.;
 
+(iii) Where there is a decision to restrict the transfer of securities; or
 
+(iv) Where there is a decision to close the registration of beneficiaries and investors.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-of securities, etc.;
-
-            (iii) Where there is a decision to restrict the transfer of securities; or
-
-            (iv) Where there is a decision to close the registration of beneficiaries and investors.
-
-        (g) In the case of investment contract securities, where any of the following reasons
+(g) In the case of investment contract securities, where any of the following reasons
 arises:
 
-            (i) Where the contract for appointment of a designated advisor is terminated or a new
+(i) Where the contract for appointment of a designated advisor is terminated or a new
 
 contract for appointment of a designated advisor is executed; or
 
-            (ii) Where a significant change to the risk of bankruptcy remoteness occurs.
+(ii) Where a significant change to the risk of bankruptcy remoteness occurs.
 
-        (h) Where a significant change in the early liquidation or maturity liquidation procedures
+(h) Where a significant change in the early liquidation or maturity liquidation procedures
 
 of new-type securities, etc. occurs.
 
@@ -738,58 +467,40 @@ Chapter  IV.  Market  Operation,  Trading,  Clearing  and  Settlement,  etc.
 (1) “Base price determined by the Enforcement Rules” in [§28(1)] of the Regulation shall refer
 to the price in each of the following subparagraphs:
 
-    1. Newly listed issues with a record of a public offering or secondary distribution within the
+1. Newly listed issues with a record of a public offering or secondary distribution within the
 six (6) months preceding the listing date: Issuing price at the time of the IPO or secondary
 distribution;
 
-    2.  Issues  with  the  base  price  set  at  the  opening  price:  The  price  initially  determined  in
+2.  Issues  with  the  base  price  set  at  the  opening  price:  The  price  initially  determined  in
 accordance with [§31(1)] of the Regulations. In this case, if the initial trading price is not
 determined  by  the  end  of  the  trading  day,  the  price  specified  in  each  of  the  following
 subparagraphs shall be the base price for the next trading day:
 
-        (a) Where there are offer quotations lower than the appraisal price noted in subparagraph
+(a) Where there are offer quotations lower than the appraisal price noted in subparagraph
 2 of Appendix 1 (if there is no appraisal price, the lowest offer price is considered the
 appraisal price; hereinafter referred to as the “appraisal price” in this Article and [§23]):
 The price of the lowest offer quotation;
 
-        (b) Where there are bid quotations higher than the appraisal price: The price of the highest
+(b) Where there are bid quotations higher than the appraisal price: The price of the highest
 
 bid quotation; or
 
-        (c) For other cases: The appraisal price
+(c) For other cases: The appraisal price
 
-    3. Issues other than those in subparagraphs 1 and 2: Closing price of the previous day (Where
+3. Issues other than those in subparagraphs 1 and 2: Closing price of the previous day (Where
 there is no closing price of the previous day, the base price of the previous day shall be
 used; the same hereinafter)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2) Where the price noted in [§1(1)] (anything less than KRW 1 shall be disregarded) is less
+(2) Where the price noted in [§1(1)] (anything less than KRW 1 shall be disregarded) is less
 
 than the quotation price unit, it shall be rounded up to the quotation price unit.
 
 (3) Notwithstanding paragraph (1), the base price may be determined differently in any of the
 following cases:
 
-    1. Where trading resumes for the first time after a long market closure; or
+1. Where trading resumes for the first time after a long market closure; or
 
-    2. Where it is deemed significantly difficult to apply the prices pursuant to the subparagraphs
+2. Where it is deemed significantly difficult to apply the prices pursuant to the subparagraphs
 of  paragraph  (1)  due  to  reasons  such  as  a  long-term  trading  suspension,  significant
 changes in rights, or sudden changes in market conditions.
 
@@ -804,9 +515,9 @@ price units, that price shall be set as the lower price limit.
 (2) “Cases prescribed by the Enforcement Rules” in [§28(3)] of the Regulation shall refer to
 any of the following subparagraphs:
 
-    1. Where trading resumes for the first time after a long market closure; or
+1. Where trading resumes for the first time after a long market closure; or
 
-    2. Where it is deemed significantly difficult to apply the base price noted in [§28(2)] of the
+2. Where it is deemed significantly difficult to apply the base price noted in [§28(2)] of the
 
 Regulations due to reasons such as sudden changes in market conditions.
 
@@ -815,9 +526,9 @@ Regulations due to reasons such as sudden changes in market conditions.
 (1) Pursuant to [§29] of the Regulations, quotation quantity unit and trading quantity unit shall
 be as follows:
 
-    1. Non-monetary trust beneficiary certificates: 1 unit; and
+1. Non-monetary trust beneficiary certificates: 1 unit; and
 
-    2. Investment contract securities: 1 share.
+2. Investment contract securities: 1 share.
 
 (2)  With  regard  to  the  adjustment  of  trading  quantity  units,  etc.,  [§33(3)  and  (5)]  of  the
 Enforcement Rules of the KOSPI Market Business Regulations” (hereinafter referred to as the
@@ -828,26 +539,7 @@ Enforcement Rules of the KOSPI Market Business Regulations” (hereinafter refer
 Pursuant to the latter part of [§30(2)] of the Regulations, the scope of quotations to be included
 in  a  call  auction  shall  be  the  quotations  received  during  each  of  the  hours  specified  in  the
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-following  subparagraphs  and  the  quotations  received  during  the  time  which  the  Exchange
+following  subparagraphs  and  the  quotations  received  during  the  time  which  the  Exchange
 randomly determines within thirty (30) seconds since then, and shall include the quotations
 received earlier but not yet executed, if there are any:
 
@@ -864,12 +556,12 @@ Enforcement Rules of the Business Regulations.
 “Price determined by the Enforcement Rules” in the latter part of [§30(3)] of the Regulations
 shall refer to the price in each of the following subparagraphs:
 
-    1. In the case of determining the initial trading price of the issues with the base price set at
+1. In the case of determining the initial trading price of the issues with the base price set at
 the opening price: If there is a price equal to the appraisal price, such appraisal price;
 and if there is no price equal to the appraisal price, the price closest to such appraisal
 price; or
 
-    2. In the case of determining the initial trading price of issues falling under [§19(1)1]: If
+2. In the case of determining the initial trading price of issues falling under [§19(1)1]: If
 there is a price equal to the base price, such base price; and if there is no price equal to the
 base price, the price closest to the base price.
 
@@ -887,45 +579,29 @@ in subparagraph [§35(1)4] of the Enforcement Rules of Business Regulations. In 
 the relevant measures shall be implemented after applying the self-match prevention condition
 under [§13-2] of the Enforcement Rules of Business Regulations:
 
-    1. In the case of continuous trading: Conversion into call auction; or
+1. In the case of continuous trading: Conversion into call auction; or
 
-    2. In the case of call auction: Expansion of the participating quotation range.
+2. In the case of call auction: Expansion of the participating quotation range.
 
 (4) Notwithstanding [§30(4)] of the Regulations, where any of the following subparagraphs
 apply, no change in the trade execution methods, etc. shall be made:
 
+1. Issues scheduled to be delisted;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    1. Issues scheduled to be delisted;
-
-    2. Where a call auction is conducted upon the resumption of trading in accordance with
+2. Where a call auction is conducted upon the resumption of trading in accordance with
 
 [§23(1)2 and 3] or [§15(3)] of the Business Regulations prior to the market close on the
 relevant day;
 
-    3.  Where,  after  the  trade execution  methods,  etc.  of  an  issue  is  changed  as  it  falls  under
+3.  Where,  after  the  trade execution  methods,  etc.  of  an  issue  is  changed  as  it  falls  under
 paragraphs  (1) and  (2),  the  initial  price determined  in  accordance  with  [§30(1)]  of  the
 Regulations falls under paragraphs (1) and (2) again;
 
-    4. Where a provisional execution price based on quotations is determined within the three
+4. Where a provisional execution price based on quotations is determined within the three
 (3) quotation units on the basis of the latest price (limited to cases where the price is less
 than KRW 1,000) as of the time when the relevant quotation is received;
 
-    5.  Other  cases  that  are  deemed  necessary  by  the  Exchange  in  consideration  of  market
+5.  Other  cases  that  are  deemed  necessary  by  the  Exchange  in  consideration  of  market
 
 conditions, etc.
 
@@ -945,11 +621,11 @@ time and the time randomly set by the Exchange within thirty (30) seconds therea
 (3) The quotations noted in paragraph (2) shall be the quotations received within the following
 prices:
 
-    1.  Issues  with  the  base  price  set  at  the  opening  price  (excluding  issues  scheduled  to  be
+1.  Issues  with  the  base  price  set  at  the  opening  price  (excluding  issues  scheduled  to  be
 delisted): The lowest quotation price and the highest quotation price pursuant to Appendix
 1: or
 
-    2. Issues falling under [§19(1)1].
+2. Issues falling under [§19(1)1].
 
 §26. Investor Notice
 
@@ -960,23 +636,7 @@ the Financial Investment Services and Capital Markets Act.
 
 (2)  Where  a  collective  investment  vehicle  noted  in  paragraph  (1)  intends  to  open  a  trading
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-account for trading in the market or participate in the market for the first time using an existing
+account for trading in the market or participate in the market for the first time using an existing
 account, it shall submit documents proving its qualifications to members.
 
 Chapter  V.  Supplementary  Provisions
@@ -987,49 +647,7 @@ Pursuant to [§34(2)] of the Regulations, the rates of listing fees and annual d
 for  calculation  and  payment,  the  scope  of  exemption,  and  other  necessary  matters  shall  be
 prescribed by the Enforcement Rules.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDA
+ADDENDA
 
 (Regulation No. 2369 / October 23, 2025)
 
@@ -1047,44 +665,7 @@ Operating the New-Type Securities Market, Regulation No. 2358, shall refer to Oc
 effective on a date separately determined by the Exchange, taking into account factors such as
 the time required for computer program development, etc.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix 1] Criteria for calculating the lowest and highest quotation prices to determine
+[Appendix 1] Criteria for calculating the lowest and highest quotation prices to determine
 
 the initial trading price of issues with the base price set at the opening price
 
@@ -1106,18 +687,18 @@ Applicable rate according to paragraph 3
 The appraisal price for each issue shall be as follows. In this case, the latter part of paragraph
 1 shall apply mutatis mutandis.
 
-    (a) Newly listed issues with no record of a public offering or secondary distribution within
+(a) Newly listed issues with no record of a public offering or secondary distribution within
 the past six (6) months from the listing date: The price calculated by an appraisal agency
 recognized  by  the  Exchange,  such  as  a  securities  analysis  agency  under  Article  2-5,
 Paragraph 1 of the Regulations on Issuance and Disclosure of Securities, etc., or, if there
 is a trading record in the OTC market before listing, the price calculated based on the
 trading price.
 
-    (b) Issues that resume trading after trading has been halted or suspended for 30 trading days
+(b) Issues that resume trading after trading has been halted or suspended for 30 trading days
 or more: The closing price on the last trading day. However, ex-rights occur before the
 resumption of trading, the price shall be calculated taking this into account.
 
-    (c) Issues where the Exchange deems it necessary to adjust the base price, such as those
+(c) Issues where the Exchange deems it necessary to adjust the base price, such as those
 where no trades are executed continuously despite the presence of quotations at the
 upper or lower price limit: The price of quotation at the upper or lower price limit.
 
@@ -1125,31 +706,15 @@ upper or lower price limit: The price of quotation at the upper or lower price l
 
 The applicable rate shall be as follows:
 
-    (a) Where calculating the lowest quotation price: 50%
+(a) Where calculating the lowest quotation price: 50%
 
-    (b) Where calculating the highest quotation price: 200%
+(b) Where calculating the highest quotation price: 200%
 
 4. Where the appraisal prices or the lowest and highest quotation prices calculated according
 to subparagraphs 1 through 3 are deemed to be significantly unreasonable or difficult to apply,
 or  where  necessary  due  to  a  significant  change  in  the  rights  of  new-type  securities,  the
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Exchange may set them differently.
+Exchange may set them differently.
 
 [Appendix 2] Guidelines for Listing Review of New-Type Securities
 
@@ -1172,14 +737,14 @@ requirements, distribution requirements, etc.) shall be met by the date of initi
 (a) In relation to the issuance, listing, and reporting and disclosure of new-type securities,
 the following requirements for the eligibility of initial listing applicant must be met.
 
-  (i) The following disclosure competency criteria must be met:
+(i) The following disclosure competency criteria must be met:
 
-    ⓐ  In  order  to  ensure  prompt  and  accurate  reporting  when  matters  subject  to  reporting
+ⓐ  In  order  to  ensure  prompt  and  accurate  reporting  when  matters  subject  to  reporting
 regarding the listing applicant and listed issues arise, one (1) disclosure officer must be
 designated as a person who can participate in the decision-making process of the listing
 applicant (e.g., a person who can attend the board of directors meeting).
 
-    ⓑ  In  addition  to  the  disclosure  officer,  at  least  one  (1)  disclosure  manager  must  be
+ⓑ  In  addition  to  the  disclosure  officer,  at  least  one  (1)  disclosure  manager  must  be
 designated  to  enable  immediate  reporting  and  disclosure  through  the  disclosure
 submission system (Filing.krx.co.kr) when matters subject to reporting and disclosure
 arise.
@@ -1191,68 +756,51 @@ a disclosure agent must be appointed to handle reporting and disclosing on its b
 
 immediate reporting and disclosure when reporting and disclosure matters arise.
 
-    ⓔ  An internal control system related to reporting and disclosure must be in place to prevent
+ⓔ  An internal control system related to reporting and disclosure must be in place to prevent
 
 acts such as the misuse of undisclosed important information.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  (ii) The executive officer of a listing applicant shall not be a person falling under any of the
+(ii) The executive officer of a listing applicant shall not be a person falling under any of the
 provisions  of  Article  5,  Paragraph  1,  Subparagraphs  5  through  7  of  the  Act  on  the
 Governance Structure of Financial Companies.
 
-  (iii) It shall be recognized that a listing applicant has internal control standards (separation of
+(iii) It shall be recognized that a listing applicant has internal control standards (separation of
 business organization and reporting/decision-making system, prohibition of information
 exchange, etc.) to prevent conflicts of interest between the applicant's main business and
 other business activities.
 
-  (iv) The following requirements shall be met in relation to the stability of management of the
+(iv) The following requirements shall be met in relation to the stability of management of the
 
 listing applicant, including whether there is a dispute.
 
-    ⓐ  No lawsuits or other actions that may cause a material impact on the financial structure
+ⓐ  No lawsuits or other actions that may cause a material impact on the financial structure
 or management of the listing applicant shall be filed, or even before the filing of lawsuits,
 no  assets  shall  be  subject  to  seizure  or  provisional  attachment  due  to  the  granting  of
 injunctions or other measures.
 
-    ⓑ  It  shall  be  recognized  that  situations  such  as  management  rights  disputes  do  not
+ⓑ  It  shall  be  recognized  that  situations  such  as  management  rights  disputes  do  not
 
 significantly impair the stability of corporate management.
 
-    ⓒ  Where a listing applicant has been subject to restrictions on the issuance of securities
+ⓒ  Where a listing applicant has been subject to restrictions on the issuance of securities
 pursuant  to  the  Capital  Markets  Act  or  other  relevant  laws,  the  period  of  the  relevant
 sanction shall have elapsed.
 
 (b) The following product suitability requirements shall be met in relation to matters such as
 the preparation of a list of beneficiaries and investors, maturity, early liquidation, etc.
 
-  (i) Matters regarding the method of holding a general meeting of beneficiaries and investors
+(i) Matters regarding the method of holding a general meeting of beneficiaries and investors
 and the preparation of a list of beneficiaries and investors (including the institution and
 method of preparation) shall be established.
 
-  (ii) Standards and procedures for distributing residual assets to investors (security owners) in
+(ii) Standards and procedures for distributing residual assets to investors (security owners) in
 preparation for the arrival of maturity or early liquidation of securities shall be established.
 
-  (iii) The purpose of the securities shall be continuously viable until the maturity of the new-
+(iii) The purpose of the securities shall be continuously viable until the maturity of the new-
 
 type securities.
 
-  (iv) There shall be a possibility of dividends and distribution of capital gains after selling the
+(iv) There shall be a possibility of dividends and distribution of capital gains after selling the
 
 underlying assets.
 
@@ -1260,141 +808,76 @@ underlying assets.
 
 of the product disclosure statement, etc.
 
-  (i) The product disclosure statement shall include the following:
+(i) The product disclosure statement shall include the following:
 
-    ⓐ  Information on securities (security name, number of securities issued, maturity, etc.);
+ⓐ  Information on securities (security name, number of securities issued, maturity, etc.);
 
+ⓑ  Business purpose (including information regarding the issuer/listing applicant);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ⓑ  Business purpose (including information regarding the issuer/listing applicant);
-
-    ⓒ  Structure  of  business  and/or  product  (matters  related  to  trusts,  matters  related  to
+ⓒ  Structure  of  business  and/or  product  (matters  related  to  trusts,  matters  related  to
 bankruptcy remoteness, etc.). In this case, for investment contract securities, the Exchange
 shall focus its review on the legal contractual structure of insolvency protection, etc., in
 conjunction with the Financial Supervisory Service's review of the securities registration
 statement;
 
-    ⓓ  Structure  of  securities  rights  (profit  distribution,  rights  exercise  method,  etc.).  This
+ⓓ  Structure  of  securities  rights  (profit  distribution,  rights  exercise  method,  etc.).  This
 includes  the  settlement  and  distribution  method  of  profits  and  losses  attributable  to
 investors, such as rental income, capital gains, and copyright profits, etc.;
 
-    ⓔ  Acquisition/disposal plans for underlying assets or business rights;
+ⓔ  Acquisition/disposal plans for underlying assets or business rights;
 
-    ⓕ  Key decision-making methods and procedures regarding product operations;
+ⓕ  Key decision-making methods and procedures regarding product operations;
 
-    ⓖ  Regular disclosure plan for product operation progress reports;
+ⓖ  Regular disclosure plan for product operation progress reports;
 
-    ⓗ  Maturity (lifespan) of securities;
+ⓗ  Maturity (lifespan) of securities;
 
-    ⓘ  Reasons,  methods,  and  procedures  for  early  liquidation  of  securities  (midterm  full
+ⓘ  Reasons,  methods,  and  procedures  for  early  liquidation  of  securities  (midterm  full
 repurchase/repayment).  In this case, the reason for delisting shall  be the  occurrence of
 early liquidation;
 
-    ⓙ  Methods for settling and distributing residual assets following the arrival of maturity or
+ⓙ  Methods for settling and distributing residual assets following the arrival of maturity or
 
 early liquidation of securities;
 
-    ⓚ  Methods of the valuation of securities (public offering price);
+ⓚ  Methods of the valuation of securities (public offering price);
 
-    ⓛ  Key investment indicators (indicators that affect securities price fluctuations, methods to
+ⓛ  Key investment indicators (indicators that affect securities price fluctuations, methods to
 
 check them, etc.) and investment risks;
 
-    ⓜ  Plan to handle securities in case of undersubscription in public offering (matters to be
+ⓜ  Plan to handle securities in case of undersubscription in public offering (matters to be
 
 included in the securities registration statement);
 
-    ⓝ  The following major investment risks are described:
+ⓝ  The following major investment risks are described:
 
 a)  If  the  new-type  securities  market  is  terminated  according  to  the  expiration  of  the
 designated period for innovative financial services, resulting in the delisting of new-
 type securities, trading and liquidity of the relevant securities may be restricted;
 
-        b) If the reasons for delisting apply, the relevant securities may be delisted;
+b) If the reasons for delisting apply, the relevant securities may be delisted;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        c) The securities will be delisted upon meeting the early liquidation requirements or upon
+c) The securities will be delisted upon meeting the early liquidation requirements or upon
 
 the arrival of maturity;
 
-        d)  Partial  redemption  may  be restricted  in  the  event  of  the  arrival  of  maturity  or  early
+d)  Partial  redemption  may  be restricted  in  the  event  of  the  arrival  of  maturity  or  early
 
 liquidation.
 
-  (ii) The following investor asset protection measures will be put in place:
-    ⓐ  In the case of investment contract securities, a bankruptcy remoteness device that legally
+(ii) The following investor asset protection measures will be put in place:
+ⓐ  In the case of investment contract securities, a bankruptcy remoteness device that legally
 separates  and  preserves  the  rights  of  securities  holders  in  preparation  for  the  risk  of
 insolvency, bankruptcy, or dissolution of the listing applicant (issuer) must be installed
 and  stated  in  the  securities  registration  statement,  etc.  (in  the  case  of  new  business
 structure products, prior consultation with the Financial Supervisory Service is required);
 
-    ⓑ  In  the  event  of  falling  under  reasons  for  delisting,  such  as  bankruptcy  of  the  listing
+ⓑ  In  the  event  of  falling  under  reasons  for  delisting,  such  as  bankruptcy  of  the  listing
 applicant  (issuer),  standards  and  procedures  for  voluntary  delisting  through  early
 liquidation of listed shall be established.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix 3] Documents for Application of Preliminary Listing Review of Initial Listing
+[Appendix 3] Documents for Application of Preliminary Listing Review of Initial Listing
 
 Documents for Application of Preliminary Listing Review of Initial Listing
 (Pertaining  to  [§9(1)] of the Enforcement Rules)
@@ -1417,7 +900,7 @@ for the issues applied for listing
 
 thereon
 
-    (b)  The  latest  semi-annual  financial  statements  (including  quarterly  financial
+(b)  The  latest  semi-annual  financial  statements  (including  quarterly  financial
 statements, if any) for the fiscal year for which preliminary listing review was
 applied  for  (hereinafter  referred  to  as  the  “fiscal  year  of  application”)  and  the
 auditor’s review report thereon
@@ -1428,19 +911,19 @@ etc.) or an acquisition plan
 
 8. The following documents in the case of non-monetary trust beneficiary certificates:
 
-    (a) A copy of the trust company's authorization document and trust agreement
+(a) A copy of the trust company's authorization document and trust agreement
 
-    (b) A copy of the official document designating innovative financial services
+(b) A copy of the official document designating innovative financial services
 
-    (c) Documents proving the registration of the securitization plan
+(c) Documents proving the registration of the securitization plan
 
 9. The following documents in the case of investment contract securities:
 
-    (a) A copy of the custody agreement for the underlying physical assets or rights, a
+(a) A copy of the custody agreement for the underlying physical assets or rights, a
 
 certificate of custody, etc.
 
-    (b) Appointment agreement for the designated advisor, and a comprehensive opinion
+(b) Appointment agreement for the designated advisor, and a comprehensive opinion
 
 on listing eligibility
 
@@ -1448,28 +931,7 @@ on listing eligibility
 
 investors
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11.  A  copy  of  agency  service  contract  in  the  case  of  concluding  the contract  on  the
+11.  A  copy  of  agency  service  contract  in  the  case  of  concluding  the contract  on  the
 entrustment  of  business,  including  general  affairs,  etc.,  with  a  general  office
 management company
 
@@ -1494,7 +956,7 @@ review
 
 Note.
 1.  If  there  are  any  changes  to  the  documents  submitted  at  the  time  of  application  for  preliminary
-    listing  review,  the  listing  applicant  shall  additionally  submit  the  relevant  documents  at  the
+listing  review,  the  listing  applicant  shall  additionally  submit  the  relevant  documents  at  the
 
 time of application for initial listing.
 
@@ -1511,32 +973,7 @@ of the Exchange or the Financial Supervisory Service.
 review, documents No. 12 through No. 14 may be submitted at the time of application for initial
 listing.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix  4]  Documents  to  be  Submitted  for  Mandatory  Holding  and  Submission
+[Appendix  4]  Documents  to  be  Submitted  for  Mandatory  Holding  and  Submission
 
 Timing
 
@@ -1556,15 +993,15 @@ certificates”)
 
 2. Submission Timing
 
-    The timing in each of the following. Provided that, if the Exchange deems it necessary, the
+The timing in each of the following. Provided that, if the Exchange deems it necessary, the
 
 submission time of the relevant documents may be adjusted.
 
-    (a)  A  written  affirmation  on  mandatory  holding:  The  date  of  application  for  preliminary
+(a)  A  written  affirmation  on  mandatory  holding:  The  date  of  application  for  preliminary
 listing  review.  Provided  that  it  shall  be  the  date  of  initial  listing  in  cases  where  the
 preliminary listing review is not conducted.
 
-    (b) Documents certifying mandatory holding: The date of initial listing
+(b) Documents certifying mandatory holding: The date of initial listing
 
 Note.
 1. The listing applicant shall have holders subject to mandatory holding deposit the new-type securities
@@ -1572,39 +1009,24 @@ subject to the mandatory holding with the KSD and then submit the documents in e
 of paragraph 1 to the Exchange.
 
 2. The following matters shall be included in the written affirmation on mandatory holding:
-    ⓐ  Statement assuring that the new-type securities subject to mandatory holding will be mandatorily
+ⓐ  Statement assuring that the new-type securities subject to mandatory holding will be mandatorily
 held until the end of  the period of mandatory  holding  set  by the  Regulations, and will  not  be
 subject to disposal, etc. unless the Exchange deems it necessary.
 
-    ⓑ  Where  there  have  been  any  transfers  between  accounts,  new  electronic  registration,  or
+ⓑ  Where  there  have  been  any  transfers  between  accounts,  new  electronic  registration,  or
 modification and deletion of new electronic registration, etc. for the new-type securities subject
 to mandatory holding during the period of mandatory holding, the statement on the methods of
 disclosing such fact.
 
-    ⓒ  Where  the  mandatory  holding  becomes  impossible  for  reasons  such  as  offering  of  new-type
+ⓒ  Where  the  mandatory  holding  becomes  impossible  for  reasons  such  as  offering  of  new-type
 
 securities as collateral, the statement on the methods of handling such matter.
 
-    ⓓ  Where the new-type securities subject to mandatory holding have been subject to disposal, etc.
+ⓓ  Where the new-type securities subject to mandatory holding have been subject to disposal, etc.
 during the period of mandatory holding, the statement assuring that no objection will be raised to
 the disclosure made on such fact by the designated advisor, listing sponsor, etc.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix 5] Documents for Application for Initial Listing
+[Appendix 5] Documents for Application for Initial Listing
 
 Documents for Application for Initial Listing
 (Pertaining  to  [§11] of the Enforcement Rules)
@@ -1636,39 +1058,7 @@ review, the documents in items 3 and 4 may be omitted.
 
 review, the documents in item 5 may be replaced with a securities allocation statement.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix 6] Documents for Application for Supplementary Listing
+[Appendix 6] Documents for Application for Supplementary Listing
 
 Documents for Application for Supplementary Listing
 (Pertaining  to  [§12] of the Enforcement Rules)
@@ -1688,45 +1078,7 @@ Note. Documents for application for supplementary listing shall be submitted to 
 five  (5)  business  days  prior  to  the  scheduled  listing  date.  However,  the  Exchange  may  adjust  the
 submission period if deemed necessary.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix 7] Documents for Application for Listing Change
+[Appendix 7] Documents for Application for Listing Change
 
 Documents for Application for Listing Change
 (Pertaining  to  [§13] of the Enforcement Rules)
@@ -1747,45 +1099,7 @@ Note. Documents for application for listing change shall be submitted to the Exc
 business days prior to the scheduled listing date. However, the Exchange may adjust the submission
 period if deemed necessary.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix 8] Timing of Designation as and Removal from Administrative Issues
+[Appendix 8] Timing of Designation as and Removal from Administrative Issues
 
 Timing of Designation as and Removal from Administrative Issues
 (Pertaining  to  [§14] of the Enforcement Rules)
@@ -1802,38 +1116,31 @@ designation
 submit annual
 reports
 ([§14(1)1(a)] of
-the Regulation)
 
 2. Inadequate
 audit opinion
 ([§14(1)1(b)] of
-the Regulation)
 
 3. Capital
 impairment
 ([§14(1)1(c)] of
-the Regulation)
 4. Merger, etc.
 ([§14(1)1(d)] of
-the Regulations)
 
 5. Failure to
 appoint designated
 advisor
 ([§14(1)2(a)] of
-the Regulations)
 6. Failure to meet
 the requirements
 of bankruptcy
 remoteness
 ([§14(1)2(b)] of
-the Regulation)
 
 7. Inadequate
 number of listed
 securities
 ([§14(1)2(c)] of
-the Regulation)
 
 Time of designation
 
@@ -1954,14 +1261,7 @@ securities is less than
 100,000 shares or
 100,000 units
 
-
-
-
-
-
-
-
-Designation as administrative issue
+Designation as administrative issue
 (AI)
 
 Removal from administrative issue (AI)
@@ -1972,7 +1272,6 @@ designation
 8. Early
 liquidation, etc.
 ([§14(1)2(d)] of
-the Regulations)
 
 9. Violation of
 reporting
@@ -2043,37 +1342,7 @@ confirmed
 Note. In cases of items 2 and 3, if there is a correction report for the regular audit report, the date of
 the correction report is considered the date of submission of the regular audit report.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix 9] Listing Fees and Annual Dues
+[Appendix 9] Listing Fees and Annual Dues
 
 Listing Fees and Annual Dues
 (Pertaining  to  [§27] of the Enforcement Rules)
@@ -2136,28 +1405,7 @@ KRW 300,000
 KRW 100,000 per additional one (1)
 issue
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3. Payment Time of Listing Fees and Annual Dues
+3. Payment Time of Listing Fees and Annual Dues
 
 (a)  Listing fees
 
@@ -2170,7 +1418,7 @@ At  the  time  of  applying  for  preliminary
 listing review
 At the time of applying for listing
 
-    Note. The fee for listing review may be paid by the date of submission of documents for the preliminary listing
+Note. The fee for listing review may be paid by the date of submission of documents for the preliminary listing
 review determined by the Exchange, and the listing fee may be paid by the day following the date on which the
 listing amount is confirmed.
 
@@ -2197,9 +1445,9 @@ is an irregular payment, must be paid within five (5) business days from the dat
 
 4. Other Matters Relating to Listing Fees and Annual Dues
 
-    (a) Notification of bill of payment and measures against non-payment
+(a) Notification of bill of payment and measures against non-payment
 
-        (i)  With  respect  to  the  payment  of  annual  dues,  the  Exchange  shall  notify  the  listed
+(i)  With  respect  to  the  payment  of  annual  dues,  the  Exchange  shall  notify  the  listed
 corporation (listing applicant) of such fact by the day two (2) weeks before the due
 date for the regular payments and by the day one (1) week before the delisting date
 for the irregular payments. Provided that, in cases where securities are delisted due to
@@ -2207,84 +1455,33 @@ maturity liquidation or early liquidation, etc., the irregular payment shall not
 imposition  by  the  business  day  following  the  date  of  occurrence  of  the  reason  for
 delisting.
 
-        (ii) In cases where a listed corporation fails to make payment of the annual dues within
+(ii) In cases where a listed corporation fails to make payment of the annual dues within
 three (3) months after the due date, the Exchange may file legal actions such as request
 for an order of payment against the concerned company. Provided that this provision
 shall not apply to the listed corporation of delisted companies.
 
-    (b) Refund and additional payments
+(b) Refund and additional payments
 
-        (i) In cases where the listing application of a security is rejected, the Exchange shall refund
+(i) In cases where the listing application of a security is rejected, the Exchange shall refund
 the listing fees and annual dues that were prepaid. Provided that the fees for listing
 review shall not be refundable once the listing review process has commenced.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-        (ii) In cases where a security for which annual dues have been prepaid is delisted during
+(ii) In cases where a security for which annual dues have been prepaid is delisted during
 the remaining redemption period, the total annual dues already paid minus the monthly
 annual dues calculated up to the day before the delisting date shall be refunded. In this
 case, the refund of the annual dues shall be made upon the receipt of notification of
 the reason for delisting and a request for a refund of the annual dues from the relevant
 listed company.
 
-        (iii) In the case where a listed company that has paid annual dues extends the remaining
+(iii) In the case where a listed company that has paid annual dues extends the remaining
 redemption period, the annual dues during the extended remaining redemption period
 shall be paid in the same manner as in the case of an application for initial listing.
 
-    (c) The Exchange may exempt the listing fees and annual dues if it deems necessary for the
+(c) The Exchange may exempt the listing fees and annual dues if it deems necessary for the
 
 market management, etc.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix Form  No.  1]  Listing  Agreement
+[Appendix Form  No.  1]  Listing  Agreement
 
 Listing Agreement
 
@@ -2330,23 +1527,11 @@ such affairs, including a disclosure manager and disclosure officer. In the even
 occurrences, the Company shall immediately notify the Exchange to ensure that there are no disruptions
 to business performance:
 
-  1. Changes in the disclosure officer or disclosure manager (including designated advisors or disclosure
+1. Changes in the disclosure officer or disclosure manager (including designated advisors or disclosure
 
 agents);
 
-
-
-
-
-
-
-
-
-
-
-
-
-2. Changes in the location of the head office or the office responsible for listing and disclosure affairs;
+2. Changes in the location of the head office or the office responsible for listing and disclosure affairs;
 3. Changes in key contact information, including the website address and phone number;
 4. Information regarding the long-term absence of the disclosure officer or disclosure manager due to
 
@@ -2395,34 +1580,15 @@ The  Company  and  the  Exchange,  as  parties  hereto,  shall  execute  this  a
 respective responsibilities, and affix their signatures  or corporate  seals  in duplicate,  with  each  party
 retaining one copy.
 
-
-
-
-
-
-
-
-
-
-
-
-Date: mm/dd/yyyy
+Date: mm/dd/yyyy
 
 Name and Signature/Seal of KRX Chairman & CEO:
 
 Name and Signature/Seal of Company CEO:
 
-
-
-
-
-
-
-[Appendix Form  No.  2]  Application  for  Delisting
+[Appendix Form  No.  2]  Application  for  Delisting
 
 Application for Delisting
-
-To Chairman & CEO of Korea Exchange,
 
 Date: mm / dd / yyyy
 Name of company:
@@ -2434,7 +1600,7 @@ Article 6 of the Enforcement Rules of the same Regulations.
 
 1. Matters concerning the securities subject to the delisting application
 
-                                                (                  )
+(                  )
 
 Issue name (issue code)
 Number of securities issued
@@ -2457,39 +1623,9 @@ delisting.
 1. Documents proving the resolution or decision regarding the delisting application.
 2. Other documents deemed necessary by the Exchange in connection with the delisting.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix Form  No.  3]  Application  for  Supplementary  Listing
+[Appendix Form  No.  3]  Application  for  Supplementary  Listing
 
 Application for Supplementary Listing
-
-To Chairman & CEO of Korea Exchange,
 
 Date: mm / dd / yyyy
 Name of company:
@@ -2535,37 +1671,9 @@ the number of securities/units issued.
 
 5. If payment is required, enter the payment recipient in the "Remarks" field.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix Form  No.  4]  Application  for  Listing  Change
+[Appendix Form  No.  4]  Application  for  Listing  Change
 
 Application for Listing Change
-
-To Chairman & CEO of Korea Exchange,
 
 Date: mm / dd / yyyy
 Name of company:
@@ -2612,110 +1720,17 @@ name
 
 (a)  Reasons of change
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    (b) Schedule of change
+(b) Schedule of change
 
 Date of resolution
 Date of change registration
 Date of listing
 Remarks
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix Form  No.  5]  Status  of  Securities  Distribution
+[Appendix Form  No.  5]  Status  of  Securities  Distribution
 
 Status of Securities Distribution
 (Related to initial listing)
-
-To Chairman & CEO of Korea Exchange,
 
 _______  (name  of  company)  hereby  submits  the  status  of  securities  distribution  as  follows
 pursuant  to  Article 11 of the Enforcement Rules of the Regulations on Operating the New-
@@ -2759,7 +1774,7 @@ to the listing applicant, its officers, or retail investors.
 [Documents to be attached]
 Documents that can prove retail investors’ ownership of securities
 
-                      (name of company) confirms that the status of securities distribution as of
+(name of company) confirms that the status of securities distribution as of
 _____________is as above in applying for listing of                                        securities.
 
 Listing Sponsor (Designated Advisor)                    Listing Applicant

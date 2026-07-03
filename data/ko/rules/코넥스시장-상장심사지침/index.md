@@ -2,7 +2,7 @@
 id: "204847662"
 title: "코넥스시장 상장심사지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:02:13.330138Z"
+collected_at: "2026-07-03T21:16:52.522712Z"
 content_hash: "c6785659cf6e56bcd6ad68e44ece86554290b9c02aa6f4acca7b4d614d9f76b0"
 document_type: "rule"
 language: "ko"

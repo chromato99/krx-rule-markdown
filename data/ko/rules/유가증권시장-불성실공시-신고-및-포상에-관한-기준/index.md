@@ -2,7 +2,7 @@
 id: "210069181"
 title: "유가증권시장 불성실공시 신고 및 포상에 관한 기준"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:59:06.586223Z"
+collected_at: "2026-07-03T21:13:44.052592Z"
 content_hash: "cd14087705b2df0bdf419c1ed3fbf2f6f4a231f956d298702c7fba36425465aa"
 document_type: "rule"
 language: "ko"

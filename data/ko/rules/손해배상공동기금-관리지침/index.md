@@ -2,7 +2,7 @@
 id: "210025875"
 title: "손해배상공동기금 관리지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:59:24.109151Z"
+collected_at: "2026-07-03T21:14:02.969148Z"
 content_hash: "5ec3e813288e1c9a062efccd9d75f55e27f7c7c0fca2ceeb89a24e718382f008"
 document_type: "rule"
 language: "ko"

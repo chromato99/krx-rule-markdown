@@ -4,7 +4,7 @@ Wholly amended on September 30, 2021
 
 Amended on
 
- December 27, 2021
+December 27, 2021
 
 December 16, 2022
 
@@ -16,84 +16,11 @@ Rules and Regulations available from this English version do not warrant or assu
 or  responsibility  for  the  accuracy,  completeness,  or  usefulness  of  any  information.  Only  the
 Korean version shall be deemed authentic.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-CHAPTER I. GENERAL PROVISIONS ........................................................................................... 1
-
-§1. Purpose ............................................................................................................................................................. 1
-
-§2. Definitions ........................................................................................................................................................ 1
-
-CHAPTER II. OPERATION OF MARGIN CASH........................................................................... 2
-
-Section 1. General Provisions ............................................................................................................... 2
-
-§3. Principles of Operation ..................................................................................................................................... 2
-
-§4. Margin Operation Consultative Council ........................................................................................................... 2
-
-Section 2. General Operation ............................................................................................................... 3
-
-§5. General Operation Amount ............................................................................................................................... 3
-
-§6. Methods of General Operation ......................................................................................................................... 3
-
-Section 3. Special Operation ................................................................................................................ 4
-
-§7. Special Operation Amount ................................................................................................................................ 4
-
-§8. Methods of Special Operation .......................................................................................................................... 4
-
-§9. Procedures of Special Operation ....................................................................................................................... 5
-
-§10. Request of Suspension of Special Operation .................................................................................................. 5
-
-CHAPTER III. ALLOCATION OF PROFITS AND COLLECTION OF EXPENSES ................. 6
-
-§11. Calculation of Profits ...................................................................................................................................... 6
-
-§12. Pro Rata Allocation of Profits ......................................................................................................................... 6
-
-§13. Payment of Profits and Notification thereof ................................................................................................... 7
-
-§14. Calculation of Operating Expenses ................................................................................................................. 7
-
-§15. Calculation of Custody Expenses ................................................................................................................... 7
-
-§16. Collection of Custody Expenses and Notification thereof .............................................................................. 8
-
-§17. Settlement for Withdrawing Members, etc. .................................................................................................... 8
-
-[Annex 1] Application Rate in Calculating Member Margin Operating Expense ................................................ 12
+TABLE OF CONTENTS
 
 ii
 
-
-
-
-CHAPTER I. GENERAL PROVISIONS
+CHAPTER I. GENERAL PROVISIONS
 
 §1. Purpose
 
@@ -142,18 +69,7 @@ concerning the suspension of special operation, etc.
 
 1
 
-
-
-
-
-
-
-
-
-
-
-
-(2)  In  addition,  the  definitions  of  terms  used  in  this  guideline  shall,  except  in  cases  where
+(2)  In  addition,  the  definitions  of  terms  used  in  this  guideline  shall,  except  in  cases  where
 specially provided in this Guideline, follow as stipulated in the Financial Investment Services
 and  Capital  Markets  Act  (hereinafter  referred  to  as  “the  Act”)  and  the  business-related
 regulations of the Exchange.
@@ -195,23 +111,7 @@ cash management and to collect member opinions.
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2) The Council shall be composed of the following members:
+(2) The Council shall be composed of the following members:
 
 1. One (1) head of the management department;
 
@@ -259,23 +159,7 @@ with a maturity of six (6) months or less with settlement banks or securities fi
 
 3
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2) In the case of depositing the margin cash in time deposit products pursuant to paragraph
+(2) In the case of depositing the margin cash in time deposit products pursuant to paragraph
 (1), the management department shall select a management institution through a competitive
 bidding  after  receiving  deposit  proposals  on  interest  rates,  classification  of    member’s
 property and customer’s property, etc. from financial institutions. (Amended on December
@@ -320,16 +204,7 @@ Bank of Korea under Article 69 of the Bank of Korea Act;
 
 4
 
-
-
-
-
-
-
-
-
-
-3. Lending to or depositing in securities finance companies; and
+3. Lending to or depositing in securities finance companies; and
 
 4. Depositing in settlement banks.
 
@@ -375,20 +250,7 @@ due to the suspension of special operation shall be covered by the operating pro
 
 5
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER III. ALLOCATION OF PROFITS AND COLLECTION OF EXPENSES
+CHAPTER III. ALLOCATION OF PROFITS AND COLLECTION OF EXPENSES
 
 §11. Calculation of Profits
 
@@ -434,18 +296,7 @@ all members (rounded off below the 15th decimal place). (Amended on December 27,
 
 6
 
-
-
-
-
-
-
-
-
-
-
-
-(4) In the event that the total amount of profits allocated pro rata to each member is not the
+(4) In the event that the total amount of profits allocated pro rata to each member is not the
 same as the total amount of the operating profits, KRW 1 shall be deducted (or added) from
 (or to) the allocated profit of each member in turn, starting from the member with the largest
 allocation amount by the time when the two amounts become equal. (Amended on December
@@ -492,19 +343,7 @@ billed by the settlement bank.
 
 7
 
-
-
-
-
-
-
-
-
-
-
-
-
-(3) The amount of custody expenses shall be allocated pro rata for each of proprietary account
+(3) The amount of custody expenses shall be allocated pro rata for each of proprietary account
 and customer account of a member, and the amount of custody expense for each member
 shall  be  the  sum  of  daily  expenses  (rounded  down  to  decimal  places)  calculated  by
 multiplying the deposit balance on the date of expense incurrence by the application rate. In
@@ -551,28 +390,13 @@ collection method.
 
 8
 
-
-
-
-
-
-
-
-
-
-
-
-(4) The profits and expenses of a member withdrawing due to a merger, spin-off, merger after
+(4) The profits and expenses of a member withdrawing due to a merger, spin-off, merger after
 spin-off, or business transfer (hereinafter referred to as “merger, etc.”) shall be succeeded by
 the legal entity that is newly established or survives after the merger, etc.
 
 9
 
-
-
-
-
-ADDENDUM
+ADDENDUM
 (Regulation No. 749 / September 30, 2021)
 
 This Guideline shall become effective on October 1, 2021.
@@ -620,25 +444,7 @@ expenses for operating profits generated after January 1, 2023.
 
 10
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 (Regulation No. 844 / July 11, 2023)
 
 This Guideline shall become effective on July 17, 2023.
@@ -650,26 +456,7 @@ This Guideline shall become effective on March 4, 2025.
 
 11
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex 1] Application Rate in Calculating Member Margin Operating Expense
+[Annex 1] Application Rate in Calculating Member Margin Operating Expense
 (Amended on March 24, 2023)
 
 Application Rate in Calculating Member Margin Operating Expense

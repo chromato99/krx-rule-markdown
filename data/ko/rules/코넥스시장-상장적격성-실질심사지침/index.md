@@ -2,7 +2,7 @@
 id: "210212163"
 title: "코넥스시장 상장적격성 실질심사지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:55:20.644673Z"
+collected_at: "2026-07-03T21:09:52.669081Z"
 content_hash: "362379281daf29be77a222f56c4d88d42f8580cef875296e8ac92c3b5e7c7528"
 document_type: "rule"
 language: "ko"

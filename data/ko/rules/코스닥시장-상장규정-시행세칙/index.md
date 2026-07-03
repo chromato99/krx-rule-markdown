@@ -2,7 +2,7 @@
 id: "210222109"
 title: "코스닥시장 상장규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:48:47.656285Z"
+collected_at: "2026-07-03T21:03:14.460615Z"
 content_hash: "0ba675992e8a3ef3aba2a168806db670d3912eb84be8813431dfa94575d632e1"
 document_type: "rule"
 language: "ko"
@@ -26,7 +26,6 @@ attachments:
     converted_text_chars: 13417
     converted_non_space_chars: 10042
     table_row_count: 7
-    formula_hint_count: 1
   - id: "210222109-210190046-hwp"
     title: "[별표 2] 신규상장 신청 서류<개정 2026. 3. 16.>"
     file_name: "코스닥시장 상장규정 시행세칙_99차_신규상장신청서류.hwp"
@@ -43,7 +42,6 @@ attachments:
     converted_text_chars: 2712
     converted_non_space_chars: 2163
     table_row_count: 5
-    formula_hint_count: 1
   - id: "210222109-202407120000022430000112003-byl-hwp"
     title: "[별표 2의2] 합병상장 신청 서류<신설 2022.2.14, 2022.12.9>"
     file_name: "코스닥시장 상장규정 시행세칙_99차_합병상장신청서류.hwp"
@@ -237,7 +235,6 @@ attachments:
     converted_text_chars: 3566
     converted_non_space_chars: 2571
     table_row_count: 1
-    formula_hint_count: 1
   - id: "210222109-210225004-hwp"
     title: "[별표 14] 상장수수료 및 연부과금<개정 2022.2.14, 2022.4.29, 2022.9.27, 2022.12.9,2025. 7. 9.,2026. 3. 16.,2026. 7. 1.>"
     file_name: "코스닥시장 상장규정 시행세칙_99차_상장수수료및연부과금.hwp"
@@ -450,7 +447,6 @@ attachments:
     converted_text_chars: 2705
     converted_non_space_chars: 1947
     table_row_count: 2
-    formula_hint_count: 2
   - id: "210222109-210190303-hwp"
     title: "[별지 제12호 서식] 의무이행 확약서<개정 2026. 3. 16.>"
     file_name: "코스닥시장 상장규정 시행세칙_99차_의무이행확약서.hwp"
@@ -483,7 +479,7 @@ attachments:
     converted_text_chars: 2440
     converted_non_space_chars: 1574
     table_row_count: 1
-    formula_hint_count: 8
+    formula_hint_count: 1
   - id: "210222109-210190403-hwp"
     title: "[별지 제14호 서식] 의무보유 확약서<개정 2022.2.14, 2022.2.17, 2022.4.29, 2023.12.28,2026. 3. 16.>"
     file_name: "코스닥시장 상장규정 시행세칙_99차_의무보유확약서.hwp"
@@ -517,7 +513,7 @@ attachments:
     converted_text_chars: 5851
     converted_non_space_chars: 3979
     table_row_count: 1
-    formula_hint_count: 29
+    formula_hint_count: 2
   - id: "210222109-202407120000022430000112032-byl-hwp"
     title: "[별지 제16호 서식] 주식의 포괄적 교환 관련 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_99차_주식의포괄적교환관련확인서.hwp"
@@ -534,7 +530,7 @@ attachments:
     converted_text_chars: 5409
     converted_non_space_chars: 3699
     table_row_count: 1
-    formula_hint_count: 29
+    formula_hint_count: 2
   - id: "210222109-202407120000022430000112033-byl-hwp"
     title: "[별지 제17호 서식] 영업양수 및 제3자 배정 증자 등 관련 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_99차_영업양수및제3자배정증자등관련확인서.hwp"
@@ -551,7 +547,7 @@ attachments:
     converted_text_chars: 9094
     converted_non_space_chars: 6352
     table_row_count: 1
-    formula_hint_count: 93
+    formula_hint_count: 2
   - id: "210222109-202407120000022430000112034-byl-hwp"
     title: "[별지 제18호 서식] 영업양수 및 주식이전 관련 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_99차_영업양수및주식이전관련확인서.hwp"
@@ -568,7 +564,7 @@ attachments:
     converted_text_chars: 7472
     converted_non_space_chars: 5228
     table_row_count: 1
-    formula_hint_count: 64
+    formula_hint_count: 2
   - id: "210222109-202407120000022430000112035-byl-hwp"
     title: "[별지 제19호 서식] 자산양수 및 제3자 배정 증자 등 관련 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_99차_자산양수및제3자배정증자등관련확인서.hwp"
@@ -585,7 +581,7 @@ attachments:
     converted_text_chars: 9496
     converted_non_space_chars: 6666
     table_row_count: 1
-    formula_hint_count: 93
+    formula_hint_count: 2
   - id: "210222109-202407120000022430000112036-byl-hwp"
     title: "[별지 제20호 서식] 자산양수 및 주식이전 관련 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_99차_자산양수및주식이전관련확인서.hwp"
@@ -602,7 +598,7 @@ attachments:
     converted_text_chars: 7963
     converted_non_space_chars: 5586
     table_row_count: 1
-    formula_hint_count: 73
+    formula_hint_count: 2
   - id: "210222109-202407120000022430000112037-byl-hwp"
     title: "[별지 제21호 서식] 현물출자 및 제3자 배정 증자 관련 확인서"
     file_name: "코스닥시장 상장규정 시행세칙_99차_현물출자및제3자배정증자관련확인서.hwp"
@@ -619,7 +615,7 @@ attachments:
     converted_text_chars: 6248
     converted_non_space_chars: 4265
     table_row_count: 1
-    formula_hint_count: 41
+    formula_hint_count: 2
   - id: "210222109-202407120000022430000112038-byl-hwp"
     title: "[별지 제22호 서식] 일괄상장신청서"
     file_name: "코스닥시장 상장규정 시행세칙_99차_일괄상장신청서.hwp"

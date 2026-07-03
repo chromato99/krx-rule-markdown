@@ -2,7 +2,7 @@
 id: "210217736"
 title: "거래증거금 및 청산증거금 현금 운용지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:54:15.740705Z"
+collected_at: "2026-07-03T21:08:47.128596Z"
 content_hash: "5e2e405ead6294007391903dfb25c2616860cd84c1761f6f79dd10df7cb63e23"
 document_type: "rule"
 language: "ko"

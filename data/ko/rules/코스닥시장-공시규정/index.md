@@ -2,7 +2,7 @@
 id: "210226148"
 title: "코스닥시장 공시규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:48:44.524515Z"
+collected_at: "2026-07-03T21:03:11.345960Z"
 content_hash: "1cc2bf303be43db6d70ef08d262cb9ebfdd7dbcee4035851a43c44960cf9f0de"
 document_type: "rule"
 language: "ko"

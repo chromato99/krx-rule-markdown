@@ -2,8 +2,8 @@
 id: "204847401-en"
 title: "석유제품현물전자상거래용수입석유제품의할당관세세부추천요령"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:02:43.621117Z"
-content_hash: "7e0478cdb463b1c4dcee635506e485f03420bf6d3b28c11e544a39a03f1c4832"
+collected_at: "2026-07-03T21:17:22.692710Z"
+content_hash: "af8bb37f942189c0ca350867a8190de75d7f5e204d9ceabc9e9fe564e620361b"
 document_type: "rule"
 language: "en"
 category: "업무규정 / 일반상품시장규정"
@@ -28,69 +28,11 @@ Rules  and  Regulations  available  from  this  English  version  do  not  warra
 liability or responsibility for the accuracy, completeness or usefulness of any information. Only
 Korean version shall be deemed authentic.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-§1. Purpose ....................................................................................................................... 1
-
-§2. Product Eligible for Recommendation and Quantity Limit........................................ 1
-
-§3. Person Eligible for Recommendation ......................................................................... 2
-
-§4. Request for Recommendation .................................................................................... 2
-
-§5. Sequence of Recommendation ................................................................................... 3
-
-§6. Recommendation Method .......................................................................................... 3
-
-§7. Calculation Method of Petroleum Quantity Eligible for Allocation .......................... 3
+TABLE OF CONTENTS
 
 §8. Submission of Materials for Calculation of Quantity of Petroleum Product Eligible
 
-for Quota Tariff Recommendation ................................................................................... 4
-
-§9. Processing Deadline and Issuance of Recommendation ............................................ 4
-§10. Validity Period of Recommendation, etc. ................................................................ 5
-
-§11. Splitting up of Recommendation .............................................................................. 5
-
-§12. Return of Recommendation ...................................................................................... 6
-
-§13. Speedy Custom Clearance of Recommended Product ............................................. 6
-
-§14. Reporting .................................................................................................................. 6
-
-§15. Verification about Recommendee ............................................................................ 7
-
-ADDENDUM ................................................................................................................... 7
-
-
-
-
-§1. Purpose
+§1. Purpose
 
 The purpose of this Guideline is to stipulate the detailed matters related to making the
 
@@ -148,15 +90,7 @@ supplied to the economy petro station.      [January 10, 2013]
 
 1
 
-
-
-
-
-
-
-
-
-(4)      In  case  where  total  quantity  applied,  other  than  the  quantity  supplied  to
+(4)      In  case  where  total  quantity  applied,  other  than  the  quantity  supplied  to
 
 economy  petro  station  already  recommended  pursuant  to  Par.(3),  exceeds  the
 
@@ -206,19 +140,7 @@ distribution (Form 8 of Annex);
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-6.    In addition, the document that the Chairman of Exchange deems necessary.
+6.    In addition, the document that the Chairman of Exchange deems necessary.
 
 (2)    The quantity unit in the request for recommendation on quota tariff application
 
@@ -267,19 +189,7 @@ custom  duty  was  exempted  according  to  the  free  trade  agreement)  while 
 
 3
 
-
-
-
-
-
-
-
-
-
-
-
-
-quantity  per  petroleum  product  that  was  imported  and  went  through  the  custom
+quantity  per  petroleum  product  that  was  imported  and  went  through  the  custom
 
 clearance  by  the  day  before  the  request  day  for  quota  tariff  recommendation  after
 
@@ -330,19 +240,7 @@ through  (4),  §3p  and  §5p].
 
 (Amended on January 10, 2013)
 
-4
-
-
-
-
-
-
-
-
-
-
-
-(2)      The  recommendation  pursuant  to  Para.(1)  may  be  issued  as  an  electronic
+(2)      The  recommendation  pursuant  to  Para.(1)  may  be  issued  as  an  electronic
 
 document (referring to the electronic document specified in [§2(1)] of the Framework
 
@@ -390,21 +288,7 @@ Exchange may issue a split-up recommendation.
 the Chairman of Exchange the request for split-up of recommendation by attaching the
 recommendation to be split thereto.
 
-5
-
-
-
-
-
-
-
-
-
-
-
-
-
-(3)    If it deems that there is a reason for requesting the split-up noted in Para.(2), the
+(3)    If it deems that there is a reason for requesting the split-up noted in Para.(2), the
 
 Chairman  of  Exchange  shall  re-recommend  by  re-issuing  the  recommendation  that
 
@@ -450,21 +334,7 @@ the 10th day after the end of each quarter.
 
 6
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§15. Verification about Recommendee
+§15. Verification about Recommendee
 
 In  case  where  there  is  need  to  verify  the  details  of  business  of  recommendee,  the
 
@@ -503,25 +373,7 @@ the concerned quota tariff application was recommended according to this Guideli
 
 7
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 (January 10, 2013)
 
 §1. Effective Date
@@ -542,16 +394,7 @@ of Ministry of Knowledge Economy shall take precedence over this Guideline.
 
 8
 
-
-
-
-
-
-
-
-
-
-[Annex. Form 1]        (Amended on January 10, 2013)
+[Annex. Form 1]        (Amended on January 10, 2013)
 
 Receipt No.
 
@@ -611,7 +454,7 @@ Tel. No.
 
 Fax No.
 
- ③    Details of request
+③    Details of request
 
 H.S. Code
 
@@ -657,45 +500,7 @@ Usage
 
 9
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Pursuant  to  [§71]  of  the  Customs  Act,  the  Ministry  of  Knowledge  Economy
+Pursuant  to  [§71]  of  the  Customs  Act,  the  Ministry  of  Knowledge  Economy
 
 Announcement No. 2012-556 and the guideline on requesting for recommendation
 
@@ -707,11 +512,9 @@ signed,  would  like  to  request  your  recommendation  on  quota  tariff  on  
 
 products imported for the distribution trough spot e-trading as shown above.
 
-                                        Date
+Date
 
-                                        Applicant          (seal/signature)
-
-  To:    Chairman, Korea Exchange
+Applicant          (seal/signature)
 
 Attachment:
 
@@ -730,13 +533,7 @@ N/A
 
 10
 
-
-
-
-
-
-
-  [Annex.    Form 2]        (Amended on January 10, 2013)
+[Annex.    Form 2]        (Amended on January 10, 2013)
 
 Recommendation No.
 
@@ -768,7 +565,7 @@ Fax No.
 
 (HP :                      )
 
- ◦ Details of recommendation
+◦ Details of recommendation
 
 H.S.
 
@@ -811,35 +608,7 @@ zone
 
 11
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- ◦    Recommendation valid until …(date)……..
+◦    Recommendation valid until …(date)……..
 
 The  Presidential  Decree  No.  24288,  the  regulation  concerning  the  application  of
 
@@ -851,9 +620,9 @@ distribution  trough  spot  e-trading  (Ministry  of  Knowledge  Economy  Guidel
 
 No. 313), I hereby make the recommendation as shown above.
 
-                              Date
+Date
 
-                             Chairman, Korea Exchange            (seal/signature)
+Chairman, Korea Exchange            (seal/signature)
 
 Note:      This recommendation shall be used until the recommendation is valid
 
@@ -867,34 +636,27 @@ excluded from the future recommendation.
 
 12
 
-
-
-
-
-
-
-
-  [Annex.    Form 3]        (Amended on January 10, 2013)
+[Annex.    Form 3]        (Amended on January 10, 2013)
 
 Recommendation for Quota Tariff Application    (Electronic Document)
 
 ※  Recommendation No.:
 
- 1. Applicant (taxpayer)
+1. Applicant (taxpayer)
 
-  Trade name:
+Trade name:
 
-  Address:
+Address:
 
 Name:
 
 Business registration No.:
 
- 2. Importer
+2. Importer
 
-  Trade name:
+Trade name:
 
-  Address:
+Address:
 
 Name:
 
@@ -902,64 +664,63 @@ Business registration No.:
 
 Import/Export business registration No.:
 
- 3. Details of recommendation
+3. Details of recommendation
 
 ①  H. S. Code:
 
- ②  Product name & price:
+②  Product name & price:
 
 ③  Quantity recommended:
 
 ④  Amount:
 
- ⑤  Country of origin (supplier):
+⑤  Country of origin (supplier):
 
- ⑥  Usage:
+⑥  Usage:
 
- ⑦  Expected date of import:
+⑦  Expected date of import:
 
 ⑧  Expected shipping date from bonded area:
 
 13
 
+①  H. S. Code:
 
-①  H. S. Code:
-
- ②  Product name & price:
-
-③  Quantity recommended:
-
-④  Amount:
-
- ⑤  Country of origin (supplier):
-
- ⑥  Usage:
-
- ⑦  Expected date of import:
-
-⑧  Expected shipping date from bonded area:
-
- ①  H. S. Code:
-
- ②  Product name & price:
+②  Product name & price:
 
 ③  Quantity recommended:
 
 ④  Amount:
 
- ⑤  Country of origin (supplier):
+⑤  Country of origin (supplier):
 
- ⑥  Usage:
+⑥  Usage:
 
- ⑦  Expected date of import:
+⑦  Expected date of import:
 
 ⑧  Expected shipping date from bonded area:
 
- ※  Conditions for recommendation:
+①  H. S. Code:
 
- ※  Validity period:    Until    (data)
+②  Product name & price:
 
- ※  Legal  base:  The  Presidential  Decree  No.  24288,  the  regulation  concerning  the
+③  Quantity recommended:
+
+④  Amount:
+
+⑤  Country of origin (supplier):
+
+⑥  Usage:
+
+⑦  Expected date of import:
+
+⑧  Expected shipping date from bonded area:
+
+※  Conditions for recommendation:
+
+※  Validity period:    Until    (data)
+
+※  Legal  base:  The  Presidential  Decree  No.  24288,  the  regulation  concerning  the
 
 application of quota tariff pursuant to [§71] of the Custom Act, and the guideline on
 
@@ -971,20 +732,13 @@ No. 313), I hereby make the recommendation as shown above.
 
 14
 
+Date
 
-
-
-Date
-
- Chairman, Korea Exchange          (seal/signature)
+Chairman, Korea Exchange          (seal/signature)
 
 15
 
-
-
-
-
-  [Annex.    Form 4]      (Amended on January 10, 2013)
+[Annex.    Form 4]      (Amended on January 10, 2013)
 
 Receipt No.
 
@@ -996,7 +750,7 @@ Immediately
 
 Request for Extension of Validity Period of Quota Tariff Recommendation
 
- ①
+①
 (Name
 
 Name
@@ -1004,16 +758,16 @@ of
 
 representative)
 
-                                              (seal/signature)
+(seal/signature)
 
 Applicant
 
- ②  Address
+②  Address
 
- ③  Business
+③  Business
 name
 
- ④    Details of request
+④    Details of request
 
 ⑤  H S code
 
@@ -1037,34 +791,7 @@ extended validity
 
 16
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- Pursuant  to  Article  10  of  the  Guideline  on  requesting  for  recommendation  on
+Pursuant  to  Article  10  of  the  Guideline  on  requesting  for  recommendation  on
 
 quota  tariff  of  petroleum  products  imported  for  the  distribution  trough  spot  e-
 
@@ -1072,15 +799,13 @@ trading (Ministry of Knowledge Economy Guideline No. 313), I, the undersigned,
 
 request the extension of validity period of quota tariff recommendation.
 
- Reasons for requesting the extension:
+Reasons for requesting the extension:
 
-                      Date
+Date
 
-                      Applicant        (seal/signature)
+Applicant        (seal/signature)
 
-To:    Chairman, Korea Exchange
-
- Attachment:
+Attachment:
 
 - 1 copy of the recommendation on quota tariff application
 
@@ -1092,18 +817,7 @@ N/A
 
 17
 
-
-
-
-
-
-
-
-
-
-
-
-  [Annex.    Form 5]        (Amended on January 10, 2013)
+[Annex.    Form 5]        (Amended on January 10, 2013)
 
 Receipt No.:
 
@@ -1115,23 +829,23 @@ Immediately
 
 Request for split-up of quota tariff recommendation
 
- ①
+①
 (representative)
 
 Name
 
-                      (seal/signature)
+(seal/signature)
 
 Applicant
 
- ②  Address
+②  Address
 
 Business
 
- ③
+③
 name
 
- ④    Details of request
+④    Details of request
 
 ⑤  H S code
 
@@ -1157,37 +871,9 @@ quantity
 
 1 2  3
 
-4
-
-5
-
 18
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  Pursuant to Article 11 of the Guideline on requesting for recommendation on quota
+Pursuant to Article 11 of the Guideline on requesting for recommendation on quota
 
 tariff  of  petroleum  products  imported  for  the  distribution  trough  spot  e-trading
 
@@ -1195,15 +881,13 @@ tariff  of  petroleum  products  imported  for  the  distribution  trough  spot 
 
 request the split-up of the quota tariff recommendation.
 
- Reasons for split-up:
+Reasons for split-up:
 
-                        Date
+Date
 
-                        Applicant   (seal/signature)
+Applicant   (seal/signature)
 
- To:    Chairman, Korea Exchange
-
-  Attachment:
+Attachment:
 
 -  1 copy of the recommendation on quota tariff application
 
@@ -1215,27 +899,21 @@ N/A
 
 19
 
-
-
-
-
-
-
-[Annex.      Form 6]
+[Annex.      Form 6]
 
 Recommendation on Split-up of Quota Tariff
 
- ①      Recommendation No.:
+①      Recommendation No.:
 
- ②      Name of representative:
+②      Name of representative:
 
- ③      Address:
+③      Address:
 
- ④      Name of business:
+④      Name of business:
 
- ⑤    Details of recommendation
+⑤    Details of recommendation
 
- H S
+H S
 
 Product
 
@@ -1269,39 +947,19 @@ recommended
 
 3
 
-4
-
-5
-
 20
 
+Expiry date of validity:
 
+I hereby recommend the split-up as shown above.
 
+Date
 
-
-
-
-
-
-
-
-
-
-Expiry date of validity:
-
-  I hereby recommend the split-up as shown above.
-
-           Date
-
-           Chairman, Korea Exchange      (seal/signature)
+Chairman, Korea Exchange      (seal/signature)
 
 21
 
-
-
-
-
-[Annex.      Form 7]        (Amended on January 10, 2013)
+[Annex.      Form 7]        (Amended on January 10, 2013)
 
 Report on Quota Tariff Recommendation
 
@@ -1317,7 +975,7 @@ Date:
 
 Cc:      xxxxxxx
 
- Title:    Record of quota tariff recommended in the X quarter of 20xx
+Title:    Record of quota tariff recommended in the X quarter of 20xx
 
 1.  Record of quota tariff recommended in the X quarter of 20XX
 
@@ -1367,27 +1025,7 @@ total
 
 22
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Quantity
+Quantity
 
 (unit:    )
 
@@ -1413,62 +1051,29 @@ recommendation up to the quantity limit
 
 23
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex.      Form 8]
+[Annex.      Form 8]
 
 Import Schedule & Plan for Distribution Through E-Trading
 
- ①
+①
 (representative)
 
 Name
 
-                                            (seal/signature)
+(seal/signature)
 
 Applican
 
 t
 
- ②  Address
+②  Address
 
 Business
 
- ③
+③
 name
 
-  ※  For  a  period  of  one  month  from  the  request  date  for  quota  tariff
+※  For  a  period  of  one  month  from  the  request  date  for  quota  tariff
 recommendation
 
 ④  Product name
@@ -1498,47 +1103,14 @@ quantity
 
 24
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-With regard to the quota tariff recommendation on the imported petroleum products
+With regard to the quota tariff recommendation on the imported petroleum products
 
 to be distributed through the e-trading, the company I represent intends to
 
 distribute the imported petroleum as stated above.
 
-                   Date
+Date
 
-                   Applicant            (seal/signature)
-
- To:    Chairman, Korea Exchange
+Applicant            (seal/signature)
 
 25

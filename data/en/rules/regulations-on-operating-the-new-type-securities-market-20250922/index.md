@@ -1,9 +1,9 @@
 ---
 id: "210124215-en"
-title: "Regulations_on_Operating_the_New-Type_Securities_Market_20250922"
+title: "Regulations on Operating the New Type Securities Market 20250922"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:58:09.992499Z"
-content_hash: "e69537758c1fa9b794eb9543450af0878531a114c3d219d7a6ec88bdb592ef55"
+collected_at: "2026-07-03T21:12:45.323505Z"
+content_hash: "f79d328ad7b35dab88a433a1513cf29d241ce60a58e6864336b8880ea9ff6ec0"
 document_type: "rule"
 language: "en"
 category: "업무규정 / 유가증권시장규정"
@@ -27,99 +27,11 @@ This English version does not warrant or assume any liability or responsibility 
 accuracy, completeness or usefulness of any information contained herein. Only Korean
 version shall be deemed authentic.
 
+TABLE OF CONTENTS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-Chapter I. General Provisions .................................................................................... 3
-§1. Purpose ................................................................................................................. 3
-§2. Opening of Market ............................................................................................... 3
-§3. Definitions............................................................................................................ 3
-§4. Accounting Standards and Financial Statement Application Standards .............. 4
-Chapter II. Listing of New-Type Securities ............................................................... 4
-§5. General Operation of Listing of Securities .......................................................... 4
-§6. Appointment of Designated Advisors .................................................................. 5
-§7. Requirements for Designated Advisors ............................................................... 6
-§8. Measures Against Designated Advisors .............................................................. 6
-§9. Preliminary Listing Review, etc. ......................................................................... 7
-§10. Mandatory Holdings .......................................................................................... 8
-§11. Initial Listing ...................................................................................................... 8
-§12. Supplementary Listing ..................................................................................... 10
-§13. Listing Change ................................................................................................. 11
-§14. Designation of Administrative Issues .............................................................. 11
-§15. Delisting ........................................................................................................... 12
-§16. Last Trading Day ............................................................................................. 14
-§17. Suspension of Trading ..................................................................................... 15
-§18. Public Announcement on Administrative Issues and Delisting Issues ............ 15
 Chapter III. Reporting and Disclosure of New-Type Securities listed Corporations
-.................................................................................................................................. 16
-§19. General Operation of Reporting and Disclosure of Company ......................... 16
-§20. Appointment of Disclosure Officer, etc. .......................................................... 16
-§21. Submission of Financial Statements, etc. ........................................................ 17
-§22. Reporting of Material Matters ......................................................................... 17
-§23. Request for Explanation for Rumors or News, etc. ......................................... 18
-§24. Measures Against Corporations Violating Reporting Obligations .................. 18
-Chapter IV. Market Operation, Trading, Clearing and Settlement, etc. .................. 19
-§25. Application of Regulation ................................................................................ 19
-§26. Exclusion of Off-hours Market ........................................................................ 19
-§27. Type of Quotations and Quotation Receiving Hours ....................................... 19
-§28. Limits on Quotation Prices .............................................................................. 20
-§29. Quotation Quantity Units and Trading Quantity Units .................................... 20
-§30. Special Cases of Trade Execution of the New-Type Securities Market .......... 20
-§31. Method of Determining First Trading Price of Initially Listed Issues, etc. ..... 21
-§32. Good Faith Deposit .......................................................................................... 21
-§33. Investor Notice ................................................................................................. 21
-Chapter V. Supplementary Provisions ..................................................................... 22
-§34. Listing Fees and Annual Dues ......................................................................... 22
-§35. Enforcement Rules ........................................................................................... 22
-ADDENDA .............................................................................................................. 23
 
-
-
-
-
-Regulations on Operating the New-Type Securities Market
+Regulations on Operating the New-Type Securities Market
 
 Chapter  I.  General Provisions
 
@@ -141,9 +53,9 @@ Act (hereinafter referred to as the “Capital Markets Act”).
 
 (2) The new-type securities market shall be classified as follows:
 
-    1. Non-monetary trust beneficiary certificates market; and
+1. Non-monetary trust beneficiary certificates market; and
 
-    2. Investment contract securities market.
+2. Investment contract securities market.
 
 (3)  The  Exchange  shall  operate  the  new-type  securities  market  for  the  period  (hereinafter
 referred to as the “designation period”) during which the market is designated as an innovative
@@ -164,27 +76,7 @@ indicate the beneficial interest of a trust other than a monetary trust or inves
 
 investment contract securities;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3.  “New-type  securities  listed  corporation"  refers  to  a  company  that  lists  new-type
+3.  “New-type  securities  listed  corporation"  refers  to  a  company  that  lists  new-type
 
 securities on the new-type securities market; and
 
@@ -231,20 +123,7 @@ part of paragraph (3)], [§6], [§8] through [§10], [§16(2)] and [§20] of the
 shall apply mutatis mutandis. In this case, “seven (7) days” in [§9(2)] of the Listing Regulations
 shall be deemed as “three (3) days”.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2)  The  Exchange  may  establish  the  Enforcement  Rules  regarding  the  procedures  and
+(2)  The  Exchange  may  establish  the  Enforcement  Rules  regarding  the  procedures  and
 methods, application of review requirements, etc. for conducting preliminary listing review or
 listing review based on an application by a listing applicant.
 
@@ -296,21 +175,7 @@ advisor.
 
 (2) Notwithstanding paragraph 1, in the case where an applicant for initial listing of investment
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-contract securities is recognized by the Exchange as a financial investment business operator
+contract securities is recognized by the Exchange as a financial investment business operator
 licensed for investment trading or collective investment business under the Capital Markets
 Act, a designated advisor may not be appointed.
 
@@ -358,18 +223,7 @@ period and other necessary matters shall be prescribed by the Enforcement Rules:
 
 1. If a security listed on this market after entering into a contract with a designated advisor
 
-
-
-
-
-
-
-
-
-
-
-
-is delisted pursuant to [§15] for reasons arising within one (1) year of the listing date; or
+is delisted pursuant to [§15] for reasons arising within one (1) year of the listing date; or
 
 2. If the Exchange recognizes that the replacement of a designated advisor is necessary for
 investor protection and the public interest, such as due to significant neglect of duties by
@@ -419,20 +273,7 @@ application for preliminary listing review have been identified; or
 
 3.  Where  an  application  for  initial  listing  of  new-type  securities  has  not  been  submitted
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-within six (6) months from the date of having been notified of the result of the preliminary
+within six (6) months from the date of having been notified of the result of the preliminary
 listing review. Provided that if the applicant for initial listing requests an extension of the
 submission  deadline  due  to  unavoidable  reasons,  such  as  a  sudden  change  in  market
 conditions,  and  the  Exchange  approves  the  request,  the  submission  deadline  may  be
@@ -476,42 +317,29 @@ the results of the preliminary listing review.
 that the requirements of subparagraphs 1(c) and 1(d) may be determined based on the recently
 submitted semi-annual financial statements:
 
-    1. Requirements for initial listing applicants: All of the following requirements shall be met:
-        (a) The applicant shall be a domestic corporation that is a joint stock company under the
+1. Requirements for initial listing applicants: All of the following requirements shall be met:
+(a) The applicant shall be a domestic corporation that is a joint stock company under the
 
 Commercial Act;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-        (b) The applicant shall be an issuer of new-type securities. Provided that in the case of
+(b) The applicant shall be an issuer of new-type securities. Provided that in the case of
 non-monetary trust beneficiary certificates, it may be a corporation that has entered
 into a listing agreement with the Exchange as a party that has entrusted assets to the
 issuer;
 
-        (c)  Equity  capital  shall  be  at  least  KRW  2  billion.  In  this  case,  the  equity  capital  of  a
+(c)  Equity  capital  shall  be  at  least  KRW  2  billion.  In  this  case,  the  equity  capital  of  a
 corporation  subject  to  the  preparation  of  consolidated  financial  statements  (for
 companies other than holding companies, only the fiscal year which is applicable to
 Korean International Financial Reporting Standards is applied) shall be based on the
 total  equity  in  the  consolidated  financial  statements,  excluding  non-controlling
 interests;
 
-        (d) The applicant shall not be in a state of capital impairment. In this case, the corporation
+(d) The applicant shall not be in a state of capital impairment. In this case, the corporation
 subject to the preparation of consolidated financial statements shall be based on the
 capital  and  total  equity  (excluding  non-controlling  interests)  in  the  consolidated
 financial statements;
 
-        (e)  The  auditor's  audit  opinion  on  the  financial  statements  for  the  latest  fiscal  year
+(e)  The  auditor's  audit  opinion  on  the  financial  statements  for  the  latest  fiscal  year
 (including the audit opinion on the consolidated financial statements for corporations
 subject to the preparation of consolidated financial statements) shall be “unqualified”.
 In  this  case,  corporations  subject  to  the  preparation  of  consolidated  financial
@@ -519,65 +347,53 @@ statements  (excluding  holding  companies)  shall  apply  consolidated  financi
 statements  only  for  fiscal  years  in  which  Korean  International  Financial  Reporting
 Standards were applied.
 
-        (f) The applicant shall meet the mandatory holding requirements under [§10]; and
+(f) The applicant shall meet the mandatory holding requirements under [§10]; and
 
-        (g) In addition, the eligibility of the applicant shall be recognized in relation to performing
+(g) In addition, the eligibility of the applicant shall be recognized in relation to performing
 
 the tasks of issuance, listing, and reporting of new-type securities.
 
-    2. Requirements for the issue to be listed: All of the following requirements shall be met.
+2. Requirements for the issue to be listed: All of the following requirements shall be met.
 Provided that, if the issuing price for items (g) or (h) is not available, it may be substituted
 with an appraised value separately approved by the Exchange:
 
-        (a) A product disclosure statement (a document explaining matters separately requested
+(a) A product disclosure statement (a document explaining matters separately requested
 by  the  Exchange,  such  as  the  structure  of  the  securities,  profit  distribution,  early
 termination, maturity, etc.) shall be submitted;
 
-        (b) In the case of investment contract securities, a designated advisor shall be appointed
+(b) In the case of investment contract securities, a designated advisor shall be appointed
 
 in accordance with [§6];
 
-        (c)  In  the  case  of  investment  contract  securities,  the  requirements  for  bankruptcy
+(c)  In  the  case  of  investment  contract  securities,  the  requirements  for  bankruptcy
 remoteness (referring to matters related to investor protection devices described in the
 securities registration statement and investment contracts, etc.) shall be met;
 
-        (d) Electronic registration (excluding electronic registration using a distributed ledger; the
+(d) Electronic registration (excluding electronic registration using a distributed ledger; the
 
 same hereinafter) shall have been completed;
 
+(e) The securities shall have been issued through a public offering or secondary offering;
 
+(f) The total number of listed securities must be 100,000 shares or 100,000 units or more;
 
-
-
-
-
-
-
-
-
-
-
-        (e) The securities shall have been issued through a public offering or secondary offering;
-
-        (f) The total number of listed securities must be 100,000 shares or 100,000 units or more;
-
-        (g) The base market capitalization (referring to the amount calculated by multiplying the
+(g) The base market capitalization (referring to the amount calculated by multiplying the
 number  of  shares  to  be  listed  by  the  issuing  price  at  the  time  of  the  latest  public
 offering  and/or  secondary  offering;  the  same  hereinafter)  must  be  at  least  KRW  3
 billion;
 
-        (h) The issuing price per share or unit must be KRW 5,000 or more;
+(h) The issuing price per share or unit must be KRW 5,000 or more;
 
-        (i) As of the date of application for initial listing, small investors must own at least 25%
+(i) As of the date of application for initial listing, small investors must own at least 25%
 
 of the total number of listed securities; and
 
-        (j) There must not be restrictions on the transfer of securities.
+(j) There must not be restrictions on the transfer of securities.
 
 (3) The Exchange shall comprehensively consider the following matters to determine whether
 it is appropriate to list new-type securities that meet the requirements of paragraph (2):
 
-        (a) Matters related to the preparation of a list of beneficiaries and investors, maturity, early
+(a) Matters related to the preparation of a list of beneficiaries and investors, maturity, early
 
 termination, etc., shall be deemed appropriate for the product;
 
@@ -585,11 +401,11 @@ termination, etc., shall be deemed appropriate for the product;
 
 disclosure statement;
 
-      (c) The securities listed by an initial listing applicant within the past two (2) years shall
+(c) The securities listed by an initial listing applicant within the past two (2) years shall
 
 not have been designated as an issue subject to delisting pursuant to [§15(1)1]; and
 
-      (d) In addition, the listing of new-type securities shall be deemed not detrimental to the
+(d) In addition, the listing of new-type securities shall be deemed not detrimental to the
 
 public interest and investor protection.
 
@@ -611,23 +427,7 @@ Rules to the Exchange.
 (2) Securities to be listed additionally pursuant to paragraph (1) shall satisfy the requirements
 of [§11(2)2(d) and (j)] as of the date of application for supplementary listing.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(3)  The  Exchange  may  reject  a  supplementary  listing  if  it  determines  that  the  issuance  of
+(3)  The  Exchange  may  reject  a  supplementary  listing  if  it  determines  that  the  issuance  of
 securities  to  be  listed  additionally  is  not  in  accordance  with  the  methods  or  procedures
 described in the securities registration statement or product disclosure statement.
 
@@ -652,66 +452,50 @@ the reason for the relevant change takes effect.
 
 1. If a new-type securities listed corporation falls under any of the followings:
 
-    (a) No submission of financial statements, etc.: Where the financial statements, etc. noted
+(a) No submission of financial statements, etc.: Where the financial statements, etc. noted
 
 in [§21] are not submitted by the deadline specified in the same Article.
 
-    (b) Inadequate audit opinion: Where the auditor's audit opinion or review opinion on the
+(b) Inadequate audit opinion: Where the auditor's audit opinion or review opinion on the
 financial statements falls under any of the following. In this case, if the corporation is
 subject to the preparation of consolidated financial statements, the audit  opinion or
 review opinion on the consolidated financial statements is included:
 
-        (i) The audit opinion on the latest fiscal year's financial statements is "qualified"; or
+(i) The audit opinion on the latest fiscal year's financial statements is "qualified"; or
 
-        (ii) The review opinion on the latest semi-annual financial statements is "adverse" or a
+(ii) The review opinion on the latest semi-annual financial statements is "adverse" or a
 
 disclaimer of opinion.
 
-    (c)  Capital  Impairment:  Where  50%  or  more  of  the  corporation's  capital  has  been
+(c)  Capital  Impairment:  Where  50%  or  more  of  the  corporation's  capital  has  been
 impaired as of the end of the latest fiscal year. In this case, for a corporation subject
 to the preparation of consolidated financial statements, the calculation shall be based
 on the capital and total equity (excluding non-controlling interests) in the consolidated
 financial statements.
 
-    (d) Merger, etc.: Where a merger, spin-off, merger after spin-off, or business transfer is
+(d) Merger, etc.: Where a merger, spin-off, merger after spin-off, or business transfer is
 
 being decided on.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2. Where an issue of listed securities falls under any of the following. Provided that items
+2. Where an issue of listed securities falls under any of the following. Provided that items
 
 (a) and (b) shall apply only to investment contract securities:
 
-    (a)  Failure  to  appoint  a  designated  advisor:  Where  a  reason  for  termination  under  the
+(a)  Failure  to  appoint  a  designated  advisor:  Where  a  reason  for  termination  under  the
 designated  advisor  appointment  agreement  arises  within  one  (1)  year  of  listing.
 Provided that this does not apply in cases where ten (10) months or more have passed
 since  listing,  and  the  Exchange  recognizes  that  the  reason  for  termination  is
 unavoidable;
 
-    (b) Failure to meet the requirements for bankruptcy remoteness: Where a reason arises
+(b) Failure to meet the requirements for bankruptcy remoteness: Where a reason arises
 that makes it impossible to fulfill the requirements for bankruptcy remoteness stated
 in the securities registration statement, etc.;
 
-    (c) Inadequate number of securities: Where the total number of listed securities is less
+(c) Inadequate number of securities: Where the total number of listed securities is less
 
 than 100,000 shares or 100,000 units;
 
-    (d) Early termination, etc.: Where early termination, etc. is confirmed pursuant to [§5(4)]
+(d) Early termination, etc.: Where early termination, etc. is confirmed pursuant to [§5(4)]
 
 and delisting is requested.
 
@@ -741,32 +525,17 @@ delisting (excluding the reasons for delisting under item 3) or to apply for del
 
 1. Where a new-type securities listed corporation falls under any of the following:
 
-        (a) No submission of financial statements, etc.: In any of the following cases with regard
+(a) No submission of financial statements, etc.: In any of the following cases with regard
 
 to financial statements;
 
-            (i)  A  new-type  securities  listed  corporation  is  designated  as  an  administrative  issue
+(i)  A  new-type  securities  listed  corporation  is  designated  as  an  administrative  issue
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-pursuant  to [§14(1)1] due to non-submission of financial statements,  etc.  for the
+pursuant  to [§14(1)1] due to non-submission of financial statements,  etc.  for the
 fiscal year and fails to submit the relevant financial statements, etc. within ten (10)
 days from the day following the submission deadline stipulated in [§21(2)]; or
 
-            (ii)  A  new-type  securities  listed  corporation  is  designated  as  an  administrative issue
+(ii)  A  new-type  securities  listed  corporation  is  designated  as  an  administrative issue
 pursuant  to [§14(1)1(a)]  due to non-submission of semi-annual reports, etc., and
 fails to submit the semi-annual report, etc. for the next fiscal year by the submission
 deadline stipulated in [§21(2)].
@@ -776,11 +545,11 @@ falls  under  any  of  the  following.  In  this  case,  if  the  corporation  i
 preparation of consolidated financial statements, the audit opinion on the consolidated
 financial statements shall be included:
 
-        (i) The audit opinion on the latest fiscal year's financial statements is "adverse" or a
+(i) The audit opinion on the latest fiscal year's financial statements is "adverse" or a
 
 disclaimer of opinion; or
 
-        (ii) A new-type securities listed corporation is designated as an administrative issue
+(ii) A new-type securities listed corporation is designated as an administrative issue
 pursuant  to [§14(1)1(b)1] with an audit opinion  of “qualified”, and the auditor’s
 audit opinion on the financial statements is “qualified” even in the latest fiscal year.
 
@@ -801,11 +570,11 @@ are suspended;
 securities  listed  corporation  falls  under  any  of  the  following  cases  in  relation  to  an
 application for initiation of rehabilitation proceedings or an application for bankruptcy:
 
-          (i)  Where  a  new-type  securities  listed  corporation  files  an  application  for  the
+(i)  Where  a  new-type  securities  listed  corporation  files  an  application  for  the
 commencement of rehabilitation procedures or bankruptcy in accordance with the
 Debtor Rehabilitation and Bankruptcy Act; or
 
-          (ii) Where, after a person other than a new-type securities listed corporation files an
+(ii) Where, after a person other than a new-type securities listed corporation files an
 application  for  the  commencement  of  rehabilitation  procedures  or  bankruptcy
 against the relevant listed corporation in accordance with the Debtor Rehabilitation
 and Bankruptcy Act, the reason for the application is not resolved within one (1)
@@ -814,18 +583,7 @@ bankruptcy.
 
 (g)  Suspension  of  business,  etc.:  Where  the  business  of  a  new-type  securities  listed
 
-
-
-
-
-
-
-
-
-
-
-
-corporation  is  suspended  or  it  is  impossible  to  perform  new-type  securities-related
+corporation  is  suspended  or  it  is  impossible  to  perform  new-type  securities-related
 tasks due to administrative dispositions, etc.
 
 (h) Ineligibility of applicant for listing change: Where, when a new-type securities listed
@@ -835,29 +593,29 @@ falls under any of the items from (a) to (g).
 
 2. Where an issue of listed securities falls under any of the following:
 
-        (a) Failure to resolve the reason for designation as an administrative issue: Where, after
+(a) Failure to resolve the reason for designation as an administrative issue: Where, after
 an issue has been designated as an administrative issue for any of the reasons listed in
 [§14(1)2], the reason has not been resolved within the period specified below:
 
-            (i)  Failure  to  appoint  a  designated  advisor:  Where  a  new  designated  advisor  is  not
+(i)  Failure  to  appoint  a  designated  advisor:  Where  a  new  designated  advisor  is  not
 appointed within three (3) months from the date of designation as an administrative
 issue.  Even  if  a  new  advisor  is  appointed,  if  the  designated  advisor  appointment
 period  stipulated  in  Article  6,  Paragraph  4  is  not  met,  it  shall  be deemed  that  the
 reasons for delisting have not been resolved;
 
-            (ii)  Failure  to  meet  the  requirements  for  bankruptcy  remoteness:  Where  the
+(ii)  Failure  to  meet  the  requirements  for  bankruptcy  remoteness:  Where  the
 requirements for bankruptcy remoteness are not met within three (3) months from
 the date of designation as an administrative issue; or
 
-            (iii)  Inadequate  number  of  listed  securities:  Where  the  reason  for  designation  as  an
+(iii)  Inadequate  number  of  listed  securities:  Where  the  reason  for  designation  as  an
 administrative  issue  is  not  resolved  within  six  (6)  months  from  the  date  of
 designation as an administrative issue.
 
-        (b) Restrictions on transfer of securities: Where there is a decision restricting the transfer
+(b) Restrictions on transfer of securities: Where there is a decision restricting the transfer
 
 of securities; or
 
-        (c) Termination of trust, etc.: Where, for non-monetary trust beneficiary certificates, the
+(c) Termination of trust, etc.: Where, for non-monetary trust beneficiary certificates, the
 trust is terminated or the trust company becomes insolvent or bankrupt.
 
 3. Where a request for delisting is made to the Exchange as the final trading day noted in
@@ -876,22 +634,7 @@ the Exchange may permit trading before delisting pursuant to [§9] of the Listin
 (1) The last trading day for new-type securities with a maturity date shall be four trading days
 prior to the maturity date.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2) Notwithstanding paragraph (1), the Exchange may, if necessary for market management,
+(2) Notwithstanding paragraph (1), the Exchange may, if necessary for market management,
 set a different last trading day.
 
 §17. Suspension of Trading
@@ -911,7 +654,7 @@ of the listed securities;
 
 5. Where a listed company applies for delisting due to early termination, etc.; or
 
-    6.  Other  cases  where  the  Exchange  deems  it  necessary  for  the  public  interest,  investor
+6.  Other  cases  where  the  Exchange  deems  it  necessary  for  the  public  interest,  investor
 
 protection, and market management.
 
@@ -940,26 +683,7 @@ the relevant listed securities have been delisted.
 these Regulations or has not submitted the relevant documents, the Exchange may announce
 such fact.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Chapter III. Reporting and Disclosure of New Types Securities Listed Corporations
+Chapter III. Reporting and Disclosure of New Types Securities Listed Corporations
 
 §19. General Operation of Reporting and Disclosure
 
@@ -992,11 +716,11 @@ meets the qualifications specified in the Enforcement Rules and who can represen
 listed corporation in all reporting and disclosure matters, and report and disclose in accordance
 with these regulations.
 
-    (a) Where less than three years have passed after the date of initial listing of the new-type
+(a) Where less than three years have passed after the date of initial listing of the new-type
 
 securities; or
 
-    (b) Where a new-type securities listed corporation is a small and medium-sized enterprise
+(b) Where a new-type securities listed corporation is a small and medium-sized enterprise
 (SME) as defined in Article 2 of the Framework Act on Small and Medium-sized
 Enterprises (SMEs).
 
@@ -1007,19 +731,7 @@ the same hereinafter), and disclosure agent (hereinafter referred to as “discl
 it shall notify the Exchange of such fact in writing without delay. In the case of a disclosure
 agent, it shall notify the Exchange of such fact by attaching a document proving that it has been
 
-
-
-
-
-
-
-
-
-
-
-
-
-granted authority to represent the relevant listed corporation.
+granted authority to represent the relevant listed corporation.
 
 (4) Disclosure officers, etc. shall complete training on reporting and disclosure work separately
 conducted  by  the  Exchange  within  three  (3)  months  of  the  date  of  designation  or  change
@@ -1069,24 +781,11 @@ scale  profit  distribution  amount  exceeds  the  price  limit  per  security  
 adjustment of base price, the reporting deadline shall be 10 trading days prior to the date
 specified in [§105] of the Business Regulations;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-    5. Occurrence of a cause that has a material impact on securities, such as the acquisition,
+5. Occurrence of a cause that has a material impact on securities, such as the acquisition,
 disposal, loss or damage of assets subject to rights, or the execution, change or termination
 of a business contract: without delay; or
 
-    6. Other cases that, as a case that the Exchange deems it necessary for listing management,
+6. Other cases that, as a case that the Exchange deems it necessary for listing management,
 
 are stipulated in the Enforcement Rules: without delay.
 
@@ -1124,25 +823,11 @@ repeatedly  violates  the  reporting  obligations  under  [§21]  and  [§22]  o
 requests  for  explanation  under  [§23],  the  Exchange  may  require  each  of  the  following  to
 prevent recurrence:
 
-    1. Submission of an improvement plan;
+1. Submission of an improvement plan;
 
 2. Replacement of the disclosure officer, etc.; or
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    3. Appointment of a disclosure agent (for a period of not more than one (1) year).
+3. Appointment of a disclosure agent (for a period of not more than one (1) year).
 
 (2) A new-type securities listed corporation shall submit an improvement plan to the Exchange
 within ten (10) trading days after receiving the request under paragraph (1). In this case, the
@@ -1185,26 +870,7 @@ For new-type securities, there shall be no off-hours market other than the regul
 regular market to the time of market closing (hereinafter referred to as “order receiving hours”
 and includes changed order receiving hours pursuant to the Business Regulations).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§28. Limits on Quotation Prices
+§28. Limits on Quotation Prices
 
 (1) The quotation prices of new-type securities shall neither be higher than the price obtained
 by adding the price change limit (hereinafter referred to as “upper limit price”) to the base price
@@ -1252,23 +918,11 @@ method of the relevant issue to the call auction under paragraph (1) or expand t
 range  participating  in  call  auctions  (hereinafter  referred  to  as  “change  of  trade  execution
 method, etc.”).
 
-
-
-
-
-
-
-
-
-
-
-
-
-    1. Case of rising or falling by the rate specified in the Enforcement Rules or higher or lower
+1. Case of rising or falling by the rate specified in the Enforcement Rules or higher or lower
 based  on  the  latest  price  as  of  the  time  of  receipt  of  the  relevant  quotation  during  the
 trading hours of the regular session (excluding the time of deciding the opening price); or
 
-    2. Case of rising or falling by the rate specified in the Enforcement Rules or higher or lower
+2. Case of rising or falling by the rate specified in the Enforcement Rules or higher or lower
 based on the latest price as of the time of receipt of the relevant quotation (limited to the
 price determined by the method of a call auction, and referring to the base price of the day
 when determining the opening price) during the trading hours of the regular session.
@@ -1295,16 +949,16 @@ the case of a sale.
 (2) Notwithstanding paragraph (1), a member may not collect the good faith deposit in any of
 the following cases:
 
-    1. Where, after a selling order of a customer that resolves the outstanding balance is executed,
+1. Where, after a selling order of a customer that resolves the outstanding balance is executed,
 
 a purchase order within the amount of the relevant selling amount is placed;
 
-    2. Where, for securities of which a purchase order is executed or those that can be confirmed
+2. Where, for securities of which a purchase order is executed or those that can be confirmed
 by a member to be electronically registered in the customer account book under Article
 22, Paragraph 2 of the Electronic Securities Act by the settlement date, a selling order
 within the number of the relevant securities is placed; or
 
-    3. Where an order to buy or sell is placed from a customer who intends to make settlement
+3. Where an order to buy or sell is placed from a customer who intends to make settlement
 
 by receiving a margin loan or borrowing securities.
 
@@ -1313,24 +967,7 @@ by receiving a margin loan or borrowing securities.
 When a member first receives an order to buy or sell from a customer (including the customer
 who placed the order to an investment brokerage company, if the member receives the order
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-from such investment brokerage company), the member shall notify the customer of the market
+from such investment brokerage company), the member shall notify the customer of the market
 characteristics  and  investment  risks  using  one  (1)  of  the  methods  in  each  subparagraph  of
 [§82(1)] of the Business Regulations and obtain the customer's confirmation of the contents of
 the notification. Provided that this does not apply if the customer is a professional investor as
@@ -1355,37 +992,7 @@ matters shall be prescribed by the Enforcement Rules.
 Matters necessary for implementing these Regulations shall be prescribed by the Enforcement
 Rules.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(Regulation No. 2358 / September 22, 2025)
+(Regulation No. 2358 / September 22, 2025)
 
 ADDENDA
 

@@ -2,7 +2,7 @@
 id: "210016572"
 title: "정관"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:59:14.654205Z"
+collected_at: "2026-07-03T21:13:52.602083Z"
 content_hash: "915d8b6428b5eb0f091b0a8d758175a8541e400157d973f63257d60087505d34"
 document_type: "rule"
 language: "ko"

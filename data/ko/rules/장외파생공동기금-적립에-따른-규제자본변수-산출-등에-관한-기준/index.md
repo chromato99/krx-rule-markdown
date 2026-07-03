@@ -2,7 +2,7 @@
 id: "204847787"
 title: "장외파생공동기금 적립에 따른 규제자본변수 산출 등에 관한 기준"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:02:01.914985Z"
+collected_at: "2026-07-03T21:16:41.359311Z"
 content_hash: "1ff6fceddd32822731833e145cc3df79bc7e53d7d19aeee76b4ca1a61a4a25c6"
 document_type: "rule"
 language: "ko"
@@ -26,7 +26,8 @@ attachments:
     converted_text_chars: 4282
     converted_non_space_chars: 3540
     table_row_count: 1
-    formula_hint_count: 28
+    formula_block_count: 17
+    formula_hint_count: 45
 ---
 
 **제1조(목적)**이 기준은 청산회원인 은행이「장외파생상품 청산업무규정」(이하 "규정"이라 한다)제26조에 따라 적립한 장외파생공동기금(이하 "공동기금"이라 한다)의 익스포져에 대한 규제자본을 「은행업감독업무시행세칙」 별표 3의 310. 에 따라 산출하기 위하여 필요한 변수(이하 "규제자본변수"라 한다)를 중앙청산소인 한국거래소(이하 "거래소"라 한다)가 「은행업감독업무시행세칙」 별표 3의 311.에 따라 산출·제공 등을 함에 있어 필요한 사항을 규정함을 목적으로 한다.<개정 2017. 3. 9.>

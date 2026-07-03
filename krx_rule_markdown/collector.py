@@ -199,7 +199,7 @@ class Client:
         for attempt in range(4):
             self.throttle()
             req = request.Request(self.base_url + path, data=data, method=method)
-            req.add_header("User-Agent", "krx-rule-mcp/0.1")
+            req.add_header("User-Agent", "krx-rule-markdown/0.1")
             if data is not None:
                 req.add_header("Content-Type", "application/x-www-form-urlencoded")
             if self.csrf:
@@ -274,7 +274,7 @@ def parse_recent_items(body: str) -> list[Item]:
 def parse_rule_document(body: str, item: Item, base_url: str) -> Document:
     title = strip_tags(first_match(r"<p\b[^>]*class=[\"'][^\"']*\btitle\b[^\"']*[\"'][^>]*>(.*?)</p>", body)) or item.title
     inner = element_by_id(body, "innerbody")
-    body_md = html_to_markdown(inner or body)
+    body_md = html_to_markdown(inner or body, base_url=base_url)
     jang = strip_tags(first_match(r"<p\b[^>]*class=[\"'][^\"']*\bjang\b[^\"']*[\"'][^>]*>(.*?)</p>", body))
     effective = first_non_empty(extract_effective_date(jang), item.effective_date)
     published = first_non_empty(extract_promul_date(jang), item.published_date)
@@ -320,7 +320,7 @@ def parse_notice_document(body: str, item: Item, base_url: str) -> Document:
         collected_at=now_utc(),
         attachments=parse_notice_attachments(body, item),
         document_type=DOCUMENT_NOTICE,
-        body=html_to_markdown(content),
+        body=html_to_markdown(content, base_url=base_url),
     )
     doc.content_hash = hash_text(doc.title + "\n" + doc.body)
     return doc
@@ -328,7 +328,7 @@ def parse_notice_document(body: str, item: Item, base_url: str) -> Document:
 
 def parse_rule_attachments(body: str, item: Item) -> list[Attachment]:
     attachments: list[Attachment] = []
-    seen = {(att.server_file, att.folder) for att in attachments}
+    seen: set[tuple[str, str]] = set()
     for att in parse_direct_download_attachments(body, item):
         key = (att.server_file, att.folder)
         if key in seen:

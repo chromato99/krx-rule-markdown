@@ -2,7 +2,7 @@
 id: "210179748"
 title: "유가증권시장 공시규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:56:26.097365Z"
+collected_at: "2026-07-03T21:10:58.136822Z"
 content_hash: "813d47aa574d8b7001af124a5753fdb841ed3be51f5106a5088eb7f245fe1c40"
 document_type: "rule"
 language: "ko"
@@ -138,7 +138,6 @@ attachments:
     converted_text_chars: 405
     converted_non_space_chars: 325
     table_row_count: 1
-    formula_hint_count: 2
   - id: "210179748-202411140000022700000013010-byl-hwp"
     title: "[별지 제6호 서식] 공시 유보 신청서<개정 2012. 4. 19.>"
     file_name: "유가증권시장 공시규정 시행세칙_46차_공시유보신청서(개정2012.4.19).hwp"

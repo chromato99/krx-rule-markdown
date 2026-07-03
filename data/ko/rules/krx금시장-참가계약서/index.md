@@ -2,7 +2,7 @@
 id: "204847987"
 title: "KRX금시장 참가계약서"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:02:28.867763Z"
+collected_at: "2026-07-03T21:17:07.922274Z"
 content_hash: "a8e712ed1d2073b8684589db64dffd3f829837cc5d05c015df7caf40adece6b9"
 document_type: "rule"
 language: "ko"

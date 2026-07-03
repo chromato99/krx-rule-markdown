@@ -2,7 +2,7 @@
 id: "204847401"
 title: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:02:30.221418Z"
+collected_at: "2026-07-03T21:17:09.339166Z"
 content_hash: "c48f191eeb25a8d3655c88bdbb6e9f8aea4b9daf65bc85dc066b9d8ca24e7086"
 document_type: "rule"
 language: "ko"
@@ -26,7 +26,6 @@ attachments:
     converted_text_chars: 1966
     converted_non_space_chars: 1517
     table_row_count: 14
-    formula_hint_count: 1
   - id: "204847401-201301100000003130000194002-byl-hwp"
     title: "[별지 제2호] 할당관세 적용 추천서"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_할당관세적용추천서.hwp"

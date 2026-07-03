@@ -2,7 +2,7 @@
 id: "204844636"
 title: "분쟁조정규정시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:01:08.032806Z"
+collected_at: "2026-07-03T21:15:47.770943Z"
 content_hash: "6e732f1d4baab5210b9240e474b3e78ab9389d0b4e6e6e98192dee9df70f641e"
 document_type: "rule"
 language: "ko"

@@ -2,7 +2,7 @@
 id: "204847707"
 title: "거래소거래확인시스템 운영 등에 관한 지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:01:25.442351Z"
+collected_at: "2026-07-03T21:16:05.513450Z"
 content_hash: "8a45726db3b58f1b496041afd02bb94a427d2a74f6ad70c7fe10d6f27d535d81"
 document_type: "rule"
 language: "ko"

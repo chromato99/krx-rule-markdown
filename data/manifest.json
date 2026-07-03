@@ -1,13 +1,13 @@
 {
   "version": "0.1.0",
-  "generated_at": "2026-07-03T15:04:45.997343Z",
+  "generated_at": "2026-07-03T21:28:17.708772Z",
   "source": "https://rule.krx.co.kr",
   "documents": [
     {
       "id": "204847935",
       "title": "ESG채권 정보플랫폼 운영지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:00:59.178837Z",
+      "collected_at": "2026-07-03T21:15:38.672713Z",
       "content_hash": "8916573581c745bfd03d40f2320079f572edd959e0f35c252bec7c108d9510f2",
       "document_type": "rule",
       "language": "ko",
@@ -31,8 +31,7 @@
           "quality_score": 100,
           "converted_text_chars": 2642,
           "converted_non_space_chars": 2109,
-          "table_row_count": 3,
-          "formula_hint_count": 3
+          "table_row_count": 3
         },
         {
           "id": "204847935-202404300000008790000270002-byl-hwp",
@@ -59,7 +58,7 @@
       "id": "204847764",
       "title": "KRX금시장 매매거래용 금지금 관세면제 추천요령",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:02:04.489671Z",
+      "collected_at": "2026-07-03T21:16:44.070510Z",
       "content_hash": "69faa023685badbe67d90d1b740736739477bc7c44ca84d99ec41e9e1f205c74",
       "document_type": "rule",
       "language": "ko",
@@ -164,7 +163,7 @@
       "id": "204847714",
       "title": "KRX금시장 시장감시 및 분쟁조정 규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:02:17.749930Z",
+      "collected_at": "2026-07-03T21:16:56.778539Z",
       "content_hash": "579783a1a8a0ba1e95ae99b9108b5707d6b3dc017f63873604c3fb8a49caa002",
       "document_type": "rule",
       "language": "ko",
@@ -177,7 +176,7 @@
       "id": "204847757",
       "title": "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:59:30.642004Z",
+      "collected_at": "2026-07-03T21:14:09.606544Z",
       "content_hash": "3063cdd3d0cdb38ad2ea2338e47f235b18e8a723a074d6a21a529e550ca6f90b",
       "document_type": "rule",
       "language": "ko",
@@ -381,8 +380,7 @@
           "quality_score": 100,
           "converted_text_chars": 621,
           "converted_non_space_chars": 475,
-          "table_row_count": 4,
-          "formula_hint_count": 1
+          "table_row_count": 4
         },
         {
           "id": "204847757-202410150000022550000233012-byl-hwp",
@@ -417,8 +415,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 496,
-          "converted_non_space_chars": 362,
-          "formula_hint_count": 3
+          "converted_non_space_chars": 362
         },
         {
           "id": "204847757-202410150000022550000233014-byl-hwp",
@@ -453,8 +450,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 456,
-          "converted_non_space_chars": 332,
-          "formula_hint_count": 2
+          "converted_non_space_chars": 332
         },
         {
           "id": "204847757-202410150000022550000233016-byl-hwp",
@@ -656,7 +652,7 @@
       "id": "210188671",
       "title": "KRX금시장 운영규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:56:05.617930Z",
+      "collected_at": "2026-07-03T21:10:38.211896Z",
       "content_hash": "76b6e42571b9fe1f7224f594e652d069798946268379bac9abe12c50fd4069d3",
       "document_type": "rule",
       "language": "ko",
@@ -669,7 +665,7 @@
       "id": "210188913",
       "title": "KRX금시장 운영규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:56:07.840692Z",
+      "collected_at": "2026-07-03T21:10:39.821523Z",
       "content_hash": "31f8632aca62bc912b9224b0be6d3f8f9d8580d25e99748ee0ef0f78667214e4",
       "document_type": "rule",
       "language": "ko",
@@ -818,8 +814,7 @@
           "quality_score": 100,
           "converted_text_chars": 509,
           "converted_non_space_chars": 429,
-          "table_row_count": 1,
-          "formula_hint_count": 1
+          "table_row_count": 1
         },
         {
           "id": "210188913-202406250000022380000232009-byl-hwp",
@@ -900,7 +895,7 @@
       "id": "204847987",
       "title": "KRX금시장 참가계약서",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:02:28.867763Z",
+      "collected_at": "2026-07-03T21:17:07.922274Z",
       "content_hash": "a8e712ed1d2073b8684589db64dffd3f829837cc5d05c015df7caf40adece6b9",
       "document_type": "rule",
       "language": "ko",
@@ -913,7 +908,7 @@
       "id": "204847392",
       "title": "KRX석유시장 운영규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:01:34.094218Z",
+      "collected_at": "2026-07-03T21:16:14.047446Z",
       "content_hash": "db04a30bf8e2285a31d630d1ab973df371e98daa3b1d3c28c303abd902405d69",
       "document_type": "rule",
       "language": "ko",
@@ -926,7 +921,7 @@
       "id": "210084351",
       "title": "KRX석유시장 운영규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:58:26.003360Z",
+      "collected_at": "2026-07-03T21:13:02.102201Z",
       "content_hash": "d6555403a009efac5cc69b4fc74268018b325e911bb1a0519f0ed741843db2a2",
       "document_type": "rule",
       "language": "ko",
@@ -1141,7 +1136,7 @@
       "id": "204848017",
       "title": "KRX석유시장 이용계약서",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:02:16.572382Z",
+      "collected_at": "2026-07-03T21:16:55.326745Z",
       "content_hash": "60d2c7b48cfcdf3f734ea48e355f042a91044da415e096f6ade9471891e24883",
       "document_type": "rule",
       "language": "ko",
@@ -1154,7 +1149,7 @@
       "id": "204847877",
       "title": "KSM 운영지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:00:40.301508Z",
+      "collected_at": "2026-07-03T21:15:19.348427Z",
       "content_hash": "377f8cbe980b20602b6879e643950432dfc25763caabec79e1bca901db7728c7",
       "document_type": "rule",
       "language": "ko",
@@ -1222,7 +1217,7 @@
       "id": "204847707",
       "title": "거래소거래확인시스템 운영 등에 관한 지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:01:25.442351Z",
+      "collected_at": "2026-07-03T21:16:05.513450Z",
       "content_hash": "8a45726db3b58f1b496041afd02bb94a427d2a74f6ad70c7fe10d6f27d535d81",
       "document_type": "rule",
       "language": "ko",
@@ -1273,7 +1268,7 @@
       "id": "204847960",
       "title": "거래정보저장업무규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:01:53.327161Z",
+      "collected_at": "2026-07-03T21:16:33.259233Z",
       "content_hash": "43a4998d3dc2b6df7c14b9e554c232fb677fe49976b7c4ab5d4be146aaa7f0e0",
       "document_type": "rule",
       "language": "ko",
@@ -1286,7 +1281,7 @@
       "id": "210024015",
       "title": "거래정보저장업무규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:58:42.857440Z",
+      "collected_at": "2026-07-03T21:13:18.792258Z",
       "content_hash": "c8314e0eb25435cc746b9969423bfba9428985791bf054ed53a59cef54864d2e",
       "document_type": "rule",
       "language": "ko",
@@ -1310,8 +1305,7 @@
           "quality_score": 100,
           "converted_text_chars": 180389,
           "converted_non_space_chars": 133624,
-          "table_row_count": 1858,
-          "formula_hint_count": 4
+          "table_row_count": 1858
         },
         {
           "id": "210024015-202409200000022490000294002-byl-hwp",
@@ -1365,8 +1359,7 @@
           "quality_score": 100,
           "converted_text_chars": 2680,
           "converted_non_space_chars": 2091,
-          "table_row_count": 40,
-          "formula_hint_count": 4
+          "table_row_count": 40
         },
         {
           "id": "210024015-202409200000022490000294005-byl-hwp",
@@ -1420,8 +1413,7 @@
           "quality_score": 100,
           "converted_text_chars": 2325,
           "converted_non_space_chars": 1775,
-          "table_row_count": 40,
-          "formula_hint_count": 4
+          "table_row_count": 40
         },
         {
           "id": "210024015-202409200000022490000294008-byl-hwp",
@@ -1457,8 +1449,7 @@
           "quality_score": 100,
           "converted_text_chars": 902,
           "converted_non_space_chars": 772,
-          "table_row_count": 1,
-          "formula_hint_count": 1
+          "table_row_count": 1
         },
         {
           "id": "210024015-202409200000022490000294010-byl-hwp",
@@ -1485,7 +1476,7 @@
       "id": "210217736",
       "title": "거래증거금 및 청산증거금 현금 운용지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:54:15.740705Z",
+      "collected_at": "2026-07-03T21:08:47.128596Z",
       "content_hash": "5e2e405ead6294007391903dfb25c2616860cd84c1761f6f79dd10df7cb63e23",
       "document_type": "rule",
       "language": "ko",
@@ -1518,7 +1509,7 @@
       "id": "210205830",
       "title": "금리·통화·일반파생상품 시장조성 운영지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:52:38.813474Z",
+      "collected_at": "2026-07-03T21:07:09.476328Z",
       "content_hash": "11be7116720524b20b5fc2450cd6234ae0550417ab842c81be85954e4f2d15cd",
       "document_type": "rule",
       "language": "ko",
@@ -1593,10 +1584,11 @@
           "size": 56320,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 11299,
+          "converted_text_chars": 11295,
           "converted_non_space_chars": 8828,
           "table_row_count": 48,
-          "formula_hint_count": 27
+          "formula_block_count": 5,
+          "formula_hint_count": 32
         },
         {
           "id": "210205830-210077901-hwp",
@@ -1650,8 +1642,7 @@
           "quality_score": 100,
           "converted_text_chars": 534,
           "converted_non_space_chars": 471,
-          "table_row_count": 1,
-          "formula_hint_count": 2
+          "table_row_count": 1
         },
         {
           "id": "210205830-210077929-hwp",
@@ -1678,7 +1669,7 @@
       "id": "204847819",
       "title": "배출권 거래시장 시장감시 및 분쟁조정 규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:01:43.446973Z",
+      "collected_at": "2026-07-03T21:16:23.723243Z",
       "content_hash": "6fe4cba40b6bee40878c1f9247db035cd4a4ca91fc5dafcc3e03029851a371ef",
       "document_type": "rule",
       "language": "ko",
@@ -1691,7 +1682,7 @@
       "id": "204847824",
       "title": "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:00:08.149490Z",
+      "collected_at": "2026-07-03T21:14:47.135466Z",
       "content_hash": "816f06d4094f55da6843326b5910e2c3a003290ad2e915744fa3fa54365ebc17",
       "document_type": "rule",
       "language": "ko",
@@ -1823,8 +1814,7 @@
           "quality_score": 100,
           "converted_text_chars": 623,
           "converted_non_space_chars": 476,
-          "table_row_count": 4,
-          "formula_hint_count": 1
+          "table_row_count": 4
         },
         {
           "id": "204847824-202410150000022540000246008-byl-hwp",
@@ -1859,8 +1849,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 499,
-          "converted_non_space_chars": 363,
-          "formula_hint_count": 3
+          "converted_non_space_chars": 363
         },
         {
           "id": "204847824-202410150000022540000246010-byl-hwp",
@@ -1895,8 +1884,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 459,
-          "converted_non_space_chars": 334,
-          "formula_hint_count": 2
+          "converted_non_space_chars": 334
         },
         {
           "id": "204847824-202410150000022540000246012-byl-hwp",
@@ -2098,7 +2086,7 @@
       "id": "210132254",
       "title": "배출권 거래시장 운영규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:58:06.341866Z",
+      "collected_at": "2026-07-03T21:12:41.672124Z",
       "content_hash": "ddaaf071171863023218abcff3dd20f93dc491b7b7795dee2f1f970d349e7a79",
       "document_type": "rule",
       "language": "ko",
@@ -2111,7 +2099,7 @@
       "id": "210132992",
       "title": "배출권 거래시장 운영규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:57:06.376233Z",
+      "collected_at": "2026-07-03T21:11:40.225715Z",
       "content_hash": "af481c8b2fa245362d9aa6282413eae947014c5196ec224eba155d24f75bf3f8",
       "document_type": "rule",
       "language": "ko",
@@ -2216,7 +2204,7 @@
       "id": "210015705",
       "title": "분쟁조정규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:59:20.453267Z",
+      "collected_at": "2026-07-03T21:13:58.979219Z",
       "content_hash": "6ee8202c567313bd319548cfc01614a23194c20110611eaee3c5b6043eccee00",
       "document_type": "rule",
       "language": "ko",
@@ -2229,7 +2217,7 @@
       "id": "204844636",
       "title": "분쟁조정규정시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:01:08.032806Z",
+      "collected_at": "2026-07-03T21:15:47.770943Z",
       "content_hash": "6e732f1d4baab5210b9240e474b3e78ab9389d0b4e6e6e98192dee9df70f641e",
       "document_type": "rule",
       "language": "ko",
@@ -2419,7 +2407,7 @@
       "id": "204847401",
       "title": "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:02:30.221418Z",
+      "collected_at": "2026-07-03T21:17:09.339166Z",
       "content_hash": "c48f191eeb25a8d3655c88bdbb6e9f8aea4b9daf65bc85dc066b9d8ca24e7086",
       "document_type": "rule",
       "language": "ko",
@@ -2443,8 +2431,7 @@
           "quality_score": 100,
           "converted_text_chars": 1966,
           "converted_non_space_chars": 1517,
-          "table_row_count": 14,
-          "formula_hint_count": 1
+          "table_row_count": 14
         },
         {
           "id": "204847401-201301100000003130000194002-byl-hwp",
@@ -2579,7 +2566,7 @@
       "id": "204846763",
       "title": "소송지원 운영지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:02:21.878793Z",
+      "collected_at": "2026-07-03T21:17:01.122342Z",
       "content_hash": "12a2ae0420b83d10eb78bc29e9256636a3154895f86212fe90bb7ac16c523503",
       "document_type": "rule",
       "language": "ko",
@@ -2656,8 +2643,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 730,
-          "converted_non_space_chars": 535,
-          "formula_hint_count": 1
+          "converted_non_space_chars": 535
         }
       ],
       "path": "ko/rules/소송지원-운영지침/index.md"
@@ -2666,7 +2652,7 @@
       "id": "210025875",
       "title": "손해배상공동기금 관리지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:59:24.109151Z",
+      "collected_at": "2026-07-03T21:14:02.969148Z",
       "content_hash": "5ec3e813288e1c9a062efccd9d75f55e27f7c7c0fca2ceeb89a24e718382f008",
       "document_type": "rule",
       "language": "ko",
@@ -2717,7 +2703,7 @@
       "id": "210162282",
       "title": "시장감시규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:56:49.655861Z",
+      "collected_at": "2026-07-03T21:11:22.912809Z",
       "content_hash": "4deb5f394c83f868923bbb57bf7cfd0e77424c6644f4b96f1866f28337e06b2f",
       "document_type": "rule",
       "language": "ko",
@@ -2730,7 +2716,7 @@
       "id": "210222386",
       "title": "시장감시규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:53:22.226059Z",
+      "collected_at": "2026-07-03T21:07:53.741662Z",
       "content_hash": "b05755aa9304036a9ee89e2f7762392d85a931b3ff76332075aeb1c7a1c8e372",
       "document_type": "rule",
       "language": "ko",
@@ -2826,8 +2812,7 @@
           "quality_score": 100,
           "converted_text_chars": 728,
           "converted_non_space_chars": 565,
-          "table_row_count": 1,
-          "formula_hint_count": 1
+          "table_row_count": 1
         },
         {
           "id": "210222386-202410150000022530000006008-byl-hwp",
@@ -2953,8 +2938,7 @@
           "quality_score": 100,
           "converted_text_chars": 2418,
           "converted_non_space_chars": 1561,
-          "table_row_count": 1,
-          "formula_hint_count": 1
+          "table_row_count": 1
         },
         {
           "id": "210222386-210036234-hwp",
@@ -2972,8 +2956,7 @@
           "quality_score": 100,
           "converted_text_chars": 501,
           "converted_non_space_chars": 430,
-          "table_row_count": 1,
-          "formula_hint_count": 1
+          "table_row_count": 1
         },
         {
           "id": "210222386-210036248-hwp",
@@ -2991,8 +2974,7 @@
           "quality_score": 100,
           "converted_text_chars": 384,
           "converted_non_space_chars": 314,
-          "table_row_count": 1,
-          "formula_hint_count": 1
+          "table_row_count": 1
         },
         {
           "id": "210222386-210068401-hwp",
@@ -3009,8 +2991,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 606,
-          "converted_non_space_chars": 454,
-          "formula_hint_count": 2
+          "converted_non_space_chars": 454
         },
         {
           "id": "210222386-202410150000022530000006017-byl-hwp",
@@ -3028,8 +3009,7 @@
           "quality_score": 100,
           "converted_text_chars": 535,
           "converted_non_space_chars": 398,
-          "table_row_count": 5,
-          "formula_hint_count": 1
+          "table_row_count": 5
         },
         {
           "id": "210222386-202410150000022530000006020-byl-hwp",
@@ -3047,8 +3027,7 @@
           "quality_score": 100,
           "converted_text_chars": 403,
           "converted_non_space_chars": 312,
-          "table_row_count": 3,
-          "formula_hint_count": 1
+          "table_row_count": 3
         },
         {
           "id": "210222386-202410150000022530000006021-byl-hwp",
@@ -3066,8 +3045,7 @@
           "quality_score": 100,
           "converted_text_chars": 855,
           "converted_non_space_chars": 671,
-          "table_row_count": 5,
-          "formula_hint_count": 1
+          "table_row_count": 5
         },
         {
           "id": "210222386-202410150000022530000006022-byl-hwp",
@@ -3085,8 +3063,7 @@
           "quality_score": 100,
           "converted_text_chars": 583,
           "converted_non_space_chars": 425,
-          "table_row_count": 7,
-          "formula_hint_count": 1
+          "table_row_count": 7
         },
         {
           "id": "210222386-210068447-hwp",
@@ -3103,8 +3080,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 609,
-          "converted_non_space_chars": 461,
-          "formula_hint_count": 2
+          "converted_non_space_chars": 461
         },
         {
           "id": "210222386-202410150000022530000006024-byl-hwp",
@@ -3158,8 +3134,7 @@
           "quality_score": 100,
           "converted_text_chars": 916,
           "converted_non_space_chars": 665,
-          "table_row_count": 7,
-          "formula_hint_count": 2
+          "table_row_count": 7
         },
         {
           "id": "210222386-202410150000022530000006027-byl-hwp",
@@ -3232,7 +3207,7 @@
           "converted_text_chars": 2278,
           "converted_non_space_chars": 1766,
           "table_row_count": 8,
-          "formula_hint_count": 12
+          "formula_hint_count": 2
         }
       ],
       "path": "ko/rules/시장감시규정-시행세칙/index.md"
@@ -3241,7 +3216,7 @@
       "id": "210124215",
       "title": "신종증권시장 운영규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:58:07.653292Z",
+      "collected_at": "2026-07-03T21:12:42.839418Z",
       "content_hash": "24c366ca720158fce3f5f8cfec2f715a37658e85abda5feda3697bd38e3e5a0c",
       "document_type": "rule",
       "language": "ko",
@@ -3254,7 +3229,7 @@
       "id": "210136803",
       "title": "신종증권시장 운영규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:57:22.790821Z",
+      "collected_at": "2026-07-03T21:11:57.413500Z",
       "content_hash": "80a8e8251897ed13facc783b5a028b38897357cd1d5d4b31cf28335b08595b9f",
       "document_type": "rule",
       "language": "ko",
@@ -3278,7 +3253,7 @@
           "quality_score": 100,
           "converted_text_chars": 886,
           "converted_non_space_chars": 669,
-          "formula_hint_count": 2
+          "formula_hint_count": 1
         },
         {
           "id": "210136803-210136989-hwp",
@@ -3475,7 +3450,7 @@
           "converted_text_chars": 617,
           "converted_non_space_chars": 524,
           "table_row_count": 1,
-          "formula_hint_count": 2
+          "formula_hint_count": 1
         },
         {
           "id": "210136803-210137022-hwp",
@@ -3520,7 +3495,7 @@
       "id": "210227471",
       "title": "유가증권시장 공시규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:45:29.502108Z",
+      "collected_at": "2026-07-03T20:59:52.438345Z",
       "content_hash": "3a82cd69db129482a6bc1f45076af09684f5c3da50b48f30989ff63e9ec5c3ec",
       "document_type": "rule",
       "language": "ko",
@@ -3553,7 +3528,7 @@
       "id": "210179748",
       "title": "유가증권시장 공시규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:56:26.097365Z",
+      "collected_at": "2026-07-03T21:10:58.136822Z",
       "content_hash": "813d47aa574d8b7001af124a5753fdb841ed3be51f5106a5088eb7f245fe1c40",
       "document_type": "rule",
       "language": "ko",
@@ -3703,8 +3678,7 @@
           "quality_score": 100,
           "converted_text_chars": 405,
           "converted_non_space_chars": 325,
-          "table_row_count": 1,
-          "formula_hint_count": 2
+          "table_row_count": 1
         },
         {
           "id": "210179748-202411140000022700000013010-byl-hwp",
@@ -3767,7 +3741,7 @@
       "id": "204844585",
       "title": "유가증권시장 공정공시 운영기준",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:00:52.945962Z",
+      "collected_at": "2026-07-03T21:15:31.927291Z",
       "content_hash": "aa600761ab86b7d4207fbe018e627f3d93f049e141f4e6fb1d40977fcbe75e47",
       "document_type": "rule",
       "language": "ko",
@@ -3780,7 +3754,7 @@
       "id": "210069181",
       "title": "유가증권시장 불성실공시 신고 및 포상에 관한 기준",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:59:06.586223Z",
+      "collected_at": "2026-07-03T21:13:44.052592Z",
       "content_hash": "cd14087705b2df0bdf419c1ed3fbf2f6f4a231f956d298702c7fba36425465aa",
       "document_type": "rule",
       "language": "ko",
@@ -3831,8 +3805,8 @@
       "id": "210220143",
       "title": "유가증권시장 상장규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:45:42.473363Z",
-      "content_hash": "7df3b5efa06038d2235495b240b382965c4296cf883d66603e6c75a96a25dca5",
+      "collected_at": "2026-07-03T21:00:05.288835Z",
+      "content_hash": "40bad45b1f708efc0161d602241d0c1ef87536d761a84e224bbcd76cd4a7fb14",
       "document_type": "rule",
       "language": "ko",
       "category": "업무규정 / 유가증권시장규정",
@@ -3844,8 +3818,8 @@
       "id": "210222644",
       "title": "유가증권시장 상장규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:46:07.611893Z",
-      "content_hash": "05b0f5a8e1d340bff4db064490b6a31c4360476fc1fc9f61e8c1614dbcfc292d",
+      "collected_at": "2026-07-03T21:00:31.407133Z",
+      "content_hash": "ab1c5d909e8c2221f54707137b14af1fdea69ba6e034fa3369e11286026c94fe",
       "document_type": "rule",
       "language": "ko",
       "category": "업무규정 / 유가증권시장규정",
@@ -3921,8 +3895,7 @@
           "quality_score": 100,
           "converted_text_chars": 8472,
           "converted_non_space_chars": 6157,
-          "table_row_count": 1,
-          "formula_hint_count": 1
+          "table_row_count": 1
         },
         {
           "id": "210222644-202406140000022350000016005-byl-hwp",
@@ -3940,8 +3913,7 @@
           "quality_score": 100,
           "converted_text_chars": 5460,
           "converted_non_space_chars": 3727,
-          "table_row_count": 1,
-          "formula_hint_count": 2
+          "table_row_count": 1
         },
         {
           "id": "210222644-210203409-hwp",
@@ -3960,7 +3932,7 @@
           "converted_text_chars": 10351,
           "converted_non_space_chars": 7339,
           "table_row_count": 1,
-          "formula_hint_count": 2
+          "formula_hint_count": 1
         },
         {
           "id": "210222644-210205138-hwp",
@@ -3978,8 +3950,7 @@
           "quality_score": 100,
           "converted_text_chars": 11231,
           "converted_non_space_chars": 8682,
-          "table_row_count": 58,
-          "formula_hint_count": 1
+          "table_row_count": 58
         },
         {
           "id": "210222644-202406140000022350000016008-byl-hwp",
@@ -4087,8 +4058,7 @@
           "quality_score": 100,
           "converted_text_chars": 10178,
           "converted_non_space_chars": 7177,
-          "table_row_count": 3,
-          "formula_hint_count": 1
+          "table_row_count": 3
         },
         {
           "id": "210222644-202406140000022350000016014-byl-hwp",
@@ -4143,8 +4113,7 @@
           "quality_score": 100,
           "converted_text_chars": 12711,
           "converted_non_space_chars": 9995,
-          "table_row_count": 40,
-          "formula_hint_count": 1
+          "table_row_count": 40
         },
         {
           "id": "210222644-202406140000022350000016017-byl-hwp",
@@ -4290,7 +4259,7 @@
           "converted_text_chars": 4838,
           "converted_non_space_chars": 3305,
           "table_row_count": 1,
-          "formula_hint_count": 29
+          "formula_hint_count": 2
         },
         {
           "id": "210222644-202406140000022350000016025-byl-hwp",
@@ -4309,7 +4278,7 @@
           "converted_text_chars": 3836,
           "converted_non_space_chars": 2648,
           "table_row_count": 1,
-          "formula_hint_count": 20
+          "formula_hint_count": 2
         },
         {
           "id": "210222644-202406140000022350000016026-byl-hwp",
@@ -4328,7 +4297,7 @@
           "converted_text_chars": 6318,
           "converted_non_space_chars": 4454,
           "table_row_count": 1,
-          "formula_hint_count": 52
+          "formula_hint_count": 2
         },
         {
           "id": "210222644-202406140000022350000016027-byl-hwp",
@@ -4347,7 +4316,7 @@
           "converted_text_chars": 6477,
           "converted_non_space_chars": 4595,
           "table_row_count": 1,
-          "formula_hint_count": 51
+          "formula_hint_count": 2
         },
         {
           "id": "210222644-202406140000022350000016028-byl-hwp",
@@ -4366,7 +4335,7 @@
           "converted_text_chars": 6691,
           "converted_non_space_chars": 4774,
           "table_row_count": 1,
-          "formula_hint_count": 64
+          "formula_hint_count": 2
         },
         {
           "id": "210222644-202406140000022350000016029-byl-hwp",
@@ -4385,7 +4354,7 @@
           "converted_text_chars": 6744,
           "converted_non_space_chars": 4819,
           "table_row_count": 1,
-          "formula_hint_count": 66
+          "formula_hint_count": 2
         },
         {
           "id": "210222644-202406140000022350000016030-byl-hwp",
@@ -4404,7 +4373,7 @@
           "converted_text_chars": 5077,
           "converted_non_space_chars": 3525,
           "table_row_count": 1,
-          "formula_hint_count": 36
+          "formula_hint_count": 2
         },
         {
           "id": "210222644-202406140000022350000016031-byl-hwp",
@@ -4441,7 +4410,7 @@
           "converted_text_chars": 3881,
           "converted_non_space_chars": 2308,
           "table_row_count": 1,
-          "formula_hint_count": 22
+          "formula_hint_count": 4
         },
         {
           "id": "210222644-202406140000022350000016033-byl-hwp",
@@ -4478,7 +4447,7 @@
           "converted_text_chars": 2340,
           "converted_non_space_chars": 1495,
           "table_row_count": 1,
-          "formula_hint_count": 8
+          "formula_hint_count": 1
         },
         {
           "id": "210222644-202406140000022350000016035-byl-hwp",
@@ -4843,7 +4812,7 @@
           "converted_text_chars": 6223,
           "converted_non_space_chars": 3846,
           "table_row_count": 1,
-          "formula_hint_count": 20
+          "formula_hint_count": 1
         },
         {
           "id": "210222644-202406140000022350000016055-byl-hwp",
@@ -4862,7 +4831,7 @@
           "converted_text_chars": 4221,
           "converted_non_space_chars": 2648,
           "table_row_count": 6,
-          "formula_hint_count": 2
+          "formula_hint_count": 1
         },
         {
           "id": "210222644-202406140000022350000016056-byl-hwp",
@@ -4925,8 +4894,8 @@
       "id": "210128148",
       "title": "유가증권시장 상장적격성 실질심사지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:57:00.694612Z",
-      "content_hash": "feb4152ccfccb9062e5b05427976cf11ad4e0ff8886a59ea68f6c363277a08bb",
+      "collected_at": "2026-07-03T21:11:34.620407Z",
+      "content_hash": "432cc9ac3b67ed8a3eb39df9a38ca5de37acf186d1ccc75d6ff75a0fb0b589e6",
       "document_type": "rule",
       "language": "ko",
       "category": "업무규정 / 유가증권시장규정",
@@ -4993,7 +4962,7 @@
       "id": "210225665",
       "title": "유가증권시장 업무규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:43:57.655130Z",
+      "collected_at": "2026-07-03T20:58:18.108342Z",
       "content_hash": "49589354a90d1d62922925e2e5aa2099761e49e8d88e63a71c99c4c862e303ad",
       "document_type": "rule",
       "language": "ko",
@@ -5006,7 +4975,7 @@
       "id": "210225129",
       "title": "유가증권시장 업무규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:44:11.623668Z",
+      "collected_at": "2026-07-03T20:58:32.525007Z",
       "content_hash": "32b2be77204d5a1d26811e3dd2a378335c3cf053b6e3be41e69656613345aaf7",
       "document_type": "rule",
       "language": "ko",
@@ -5229,7 +5198,7 @@
           "converted_text_chars": 4492,
           "converted_non_space_chars": 3394,
           "table_row_count": 24,
-          "formula_hint_count": 17
+          "formula_hint_count": 13
         },
         {
           "id": "210225129-202410290000022560000111019-byl-hwp",
@@ -5558,8 +5527,7 @@
           "quality_score": 100,
           "converted_text_chars": 379,
           "converted_non_space_chars": 282,
-          "table_row_count": 4,
-          "formula_hint_count": 1
+          "table_row_count": 4
         },
         {
           "id": "210225129-202410290000022560000111037-byl-hwp",
@@ -5658,7 +5626,7 @@
       "id": "204847912",
       "title": "인덱스사업 운영지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:00:45.867333Z",
+      "collected_at": "2026-07-03T21:15:24.896322Z",
       "content_hash": "900451160ee968fd89ad71433381f7f104713f8311a86649658211e987cca547",
       "document_type": "rule",
       "language": "ko",
@@ -5691,7 +5659,7 @@
       "id": "204847787",
       "title": "장외파생공동기금 적립에 따른 규제자본변수 산출 등에 관한 기준",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:02:01.914985Z",
+      "collected_at": "2026-07-03T21:16:41.359311Z",
       "content_hash": "1ff6fceddd32822731833e145cc3df79bc7e53d7d19aeee76b4ca1a61a4a25c6",
       "document_type": "rule",
       "language": "ko",
@@ -5716,7 +5684,8 @@
           "converted_text_chars": 4282,
           "converted_non_space_chars": 3540,
           "table_row_count": 1,
-          "formula_hint_count": 28
+          "formula_block_count": 17,
+          "formula_hint_count": 45
         }
       ],
       "path": "ko/rules/장외파생공동기금-적립에-따른-규제자본변수-산출-등에-관한-기준/index.md"
@@ -5725,7 +5694,7 @@
       "id": "210124485",
       "title": "장외파생상품 청산업무규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:57:15.033572Z",
+      "collected_at": "2026-07-03T21:11:48.697642Z",
       "content_hash": "17282206b7a0927d20ca0dcc610613c0b81ff502d031e7b9357d57e3fe11ea22",
       "document_type": "rule",
       "language": "ko",
@@ -5738,8 +5707,8 @@
       "id": "210215757",
       "title": "장외파생상품 청산업무규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:54:21.317287Z",
-      "content_hash": "1bf0d272da22cd45a33984f9f150e1b8d716109367400376cc7e39ef49fe1d0f",
+      "collected_at": "2026-07-03T21:08:52.333476Z",
+      "content_hash": "ff48dca16b2cd984b100249c8474211f70785a92149a4455f197e23ccc668756",
       "document_type": "rule",
       "language": "ko",
       "category": "업무규정 / 장외파생상품청산업무규정",
@@ -5760,10 +5729,11 @@
           "size": 53248,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 12544,
+          "converted_text_chars": 12536,
           "converted_non_space_chars": 10255,
           "table_row_count": 27,
-          "formula_hint_count": 65
+          "formula_block_count": 62,
+          "formula_hint_count": 127
         },
         {
           "id": "210215757-210215841-hwp",
@@ -5797,10 +5767,11 @@
           "size": 82944,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 64134,
+          "converted_text_chars": 63968,
           "converted_non_space_chars": 52735,
           "table_row_count": 18,
-          "formula_hint_count": 459
+          "formula_block_count": 285,
+          "formula_hint_count": 744
         },
         {
           "id": "210215757-210136686-hwp",
@@ -5819,7 +5790,8 @@
           "converted_text_chars": 11018,
           "converted_non_space_chars": 7825,
           "table_row_count": 62,
-          "formula_hint_count": 10
+          "formula_block_count": 10,
+          "formula_hint_count": 20
         },
         {
           "id": "210215757-210136751-hwp",
@@ -5835,10 +5807,11 @@
           "size": 48128,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 8919,
+          "converted_text_chars": 8899,
           "converted_non_space_chars": 7352,
           "table_row_count": 1,
-          "formula_hint_count": 55
+          "formula_block_count": 44,
+          "formula_hint_count": 99
         },
         {
           "id": "210215757-202409260000022520000225007-byl-hwp",
@@ -5856,7 +5829,8 @@
           "quality_score": 100,
           "converted_text_chars": 1427,
           "converted_non_space_chars": 1175,
-          "formula_hint_count": 11
+          "formula_block_count": 7,
+          "formula_hint_count": 18
         },
         {
           "id": "210215757-210136777-hwp",
@@ -5875,7 +5849,8 @@
           "converted_text_chars": 2047,
           "converted_non_space_chars": 1685,
           "table_row_count": 3,
-          "formula_hint_count": 13
+          "formula_block_count": 7,
+          "formula_hint_count": 20
         },
         {
           "id": "210215757-210136795-hwp",
@@ -5910,8 +5885,7 @@
           "quality_score": 100,
           "converted_text_chars": 1801,
           "converted_non_space_chars": 1351,
-          "table_row_count": 3,
-          "formula_hint_count": 2
+          "table_row_count": 3
         },
         {
           "id": "210215757-202409260000022520000225011-byl-hwp",
@@ -6119,7 +6093,7 @@
       "id": "204847848",
       "title": "전문가회의 및 기술평가제도 운영지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:01:44.825582Z",
+      "collected_at": "2026-07-03T21:16:24.810833Z",
       "content_hash": "0f7c00d5ef46d2d84ef5b02218fa498da55dd6a23a5664073c462010d04ae4ee",
       "document_type": "rule",
       "language": "ko",
@@ -6224,7 +6198,7 @@
       "id": "204847342",
       "title": "전문가회의 운영지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:01:05.207584Z",
+      "collected_at": "2026-07-03T21:15:44.917397Z",
       "content_hash": "508ef2870c2f8739424b69c85487cb3adf9619b651bad355f307f4cf6e6c5be7",
       "document_type": "rule",
       "language": "ko",
@@ -6257,7 +6231,7 @@
       "id": "210203237",
       "title": "전문평가제도 운영지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:55:09.379994Z",
+      "collected_at": "2026-07-03T21:09:41.778140Z",
       "content_hash": "d647e2ba4bcc90bac4c7748d7e7b938c5787b01112bedc0ba7b0c59cfcebd1db",
       "document_type": "rule",
       "language": "ko",
@@ -6317,8 +6291,7 @@
           "quality_score": 100,
           "converted_text_chars": 3670,
           "converted_non_space_chars": 2711,
-          "table_row_count": 29,
-          "formula_hint_count": 1
+          "table_row_count": 29
         },
         {
           "id": "210203237-202312280000008630000123004-byl-hwp",
@@ -6397,7 +6370,7 @@
       "id": "204848011",
       "title": "전자금융거래 분쟁처리지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:01:29.648845Z",
+      "collected_at": "2026-07-03T21:16:09.700907Z",
       "content_hash": "4cd402fa100114fedd12e1a62637eaeb1d0f29e094c240425471906f5c80ec74",
       "document_type": "rule",
       "language": "ko",
@@ -6448,7 +6421,7 @@
       "id": "210016572",
       "title": "정관",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:59:14.654205Z",
+      "collected_at": "2026-07-03T21:13:52.602083Z",
       "content_hash": "915d8b6428b5eb0f091b0a8d758175a8541e400157d973f63257d60087505d34",
       "document_type": "rule",
       "language": "ko",
@@ -6461,7 +6434,7 @@
       "id": "210049902",
       "title": "종류형집합투자기구 상장형 수익증권시장 운영규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:59:10.819325Z",
+      "collected_at": "2026-07-03T21:13:48.246370Z",
       "content_hash": "7b114684d46da9462764f9bf401cdfc59fb5c750b6b167b4f15bb993cbe9f05a",
       "document_type": "rule",
       "language": "ko",
@@ -6474,7 +6447,7 @@
       "id": "210137438",
       "title": "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:57:47.306754Z",
+      "collected_at": "2026-07-03T21:12:22.573914Z",
       "content_hash": "00293457101ecf768ed00ce2b5174fc2e394442896210fd67f4cff80bbd303ea",
       "document_type": "rule",
       "language": "ko",
@@ -6668,7 +6641,7 @@
       "id": "204846917",
       "title": "주식양도 승인기준",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:02:19.199346Z",
+      "collected_at": "2026-07-03T21:16:58.095037Z",
       "content_hash": "5bd24c41b608f229b8e7ca8c709768be8bf742450e657ca69c97094023a57ec4",
       "document_type": "rule",
       "language": "ko",
@@ -6700,7 +6673,7 @@
       "id": "210202173",
       "title": "주식·주가지수 파생상품 시장조성 운영지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:53:05.059773Z",
+      "collected_at": "2026-07-03T21:07:36.655800Z",
       "content_hash": "d126c0fddca47ca2e19a891f7ec19901f89d88e2e4e9e9106012ae77656ce63f",
       "document_type": "rule",
       "language": "ko",
@@ -6722,10 +6695,11 @@
           "size": 55296,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4775,
+          "converted_text_chars": 4771,
           "converted_non_space_chars": 3601,
           "table_row_count": 24,
-          "formula_hint_count": 2
+          "formula_block_count": 1,
+          "formula_hint_count": 3
         },
         {
           "id": "210202173-210218085-hwp",
@@ -6777,10 +6751,11 @@
           "size": 71168,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 25047,
+          "converted_text_chars": 25011,
           "converted_non_space_chars": 19890,
           "table_row_count": 86,
-          "formula_hint_count": 111
+          "formula_block_count": 24,
+          "formula_hint_count": 133
         },
         {
           "id": "210202173-210134276-hwp",
@@ -6869,8 +6844,7 @@
           "quality_score": 100,
           "converted_text_chars": 607,
           "converted_non_space_chars": 539,
-          "table_row_count": 1,
-          "formula_hint_count": 2
+          "table_row_count": 1
         },
         {
           "id": "210202173-202404120000008760000292010-byl-hwp",
@@ -6915,7 +6889,7 @@
       "id": "210185757",
       "title": "증권시장 청산결제 업무규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:55:35.107278Z",
+      "collected_at": "2026-07-03T21:10:07.398631Z",
       "content_hash": "2c53241d451c0270367624e52457cc172d4f9861c2392d51af6222a64b9fb559",
       "document_type": "rule",
       "language": "ko",
@@ -6928,7 +6902,7 @@
       "id": "210199110",
       "title": "증권시장 청산결제 업무규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:55:41.512132Z",
+      "collected_at": "2026-07-03T21:10:13.562759Z",
       "content_hash": "8a60b56177ef43e554bc7312965ed16f7828726c97b1ea9d07b6b0aca27cc1cb",
       "document_type": "rule",
       "language": "ko",
@@ -7142,7 +7116,7 @@
       "id": "210210269",
       "title": "증권·파생상품시장 증거금 관리지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:55:00.109576Z",
+      "collected_at": "2026-07-03T21:09:32.490456Z",
       "content_hash": "0240967d40179b80ed6dcb001f9c003f23070d20d1e01e014cd2809f3799eb20",
       "document_type": "rule",
       "language": "ko",
@@ -7164,9 +7138,10 @@
           "size": 35328,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1371,
-          "converted_non_space_chars": 1129,
-          "formula_hint_count": 7
+          "converted_text_chars": 1369,
+          "converted_non_space_chars": 1127,
+          "formula_block_count": 5,
+          "formula_hint_count": 12
         },
         {
           "id": "210210269-202212290000008140000259002-byl-hwp",
@@ -7184,7 +7159,8 @@
           "quality_score": 100,
           "converted_text_chars": 1332,
           "converted_non_space_chars": 1087,
-          "formula_hint_count": 13
+          "formula_block_count": 5,
+          "formula_hint_count": 18
         },
         {
           "id": "210210269-210210295-hwp",
@@ -7221,7 +7197,8 @@
           "converted_text_chars": 3126,
           "converted_non_space_chars": 2551,
           "table_row_count": 1,
-          "formula_hint_count": 26
+          "formula_block_count": 7,
+          "formula_hint_count": 33
         }
       ],
       "path": "ko/rules/증권파생상품시장-증거금-관리지침/index.md"
@@ -7230,7 +7207,7 @@
       "id": "210223621",
       "title": "코넥스시장 공시규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:51:30.570863Z",
+      "collected_at": "2026-07-03T21:05:59.897649Z",
       "content_hash": "4d4bd17026adc004dfd70a07a61b84834c7659452badcfb86796d2e94f3bb45a",
       "document_type": "rule",
       "language": "ko",
@@ -7243,7 +7220,7 @@
       "id": "210224312",
       "title": "코넥스시장 공시규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:51:31.736298Z",
+      "collected_at": "2026-07-03T21:06:01.318768Z",
       "content_hash": "5de4e5f157a07ea58e74ec45663f75e208521a159da3fe70f1171e1252182129",
       "document_type": "rule",
       "language": "ko",
@@ -7348,7 +7325,7 @@
       "id": "210220471",
       "title": "코넥스시장 상장규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:51:40.603705Z",
+      "collected_at": "2026-07-03T21:06:10.002862Z",
       "content_hash": "3b7b4a49652b6b17663cad7d78e8d691c984f5448b858f8b56550a39d6387483",
       "document_type": "rule",
       "language": "ko",
@@ -7381,7 +7358,7 @@
       "id": "210222787",
       "title": "코넥스시장 상장규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:51:43.215698Z",
+      "collected_at": "2026-07-03T21:06:12.606817Z",
       "content_hash": "0bffe89db711d418473974c3659fe3dc5274ace8b7a2ce8180df760b30dd0dd2",
       "document_type": "rule",
       "language": "ko",
@@ -7478,7 +7455,7 @@
           "converted_text_chars": 87494,
           "converted_non_space_chars": 66308,
           "table_row_count": 371,
-          "formula_hint_count": 368
+          "formula_hint_count": 367
         },
         {
           "id": "210222787-202406140000022340000213009-byl-hwp",
@@ -7617,8 +7594,7 @@
           "quality_score": 100,
           "converted_text_chars": 1062,
           "converted_non_space_chars": 837,
-          "table_row_count": 2,
-          "formula_hint_count": 1
+          "table_row_count": 2
         },
         {
           "id": "210222787-202406140000022340000213017-byl-hwp",
@@ -7672,8 +7648,7 @@
           "quality_score": 100,
           "converted_text_chars": 5314,
           "converted_non_space_chars": 3927,
-          "table_row_count": 64,
-          "formula_hint_count": 1
+          "table_row_count": 64
         },
         {
           "id": "210222787-202406140000022340000213020-byl-hwp",
@@ -7838,7 +7813,7 @@
           "converted_text_chars": 56513,
           "converted_non_space_chars": 42514,
           "table_row_count": 271,
-          "formula_hint_count": 229
+          "formula_hint_count": 222
         },
         {
           "id": "210222787-202406140000022340000213028-byl-hwp",
@@ -7857,7 +7832,7 @@
           "converted_text_chars": 86994,
           "converted_non_space_chars": 65867,
           "table_row_count": 366,
-          "formula_hint_count": 358
+          "formula_hint_count": 357
         },
         {
           "id": "210222787-202406140000022340000213029-byl-hwp",
@@ -7876,7 +7851,7 @@
           "converted_text_chars": 87094,
           "converted_non_space_chars": 65754,
           "table_row_count": 368,
-          "formula_hint_count": 359
+          "formula_hint_count": 357
         },
         {
           "id": "210222787-202406140000022340000213030-byl-hwp",
@@ -7941,7 +7916,7 @@
       "id": "204847662",
       "title": "코넥스시장 상장심사지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:02:13.330138Z",
+      "collected_at": "2026-07-03T21:16:52.522712Z",
       "content_hash": "c6785659cf6e56bcd6ad68e44ece86554290b9c02aa6f4acca7b4d614d9f76b0",
       "document_type": "rule",
       "language": "ko",
@@ -7973,7 +7948,7 @@
       "id": "210212163",
       "title": "코넥스시장 상장적격성 실질심사지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:55:20.644673Z",
+      "collected_at": "2026-07-03T21:09:52.669081Z",
       "content_hash": "362379281daf29be77a222f56c4d88d42f8580cef875296e8ac92c3b5e7c7528",
       "document_type": "rule",
       "language": "ko",
@@ -8024,7 +7999,7 @@
       "id": "210223624",
       "title": "코넥스시장 업무규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:50:46.709256Z",
+      "collected_at": "2026-07-03T21:05:14.980072Z",
       "content_hash": "a686901bf9b591471a7c0848afe88086a5e7ee873501ffb39365d1256dde3c64",
       "document_type": "rule",
       "language": "ko",
@@ -8037,7 +8012,7 @@
       "id": "210224651",
       "title": "코넥스시장 업무규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:50:55.117863Z",
+      "collected_at": "2026-07-03T21:05:23.741289Z",
       "content_hash": "7b24096712fa61d9a4ca0c949b6b04ea04a5042bc8a7e974b7251370f36d6ffc",
       "document_type": "rule",
       "language": "ko",
@@ -8357,7 +8332,7 @@
       "id": "210226148",
       "title": "코스닥시장 공시규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:48:44.524515Z",
+      "collected_at": "2026-07-03T21:03:11.345960Z",
       "content_hash": "1cc2bf303be43db6d70ef08d262cb9ebfdd7dbcee4035851a43c44960cf9f0de",
       "document_type": "rule",
       "language": "ko",
@@ -8370,7 +8345,7 @@
       "id": "210229371",
       "title": "코스닥시장 공시규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:43:28.800863Z",
+      "collected_at": "2026-07-03T20:57:49.233866Z",
       "content_hash": "b3b6aa903e8bc6ab127248492a88599226e3abb331969ede6020579749963ae9",
       "document_type": "rule",
       "language": "ko",
@@ -8446,8 +8421,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 306,
-          "converted_non_space_chars": 222,
-          "formula_hint_count": 2
+          "converted_non_space_chars": 222
         },
         {
           "id": "210229371-202411140000022690000110006-byl-hwp",
@@ -8481,8 +8455,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 277,
-          "converted_non_space_chars": 201,
-          "formula_hint_count": 1
+          "converted_non_space_chars": 201
         },
         {
           "id": "210229371-202411140000022690000110008-byl-hwp",
@@ -8553,8 +8526,7 @@
           "quality_score": 100,
           "converted_text_chars": 643,
           "converted_non_space_chars": 471,
-          "table_row_count": 3,
-          "formula_hint_count": 1
+          "table_row_count": 3
         },
         {
           "id": "210229371-210202578-hwp",
@@ -8571,8 +8543,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 283,
-          "converted_non_space_chars": 217,
-          "formula_hint_count": 1
+          "converted_non_space_chars": 217
         },
         {
           "id": "210229371-202411140000022690000110011-byl-hwp",
@@ -8641,8 +8612,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 334,
-          "converted_non_space_chars": 252,
-          "formula_hint_count": 1
+          "converted_non_space_chars": 252
         }
       ],
       "path": "ko/rules/코스닥시장-공시규정-시행세칙/index.md"
@@ -8651,7 +8621,7 @@
       "id": "204844930",
       "title": "코스닥시장 공정공시 운영기준",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:00:55.978314Z",
+      "collected_at": "2026-07-03T21:15:35.424579Z",
       "content_hash": "5b02a5a518c668b93bebf9c396f2e50c4094974afc2734d388350b632854f722",
       "document_type": "rule",
       "language": "ko",
@@ -8664,7 +8634,7 @@
       "id": "210102217",
       "title": "코스닥시장 글로벌 기업의 지정 등에 관한 지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:58:17.385982Z",
+      "collected_at": "2026-07-03T21:12:53.663445Z",
       "content_hash": "0f808162c2eaf3cc8a7e960a9e60b3eaf1937ab5ac1e71c3eed8ae2ec811eb31",
       "document_type": "rule",
       "language": "ko",
@@ -8697,7 +8667,7 @@
       "id": "204847353",
       "title": "코스닥시장 불성실공시 신고 및 포상에 관한 기준",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:00:48.656417Z",
+      "collected_at": "2026-07-03T21:15:27.689740Z",
       "content_hash": "cd35c598ee8150351237729f5442abc1755746d5abe41123a159f94ae99fa9ce",
       "document_type": "rule",
       "language": "ko",
@@ -8748,8 +8718,8 @@
       "id": "210220591",
       "title": "코스닥시장 상장규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:48:46.011886Z",
-      "content_hash": "61e0ccd7da83ed75378a104f1361e991315a9238496186b4ab5d56b32edfafea",
+      "collected_at": "2026-07-03T21:03:12.773444Z",
+      "content_hash": "85455d82c20bc8913247bcdeaad83af922464b1462521801fd5858968cbcfb92",
       "document_type": "rule",
       "language": "ko",
       "category": "업무규정 / 코스닥시장규정",
@@ -8761,7 +8731,7 @@
       "id": "210222109",
       "title": "코스닥시장 상장규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:48:47.656285Z",
+      "collected_at": "2026-07-03T21:03:14.460615Z",
       "content_hash": "0ba675992e8a3ef3aba2a168806db670d3912eb84be8813431dfa94575d632e1",
       "document_type": "rule",
       "language": "ko",
@@ -8785,8 +8755,7 @@
           "quality_score": 100,
           "converted_text_chars": 13417,
           "converted_non_space_chars": 10042,
-          "table_row_count": 7,
-          "formula_hint_count": 1
+          "table_row_count": 7
         },
         {
           "id": "210222109-210190046-hwp",
@@ -8804,8 +8773,7 @@
           "quality_score": 100,
           "converted_text_chars": 2712,
           "converted_non_space_chars": 2163,
-          "table_row_count": 5,
-          "formula_hint_count": 1
+          "table_row_count": 5
         },
         {
           "id": "210222109-202407120000022430000112003-byl-hwp",
@@ -9022,8 +8990,7 @@
           "quality_score": 100,
           "converted_text_chars": 3566,
           "converted_non_space_chars": 2571,
-          "table_row_count": 1,
-          "formula_hint_count": 1
+          "table_row_count": 1
         },
         {
           "id": "210222109-210225004-hwp",
@@ -9261,8 +9228,7 @@
           "quality_score": 100,
           "converted_text_chars": 2705,
           "converted_non_space_chars": 1947,
-          "table_row_count": 2,
-          "formula_hint_count": 2
+          "table_row_count": 2
         },
         {
           "id": "210222109-210190303-hwp",
@@ -9299,7 +9265,7 @@
           "converted_text_chars": 2440,
           "converted_non_space_chars": 1574,
           "table_row_count": 1,
-          "formula_hint_count": 8
+          "formula_hint_count": 1
         },
         {
           "id": "210222109-210190403-hwp",
@@ -9337,7 +9303,7 @@
           "converted_text_chars": 5851,
           "converted_non_space_chars": 3979,
           "table_row_count": 1,
-          "formula_hint_count": 29
+          "formula_hint_count": 2
         },
         {
           "id": "210222109-202407120000022430000112032-byl-hwp",
@@ -9356,7 +9322,7 @@
           "converted_text_chars": 5409,
           "converted_non_space_chars": 3699,
           "table_row_count": 1,
-          "formula_hint_count": 29
+          "formula_hint_count": 2
         },
         {
           "id": "210222109-202407120000022430000112033-byl-hwp",
@@ -9375,7 +9341,7 @@
           "converted_text_chars": 9094,
           "converted_non_space_chars": 6352,
           "table_row_count": 1,
-          "formula_hint_count": 93
+          "formula_hint_count": 2
         },
         {
           "id": "210222109-202407120000022430000112034-byl-hwp",
@@ -9394,7 +9360,7 @@
           "converted_text_chars": 7472,
           "converted_non_space_chars": 5228,
           "table_row_count": 1,
-          "formula_hint_count": 64
+          "formula_hint_count": 2
         },
         {
           "id": "210222109-202407120000022430000112035-byl-hwp",
@@ -9413,7 +9379,7 @@
           "converted_text_chars": 9496,
           "converted_non_space_chars": 6666,
           "table_row_count": 1,
-          "formula_hint_count": 93
+          "formula_hint_count": 2
         },
         {
           "id": "210222109-202407120000022430000112036-byl-hwp",
@@ -9432,7 +9398,7 @@
           "converted_text_chars": 7963,
           "converted_non_space_chars": 5586,
           "table_row_count": 1,
-          "formula_hint_count": 73
+          "formula_hint_count": 2
         },
         {
           "id": "210222109-202407120000022430000112037-byl-hwp",
@@ -9451,7 +9417,7 @@
           "converted_text_chars": 6248,
           "converted_non_space_chars": 4265,
           "table_row_count": 1,
-          "formula_hint_count": 41
+          "formula_hint_count": 2
         },
         {
           "id": "210222109-202407120000022430000112038-byl-hwp",
@@ -9898,7 +9864,7 @@
       "id": "210088759",
       "title": "코스닥시장 상장적격성 실질심사지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:58:20.254865Z",
+      "collected_at": "2026-07-03T21:12:56.331126Z",
       "content_hash": "36d6c5dca7918fd91618ebc5477bf38db48aefbdccacfa6c4aa474dccaeeef87",
       "document_type": "rule",
       "language": "ko",
@@ -9968,7 +9934,7 @@
       "id": "204847345",
       "title": "코스닥시장 소속부 운영기준",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:01:40.545709Z",
+      "collected_at": "2026-07-03T21:16:20.674006Z",
       "content_hash": "2c2314cbc42da75809ff905a3a8ecc502cd6e3c8df605520d28a0adb9f8fc6a5",
       "document_type": "rule",
       "language": "ko",
@@ -10001,7 +9967,7 @@
       "id": "210223407",
       "title": "코스닥시장 업무규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:47:34.084546Z",
+      "collected_at": "2026-07-03T21:01:57.232511Z",
       "content_hash": "9ac38e73385202539fd699abaed81aa6671ab9453dc96889281e0885faec9069",
       "document_type": "rule",
       "language": "ko",
@@ -10014,7 +9980,7 @@
       "id": "210223538",
       "title": "코스닥시장 업무규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:47:43.078165Z",
+      "collected_at": "2026-07-03T21:02:06.595816Z",
       "content_hash": "2ff1dea2a3e805a23f8a4b2a53e996ea15f3b92e28f64c98dbefc0c5cecfedae",
       "document_type": "rule",
       "language": "ko",
@@ -10513,7 +10479,7 @@
       "id": "210199976",
       "title": "파생상품시장 업무규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:52:51.753758Z",
+      "collected_at": "2026-07-03T21:07:22.504850Z",
       "content_hash": "edba07ef02dfbbf4445a54c84d6bcd15f54f82a7d8741bbfd2781320a72c5c70",
       "document_type": "rule",
       "language": "ko",
@@ -10526,8 +10492,8 @@
       "id": "210228709",
       "title": "파생상품시장 업무규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:42:18.633445Z",
-      "content_hash": "e287b7f07d738a2f011cd2bfcf221aff0b7348991d90a7d47217df26686a4d74",
+      "collected_at": "2026-07-03T20:56:38.976094Z",
+      "content_hash": "2bf90a55c3e54197f3a4d7cc1098afa5decf05a3833b959733bce50729749cb2",
       "document_type": "rule",
       "language": "ko",
       "category": "업무규정 / 파생상품시장규정",
@@ -10639,8 +10605,7 @@
           "quality_score": 100,
           "converted_text_chars": 6169,
           "converted_non_space_chars": 4817,
-          "table_row_count": 30,
-          "formula_hint_count": 1
+          "table_row_count": 30
         },
         {
           "id": "210228709-210125228-hwp",
@@ -10674,9 +10639,10 @@
           "size": 54272,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3534,
+          "converted_text_chars": 3532,
           "converted_non_space_chars": 2946,
-          "formula_hint_count": 22
+          "formula_block_count": 15,
+          "formula_hint_count": 37
         },
         {
           "id": "210228709-210125238-hwp",
@@ -10694,7 +10660,8 @@
           "quality_score": 100,
           "converted_text_chars": 2496,
           "converted_non_space_chars": 2070,
-          "formula_hint_count": 17
+          "formula_block_count": 13,
+          "formula_hint_count": 30
         },
         {
           "id": "210228709-210125248-hwp",
@@ -10712,7 +10679,8 @@
           "quality_score": 100,
           "converted_text_chars": 2454,
           "converted_non_space_chars": 2031,
-          "formula_hint_count": 17
+          "formula_block_count": 13,
+          "formula_hint_count": 30
         },
         {
           "id": "210228709-210064540-hwp",
@@ -10730,7 +10698,8 @@
           "quality_score": 100,
           "converted_text_chars": 6163,
           "converted_non_space_chars": 5140,
-          "formula_hint_count": 77
+          "formula_block_count": 18,
+          "formula_hint_count": 95
         },
         {
           "id": "210228709-210125253-hwp",
@@ -10746,10 +10715,11 @@
           "size": 44032,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4394,
+          "converted_text_chars": 4388,
           "converted_non_space_chars": 3570,
           "table_row_count": 5,
-          "formula_hint_count": 40
+          "formula_block_count": 19,
+          "formula_hint_count": 59
         },
         {
           "id": "210228709-210064599-hwp",
@@ -10767,7 +10737,8 @@
           "quality_score": 100,
           "converted_text_chars": 2866,
           "converted_non_space_chars": 2347,
-          "formula_hint_count": 12
+          "formula_block_count": 6,
+          "formula_hint_count": 18
         },
         {
           "id": "210228709-202411010000022630000114020-byl-hwp",
@@ -10785,7 +10756,8 @@
           "quality_score": 100,
           "converted_text_chars": 1365,
           "converted_non_space_chars": 1110,
-          "formula_hint_count": 8
+          "formula_block_count": 6,
+          "formula_hint_count": 14
         },
         {
           "id": "210228709-210064610-hwp",
@@ -10819,9 +10791,10 @@
           "size": 52224,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 8533,
+          "converted_text_chars": 8528,
           "converted_non_space_chars": 7081,
-          "formula_hint_count": 83
+          "formula_block_count": 33,
+          "formula_hint_count": 116
         },
         {
           "id": "210228709-210217348-hwp",
@@ -10837,9 +10810,10 @@
           "size": 46592,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 7059,
+          "converted_text_chars": 7058,
           "converted_non_space_chars": 5863,
-          "formula_hint_count": 78
+          "formula_block_count": 31,
+          "formula_hint_count": 109
         },
         {
           "id": "210228709-202411010000022630000114024-byl-hwp",
@@ -10855,9 +10829,10 @@
           "size": 16896,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4037,
-          "converted_non_space_chars": 3354,
-          "formula_hint_count": 37
+          "converted_text_chars": 4029,
+          "converted_non_space_chars": 3346,
+          "formula_block_count": 14,
+          "formula_hint_count": 51
         },
         {
           "id": "210228709-210064641-hwp",
@@ -10892,10 +10867,11 @@
           "size": 57344,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 12121,
+          "converted_text_chars": 12119,
           "converted_non_space_chars": 9422,
           "table_row_count": 31,
-          "formula_hint_count": 154
+          "formula_block_count": 7,
+          "formula_hint_count": 159
         },
         {
           "id": "210228709-210064740-hwp",
@@ -10988,8 +10964,7 @@
           "quality_score": 100,
           "converted_text_chars": 1118,
           "converted_non_space_chars": 880,
-          "table_row_count": 2,
-          "formula_hint_count": 1
+          "table_row_count": 2
         },
         {
           "id": "210228709-202411010000022630000114032-byl-hwp",
@@ -11134,7 +11109,8 @@
           "quality_score": 100,
           "converted_text_chars": 1562,
           "converted_non_space_chars": 1241,
-          "formula_hint_count": 2
+          "formula_block_count": 2,
+          "formula_hint_count": 4
         },
         {
           "id": "210228709-210064938-hwp",
@@ -11369,8 +11345,7 @@
           "quality_score": 100,
           "converted_text_chars": 593,
           "converted_non_space_chars": 421,
-          "table_row_count": 8,
-          "formula_hint_count": 1
+          "table_row_count": 8
         },
         {
           "id": "210228709-202411010000022630000114062-byl-hwp",
@@ -11433,7 +11408,7 @@
       "id": "204847919",
       "title": "환매조건부채권 매매전문참가자 관리지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:01:57.523236Z",
+      "collected_at": "2026-07-03T21:16:37.123070Z",
       "content_hash": "5a4c08a1526f2c033f91b833f547babbb31cdc84aca35758bca3e8c9862add71",
       "document_type": "rule",
       "language": "ko",
@@ -11484,7 +11459,7 @@
       "id": "210073008",
       "title": "회원관리규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:58:12.151250Z",
+      "collected_at": "2026-07-03T21:12:48.075008Z",
       "content_hash": "aa8542a50699fe6f5d97fe9f330708702ac470056cc194d9456197ccf768fae0",
       "document_type": "rule",
       "language": "ko",
@@ -11497,7 +11472,7 @@
       "id": "210204739",
       "title": "회원관리규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:55:24.822079Z",
+      "collected_at": "2026-07-03T21:09:56.857880Z",
       "content_hash": "860a144380268f2795b3f046794d2a15e935800f5729d06a1d4164807d8dc9a1",
       "document_type": "rule",
       "language": "ko",
@@ -11584,7 +11559,7 @@
       "id": "210147374",
       "title": "회원시스템 접속 등에 관한 지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:56:55.107384Z",
+      "collected_at": "2026-07-03T21:11:28.882515Z",
       "content_hash": "b3722925b52ffe4f83763b60148d10ec12f87ac894b34f3018e4f486ad945740",
       "document_type": "rule",
       "language": "ko",
@@ -11653,7 +11628,7 @@
       "id": "210219879",
       "title": "유가증권시장 상장규정 시행세칙 개정 예고",
       "source_url": "https://rule.krx.co.kr/out/pds/pdsViewPop.do",
-      "collected_at": "2026-07-03T15:03:10.203585Z",
+      "collected_at": "2026-07-03T21:17:47.106867Z",
       "content_hash": "517ede0662f9945d3feabbb4ad618427b00488fe91ac831e54efc88dc3a774f5",
       "document_type": "notice",
       "language": "ko",
@@ -11676,8 +11651,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 995,
-          "converted_non_space_chars": 750,
-          "formula_hint_count": 2
+          "converted_non_space_chars": 750
         },
         {
           "id": "210219879-210219880-pdf",
@@ -11694,10 +11668,10 @@
           "size": 355978,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 15796,
+          "converted_text_chars": 15762,
           "converted_non_space_chars": 11688,
           "table_row_count": 26,
-          "formula_hint_count": 2
+          "formula_hint_count": 1
         }
       ],
       "path": "ko/notices/유가증권시장-상장규정-시행세칙-개정-예고/index.md"
@@ -11706,7 +11680,7 @@
       "id": "210224393",
       "title": "유가증권시장 업무규정 개정 예고",
       "source_url": "https://rule.krx.co.kr/out/pds/pdsViewPop.do",
-      "collected_at": "2026-07-03T15:02:49.380623Z",
+      "collected_at": "2026-07-03T21:17:28.146652Z",
       "content_hash": "0f91753ceaaee67dbc27983bbed124f508dc050dd10e138789c3c08ab9cbd22b",
       "document_type": "notice",
       "language": "ko",
@@ -11728,9 +11702,8 @@
           "size": 185462,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1148,
-          "converted_non_space_chars": 871,
-          "formula_hint_count": 2
+          "converted_text_chars": 1147,
+          "converted_non_space_chars": 871
         },
         {
           "id": "210224393-210224395-pdf",
@@ -11747,9 +11720,9 @@
           "size": 307714,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 11371,
+          "converted_text_chars": 11354,
           "converted_non_space_chars": 8728,
-          "formula_hint_count": 4
+          "formula_hint_count": 2
         }
       ],
       "path": "ko/notices/유가증권시장-업무규정-개정-예고/index.md"
@@ -11758,7 +11731,7 @@
       "id": "210222057",
       "title": "유가증권시장 업무규정 시행세칙 개정 예고",
       "source_url": "https://rule.krx.co.kr/out/pds/pdsViewPop.do",
-      "collected_at": "2026-07-03T15:02:54.105760Z",
+      "collected_at": "2026-07-03T21:17:32.352515Z",
       "content_hash": "d01b213edb7a7f3b4258c6c48b8242051ad4b7e2f4843e120360250b9b2e8d17",
       "document_type": "notice",
       "language": "ko",
@@ -11781,8 +11754,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 790,
-          "converted_non_space_chars": 599,
-          "formula_hint_count": 2
+          "converted_non_space_chars": 599
         },
         {
           "id": "210222057-210222059-pdf",
@@ -11799,9 +11771,8 @@
           "size": 254427,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 8923,
-          "converted_non_space_chars": 7033,
-          "formula_hint_count": 11
+          "converted_text_chars": 8912,
+          "converted_non_space_chars": 7033
         }
       ],
       "path": "ko/notices/유가증권시장-업무규정-시행세칙-개정-예고/index.md"
@@ -11810,7 +11781,7 @@
       "id": "210221769",
       "title": "코넥스시장 업무규정 시행세칙 개정 예고",
       "source_url": "https://rule.krx.co.kr/out/pds/pdsViewPop.do",
-      "collected_at": "2026-07-03T15:02:58.330743Z",
+      "collected_at": "2026-07-03T21:17:36.341855Z",
       "content_hash": "d21aff83fcf741dd4f07ded20ad92928ffb1f9a5af09505759c3a58961046b90",
       "document_type": "notice",
       "language": "ko",
@@ -11833,8 +11804,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 641,
-          "converted_non_space_chars": 473,
-          "formula_hint_count": 2
+          "converted_non_space_chars": 473
         },
         {
           "id": "210221769-210221771-pdf",
@@ -11851,9 +11821,8 @@
           "size": 179524,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4248,
-          "converted_non_space_chars": 3371,
-          "formula_hint_count": 2
+          "converted_text_chars": 4242,
+          "converted_non_space_chars": 3371
         }
       ],
       "path": "ko/notices/코넥스시장-업무규정-시행세칙-개정-예고/index.md"
@@ -11862,8 +11831,8 @@
       "id": "210220231",
       "title": "코스닥시장 공시규정 시행세칙 개정 예고",
       "source_url": "https://rule.krx.co.kr/out/pds/pdsViewPop.do",
-      "collected_at": "2026-07-03T15:03:06.710627Z",
-      "content_hash": "60ea22f08ef48f8e4197ef97642d61c9423401e3592116cbcab482fa098dbc19",
+      "collected_at": "2026-07-03T21:17:43.601459Z",
+      "content_hash": "f52e0272e58bde04f684d7269c3c6b428279b01b48674bb14733f7eaa3c71ae9",
       "document_type": "notice",
       "language": "ko",
       "category": "규정 제·개정예고",
@@ -11885,8 +11854,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 526,
-          "converted_non_space_chars": 395,
-          "formula_hint_count": 4
+          "converted_non_space_chars": 395
         },
         {
           "id": "210220231-210220236-pdf",
@@ -11903,9 +11871,9 @@
           "size": 143565,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1534,
+          "converted_text_chars": 1531,
           "converted_non_space_chars": 1141,
-          "formula_hint_count": 2
+          "formula_hint_count": 1
         }
       ],
       "path": "ko/notices/코스닥시장-공시규정-시행세칙-개정-예고/index.md"
@@ -11914,7 +11882,7 @@
       "id": "210219622",
       "title": "코스닥시장 상장규정 시행세칙 개정 예고",
       "source_url": "https://rule.krx.co.kr/out/pds/pdsViewPop.do",
-      "collected_at": "2026-07-03T15:03:15.456077Z",
+      "collected_at": "2026-07-03T21:17:52.081446Z",
       "content_hash": "6beba864b08726083fd1cfece8232ce1124f1447c5ae091c8ec4c608b0123029",
       "document_type": "notice",
       "language": "ko",
@@ -11936,9 +11904,9 @@
           "size": 245122,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1678,
+          "converted_text_chars": 1677,
           "converted_non_space_chars": 1264,
-          "formula_hint_count": 3
+          "formula_hint_count": 1
         },
         {
           "id": "210219622-210219624-pdf",
@@ -11955,9 +11923,9 @@
           "size": 577607,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 21958,
+          "converted_text_chars": 21928,
           "converted_non_space_chars": 16225,
-          "formula_hint_count": 2
+          "formula_hint_count": 1
         }
       ],
       "path": "ko/notices/코스닥시장-상장규정-시행세칙-개정-예고/index.md"
@@ -11966,7 +11934,7 @@
       "id": "210224396",
       "title": "코스닥시장 업무규정 개정 예고",
       "source_url": "https://rule.krx.co.kr/out/pds/pdsViewPop.do",
-      "collected_at": "2026-07-03T15:02:44.976144Z",
+      "collected_at": "2026-07-03T21:17:24.002076Z",
       "content_hash": "d2974958a2cfbf099f724910ff5f5a473ec2b67f8c5ba75ce1b17cdd4ce8c13d",
       "document_type": "notice",
       "language": "ko",
@@ -11988,9 +11956,8 @@
           "size": 209282,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1461,
-          "converted_non_space_chars": 1106,
-          "formula_hint_count": 2
+          "converted_text_chars": 1460,
+          "converted_non_space_chars": 1106
         },
         {
           "id": "210224396-210224398-pdf",
@@ -12007,9 +11974,8 @@
           "size": 298497,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 10646,
-          "converted_non_space_chars": 8322,
-          "formula_hint_count": 3
+          "converted_text_chars": 10632,
+          "converted_non_space_chars": 8322
         }
       ],
       "path": "ko/notices/코스닥시장-업무규정-개정-예고/index.md"
@@ -12018,7 +11984,7 @@
       "id": "210221766",
       "title": "코스닥시장 업무규정 시행세칙 개정 예고",
       "source_url": "https://rule.krx.co.kr/out/pds/pdsViewPop.do",
-      "collected_at": "2026-07-03T15:03:02.131981Z",
+      "collected_at": "2026-07-03T21:17:39.811372Z",
       "content_hash": "5efd3735c6616c5b725ce49392ae8dc5acfa6be9db875b7118a7f829007520a3",
       "document_type": "notice",
       "language": "ko",
@@ -12041,8 +12007,7 @@
           "quality_status": "ok",
           "quality_score": 100,
           "converted_text_chars": 643,
-          "converted_non_space_chars": 473,
-          "formula_hint_count": 2
+          "converted_non_space_chars": 473
         },
         {
           "id": "210221766-210221768-pdf",
@@ -12060,126 +12025,18 @@
           "quality_status": "warn",
           "quality_score": 55,
           "quality_flags": "very_short_text",
-          "converted_text_chars": 65,
+          "converted_text_chars": 59,
           "converted_non_space_chars": 20
         }
       ],
       "path": "ko/notices/코스닥시장-업무규정-시행세칙-개정-예고/index.md"
     },
     {
-      "id": "210124485-en",
-      "title": "20250917_OTC_Derivatives_Clearing_and_Settlement_Business_Regulation",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:57:16.990454Z",
-      "content_hash": "b0c9cb4dc9142deb72164f75869e133ca8b3d27dace13ea533a40295349e4329",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 장외파생상품청산업무규정",
-      "effective_date": "2025-10-27",
-      "published_date": "2025-09-17",
-      "source_id": "210124485",
-      "file_name": "20250917_OTC_Derivatives_Clearing_and_Settlement_Business_Regulation.pdf",
-      "raw_path": "en/rules/20250917-otc-derivatives-clearing-and-settlement-business-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20250917-otc-derivatives-clearing-and-settlement-business-regulation/attachments/english-full-text.md",
-      "file_content_hash": "321e15dc8de8f6c9d0d583e14417fd9a61acc8d85f654b2762a8e7c4c9568f9f",
-      "path": "en/rules/20250917-otc-derivatives-clearing-and-settlement-business-regulation/index.md"
-    },
-    {
-      "id": "210073008-en",
-      "title": "20250922_Membership_Regulation",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:58:14.510790Z",
-      "content_hash": "6999729b9efc3356031c2cf6409fa5b94556e6db007b5b7920100d3f5d4af57b",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 회원관리규정",
-      "effective_date": "2025-09-22",
-      "published_date": "2025-09-22",
-      "source_id": "210073008",
-      "file_name": "20250922_Membership_Regulation.pdf",
-      "raw_path": "en/rules/20250922-membership-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20250922-membership-regulation/attachments/english-full-text.md",
-      "file_content_hash": "c1f006644de47f17d2731bda55008919fcc7bac7d98580018e3100b2ae7b9ee5",
-      "path": "en/rules/20250922-membership-regulation/index.md"
-    },
-    {
-      "id": "210223407-en",
-      "title": "20260304_KOSDAQ_Market_Business_Regulation",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:47:36.252274Z",
-      "content_hash": "91239986be559d72733f8bd0e1c61a779aaaeed14470f967129dddadb547dc74",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 코스닥시장규정",
-      "effective_date": "2026-07-02",
-      "published_date": "2026-07-01",
-      "source_id": "210223407",
-      "file_name": "20260304_KOSDAQ_Market_Business_Regulation.pdf",
-      "raw_path": "en/rules/20260304-kosdaq-market-business-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260304-kosdaq-market-business-regulation/attachments/english-full-text.md",
-      "file_content_hash": "1c80af77c15e2e11e5413f538059dda89ca34bdcc26f98756fb6e1bf3031a955",
-      "path": "en/rules/20260304-kosdaq-market-business-regulation/index.md"
-    },
-    {
-      "id": "210185757-en",
-      "title": "20260304_Securities_Market_Clearing_and_Settlement_Business_Regulation",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:55:37.982278Z",
-      "content_hash": "90cd4525faa8f4d1a53239048c65d31c9223537269169f57f556b4152ad92d82",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 증권시장청산결제업무규정",
-      "effective_date": "2026-04-27",
-      "published_date": "2026-03-04",
-      "source_id": "210185757",
-      "file_name": "20260304_Securities_Market_Clearing_and_Settlement_Business_Regulation.pdf",
-      "raw_path": "en/rules/20260304-securities-market-clearing-and-settlement-business-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260304-securities-market-clearing-and-settlement-business-regulation/attachments/english-full-text.md",
-      "file_content_hash": "1773492e027dc25b20a100da846b48815d00753dc9576d9875fda1d11d59d445",
-      "path": "en/rules/20260304-securities-market-clearing-and-settlement-business-regulation/index.md"
-    },
-    {
-      "id": "210223538-en",
-      "title": "20260316_Enforcement_Rules_of_KOSDAQ_Market_Business_Regulation",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:48:23.801087Z",
-      "content_hash": "16bfb7ebe32be04518e8f86b13db9e154087d688bbaf69315c7c0db93d1da29a",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 코스닥시장규정",
-      "effective_date": "2026-07-02",
-      "published_date": "2026-07-01",
-      "source_id": "210223538",
-      "file_name": "20260316_Enforcement_Rules_of_KOSDAQ_Market_Business_Regulation.pdf",
-      "raw_path": "en/rules/20260316-enforcement-rules-of-kosdaq-market-business-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260316-enforcement-rules-of-kosdaq-market-business-regulation/attachments/english-full-text.md",
-      "file_content_hash": "140e99534c2f1a52b55110c68516d5e8d21843703c073663d69b934bfda99f27",
-      "path": "en/rules/20260316-enforcement-rules-of-kosdaq-market-business-regulation/index.md"
-    },
-    {
-      "id": "210222109-en",
-      "title": "20260331_Enforcement_Rules_of_KOSDAQ_Market_Listing_Regulation",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:50:19.579390Z",
-      "content_hash": "029e6ee957273c49e426ff599f382634e632a15a68329f5a579a097603b1e548",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 코스닥시장규정",
-      "effective_date": "2026-07-02",
-      "published_date": "2026-07-01",
-      "source_id": "210222109",
-      "file_name": "20260331_Enforcement_Rules_of_KOSDAQ_Market_Listing_Regulation.pdf",
-      "raw_path": "en/rules/20260331-enforcement-rules-of-kosdaq-market-listing-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260331-enforcement-rules-of-kosdaq-market-listing-regulation/attachments/english-full-text.md",
-      "file_content_hash": "f5913176e9296e13cd6e75f344920cdbac96c910d52b65039f7a9e2729995a15",
-      "path": "en/rules/20260331-enforcement-rules-of-kosdaq-market-listing-regulation/index.md"
-    },
-    {
       "id": "210199976-en",
-      "title": "20260415_Derivatives_Market_Business_Regulation",
+      "title": "Derivatives Market Business Regulation",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:52:54.065338Z",
-      "content_hash": "3db10e93e51755b593f3f173d171e2a8079cb9d76c0d9ebc655fb3fb61517ddd",
+      "collected_at": "2026-07-03T21:07:24.956189Z",
+      "content_hash": "a7c62448bd6815ad5f412f0f9a0a0d064684bbe16b463aae81c4bb93e0e9c081",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 파생상품시장규정",
@@ -12187,197 +12044,17 @@
       "published_date": "2026-04-15",
       "source_id": "210199976",
       "file_name": "20260415_Derivatives_Market_Business_Regulation.pdf",
-      "raw_path": "en/rules/20260415-derivatives-market-business-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260415-derivatives-market-business-regulation/attachments/english-full-text.md",
+      "raw_path": "en/rules/derivatives-market-business-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/derivatives-market-business-regulation/attachments/english-full-text.md",
       "file_content_hash": "57d28df0b0739df137eb8fad6db5f7b0a0652443204c1a6b534ed81098d9c39b",
-      "path": "en/rules/20260415-derivatives-market-business-regulation/index.md"
-    },
-    {
-      "id": "210225665-en",
-      "title": "20260415_KOSPI_Market_Business_Regulation",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:43:59.814543Z",
-      "content_hash": "34c48a64caa4d8bfcc1c9a3531b897ef8ff056cd8dd540a8cbee5d4eecb3728d",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 유가증권시장규정",
-      "effective_date": "2026-07-02",
-      "published_date": "2026-07-01",
-      "source_id": "210225665",
-      "file_name": "20260415_KOSPI_Market_Business_Regulation.pdf",
-      "raw_path": "en/rules/20260415-kospi-market-business-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260415-kospi-market-business-regulation/attachments/english-full-text.md",
-      "file_content_hash": "08c84c350e9adbeef2c0de491fb6a411b7b2fd31247a2d5acf66a8f96aa2fd70",
-      "path": "en/rules/20260415-kospi-market-business-regulation/index.md"
-    },
-    {
-      "id": "210227471-en",
-      "title": "20260415_KOSPI_Market_Disclosure_Regulation",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:45:33.529192Z",
-      "content_hash": "53c8ae94a35d47cc5c00599ce9d61f7d04b3cc0a9b3900326d28fdf5f7892d95",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 유가증권시장규정",
-      "effective_date": "2026-07-02",
-      "published_date": "2026-07-01",
-      "source_id": "210227471",
-      "file_name": "20260415_KOSPI_Market_Disclosure_Regulation.pdf",
-      "raw_path": "en/rules/20260415-kospi-market-disclosure-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260415-kospi-market-disclosure-regulation/attachments/english-full-text.md",
-      "file_content_hash": "7d92bf52a9744e27d53c7ce3ff904768dc00260900d14068cbffaa942fd3d40b",
-      "path": "en/rules/20260415-kospi-market-disclosure-regulation/index.md"
-    },
-    {
-      "id": "210220143-en",
-      "title": "20260415_KOSPI_Market_Listing_Regulation",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:45:45.259315Z",
-      "content_hash": "3ff69912a830c4cb10c198f8bb752a59452cda3e77f3e03a8283c30b502db6b0",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 유가증권시장규정",
-      "effective_date": "2026-07-02",
-      "published_date": "2026-07-01",
-      "source_id": "210220143",
-      "file_name": "20260415_KOSPI_Market_Listing_Regulation.pdf",
-      "raw_path": "en/rules/20260415-kospi-market-listing-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260415-kospi-market-listing-regulation/attachments/english-full-text.md",
-      "file_content_hash": "a07a9c57feebb80b0f4625c8e3bb6f2d0d0cc5c982c570569b77cf481dba1874",
-      "path": "en/rules/20260415-kospi-market-listing-regulation/index.md"
-    },
-    {
-      "id": "210199110-en",
-      "title": "20260417_Enforcement_Rules_of_Securities_Market_Clearing...",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:55:59.120694Z",
-      "content_hash": "b0d846a963581af03a7e3e3691a17677ffdbbc68c786654e79bf5829e7ff514a",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 증권시장청산결제업무규정",
-      "effective_date": "2026-04-27",
-      "published_date": "2026-04-17",
-      "source_id": "210199110",
-      "file_name": "20260417_Enforcement_Rules_of_Securities_Market_Clearing....pdf",
-      "raw_path": "en/rules/20260417-enforcement-rules-of-securities-market-clearing/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260417-enforcement-rules-of-securities-market-clearing/attachments/english-full-text.md",
-      "file_content_hash": "3c10852ae3e1dab315a1f408a453ad103ba053b450f1241ffaad060a0a58c2a0",
-      "path": "en/rules/20260417-enforcement-rules-of-securities-market-clearing/index.md"
-    },
-    {
-      "id": "210229371-en",
-      "title": "20260424_Enforcement_Rules_of_KOSDAQ_Market_Disclosure_Regulation",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:43:51.954644Z",
-      "content_hash": "e1fc821b211059407b94a71efe1bd4b2974e05336d34c8f0bf45c9fed0e59978",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 코스닥시장규정",
-      "effective_date": "2026-07-03",
-      "published_date": "2026-07-02",
-      "source_id": "210229371",
-      "file_name": "20260424_Enforcement_Rules_of_KOSDAQ_Market_Disclosure_Regulation.pdf",
-      "raw_path": "en/rules/20260424-enforcement-rules-of-kosdaq-market-disclosure-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260424-enforcement-rules-of-kosdaq-market-disclosure-regulation/attachments/english-full-text.md",
-      "file_content_hash": "0a3be4708eff4b285d5686d70afef6ad0d6c58baa7c23369160eca97c12056fc",
-      "path": "en/rules/20260424-enforcement-rules-of-kosdaq-market-disclosure-regulation/index.md"
-    },
-    {
-      "id": "210225129-en",
-      "title": "20260427_Enforcement_Rules_of_KOSPI_Market_Business_Regulation",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:45:04.552320Z",
-      "content_hash": "c01d9d6984cf65d27ea28f32442c3e0ee0a8cc1c7e4699fc1438b9fb2a6f6603",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 유가증권시장규정",
-      "effective_date": "2026-07-02",
-      "published_date": "2026-07-02",
-      "source_id": "210225129",
-      "file_name": "20260427_Enforcement_Rules_of_KOSPI_Market_Business_Regulation.pdf",
-      "raw_path": "en/rules/20260427-enforcement-rules-of-kospi-market-business-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260427-enforcement-rules-of-kospi-market-business-regulation/attachments/english-full-text.md",
-      "file_content_hash": "79cf1faefa8741acefaae9d221856ff5c265e1eccf971aa64d5eb82b5d4f7329",
-      "path": "en/rules/20260427-enforcement-rules-of-kospi-market-business-regulation/index.md"
-    },
-    {
-      "id": "210204739-en",
-      "title": "20260428_Enforcement_Rules_of_Membership_Regulation",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:55:32.528456Z",
-      "content_hash": "8c62b46482e7f2f9b3b19c6c7dd564ff9ca4d2999fdbbac193c91145723f59a1",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 회원관리규정",
-      "effective_date": "2026-05-04",
-      "published_date": "2026-04-28",
-      "source_id": "210204739",
-      "file_name": "20260428_Enforcement_Rules_of_Membership_Regulation.pdf",
-      "raw_path": "en/rules/20260428-enforcement-rules-of-membership-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260428-enforcement-rules-of-membership-regulation/attachments/english-full-text.md",
-      "file_content_hash": "2f26332161311ac4e1736be4bef577dce57b8895c44f83950c6e442873150518",
-      "path": "en/rules/20260428-enforcement-rules-of-membership-regulation/index.md"
-    },
-    {
-      "id": "210210269-en",
-      "title": "20260519_Guidelines_for_Management_of_Margins_in_Sec_and_DerMarkets",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:55:07.836308Z",
-      "content_hash": "a40be41536bc28a9c85628b2ac4a3ac204ac9833a6bbdbca61deb4f43e88a3a4",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 공통규정",
-      "effective_date": "2026-05-26",
-      "published_date": "2026-05-19",
-      "source_id": "210210269",
-      "file_name": "20260519_Guidelines_for_Management_of_Margins_in_Sec_and_DerMarkets.pdf",
-      "raw_path": "en/rules/20260519-guidelines-for-management-of-margins-in-sec-and-dermarkets/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260519-guidelines-for-management-of-margins-in-sec-and-dermarkets/attachments/english-full-text.md",
-      "file_content_hash": "e5c138f658f5fcf43a720dd1f07c275b60f03442885e86b78a6c684c5a0c750e",
-      "path": "en/rules/20260519-guidelines-for-management-of-margins-in-sec-and-dermarkets/index.md"
-    },
-    {
-      "id": "210222386-en",
-      "title": "20260526_Enforcement_Rules_of_Market_Oversight_Regulation",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:54:04.183567Z",
-      "content_hash": "2aa6e57de50a3da43263c6a4d61fa063bb64cd362622210bd275ceab351b8ebf",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 시장감시규정",
-      "effective_date": "2026-06-29",
-      "published_date": "2026-06-26",
-      "source_id": "210222386",
-      "file_name": "20260526_Enforcement_Rules_of_Market_Oversight_Regulation.pdf",
-      "raw_path": "en/rules/20260526-enforcement-rules-of-market-oversight-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260526-enforcement-rules-of-market-oversight-regulation/attachments/english-full-text.md",
-      "file_content_hash": "2a4c167bac3ead85b1ed39a6d1a77a129d813329d6db2458ffed85b38769034d",
-      "path": "en/rules/20260526-enforcement-rules-of-market-oversight-regulation/index.md"
-    },
-    {
-      "id": "210215757-en",
-      "title": "20260528_Enforcement_Rules_of_OTC_Derivatives_Clearing_Business_Regulation",
-      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:54:51.857661Z",
-      "content_hash": "457c72027e3ea3469c35f99135ee03a6b39e78b5823cc5ce0cf70bf05e130766",
-      "document_type": "rule",
-      "language": "en",
-      "category": "업무규정 / 장외파생상품청산업무규정",
-      "effective_date": "2026-06-01",
-      "published_date": "2026-05-28",
-      "source_id": "210215757",
-      "file_name": "20260528_Enforcement_Rules_of_OTC_Derivatives_Clearing_Business_Regulation.pdf",
-      "raw_path": "en/rules/20260528-enforcement-rules-of-otc-derivatives-clearing-business-regulation/raw/english-full-text.pdf",
-      "text_path": "en/rules/20260528-enforcement-rules-of-otc-derivatives-clearing-business-regulation/attachments/english-full-text.md",
-      "file_content_hash": "ecfebe22d9773ff33e5d1bebbc6eac955ca7295f46ade49e125adefe4cde9dbe",
-      "path": "en/rules/20260528-enforcement-rules-of-otc-derivatives-clearing-business-regulation/index.md"
+      "path": "en/rules/derivatives-market-business-regulation/index.md"
     },
     {
       "id": "210015705-en",
-      "title": "Dispute_Mediation_Regulation_20250205",
+      "title": "Dispute Mediation Regulation 20250205",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:59:22.687060Z",
-      "content_hash": "bea4dacf5e8e94595178be8e39c0915d3ccc48809997aaac5fc2e3160369bd39",
+      "collected_at": "2026-07-03T21:14:01.392579Z",
+      "content_hash": "76058329e4ea418763d7a2e138794f272d6931d21f5f099faf5abce0f218abe4",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 시장감시규정",
@@ -12392,10 +12069,10 @@
     },
     {
       "id": "210224651-en",
-      "title": "Enforcement_Rules_of_KONEX_Market_Business_Regulation_20260115",
+      "title": "Enforcement Rules of KONEX Market Business Regulation 20260115",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:51:21.636088Z",
-      "content_hash": "a19da8a9a5516379bb6a33bc40eb7257fcd4047ac6f5a35a9b8b94d6307c01ce",
+      "collected_at": "2026-07-03T21:05:49.859098Z",
+      "content_hash": "64a35ac765c7919edb3650f6be01821fc21bdd2f6016afd64d01b7d58024f2d9",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 코넥스시장규정",
@@ -12409,11 +12086,83 @@
       "path": "en/rules/enforcement-rules-of-konex-market-business-regulation-20260115/index.md"
     },
     {
-      "id": "210179748-en",
-      "title": "Enforcement_Rules_of_KOSPI_Market_Disclosure_Regulation_20260225",
+      "id": "210223538-en",
+      "title": "Enforcement Rules of KOSDAQ Market Business Regulation",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:56:43.662778Z",
-      "content_hash": "cbc04de6b03a0c5853d1078c317724055fd172c2f3891b613acd15dd409fb273",
+      "collected_at": "2026-07-03T21:02:47.699267Z",
+      "content_hash": "66fce19fe97d45f6e0148e044bf80b7576d414eab9901064bbf8d3d130958353",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 코스닥시장규정",
+      "effective_date": "2026-07-02",
+      "published_date": "2026-07-01",
+      "source_id": "210223538",
+      "file_name": "20260316_Enforcement_Rules_of_KOSDAQ_Market_Business_Regulation.pdf",
+      "raw_path": "en/rules/enforcement-rules-of-kosdaq-market-business-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/enforcement-rules-of-kosdaq-market-business-regulation/attachments/english-full-text.md",
+      "file_content_hash": "140e99534c2f1a52b55110c68516d5e8d21843703c073663d69b934bfda99f27",
+      "path": "en/rules/enforcement-rules-of-kosdaq-market-business-regulation/index.md"
+    },
+    {
+      "id": "210229371-en",
+      "title": "Enforcement Rules of KOSDAQ Market Disclosure Regulation",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T20:58:12.343194Z",
+      "content_hash": "457a293120415604fae7f2e764132bb5f1beab4c951a2765203f9e8e3bb392b8",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 코스닥시장규정",
+      "effective_date": "2026-07-03",
+      "published_date": "2026-07-02",
+      "source_id": "210229371",
+      "file_name": "20260424_Enforcement_Rules_of_KOSDAQ_Market_Disclosure_Regulation.pdf",
+      "raw_path": "en/rules/enforcement-rules-of-kosdaq-market-disclosure-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/enforcement-rules-of-kosdaq-market-disclosure-regulation/attachments/english-full-text.md",
+      "file_content_hash": "0a3be4708eff4b285d5686d70afef6ad0d6c58baa7c23369160eca97c12056fc",
+      "path": "en/rules/enforcement-rules-of-kosdaq-market-disclosure-regulation/index.md"
+    },
+    {
+      "id": "210222109-en",
+      "title": "Enforcement Rules of KOSDAQ Market Listing Regulation",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T21:04:44.038390Z",
+      "content_hash": "0026c6587cf5d34bc0f02df9db05207a59a4e3683a0665ae6e9a3ddd7c18931d",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 코스닥시장규정",
+      "effective_date": "2026-07-02",
+      "published_date": "2026-07-01",
+      "source_id": "210222109",
+      "file_name": "20260331_Enforcement_Rules_of_KOSDAQ_Market_Listing_Regulation.pdf",
+      "raw_path": "en/rules/enforcement-rules-of-kosdaq-market-listing-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/enforcement-rules-of-kosdaq-market-listing-regulation/attachments/english-full-text.md",
+      "file_content_hash": "f5913176e9296e13cd6e75f344920cdbac96c910d52b65039f7a9e2729995a15",
+      "path": "en/rules/enforcement-rules-of-kosdaq-market-listing-regulation/index.md"
+    },
+    {
+      "id": "210225129-en",
+      "title": "Enforcement Rules of KOSPI Market Business Regulation",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T20:59:23.906668Z",
+      "content_hash": "342e27996fe603a273f29a9be8d521e263b74a539283d4767306ad34a2ee2545",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 유가증권시장규정",
+      "effective_date": "2026-07-02",
+      "published_date": "2026-07-02",
+      "source_id": "210225129",
+      "file_name": "20260427_Enforcement_Rules_of_KOSPI_Market_Business_Regulation.pdf",
+      "raw_path": "en/rules/enforcement-rules-of-kospi-market-business-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/enforcement-rules-of-kospi-market-business-regulation/attachments/english-full-text.md",
+      "file_content_hash": "79cf1faefa8741acefaae9d221856ff5c265e1eccf971aa64d5eb82b5d4f7329",
+      "path": "en/rules/enforcement-rules-of-kospi-market-business-regulation/index.md"
+    },
+    {
+      "id": "210179748-en",
+      "title": "Enforcement Rules of KOSPI Market Disclosure Regulation 20260225",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T21:11:16.024561Z",
+      "content_hash": "6fe64b7ff8fb138b1d89ac0993c613a6e073416d1e5e54589ee0069c60f63d8c",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 유가증권시장규정",
@@ -12428,10 +12177,10 @@
     },
     {
       "id": "210137438-en",
-      "title": "Enforcement_Rules_of_Market_Operation_of_Class_X_Ben._Certificates_20250509",
+      "title": "Enforcement Rules of Market Operation of Class X Ben. Certificates 20250509",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:58:03.936851Z",
-      "content_hash": "0ea36665d96ee66f09e41ac72970b3eab1060f3694d0f409ee6f8a5f9d21d2e0",
+      "collected_at": "2026-07-03T21:12:38.873773Z",
+      "content_hash": "325db69df287037f4b3e668dc08b16b38d7b73ecdd5b1f6997100e004425454b",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 유가증권시장규정",
@@ -12445,11 +12194,65 @@
       "path": "en/rules/enforcement-rules-of-market-operation-of-class-x-ben-certificates-20250509/index.md"
     },
     {
-      "id": "210136803-en",
-      "title": "Enforcement_Rules_of_Reg._on_Operating_the_New-Type_Sec._Market_20251023",
+      "id": "210222386-en",
+      "title": "Enforcement Rules of Market Oversight Regulation",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:57:44.454014Z",
-      "content_hash": "4bd7286395abfb5ff379a7b7c116abb8f895559c75cef7c1a2e5760c90bdbe12",
+      "collected_at": "2026-07-03T21:08:35.038993Z",
+      "content_hash": "0f6e62c09c25c4a169793e53b5506b4876ec288b877b3eb8b5f4ea7098355cff",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 시장감시규정",
+      "effective_date": "2026-06-29",
+      "published_date": "2026-06-26",
+      "source_id": "210222386",
+      "file_name": "20260526_Enforcement_Rules_of_Market_Oversight_Regulation.pdf",
+      "raw_path": "en/rules/enforcement-rules-of-market-oversight-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/enforcement-rules-of-market-oversight-regulation/attachments/english-full-text.md",
+      "file_content_hash": "2a4c167bac3ead85b1ed39a6d1a77a129d813329d6db2458ffed85b38769034d",
+      "path": "en/rules/enforcement-rules-of-market-oversight-regulation/index.md"
+    },
+    {
+      "id": "210204739-en",
+      "title": "Enforcement Rules of Membership Regulation",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T21:10:04.592540Z",
+      "content_hash": "24165385ae552b36b4f0d88e8bbb98ef98c252ca455fff4ed476e2eb49e7d199",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 회원관리규정",
+      "effective_date": "2026-05-04",
+      "published_date": "2026-04-28",
+      "source_id": "210204739",
+      "file_name": "20260428_Enforcement_Rules_of_Membership_Regulation.pdf",
+      "raw_path": "en/rules/enforcement-rules-of-membership-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/enforcement-rules-of-membership-regulation/attachments/english-full-text.md",
+      "file_content_hash": "2f26332161311ac4e1736be4bef577dce57b8895c44f83950c6e442873150518",
+      "path": "en/rules/enforcement-rules-of-membership-regulation/index.md"
+    },
+    {
+      "id": "210215757-en",
+      "title": "Enforcement Rules of OTC Derivatives Clearing Business Regulation",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T21:09:23.648276Z",
+      "content_hash": "9f75aa1362d21a4a062ccf5e4a48d793a19edbd1aa8b3ab9593a2dc69f4cfdb9",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 장외파생상품청산업무규정",
+      "effective_date": "2026-06-01",
+      "published_date": "2026-05-28",
+      "source_id": "210215757",
+      "file_name": "20260528_Enforcement_Rules_of_OTC_Derivatives_Clearing_Business_Regulation.pdf",
+      "raw_path": "en/rules/enforcement-rules-of-otc-derivatives-clearing-business-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/enforcement-rules-of-otc-derivatives-clearing-business-regulation/attachments/english-full-text.md",
+      "file_content_hash": "ecfebe22d9773ff33e5d1bebbc6eac955ca7295f46ade49e125adefe4cde9dbe",
+      "path": "en/rules/enforcement-rules-of-otc-derivatives-clearing-business-regulation/index.md"
+    },
+    {
+      "id": "210136803-en",
+      "title": "Enforcement Rules of Reg. on Operating the New Type Sec. Market 20251023",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T21:12:19.284513Z",
+      "content_hash": "162b035a584c41cfc5217c9023ee052ffd73c08f0d3e994d3dc7f465516927a2",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 유가증권시장규정",
@@ -12463,11 +12266,29 @@
       "path": "en/rules/enforcement-rules-of-reg-on-operating-the-new-type-sec-market-20251023/index.md"
     },
     {
+      "id": "210199110-en",
+      "title": "Enforcement Rules of Securities Market Clearing...",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T21:10:31.154602Z",
+      "content_hash": "d787becdada4e5e7dc53ccbc19331c48355bc143a0502d87bb6f6ee506b654e0",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 증권시장청산결제업무규정",
+      "effective_date": "2026-04-27",
+      "published_date": "2026-04-17",
+      "source_id": "210199110",
+      "file_name": "20260417_Enforcement_Rules_of_Securities_Market_Clearing....pdf",
+      "raw_path": "en/rules/enforcement-rules-of-securities-market-clearing/raw/english-full-text.pdf",
+      "text_path": "en/rules/enforcement-rules-of-securities-market-clearing/attachments/english-full-text.md",
+      "file_content_hash": "3c10852ae3e1dab315a1f408a453ad103ba053b450f1241ffaad060a0a58c2a0",
+      "path": "en/rules/enforcement-rules-of-securities-market-clearing/index.md"
+    },
+    {
       "id": "204847935-en",
       "title": "ESG채권정보플랫폼운영지침",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:01:04.155396Z",
-      "content_hash": "10a8fb2108feeca8c5dc133e0fe5b0e8c9d7a558e6ce670db8f2ae0e233738ee",
+      "collected_at": "2026-07-03T21:15:43.737927Z",
+      "content_hash": "5288be347b86fe48ca1e0d61a4c52ccf1d2751de2b6b14aee1edc74aa80de298",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 유가증권시장규정",
@@ -12481,11 +12302,29 @@
       "path": "en/rules/esg채권정보플랫폼운영지침/index.md"
     },
     {
-      "id": "210217736-en",
-      "title": "Guidelines_for_Operation_of_Member_Margin_Cash_20250227",
+      "id": "210210269-en",
+      "title": "Guidelines for Management of Margins in Sec and DerMarkets",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:54:19.591444Z",
-      "content_hash": "bfd09938b0cec2c702545c5bc2f265d11672aa19dcba994275aa7042846a0756",
+      "collected_at": "2026-07-03T21:09:39.872764Z",
+      "content_hash": "d0b115684937b2e0913717633ec4f95be7afb0c75b38c903e648681488012612",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 공통규정",
+      "effective_date": "2026-05-26",
+      "published_date": "2026-05-19",
+      "source_id": "210210269",
+      "file_name": "20260519_Guidelines_for_Management_of_Margins_in_Sec_and_DerMarkets.pdf",
+      "raw_path": "en/rules/guidelines-for-management-of-margins-in-sec-and-dermarkets/raw/english-full-text.pdf",
+      "text_path": "en/rules/guidelines-for-management-of-margins-in-sec-and-dermarkets/attachments/english-full-text.md",
+      "file_content_hash": "e5c138f658f5fcf43a720dd1f07c275b60f03442885e86b78a6c684c5a0c750e",
+      "path": "en/rules/guidelines-for-management-of-margins-in-sec-and-dermarkets/index.md"
+    },
+    {
+      "id": "210217736-en",
+      "title": "Guidelines for Operation of Member Margin Cash 20250227",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T21:08:50.921409Z",
+      "content_hash": "a0288096fe92e7b8484aef3b4efcbe670d22dabcb4a34e3ebf97b363a6d38950",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 공통규정",
@@ -12500,10 +12339,10 @@
     },
     {
       "id": "210025875-en",
-      "title": "Guidelines_for_the_Management_of_Joint_Compensation_Funds_20250227",
+      "title": "Guidelines for the Management of Joint Compensation Funds 20250227",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:59:29.125855Z",
-      "content_hash": "3de231172132fc0da25473e2d7092e3843b24df98e5c1cc7e67ee55cb6c36ca0",
+      "collected_at": "2026-07-03T21:14:08.022669Z",
+      "content_hash": "c44016a4ca509760113b8fe58d5d5afc395b6a1a126fd97dc1e77a3023251278",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 공통규정",
@@ -12518,10 +12357,10 @@
     },
     {
       "id": "210223624-en",
-      "title": "KONEX_Market_Business_Regulation_20260128",
+      "title": "KONEX Market Business Regulation 20260128",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:50:48.691081Z",
-      "content_hash": "3322e6657bedf9d71d25906f4a51b078968324781dd2d688d7c4e95592e36a3b",
+      "collected_at": "2026-07-03T21:05:16.839888Z",
+      "content_hash": "ab131817c16ccecbd484a762f83eb28df7fbb7e4ec47675ea9db775a8d84b292",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 코넥스시장규정",
@@ -12535,11 +12374,83 @@
       "path": "en/rules/konex-market-business-regulation-20260128/index.md"
     },
     {
+      "id": "210223407-en",
+      "title": "KOSDAQ Market Business Regulation",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T21:01:59.419508Z",
+      "content_hash": "b32567131373afb26337c1eb0c7cd038e96084ab002e8a3fb3d81783d31fc3aa",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 코스닥시장규정",
+      "effective_date": "2026-07-02",
+      "published_date": "2026-07-01",
+      "source_id": "210223407",
+      "file_name": "20260304_KOSDAQ_Market_Business_Regulation.pdf",
+      "raw_path": "en/rules/kosdaq-market-business-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/kosdaq-market-business-regulation/attachments/english-full-text.md",
+      "file_content_hash": "1c80af77c15e2e11e5413f538059dda89ca34bdcc26f98756fb6e1bf3031a955",
+      "path": "en/rules/kosdaq-market-business-regulation/index.md"
+    },
+    {
+      "id": "210225665-en",
+      "title": "KOSPI Market Business Regulation",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T20:58:20.113123Z",
+      "content_hash": "a92bd144bb8dad39b967f1c0b506dadecc0a33aa426a9b44599ac1bbcabcf015",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 유가증권시장규정",
+      "effective_date": "2026-07-02",
+      "published_date": "2026-07-01",
+      "source_id": "210225665",
+      "file_name": "20260415_KOSPI_Market_Business_Regulation.pdf",
+      "raw_path": "en/rules/kospi-market-business-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/kospi-market-business-regulation/attachments/english-full-text.md",
+      "file_content_hash": "08c84c350e9adbeef2c0de491fb6a411b7b2fd31247a2d5acf66a8f96aa2fd70",
+      "path": "en/rules/kospi-market-business-regulation/index.md"
+    },
+    {
+      "id": "210227471-en",
+      "title": "KOSPI Market Disclosure Regulation",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T20:59:55.706118Z",
+      "content_hash": "629c403f9ee84ed00dcb264d7e5c570253a8405c664514044b8e6d6825d31fa9",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 유가증권시장규정",
+      "effective_date": "2026-07-02",
+      "published_date": "2026-07-01",
+      "source_id": "210227471",
+      "file_name": "20260415_KOSPI_Market_Disclosure_Regulation.pdf",
+      "raw_path": "en/rules/kospi-market-disclosure-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/kospi-market-disclosure-regulation/attachments/english-full-text.md",
+      "file_content_hash": "7d92bf52a9744e27d53c7ce3ff904768dc00260900d14068cbffaa942fd3d40b",
+      "path": "en/rules/kospi-market-disclosure-regulation/index.md"
+    },
+    {
+      "id": "210220143-en",
+      "title": "KOSPI Market Listing Regulation",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T21:00:07.434117Z",
+      "content_hash": "d92e0d0f2a2512bf5c87a3311d1544d8ad7f12f69251b553de45f7023e36bc8b",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 유가증권시장규정",
+      "effective_date": "2026-07-02",
+      "published_date": "2026-07-01",
+      "source_id": "210220143",
+      "file_name": "20260415_KOSPI_Market_Listing_Regulation.pdf",
+      "raw_path": "en/rules/kospi-market-listing-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/kospi-market-listing-regulation/attachments/english-full-text.md",
+      "file_content_hash": "a07a9c57feebb80b0f4625c8e3bb6f2d0d0cc5c982c570569b77cf481dba1874",
+      "path": "en/rules/kospi-market-listing-regulation/index.md"
+    },
+    {
       "id": "204847392-en",
       "title": "KRX석유시장운영규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:01:36.636455Z",
-      "content_hash": "5d3d6b57d5de43e7c68bbe41986e76efa05a65d866ef6a1633acdba75744f9f7",
+      "collected_at": "2026-07-03T21:16:16.241101Z",
+      "content_hash": "1aee0abd7ed1aa9f4cb6555913a57e9df4c4d80caa6a9ebcaa15a44ed4ea3401",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 일반상품시장규정",
@@ -12554,10 +12465,10 @@
     },
     {
       "id": "210162282-en",
-      "title": "Market_Oversight_Regulation_20260129",
+      "title": "Market Oversight Regulation 20260129",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:56:51.731303Z",
-      "content_hash": "2b5ae7b8946f698213814f633410194820874d84a0c505f8ad77f1228efe057e",
+      "collected_at": "2026-07-03T21:11:24.985974Z",
+      "content_hash": "64a0b1eaf3062f5bbe69566740e329593e9db461fc9c78afbd939aee9010dd02",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 시장감시규정",
@@ -12571,11 +12482,47 @@
       "path": "en/rules/market-oversight-regulation-20260129/index.md"
     },
     {
-      "id": "210049902-en",
-      "title": "Reg._on_the_Market_Operation_of_Class_X_Beneficiary_Certificates_20250326",
+      "id": "210073008-en",
+      "title": "Membership Regulation",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:59:13.066546Z",
-      "content_hash": "3387af30d87ca91b289c6a0c6d08f62f26e588b73229ee8f1994d5c5ddf3eb4b",
+      "collected_at": "2026-07-03T21:12:49.952960Z",
+      "content_hash": "977867d08980487908e24ec958cc8be69b86c91dae6c84c493a9f6bd918a3a3c",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 회원관리규정",
+      "effective_date": "2025-09-22",
+      "published_date": "2025-09-22",
+      "source_id": "210073008",
+      "file_name": "20250922_Membership_Regulation.pdf",
+      "raw_path": "en/rules/membership-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/membership-regulation/attachments/english-full-text.md",
+      "file_content_hash": "c1f006644de47f17d2731bda55008919fcc7bac7d98580018e3100b2ae7b9ee5",
+      "path": "en/rules/membership-regulation/index.md"
+    },
+    {
+      "id": "210124485-en",
+      "title": "OTC Derivatives Clearing and Settlement Business Regulation",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T21:11:51.094917Z",
+      "content_hash": "31a8ec91c50ee342b0e8ec0dfb02ee9159b11b9058b1aceece9a3c8c1dcefc56",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 장외파생상품청산업무규정",
+      "effective_date": "2025-10-27",
+      "published_date": "2025-09-17",
+      "source_id": "210124485",
+      "file_name": "20250917_OTC_Derivatives_Clearing_and_Settlement_Business_Regulation.pdf",
+      "raw_path": "en/rules/otc-derivatives-clearing-and-settlement-business-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/otc-derivatives-clearing-and-settlement-business-regulation/attachments/english-full-text.md",
+      "file_content_hash": "321e15dc8de8f6c9d0d583e14417fd9a61acc8d85f654b2762a8e7c4c9568f9f",
+      "path": "en/rules/otc-derivatives-clearing-and-settlement-business-regulation/index.md"
+    },
+    {
+      "id": "210049902-en",
+      "title": "Reg. on the Market Operation of Class X Beneficiary Certificates 20250326",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T21:13:50.790110Z",
+      "content_hash": "5dd535062929afe15b1b15d7fa8fb7d79196e052feb6fc0669bf1c69ba4934f9",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 유가증권시장규정",
@@ -12590,10 +12537,10 @@
     },
     {
       "id": "210124215-en",
-      "title": "Regulations_on_Operating_the_New-Type_Securities_Market_20250922",
+      "title": "Regulations on Operating the New Type Securities Market 20250922",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:58:09.992499Z",
-      "content_hash": "e69537758c1fa9b794eb9543450af0878531a114c3d219d7a6ec88bdb592ef55",
+      "collected_at": "2026-07-03T21:12:45.323505Z",
+      "content_hash": "f79d328ad7b35dab88a433a1513cf29d241ce60a58e6864336b8880ea9ff6ec0",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 유가증권시장규정",
@@ -12607,11 +12554,29 @@
       "path": "en/rules/regulations-on-operating-the-new-type-securities-market-20250922/index.md"
     },
     {
+      "id": "210185757-en",
+      "title": "Securities Market Clearing and Settlement Business Regulation",
+      "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+      "collected_at": "2026-07-03T21:10:09.343078Z",
+      "content_hash": "241c3d6c41b5bf80291112add35f588524e87cfb6dc5d393d213d4a7c6960455",
+      "document_type": "rule",
+      "language": "en",
+      "category": "업무규정 / 증권시장청산결제업무규정",
+      "effective_date": "2026-04-27",
+      "published_date": "2026-03-04",
+      "source_id": "210185757",
+      "file_name": "20260304_Securities_Market_Clearing_and_Settlement_Business_Regulation.pdf",
+      "raw_path": "en/rules/securities-market-clearing-and-settlement-business-regulation/raw/english-full-text.pdf",
+      "text_path": "en/rules/securities-market-clearing-and-settlement-business-regulation/attachments/english-full-text.md",
+      "file_content_hash": "1773492e027dc25b20a100da846b48815d00753dc9576d9875fda1d11d59d445",
+      "path": "en/rules/securities-market-clearing-and-settlement-business-regulation/index.md"
+    },
+    {
       "id": "204847960-en",
       "title": "거래정보저장업무규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:01:55.876594Z",
-      "content_hash": "75fb27440fdb6684c63bba61cc3c8c3776f2037fa4323b2207a32722f6aafb26",
+      "collected_at": "2026-07-03T21:16:35.578832Z",
+      "content_hash": "d3858e08530802bc357715137b7c941caee32cb12766a4f83cbb081ae3363287",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 거래정보저장업무규정",
@@ -12628,8 +12593,8 @@
       "id": "204844636-en",
       "title": "분쟁조정규정시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:01:24.196234Z",
-      "content_hash": "3109709f7818029801c035863f6ae232bd81800941808174bf6ddfdacafa7fab",
+      "collected_at": "2026-07-03T21:16:04.198987Z",
+      "content_hash": "d6a46c056cc810ca27619925615d6a400a73f2531aa29a322b6c0301194f65f9",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 시장감시규정",
@@ -12646,8 +12611,8 @@
       "id": "204847401-en",
       "title": "석유제품현물전자상거래용수입석유제품의할당관세세부추천요령",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:02:43.621117Z",
-      "content_hash": "7e0478cdb463b1c4dcee635506e485f03420bf6d3b28c11e544a39a03f1c4832",
+      "collected_at": "2026-07-03T21:17:22.692710Z",
+      "content_hash": "af8bb37f942189c0ca350867a8190de75d7f5e204d9ceabc9e9fe564e620361b",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 일반상품시장규정",
@@ -12664,8 +12629,8 @@
       "id": "204844585-en",
       "title": "유가증권시장공정공시운영기준",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:00:55.011583Z",
-      "content_hash": "37bce78e70017532e9c5c1767ea06cf1607acb32afcdf3d96e112ce69c39941a",
+      "collected_at": "2026-07-03T21:15:34.398832Z",
+      "content_hash": "7a94596d7b662fdf3fe7133b1ce298316c317beeb94709505021264494c8bbf9",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 유가증권시장규정",
@@ -12682,8 +12647,8 @@
       "id": "210016572-en",
       "title": "정관",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T14:59:16.806915Z",
-      "content_hash": "cca708537f0b517385ecf5e278d240d34312924b641630a7c0a86339b2c4382d",
+      "collected_at": "2026-07-03T21:13:54.962950Z",
+      "content_hash": "44264eacc83583af0d26c73e70d00c98e3f877a899112f9e6645757c98d255f6",
       "document_type": "rule",
       "language": "en",
       "category": "정관",
@@ -12700,8 +12665,8 @@
       "id": "204844930-en",
       "title": "코스닥시장공정공시운영기준",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-03T15:00:58.050330Z",
-      "content_hash": "6995bf7ebff9cd65b1c55adbd93163d0edca1d2874420fdd06cbdf60727b1f55",
+      "collected_at": "2026-07-03T21:15:37.498051Z",
+      "content_hash": "a71253a3e73405d7b03b88c42711c788a1817ce90cdd4a5365fd49f48002b216",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 코스닥시장규정",
@@ -12732,8 +12697,7 @@
       "quality_score": 100,
       "converted_text_chars": 2642,
       "converted_non_space_chars": 2109,
-      "table_row_count": 3,
-      "formula_hint_count": 3
+      "table_row_count": 3
     },
     {
       "id": "204847935-202404300000008790000270002-byl-hwp",
@@ -13039,8 +13003,7 @@
       "quality_score": 100,
       "converted_text_chars": 621,
       "converted_non_space_chars": 475,
-      "table_row_count": 4,
-      "formula_hint_count": 1
+      "table_row_count": 4
     },
     {
       "id": "204847757-202410150000022550000233012-byl-hwp",
@@ -13075,8 +13038,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 496,
-      "converted_non_space_chars": 362,
-      "formula_hint_count": 3
+      "converted_non_space_chars": 362
     },
     {
       "id": "204847757-202410150000022550000233014-byl-hwp",
@@ -13111,8 +13073,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 456,
-      "converted_non_space_chars": 332,
-      "formula_hint_count": 2
+      "converted_non_space_chars": 332
     },
     {
       "id": "204847757-202410150000022550000233016-byl-hwp",
@@ -13448,8 +13409,7 @@
       "quality_score": 100,
       "converted_text_chars": 509,
       "converted_non_space_chars": 429,
-      "table_row_count": 1,
-      "formula_hint_count": 1
+      "table_row_count": 1
     },
     {
       "id": "210188913-202406250000022380000232009-byl-hwp",
@@ -13828,8 +13788,7 @@
       "quality_score": 100,
       "converted_text_chars": 180389,
       "converted_non_space_chars": 133624,
-      "table_row_count": 1858,
-      "formula_hint_count": 4
+      "table_row_count": 1858
     },
     {
       "id": "210024015-202409200000022490000294002-byl-hwp",
@@ -13883,8 +13842,7 @@
       "quality_score": 100,
       "converted_text_chars": 2680,
       "converted_non_space_chars": 2091,
-      "table_row_count": 40,
-      "formula_hint_count": 4
+      "table_row_count": 40
     },
     {
       "id": "210024015-202409200000022490000294005-byl-hwp",
@@ -13938,8 +13896,7 @@
       "quality_score": 100,
       "converted_text_chars": 2325,
       "converted_non_space_chars": 1775,
-      "table_row_count": 40,
-      "formula_hint_count": 4
+      "table_row_count": 40
     },
     {
       "id": "210024015-202409200000022490000294008-byl-hwp",
@@ -13975,8 +13932,7 @@
       "quality_score": 100,
       "converted_text_chars": 902,
       "converted_non_space_chars": 772,
-      "table_row_count": 1,
-      "formula_hint_count": 1
+      "table_row_count": 1
     },
     {
       "id": "210024015-202409200000022490000294010-byl-hwp",
@@ -14081,10 +14037,11 @@
       "size": 56320,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 11299,
+      "converted_text_chars": 11295,
       "converted_non_space_chars": 8828,
       "table_row_count": 48,
-      "formula_hint_count": 27
+      "formula_block_count": 5,
+      "formula_hint_count": 32
     },
     {
       "id": "210205830-210077901-hwp",
@@ -14138,8 +14095,7 @@
       "quality_score": 100,
       "converted_text_chars": 534,
       "converted_non_space_chars": 471,
-      "table_row_count": 1,
-      "formula_hint_count": 2
+      "table_row_count": 1
     },
     {
       "id": "210205830-210077929-hwp",
@@ -14283,8 +14239,7 @@
       "quality_score": 100,
       "converted_text_chars": 623,
       "converted_non_space_chars": 476,
-      "table_row_count": 4,
-      "formula_hint_count": 1
+      "table_row_count": 4
     },
     {
       "id": "204847824-202410150000022540000246008-byl-hwp",
@@ -14319,8 +14274,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 499,
-      "converted_non_space_chars": 363,
-      "formula_hint_count": 3
+      "converted_non_space_chars": 363
     },
     {
       "id": "204847824-202410150000022540000246010-byl-hwp",
@@ -14355,8 +14309,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 459,
-      "converted_non_space_chars": 334,
-      "formula_hint_count": 2
+      "converted_non_space_chars": 334
     },
     {
       "id": "204847824-202410150000022540000246012-byl-hwp",
@@ -14832,8 +14785,7 @@
       "quality_score": 100,
       "converted_text_chars": 1966,
       "converted_non_space_chars": 1517,
-      "table_row_count": 14,
-      "formula_hint_count": 1
+      "table_row_count": 14
     },
     {
       "id": "204847401-201301100000003130000194002-byl-hwp",
@@ -15030,8 +14982,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 730,
-      "converted_non_space_chars": 535,
-      "formula_hint_count": 1
+      "converted_non_space_chars": 535
     },
     {
       "id": "210025875-201902150000006310000083001-byl-hwp",
@@ -15157,8 +15108,7 @@
       "quality_score": 100,
       "converted_text_chars": 728,
       "converted_non_space_chars": 565,
-      "table_row_count": 1,
-      "formula_hint_count": 1
+      "table_row_count": 1
     },
     {
       "id": "210222386-202410150000022530000006008-byl-hwp",
@@ -15284,8 +15234,7 @@
       "quality_score": 100,
       "converted_text_chars": 2418,
       "converted_non_space_chars": 1561,
-      "table_row_count": 1,
-      "formula_hint_count": 1
+      "table_row_count": 1
     },
     {
       "id": "210222386-210036234-hwp",
@@ -15303,8 +15252,7 @@
       "quality_score": 100,
       "converted_text_chars": 501,
       "converted_non_space_chars": 430,
-      "table_row_count": 1,
-      "formula_hint_count": 1
+      "table_row_count": 1
     },
     {
       "id": "210222386-210036248-hwp",
@@ -15322,8 +15270,7 @@
       "quality_score": 100,
       "converted_text_chars": 384,
       "converted_non_space_chars": 314,
-      "table_row_count": 1,
-      "formula_hint_count": 1
+      "table_row_count": 1
     },
     {
       "id": "210222386-210068401-hwp",
@@ -15340,8 +15287,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 606,
-      "converted_non_space_chars": 454,
-      "formula_hint_count": 2
+      "converted_non_space_chars": 454
     },
     {
       "id": "210222386-202410150000022530000006017-byl-hwp",
@@ -15359,8 +15305,7 @@
       "quality_score": 100,
       "converted_text_chars": 535,
       "converted_non_space_chars": 398,
-      "table_row_count": 5,
-      "formula_hint_count": 1
+      "table_row_count": 5
     },
     {
       "id": "210222386-202410150000022530000006020-byl-hwp",
@@ -15378,8 +15323,7 @@
       "quality_score": 100,
       "converted_text_chars": 403,
       "converted_non_space_chars": 312,
-      "table_row_count": 3,
-      "formula_hint_count": 1
+      "table_row_count": 3
     },
     {
       "id": "210222386-202410150000022530000006021-byl-hwp",
@@ -15397,8 +15341,7 @@
       "quality_score": 100,
       "converted_text_chars": 855,
       "converted_non_space_chars": 671,
-      "table_row_count": 5,
-      "formula_hint_count": 1
+      "table_row_count": 5
     },
     {
       "id": "210222386-202410150000022530000006022-byl-hwp",
@@ -15416,8 +15359,7 @@
       "quality_score": 100,
       "converted_text_chars": 583,
       "converted_non_space_chars": 425,
-      "table_row_count": 7,
-      "formula_hint_count": 1
+      "table_row_count": 7
     },
     {
       "id": "210222386-210068447-hwp",
@@ -15434,8 +15376,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 609,
-      "converted_non_space_chars": 461,
-      "formula_hint_count": 2
+      "converted_non_space_chars": 461
     },
     {
       "id": "210222386-202410150000022530000006024-byl-hwp",
@@ -15489,8 +15430,7 @@
       "quality_score": 100,
       "converted_text_chars": 916,
       "converted_non_space_chars": 665,
-      "table_row_count": 7,
-      "formula_hint_count": 2
+      "table_row_count": 7
     },
     {
       "id": "210222386-202410150000022530000006027-byl-hwp",
@@ -15563,7 +15503,7 @@
       "converted_text_chars": 2278,
       "converted_non_space_chars": 1766,
       "table_row_count": 8,
-      "formula_hint_count": 12
+      "formula_hint_count": 2
     },
     {
       "id": "210136803-210136986-hwp",
@@ -15581,7 +15521,7 @@
       "quality_score": 100,
       "converted_text_chars": 886,
       "converted_non_space_chars": 669,
-      "formula_hint_count": 2
+      "formula_hint_count": 1
     },
     {
       "id": "210136803-210136989-hwp",
@@ -15778,7 +15718,7 @@
       "converted_text_chars": 617,
       "converted_non_space_chars": 524,
       "table_row_count": 1,
-      "formula_hint_count": 2
+      "formula_hint_count": 1
     },
     {
       "id": "210136803-210137022-hwp",
@@ -15976,8 +15916,7 @@
       "quality_score": 100,
       "converted_text_chars": 405,
       "converted_non_space_chars": 325,
-      "table_row_count": 1,
-      "formula_hint_count": 2
+      "table_row_count": 1
     },
     {
       "id": "210179748-202411140000022700000013010-byl-hwp",
@@ -16138,8 +16077,7 @@
       "quality_score": 100,
       "converted_text_chars": 8472,
       "converted_non_space_chars": 6157,
-      "table_row_count": 1,
-      "formula_hint_count": 1
+      "table_row_count": 1
     },
     {
       "id": "210222644-202406140000022350000016005-byl-hwp",
@@ -16157,8 +16095,7 @@
       "quality_score": 100,
       "converted_text_chars": 5460,
       "converted_non_space_chars": 3727,
-      "table_row_count": 1,
-      "formula_hint_count": 2
+      "table_row_count": 1
     },
     {
       "id": "210222644-210203409-hwp",
@@ -16177,7 +16114,7 @@
       "converted_text_chars": 10351,
       "converted_non_space_chars": 7339,
       "table_row_count": 1,
-      "formula_hint_count": 2
+      "formula_hint_count": 1
     },
     {
       "id": "210222644-210205138-hwp",
@@ -16195,8 +16132,7 @@
       "quality_score": 100,
       "converted_text_chars": 11231,
       "converted_non_space_chars": 8682,
-      "table_row_count": 58,
-      "formula_hint_count": 1
+      "table_row_count": 58
     },
     {
       "id": "210222644-202406140000022350000016008-byl-hwp",
@@ -16304,8 +16240,7 @@
       "quality_score": 100,
       "converted_text_chars": 10178,
       "converted_non_space_chars": 7177,
-      "table_row_count": 3,
-      "formula_hint_count": 1
+      "table_row_count": 3
     },
     {
       "id": "210222644-202406140000022350000016014-byl-hwp",
@@ -16360,8 +16295,7 @@
       "quality_score": 100,
       "converted_text_chars": 12711,
       "converted_non_space_chars": 9995,
-      "table_row_count": 40,
-      "formula_hint_count": 1
+      "table_row_count": 40
     },
     {
       "id": "210222644-202406140000022350000016017-byl-hwp",
@@ -16507,7 +16441,7 @@
       "converted_text_chars": 4838,
       "converted_non_space_chars": 3305,
       "table_row_count": 1,
-      "formula_hint_count": 29
+      "formula_hint_count": 2
     },
     {
       "id": "210222644-202406140000022350000016025-byl-hwp",
@@ -16526,7 +16460,7 @@
       "converted_text_chars": 3836,
       "converted_non_space_chars": 2648,
       "table_row_count": 1,
-      "formula_hint_count": 20
+      "formula_hint_count": 2
     },
     {
       "id": "210222644-202406140000022350000016026-byl-hwp",
@@ -16545,7 +16479,7 @@
       "converted_text_chars": 6318,
       "converted_non_space_chars": 4454,
       "table_row_count": 1,
-      "formula_hint_count": 52
+      "formula_hint_count": 2
     },
     {
       "id": "210222644-202406140000022350000016027-byl-hwp",
@@ -16564,7 +16498,7 @@
       "converted_text_chars": 6477,
       "converted_non_space_chars": 4595,
       "table_row_count": 1,
-      "formula_hint_count": 51
+      "formula_hint_count": 2
     },
     {
       "id": "210222644-202406140000022350000016028-byl-hwp",
@@ -16583,7 +16517,7 @@
       "converted_text_chars": 6691,
       "converted_non_space_chars": 4774,
       "table_row_count": 1,
-      "formula_hint_count": 64
+      "formula_hint_count": 2
     },
     {
       "id": "210222644-202406140000022350000016029-byl-hwp",
@@ -16602,7 +16536,7 @@
       "converted_text_chars": 6744,
       "converted_non_space_chars": 4819,
       "table_row_count": 1,
-      "formula_hint_count": 66
+      "formula_hint_count": 2
     },
     {
       "id": "210222644-202406140000022350000016030-byl-hwp",
@@ -16621,7 +16555,7 @@
       "converted_text_chars": 5077,
       "converted_non_space_chars": 3525,
       "table_row_count": 1,
-      "formula_hint_count": 36
+      "formula_hint_count": 2
     },
     {
       "id": "210222644-202406140000022350000016031-byl-hwp",
@@ -16658,7 +16592,7 @@
       "converted_text_chars": 3881,
       "converted_non_space_chars": 2308,
       "table_row_count": 1,
-      "formula_hint_count": 22
+      "formula_hint_count": 4
     },
     {
       "id": "210222644-202406140000022350000016033-byl-hwp",
@@ -16695,7 +16629,7 @@
       "converted_text_chars": 2340,
       "converted_non_space_chars": 1495,
       "table_row_count": 1,
-      "formula_hint_count": 8
+      "formula_hint_count": 1
     },
     {
       "id": "210222644-202406140000022350000016035-byl-hwp",
@@ -17060,7 +16994,7 @@
       "converted_text_chars": 6223,
       "converted_non_space_chars": 3846,
       "table_row_count": 1,
-      "formula_hint_count": 20
+      "formula_hint_count": 1
     },
     {
       "id": "210222644-202406140000022350000016055-byl-hwp",
@@ -17079,7 +17013,7 @@
       "converted_text_chars": 4221,
       "converted_non_space_chars": 2648,
       "table_row_count": 6,
-      "formula_hint_count": 2
+      "formula_hint_count": 1
     },
     {
       "id": "210222644-202406140000022350000016056-byl-hwp",
@@ -17403,7 +17337,7 @@
       "converted_text_chars": 4492,
       "converted_non_space_chars": 3394,
       "table_row_count": 24,
-      "formula_hint_count": 17
+      "formula_hint_count": 13
     },
     {
       "id": "210225129-202410290000022560000111019-byl-hwp",
@@ -17732,8 +17666,7 @@
       "quality_score": 100,
       "converted_text_chars": 379,
       "converted_non_space_chars": 282,
-      "table_row_count": 4,
-      "formula_hint_count": 1
+      "table_row_count": 4
     },
     {
       "id": "210225129-202410290000022560000111037-byl-hwp",
@@ -17860,7 +17793,8 @@
       "converted_text_chars": 4282,
       "converted_non_space_chars": 3540,
       "table_row_count": 1,
-      "formula_hint_count": 28
+      "formula_block_count": 17,
+      "formula_hint_count": 45
     },
     {
       "id": "210215757-210136278-hwp",
@@ -17876,10 +17810,11 @@
       "size": 53248,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 12544,
+      "converted_text_chars": 12536,
       "converted_non_space_chars": 10255,
       "table_row_count": 27,
-      "formula_hint_count": 65
+      "formula_block_count": 62,
+      "formula_hint_count": 127
     },
     {
       "id": "210215757-210215841-hwp",
@@ -17913,10 +17848,11 @@
       "size": 82944,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 64134,
+      "converted_text_chars": 63968,
       "converted_non_space_chars": 52735,
       "table_row_count": 18,
-      "formula_hint_count": 459
+      "formula_block_count": 285,
+      "formula_hint_count": 744
     },
     {
       "id": "210215757-210136686-hwp",
@@ -17935,7 +17871,8 @@
       "converted_text_chars": 11018,
       "converted_non_space_chars": 7825,
       "table_row_count": 62,
-      "formula_hint_count": 10
+      "formula_block_count": 10,
+      "formula_hint_count": 20
     },
     {
       "id": "210215757-210136751-hwp",
@@ -17951,10 +17888,11 @@
       "size": 48128,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 8919,
+      "converted_text_chars": 8899,
       "converted_non_space_chars": 7352,
       "table_row_count": 1,
-      "formula_hint_count": 55
+      "formula_block_count": 44,
+      "formula_hint_count": 99
     },
     {
       "id": "210215757-202409260000022520000225007-byl-hwp",
@@ -17972,7 +17910,8 @@
       "quality_score": 100,
       "converted_text_chars": 1427,
       "converted_non_space_chars": 1175,
-      "formula_hint_count": 11
+      "formula_block_count": 7,
+      "formula_hint_count": 18
     },
     {
       "id": "210215757-210136777-hwp",
@@ -17991,7 +17930,8 @@
       "converted_text_chars": 2047,
       "converted_non_space_chars": 1685,
       "table_row_count": 3,
-      "formula_hint_count": 13
+      "formula_block_count": 7,
+      "formula_hint_count": 20
     },
     {
       "id": "210215757-210136795-hwp",
@@ -18026,8 +17966,7 @@
       "quality_score": 100,
       "converted_text_chars": 1801,
       "converted_non_space_chars": 1351,
-      "table_row_count": 3,
-      "formula_hint_count": 2
+      "table_row_count": 3
     },
     {
       "id": "210215757-202409260000022520000225011-byl-hwp",
@@ -18388,8 +18327,7 @@
       "quality_score": 100,
       "converted_text_chars": 3670,
       "converted_non_space_chars": 2711,
-      "table_row_count": 29,
-      "formula_hint_count": 1
+      "table_row_count": 29
     },
     {
       "id": "210203237-202312280000008630000123004-byl-hwp",
@@ -18707,10 +18645,11 @@
       "size": 55296,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4775,
+      "converted_text_chars": 4771,
       "converted_non_space_chars": 3601,
       "table_row_count": 24,
-      "formula_hint_count": 2
+      "formula_block_count": 1,
+      "formula_hint_count": 3
     },
     {
       "id": "210202173-210218085-hwp",
@@ -18762,10 +18701,11 @@
       "size": 71168,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 25047,
+      "converted_text_chars": 25011,
       "converted_non_space_chars": 19890,
       "table_row_count": 86,
-      "formula_hint_count": 111
+      "formula_block_count": 24,
+      "formula_hint_count": 133
     },
     {
       "id": "210202173-210134276-hwp",
@@ -18854,8 +18794,7 @@
       "quality_score": 100,
       "converted_text_chars": 607,
       "converted_non_space_chars": 539,
-      "table_row_count": 1,
-      "formula_hint_count": 2
+      "table_row_count": 1
     },
     {
       "id": "210202173-202404120000008760000292010-byl-hwp",
@@ -19106,9 +19045,10 @@
       "size": 35328,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1371,
-      "converted_non_space_chars": 1129,
-      "formula_hint_count": 7
+      "converted_text_chars": 1369,
+      "converted_non_space_chars": 1127,
+      "formula_block_count": 5,
+      "formula_hint_count": 12
     },
     {
       "id": "210210269-202212290000008140000259002-byl-hwp",
@@ -19126,7 +19066,8 @@
       "quality_score": 100,
       "converted_text_chars": 1332,
       "converted_non_space_chars": 1087,
-      "formula_hint_count": 13
+      "formula_block_count": 5,
+      "formula_hint_count": 18
     },
     {
       "id": "210210269-210210295-hwp",
@@ -19163,7 +19104,8 @@
       "converted_text_chars": 3126,
       "converted_non_space_chars": 2551,
       "table_row_count": 1,
-      "formula_hint_count": 26
+      "formula_block_count": 7,
+      "formula_hint_count": 33
     },
     {
       "id": "210224312-210183729-hwp",
@@ -19362,7 +19304,7 @@
       "converted_text_chars": 87494,
       "converted_non_space_chars": 66308,
       "table_row_count": 371,
-      "formula_hint_count": 368
+      "formula_hint_count": 367
     },
     {
       "id": "210222787-202406140000022340000213009-byl-hwp",
@@ -19501,8 +19443,7 @@
       "quality_score": 100,
       "converted_text_chars": 1062,
       "converted_non_space_chars": 837,
-      "table_row_count": 2,
-      "formula_hint_count": 1
+      "table_row_count": 2
     },
     {
       "id": "210222787-202406140000022340000213017-byl-hwp",
@@ -19556,8 +19497,7 @@
       "quality_score": 100,
       "converted_text_chars": 5314,
       "converted_non_space_chars": 3927,
-      "table_row_count": 64,
-      "formula_hint_count": 1
+      "table_row_count": 64
     },
     {
       "id": "210222787-202406140000022340000213020-byl-hwp",
@@ -19722,7 +19662,7 @@
       "converted_text_chars": 56513,
       "converted_non_space_chars": 42514,
       "table_row_count": 271,
-      "formula_hint_count": 229
+      "formula_hint_count": 222
     },
     {
       "id": "210222787-202406140000022340000213028-byl-hwp",
@@ -19741,7 +19681,7 @@
       "converted_text_chars": 86994,
       "converted_non_space_chars": 65867,
       "table_row_count": 366,
-      "formula_hint_count": 358
+      "formula_hint_count": 357
     },
     {
       "id": "210222787-202406140000022340000213029-byl-hwp",
@@ -19760,7 +19700,7 @@
       "converted_text_chars": 87094,
       "converted_non_space_chars": 65754,
       "table_row_count": 368,
-      "formula_hint_count": 359
+      "formula_hint_count": 357
     },
     {
       "id": "210222787-202406140000022340000213030-byl-hwp",
@@ -20244,8 +20184,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 306,
-      "converted_non_space_chars": 222,
-      "formula_hint_count": 2
+      "converted_non_space_chars": 222
     },
     {
       "id": "210229371-202411140000022690000110006-byl-hwp",
@@ -20279,8 +20218,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 277,
-      "converted_non_space_chars": 201,
-      "formula_hint_count": 1
+      "converted_non_space_chars": 201
     },
     {
       "id": "210229371-202411140000022690000110008-byl-hwp",
@@ -20351,8 +20289,7 @@
       "quality_score": 100,
       "converted_text_chars": 643,
       "converted_non_space_chars": 471,
-      "table_row_count": 3,
-      "formula_hint_count": 1
+      "table_row_count": 3
     },
     {
       "id": "210229371-210202578-hwp",
@@ -20369,8 +20306,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 283,
-      "converted_non_space_chars": 217,
-      "formula_hint_count": 1
+      "converted_non_space_chars": 217
     },
     {
       "id": "210229371-202411140000022690000110011-byl-hwp",
@@ -20439,8 +20375,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 334,
-      "converted_non_space_chars": 252,
-      "formula_hint_count": 1
+      "converted_non_space_chars": 252
     },
     {
       "id": "210102217-202404290000008780000307001-byl-hwp",
@@ -20512,8 +20447,7 @@
       "quality_score": 100,
       "converted_text_chars": 13417,
       "converted_non_space_chars": 10042,
-      "table_row_count": 7,
-      "formula_hint_count": 1
+      "table_row_count": 7
     },
     {
       "id": "210222109-210190046-hwp",
@@ -20531,8 +20465,7 @@
       "quality_score": 100,
       "converted_text_chars": 2712,
       "converted_non_space_chars": 2163,
-      "table_row_count": 5,
-      "formula_hint_count": 1
+      "table_row_count": 5
     },
     {
       "id": "210222109-202407120000022430000112003-byl-hwp",
@@ -20749,8 +20682,7 @@
       "quality_score": 100,
       "converted_text_chars": 3566,
       "converted_non_space_chars": 2571,
-      "table_row_count": 1,
-      "formula_hint_count": 1
+      "table_row_count": 1
     },
     {
       "id": "210222109-210225004-hwp",
@@ -20988,8 +20920,7 @@
       "quality_score": 100,
       "converted_text_chars": 2705,
       "converted_non_space_chars": 1947,
-      "table_row_count": 2,
-      "formula_hint_count": 2
+      "table_row_count": 2
     },
     {
       "id": "210222109-210190303-hwp",
@@ -21026,7 +20957,7 @@
       "converted_text_chars": 2440,
       "converted_non_space_chars": 1574,
       "table_row_count": 1,
-      "formula_hint_count": 8
+      "formula_hint_count": 1
     },
     {
       "id": "210222109-210190403-hwp",
@@ -21064,7 +20995,7 @@
       "converted_text_chars": 5851,
       "converted_non_space_chars": 3979,
       "table_row_count": 1,
-      "formula_hint_count": 29
+      "formula_hint_count": 2
     },
     {
       "id": "210222109-202407120000022430000112032-byl-hwp",
@@ -21083,7 +21014,7 @@
       "converted_text_chars": 5409,
       "converted_non_space_chars": 3699,
       "table_row_count": 1,
-      "formula_hint_count": 29
+      "formula_hint_count": 2
     },
     {
       "id": "210222109-202407120000022430000112033-byl-hwp",
@@ -21102,7 +21033,7 @@
       "converted_text_chars": 9094,
       "converted_non_space_chars": 6352,
       "table_row_count": 1,
-      "formula_hint_count": 93
+      "formula_hint_count": 2
     },
     {
       "id": "210222109-202407120000022430000112034-byl-hwp",
@@ -21121,7 +21052,7 @@
       "converted_text_chars": 7472,
       "converted_non_space_chars": 5228,
       "table_row_count": 1,
-      "formula_hint_count": 64
+      "formula_hint_count": 2
     },
     {
       "id": "210222109-202407120000022430000112035-byl-hwp",
@@ -21140,7 +21071,7 @@
       "converted_text_chars": 9496,
       "converted_non_space_chars": 6666,
       "table_row_count": 1,
-      "formula_hint_count": 93
+      "formula_hint_count": 2
     },
     {
       "id": "210222109-202407120000022430000112036-byl-hwp",
@@ -21159,7 +21090,7 @@
       "converted_text_chars": 7963,
       "converted_non_space_chars": 5586,
       "table_row_count": 1,
-      "formula_hint_count": 73
+      "formula_hint_count": 2
     },
     {
       "id": "210222109-202407120000022430000112037-byl-hwp",
@@ -21178,7 +21109,7 @@
       "converted_text_chars": 6248,
       "converted_non_space_chars": 4265,
       "table_row_count": 1,
-      "formula_hint_count": 41
+      "formula_hint_count": 2
     },
     {
       "id": "210222109-202407120000022430000112038-byl-hwp",
@@ -22280,8 +22211,7 @@
       "quality_score": 100,
       "converted_text_chars": 6169,
       "converted_non_space_chars": 4817,
-      "table_row_count": 30,
-      "formula_hint_count": 1
+      "table_row_count": 30
     },
     {
       "id": "210228709-210125228-hwp",
@@ -22315,9 +22245,10 @@
       "size": 54272,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3534,
+      "converted_text_chars": 3532,
       "converted_non_space_chars": 2946,
-      "formula_hint_count": 22
+      "formula_block_count": 15,
+      "formula_hint_count": 37
     },
     {
       "id": "210228709-210125238-hwp",
@@ -22335,7 +22266,8 @@
       "quality_score": 100,
       "converted_text_chars": 2496,
       "converted_non_space_chars": 2070,
-      "formula_hint_count": 17
+      "formula_block_count": 13,
+      "formula_hint_count": 30
     },
     {
       "id": "210228709-210125248-hwp",
@@ -22353,7 +22285,8 @@
       "quality_score": 100,
       "converted_text_chars": 2454,
       "converted_non_space_chars": 2031,
-      "formula_hint_count": 17
+      "formula_block_count": 13,
+      "formula_hint_count": 30
     },
     {
       "id": "210228709-210064540-hwp",
@@ -22371,7 +22304,8 @@
       "quality_score": 100,
       "converted_text_chars": 6163,
       "converted_non_space_chars": 5140,
-      "formula_hint_count": 77
+      "formula_block_count": 18,
+      "formula_hint_count": 95
     },
     {
       "id": "210228709-210125253-hwp",
@@ -22387,10 +22321,11 @@
       "size": 44032,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4394,
+      "converted_text_chars": 4388,
       "converted_non_space_chars": 3570,
       "table_row_count": 5,
-      "formula_hint_count": 40
+      "formula_block_count": 19,
+      "formula_hint_count": 59
     },
     {
       "id": "210228709-210064599-hwp",
@@ -22408,7 +22343,8 @@
       "quality_score": 100,
       "converted_text_chars": 2866,
       "converted_non_space_chars": 2347,
-      "formula_hint_count": 12
+      "formula_block_count": 6,
+      "formula_hint_count": 18
     },
     {
       "id": "210228709-202411010000022630000114020-byl-hwp",
@@ -22426,7 +22362,8 @@
       "quality_score": 100,
       "converted_text_chars": 1365,
       "converted_non_space_chars": 1110,
-      "formula_hint_count": 8
+      "formula_block_count": 6,
+      "formula_hint_count": 14
     },
     {
       "id": "210228709-210064610-hwp",
@@ -22460,9 +22397,10 @@
       "size": 52224,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 8533,
+      "converted_text_chars": 8528,
       "converted_non_space_chars": 7081,
-      "formula_hint_count": 83
+      "formula_block_count": 33,
+      "formula_hint_count": 116
     },
     {
       "id": "210228709-210217348-hwp",
@@ -22478,9 +22416,10 @@
       "size": 46592,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 7059,
+      "converted_text_chars": 7058,
       "converted_non_space_chars": 5863,
-      "formula_hint_count": 78
+      "formula_block_count": 31,
+      "formula_hint_count": 109
     },
     {
       "id": "210228709-202411010000022630000114024-byl-hwp",
@@ -22496,9 +22435,10 @@
       "size": 16896,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4037,
-      "converted_non_space_chars": 3354,
-      "formula_hint_count": 37
+      "converted_text_chars": 4029,
+      "converted_non_space_chars": 3346,
+      "formula_block_count": 14,
+      "formula_hint_count": 51
     },
     {
       "id": "210228709-210064641-hwp",
@@ -22533,10 +22473,11 @@
       "size": 57344,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 12121,
+      "converted_text_chars": 12119,
       "converted_non_space_chars": 9422,
       "table_row_count": 31,
-      "formula_hint_count": 154
+      "formula_block_count": 7,
+      "formula_hint_count": 159
     },
     {
       "id": "210228709-210064740-hwp",
@@ -22629,8 +22570,7 @@
       "quality_score": 100,
       "converted_text_chars": 1118,
       "converted_non_space_chars": 880,
-      "table_row_count": 2,
-      "formula_hint_count": 1
+      "table_row_count": 2
     },
     {
       "id": "210228709-202411010000022630000114032-byl-hwp",
@@ -22775,7 +22715,8 @@
       "quality_score": 100,
       "converted_text_chars": 1562,
       "converted_non_space_chars": 1241,
-      "formula_hint_count": 2
+      "formula_block_count": 2,
+      "formula_hint_count": 4
     },
     {
       "id": "210228709-210064938-hwp",
@@ -23010,8 +22951,7 @@
       "quality_score": 100,
       "converted_text_chars": 593,
       "converted_non_space_chars": 421,
-      "table_row_count": 8,
-      "formula_hint_count": 1
+      "table_row_count": 8
     },
     {
       "id": "210228709-202411010000022630000114062-byl-hwp",
@@ -23245,8 +23185,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 995,
-      "converted_non_space_chars": 750,
-      "formula_hint_count": 2
+      "converted_non_space_chars": 750
     },
     {
       "id": "210219879-210219880-pdf",
@@ -23263,10 +23202,10 @@
       "size": 355978,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 15796,
+      "converted_text_chars": 15762,
       "converted_non_space_chars": 11688,
       "table_row_count": 26,
-      "formula_hint_count": 2
+      "formula_hint_count": 1
     },
     {
       "id": "210224393-210224394-pdf",
@@ -23283,9 +23222,8 @@
       "size": 185462,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1148,
-      "converted_non_space_chars": 871,
-      "formula_hint_count": 2
+      "converted_text_chars": 1147,
+      "converted_non_space_chars": 871
     },
     {
       "id": "210224393-210224395-pdf",
@@ -23302,9 +23240,9 @@
       "size": 307714,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 11371,
+      "converted_text_chars": 11354,
       "converted_non_space_chars": 8728,
-      "formula_hint_count": 4
+      "formula_hint_count": 2
     },
     {
       "id": "210222057-210222058-pdf",
@@ -23322,8 +23260,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 790,
-      "converted_non_space_chars": 599,
-      "formula_hint_count": 2
+      "converted_non_space_chars": 599
     },
     {
       "id": "210222057-210222059-pdf",
@@ -23340,9 +23277,8 @@
       "size": 254427,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 8923,
-      "converted_non_space_chars": 7033,
-      "formula_hint_count": 11
+      "converted_text_chars": 8912,
+      "converted_non_space_chars": 7033
     },
     {
       "id": "210221769-210221770-pdf",
@@ -23360,8 +23296,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 641,
-      "converted_non_space_chars": 473,
-      "formula_hint_count": 2
+      "converted_non_space_chars": 473
     },
     {
       "id": "210221769-210221771-pdf",
@@ -23378,9 +23313,8 @@
       "size": 179524,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4248,
-      "converted_non_space_chars": 3371,
-      "formula_hint_count": 2
+      "converted_text_chars": 4242,
+      "converted_non_space_chars": 3371
     },
     {
       "id": "210220231-210220237-pdf",
@@ -23398,8 +23332,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 526,
-      "converted_non_space_chars": 395,
-      "formula_hint_count": 4
+      "converted_non_space_chars": 395
     },
     {
       "id": "210220231-210220236-pdf",
@@ -23416,9 +23349,9 @@
       "size": 143565,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1534,
+      "converted_text_chars": 1531,
       "converted_non_space_chars": 1141,
-      "formula_hint_count": 2
+      "formula_hint_count": 1
     },
     {
       "id": "210219622-210219623-pdf",
@@ -23435,9 +23368,9 @@
       "size": 245122,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1678,
+      "converted_text_chars": 1677,
       "converted_non_space_chars": 1264,
-      "formula_hint_count": 3
+      "formula_hint_count": 1
     },
     {
       "id": "210219622-210219624-pdf",
@@ -23454,9 +23387,9 @@
       "size": 577607,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 21958,
+      "converted_text_chars": 21928,
       "converted_non_space_chars": 16225,
-      "formula_hint_count": 2
+      "formula_hint_count": 1
     },
     {
       "id": "210224396-210224397-pdf",
@@ -23473,9 +23406,8 @@
       "size": 209282,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1461,
-      "converted_non_space_chars": 1106,
-      "formula_hint_count": 2
+      "converted_text_chars": 1460,
+      "converted_non_space_chars": 1106
     },
     {
       "id": "210224396-210224398-pdf",
@@ -23492,9 +23424,8 @@
       "size": 298497,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 10646,
-      "converted_non_space_chars": 8322,
-      "formula_hint_count": 3
+      "converted_text_chars": 10632,
+      "converted_non_space_chars": 8322
     },
     {
       "id": "210221766-210221767-pdf",
@@ -23512,8 +23443,7 @@
       "quality_status": "ok",
       "quality_score": 100,
       "converted_text_chars": 643,
-      "converted_non_space_chars": 473,
-      "formula_hint_count": 2
+      "converted_non_space_chars": 473
     },
     {
       "id": "210221766-210221768-pdf",
@@ -23531,7 +23461,7 @@
       "quality_status": "warn",
       "quality_score": 55,
       "quality_flags": "very_short_text",
-      "converted_text_chars": 65,
+      "converted_text_chars": 59,
       "converted_non_space_chars": 20
     }
   ]

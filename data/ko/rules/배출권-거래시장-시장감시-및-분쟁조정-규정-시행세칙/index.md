@@ -2,7 +2,7 @@
 id: "204847824"
 title: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:00:08.149490Z"
+collected_at: "2026-07-03T21:14:47.135466Z"
 content_hash: "816f06d4094f55da6843326b5910e2c3a003290ad2e915744fa3fa54365ebc17"
 document_type: "rule"
 language: "ko"
@@ -122,7 +122,6 @@ attachments:
     converted_text_chars: 623
     converted_non_space_chars: 476
     table_row_count: 4
-    formula_hint_count: 1
   - id: "204847824-202410150000022540000246008-byl-hwp"
     title: "[별지 제8호 서식] 현지조치사항"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_현지조치사항.hwp"
@@ -154,7 +153,6 @@ attachments:
     quality_score: 100
     converted_text_chars: 499
     converted_non_space_chars: 363
-    formula_hint_count: 3
   - id: "204847824-202410150000022540000246010-byl-hwp"
     title: "[별지 제10호 서식] 서면의견진술서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_서면의견진술서.hwp"
@@ -186,7 +184,6 @@ attachments:
     quality_score: 100
     converted_text_chars: 459
     converted_non_space_chars: 334
-    formula_hint_count: 2
   - id: "204847824-202410150000022540000246012-byl-hwp"
     title: "[별지 제12호 서식] 배출권 거래시장 분쟁조정신청서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_배출권거래시장분쟁조정신청서.hwp"

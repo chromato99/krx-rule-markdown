@@ -32,245 +32,31 @@ This English version does not warrant or assume any liability or responsibility 
 completeness or usefulness of any information contained herein. Only Korean version shall be
 deemed authentic.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-CHAPTER I. GENERAL PROVISIONS .................................................................... 1
-
-§1. Purpose ..................................................................................................................... 1
-
-§2. Definitions ................................................................................................................ 1
-
-§3. [Deleted on August 28, 2019] .................................................................................. 2
-
-CHAPTER II. MARKET OPERATION ..................................................................... 2
-
-§4. Trading Hours .......................................................................................................... 2
-
-§5. Closing of the Market ............................................................................................... 3
-
-§6. Temporary Closing of the Market and Reopening Thereafter ................................. 3
-
-§7. Intermediation of Transactions ................................................................................ 4
-
-§8. Types of Trading ...................................................................................................... 4
-
-§9. Guidelines for Connection to Member System ........................................................ 4
-
-CHAPTER III. TRADING ............................................................................................ 5
-
-§10. Submission of Quotations ...................................................................................... 5
-
-§11. Restrictions on Quotations for Short Sale .............................................................. 5
-
-§12. Restrictions on Prices of Quotations for Covered Short Sale ................................ 8
-
-§13. Follow-up Management of Short Sale Quotations ................................................. 9
-
-§14. Submission of Quotations for Treasury Stocks, etc. ............................................ 11
-
-§15. Special Cases of Bid Quotation for Buyback of Treasury Stocks ........................ 12
+TABLE OF CONTENTS
 
 §16. Submission of Quotations for Trading of Treasury Stocks under Trust Contract 12
 
-§17. Liquidity Providing Members .............................................................................. 13
-
-§18. Obligation to Submit Liquidity Providing Quotations ......................................... 14
-
-§19. Quotation Price Limit ........................................................................................... 14
-
-§20. Quotation Unit ...................................................................................................... 15
-§21. Receipt of Quotations ........................................................................................... 15
-
-§22. Auction Principles ................................................................................................ 15
-
-§23. Call Auction with Single Price ............................................................................. 16
-
-§24. Continuous Auction with Multiple Prices ............................................................ 18
-
-§25. Regular Session Block Trading ............................................................................ 19
-
-§26. Off-hours Closing Price Trading .......................................................................... 19
-
-§26-2. Off-hours Block Trading .................................................................................. 19
-
-§27. One-sided Auction ............................................................................................... 20
-
 ii
 
-
-
-§28. Range of Quotations and Method of Determining Price of Newly Listed Issues 21
-
-§28-2. Trade Execution Methods of Issues Scheduled to Be Delisted, etc. ................. 21
-
-§29. Notification and Confirmation of Trade Execution ............................................. 21
-
-§30. Trading Halt by Issue ........................................................................................... 21
-
-§31. Measures against Cases of System Failure or Influx of Excessive Quotations.... 22
-
-§32. Correction of Transaction Errors .......................................................................... 22
-
-CHAPTER IV. CLEARING AND SETTLEMENT OF TRADES .......................... 22
-
-§33. Scope of Application ............................................................................................ 23
-
-§34. Deposit of Member Margin, Etc .......................................................................... 23
-
-§34-2. Substitute Securities .......................................................................................... 24
-
-§34-3. Restrictions on Use of Non-clearing Member Margins .................................... 25
-
-§34-4. Methods of Deposit and Withdrawal of Member Margin, etc .......................... 25
-
-§34-5. Management and Operation of Member Margins ............................................. 26
-
-§34-6. Withdrawal of Member Margins, etc ................................................................ 26
-
-§34-7. Imposition of Intraday Margins ........................................................................ 27
-
-§34-8. Cancellation of Imposition of Intraday Margins ............................................... 27
-
-§35. Verification of Trades for Assumption of Obligations ........................................ 27
-
-§35-2. Assumption of Obligations under Novation ..................................................... 28
-
-§36. Netting and Determination of Settlement Securities and Settlement Funds ........ 28
+§28. Range of Quotations and Method of Determining Price of Newly Listed Issues 21
 
 §37. Netting and Determination of Settlement Securities and Settlement Funds in Case
 
-of Non-delivery and Non-receipt of Securities ....................................................... 28
-
-§38. Notification of Settlement Details ........................................................................ 29
-
-§39. Delivery and Payment between Exchange and Clearing Member ....................... 30
-
-§40. Monitoring and Managing of Settlement Risk, etc .............................................. 30
-
-§41. Liquidity Provision to Ensure Fulfillment of Settlement Obligation ................... 31
-
 §42. Notification of Fulfillment and Non-fulfillment of Settlement Obligation by
-
-Korea Securities Depository ................................................................................... 32
-
-§43. Settlement Instruction .......................................................................................... 32
 
 §44. Handling  in Case of Non-delivery  or Non-receipt of Securities by  Clearing
 
-Member ................................................................................................................... 33
-
 §45. Delivery  of Deferred Settlement Funds for Securities Not-delivered or Not-
-
-received ................................................................................................................... 34
-
-§46. Buy-in by Exchange of Securities Issue Not Delivered ....................................... 34
-
-§47. Exceptions in Securities Settlement ..................................................................... 35
-
-§48. Amount of Loss Caused by Delayed Settlement .................................................. 35
 
 iii
 
-
-§49. Handling of Settlement Failures ........................................................................... 36
-
 §50. Termination of Measures imposed on Non-fulfillment of Settlement Obligation37
-
-CHAPTER V. RECEIVING TRADE ENTRUSTMENT ......................................... 38
-
-§51. Opening of Account, etc....................................................................................... 38
-
-§52. Matters to Be Included in Standard Contract ....................................................... 38
-
-§53. Opening of Treasury Stock Trading Account, etc. ............................................... 39
-
-§54. Opening of Treasury Stock Trust Trading Accounts ........................................... 39
-
-§55. Restriction on Serving as Proxy ........................................................................... 40
-
-§56. Information to be Recorded When Receiving Orders .......................................... 40
-
-§57. Methods of Receiving Orders .............................................................................. 40
-
-§58. Publication and Explanation of Order Placing Method, etc ................................. 41
-
-§59. Refusal of Trade Entrustment .............................................................................. 41
-
-§60. Processing of Orders ............................................................................................ 42
-
-§61. Good Faith Deposits ............................................................................................. 42
-
-§62. Minimum Deposit ................................................................................................ 44
-
-§62-2. Small Investment Account ................................................................................ 45
-
-§63. Types of Substitute Securities, Etc ....................................................................... 45
-
-§64. Recording and Maintenance of Trade Details ...................................................... 46
-
-§65. Settlement between Members and Customers ..................................................... 46
-
-§66. Delivery of Registered Investment Securities, etc. .............................................. 46
-
-§67. Handling of Deferred Settlement ......................................................................... 47
-
-§68. Measures to Be Taken in Case of Settlement Failure by Customer ..................... 47
-
-§69. Brokerage Fees ..................................................................................................... 47
-
-CHAPTER VI. MARKET MANAGEMENT ............................................................ 47
-
-§70. Publication of Market Price, etc. .......................................................................... 47
-
-§71. Actions for Ex-dividends, etc. .............................................................................. 48
-
-§72. Continuous Monitoring of Market Conditions, etc. ............................................. 48
-
-§73. Deposits Prior to Placing Quotations ................................................................... 48
-
-§74. Payment before Settlement................................................................................... 49
-
-CHAPTER VII. SUPPLEMENTARY PROVISIONS .............................................. 49
-
-§75. Retention Period of Records Relating to Trade ................................................... 49
-
-§75-2. Public Opinion Gathering ................................................................................. 49
-
-§76. Enforcement Rules ............................................................................................... 49
 
 iv
 
-
-ADDENDA .................................................................................................................... 50
-
 v
 
-
-CHAPTER I. GENERAL PROVISIONS
+CHAPTER I. GENERAL PROVISIONS
 
 §1. Purpose
 
@@ -315,21 +101,7 @@ selling  of securities by a  member using its own name and account.  (Amended on
 
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(8)  The term "customer account transaction" in this Regulation shall refer to a buying or selling
+(8)  The term "customer account transaction" in this Regulation shall refer to a buying or selling
 of securities by a member upon receiving a trade entrustment from a customer. (Amended on
 March 8, 2021)
 
@@ -380,17 +152,7 @@ the  building  where  the  member  computer  center  is  located  (hereinafter  
 
 2
 
-
-
-
-
-
-
-
-
-
-
-(16)  The  term  “high-speed  algorithmic  trader”  refers  to  a  customer  or  a  member  who  has
+(16)  The  term  “high-speed  algorithmic  trader”  refers  to  a  customer  or  a  member  who  has
 completed  registration  and  reporting  to  the  Exchange  pursuant  to  [§70-3]  to  conduct  high-
 speed algorithmic trading. [December 7, 2022]
 
@@ -407,7 +169,7 @@ CHAPTER II. MARKET OPERATION
 (1) The Market shall be divided into the regular session and the off-hours session. (Amended
 on October 29, 2014)
 
-  (2) The trading hours of the Market shall be each of the followings: (Amended on October 29,
+(2) The trading hours of the Market shall be each of the followings: (Amended on October 29,
 2014; June 8, 2016; April 3, 2019)
 
 1. Regular session: From 09:00 to 15:30. However, in the case of those issues of which
@@ -434,27 +196,7 @@ The Exchange shall close the Market on the day falling under any one of the foll
 
 3
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2. Public holiday pursuant to the Regulations on Public Holidays of Government Offices;
+2. Public holiday pursuant to the Regulations on Public Holidays of Government Offices;
 
 3. Labor Day pursuant to the Act on Establishment of Labor Day;
 
@@ -500,27 +242,7 @@ in the Enforcement Rules.
 
 4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§9. Guidelines for Connection, etc. to Member System
+§9. Guidelines for Connection, etc. to Member System
 
 (1)  To  promote  the  fair  competition  in  the  Market  and  efficient  and  reliable  operation  of
 Exchange system, the Exchange shall establish the matters stipulated in the Enforcement Rules,
@@ -567,22 +289,7 @@ the member shall inform the Exchange of the fact without delay. (Amended on Nove
 
 5
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2015)
+2015)
 
 (6)  Restrictions on inputting the quotations and other necessary matters related to the quotation
 shall be stipulated in the Enforcement Rules. (Amended on November 4, 2015)
@@ -632,22 +339,7 @@ listed securities in the off-hours trading session after the market closing on t
 the member placed the quotation, case of selling the concerned listed securities within
 6
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-the matching quantity.
+the matching quantity.
 
 (2)  In  the  case  of  conducting  a  short  sale  noted  in  Article  180(1)2  of  the  Act  (hereinafter
 referred to as “the covered short sale”) or placing a quotation after receiving an entrustment
@@ -691,30 +383,13 @@ methods:
 (c) Via computer and similar electronic communication.
 
 3. The details of information received shall be recorded and kept according to the manner
-stipulated in the Enforcement Rules.
 
 (4) Notwithstanding paragraph (3), when a member has received a customer’s consent not to
 submit orders for covered short sale and has modified the computer program not to submit the
 
 7
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-covered  short  sale  orders  of  the  concerned  customer’s  account,  it  shall  be  deemed  that the
+covered  short  sale  orders  of  the  concerned  customer’s  account,  it  shall  be  deemed  that the
 verification pursuant to paragraph (2)1(b) has been made. Provided that, in cases where the
 customer has conducted a short sale from the account, the member shall make the verification
 noted in paragraph (2)1(b) using the methods under paragraph (3) for a period of one hundred
@@ -764,20 +439,7 @@ the  purpose  of  gaining  profits  from  the  difference  between  prices  of  
 those  of  underlying  stocks,  the  case  of  selling  to  conduct  the  trade  stipulated  in  the
 8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Enforcement Rules;
+Enforcement Rules;
 
 3. [Deleted on March 8, 2021];
 
@@ -827,18 +489,7 @@ the  settlement  deadline  during  the  latest  six  (6)  months,  or  where  th
 
 9
 
-
-
-
-
-
-
-
-
-
-
-
-Commission has notified of the fact of the customer’s violation of Article180(1) of the Act, the
+Commission has notified of the fact of the customer’s violation of Article180(1) of the Act, the
 Exchange  may  notify  the  details  noted  in  any  of  the  following  subparagraphs  and  the
 information on the customer falling thereunder to the relevant member. In such cases, upon
 receiving the notification from the Exchange, the member shall notify other members of the
@@ -890,20 +541,7 @@ a period of one hundred and twenty (120) days.
 (5)  The  provisions  of  paragraph  (4)  shall  apply  mutatis  mutandis  to  the  case  where  the
 10
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Financial  Services  Commission  has  notified  the  Exchange  that  the  customer  violated  the
+Financial  Services  Commission  has  notified  the  Exchange  that  the  customer  violated  the
 reporting  obligations  prescribed  in  Article  180-2(1)  of  the  Act  or  the  disclosure  obligations
 prescribed in Article 180-3(1) of the Act. Provided that the provision of “during the latest six
 (6) months” noted in the part other than each subparagraph of paragraph (4) is not the case.
@@ -953,19 +591,7 @@ units higher than the lower of the last price and the best ask price of the conc
 
 11
 
-
-
-
-
-
-
-
-
-
-
-
-
-and the floor price, which is five (5) quotation units lower than the lower of the last
+and the floor price, which is five (5) quotation units lower than the lower of the last
 price and the best ask price of the concerned issue.
 
 (2) Members may correct the quotation price (including the correction quotations) stipulated
@@ -1015,24 +641,11 @@ sudden  changes  in  market  conditions,  etc.,  have  its  members  place  quot
 pursuant to [§14(1) and (2)] upon receiving orders for buyback of treasury stocks from listed
 12
 
-
-
-
-
-
-
-
-
-
-
-
-
-corporations during the quotation receiving hours of the regular session. Provided that such
+corporations during the quotation receiving hours of the regular session. Provided that such
 quotation shall not be submitted from thirty (30) minutes before the market closing time to the
 market closing time.
 
 (2)  Matters  necessary  concerning  the  quotations,  etc.  pursuant  to  paragraph  (1)  shall  be
-stipulated in the Enforcement Rules.
 
 §16. Submission of Quotations for Trading of Treasury Stocks under Trust Contract
 
@@ -1076,18 +689,7 @@ on June 14, 2017)
 
 13
 
-
-
-
-
-
-
-
-
-
-
-
-1. To be a clearing member who has obtained the permit for investment dealing business
+1. To be a clearing member who has obtained the permit for investment dealing business
 for stocks; and,
 
 2.  In the case of having been confirmed that the disciplinary measure severer than criminal
@@ -1137,24 +739,9 @@ the member and the stock-listed corporation and not exceed 6%. (Amended on June 
 providing  quotations  or  corrects  the  concerned  quotations  shall  be  stipulated  in  the
 14
 
-
-
-
-
-
-
-
-
-
-
-
-
-Enforcement Rules.
-
 (5) In cases where a member submits a liquidity providing quotation to one side of either an
 ask or a bid, the member shall submit a liquidity providing quotation to the other side as well
 immediately.  Provided  that  this  provision  shall  not  apply  to  the  cases  stipulated  in  the
-Enforcement Rules.
 
 (6) Other matters such as the method of submitting liquidity providing quotations, restrictions
 of submitting the quotations, etc. shall be stipulated in the Enforcement Rules.
@@ -1193,25 +780,7 @@ The Exchange shall receive the quotations through the KONEX system.
 
 15
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(1)  In the case where the connection between the member system  and the Exchange system  is
+(1)  In the case where the connection between the member system  and the Exchange system  is
 recognized as disconnected and it is stipulated in the Enforcement Rules, a member may request
 to the Exchange in advance to cancel quotations (hereinafter referred to as the “cancellation of
 disconnected quotations) within a certain range at once. In such case, the Exchange may cancel
@@ -1258,21 +827,7 @@ be included.
 
 16
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§23. Call Auction with Single Price
+§23. Call Auction with Single Price
 
 (1) The price falling under any of the following subparagraphs shall be determined by way of
 call  auction  with  single  price.  Provided  that  this  is  not  the  case  if  the  Enforcement  Rules
@@ -1323,24 +878,7 @@ quotation price (within the upper price limit);
 
 17
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(b) The highest of the ask limit quotation prices; and
+(b) The highest of the ask limit quotation prices; and
 
 (c) The most recent market price.
 
@@ -1391,21 +929,7 @@ auction pursuant to the paragraph (8) shall be stipulated in the Enforcement Rul
 
 18
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§24. Continuous Auction with Multiple Prices
+§24. Continuous Auction with Multiple Prices
 
 (1)  The  prices  during  the  regular  session,  except  those  stipulated  in  [§23(1)],  shall  be
 determined by way of continuous auction. (Amended on June 18, 2014)
@@ -1452,24 +976,7 @@ between such quotations. (Amended on April 17, 2019)
 (2)  The bid and ask prices that can be quoted when requesting the execution of regular session
 19
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-block trade pursuant to paragraph (1) shall be the price within the upper limit price and the
+block trade pursuant to paragraph (1) shall be the price within the upper limit price and the
 lower limit price of the day. (Amended on July 10, 2019)
 
 (3)  The  quantity  requirement,  trading  quantity  unit,  and  other  necessary  matters  relating  to
@@ -1514,23 +1021,7 @@ member intends to sell.
 
 20
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2) The lowest bidding price and bid quotations shall be within the upper limit price and the
+(2) The lowest bidding price and bid quotations shall be within the upper limit price and the
 lower limit price of the day. In such case, the bid quotations are not allowed to be lower than
 the minimum bid price. (Amended on July 10, 2019)
 
@@ -1560,7 +1051,6 @@ sided auction shall be stipulated in the Enforcement Rules.
 The method of determining the first trading prices of the initially listed issues and the issues
 specified  in  the  Enforcement  Rules  and  the  ranges  of  participating  quotations  in  the
 determination  thereof  may  be  differently  determined  through  the  stipulations  in  the
-Enforcement Rules.
 
 §28-2. Trade Execution Methods of Issues Scheduled to Be Delisted, etc.
 
@@ -1579,24 +1069,7 @@ measure is deemed necessary for market management.
 
 21
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(Wholly amended on February 8, 2017)
+(Wholly amended on February 8, 2017)
 
 §29. Notification and Confirmation of Trade Execution
 
@@ -1641,32 +1114,12 @@ paragraph (1) shall be stipulated in the Enforcement Rules.
 
 22
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§31. Measures against Cases of System Failure or Influx of Excessive Quotations
+§31. Measures against Cases of System Failure or Influx of Excessive Quotations
 
 The Exchange may, in the case where its computer system has failed or  the KONNEX Market
 computer system is expected to fail due to the influx of excessive quotations for some issues,
 take necessary actions, including the suspension of quotation receiving, the halt of trading, etc.,
 or decide to use different trade execution methods in accordance with the stipulations in the
-Enforcement Rules.
 
 §32. Correction of Transaction Errors
 
@@ -1696,31 +1149,7 @@ CHAPTER IV. [Deleted on March 4, 2025]
 
 23
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§34-5. [Deleted on March 4, 2025]
+§34-5. [Deleted on March 4, 2025]
 
 [December 28, 2016]
 
@@ -1754,34 +1183,7 @@ CHAPTER IV. [Deleted on March 4, 2025]
 
 24
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§42. [Deleted on March 4, 2025]
+§42. [Deleted on March 4, 2025]
 
 §43. [Deleted on March 4, 2025]
 
@@ -1801,24 +1203,7 @@ CHAPTER IV. [Deleted on March 4, 2025]
 
 25
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER V. RECEIVING TRADE ENTRUSTMENT
+CHAPTER V. RECEIVING TRADE ENTRUSTMENT
 
 §51. Opening of Account, etc.
 
@@ -1864,36 +1249,19 @@ member may impose on receiving an order:
 
 26
 
+4. Matters relating to the collection of good faith deposit;
 
+5. Matters relating to the notice of investor precautions pursuant to [§62];
 
+6. Matters relating to the prohibition of discretionary trading by the member;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4. Matters relating to the collection of good faith deposit;
-
-        5. Matters relating to the notice of investor precautions pursuant to [§62];
-
-        6. Matters relating to the prohibition of discretionary trading by the member;
-
-        7. Matters relating  to the measures  to  be taken in case of non-fulfillment of  settlement
+7. Matters relating  to the measures  to  be taken in case of non-fulfillment of  settlement
 
 obligation;
 
-        8. Matters relating to the collection of brokerage fee;
+8. Matters relating to the collection of brokerage fee;
 
-        9. Matters relating to the following items if a customer is a person who are required to
+9. Matters relating to the following items if a customer is a person who are required to
 
 register as a high-speed algorithmic trader pursuant to [§70-3]; and
 
@@ -1902,7 +1270,7 @@ register as a high-speed algorithmic trader pursuant to [§70-3]; and
 
 including refusal of trade entrustment, etc.
 
-       10. Other matters deemed necessary by the member within the scope that does not conflict
+10. Other matters deemed necessary by the member within the scope that does not conflict
 
 with the relevant laws and regulations.
 
@@ -1934,23 +1302,7 @@ accordance  with  the  money  trust  contract  pursuant  to  Article  165-3(1)2 
 member shall establish a separate account for each fund of trust assets (hereinafter referred to
 27
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-as “the treasury stock trust trading account”) with the trust business entity in advance.
+as “the treasury stock trust trading account”) with the trust business entity in advance.
 
 (2)  No  member  shall  use  the  treasury  stock  trust  trading  account  under  paragraph  (1)  for
 receiving  an  order  to  trade  stocks  other  than  the  treasury  stocks  of  the  listed  corporation
@@ -1990,31 +1342,13 @@ each member shall ensure that the order is routed through the security  device s
 Guidelines  for  Connection,  etc.  to  Member  System  noted  in  [§9(1)].  Provided  that, this
 provision shall not apply to the case where it is deemed that there is no concern about damaging
 the transaction safety in the course of receiving and processing the order and specified in the
-Enforcement Rules.
 
 (3) When accepting an order from a customer, each member shall be notified whether or not
 the ask order of the issue concerned is for covered short sale and verify such fact.
 
 28
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(4) When a trade is executed with a customer’s order, the member shall notify the customer
+(4) When a trade is executed with a customer’s order, the member shall notify the customer
 concerned of the details of the trade, including the issue name, executed date, executed quantity
 and price, etc. without delay via any of following means. Provided that, if the customer has
 agreed in advance, the trade details can be notified collectively after the market close of the
@@ -2060,31 +1394,13 @@ protection of investors and public interests or for the maintenance of order in 
 
 29
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2) [Deleted on August 28, 2019]
+(2) [Deleted on August 28, 2019]
 
 (3) Members shall refuse to accept the orders that are in violation of [§11] and [§12].
 
 (4) Members shall refuse to accept the orders that are in violation of [§62].
 
-  (5) A member shall refuse to receive customer’s orders for high-speed algorithmic trading in
+(5) A member shall refuse to receive customer’s orders for high-speed algorithmic trading in
 any or the following cases with regard to the submission of customer’s orders for high-speed
 algorithmic trading: [December 7, 2022]
 
@@ -2127,34 +1443,16 @@ be sold or substitute securities for a sell order. (Amended on December 28, 2016
 (2)  Members  shall  establish  the  collection  rates  and  collection  methods  of  the  customer
 30
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-marginpursuant  to  paragraph  (1)  (including  the  collection  rates  of  substitute  securities;
+marginpursuant  to  paragraph  (1)  (including  the  collection  rates  of  substitute  securities;
 hereinafter referred to as “the guidelines for collection of  customer margin”). (Amended on
 December 28, 2016)
 
 (3) When  a  member  has  established  or  amended  the  guidelines  for  collection  of  customer
 margin pursuant to paragraph (2), the member shall notify the fact thereof to the Exchange as
-stipulated in the Enforcement Rules.
 
 (4) Notwithstanding paragraphs (1) through (3), in cases where it is deemed necessary for the
 
- market management due to the occurrence of natural disaster, warfare, upheaval, sudden and
+market management due to the occurrence of natural disaster, warfare, upheaval, sudden and
 significant change in the economic conditions or other incidents similar thereto, or where the
 settlement  cannot  be  concluded  normally,  the  Exchange  may  determine  the  minimum
 collection rate of customer margin for a certain period of time by issue or by bid or ask.
@@ -2196,16 +1494,7 @@ that excludes such amount) is KRW 100,000 or less; and
 the settlement day due to the natural disaster, emergency, computer failure, member’s error
 31
 
-
-
-
-
-
-
-
-
-
-or other cause (except cases stipulated in the Enforcement Rules) where it is acknowledged
+or other cause (except cases stipulated in the Enforcement Rules) where it is acknowledged
 that the customer has committed no intentional or wrongdoing.
 
 (7) Notwithstanding paragraph (5), the member may not  collect  the  customer margin in  the
@@ -2256,20 +1545,7 @@ as member margins. [December 28, 2016]
 
 32
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-(Amended on April 27, 2022)
+(Amended on April 27, 2022)
 
 When  accepting  an  order  from  a  customer  (including  a  customer  who  placed  an  order    to  an
 investment brokerage business entity when the order is arranged by the investment brokerage
@@ -2299,7 +1575,6 @@ Business Regulation and KOSDAQ Market Business Regulation; and
 
 (3)  The  methods  of  designation  of  substitute  securities,  methods  and  timing  of  calculating
 substitution price, appraisal rate of substitute securities and other necessary matters shall be
-stipulated in the Enforcement Rules.
 
 §64. Recording and Maintenance of Trade Details
 
@@ -2314,25 +1589,7 @@ shall record the details of order, trade execution and  allotment, etc. and main
 
 33
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(1)  In  cases  where  a  member  and  its  customer  accept  the  reciprocal  obligations  for  the
+(1)  In  cases  where  a  member  and  its  customer  accept  the  reciprocal  obligations  for  the
 payments or assume the reciprocal obligations for the stocks of same issue on the same day,
 the settlement shall be accomplished by netting the payments and the stocks of same issues.
 Provided that, if there is a separate arrangement between the member and its customer, such
@@ -2377,22 +1634,7 @@ postponed.
 the  settlement  deadline,  the  member  shall  settle  the  concerned  trade  with  its  own  cash  or
 34
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-identical securities. In cases where there is any unsettled amount remained after such settlement,
+identical securities. In cases where there is any unsettled amount remained after such settlement,
 the  member  may  supplement  the  shortage  by  disposing  the  concerned  purchased  securities,
 sales proceeds or the cash and securities that the member holds for the customer concerned at
 its discretion.
@@ -2438,25 +1680,7 @@ public the market price, etc., which falls under each of the following subparagr
 
 35
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-including  the  expected  matching  price  and  expected  best  bid  and  ask  prices  during  the
+including  the  expected  matching  price  and  expected  best  bid  and  ask  prices  during  the
 quotation receiving hours for call auction, and the expected best bid and ask prices during
 the quotation receiving hours for continuous auctions.
 
@@ -2471,7 +1695,6 @@ agreement on use of market information.
 
 (4)  The  methods  of  making  public  the  market  prices  and  information  useful  for  making
 investment decisions pursuant to paragraphs (1) and (2) and other necessary matters shall be
-stipulated in the Enforcement Rules.
 
 §70-2. Management of Algorithmic Trades
 
@@ -2487,7 +1710,7 @@ account”) for  each algorithmic trading  account  [referring to  the account o
 changes were reported pursuant to paragraph (2); the same hereinafter]. Provided that, this shall
 not apply to block trades.
 
-      1. To cancel the quotations altogether at once; and
+1. To cancel the quotations altogether at once; and
 
 2. Not to receive additional quotations.
 
@@ -2506,21 +1729,7 @@ the following requirements before applying for the registration:
 
 36
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1.  The computer system including the ordering system, etc. used by the customer shall have
+1.  The computer system including the ordering system, etc. used by the customer shall have
 
 stability and appropriateness suitable for conducting high-speed algorithmic trading;
 
@@ -2575,23 +1784,7 @@ Rules.
 
 37
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§70-4. Member’s Obligation to Manage Algorithmic Trading, etc.
+§70-4. Member’s Obligation to Manage Algorithmic Trading, etc.
 
 (1) A member shall inspect a customer’s electronic systems including ordering system as
 stipulated in the Enforcement Rules for the management of high-speed algorithmic trading of the
@@ -2605,7 +1798,6 @@ checking whether the members’ obligation in paragraph (1) is satisfied and man
 §71. Actions for Ex-dividends, etc.
 
 The action date for ex-dividends, ex-rights, etc. related to the transactions of issues shall be
-stipulated in the Enforcement Rules.
 
 §72. Continuous Monitoring of Market Conditions, etc.
 
@@ -2631,27 +1823,7 @@ CHAPTER VII. SUPPLEMENTARY PROVISIONS
 
 38
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§75. Retention Period of Records Relating to Trade
+§75. Retention Period of Records Relating to Trade
 
 The Exchange shall keep the records relating to trade for each of the following periods:
 
@@ -2675,19 +1847,7 @@ Rules.
 
 39
 
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDA
+ADDENDA
 (September 11, 2013)
 
 §1. Effective Date
@@ -2737,18 +1897,7 @@ paragraph (2) shall be deleted.
 
 40
 
-
-
-
-
-
-
-
-
-
-
-
-(2) Provisions of the KOSPI Market Business Regulation shall be amended as follows: In
+(2) Provisions of the KOSPI Market Business Regulation shall be amended as follows: In
 the  part  other  than  each  subparagraph  of  [§89(1)],  “KOSDAQ  Market”  shall  be
 “KOSDAQ Market and KONEX Market”.
 
@@ -2789,22 +1938,7 @@ consideration of the time required to develop the necessary computer programs.
 
 41
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 (May 15, 2015)
 
 This  Regulation  shall  become  effective  on  the  date  set  by  the  Enforcement  Rules,  in
@@ -2844,29 +1978,7 @@ This Regulation shall become effective on June 26, 2017.
 
 42
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 (December 5, 2018)
 
 This  Regulation  shall  become  effective  on  the  date  set  by  the  Enforcement  Rules  in
@@ -2912,25 +2024,7 @@ ADDENDUM
 
 43
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This Regulation shall become effective on May 8, 2020.
+This Regulation shall become effective on May 8, 2020.
 
 ADDENDUM
 (March 8, 2021)
@@ -2976,27 +2070,7 @@ ADDENDUM
 
 44
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This Regulation shall become effective on March 4, 2025.
+This Regulation shall become effective on March 4, 2025.
 
 ADDENDA
 (Securities Market Clearing and Settlement Business Regulations)

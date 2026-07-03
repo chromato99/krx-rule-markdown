@@ -15,92 +15,13 @@ Rules  and  Regulations  available  from  this  English  version  do  not  warra
 liability or responsibility for the accuracy, completeness or usefulness of any information. Only
 Korean version shall be deemed authentic.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-CHAPTER I. GENERAL PROVISIONS ......................................................................... 1
-§1. Purpose ....................................................................................................................... 1
-§2. Definitions .................................................................................................................. 1
-
-CHAPTER II. REQUEST FOR DISPUTE MEDIATION, ETC. ..................................... 1
-§3. Preparation of the Application for Mediation, etc. ..................................................... 1
-§4. Notification of the Receipt of Request for Mediation ................................................ 1
-§5. Supplementation of Request for Mediation ................................................................ 2
-§6. Submission Period of Opinion Statements, etc. ......................................................... 2
-§7. Investigation of Facts ................................................................................................. 2
+TABLE OF CONTENTS
 
 CHAPTER III. CLOSING OF DISPUTE CASE PRIOR TO REFERRAL TO THE
-COMMISSION.................................................................................................................. 3
-§8. Notification of Legal Proceedings Launched by the Petitioner, etc. .......................... 3
-§9. Withdrawal Application, etc. ...................................................................................... 4
 
-CHAPTER IV. DISPUTE MEDIATION BY THE COMMISSION ................................. 4
-§10. Referral to the Commission and Notification Thereof ............................................. 4
-§11. Tenure of Members of Deliberation Committee, etc. ............................................... 4
-§11-2. Reasons for Dismissal of Committee Member...................................................... 5
-§12. Operation of Deliberation Committee ...................................................................... 5
-§13. Secretary of Deliberation Committee ....................................................................... 6
 §14. Exclusion of Commission Members and Members of Deliberation Committee, etc.
- .......................................................................................................................................... 6
-§15. Change of Mediation Date ........................................................................................ 6
-§16. Nonappearance of Concerned Parties, etc. ............................................................... 7
-§17. Format of Mediation Decision Notice, etc. .............................................................. 7
-§18. Realization of Mediation, etc. .................................................................................. 7
-§19. Notification of the Result of the Follow-up Actions by Member ............................. 7
 
-CHAPTER V. SUPPLEMENTARY PROVISIONS ......................................................... 8
-§20. Support for Legal Proceedings ................................................................................. 8
-§20-2. Public Opinion Gathering ..................................................................................... 8
-§21. Notification of Illegal Actions, etc. .......................................................................... 9
-
-ADDENDA ..................................................................................................................... 10
-
-ANNEXES ...................................................................................................................... 13
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER I. GENERAL PROVISIONS
+CHAPTER I. GENERAL PROVISIONS
 
 §1. Purpose
 
@@ -138,27 +59,7 @@ mail and other similar electronic communication methods.
 
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§5. Supplementation of Request for Mediation
+§5. Supplementation of Request for Mediation
 
 (1) “The period stipulated in the Enforcement Rules” in [§6] of the Regulation shall be
 seven (7) days from the day when the petitioner has received the notification asking to
@@ -205,20 +106,7 @@ Regulation,  the  employee  of  the  Exchange  who  is  conducting  the  investi
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-carry  the  investigation  order  issued  by  the  Commission  and  present  it  to  the  relevant
+carry  the  investigation  order  issued  by  the  Commission  and  present  it  to  the  relevant
 persons. (Amended on November 30, 2006)
 
 (3) In case where the confirmation of facts is necessary, the employee of the Exchange
@@ -264,26 +152,7 @@ request for mediation has been filed;
 
 3
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§9. Withdrawal Application, etc.
+§9. Withdrawal Application, etc.
 
 (1)  The  application  for  withdrawal  of  mediation  request  pursuant  to  [§10(3)]  of  the
 Regulation shall be in accordance with Form 4 of Annex.
@@ -326,25 +195,7 @@ of the Financial Investment Services and Capital Market Act; and
 
 4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2.  The  person  against  whom  the  Financial  Services  Commission  has  imposed  the
+2.  The  person  against  whom  the  Financial  Services  Commission  has  imposed  the
 disciplinary  measures  that  is  severer  than  the  reprehension  warning  or  salary
 reduction.
 
@@ -394,22 +245,7 @@ the Regulation and prepare and submit the confirmation of not coming under the c
 
 5
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-for exclusion in accordance with Form 5-3 of Annex.    [July 7, 2011]
+for exclusion in accordance with Form 5-3 of Annex.    [July 7, 2011]
 
 (3)    When the deliberation of case is completed, the deliberation committee shall report
 the result of deliberation to the Commission.
@@ -455,23 +291,7 @@ reasons, and notify the rearranged date to the concerned parties.
 
 6
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§16. Nonappearance of Concerned Parties, etc.
+§16. Nonappearance of Concerned Parties, etc.
 
 Pursuant to [§17(3)] of the Regulation, in case where the concerned party did not appear
 on the mediation date in disregard of the Commission’s request to appear, the Chairman
@@ -509,22 +329,7 @@ delay and the reasons to the Commission in writing. (Amended on November 30, 200
 
 7
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER V. SUPPLEMENTARY PROVISIONS
+CHAPTER V. SUPPLEMENTARY PROVISIONS
 
 §20. Support for Legal Proceedings
 
@@ -571,23 +376,7 @@ Regulations Management Regulation.
 
 8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[May 7, 2020]
+[May 7, 2020]
 
 §21. Notification of Illegal Actions, etc.
 
@@ -598,11 +387,7 @@ such finding to the respondent.    [November 30, 2006]
 
 9
 
-
-
-
-
-ADDENDA
+ADDENDA
 (January 24, 2005)
 
 §1. Effective Date
@@ -639,32 +424,7 @@ This Enforcement Rules shall become effective on December 1, 2006.
 
 10
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 (February 3, 2009)
 
 This Enforcement Rules shall become effective on February 4, 2009.
@@ -703,43 +463,14 @@ This Enforcement Rules shall become effective on May 20, 2013.
 
 11
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 (May 7, 2020)
 
 This Enforcement Rules shall become effective on May 8, 2020.
 
 12
 
-
-
-
-
-ANNEXES
+ANNEXES
 
 [Annex: Form 1]    Application for Dispute Mediation    (Amended on February 3, 2009;
 October 15, 2012)
@@ -783,44 +514,16 @@ Attached:
 1. Evidential documents.
 2. Letter of Attorney, if there is an agent.
 
-                                                                                  Day/ month/ year
+Day/ month/ year
 
-                                                                                  Petitioner (seal)
+Petitioner (seal)
 
 To:    Chairman, the Market Oversight Commission
-          The Korea Exchange
+The Korea Exchange
 
 13
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(Back)
+(Back)
 
 Development of dispute and current status:
 
@@ -828,37 +531,7 @@ Reference Materials:
 
 14
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 2]    Record of Mediation Request    (Amended on February 3, 2009 October 15,
+[Annex: Form 2]    Record of Mediation Request    (Amended on February 3, 2009 October 15,
 2012)
 
 Record of Mediation Request
@@ -898,47 +571,19 @@ Attached:
 2. Record of the civil appeal, if it is based on a civil appeal.
 3. Letter of Attorney, if there is an agent.
 
-                                                                                  Day/ month/ year
+Day/ month/ year
 
-                                                                                  Responsible staff member (seal)
+Responsible staff member (seal)
 
 To:    The Market Oversight Commission
-          The Korea Exchange
+The Korea Exchange
 
 The truthfulness and accuracy of the above details have been confirmed by the
 petitioner.    (confirmation date and method:                                                          )
 
 15
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(Back)
+(Back)
 
 Development of the dispute and current status:
 
@@ -946,41 +591,7 @@ Reference Materials:
 
 16
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 3]    Letter of Attorney    (Amended on February 3, 2009; October 15, 2012)
+[Annex: Form 3]    Letter of Attorney    (Amended on February 3, 2009; October 15, 2012)
 
 Letter of Attorney
 
@@ -991,7 +602,7 @@ Name
 Institutional affliction:
 Position title:
 
-    (Date of birth:                              )
+(Date of birth:                              )
 
 In  accordance  with  [§4]  of  the  Dispute  Mediation  Regulation,  I  hereby  appoint  the
 above named person as my agent and delegate the authorities over the following matters
@@ -1007,48 +618,16 @@ recommendations by the Market Oversight Commission; and
 
 Mandator:      Name (name of corporation)
 
-    (seal)
+(seal)
 
 Address
-                      Date of birth (Business registration No.)
+Date of birth (Business registration No.)
 
 To:    Chairman, the Market Oversight Commission of Korea Exchange
 
 17
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 4]    Application for Withdrawal of Mediation Request
+[Annex: Form 4]    Application for Withdrawal of Mediation Request
 (Amended on February 3, 2009; October 15, 2012)
 
 Application for Withdrawal of Mediation Request
@@ -1088,42 +667,15 @@ withdrawal
 In accordance with [§10(1)] of the Dispute Mediation Regulation, I hereby withdraw
 the request for dispute mediation.
 
-                                                                      day/ month/ year
+day/ month/ year
 
-                                                                      Petitioner            (signature or seal)
+Petitioner            (signature or seal)
 
 To:    Chairman, the Market Oversight Commission, Korea Exchange
 
 18
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 5]    Request for Exclusion / Challenge (Amended on February 3, 2009)
+[Annex: Form 5]    Request for Exclusion / Challenge (Amended on February 3, 2009)
 
 Request for Exclusion / Challenge
 
@@ -1144,48 +696,22 @@ In accordance with [§14(4)] of the Dispute Mediation Regulation, I hereby file 
 for exclusion of a member of Commission/Committee / official challenge to the
 member of Commission/Committee.
 
-                                                                            Day/ Month/ Year
+Day/ Month/ Year
 
 Applicant                    (seal)
-                                                                            Address
+Address
 
 To:    Chairman, Market Oversight Commission
-          Korea Exchange
 
 Required document:    Documentary proof (1 copy)
 
 19
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 5-2]    Ethics Pledge [July 7, 2011]
+[Annex: Form 5-2]    Ethics Pledge [July 7, 2011]
 
 Ethics Pledge
 
 To:    Chairman, Market Oversight Commission
-Korea Exchange
 
 In performing the duties related to deliberation of case referred to the Dispute Mediation
 Committee, I, the undersigned, confirm to comply with the confidentiality requirements
@@ -1207,20 +733,7 @@ Member of Dispute Mediation Committee
 
 20
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 5-3] Confirmation of Not Coming Under Causes for Exclusion
+[Annex: Form 5-3] Confirmation of Not Coming Under Causes for Exclusion
 [July 7, 2011]
 
 Confirmation of Not Coming Under Causes for Exclusion
@@ -1244,25 +757,7 @@ TO; Chairman, Market Oversight Commission, Korea Exchange
 
 21
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 6] Request for Voluntary Exclusion    (Amended on February 3, 2009)
+[Annex: Form 6] Request for Voluntary Exclusion    (Amended on February 3, 2009)
 
 Request for Voluntary Exclusion
 
@@ -1277,58 +772,34 @@ Reasons
 In accordance with [§14(4)] of the Dispute Mediation Regulation, I hereby request the
 voluntary exclusion from the mediation (deliberation) of the above case.
 
-                                                                    Day/    Month/    Year
+Day/    Month/    Year
 
-                                                                    Member                  (seal)
+Member                  (seal)
 Market Oversight Commission (Dispute Deliberation Committee)
 
 To: Chairman, Market Oversight Commission
-      Korea Exchange
 
 22
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 7]    Notice of Mediation Decision    (Amended on November 30, 2006)
+[Annex: Form 7]    Notice of Mediation Decision    (Amended on November 30, 2006)
 
 Notice of Mediation Decision
 
 1. Title of Case                                                                (Case No.        )
 
 2. Concerned Parties
-    a. Petitioner:
-    b. Respondent:
+a. Petitioner:
+b. Respondent:
 
 3. Intention of petition:
 
 4. Main points of decision:
 
 5. Rationale:    On the basis of the following rationale, the above decisions were made:
-        a.
-        b.
+a.
+b.
 
-                                                                  Date/ Month / Year
+Date/ Month / Year
 
 Chairman of Market Oversight Commission            (signature or seal)
 Member                                                                          (signature or seal)
@@ -1353,33 +824,15 @@ Market Oversight Commission.
 
 23
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 8] Notice of Dismissal Decision
+[Annex: Form 8] Notice of Dismissal Decision
 
 Notice of Dismissal Decision
 
 1. Title of Case:                                                                (Case No.      )
 
 2. Concerned Parties
-    a. Petitioner:
-    b. Respondent:
+a. Petitioner:
+b. Respondent:
 
 3. Intention of petition:
 
@@ -1387,49 +840,24 @@ Notice of Dismissal Decision
 
 5.  Reasons:  On  the  basis  of  the  following  reasons,  the  above  decision  to  dismiss  the
 request for dispute mediation was made:
-    a.
-    b.
+a.
+b.
 
-                                                                                    Date/ Month / Year
+Date/ Month / Year
 Chairman of the Market Oversight Commission            (signature or seal)
 Member
 Member
 Member
 Member
 
-                (signature or seal)
-  (signature or seal)
-                            (signature or seal)
-  (signature or seal)
+(signature or seal)
+(signature or seal)
+(signature or seal)
+(signature or seal)
 
 24
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 9]    Letter of Acceptance of Mediation Decision
+[Annex: Form 9]    Letter of Acceptance of Mediation Decision
 (Amended on February 3, 2009; October 15, 2012)
 
 Letter of Acceptance of Mediation Decision
@@ -1444,67 +872,37 @@ Letter of Acceptance of Mediation Decision
 Oversight Commission without objection.
 
 5. Acceptor:    (Petitioner, Respondent)
-                          Name (Company name)                                            (seal)
-                          Date of birth (Business Registration no.):
-                          Address:
+Name (Company name)                                            (seal)
+Date of birth (Business Registration no.):
+Address:
 
 Day/ Month / Year
 
 To:    Chairman, Market Oversight Commission
-          Korea Exchange
 
 25
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 10]    Consent Statement    (Amended on February 3, 2009)
+[Annex: Form 10]    Consent Statement    (Amended on February 3, 2009)
 
 Consent Statement
 
 1. Title of Case:                                                            (Case No.      )
 
 2. Concerned Parties
-    a. Petitioner:
-    b. Respondent:
+a. Petitioner:
+b. Respondent:
 
 3. Summary of Mediation Decision:
 
 4. We, the undersigned, hereby accept the above mediation recommendation made by
 the Market Oversight Commission.
 
-                                                                      Day / Month / Year
+Day / Month / Year
 
 Petitioner            (seal)
 
 Respondent        (seal)
 
 To:    Chairman, Market Oversight Commission
-          Korea Exchange
 
 26

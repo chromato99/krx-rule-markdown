@@ -16,235 +16,15 @@ liability or responsibility for the accuracy, completeness or usefulness of any 
 
 Korean version shall be deemed authentic.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-CHAPTER 1. General Provision ................................................................................................... 1
-
-§1. Purpose .................................................................................................................................... 1
-
-§2. Definitions ............................................................................................................................... 1
-
-CHAPTER II. Admission and Withdrawal/Expulsion of Participants, etc. .................................. 3
-
-Section 1. Admission of Participants ............................................................................................ 3
-
-§3. Qualifications of Participants .................................................................................................. 3
-
-§4. Application for Participant Admission and Review and Approval Thereafter ....................... 4
-
-§5. Requirements for Admission of Participant ............................................................................ 4
-
-§6. Notification of Admission Approval ....................................................................................... 5
-
-§6-2. New Petroleum Business of Participant ............................................................................... 6
-
-§7. Classification of Participant‟s ID and Business ...................................................................... 6
-
-Section 2. Withdrawal of Participant ............................................................................................ 8
-
-§8. Voluntary Withdrawal ............................................................................................................. 8
-
-§9. Obligatory Withdrawal of Participant ..................................................................................... 8
-
-§10. Halting of Trade, Closure of Participant‟s ID, etc. ............................................................... 9
-
-Section 3. Rights and Obligations of Participant ........................................................................ 10
-
-§11. Trading of Petroleum Product ............................................................................................. 10
-
-§12. Compliance with Laws and Regulations ............................................................................. 10
-
-§13. Principle of Fairness and Good Faith .................................................................................. 11
-
-§13-2. Distribution of Tax Benefits, etc. to End-Consumers ...................................................... 11
-
-§14. Report to the Exchange ....................................................................................................... 11
-
-§15. Measures against Participants ............................................................................................. 13
-
-CHAPTER III. Participation in Trading, etc. .............................................................................. 16
-
-§16. Installation of Quotation Input Program, etc. ...................................................................... 16
-
-§17. Registration Method of Certificate of Authentication ......................................................... 16
-
-§18. Connection to Trading System, etc. .................................................................................... 17
-
-§19. System Connecting Hours ................................................................................................... 17
-
-CHAPTER IV. Trading ............................................................................................................... 17
-
-Section 1. Trading Operation ...................................................................................................... 18
-
-§20. Types and Hours of Trading ................................................................................................ 18
-
-
-
-
-
-
-§21. Market Holiday ................................................................................................................... 18
-
-§22. Intermediation of Trading ................................................................................................... 19
-
-§23. Trade Execution in Accordance with Trading System ........................................................ 19
-
-§24. Products Eligible for Trading .............................................................................................. 19
-
-Section 2. Quotations .................................................................................................................. 20
-
-§25. Submission of Quotation ..................................................................................................... 20
-
-§26. Quotation Receiving Hours ................................................................................................. 22
-
-§27. Quotation Types .................................................................................................................. 22
-
-§28. Quantity Unit and Price Unit of Quotation ......................................................................... 22
-
-§29. Quotation Quantity Limit .................................................................................................... 23
-
-§30. Deposition of Good Faith Deposit ...................................................................................... 23
-
-§31. Quotation Method ............................................................................................................... 24
-
-§32. Logging of Quotation and Notification Thereafter ............................................................. 26
-
-§33. Validity of Quotation ........................................................................................................... 27
-
-§34. Cancellation and Correction of Quotation........................................................................... 27
-
-§35. Quotation Price Limit .......................................................................................................... 27
-
-Section 3. Execution of Trade ..................................................................................................... 29
-
-§36. Principle of Auction ............................................................................................................ 29
-
-§37. Single Price Auction ............................................................................................................ 29
-
-§38. Multiple Price Auction ........................................................................................................ 30
-
-§39. Negotiated Trade ................................................................................................................. 31
-
-§40. Measures Taken in Case of Computer System Failure ....................................................... 32
-
-Section 4.    Notification of Trading Details, etc. ........................................................................ 33
-
-§41. Notification of Trading Details ........................................................................................... 33
-
-§42. Verification of Trading Details ........................................................................................... 34
-
-§42-2. Correction of Error Made by Exchange ........................................................................... 34
-
-§43. Notification of Matters Concerning Transportation ............................................................ 35
-
-§44. Publication of Price Data, etc. for Participant ..................................................................... 36
-
-CHAPTER V. Settlement of Trade ............................................................................................. 37
-
-§45. Settlement Method .............................................................................................................. 37
-
-§46. Shipping Cost ...................................................................................................................... 39
-
-§47. Finalization of Settlement Details ....................................................................................... 40
-
-§47-2. Change of Trading Parties ............................................................................................... 40
-
-§48. Delivery and Receipt of Settlement Amount, etc. ............................................................... 41
-
-§48-2. Inputting Settlement Details, etc. on Behalf of Participants ............................................ 42
-
-
-§49. Responsibility of Delivery of Petroleum Product ............................................................... 43
-
-§50. Measures against the Defective Petroleum Product ............................................................ 43
-
-§51. Measures against Settlement Delay, etc. ............................................................................. 44
-
-§52. Loss Caused by Settlement Delay, etc. ............................................................................... 46
-
-CHAPTER VI. Market Surveillance and Disputes Mediation .................................................... 47
-
-§53. Prohibited Actions of Participant, etc. ................................................................................ 47
-
-§54. Market Surveillance ............................................................................................................ 48
-
-§55. Measures Taken Against Participant According to Result of Investigation ........................ 48
-
-§56. Dispute Mediation ............................................................................................................... 49
-
-CHAPTER VII. Management of Trading ................................................................................... 50
-
-§57. Changing Terms and Conditions of Settlement, etc. ........................................................... 50
-
-§58. Continual Monitoring of Trading Situation ......................................................................... 50
-
-§59. Establishment of Petroleum Product Committee ................................................................ 50
-
-CHAPTER VIII. Supplementary Provisions ............................................................................... 52
-
-§60. Employee Responsible for Petroleum Product .................................................................... 52
-
-§61. Issuance of Particulars of Trade .......................................................................................... 52
-
-§62. Private Agreement ............................................................................................................... 53
-
-§63. Enforcement Rules .............................................................................................................. 53
-
-ADDENDA ................................................................................................................................. 54
+TABLE OF CONTENTS
 
 [Annex 1] Criteria for selecting petro stations who have neglected the efforts to distribute the
 
-tax benefits, etc. to end-customers pursuant to [§13-2] .............................................................. 56
-
-[Annex: Form 1] Application for participant Admission ............................................................ 57
-
-[Annex: Form 2] Request for Issuance of Branch ID ................................................................. 61
-
-[Annex: Form 4] Application for participant withdrawal ........................................................... 67
-
 [Annex: Form 5] Request for (termination of) registration of employee responsible for
-
-petroleum products ...................................................................................................................... 68
-
-[Annex: Form 6] Request for withdrawal of cash good faith deposit ......................................... 71
-
-[Annex: Form 7] Request for return of settlement amount ......................................................... 72
 
 [Annex: Form 8] Method of calculating the profits of Petro Station for Petroleum Products
 
-Subject to Tax Benefits pursuant to [§13-2] ................................................................................ 73
-
-
-
-
-
-
-
-CHAPTER 1. General Provision
+CHAPTER 1. General Provision
 
 §1. Purpose
 
@@ -296,18 +76,7 @@ quotation receipt and matching and settlement of transactions.
 
 1
 
-
-
-
-
-
-
-
-
-
-
-
-4. The term “participant‟s terminal device” shall refer to the terminal device that
+4. The term “participant‟s terminal device” shall refer to the terminal device that
 
 the  participant  uses  to  connect  to  the  trading  system  by  downloading  and
 
@@ -358,19 +127,7 @@ shall have the meaning given to them in the Use Agreement.
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER II. Admission and Withdrawal/Expulsion of Participants, etc.
+CHAPTER II. Admission and Withdrawal/Expulsion of Participants, etc.
 
 Section 1. Admission of Participants
 
@@ -422,17 +179,7 @@ or  the  petroleum  distributor  of  which  the  corporate  registration  number
 
 3
 
-
-
-
-
-
-
-
-
-
-
-same:  hereinafter  referred  to  as  the  “petroleum  distributor”).    [November  15,
+same:  hereinafter  referred  to  as  the  “petroleum  distributor”).    [November  15,
 
 2012]
 
@@ -481,19 +228,7 @@ manufacturing  or  sale  of  petroleum  product,  the  applicant  shall  not  ha
 
 4
 
-
-
-
-
-
-
-
-
-
-
-
-
-subject  to  such  disciplinary  measures  as  the  business  suspension  or  a  measure
+subject  to  such  disciplinary  measures  as  the  business  suspension  or  a  measure
 
 equivalent thereto, that is imposed pursuant to the Petroleum Business Act; and
 
@@ -550,15 +285,7 @@ applicant specified in the application.
 
 5
 
-
-
-
-
-
-
-
-
-(3)  The  participant  who  has  obtained  the  admission  approval  shall  retain  more  than
+(3)  The  participant  who  has  obtained  the  admission  approval  shall  retain  more  than
 
 one (1) participant‟s ID for trading.
 
@@ -607,19 +334,7 @@ participant‟s request.      (Amended on November 15, 2012)
 
 6
 
-
-
-
-
-
-
-
-
-
-
-
-
-(4) In case of requesting the branch office ID pursuant to Para.(2), the participant shall
+(4) In case of requesting the branch office ID pursuant to Para.(2), the participant shall
 
 designate one location of petroleum storage facility that he/she owns or has leased per
 
@@ -669,20 +384,7 @@ trading day.
 
 7
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Section 2. Withdrawal of Participant
+Section 2. Withdrawal of Participant
 
 §8. Voluntary Withdrawal
 
@@ -729,20 +431,7 @@ Petroleum Business Act has been reported;        (Amended on July 13, 2012)
 
 8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-4. Case where the changes in the registration details or reported details (limited to
+4. Case where the changes in the registration details or reported details (limited to
 
 the case of changing the name of petroleum business operator or trade name) of all
 
@@ -797,17 +486,7 @@ concerned withdrawal date.
 
 9
 
-
-
-
-
-
-
-
-
-
-
-(4)  Notwithstanding  Paras.  (2)  &  (3),  in  case  where  the  concerned  participant  has
+(4)  Notwithstanding  Paras.  (2)  &  (3),  in  case  where  the  concerned  participant  has
 
 failed  to  settle  its  liability  resulted  from  trading  until  the  date  noted  in  each  Item  of
 
@@ -853,22 +532,7 @@ Regulation as well as the disciplines and measures imposed according thereto.
 
 10
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§13. Principle of Fairness and Good Faith
+§13. Principle of Fairness and Good Faith
 
 In relation to trading, the participant shall not engage in any activity that disturbs the
 
@@ -917,20 +581,7 @@ company;
 
 11
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-3.  Case  where  the  change  in  registration  details  of  petroleum  business  is  re-
+3.  Case  where  the  change  in  registration  details  of  petroleum  business  is  re-
 
 registered  pursuant  to  the  Petroleum  Business  Act  or  the  change  in  reported
 
@@ -985,16 +636,7 @@ participants  that  are  the  petroleum  importer  and  exporter  or  authorized
 
 12
 
-
-
-
-
-
-
-
-
-
-sold  the  petroleum  product  pursuant  to  the  main  clause  to  the  petro  stations,  etc.
+sold  the  petroleum  product  pursuant  to  the  main  clause  to  the  petro  stations,  etc.
 
 through the method without using the quotation input program, when the delivery of
 
@@ -1049,16 +691,7 @@ application for participant admission;
 
 13
 
-
-
-
-
-
-
-
-
-
-3. Case of defying the measures imposed by an administrative authority pursuant
+3. Case of defying the measures imposed by an administrative authority pursuant
 
 to  the  relevant  laws  and  decrees,  Use  Agreement,  this  Regulation  and  the
 
@@ -1112,17 +745,7 @@ participant:
 
 14
 
-
-
-
-
-
-
-
-
-
-
-1. Expulsion of participant;
+1. Expulsion of participant;
 
 2.  Suspension  of  all  or  a  part  of  participant‟s  rights  for  a  period  up  to  one  (1)
 
@@ -1172,19 +795,7 @@ period of thirty (30) days because of unavoidable reason, the period may be exte
 
 15
 
-
-
-
-
-
-
-
-
-
-
-
-
-for  a  period  up  to  thirty  (30)  days,  and  in  this  case,  the  reason  for  extension  and
+for  a  period  up  to  thirty  (30)  days,  and  in  this  case,  the  reason  for  extension  and
 
 expected processing date shall be notified in writing.
 
@@ -1228,23 +839,7 @@ the certificate with the Exchange using the participant‟s terminal device.
 
 16
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§18. Connection to Trading System, etc.
+§18. Connection to Trading System, etc.
 
 (1) When connecting to the trading system using the participant‟s terminal device, the
 
@@ -1291,21 +886,7 @@ CHAPTER IV. Trading
 
 17
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Section 1. Trading Operation
+Section 1. Trading Operation
 
 §20. Types and Hours of Trading
 
@@ -1350,22 +931,7 @@ the Exchange may conduct trading on the day noted in each Item of Para. (1).
 
 18
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§22. Intermediation of Trading
+§22. Intermediation of Trading
 
 The  Exchange  shall  perform  the  intermediation  necessary  for  the  execution  of
 
@@ -1416,19 +982,7 @@ Oil Bank, S-Oil, the economy brand names, and private brand names (referring to 
 
 19
 
-
-
-
-
-
-
-
-
-
-
-
-
-trade  names  other  than  SK  Energy,  GS  Caltex,  Hyundai  Oil  Bank,  S-Oil,  and  the
+trade  names  other  than  SK  Energy,  GS  Caltex,  Hyundai  Oil  Bank,  S-Oil,  and  the
 
 economy brand names) and include the petroleum products that the petroleum refinery
 
@@ -1475,21 +1029,7 @@ quotation  of  concerned  petroleum  business.          (Amended  on  May  2,  2
 
 20
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. In case of petroleum refinery operator (including the self-operated authorized
+1. In case of petroleum refinery operator (including the self-operated authorized
 
 dealer),  an  ask  quotation  for  the  trade  name  of  concerned  petroleum  refinery
 
@@ -1548,15 +1088,7 @@ the concerned agreement for exclusive supply.
 
 21
 
-
-
-
-
-
-
-
-
-(4) Notwithstanding Para.(1)4 and Para.(3), the Exchange may restrict the submission
+(4) Notwithstanding Para.(1)4 and Para.(3), the Exchange may restrict the submission
 
 of  quotation  for  the  product  stored  in  a  distant  geographical  region  (referring  to  the
 
@@ -1605,19 +1137,7 @@ shall be the quantity (to round up at the 3rd decimal place) determined by multi
 
 22
 
-
-
-
-
-
-
-
-
-
-
-
-
-the volume conversion coefficient of petroleum product by 20,000 liter.      (Amended
+the volume conversion coefficient of petroleum product by 20,000 liter.      (Amended
 
 on May 2, 2012; November 15, 2012)
 
@@ -1671,17 +1191,7 @@ payment guarantee certificate issued by the bank pursuant to Banking Act.
 
 23
 
-
-
-
-
-
-
-
-
-
-
-(3)  The  good  faith  deposit  deposited  by  the  seller  in  cash  shall  be  returned  to  the
+(3)  The  good  faith  deposit  deposited  by  the  seller  in  cash  shall  be  returned  to  the
 
 concerned  seller  when  the  settlement  payment  for  trade  of  concerned  quotation  is
 
@@ -1737,16 +1247,7 @@ terminal  device.    However,  in  case  where  the  Exchange  submits  the  quo
 
 24
 
-
-
-
-
-
-
-
-
-
-details acting on behalf of participant pursuant to [§11(2)], the Exchange shall input
+details acting on behalf of participant pursuant to [§11(2)], the Exchange shall input
 
 the  details  noted  in  each  of  the  following  Items,  including  the  concerned
 
@@ -1799,18 +1300,7 @@ Exchange inputs the quotation details).    [July 13, 2012]
 
 25
 
-
-
-
-
-
-
-
-
-
-
-
-(2) When inputting quotation details pursuant to Para. (1), the purchaser may input the
+(2) When inputting quotation details pursuant to Para. (1), the purchaser may input the
 
 desired delivery date (referring to the hour and minute of the date when the delivery of
 
@@ -1866,17 +1356,7 @@ for ten (10) years from the receipt or logging date.
 
 26
 
-
-
-
-
-
-
-
-
-
-
-§33. Validity of Quotation
+§33. Validity of Quotation
 
 The quotation shall be valid from the receipt time until the closing of trade on the day.
 
@@ -1926,19 +1406,7 @@ negotiated transaction noted in [§39]).        (Amended on July 13, 2012)
 
 27
 
-
-
-
-
-
-
-
-
-
-
-
-
-1. The closing price of previous trading day;
+1. The closing price of previous trading day;
 
 2. In case where the price noted in Item 1 is not available, the volume-weighted
 average  price  (to  round  up  at  the  3rd  decimal  point)  of  same  type  of  petroleum
@@ -1991,17 +1459,7 @@ Exchange shall post such fact on its homepage and quotation input program.
 
 28
 
-
-
-
-
-
-
-
-
-
-
-Section 3. Execution of Trade
+Section 3. Execution of Trade
 
 §36. Principle of Auction
 
@@ -2046,22 +1504,7 @@ received earlier and those quotations that are not matched:
 
 29
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(3) When determining the price pursuant to Para. (1), the execution price shall be the
+(3) When determining the price pursuant to Para. (1), the execution price shall be the
 
 price (hereinafter referred to as the “matching price”) at which the total quantities of
 
@@ -2108,20 +1551,7 @@ is  higher than the lowest ask price, by assuming  that the price of quotation r
 
 30
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-earlier  is  the  execution  price,  the  trade  shall  be  executed  in  accordance  with  the
+earlier  is  the  execution  price,  the  trade  shall  be  executed  in  accordance  with  the
 
 quotation priority noted in [§36(3)].
 
@@ -2175,18 +1605,7 @@ the  economy  brand  name,  it  shall  be  the  quantity  between  40,000  litte
 
 31
 
-
-
-
-
-
-
-
-
-
-
-
-6.  Time  and  date  of  shipment  and  desired  shipping  petroleum  storage  facility;
+6.  Time  and  date  of  shipment  and  desired  shipping  petroleum  storage  facility;
 
 (Amended on July 13, 2012)
 
@@ -2240,17 +1659,7 @@ communication  system  fails  or  there  is  a  concern  that  such  failure  ma
 
 32
 
-
-
-
-
-
-
-
-
-
-
-Exchange  may  take  necessary  measures  such  as  the  suspension  and  termination  of
+Exchange  may  take  necessary  measures  such  as  the  suspension  and  termination  of
 
 quotation  receipt  for  all  or  some  of  petroleum  products  or  closing  of  trading  for  the
 
@@ -2297,21 +1706,7 @@ and contact address; and
 
 33
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10. Desired shipping petroleum storage facility; and    [July 13, 2012]
+10. Desired shipping petroleum storage facility; and    [July 13, 2012]
 
 11. In addition, the matter that the Exchange deems necessary.
 
@@ -2357,21 +1752,7 @@ the provisions stated in the agreement for quotation input on behalf of particip
 
 34
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[July 13, 2012]
+[July 13, 2012]
 
 §43. Notification of Matters Concerning Transportation
 
@@ -2423,18 +1804,7 @@ concerned information to the counterparty of trade.
 
 35
 
-
-
-
-
-
-
-
-
-
-
-
-(4)  Notwithstanding  Paras.  (1)  &  (3),  in  case  of  negotiated  trade  noted  in  [§39],  the
+(4)  Notwithstanding  Paras.  (1)  &  (3),  in  case  of  negotiated  trade  noted  in  [§39],  the
 
 participant  shall  not  be  permitted  to  change  the  specification  of  the  delivery  to
 
@@ -2489,16 +1859,7 @@ quantity per ask and bid.
 
 36
 
-
-
-
-
-
-
-
-
-
-6. In addition, the matter that the Exchange deems necessary for the management
+6. In addition, the matter that the Exchange deems necessary for the management
 
 of trading.
 
@@ -2542,21 +1903,7 @@ amount  including  the  shipping  cost  calculated  pursuant  to  [§46(1)]:  th
 
 37
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-hereinafter)  to  the  party  to  whom  it  is  due  within  the  time  specified  in  each  of  the
+hereinafter)  to  the  party  to  whom  it  is  due  within  the  time  specified  in  each  of  the
 
 following Items without delay:
 
@@ -2612,15 +1959,7 @@ delivery  of  concerned  petroleum  product  was  completed  using  the  method 
 
 38
 
-
-
-
-
-
-
-
-
-by the Exchange,  and submit  the copy of  pertinent certificate of shipping.    [May 2,
+by the Exchange,  and submit  the copy of  pertinent certificate of shipping.    [May 2,
 
 2012; Proviso on November 15, 2012]    (Amended on November 15, 2012)
 
@@ -2676,15 +2015,7 @@ change the shipping fee rate noted in Para. (1) or adjust the shipping fee rate 
 
 39
 
-
-
-
-
-
-
-
-
-name  of  petroleum  refinery  operator.    In  this  case,  the  Exchange  shall  post  such
+name  of  petroleum  refinery  operator.    In  this  case,  the  Exchange  shall  post  such
 
 details on the quotation input program.
 
@@ -2738,18 +2069,7 @@ receiving between the applied-for-change participant and the changed participant
 
 40
 
-
-
-
-
-
-
-
-
-
-
-
-§48. Delivery and Receipt of Settlement Amount, etc.
+§48. Delivery and Receipt of Settlement Amount, etc.
 
 (1)  The  purchaser  shall  deposit  the  settlement  amount  according  to  the  settlement
 
@@ -2802,17 +2122,7 @@ time and date, number of transportation vehicle, quantity shipped, and temperatu
 
 41
 
-
-
-
-
-
-
-
-
-
-
-specific gravity of petroleum product are stated) to the purchaser.      In this case, the
+specific gravity of petroleum product are stated) to the purchaser.      In this case, the
 
 purchaser  shall  verify  if  there  is  any  abnormality  with  the  settlement  quantity  and
 
@@ -2866,16 +2176,7 @@ participant pursuant to Para. (1), the Exchange may record the details of the co
 
 42
 
-
-
-
-
-
-
-
-
-
-request and input the details of the concerned request into the quotation input program.
+request and input the details of the concerned request into the quotation input program.
 
 In this case, the Exchange shall keep the record of the matters.
 
@@ -2926,18 +2227,7 @@ telephone or other method.
 
 43
 
-
-
-
-
-
-
-
-
-
-
-
-(4)  In  case  where  the  purchaser  notifies  the  Exchange  the  completion  of  receipt  of
+(4)  In  case  where  the  purchaser  notifies  the  Exchange  the  completion  of  receipt  of
 
 settlement quantity pursuant to [§48(7)] after notifying the filing of objection pursuant
 
@@ -2994,15 +2284,7 @@ the time determined by the Exchange:    (Amended on July 13, 2012; May 16, 2013)
 
 44
 
-
-
-
-
-
-
-
-
-1.  In  case  where  the  purchaser  has  failed  to  deliver  the  settlement  amount,  the
+1.  In  case  where  the  purchaser  has  failed  to  deliver  the  settlement  amount,  the
 
 Exchange shall transfer the good faith deposit of the concerned purchaser to the
 
@@ -3061,13 +2343,7 @@ May 16, 2013)
 
 45
 
-
-
-
-
-
-
-1.  When  the  purchaser  to  whom  the  good  faith  deposit  is  to  be  paid  notifies  the
+1.  When  the  purchaser  to  whom  the  good  faith  deposit  is  to  be  paid  notifies  the
 
 Exchange of its intention not to receive it under the agreement made between the
 
@@ -3119,17 +2395,7 @@ send a written notice to the concerned participant via the method specified in a
 
 46
 
-
-
-
-
-
-
-
-
-
-
-(4)  Upon  receiving  the  good  faith  deposit  pursuant  to  Para.  (1)  or  Para.  (2),  the
+(4)  Upon  receiving  the  good  faith  deposit  pursuant  to  Para.  (1)  or  Para.  (2),  the
 
 Exchange shall transfer the amount to the participant who is the counterparty of trade
 
@@ -3175,20 +2441,7 @@ quantity trade;
 
 47
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-5.  Conducting  an  excessive  trade  or  submitting  a  quotation  that  has  an  adverse
+5.  Conducting  an  excessive  trade  or  submitting  a  quotation  that  has  an  adverse
 
 impact  or  leads  to  a  misunderstanding  or  concern,  particularly  in  view  of  the
 
@@ -3239,19 +2492,7 @@ measure corresponding to [§15(2)] against the concerned participant.
 
 48
 
-
-
-
-
-
-
-
-
-
-
-
-
-2. Case of falsely preparing the report or materials to be submitted pursuant to the
+2. Case of falsely preparing the report or materials to be submitted pursuant to the
 
 trade-related  laws  and  regulations  or  neglecting  the  submission  of  report  or
 
@@ -3297,22 +2538,7 @@ mediation committee.
 
 49
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER VII. Management of Trading
+CHAPTER VII. Management of Trading
 
 §57. Changing Terms and Conditions of Settlement, etc.
 
@@ -3358,21 +2584,7 @@ Petroleum E-Trading Department deems necessary.
 
 50
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2)  The  Petroleum  Product  Committee  shall  consist  of  up  to  fifteen  (15)  members
+(2)  The  Petroleum  Product  Committee  shall  consist  of  up  to  fifteen  (15)  members
 
 noted in each of the following Items and shall be chaired by the member noted in Item
 
@@ -3424,18 +2636,7 @@ Committee chairman deems it necessary by notifying each committee member of the
 
 51
 
-
-
-
-
-
-
-
-
-
-
-
-date, time and place of meeting in writing or electronic form by three (3) days before
+date, time and place of meeting in writing or electronic form by three (3) days before
 
 the meeting date. However, this provision shall not  be applied to the case where the
 
@@ -3485,20 +2686,7 @@ petroleum product noted in Annex 5 and submit it to the Exchange.
 
 52
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-(1)  The  participant  may  request  the  Exchange  to  provide  a  proof  of  the  trade
+(1)  The  participant  may  request  the  Exchange  to  provide  a  proof  of  the  trade
 
 conducted.    In  this  case,  the  Exchange  shall  issue,  in  writing  or  electronic  form,  a
 
@@ -3530,17 +2718,7 @@ Enforcement Rules.    [May 2, 2012]
 
 53
 
-
-
-
-
-
-
-
-
-
-
-ADDENDA
+ADDENDA
 (March 23, 2012)
 
 §1. Effective Date
@@ -3582,22 +2760,7 @@ ADDENDA
 
 54
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(November 15, 2012)
+(November 15, 2012)
 
 §1. Effective Date
 
@@ -3623,16 +2786,7 @@ This Regulation shall become effective on May 20, 2013.
 
 55
 
-
-
-
-
-
-
-
-
-
-[Annex 1] Criteria for selecting petro stations who have neglected the efforts to
+[Annex 1] Criteria for selecting petro stations who have neglected the efforts to
 
 distribute the tax benefits, etc. to end-customers pursuant to [§13-2]
 
@@ -3680,17 +2834,7 @@ quarter.
 
 56
 
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 1] Application for participant Admission
+[Annex: Form 1] Application for participant Admission
 
 (Amended on July 13, 2012; November 15, 2012)
 
@@ -3756,9 +2900,9 @@ appropriate ones)
 
 SK
 
-   GS
+GS
 
-   Hyundai       S-Oil
+Hyundai       S-Oil
 
 Own
 
@@ -3766,7 +2910,7 @@ Economy
 
 brand
 
-  brand
+brand
 
 Request for branch
 
@@ -3818,39 +2962,7 @@ Account
 
 owner
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Information about main business location for issuance of representative ID
+Information about main business location for issuance of representative ID
 
 Trade mark
 
@@ -3878,15 +2990,15 @@ Postal
 
 code
 
-    The  undersigned  consents  to  the  Use  Agreement  and  the  Petroleum  E-Trading
+The  undersigned  consents  to  the  Use  Agreement  and  the  Petroleum  E-Trading
 
 Regulation of Korea Exchange and submits the application for participant admission as
 
 shown above.
 
-                              Date
+Date
 
-              Name of business owner & signature
+Name of business owner & signature
 
 To:      CEO of Korea Exchange
 ※  Documents to be attached:
@@ -3907,24 +3019,7 @@ month)
 
 58
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Application for Participant Admission
+Application for Participant Admission
 
 (for corporations)
 
@@ -3988,7 +3083,7 @@ SK
 
 GS
 
-   Hyundai       S-Oil
+Hyundai       S-Oil
 
 appropriate ones)
 
@@ -4027,7 +3122,7 @@ of
 
 bank
 
-   Busan
+Busan
 
 Foreign
 
@@ -4055,36 +3150,7 @@ FAX no. (optional)
 
 59
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Address of main
+Address of main
 
 business location
 
@@ -4096,13 +3162,13 @@ Postal
 
 code
 
-   The undersigned consents to the Use Agreement and the Petroleum E-Trading Market Business
+The undersigned consents to the Use Agreement and the Petroleum E-Trading Market Business
 
 Regulation and submits the application for participant admission as shown above.
 
-                               Date
+Date
 
-                 Name of company    & signature
+Name of company    & signature
 
 To:    CEO of Korea Exchange
 
@@ -4124,22 +3190,7 @@ tax payment and tax clearance certificate (those issued within the recent 1 mont
 
 60
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 2] Request for Issuance of Branch ID
+[Annex: Form 2] Request for Issuance of Branch ID
 
 (Amended on November 15, 2012)
 
@@ -4220,32 +3271,7 @@ storage facility
 
 61
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Details of branch requiring ID (serial No.    )
+Details of branch requiring ID (serial No.    )
 
 Branch name    Trade name
 
@@ -4261,19 +3287,19 @@ storage facility
 
 (Purchaser)
 
- Pursuant to [§7] of the Petroleum E-Trading Market Business Regulation of Korea
+Pursuant to [§7] of the Petroleum E-Trading Market Business Regulation of Korea
 
 Exchange, we hereby request the issuance of branch ID as shown above.
 
-                               Date
+Date
 
 To:    CEO of Korea Exchange
 
 ※  Documents to be attached:
 
-                 Name of business owner & signature
+Name of business owner & signature
 
- 1.  In  case  where  the  business  registration  no.  of  branch  ID  is  different  from  that  of
+1.  In  case  where  the  business  registration  no.  of  branch  ID  is  different  from  that  of
 
 representative ID, a copy of certificate of business registration of branch
 
@@ -4315,27 +3341,7 @@ required
 
 62
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Address of
+Address of
 
 business location
 
@@ -4401,40 +3407,15 @@ storage facility
 
 63
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- Pursuant  to  [7]  of  the  Petroleum  E-Trading  Market  Business  Regulation  of  the
+Pursuant  to  [7]  of  the  Petroleum  E-Trading  Market  Business  Regulation  of  the
 
 Korea  Exchange,  we  hereby  request  to  issue  the  branch  ID  according  to  the
 
 statement shown above.
 
-                               Date
+Date
 
-                 Representative of company & signature
+Representative of company & signature
 
 To: CEO of the Korea Exchange
 
@@ -4449,13 +3430,7 @@ branch ID or a copy of tank trailer/lorry lease
 
 64
 
-
-
-
-
-
-
-[Annex: Form 3] Request for closing of branch ID
+[Annex: Form 3] Request for closing of branch ID
 
 Request for closing of branch ID
 
@@ -4545,73 +3520,21 @@ No.
 
 65
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    Pursuant to [§7] of the Petroleum E-Trading Market  Business Regulation
+Pursuant to [§7] of the Petroleum E-Trading Market  Business Regulation
 
 of  the  Korea  Exchange,  we  hereby  request  to  close  the  branch  ID  listed
 
 above.
 
-                               Date
+Date
 
-             Name of business owner or name of company representative      &
+Name of business owner or name of company representative      &
 
 signature
 
-To:    CEO of the Korea Exchange
-
 66
 
-
-
-
-
-
-
-
-
-[Annex: Form 4] Application for participant withdrawal
+[Annex: Form 4] Application for participant withdrawal
 
 (Amended on November 15, 2012)
 
@@ -4684,7 +3607,7 @@ Authorized
 
 Petro
 
- Retail petro
+Retail petro
 
 business
 
@@ -4700,44 +3623,19 @@ Reason for
 
 withdrawal
 
-    Pursuant  to  [§8]  of  the  Petroleum  E-Trading  Market  Business  Regulation  of
+Pursuant  to  [§8]  of  the  Petroleum  E-Trading  Market  Business  Regulation  of
 
 Korea  Exchange,  we  hereby  submit  an  application  for  participant  withdraw al  as
 
 shown above.
 
-                               Date
+Date
 
-           Name of business owner or company representative & signature
-
-To:    CEO of the Korea Exchange
+Name of business owner or company representative & signature
 
 67
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 5] Request for (termination of) registration of employee
+[Annex: Form 5] Request for (termination of) registration of employee
 
 responsible for petroleum products
 
@@ -4798,7 +3696,7 @@ Mobile
 
 phone no.
 
-    The undersigned has verified the details stated above and consents the provision of
+The undersigned has verified the details stated above and consents the provision of
 
 personal  information  pursuant  to  the  Use  Agreement  and  the  Petroleum  E-Trading
 
@@ -4834,34 +3732,9 @@ telephone
 
 no.
 
+participant admission)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-participant admission)
-
-     The undersigned has verified the details stated above and consents the provision
+The undersigned has verified the details stated above and consents the provision
 
 of personal information pursuant to the Use Agreement and the Petroleum E-Trading
 
@@ -4869,17 +3742,15 @@ Regulation of the Exchange.
 
 Name of employee responsible for petroleum product & signature
 
-  Pursuant  to  [§60]  of  the  Petroleum  E-Trading  Regulation,  I,  the  undersigned,
+Pursuant  to  [§60]  of  the  Petroleum  E-Trading  Regulation,  I,  the  undersigned,
 
 request  the  (termination  of)  registration  of  employee  responsible  for  petroleum
 
 product.
 
-                                Date
+Date
 
-               Name of business owner & signature
-
-To:    CEO of the Korea Exchange
+Name of business owner & signature
 
 Request for (Termination of) Registration of Employee Responsible for Petroleum
 
@@ -4933,33 +3804,11 @@ Mobile
 
 phone no.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ID to administer (serial number for
+ID to administer (serial number for
 
 participant admission)
 
-  I,  the  undersigned,  have  verified  the  details  stated  above  and  consents  to  the
+I,  the  undersigned,  have  verified  the  details  stated  above  and  consents  to  the
 
 provision  of  personal  information  stated  above  pursuant  to  the  Use  Agreement  and
 
@@ -4995,7 +3844,7 @@ ID to administer (serial number for
 
 participant admission)
 
-   I, the undersigned, have verified the details stated above and consents the provision
+I, the undersigned, have verified the details stated above and consents the provision
 
 of  above  noted  personal  information  pursuant  to  the  Use  Agreement  and  the
 
@@ -5009,34 +3858,13 @@ the undersigned, request the registration (termination) of employee responsible 
 
 petroleum product as noted above.
 
-                                Date
+Date
 
-                 Name of representative of company & signature
-
- To:    CEO of the Korea Exchange
+Name of representative of company & signature
 
 70
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 6] Request for withdrawal of cash good faith deposit
+[Annex: Form 6] Request for withdrawal of cash good faith deposit
 
 Receipt    Input    Confirmation
 
@@ -5056,11 +3884,11 @@ Pursuant  to  [§30]  of  the  Petroleum  E-Trading  Regulation,  the  undersign
 
 withdraw the cash deposited as the good faith deposit as shown below.
 
- Date
+Date
 
- Name of the representative of company/ business owner & signature
+Name of the representative of company/ business owner & signature
 
-  (Name of responsible employee:      contact address/ telephone no:
+(Name of responsible employee:      contact address/ telephone no:
 
 Amount to withdraw
 
@@ -5068,9 +3896,9 @@ Name of bank, account no. &
 
 account holder
 
- Good faith deposit
+Good faith deposit
 
- KRW      __________
+KRW      __________
 
 Note:
 
@@ -5093,24 +3921,7 @@ receiving account that the participant registered with the Korea Exchange.
 
 71
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 7] Request for return of settlement amount
+[Annex: Form 7] Request for return of settlement amount
 
 Receipt    Input    Confirmation
 
@@ -5136,7 +3947,7 @@ Date
 
 Name of company representative/ business owner & signature (seal)
 
-  (Responsible employee & contact address/telephone no.)
+(Responsible employee & contact address/telephone no.)
 
 Amount to be
 
@@ -5146,9 +3957,9 @@ withdrawn
 
 owner
 
- Settlement amount
+Settlement amount
 
- KRW    __________
+KRW    __________
 
 Note:
 
@@ -5171,23 +3982,7 @@ participant registered as the receiving account with the Korea Exchange.
 
 72
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form 8] Method of calculating the profits of Petro Station for Petroleum
+[Annex: Form 8] Method of calculating the profits of Petro Station for Petroleum
 
 Products Subject to Tax Benefits pursuant to [§13-2]
 
@@ -5229,22 +4024,7 @@ Here, ,  and  may be calculated for each of trade name of refineries (S
 
 73
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Hyundai and S-Oil), economy brand name and private brand name.
+Hyundai and S-Oil), economy brand name and private brand name.
 
     The  percentage  of  purchase  amount  of  petroleum  products  to  which  the  tax
 benefit  pursuant  to  [§13-2]  against  total  sales  amount  of  concerned  petro  station

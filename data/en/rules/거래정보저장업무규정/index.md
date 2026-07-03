@@ -2,8 +2,8 @@
 id: "204847960-en"
 title: "거래정보저장업무규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:01:55.876594Z"
-content_hash: "75fb27440fdb6684c63bba61cc3c8c3776f2037fa4323b2207a32722f6aafb26"
+collected_at: "2026-07-03T21:16:35.578832Z"
+content_hash: "d3858e08530802bc357715137b7c941caee32cb12766a4f83cbb081ae3363287"
 document_type: "rule"
 language: "en"
 category: "업무규정 / 거래정보저장업무규정"
@@ -24,151 +24,23 @@ Rules  and  Regulations  available  from  this  English  version  do  not  warra
 liability or responsibility for the accuracy, completeness or usefulness of any information. Only
 the Korean version shall be deemed authentic.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-CHAPTER I. GENERAL PROVISIONS .............................................................................. 1
-§1. Purpose ........................................................................................................................................... 1
-§2. Definitions ...................................................................................................................................... 1
-§3. Non-business Day ........................................................................................................................... 2
-
-CHAPTER II. USERS ............................................................................................................. 4
-Section 1. User Registration .................................................................................................... 4
-§4. User Classification ......................................................................................................................... 4
-§5. Application and Approval for User Registration, etc. .................................................................... 4
-§6. Issuance of User ID ........................................................................................................................ 5
-Section 2. Termination of User Registration, etc. ................................................................. 5
-§7. Termination .................................................................................................................................... 5
-§8. Succession of User Status ............................................................................................................... 6
-Section 3. User Obligations ..................................................................................................... 6
-§9. Compliance with Laws and Regulations ........................................................................................ 6
-§10. Non-Disclosure Obligations ......................................................................................................... 6
-§11. Due Diligence and Principle of Good Faith ................................................................................. 7
-§12. Notification to the KRX-TR ......................................................................................................... 7
-§13. Providing Additional Information to the KRX-TR ...................................................................... 7
-
-CHAPTER III. REPORTING TRADE INFORMATION .................................................. 8
-Section 1. Reportable Transactions ........................................................................................ 8
-§14. Reportable Transactions ............................................................................................................... 8
-§15. Exemption of Reporting Obligations regarding the Transactions within a Same Corporation .... 8
-Section 2 Data Elements, etc. .................................................................................................. 9
-§16. Information Types ........................................................................................................................ 9
-§17. Obligation to Use an LEI .............................................................................................................. 9
-§18. Obligation to Use a UTI ............................................................................................................... 9
-§19. Obligation to Use a UPI ............................................................................................................. 10
-Section 3. Starting the Trade Reporting Tasks ................................................................................ 10
-§20. Deadline for Starting the Trade Reporting Tasks ....................................................................... 10
-§21. Notifying Incurrence of Reporting Obligations.......................................................................... 10
-Section 4. Reporting of Trade Information by Reporting Entities ................................... 11
-§22. Method of Reporting Trade Information .................................................................................... 11
-§23. Consent related to Use and Provision of Trade Information ...................................................... 11
-§24. Reporting Deadline ..................................................................................................................... 11
-§25. Time Window for Sending and Viewing Trade Information ..................................................... 11
-§26. Measures against System Failure, etc. ........................................................................................ 12
-§27. Modification Reporting for Transaction Information ................................................................. 12
-§28. Update Reporting for Valuation and Collateral Information ...................................................... 12
-§29. Liability for the Accuracy of Trade Information ........................................................................ 13
-§30. Regarding as the Fulfillment of Reporting Obligations in relation to Cleared Trades ............... 13
-Section 5. Delegation of Reporting Tasks, etc. ................................................................................. 13
-§31. Delegation of Reporting Tasks ................................................................................................... 13
+TABLE OF CONTENTS
 
 ii
 
-
-
-
-
-
-IV.
+IV.
 
 VALIDATION,
 
 QUALITY  MANAGEMENT
 
 CHAPTER
-RECORDKEEPING, ETC. OF TRADE INFORMATION .............................................. 15
-§32. Validation of Trade Information ................................................................................................ 15
-§33. Recording Trade Information ..................................................................................................... 15
-§34. Quality Management of Trade Information ............................................................................... 16
-§35. Deadline for Corrective Reporting ............................................................................................. 16
-§36. Recordkeeping of Trade Information ......................................................................................... 16
-§37. Provision of Trade Information .................................................................................................. 16
-§38. Disclosure of Trade Information ................................................................................................ 17
 
 AND
 
-CHAPTER V. OBLIGATIONS OF THE KRX-TR ........................................................... 18
-§39. Prohibition of Discriminatory Handling ..................................................................................... 18
-§40. Notifying Violation of Reporting Obligations, etc. .................................................................... 18
-§41. Obligations of Notification ......................................................................................................... 18
-§42. Management of Operational Risk ............................................................................................... 18
-§43. Identifying, Assessing and Managing Conflicts of Interest ....................................................... 19
-§44. Security of Trade Information .................................................................................................... 19
-§45. Protection of Confidential Information, etc. ............................................................................... 20
-§46. Access to Trade Information ...................................................................................................... 20
-
-§47. Suspension of Information Exchanges ....................................................................................... 20
-§48. Emergency Plan .......................................................................................................................... 21
-§49. Cooperation with Foreign TRs etc. and Risk Management ........................................................ 21
-
-CHAPTER VI. SUPPLEMENTARY PROVISIONS ......................................................... 22
-§50. TR Operation Committee ........................................................................................................... 22
-§51. Payment of User Fees ................................................................................................................. 22
-§52. Auxiliary Services ...................................................................................................................... 22
-§53. Limitation of Liability of the KRX-TR ...................................................................................... 23
-§54. Standard Time ............................................................................................................................ 23
-§55. Governing Laws and Jurisdiction. .............................................................................................. 23
-
-ADDENDA.............................................................................................................................. 24
-
 iii
 
-
-
-
-
-
-CHAPTER I. GENERAL PROVISIONS
+CHAPTER I. GENERAL PROVISIONS
 
 §1. Purpose
 
@@ -213,22 +85,7 @@ that the KRX-TR collects from users;
 
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8.  The  term  “trade  repository  service”  means  a  service  that  the  KRX-TR  conducts  in
+8.  The  term  “trade  repository  service”  means  a  service  that  the  KRX-TR  conducts  in
 relation  to  collecting,  recordkeeping,  providing,  publicly  disclosing  and  etc.  of  trade
 information;
 
@@ -278,24 +135,7 @@ following subparagraphs:
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2. Labor Day pursuant to the Designation of Workers’ Day Act; and
+2. Labor Day pursuant to the Designation of Workers’ Day Act; and
 
 3. Saturdays
 
@@ -310,12 +150,7 @@ KRX-TR notifies the reasons for the suspension, and etc. to the users in advance
 
 3
 
-
-
-
-
-
-CHAPTER II. USERS
+CHAPTER II. USERS
 
 Section 1. User Registration
 
@@ -361,26 +196,7 @@ the applicant to supplement the application and may undertake an onsite investig
 
 4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-as a meeting with executive officers and/or employees of the applicant if deemed necessary
+as a meeting with executive officers and/or employees of the applicant if deemed necessary
 to verify the contents of the said application.
 
 (4)  In  cases  where  the  KRX-TR  approves  the  application  for  registration  pursuant  to
@@ -426,23 +242,7 @@ of its business or etc.; and
 
 5
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(b) Where there is no remaining balance of a transaction concluded by its name.
+(b) Where there is no remaining balance of a transaction concluded by its name.
 
 3. Where the user has not paid the user fees that shall be paid to the KRX-TR for equal
 to or more than 3 months; or
@@ -466,7 +266,6 @@ KRX-TR.
 in accordance with [§6(1)].
 
 (3) Matters necessary for the succession of the user status other than paragraph (1) and (2)
-are prescribed by the Enforcement Rules.
 
 Section 3. User Obligations
 
@@ -483,26 +282,7 @@ reportable transaction and its reporting agency, use such trade information.
 
 6
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§11. Due Diligence and Principle of Good Faith
+§11. Due Diligence and Principle of Good Faith
 
 In carrying out trade reporting tasks through the KRX-TR, a user shall observe due care and
 diligence and shall not engage in any actions that violate the principle of good faith.
@@ -544,24 +324,7 @@ paragraph (1), the user shall respond to such request without delay
 
 7
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER III. REPORTING TRADE INFORMATION
+CHAPTER III. REPORTING TRADE INFORMATION
 
 Section 1. Reportable Transactions
 
@@ -589,7 +352,6 @@ assumes obligations of the transaction prescribed in subparagraph 1; and
 the said transaction as soon as the transaction in subparagraph 2 is concluded.
 
 (3)  Matters  necessary  for  reportable  transactions  other  than  paragraph  (1)  and  (2)  are
-prescribed by the Enforcement Rules.
 
 §15.  Exemption  of  Reporting  Obligations  regarding  the  Transactions  within  a  Same
 Corporation
@@ -607,26 +369,11 @@ branches outside of Korea; and
 
 8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(a) A transaction between a proprietary property  and a trust  property, a collective
+(a) A transaction between a proprietary property  and a trust  property, a collective
 investment property, or a discretionary investment property (hereinafter referred to
 as “trust property, etc.”); or
 
-  (b) A transaction between trust properties, etc.
+(b) A transaction between trust properties, etc.
 
 Section 2 Data Elements, etc.
 
@@ -667,25 +414,7 @@ pursuant to [$2(1)5] for each reportable transaction.
 
 9
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2) Necessary matters concerning the format of a UTI and decision on UTI generating entity
-are prescribed by the Enforcement Rules.
+(2) Necessary matters concerning the format of a UTI and decision on UTI generating entity
 
 §19. Obligation to Use a UPI
 
@@ -727,24 +456,7 @@ paragraph (1) and (2) are prescribed by the Enforcement Rules.
 
 10
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Section 4. Reporting of Trade Information by Reporting Entities
+Section 4. Reporting of Trade Information by Reporting Entities
 
 §22. Method of Reporting Trade Information
 
@@ -787,27 +499,7 @@ duration of such a system failure, the time needed for system recovery, and etc.
 
 11
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The  time  window  where  a  reporting  entity  or  a  reporting  agency  may  electronically  send
+The  time  window  where  a  reporting  entity  or  a  reporting  agency  may  electronically  send
 trade information to the TR system or view trade information kept therein is from 8:00 to
 24:00 of a business day.
 
@@ -853,24 +545,7 @@ information in subparagraph (3) of the same paragraph related to a reportable tr
 
 12
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-every business day from the next business day of the date when the reporting entity reports
+every business day from the next business day of the date when the reporting entity reports
 such information for the first time until the reportable transaction is terminated.
 
 (2) When carrying out  update reporting pursuant  to  paragraph  (1), a reporting entity shall
@@ -916,22 +591,7 @@ application submitted pursuant to paragraph (1).
 
 13
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(4) In the event a reporting entity intends to make changes to the matters such as the scope
+(4) In the event a reporting entity intends to make changes to the matters such as the scope
 of reporting tasks to be delegated to the reporting agency that had been approved pursuant
 to paragraph (3) or terminate the designation of such a reporting agency, it shall apply for a
 change or termination of the reporting agency to the KRX-TR in accordance with the form
@@ -940,16 +600,10 @@ the day it intends to carry out such a change or termination.
 
 (5)  Matters  necessary  for  application,  approval,  modification  and  termination,  and  etc.  of
 designating a reporting  agency other than those provided in  paragraph (1) through (4)  are
-prescribed by the Enforcement Rules.
 
 14
 
-
-
-
-
-
-CHAPTER IV. VALIDATION, QUALITY MANAGEMENT AND
+CHAPTER IV. VALIDATION, QUALITY MANAGEMENT AND
 RECORDKEEPING, ETC. OF TRADE INFORMATION
 
 §32. Validation of Trade Information
@@ -978,7 +632,6 @@ fact and the reason therefor without delay.
 system, the internet homepage, or etc.
 
 (6) Matters necessary for trade information validation other than paragraph (1) through (5)
-are prescribed by the Enforcement Rules.
 
 §33. Recording Trade Information
 
@@ -996,23 +649,7 @@ through (3) are prescribed by the Enforcement Rules.
 
 15
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§34. Quality Management of Trade Information
+§34. Quality Management of Trade Information
 
 (1) The KRX-TR operates each of the following processes in order to enhance accuracy of
 trade information:
@@ -1057,23 +694,7 @@ rights and duties in relation to the reportable transaction are terminated.
 
 16
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(hereinafter  referred  to  as  the  “information  receiving  entity”)  in  accordance  with  [§5-50-
+(hereinafter  referred  to  as  the  “information  receiving  entity”)  in  accordance  with  [§5-50-
 4(2)] of the Regulations on Financial Investment Business:
 
 1. FSC;
@@ -1117,24 +738,7 @@ information that it collected:
 
 17
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER V. OBLIGATIONS OF THE KRX-TR
+CHAPTER V. OBLIGATIONS OF THE KRX-TR
 
 §39. Prohibition of Discriminatory Handling
 
@@ -1178,27 +782,7 @@ Enforcement Rules.
 
 18
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The  KRX-TR  shall  establish  a  system  that  can  recognize,  monitor  and  manage  any  cause
+The  KRX-TR  shall  establish  a  system  that  can  recognize,  monitor  and  manage  any  cause
 that can give rise to an operational risk in relation to trade repository services.
 
 §43. Identifying, Assessing and Managing Conflicts of Interest
@@ -1244,23 +828,7 @@ prevent any illegal access to trade information;
 
 19
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2. To ensure that malicious codes such as computer viruses or spywares do not penetrate
+2. To ensure that malicious codes such as computer viruses or spywares do not penetrate
 the TR system; and
 
 3. To monitor the use of and access to the TR system at all times.
@@ -1307,21 +875,7 @@ accordance with [§323-3] of the Financial Investment Services and Capital Marke
 
 20
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2)  Suspension  of  information  exchanges  pursuant  to  paragraph  (1)  is  in  accordance  with
+(2)  Suspension  of  information  exchanges  pursuant  to  paragraph  (1)  is  in  accordance  with
 each of the following methods:
 
 1.  Information  that  is  obtained  in  the  course  of  providing  trade  repository  services  and
@@ -1362,36 +916,20 @@ institutional  compatibility  with
 
 21
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER VI. SUPPLEMENTARY PROVISIONS
+CHAPTER VI. SUPPLEMENTARY PROVISIONS
 
 §50. TR Operation Committee
 
 (1) The KRX-TR may establish and operate a TR Operation Committee to deliberate each
 of the following subparagraphs
 
-    1. Matters related to improvement of trade repository services;
+1. Matters related to improvement of trade repository services;
 
-    2. Matters related to revision of this Regulation; and
+2. Matters related to revision of this Regulation; and
 
-    3. Other necessary matters concerning trade repository services.
+3. Other necessary matters concerning trade repository services.
 
 (2) Matters necessary for composition, operation, etc. of the TR Operation Committee are
-prescribed by the Enforcement Rules.
 
 §51. Payment of User Fees
 
@@ -1423,31 +961,12 @@ derivatives products; and/or
 
 22
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2. Other services auxiliary to the trade repository services
+2. Other services auxiliary to the trade repository services
 
 (2)  The  KRX-TR  may  impose  user  fees  in  relation  to  auxiliary  services  of  each
 subparagraph of paragraph (1) to the relevant user.
 
 (3)  Methods,  rates  or  amounts,  and  deadline  of  user  fee  payment  in  paragraph  (2)  are
-prescribed by the Enforcement Rules.
 
 §53. Limitation of Liability of the KRX-TR
 
@@ -1481,26 +1000,7 @@ Regulation is the Busan District Court.
 
 23
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDA
+ADDENDA
 (Regulation No. 1914 / March 8, 2021)
 
 §1. Effective Date

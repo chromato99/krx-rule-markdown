@@ -2,7 +2,7 @@
 id: "210224396"
 title: "코스닥시장 업무규정 개정 예고"
 source_url: "https://rule.krx.co.kr/out/pds/pdsViewPop.do"
-collected_at: "2026-07-03T15:02:44.976144Z"
+collected_at: "2026-07-03T21:17:24.002076Z"
 content_hash: "d2974958a2cfbf099f724910ff5f5a473ec2b67f8c5ba75ce1b17cdd4ce8c13d"
 document_type: "notice"
 language: "ko"
@@ -23,9 +23,8 @@ attachments:
     size: 209282
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1461
+    converted_text_chars: 1460
     converted_non_space_chars: 1106
-    formula_hint_count: 2
   - id: "210224396-210224398-pdf"
     title: "(붙임2) 코스닥시장 업무규정 일부개정규정안.pdf"
     file_name: "(붙임2) 코스닥시장 업무규정 일부개정규정안.pdf"
@@ -40,9 +39,8 @@ attachments:
     size: 298497
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 10646
+    converted_text_chars: 10632
     converted_non_space_chars: 8322
-    formula_hint_count: 3
 ---
 
 □ 주요 내용

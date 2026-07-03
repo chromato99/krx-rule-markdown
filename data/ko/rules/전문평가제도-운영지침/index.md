@@ -2,7 +2,7 @@
 id: "210203237"
 title: "전문평가제도 운영지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:55:09.379994Z"
+collected_at: "2026-07-03T21:09:41.778140Z"
 content_hash: "d647e2ba4bcc90bac4c7748d7e7b938c5787b01112bedc0ba7b0c59cfcebd1db"
 document_type: "rule"
 language: "ko"
@@ -58,7 +58,6 @@ attachments:
     converted_text_chars: 3670
     converted_non_space_chars: 2711
     table_row_count: 29
-    formula_hint_count: 1
   - id: "210203237-202312280000008630000123004-byl-hwp"
     title: "[별지 제2호 서식] 평가신청기업 서약서"
     file_name: "전문평가제도 운영지침_24차_평가신청기업서약서.hwp"

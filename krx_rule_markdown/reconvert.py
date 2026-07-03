@@ -5,9 +5,10 @@ from pathlib import Path
 
 from .convert import convert_attachment
 from .markdown import load_documents, write_document
-from .models import ATTACHMENT_CONVERTED, Attachment, hash_text
+from .models import ATTACHMENT_CONVERTED, LANGUAGE_EN, Attachment, hash_text
 from .paths import converted_attachment_path
 from .quality import write_manifest
+from .sync import english_rule_title
 
 
 @dataclass
@@ -28,6 +29,12 @@ def reconvert_data(data_dir: Path, *, document_id: str = "", dry_run: bool = Fal
             continue
         result.documents += 1
         changed = False
+        if doc.language == LANGUAGE_EN and doc.file_name:
+            normalized_title = english_rule_title(doc.file_name, doc.title)
+            if normalized_title != doc.title:
+                doc.title = normalized_title
+                doc.content_hash = hash_text(doc.title + "\n" + doc.body)
+                changed = True
         if doc.raw_path:
             result.attachments += 1
             raw_path = data_dir / doc.raw_path

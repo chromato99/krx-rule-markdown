@@ -2,8 +2,8 @@
 id: "204844585-en"
 title: "유가증권시장공정공시운영기준"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:00:55.011583Z"
-content_hash: "37bce78e70017532e9c5c1767ea06cf1607acb32afcdf3d96e112ce69c39941a"
+collected_at: "2026-07-03T21:15:34.398832Z"
+content_hash: "7a94596d7b662fdf3fe7133b1ce298316c317beeb94709505021264494c8bbf9"
 document_type: "rule"
 language: "en"
 category: "업무규정 / 유가증권시장규정"
@@ -32,68 +32,9 @@ Rules and Regulations available from this English version do not warrant or assu
 liability  or  responsibility  for  the  accuracy,  completeness  or  usefulness  of  any
 information. Only Korean version shall be deemed authentic.
 
+TABLE OF CONTENTS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-§1. Purpose ....................................................................................................................... 1
-
-§2. Definitions .................................................................................................................. 1
-
-§3. Information subject to Fair Disclosure ....................................................................... 1
-
-§4. Prohibition of Roundabout Provision of Information subject to Fair Disclosure ...... 2
-
-§5. Fair Disclosure Information Providers ....................................................................... 2
-
-§6. Receivers of Faire Disclosure Information ................................................................. 3
-
-§7. Notification Deadlines, etc. ........................................................................................ 4
-
-§8. Notification Methods .................................................................................................. 5
-
-§9. Exceptions in Applying Fair Disclosure Obligations ................................................. 6
-
-§10. Relationship with Timely Disclosure ....................................................................... 7
-
-§11. Due Care and Other Duties of KOSPI-listed Corporations ...................................... 8
-
-ADDENDA ...................................................................................................................... 9
-
-
-
-
-
-§1. Purpose
+§1. Purpose
 
 The purpose of this Operational Guidelines on Fair Disclosure (hereinafter referred to as
 the  “Operational  Guidelines”)  is  to  stipulate  the  matters  necessary  for  the  effective
@@ -138,18 +79,7 @@ annual report, semi-annual report and quarterly report (hereinafter referred to 
 
 1
 
-
-
-
-
-
-
-
-
-
-
-
-reports, etc.”) that are released before submitting the annual reports, etc.” in [§15(1)3]
+reports, etc.”) that are released before submitting the annual reports, etc.” in [§15(1)3]
 of  the  Regulation  shall  refer  to  the  business  results,  including  sales,  operating  income
 (losses), profits (losses) before corporate tax from continuing operations, or net income
 (losses),  stated  in  the  annual  reports,  etc.  that  are  not  yet  submitted  at  the  time  of
@@ -194,17 +124,7 @@ refer to the persons who direct other persons to operate the business pursuant t
 
 2
 
-
-
-
-
-
-
-
-
-
-
-of their designations, who have entered into an employment contract that is subject to
+of their designations, who have entered into an employment contract that is subject to
 the Labor Standards Act. (Amended on February 3, 2009)
 
 (4)  “Staff-members  of  the  department  that  handles  the  matters  concerning  the
@@ -250,19 +170,7 @@ and  other  companies  performing  similar  functions,  which  operate  financia
 
 3
 
-
-
-
-
-
-
-
-
-
-
-
-
-by  obtaining  the  permits  or  licenses  pursuant  to  the  financial  laws  and  ordinances  of
+by  obtaining  the  permits  or  licenses  pursuant  to  the  financial  laws  and  ordinances  of
 foreign countries. (Amended on February 3, 2009)
 
 (6) The “domestic and foreign corporations that conduct the same or similar businesses”
@@ -307,19 +215,7 @@ disclosure of the concerned information. (Amended on February 3, 2009)
 
 4
 
-
-
-
-
-
-
-
-
-
-
-
-
-(3) “In cases where such information was released due to a minor negligence or error”
+(3) “In cases where such information was released due to a minor negligence or error”
 in the proviso to [§15(4)] of the Regulation  shall refer to  the  cases where there was  a
 misunderstanding  on  the  part  of  the  fair  disclosure  information  provider  that  the
 Exchange has already been notified of the information to be released or the information
@@ -365,16 +261,7 @@ member  responsible  for  disclosure,  as  well  as  the  departments  and  cont
 
 5
 
-
-
-
-
-
-
-
-
-
-relating  to  the  concerned  information  subject  to  fair  disclosure,  in  the  notification,  so
+relating  to  the  concerned  information  subject  to  fair  disclosure,  in  the  notification,  so
 that the investors may inquire about the specifics relating to the disclosed information
 without difficulties. (Amended on February 3, 2009)
 
@@ -420,16 +307,7 @@ corporations, etc.
 
 6
 
-
-
-
-
-
-
-
-
-
-3.  Contract  authorizing  certified  public  tax  accountants,  who  are  subject  to  the
+3.  Contract  authorizing  certified  public  tax  accountants,  who  are  subject  to  the
 Certified  Public  Tax  Accountants  Act,  to  be  an  agent  for  filings,  applications  and
 claims  relating  to  taxation;  to  prepare  the  documents  relating  to  taxation  such  as  a
 statement  for  tax  reconciliation;  to  act  as  an  agent  for  tax  matters,  including
@@ -473,18 +351,7 @@ applicable  regulation.  (Amended  on  December  27,  2005;  February  3,  2009;
 
 7
 
-
-
-
-
-
-
-
-
-
-
-
-(2) In the case of Paragraph (1), when the details of the information already disclosed
+(2) In the case of Paragraph (1), when the details of the information already disclosed
 were changed, the fact that the contents of the fair disclosure made previously has been
 changed shall be stated the in the report that is made pursuant to Articles [§7] through
 [§11] of the Regulation. In such case, it shall be deemed that the report specified in [§45]
@@ -514,14 +381,7 @@ relation to the fair disclosure. (Amended on February 3, 2009)
 
 8
 
-
-
-
-
-
-
-
-ADDENDA
+ADDENDA
 (January 27, 2005)
 
 §1. Effective Date
@@ -560,30 +420,7 @@ begins after the end of December 31, 2006.
 
 9
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 (September 23, 2008)
 
 This Operational Guidelines shall become effective on October 1, 2007.

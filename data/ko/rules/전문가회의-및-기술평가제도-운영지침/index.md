@@ -2,7 +2,7 @@
 id: "204847848"
 title: "전문가회의 및 기술평가제도 운영지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:01:44.825582Z"
+collected_at: "2026-07-03T21:16:24.810833Z"
 content_hash: "0f7c00d5ef46d2d84ef5b02218fa498da55dd6a23a5664073c462010d04ae4ee"
 document_type: "rule"
 language: "ko"

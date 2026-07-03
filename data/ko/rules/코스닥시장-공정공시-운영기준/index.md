@@ -2,7 +2,7 @@
 id: "204844930"
 title: "코스닥시장 공정공시 운영기준"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:00:55.978314Z"
+collected_at: "2026-07-03T21:15:35.424579Z"
 content_hash: "5b02a5a518c668b93bebf9c396f2e50c4094974afc2734d388350b632854f722"
 document_type: "rule"
 language: "ko"

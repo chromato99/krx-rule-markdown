@@ -2,7 +2,7 @@
 id: "204846763"
 title: "소송지원 운영지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:02:21.878793Z"
+collected_at: "2026-07-03T21:17:01.122342Z"
 content_hash: "12a2ae0420b83d10eb78bc29e9256636a3154895f86212fe90bb7ac16c523503"
 document_type: "rule"
 language: "ko"
@@ -73,7 +73,6 @@ attachments:
     quality_score: 100
     converted_text_chars: 730
     converted_non_space_chars: 535
-    formula_hint_count: 1
 ---
 
 **제1조(목적)**이 지침은 한국거래소(이하 "거래소"라 한다)의 시장감시위원회(이하 "위원회"라 한다)가 「분쟁조정규정」(이하 "규정"이라 한다)제22조와 「분쟁조정규정 시행세칙」(이하 "세칙"이라 한다)제20조 및 「KRX금시장 시장감시 및 분쟁조정 규정」(이하 "금시장규정"이라 한다)제50조와 「KRX금시장 시장감시 및 분쟁조정 규정 시행세칙」(이하 "금시장세칙"이라 한다) 제45조에따라 소송을 지원하는데 필요한 사항을 규정함을 목적으로 한다.<개정 2010. 12. 10., 2014. 3. 24.>

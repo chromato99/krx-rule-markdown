@@ -53,10 +53,11 @@ def clean_unreferenced_documents(data_dir: Path, *, dry_run: bool = False) -> Cl
     data_dir = Path(data_dir)
     referenced = manifest_document_paths(data_dir)
     duplicate_paths = duplicate_document_paths(data_dir)
-    scanned = 0
+    paths = document_index_paths(data_dir)
+    scanned = len(paths)
+    ensure_manifest_not_truncated(data_dir, scanned, referenced)
     removed = 0
-    for path in document_index_paths(data_dir):
-        scanned += 1
+    for path in paths:
         rel = normalize_relative(str(path.relative_to(data_dir)))
         should_remove = rel in duplicate_paths
         if referenced:
@@ -67,6 +68,19 @@ def clean_unreferenced_documents(data_dir: Path, *, dry_run: bool = False) -> Cl
         if not dry_run:
             remove_document_bundle(path, data_dir)
     return CleanResult(scanned=scanned, removed=removed)
+
+
+def ensure_manifest_not_truncated(data_dir: Path, scanned: int, referenced: set[str]) -> None:
+    if scanned == 0 or not referenced:
+        return
+    if len(referenced) >= scanned:
+        return
+    if len(referenced) < max(1, scanned // 2):
+        raise ValueError(
+            "manifest references far fewer documents than exist on disk "
+            f"({len(referenced)} manifest path(s), {scanned} document(s)); "
+            "refusing to prune unreferenced documents"
+        )
 
 
 def drop_professional_attachments(data_dir: Path, *, dry_run: bool = False) -> DropResult:
@@ -131,7 +145,7 @@ def referenced_attachment_paths(data_dir: Path) -> set[str]:
 
 
 def attachment_roots(data_dir: Path) -> list[Path]:
-    roots = [data_dir / "attachments", data_dir / "ko" / "attachments", data_dir / "en" / "attachments"]
+    roots: list[Path] = []
     for language in ("ko", "en"):
         for folder in ("rules", "notices"):
             base = data_dir / language / folder
@@ -152,14 +166,7 @@ def document_index_paths(data_dir: Path) -> list[Path]:
             base = data_dir / language / folder
             if not base.exists():
                 continue
-            paths.extend(sorted(base.glob("*.md")))
             paths.extend(sorted(base.glob("*/index.md")))
-    for folder in ("rules", "notices"):
-        base = data_dir / folder
-        if not base.exists():
-            continue
-        paths.extend(sorted(base.glob("*.md")))
-        paths.extend(sorted(base.glob("*/index.md")))
     return paths
 
 
@@ -215,8 +222,6 @@ def document_container_roots(data_dir: Path) -> set[Path]:
     for language in ("ko", "en"):
         for folder in ("rules", "notices"):
             roots.add(data_dir / language / folder)
-    for folder in ("rules", "notices"):
-        roots.add(data_dir / folder)
     return roots
 
 

@@ -2,7 +2,7 @@
 id: "210137438"
 title: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:57:47.306754Z"
+collected_at: "2026-07-03T21:12:22.573914Z"
 content_hash: "00293457101ecf768ed00ce2b5174fc2e394442896210fd67f4cff80bbd303ea"
 document_type: "rule"
 language: "ko"

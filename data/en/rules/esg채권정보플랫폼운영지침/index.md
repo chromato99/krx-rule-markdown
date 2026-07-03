@@ -2,8 +2,8 @@
 id: "204847935-en"
 title: "ESG채권정보플랫폼운영지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:01:04.155396Z"
-content_hash: "10a8fb2108feeca8c5dc133e0fe5b0e8c9d7a558e6ce670db8f2ae0e233738ee"
+collected_at: "2026-07-03T21:15:43.737927Z"
+content_hash: "5288be347b86fe48ca1e0d61a4c52ccf1d2751de2b6b14aee1edc74aa80de298"
 document_type: "rule"
 language: "en"
 category: "업무규정 / 유가증권시장규정"
@@ -32,68 +32,11 @@ Rules  and  Regulations  available  from  this  English  version  do  not  warra
 liability or responsibility for the accuracy, completeness or usefulness of any information. Only
 the Korean version shall be deemed authentic.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-CHAPTER I. GENERAL PROVISIONS ........................................................................................... 1
-
-§1. Purpose ............................................................................................................................................................. 1
-
-§2. Definitions ........................................................................................................................................................ 1
-
-CHAPTER II. OPERATION OF SOCIALLY RESPONSIBLE INVESTMENT BOND .............. 2
-
-§3. Bonds for registration ....................................................................................................................................... 2
-
-§4. Registration requirements ................................................................................................................................. 2
-
-§5. Registration application .................................................................................................................................... 2
-
-§6. Registration decision ........................................................................................................................................ 3
-
-§7. Information disclosure following registration .................................................................................................. 4
-
-§8. Ongoing registration requirements ................................................................................................................... 4
-
-§9. Revocation of registration ................................................................................................................................. 6
-
-§10. Supplementary provisions .............................................................................................................................. 7
-
-ADDENDUM ......................................................................................................................................... 7
-
-[Annex: Form] Application for Dedicated Segment Registration of Socially Responsible Investment Bonds .................................. 9
-
-[Appendix] Agreement for Segment Registration Dedicated to Socially Responsible Investment Bonds ............................... 11
+TABLE OF CONTENTS
 
 ii
 
-
-
-
-
-
-CHAPTER I. GENERAL PROVISIONS
+CHAPTER I. GENERAL PROVISIONS
 
 §1. Purpose
 
@@ -141,21 +84,7 @@ an  issuer  describes  core  components  specified  in  the  socially  responsib
 
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-principles  and  other  necessary  matters  in  order  to  issue  and  manage  socially  responsible
+principles  and  other  necessary  matters  in  order  to  issue  and  manage  socially  responsible
 investment bonds.
 
 10.  The  term  “external  reviewers”  means  those  with  expertise  that  meet  requirements
@@ -203,21 +132,7 @@ segment,  it  shall  submit  to  the  Exchange  all  of  the  documents  in  eac
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-subparagraphs: (Amended on November 23, 2021; September 20, 2022)
+subparagraphs: (Amended on November 23, 2021; September 20, 2022)
 
 1. Registration application in the Annex: Form No. 1;
 
@@ -267,22 +182,7 @@ circumstances, the registration decision shall be made when such circumstances a
 
 3
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-debt securities according to the following subparagraphs:
+debt securities according to the following subparagraphs:
 
 1. Green bond;
 
@@ -331,26 +231,7 @@ Subparagraphs to the Exchange: (Amended on November 23, 2021; September 20, 2022
 
 4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1.  In  the  case  where  registered  debt  securities  are  use-of-proceeds  bonds:  Documents  in
+1.  In  the  case  where  registered  debt  securities  are  use-of-proceeds  bonds:  Documents  in
 each of the following Items. In such case, documents in Item (b) may be included in the
 contents of documents in Item (a);
 
@@ -362,7 +243,7 @@ year; and
 
 contains details of annual key performance indicators
 
-    2.  In  the  case  where  registered  debt  securities  are  sustainability-linked  bonds:
+2.  In  the  case  where  registered  debt  securities  are  sustainability-linked  bonds:
 Performance  report  that  contains  the  performance  of  annual  key  performance
 indicators  and  the  measurements  of  sustainability  performance  targets  and  external
 review report that verifies the performance report.
@@ -399,19 +280,7 @@ framework  or  the  investment  prospectus,  in  accordance  with  each  of  the
 
 5
 
-
-
-
-
-
-
-
-
-
-
-
-
-1. Case where the performance report and the external review report are submitted for the
+1. Case where the performance report and the external review report are submitted for the
 first time: The performance report and the external review report shall be submitted by
 the  end  of  the  year  following  the  year  in  which  the  issuance  date  of  the  relevant
 sustainability-linked  bonds  falls.  Provided  that,  in  cases  where  the  concerned
@@ -462,18 +331,7 @@ Exchange within the submission deadline;
 
 6
 
-
-
-
-
-
-
-
-
-
-
-
-report  or  the  external  review  report  under  [§8(1)2]  to  the  Exchange  within  the
+report  or  the  external  review  report  under  [§8(1)2]  to  the  Exchange  within  the
 submission deadline; and
 
 6.  Other  cases  where  the  Exchange  deems  it  necessary  to  revoke  registration  for  public
@@ -519,25 +377,7 @@ dedicated segment after the effective date of these Guideline.
 
 7
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDA
+ADDENDA
 
 (September 20, 2022)
 
@@ -552,47 +392,7 @@ application for the dedicated segment after the effective date of these Guidelin
 
 8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex:  Form.  No.  1]  Application  for  dedicated  segment  registration  of  socially  responsible  investment
+[Annex:  Form.  No.  1]  Application  for  dedicated  segment  registration  of  socially  responsible  investment
 bonds
 
 (Amended on January 22, 2021; November 23, 2021;september 20, 2022)
@@ -627,7 +427,7 @@ Investment Bonds as follows:
 Environment  □  ICMA  Social  Bond  Principles    □  ICMA  Sustainability  Bond
 Guidelines □ ICMA Sustainability-Linked Bond Principles □ Other (                    )
 
-    •  For  sustainability-linked  bond,  key  performance  indicators  and  judgement  date
+•  For  sustainability-linked  bond,  key  performance  indicators  and  judgement  date
 
 (observation date)
 
@@ -645,35 +445,7 @@ signed by the representative director) 5)
 
 9
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-• Additional documents including press releases indicating the intention to be registered on
+• Additional documents including press releases indicating the intention to be registered on
 
 the dedicated segment
 
@@ -699,10 +471,7 @@ debt securities-listed corporation may be submitted in lieu thereof).
 
 10
 
-
-
-
-[Appendix] Agreement for Segment Registration Dedicated to Socially Responsible Investment Bonds
+[Appendix] Agreement for Segment Registration Dedicated to Socially Responsible Investment Bonds
 
 Agreement for Segment Registration Dedicated to Socially Responsible Investment Bonds
 
@@ -750,22 +519,12 @@ Socially  Responsible  Investment  Bonds,  the  Exchange  may  revoke  the  regi
 dedicated segment of the debt securities concerned and make public the fact on the dedicated
 segment.
 
-    7. We pledge to diligently comply with the Guidelines for Operation of Segment Dedicated to
+7. We pledge to diligently comply with the Guidelines for Operation of Segment Dedicated to
 Socially Responsible Investment Bonds (including the amended provisions) of the Exchange
 
 11
 
-
-
-
-
-
-
-
-
-
-
-  [Annex: Form. No. 2] Application for revocation of dedicated segment registration of socially responsible
+[Annex: Form. No. 2] Application for revocation of dedicated segment registration of socially responsible
 investment bonds
 
 (Established on November 23, 2021)

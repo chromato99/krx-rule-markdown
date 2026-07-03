@@ -2,7 +2,7 @@
 id: "210188913"
 title: "KRX금시장 운영규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:56:07.840692Z"
+collected_at: "2026-07-03T21:10:39.821523Z"
 content_hash: "31f8632aca62bc912b9224b0be6d3f8f9d8580d25e99748ee0ef0f78667214e4"
 document_type: "rule"
 language: "ko"
@@ -137,7 +137,6 @@ attachments:
     converted_text_chars: 509
     converted_non_space_chars: 429
     table_row_count: 1
-    formula_hint_count: 1
   - id: "210188913-202406250000022380000232009-byl-hwp"
     title: "[별지 제4호 서식] 이의신청서"
     file_name: "KRX금시장 운영규정 시행세칙_29차_이의신청서.hwp"

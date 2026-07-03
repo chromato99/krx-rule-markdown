@@ -2,7 +2,7 @@
 id: "210147374"
 title: "회원시스템 접속 등에 관한 지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:56:55.107384Z"
+collected_at: "2026-07-03T21:11:28.882515Z"
 content_hash: "b3722925b52ffe4f83763b60148d10ec12f87ac894b34f3018e4f486ad945740"
 document_type: "rule"
 language: "ko"

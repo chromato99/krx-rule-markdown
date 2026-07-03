@@ -2,7 +2,7 @@
 id: "204847345"
 title: "코스닥시장 소속부 운영기준"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:01:40.545709Z"
+collected_at: "2026-07-03T21:16:20.674006Z"
 content_hash: "2c2314cbc42da75809ff905a3a8ecc502cd6e3c8df605520d28a0adb9f8fc6a5"
 document_type: "rule"
 language: "ko"

@@ -2,7 +2,7 @@
 id: "210199976"
 title: "파생상품시장 업무규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:52:51.753758Z"
+collected_at: "2026-07-03T21:07:22.504850Z"
 content_hash: "edba07ef02dfbbf4445a54c84d6bcd15f54f82a7d8741bbfd2781320a72c5c70"
 document_type: "rule"
 language: "ko"

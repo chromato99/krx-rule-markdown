@@ -2,7 +2,7 @@
 id: "210136803"
 title: "신종증권시장 운영규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:57:22.790821Z"
+collected_at: "2026-07-03T21:11:57.413500Z"
 content_hash: "80a8e8251897ed13facc783b5a028b38897357cd1d5d4b31cf28335b08595b9f"
 document_type: "rule"
 language: "ko"
@@ -25,7 +25,7 @@ attachments:
     quality_score: 100
     converted_text_chars: 886
     converted_non_space_chars: 669
-    formula_hint_count: 2
+    formula_hint_count: 1
   - id: "210136803-210136989-hwp"
     title: "[별표2] 신종증권 상장심사기준<신설 2025. 10. 23.>"
     file_name: "신종증권시장 운영규정 시행세칙_0차_[별표2] 신종증권 상장심사기준.hwp"
@@ -200,7 +200,7 @@ attachments:
     converted_text_chars: 617
     converted_non_space_chars: 524
     table_row_count: 1
-    formula_hint_count: 2
+    formula_hint_count: 1
   - id: "210136803-210137022-hwp"
     title: "[별지 제4호 서식] 변경상장신청서<신설 2025. 10. 23.>"
     file_name: "신종증권시장 운영규정 시행세칙_0차_[별표4] 변경상장신청서.hwp"

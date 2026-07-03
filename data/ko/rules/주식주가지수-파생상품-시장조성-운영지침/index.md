@@ -2,7 +2,7 @@
 id: "210202173"
 title: "주식·주가지수 파생상품 시장조성 운영지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:53:05.059773Z"
+collected_at: "2026-07-03T21:07:36.655800Z"
 content_hash: "d126c0fddca47ca2e19a891f7ec19901f89d88e2e4e9e9106012ae77656ce63f"
 document_type: "rule"
 language: "ko"
@@ -23,10 +23,11 @@ attachments:
     size: 55296
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 4775
+    converted_text_chars: 4771
     converted_non_space_chars: 3601
     table_row_count: 24
-    formula_hint_count: 2
+    formula_block_count: 1
+    formula_hint_count: 3
   - id: "210202173-210218085-hwp"
     title: "[별표 2] 시장조성상품 배정 기준<개정 2023.12.20, 2024.4.12,2024. 12. 12.,2025. 10. 23.,2025. 12. 12.,2026. 6. 23.>"
     file_name: "주식·주가지수 파생상품 시장조성 운영지침_12차_시장조성상품배정기준.hwp"
@@ -72,10 +73,11 @@ attachments:
     size: 71168
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 25047
+    converted_text_chars: 25011
     converted_non_space_chars: 19890
     table_row_count: 86
-    formula_hint_count: 111
+    formula_block_count: 24
+    formula_hint_count: 133
   - id: "210202173-210134276-hwp"
     title: "[별표 5] 시장조성 의무 조정 기준<개정 2023.1.2, 2024.4.12,2025. 10. 23.>"
     file_name: "주식·주가지수 파생상품 시장조성 운영지침_12차_시장조성의무조정기준.hwp"
@@ -155,7 +157,6 @@ attachments:
     converted_text_chars: 607
     converted_non_space_chars: 539
     table_row_count: 1
-    formula_hint_count: 2
   - id: "210202173-202404120000008760000292010-byl-hwp"
     title: "[별지 제5호 서식] 고속 알고리즘거래 관련 확인서<신설 2023.1.2>"
     file_name: "주식·주가지수 파생상품 시장조성 운영지침_12차_고속알고리즘거래관련확인서.hwp"

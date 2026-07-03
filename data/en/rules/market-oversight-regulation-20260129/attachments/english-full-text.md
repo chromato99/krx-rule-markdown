@@ -21,148 +21,21 @@ This  English  version  does  not  warrant  or  assume  any  liability  or  resp
 accuracy,  completeness  or  usefulness  of  any  information  contained  herein.  Only  Korean
 version shall be deemed authentic.
 
+TABLE OF CONTENTS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-CHAPTER I. GENERAL PROVISIONS .........................................................................1
-
-§1. Purpose ........................................................................................................................1
-
-§2. Definitions ...................................................................................................................1
-
-CHAPTER II. MAINTENANCE OF SOUNDNESS OF MARKET ...............................3
-
-Section 1. Obligation to Uphold Fair Trade Practices .......................................................3
-
-§3. Prohibited Activities of Members ...............................................................................3
-
-§4. Prohibition of Activities Undermining Fair Trade Practice ........................................4
-
-Section 2. Preventative Actions against Unfair Trading ...................................................6
-
-§5. Preventative Actions by the Market Oversight Commission ......................................6
-
-§5-2.    Designation as Investment Caution Issues and Publication thereof, etc. ..............7
 §5-3. Designation and Publication of Investment Alert Issue and Investment Risk Issue,
-
-etc. .....................................................................................................................................7
-
-§6. Preventative Actions by Members...............................................................................8
-
-§7. Reporting Requirement of Members for the Prevention of Unfair Trading ................9
 
 CHAPTER  III.  INVESTIGATION  INTO  ABNORMAL  TRADING  AND
 
-INSPECTION OF MEMBERS .......................................................................................10
-
-Section 1. General Provisions..........................................................................................10
-
-§8. Matters to be Observed by Surveillance Staff ...........................................................10
-
-§9. Withdrawal from Investigation or Inspection............................................................10
-
-§10. Reward for Information ...........................................................................................10
-
-§10-2. Request for Provision of Information to Multilateral Trading Company ............11
-
-Section 2. Market Surveillance........................................................................................11
-
-§11. Market Surveillance.................................................................................................11
-
-§12. Measures Taken in Connection with the Market Surveillance ................................12
-
-Section 3. Investigation into Abnormal Trading .............................................................12
-
-§13. Launching Investigation ..........................................................................................12
-
-§14. Methods of Investigation .........................................................................................13
-
-§15. Preparation of Question-and-Answer Form, etc. .....................................................13
-
-Section 4. Member Inspection .........................................................................................14
-
-§16. Instigation of Inspection ..........................................................................................14
-
-§17. Inspection Methods .................................................................................................14
-Section 5. Inter-market Surveillance ...............................................................................15
-§18. Types of Inter-market Surveillance .........................................................................15
-
 ii
-
-
-
-
-§19. Methods of Inter-market Surveillance .....................................................................15
-
-§19-2. Examination of Short Sales by Members, etc. .....................................................16
-
-§19-3. Request for Submission of Documents by the Commission ................................16
 
 CHAPTER  IV.  HANDLING  OF  OUTCOMES  OF  INVESTIGATION  AND
 
-INSPECTION ..................................................................................................................18
-
-§20. Reporting and Handling of Outcomes of Investigation and Inspection ..................18
-
 §21.  Causes  for  Disciplinary  Actions  against  Members  and  Their  Officers  and
-
-Employees .......................................................................................................................18
-
-§22. Disciplinary Actions against Members ...................................................................19
-
-§23. Request for Disciplinary Action against Officers and Employees of Member .......20
-
-§24. Concurrent Imposition of Disciplinary Measures and .............................................20
-
-§25. Disciplinary Committee ...........................................................................................20
-
-§26. Prior Notification .....................................................................................................21
-§26-2. Statement of Opinions ..........................................................................................22
-
-§26-3. Notification of Disciplinary Measures, etc. .........................................................22
-
-§27. Objection .................................................................................................................22
-
-§27-2. Re-deliberation on the Commission’s own Authority .........................................23
-
-§28. Summary Penalty.....................................................................................................23
-
-CHAPTER V. SUPPLEMENTARY PROVISIONS ......................................................25
-
-§29. Delegation of Authority ...........................................................................................25
-
-§29-2. Public Opinion Gathering ................................................................................................ 25
-
-§30. Enforcement Rules ..................................................................................................26
-
-ADDENDA .....................................................................................................................27
 
 iii
 
-
-CHAPTER  I.  GENERAL  PROVISIONS
+CHAPTER  I.  GENERAL  PROVISIONS
 
 §1.  Purpose
 
@@ -212,18 +85,7 @@ trading  company;  hereinafter  referred
 
 1
 
-
-
-
-
-
-
-
-
-
-
-
-(5)  The  term  “inter-market  surveillance”  in  this  Regulation  shall  mean  the  market
+(5)  The  term  “inter-market  surveillance”  in  this  Regulation  shall  mean  the  market
 surveillance,  investigation  and  inspection  related  to  the  linked  trading.  (Amended  on
 January 28, 2009)
 
@@ -258,15 +120,7 @@ given to  them  in the  Act and the regulations governing the business of the Ex
 
 2
 
-
-
-
-
-
-
-
-
-CHAPTER  II.  MAINTENANCE  OF  SOUNDNESS  OF  MARKET
+CHAPTER  II.  MAINTENANCE  OF  SOUNDNESS  OF  MARKET
 
 Section  1.  Obligation  to  Uphold  Fair  Trade  Practices
 
@@ -312,21 +166,7 @@ and
 
 3
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9.  Any  other  practices  that  may  undermine  the  investor  protection  or  Market
+9.  Any  other  practices  that  may  undermine  the  investor  protection  or  Market
 reliability.
 
 §4.  Prohibition  of  Activities  Undermining  Fair  Trade  Practice
@@ -374,21 +214,7 @@ or wash sale that does not intend to transfer the title;
 
 4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10.  Practices  of  spreading  rumors,  etc.  about  an  issue  for  such  purpose  as
+10.  Practices  of  spreading  rumors,  etc.  about  an  issue  for  such  purpose  as
 changing the market price;
 
 11.  Practices  that  unfairly  influence  or  may  have  a  possibility  of  unfairly
@@ -438,19 +264,7 @@ options trade (including the customer margin specified in the Derivatives Market
 
 5
 
-
-
-
-
-
-
-
-
-
-
-
-
-Business  Regulation)  by  changing  or  fixing  the  price  of  security  or  exchange-
+Business  Regulation)  by  changing  or  fixing  the  price  of  security  or  exchange-
 traded derivative contract being traded;
 
 8.  The  practices  of  unfairly  influencing  or  having  a  possibility  of  unfairly
@@ -497,21 +311,7 @@ against  unfair  trading  practices,  including  the  request  for  preventative
 
 6
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-pursuant  to  paragraphs  (1)  and  (2),  in  the  Enforcement  Rules  of  this  Regulation
+pursuant  to  paragraphs  (1)  and  (2),  in  the  Enforcement  Rules  of  this  Regulation
 (hereinafter referred to as the “Enforcement Rules”). (Amended on November 24, 2006;
 July 20, 2007; January 28, 2009; March 7, 2012)
 
@@ -527,7 +327,6 @@ issues and publish such fact:
 2. An issue traded intensely through a few accounts; and
 
 3.  In  addition,  an  issue  that  needs  to  be  brought  to  investor’s  attention,  which  is
-stipulated in the Enforcement Rules.
 
 (2) The Commission shall stipulate the matters that are necessary for the designation as
 and publication of investment caution issues pursuant to paragraph (1).
@@ -560,24 +359,7 @@ investment alert issue;
 
 7
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-investment risk issue.
+investment risk issue.
 
 [March 7, 2012]
 
@@ -626,19 +408,7 @@ the market, and cases where it violates regulations related to short selling) pu
 
 8
 
-
-
-
-
-
-
-
-
-
-
-
-
-[§40(1)  &  (3)]  of  the  KOSDAQ  Market  Business  Regulation,  [§59(1)  &  (3)]  of  the
+[§40(1)  &  (3)]  of  the  KOSDAQ  Market  Business  Regulation,  [§59(1)  &  (3)]  of  the
 KONEX  Market  Business  Regulation,  [§124(3)]  of  the  Derivatives  Market  Business
 Regulation, and the business standards of the multilateral trading company, the member
 shall inform other members of such fact. (Amended on September 12, 2008, January 28,
@@ -678,21 +448,7 @@ shall be stipulated in the Enforcement Rules. (Amended on April 11, 2025)
 
 9
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER  III.  INVESTIGATION  INTO  ABNORMAL  TRADING  AND  INS
+CHAPTER  III.  INVESTIGATION  INTO  ABNORMAL  TRADING  AND  INS
 
 PECTION  OF  MEMBERS
 
@@ -735,24 +491,7 @@ information on matters related to unfair trading. (Amended on November 24, 2006)
 
 10
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2) The Commission shall not reveal or leak to a third party the information about the
+(2) The Commission shall not reveal or leak to a third party the information about the
 informant, including the personal details, unless a written consent of informant has been
 obtained.
 
@@ -794,28 +533,14 @@ November 24, 2006; January 28, 2009)
 surveillance  noted  in  [§402(1)1]  of  the  Act  (hereinafter  referred  to  as  “market
 surveillance data” in this Article): [October 28, 2025]
 
-    1. Account Identification Number; and [October 28, 2025]
+1. Account Identification Number; and [October 28, 2025]
 
-    2.  Pseudonymized  information  (meaning  the  information  has  been  partially  or
+2.  Pseudonymized  information  (meaning  the  information  has  been  partially  or
 entirely replaced so that it is impossible to identify the data subject without additional
 
 11
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-information)  capable  of  verifying  the  real  name,  such  as  the  resident  registration
+information)  capable  of  verifying  the  real  name,  such  as  the  resident  registration
 number,  business  registration  number,  tax  identification  number,  or  identification
 number  of  foreign  nationals  (passport  number,  business  registration  number,  or  tax
 identification number). [October 28, 2025]
@@ -862,24 +587,7 @@ pursuant  to  paragraph  (1)  in  collaboration  with  related  institutions.  (
 
 12
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-November 24, 2006)
+November 24, 2006)
 
 §14.  Methods  of  Investigation
 
@@ -910,7 +618,6 @@ submission deadline, etc. (Amended on January 28, 2009)
 (4)  In  addition  to  the  types  of  information  required  for  investigation,  method  of
 requesting submission of information, etc. and site visit noted in paragraphs (1) through
 (3),  the  matters  necessary  for  the  investigation  shall  be  stipulated  in  the  Enforcement
-Rules.
 
 §15.  Preparation  of  Question-and-Answer  Form,  etc.
 
@@ -930,18 +637,7 @@ prepared.    However,  in  case  the  details  of  confirmation  are  straightfo
 
 13
 
-
-
-
-
-
-
-
-
-
-
-
-person making statement wishes to do so, the person making statement may be allowed
+person making statement wishes to do so, the person making statement may be allowed
 to prepare a written statement and submit it. (Amended on November 24, 2006)
 
 (3) In case where the market surveillance staff prepares the question-and-answer form
@@ -958,7 +654,6 @@ deemed  to  be  insignificant,  and  a  written  confirmation  has  been  collec
 general matters.
 (5)  In  addition  to  the  written  confirmation,  question-and-answer  form  and  list  of
 questions  noted  in  paragraphs  (1)  through  (4),  other  necessary  matters  shall  be
-stipulated in the Enforcement Rules.
 
 Section  4.  Member  Inspection
 
@@ -987,23 +682,7 @@ January 28, 2009)
 
 14
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-surveillance staff (restricted to the staff member who is responsible for the inspection;
+surveillance staff (restricted to the staff member who is responsible for the inspection;
 the same hereinafter in this Section) visits the head office, branch offices or any other
 business locations  of member and conduct an examination  in  person or by the written
 inspection  where  an  examination  is  made  through  correspondence  or  other  means.  In
@@ -1027,7 +706,6 @@ respectively. (Amended on November 24, 2006)
 
 (5)  The  matters  necessary  for  inspection,  other  than  the  inspection  methods  and
 procedures noted in paragraphs (1) through (3), shall be stipulated in the Enforcement
-Rules.
 
 Section  5.  Inter-market  Surveillance
 
@@ -1043,28 +721,10 @@ market  surveillance,  inter-market  investigation  and  inter-market  inspectio
 on November 24, 2006)
 
 (2)  Matters  necessary  for  inter-market  surveillance,  other  than  paragraph  (1),  shall  be
-stipulated in the Enforcement Rules.
 
 15
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Section 6. Short Sale Monitoring
+Section 6. Short Sale Monitoring
 
 §19-2.  Examination  of  Short  Sales  by  Members,  etc.
 
@@ -1086,7 +746,6 @@ the  business  standards  of  multilateral
 
 2.  Transactions  to  sell  first  during  the  regular  trading  hours  and  to  repurchase
 afterward  on  the  same  day,  which  may  fall  under  the  short  sale  violation
-stipulated in the Enforcement Rules.
 
 (2)  In  cases  where  proprietary  transactions  of  the  members  fall  under  the  transactions
 subject  to  the  short  sale  violation  examination  in  paragraph  (1),  the  members  shall
@@ -1113,23 +772,7 @@ paragraph  (4)  shall  be  stipulated  in  the  Enforcement  Rules.  (Amended  o
 
 16
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-subparagraphs  to  submit  the  documents  specified  in  the  relevant  subparagraph:
+subparagraphs  to  submit  the  documents  specified  in  the  relevant  subparagraph:
 (Amended on March 4, 2025)
 
 1.  A  person  falling  any  of  the  following  items:  Documents  specified  in  the
@@ -1138,11 +781,11 @@ securities balance etc. (Amended on March 4, 2025)
 
 (a) A member related to following transactions: [March 4, 2025]
 
-          (i)  Transactions  for  which  a  member  has  conducted  a  short  sale  violation
+(i)  Transactions  for  which  a  member  has  conducted  a  short  sale  violation
 examination  pursuant  to  each  subparagraph  of  [§19-2(1)]  or  [§19-2(2)];  and
 [March 4, 2025]
 
-          (ii) Transactions to sell first and borrow afterward, and other transactions deemed
+(ii) Transactions to sell first and borrow afterward, and other transactions deemed
 necessary by the Commission to verify compliance with short sale regulations.
 [March 4, 2025]
 
@@ -1164,18 +807,7 @@ stipulated in the Enforcement Rules. (Amended on March 4, 2025)
 
 17
 
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER  IV.  HANDLING  OF  OUTCOMES  OF  INVESTIGATION  AND  I
+CHAPTER  IV.  HANDLING  OF  OUTCOMES  OF  INVESTIGATION  AND  I
 
 NSPECTION
 
@@ -1223,19 +855,7 @@ pursuant to the Act and this Regulation;
 
 18
 
-
-
-
-
-
-
-
-
-
-
-
-
-reports  or  documents  submitted  to  the  Commission  pursuant  to  the  Act  and  this
+reports  or  documents  submitted  to  the  Commission  pursuant  to  the  Act  and  this
 Regulation, or having neglected to submit such reports or documents; and
 
 5. Cases of obstruction in or noncompliance with the investigation or inspection and
@@ -1283,24 +903,8 @@ November 24, 2006)
 
 19
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(5)  The  matters  necessary  for  taking  disciplinary  measures  and  requesting  for
+(5)  The  matters  necessary  for  taking  disciplinary  measures  and  requesting  for
 dispositions noted in paragraphs (1) through (4) shall be stipulated in the Enforcement
-Rules.
 
 §23.  Request  for  Disciplinary  Action  against  Officers  and  Employees  of  Memb
 
@@ -1346,22 +950,7 @@ Rules. (Amended on November 24, 2006)
 
 20
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-from the outcomes of the investigation or inspection, the Commission shall establish the
+from the outcomes of the investigation or inspection, the Commission shall establish the
 Disciplinary Committee: ((Amended on November 24, 2006; January 28, 2009)
 
 1. Disciplinary measures pursuant to [§22(1)]; and
@@ -1409,22 +998,7 @@ November 24, 2006; January 28, 2009)
 
 21
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3.  The facts that are the cause of the disciplinary measures, etc. and the details of the
+3.  The facts that are the cause of the disciplinary measures, etc. and the details of the
 disciplinary measures and the official base thereof;
 
 4.  The explanation about the opportunity to state opinions on subparagraph 3 and the
@@ -1471,26 +1045,7 @@ the relevant multilateral trading company of the relevant facts. [ February 5, 2
 
 22
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-pursuant to [§22(1)] and the request for disciplinary actions pursuant to [§23], may file
+pursuant to [§22(1)] and the request for disciplinary actions pursuant to [§23], may file
 an objection with the Commission within thirty (30) days from the date of receiving the
 notification pursuant to [§26-3]. (Amended on November 24, 2006; January 28, 2009)
 
@@ -1538,21 +1093,7 @@ summary penalty of KRW 2 million or less. (Amended on November 24, 2006)
 
 23
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-fails  or  neglects  to  pay  the  summary  penalty,  the  Commission  may  take  disciplinary
+fails  or  neglects  to  pay  the  summary  penalty,  the  Commission  may  take  disciplinary
 measures, etc. against such member pursuant to the provisions of [§22] through [§26].
 (Amended on November 24, 2006)
 
@@ -1561,12 +1102,7 @@ shall be stipulated in the Enforcement Rules.
 
 24
 
-
-
-
-
-
-CHAPTER  V.  SUPPLEMENTARY  PROVISIONS
+CHAPTER  V.  SUPPLEMENTARY  PROVISIONS
 
 §29.  Delegation  of  Authority
 
@@ -1612,26 +1148,7 @@ In  case  this  Regulation  (including  its  Enforcement  Rules)  is  to  be  am
 
 25
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-opinion of interested parties should be gathered pursuant to the Enforcement Rules.
+opinion of interested parties should be gathered pursuant to the Enforcement Rules.
 
 [April 29, 2020]
 
@@ -1642,13 +1159,7 @@ Regulation in the Enforcement Rules.
 
 26
 
-
-
-
-
-
-
-ADDENDA
+ADDENDA
 (Regulation No. 14 / January 21, 2005)
 
 §1. Effective Date
@@ -1695,20 +1206,7 @@ disciplinary actions and measures have been deliberated by the Disciplinary Comm
 
 27
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDA
+ADDENDA
 (Regulation No. 203 / November 24, 2006)
 
 §1.    Effective Date
@@ -1756,28 +1254,6 @@ disciplinary actions taken for the first time after the effective date of this E
 
 28
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Rules.
-
 §1. Effective Date
 
 ADDENDA
@@ -1822,27 +1298,7 @@ This Regulation shall become effective on September 13, 2013.
 
 29
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 (Regulation No. 1210 / July 8, 2015)
 
 This Regulation shall become effective on July 8, 2015.
@@ -1879,28 +1335,7 @@ This Regulation shall become effective on March 31, 2025
 
 30
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 
 (Regulation No. 2323 / April 11, 2025)
 

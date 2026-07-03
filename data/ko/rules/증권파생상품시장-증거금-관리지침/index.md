@@ -2,7 +2,7 @@
 id: "210210269"
 title: "증권·파생상품시장 증거금 관리지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:55:00.109576Z"
+collected_at: "2026-07-03T21:09:32.490456Z"
 content_hash: "0240967d40179b80ed6dcb001f9c003f23070d20d1e01e014cd2809f3799eb20"
 document_type: "rule"
 language: "ko"
@@ -23,9 +23,10 @@ attachments:
     size: 35328
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1371
-    converted_non_space_chars: 1129
-    formula_hint_count: 7
+    converted_text_chars: 1369
+    converted_non_space_chars: 1127
+    formula_block_count: 5
+    formula_hint_count: 12
   - id: "210210269-202212290000008140000259002-byl-hwp"
     title: "[별표 2] 평균가격변동성<신설 2021.11.25>"
     file_name: "증권·파생상품시장 증거금 관리지침_15차_평균가격변동성.hwp"
@@ -41,7 +42,8 @@ attachments:
     quality_score: 100
     converted_text_chars: 1332
     converted_non_space_chars: 1087
-    formula_hint_count: 13
+    formula_block_count: 5
+    formula_hint_count: 18
   - id: "210210269-210210295-hwp"
     title: "[별표 3] 증권시장 및 파생상품시장 거래증거금률의 산정<신설 2021.11.25,개정 2025. 3. 4.,2025. 10. 22.,2026. 4. 17.,2026. 5. 19.>"
     file_name: "증권·파생상품시장 증거금 관리지침_15차_증권시장및파생상품시장거래증거금률의산정.hwp"
@@ -74,7 +76,8 @@ attachments:
     converted_text_chars: 3126
     converted_non_space_chars: 2551
     table_row_count: 1
-    formula_hint_count: 26
+    formula_block_count: 7
+    formula_hint_count: 33
 ---
 
 제1장 총칙

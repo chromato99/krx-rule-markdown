@@ -23,54 +23,9 @@ any  liability  or  responsibility  for  the  accuracy,  completeness  or  usefu
 
 information. Only Korean version shall be deemed authentic.
 
+TABLE OF CONTENTS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-§1. Purpose ....................................................................................................................... 1
-
-§2. Definitions .................................................................................................................. 1
-
-§3. Information subject to Fair Disclosure ....................................................................... 1
-
-§4. Providers of Fair Disclosure Information ................................................................... 3
-
-§5. Prohibition of Roundabout Provision of Information subject to Fair Disclosure ...... 4
-
-§6. Receivers of Faire Disclosure Information ................................................................. 4
-
-§7. Notification Deadline ................................................................................................. 5
-
-§8. Notification Methods .................................................................................................. 7
-
-§9. Exception in Applying Fair Disclosure Obligations .................................................. 8
-
-§10. Relationship with Timely Disclosure ..................................................................... 10
-
-§11. Due Care and Other Duties of KOSDAQ-Listed Corporations .............................. 11
-
-ADDENDA .................................................................................................................... 12
-
-
-
-§1. Purpose
+§1. Purpose
 
 The purpose of this Operational Guidelines on Fair Disclosure (hereinafter referred to
 
@@ -125,17 +80,7 @@ business  area  or  operation  or  specific  products)  about  the  sales,  oper
 
 1
 
-
-
-
-
-
-
-
-
-
-
-(losses), profits (losses) before tax from continuing operations or net income (losses) for
+(losses), profits (losses) before tax from continuing operations or net income (losses) for
 
 a period up to the next three (3) years. (Amended on May 14, 2007; February 3, 2009)
 
@@ -197,12 +142,7 @@ Capital  Market  Act  (hereinafter  referred  to  as  “the  Act”)  and  the 
 
 2
 
-
-
-
-
-
-provisions of [§12] of the Regulation shall not apply thereto. (Amended on February 3,
+provisions of [§12] of the Regulation shall not apply thereto. (Amended on February 3,
 
 2009)
 
@@ -260,15 +200,7 @@ members  who  directly  or  indirectly  participate  in  the  work  relating  to
 
 3
 
-
-
-
-
-
-
-
-
-(Amended on February 3, 2009)
+(Amended on February 3, 2009)
 
 §5. Prohibition of Roundabout Provision of Information subject to Fair Disclosure
 
@@ -313,21 +245,7 @@ of  its  name,  that  two  (2)  or  more  companies  jointly  run  or  cooperate
 
 4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-production,  capital,  etc.  in  performing  the  business  activities  such  as  sales,  product
+production,  capital,  etc.  in  performing  the  business  activities  such  as  sales,  product
 
 developments and investment, etc. (Amended on February 3, 2009)
 
@@ -390,17 +308,7 @@ access the means of providing the information and obtain it.
 
 5
 
-
-
-
-
-
-
-
-
-
-
-(1) With regard to the case where a KOSDAQ-listed corporation intends to release the
+(1) With regard to the case where a KOSDAQ-listed corporation intends to release the
 
 information  subject  to  fair  disclosure  prepared  beforehand  at  an  investor  relations
 
@@ -462,13 +370,7 @@ followings: (Amended on February 3, 2009)
 
 6
 
-
-
-
-
-
-
-1. The fact that the concerned information is subject to fair disclosure;
+1. The fact that the concerned information is subject to fair disclosure;
 
 2.  The  fact  that  the  concerned  receiver  of  information  is  the  receiver  of  fair
 
@@ -528,15 +430,7 @@ methods specified in [§5] of the Regulation pursuant to [§14(1)] of the Regula
 
 7
 
-
-
-
-
-
-
-
-
-shall be suitable for publication through the information inquiry terminals operated by
+shall be suitable for publication through the information inquiry terminals operated by
 
 the KOSCOM. (Amended on March 23, 2006)
 
@@ -595,15 +489,7 @@ in  application  of  fair  disclosure  obligation  shall  not  apply.  (Amended 
 
 8
 
-
-
-
-
-
-
-
-
-(2) The “persons who are required to keep confidentiality” and the “persons who have
+(2) The “persons who are required to keep confidentiality” and the “persons who have
 
 clearly  stated  to  keep  the  confidentiality”  noted  in  items  a  and  b  of  subparagraph  2
 
@@ -663,14 +549,7 @@ letters of credit, the written consent to keep confidentiality is not required);
 
 9
 
-
-
-
-
-
-
-
-6.  Agreements  entered  into  to  act  as  an  agent  for  capital  raising  and  business
+6.  Agreements  entered  into  to  act  as  an  agent  for  capital  raising  and  business
 
 activities of a corporation (limited to the case where there is a written consent to
 
@@ -728,15 +607,7 @@ concerned  KOSPI-listed  corporation  shall  report  such  fact  in  accordance 
 
 10
 
-
-
-
-
-
-
-
-
-applicable  regulation.  (Amended  on  February  3,  2009;  April  18,  2012;  March  26,
+applicable  regulation.  (Amended  on  February  3,  2009;  April  18,  2012;  March  26,
 
 2013)
 
@@ -785,18 +656,7 @@ makes in relation to the fair disclosure. (Amended on February 3, 2009)
 
 11
 
-
-
-
-
-
-
-
-
-
-
-
-ADDENDA
+ADDENDA
 (January 27, 2005)
 
 §1. Effective Date
@@ -819,12 +679,12 @@ effective date of this Operational Guidelines shall be deemed to be the actions 
 accordance to this Operational Guidelines.
 
 ADDENDUM
-  (March 23, 2006)
+(March 23, 2006)
 
 This Operational Guidelines shall become effective on April 1, 2006.
 
 ADDENDA
-  (May 14, 2007)
+(May 14, 2007)
 
 §1.    Effective Date
 
@@ -838,45 +698,28 @@ fiscal year that begins after December 31, 2006.
 
 12
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
-  (September 22, 2008)
+ADDENDUM
+(September 22, 2008)
 
 This Operational Guidelines shall become effective on October 1, 2008.
 
 ADDENDUM
-  (February 3, 2009)
+(February 3, 2009)
 
 This Operational Guidelines shall become effective on February 4, 2009.
 
 ADDENDUM
-  (April 18, 2012)
+(April 18, 2012)
 
 This Operational Guidelines shall become effective on April 23, 2012.
 
 ADDENDUM
-  (March 26, 2013)
+(March 26, 2013)
 
 This Operational Guidelines shall become effective on April 2, 2012.
 
 ADDENDUM
-  (June 29, 2017)
+(June 29, 2017)
 
 This Operational Guidelines shall become effective on July 3, 2017.
 

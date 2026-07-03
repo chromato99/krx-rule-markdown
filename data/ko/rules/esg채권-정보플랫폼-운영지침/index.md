@@ -2,7 +2,7 @@
 id: "204847935"
 title: "ESG채권 정보플랫폼 운영지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:00:59.178837Z"
+collected_at: "2026-07-03T21:15:38.672713Z"
 content_hash: "8916573581c745bfd03d40f2320079f572edd959e0f35c252bec7c108d9510f2"
 document_type: "rule"
 language: "ko"
@@ -26,7 +26,6 @@ attachments:
     converted_text_chars: 2642
     converted_non_space_chars: 2109
     table_row_count: 3
-    formula_hint_count: 3
   - id: "204847935-202404300000008790000270002-byl-hwp"
     title: "[별지 제2호서식] ESG채권 정보플랫폼 등록취소 신청서 <개정 2021.11.23., 2023.3.31., 2024.4.30.>"
     file_name: "ESG채권 정보플랫폼 운영지침_5차_ESG채권정보플랫폼등록취소신청서(개정2021.11.23.,2023.3.31.,2024.4.30.).hwp"

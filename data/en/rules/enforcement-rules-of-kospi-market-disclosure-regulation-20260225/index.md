@@ -1,9 +1,9 @@
 ---
 id: "210179748-en"
-title: "Enforcement_Rules_of_KOSPI_Market_Disclosure_Regulation_20260225"
+title: "Enforcement Rules of KOSPI Market Disclosure Regulation 20260225"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:56:43.662778Z"
-content_hash: "cbc04de6b03a0c5853d1078c317724055fd172c2f3891b613acd15dd409fb273"
+collected_at: "2026-07-03T21:11:16.024561Z"
+content_hash: "6fe64b7ff8fb138b1d89ac0993c613a6e073416d1e5e54589ee0069c60f63d8c"
 document_type: "rule"
 language: "en"
 category: "업무규정 / 유가증권시장규정"
@@ -16,8 +16,6 @@ text_path: "en/rules/enforcement-rules-of-kospi-market-disclosure-regulation-202
 file_content_hash: "1ec988ccd5e0dea8a2709d826d0925ed23ccd2fdcd6f2c7771e744b31db2a256"
 ---
 
-2
-
 Enforcement Rules of
 
 KOSPI Market Disclosure Regulation
@@ -25,7 +23,7 @@ KOSPI Market Disclosure Regulation
 Formulated on January 24, 2005
 
 Amended on:
-  December 27, 2005
+December 27, 2005
 September 11, 2006
 September 23 2008
 February 3, 2009; July 2, 2009; December 21, 2009
@@ -51,26 +49,7 @@ deemed authentic.
 
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
+TABLE OF CONTENTS
 
 §1. Purpose ·································································································· 4
 
@@ -140,11 +119,7 @@ Corporation and Imposition of Demerit Points, etc. ··············�
 
 §17. [Deleted on December 27, 2005] ·································································· 26
 
-2
-
-
-
-§18. Withholding of Disclosures upon Request ······················································· 26
+§18. Withholding of Disclosures upon Request ······················································· 26
 
 §18-2.  Imposition  of  Demerit  Points  on  Noncompliance  with  Request  for  Sub-mission  of
 Materials ··································································································· 27
@@ -201,8 +176,7 @@ Subsidiary by Holding Company (New / Change) ·················�
 
 3
 
-
-§1. Purpose
+§1. Purpose
 
 The  purpose  of  these  Enforcement  Rules  is  to  stipulate  matters  necessary  for  the
 enforcement of the KOSPI Market Disclosure Regulation (hereinafter referred to as “the
@@ -244,22 +218,7 @@ document, or in person. (Amended on February 3, 2009; April 19, 2012; February 2
 
 The disclosure media under [§6(2)] of the Regulation shall be the means noted in any of
 
-4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-the following subparagraphs: (Amended on February 3, 2009; December 10, 2020)
+the following subparagraphs: (Amended on February 3, 2009; December 10, 2020)
 
 1. Electronic disclosure system noted in [§64] of the Regulation;
 
@@ -305,21 +264,7 @@ specified in [Annex 3]. (Amended on August 28, 2015)
 
 5
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[§6(2)] of the Regulation shall refer to any of the following subparagraphs: (Amended
+[§6(2)] of the Regulation shall refer to any of the following subparagraphs: (Amended
 on August 28, 2015)
 
 1. Matters to be disclosed concerning [§153] of the Listing Regulation and [§40] of
@@ -361,22 +306,7 @@ decision)  from  the  dividend  record  date  (if  the  day  is  a  holiday,  it
 immediately preceding trading day). (Amended on April 19, 2012; February 26, 2013;
 March 30, 2023)
 
-6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§4-5. Guidelines for Determining Material Information subject to Disclosure
+§4-5. Guidelines for Determining Material Information subject to Disclosure
 
 The guidelines referred to in [§7(3)] of the Regulation shall refer to any of the following
 subparagraphs:
@@ -424,18 +354,7 @@ following subparagraphs: (Amended on February 26, 2013)
 
 7
 
-
-
-
-
-
-
-
-
-
-
-
-[September 1, 2010]
+[September 1, 2010]
 
 §5. Rumors and News
 
@@ -476,21 +395,7 @@ December 10, 2020)
 (2) in filing the report on corporate governance, the Exchange may deem that the filing
 has  been  made  without  stating  the  material  matters  referred  to  in  [§24-2(2)]  of  the
 
-8
-
-
-
-
-
-
-
-
-
-
-
-
-
-Regulation.
+Regulation.
 
 (4)  Other  matters  pertaining  to  the  methods  and  procedures,  etc.  of  the  Exchange  in
 connection  with  the  disclosure  of  reports  on  corporate  governance  may  be  prescribed
@@ -536,16 +441,7 @@ prepared.
 
 9
 
-
-
-
-
-
-
-
-
-
-(2) [Deleted on November 11, 2011]
+(2) [Deleted on November 11, 2011]
 
 [February 3, 2009]
 
@@ -589,22 +485,7 @@ corporations  that  are  recognized  by  the  Exchange  for  such  reasons  as  
 
 10
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-protection. (Amended on September 25, 2019)
+protection. (Amended on September 25, 2019)
 
 (2)  The  rumors  or  news,  etc.  subject  to  clarification  under  [§27(3)]  of  the  Regulation
 shall refer to any of the following subparagraphs. Provided that rumors or news falling
@@ -617,7 +498,7 @@ matters subject to clarification.
 Promotion  of  News  Communications  and  those  made  by  online  newspapers
 registered pursuant to Article 9 of the Act on the Promotion of Newspapers, etc.; and
 
-      3.  Reports  made  by  international  news  information  providers  or  communication
+3.  Reports  made  by  international  news  information  providers  or  communication
 
 agencies that are recognized by the Exchange.
 
@@ -651,20 +532,7 @@ items and the statement on the appraisal institution shall be submitted:
 
 11
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-(b) Korea Institute of Geoscience and Mineral Resources; and
+(b) Korea Institute of Geoscience and Mineral Resources; and
 
 (c)  As  an  entity  with  more  than  five  (5)  years  of  experiences  in  appraising
 natural  resource  development  projects,  the  entity  that  has  the  record  of
@@ -710,21 +578,7 @@ Act; and
 
 12
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(e) Matters pertaining to the sustainable management reports (regardless of their
+(e) Matters pertaining to the sustainable management reports (regardless of their
 titles, it includes other reports related to the green management information) and
 the  acquisition  or  disposal  of  the  greenhouse  gas  emission  permits,  which  are
 deemed to be informed to the investors.
@@ -768,21 +622,7 @@ for the violation of the relevant statutes:
 
 13
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-that
+that
 
 the  financial
 
@@ -835,19 +675,7 @@ the KOSPI market in relation to the listing maintenance review, the main content
 
 14
 
-
-
-
-
-
-
-
-
-
-
-
-
-of  the  improvement  plan  reviewed  and  confirmed  by  the  relevant  Committee.
+of  the  improvement  plan  reviewed  and  confirmed  by  the  relevant  Committee.
 [March 28, 2025]
 
 20.  The  matters  about  which  the  investors  need  to  be  informed,  including  the
@@ -892,21 +720,7 @@ for review
 
 15
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(b)  Review  procedures,  etc.:  When  intending  to  start  the  review,  the  review
+(b)  Review  procedures,  etc.:  When  intending  to  start  the  review,  the  review
 schedule, etc. shall be notified to the relevant corporation without delay.
 
 (2) When it is deemed necessary with regard to the review to decide whether or not to
@@ -950,21 +764,7 @@ December 27, 2005; February 3, 2009)
 
 16
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4. Statements on the progress made in fulfilling the disclosure obligations (in cases
+4. Statements on the progress made in fulfilling the disclosure obligations (in cases
 where  the  reasons  for  filing  objection  are  related  to  [§39(2)]  or  [§88(5)]  of  the
 Regulation, the progress statement on such matters);
 
@@ -1007,21 +807,7 @@ progress accordingly; or
 
 17
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§13. Deferral of Designation as an Unfaithful Disclosure Corporation and Criteria
+§13. Deferral of Designation as an Unfaithful Disclosure Corporation and Criteria
 for Assessing Demerit Points, etc.
 
 (1) Pursuant to the proviso to [§35(1)] of the Regulation,  in the case where a KOSPI-
@@ -1042,7 +828,7 @@ commendation  and  monetary  rewards,  it  refers  to  the  KOSPI-stock-listed-
 corporation  to  which  the  relevant  officer  or  employee  belongs);  the  same
 hereinafter]: and [March 28, 2025]
 
-      2.  An  Corporate  Value-up  Best  Practice  companies  selected  according  to  the
+2.  An  Corporate  Value-up  Best  Practice  companies  selected  according  to  the
 
 Selection Criteria for Value-up Best Practice Companies. [March 28, 2025]
 
@@ -1068,16 +854,7 @@ noncompliance  with  disclosure  obligations:  To  add  or  reduce  the  points 
 
 18
 
-
-
-
-
-
-
-
-
-
-accordance  with  the  “Guidelines  for  Deliberation  of  Disciplinary  Actions  against
+accordance  with  the  “Guidelines  for  Deliberation  of  Disciplinary  Actions  against
 Unfaithful Disclosure Corporations” in Annex 2; and
 
 (a) [Deleted on May 21, 2012]
@@ -1124,18 +901,7 @@ obligations.
 
 19
 
-
-
-
-
-
-
-
-
-
-
-
-(2)  The  amount  of  fine  shall  be  calculated  according  to  the  following  subparagraphs
+(2)  The  amount  of  fine  shall  be  calculated  according  to  the  following  subparagraphs
 depending on the type of fine imposed:
 
 1.  Additional  imposition  under  paragraph  (1)1:  The  amount  calculated  by
@@ -1185,16 +951,7 @@ paragraph 2); and
 
 20
 
-
-
-
-
-
-
-
-
-
-2.  Alternative imposition under paragraph (1)2: The demerit points calculated by
+2.  Alternative imposition under paragraph (1)2: The demerit points calculated by
 dividing the unpaid fine by KRW 4 million and multiplying the value by 120/100.
 
 (6) Other matters relating to the use and management of the fine shall be determined by
@@ -1248,17 +1005,7 @@ December  27,  2005;  September  23,  2008;  February  3,  2009;  August  28,  2
 
 21
 
-
-
-
-
-
-
-
-
-
-
-December 28, 2016; December 27, 2019)
+December 28, 2016; December 27, 2019)
 
 (4)  In  cases  where  the  Exchange  defers  the  designation  of  unfaithful  disclosure
 corporation pursuant to the proviso to [§35(1)], the provisions of paragraphs (1) through
@@ -1275,11 +1022,11 @@ Corporation and Imposition of Demerit Points, etc.
 shall  refer  to  a  case  that  falls  under  any  of  the  following  subparagraphs  and  the
 Exchange deems it necessary to replace the disclosure officer and staff:
 
-      1.  Where  the  motivation  and  seriousness  of  violation  falls  under  “intentional”  and
+1.  Where  the  motivation  and  seriousness  of  violation  falls  under  “intentional”  and
 “significant  violation”, respectively,  according to the guidelines for deliberation  of
 disciplinary actions against unfaithful disclosure under [Annex 2]; and
 
-      2. Where the corporation is designated as unfaithful disclosure corporation three (3)
+2. Where the corporation is designated as unfaithful disclosure corporation three (3)
 
 times or more in the latest one (1) year.
 
@@ -1304,17 +1051,7 @@ Exchange’s  request  for  submission:  (Amended  on  December  27,  2005;  Feb
 
 22
 
-
-
-
-
-
-
-
-
-
-
-2009; August 28, 2015)
+2009; August 28, 2015)
 
 1. Name of submitting corporation and the date of submission;
 
@@ -1331,15 +1068,15 @@ prevention of recurrence of the nonfulfillment and the implementation schedule; 
 noted in each of the following subparagraphs in accordance with [Annex: Form No. 2]
 and be submitted to the Exchange: [August 28, 2015]
 
-      1. Name of corporation submitting and the date of submission;
+1. Name of corporation submitting and the date of submission;
 
-      2. Causes and process of the noncompliance with disclosure obligations;
+2. Causes and process of the noncompliance with disclosure obligations;
 
-      3.  Details  of  implementation  of  the  plans  for  improvement  stated  by  the  relevant
+3.  Details  of  implementation  of  the  plans  for  improvement  stated  by  the  relevant
 
 corporation in the improvement plan; and
 
-      4. Other necessary matters.
+4. Other necessary matters.
 
 (3)  In  cases  where  a  KOSPI-stock-listed  corporation  has  failed  to  submit  the
 improvement  plan  or  implementation  report  pursuant  to  paragraph  (1)  and  paragraph
@@ -1372,22 +1109,7 @@ from
 
 23
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[§7(1)2(e)(vi)ⓐ&ⓑ] of the Regulation;
+[§7(1)2(e)(vi)ⓐ&ⓑ] of the Regulation;
 
 2.  Matters  specified  in  the  latter  part  of  [§7(1)2(e)(i)]  and  [§7(1)2(e)(iii)ⓑ].
 Provided that, in the case of trading suspension due to insufficient sales in the latest
@@ -1433,18 +1155,7 @@ subparagraph  3  shall  be  applied  mutatis  mutandis  thereto.  (Amended  on  
 
 24
 
-
-
-
-
-
-
-
-
-
-
-
-8-2.  Matters  falling  under  [§11(1)4]  of  the  Regulation  or  the  matter  falling  under
+8-2.  Matters  falling  under  [§11(1)4]  of  the  Regulation  or  the  matter  falling  under
 any of [§11(2)2(b) through (d)] of the Regulation; and
 
 9. Matters equivalent to those under subparagraphs 1 through 8-2, and other matters
@@ -1455,9 +1166,9 @@ protection of investors and market management.
 [§40(3)3]  of  the  Regulation  shall  refer  to  a  case  falling  under  any  of  the  following
 subparagraphs; (Amended on October 20, 2025)
 
-      1. Where less than ten (10) demerit points are imposed; or [October 20, 2025]
+1. Where less than ten (10) demerit points are imposed; or [October 20, 2025]
 
-      2. Where  rumors or  reports  regarding the main  sentence of  [§40(2)4(a)(iii)] of the
+2. Where  rumors or  reports  regarding the main  sentence of  [§40(2)4(a)(iii)] of the
 Regulation fall under  any of the items  of  [§47(1)7)]  of the  KOSPI Market  Listing
 Regulation. [October 20, 2025]
 
@@ -1489,18 +1200,7 @@ and  if  it  is  related  to  ETN-listed  corporations,  it  shall  include  the
 
 25
 
-
-
-
-
-
-
-
-
-
-
-
-[§149-9]  of  the  Listing  Regulation;  the  same  hereinafter  in  this  Article)  has  been
+[§149-9]  of  the  Listing  Regulation;  the  same  hereinafter  in  this  Article)  has  been
 made,  the  trading  shall  resume  thirty  (30)  minutes  after  the  disclosure  time.
 Provided  that,  if  the  disclosure  time  falls  under  the  time  under  the  proviso  to
 subparagraph 2, the trading shall resume by applying the proviso to subparagraph 2
@@ -1544,19 +1244,7 @@ Investment amount, investment purpose, etc.; and
 
 26
 
-
-
-
-
-
-
-
-
-
-
-
-
-3.  Case  of  disclosing  the  matters  noted  in  [§7(1)4]  of  the  Regulation:  The  matters
+3.  Case  of  disclosing  the  matters  noted  in  [§7(1)4]  of  the  Regulation:  The  matters
 that  the  relevant  KOSPI-stock-listed  corporation  has  requested  for,  specifying  the
 detailed reasons for keeping the business confidentiality and the scope of disclosure
 to be withheld.
@@ -1600,18 +1288,7 @@ following fiscal year.    (Amended on January 30, 2026)
 
 27
 
-
-
-
-
-
-
-
-
-
-
-
-2. [Deleted on January 30, 2026]
+2. [Deleted on January 30, 2026]
 
 (3)  Matters  to  be  disclosed  in  English  noted  in  the  latter  part  of  [§48(2)]  of  the
 Regulation shall refer to matters falling under [§7], [§8], [§12], [§14], [§15], [§16], [§25
@@ -1633,22 +1310,22 @@ corporations  required  to  disclose  in  English  (hereinafter  referred  to  a
 subject  to  English  disclosure”)  under  the  former  part  of  [§48(2)]  of  the  Regulations.
 (Amended January 30, 2026).
 
-      1.  Corporations  subject  to  English  disclosure  in  the  followings:  The  same  day  the
+1.  Corporations  subject  to  English  disclosure  in  the  followings:  The  same  day  the
 Korean  disclosure  is  made.  Provided  that,  if  the  Korean  disclosure  is  made  in  the
 afternoon, the deadline shall be the following morning,  and,  for matters  subject  to
 disclosure  pursuant  to  [§8]  of  the  Regulations,  the  deadline  shall  be  within  three
 trading days after the Korean disclosure is made: [January 30, 2026]
 
-          (a) Corporations with the total assets of KRW 10 trillion or more as of the end of
+(a) Corporations with the total assets of KRW 10 trillion or more as of the end of
 the latest fiscal year and an average of 5% or more over the last three (3) fiscal
 years of foreign ownership ratio as of the end of fiscal year. [January 30, 2026]
 
-          (b)  Corporations  with  the  total  assets  of  KRW  2  trillion  or  more  but  less  than
+(b)  Corporations  with  the  total  assets  of  KRW  2  trillion  or  more  but  less  than
 KRW 10 trillion as of the end of the latest fiscal year and an average of 30% or
 more over the last three (3) fiscal years of foreign ownership ratio as of the end of
 fiscal year. [January 30, 2026]
 
-      2.  Corporations  subject  to  English  disclosure,  other  than  those  specified  in
+2.  Corporations  subject  to  English  disclosure,  other  than  those  specified  in
 
 subparagraph 1: [January 30, 2026]
 
@@ -1656,20 +1333,7 @@ subparagraph 1: [January 30, 2026]
 
 28
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-English translation of Korean disclosures by corporations listed on the KOSPI Market.
+English translation of Korean disclosures by corporations listed on the KOSPI Market.
 (Amended on February 25, 2026)
 
 [March 30, 2023]
@@ -1713,19 +1377,7 @@ electronic  documents,  including  name  and  address  of  the  submitter.  (Ame
 
 29
 
-
-
-
-
-
-
-
-
-
-
-
-
-February 3, 2009)
+February 3, 2009)
 
 (2) When the registration of submitter or change of registration information pursuant to
 paragraph  (1)  is  completed,  the  Exchange  shall  issue  a  registration  notification  to  the
@@ -1769,18 +1421,7 @@ shall complete. (Amended on February 3, 2009; August 28, 2015)
 
 30
 
-
-
-
-
-
-
-
-
-
-
-
-that  are  provided  by  the  Exchange  or  the  Korea  Listed  Companies  Association
+that  are  provided  by  the  Exchange  or  the  Korea  Listed  Companies  Association
 (hereinafter referred to as “the Association”);
 
 2. Presentation sessions on disclosure-related laws and regulations organized by the
@@ -1826,17 +1467,7 @@ subparagraph 1 shall be completed, and, for the disclosure staff of a KOSPI-stoc
 
 31
 
-
-
-
-
-
-
-
-
-
-
-listed  corporation  selected  as  an  outstanding  disclosure  corporation,  this  shall  not
+listed  corporation  selected  as  an  outstanding  disclosure  corporation,  this  shall  not
 apply for the year in which the month of such appointment falls.
 
 3. Notwithstanding subparagraphs 1 and 2, in the case of a corporation required to
@@ -1882,13 +1513,7 @@ or  exempted  through  the  deliberation  by  the  Committee.  (Amended  on  Dec
 
 32
 
-
-
-
-
-
-
-(6)  Notwithstanding  paragraphs  (1)  and  (2),  in  cases  where  the  disclosure  officer  and
+(6)  Notwithstanding  paragraphs  (1)  and  (2),  in  cases  where  the  disclosure  officer  and
 disclosure staff under [§26] of  the Regulation  complete the training programs  that are
 provided  separately  by  the  Exchange,  it  shall  be  deemed  that  the  training  programs
 under  [§38]  and  [§88(4)]  of  the  Regulation  have  duly  been  completed.  [February  26,
@@ -1933,17 +1558,7 @@ open]; and
 
 33
 
-
-
-
-
-
-
-
-
-
-
-corporations, if there is an unavoidable reason that the reporting cannot be made at
+corporations, if there is an unavoidable reason that the reporting cannot be made at
 the same time, such as the case where the matter to be reported occurs after 18:00
 hours,  the  reporting  may  be  made  by  ten  (10)  minutes  before  the  opening  of  pre-
 hour session on the next day [thirty (30) minutes before the opening of the regular
@@ -1961,14 +1576,7 @@ Regulations Management Regulation.
 
 34
 
-
-
-
-
-
-
-
-ADDENDA
+ADDENDA
 (January 24, 2005)
 
 §1. Effective Date
@@ -2008,23 +1616,7 @@ ADDENDUM
 
 35
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-These Enforcement Rules shall become effective on October1, 2008.
+These Enforcement Rules shall become effective on October1, 2008.
 
 ADDENDUM
 (February 3, 2009)
@@ -2063,29 +1655,7 @@ These Enforcement Rules shall become effective on September 6, 2010.
 
 36
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§2. Effective Date of KOSPI Market Disclosure Regulation
+§2. Effective Date of KOSPI Market Disclosure Regulation
 
 “The day specified in the Enforcement Rules” noted in Addendum of Regulation (dated
 on April 21, 2010) shall refer to September 6, 2010.
@@ -2123,29 +1693,7 @@ ADDENDUM
 
 37
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-These Enforcement Rules shall become effective on April 23, 2012.
+These Enforcement Rules shall become effective on April 23, 2012.
 
 ADDENDA
 (May 21, 2012)
@@ -2173,7 +1721,6 @@ subparagraph 2(a)(viii)) shall become effective on May 2, 2013.
 
 The amended provisions of [§13] shall be applied starting with the company that
 receives the prior notice on the designation as an unfaithful disclosure corporation after
-the effective date of these Enforcement Rules.
 
 §3.  Exceptions  to  Training  Requirements  of  Disclosure  Officer  and  Staff  Member
 Responsible for Disclosure
@@ -2189,24 +1736,7 @@ ADDENDA
 
 38
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-These Enforcement Rules shall become effective on April 2, 2013.
+These Enforcement Rules shall become effective on April 2, 2013.
 
 §2. Effective Date of KOSPI Market Disclosure Regulation
 
@@ -2218,7 +1748,6 @@ Market  Disclosure  Regulation  amended  on  February  26,  2013  shall  refer  
 
 The  amended  provisions  of  Annex  2  of  these  Enforcement  Rules  shall  be  applied
 starting  with  the  company  that  is  designated  as  unfaithful  disclosure  corporation  after
-the effective date of these Enforcement Rules.
 
 ADDENDUM
 (May 13, 2013)
@@ -2248,26 +1777,7 @@ These Enforcement Rules shall become effective on September 7, 2015. Provided th
 
 39
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-the  amended  provisions  of  [§4-2,  §18-3  and  §24(2)  1]  and  [Annex  3]  shall  become
+the  amended  provisions  of  [§4-2,  §18-3  and  §24(2)  1]  and  [Annex  3]  shall  become
 effective on January 1, 2016.
 
 §2. Case of Application of Provisions on Corporations subject to Verification Procedure
@@ -2310,23 +1820,7 @@ Obligations
 
 40
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The  amended  provisions  of  [§13-3]  shall  apply  starting  with  the  corporation  that  is
+The  amended  provisions  of  [§13-3]  shall  apply  starting  with  the  corporation  that  is
 prior notified on designation as an unfaithful disclosure corporation after the effective
 date of this Regulation.
 
@@ -2367,26 +1861,7 @@ ADDENDUM
 
 41
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-These Enforcement Rules shall become effective on July 11, 2018.
+These Enforcement Rules shall become effective on July 11, 2018.
 
 ADDENDA
 (November 30, 2018)
@@ -2427,28 +1902,7 @@ These Enforcement Rules shall become effective on January 2, 2020. Provided that
 
 42
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-amended provisions of [Annex 3] shall become effective on January 31, 2020.
+amended provisions of [Annex 3] shall become effective on January 31, 2020.
 
 §2.  Case  of  Application  of  Provisions  on  Designation  as  Unfaithful  Disclosure
 Corporations
@@ -2492,23 +1946,7 @@ ADDENDUM
 
 43
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-These Enforcement Rules shall become effective on January 1, 2024. Provided that the
+These Enforcement Rules shall become effective on January 1, 2024. Provided that the
 amended provisions of [§32(1)6] shall become effective from April 1, 2023.
 
 ADDENDA
@@ -2549,27 +1987,7 @@ These  Enforcement  Rules  shall  become  effective  on  April  1,  2025.  Provi
 
 44
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-amended provisions of [§8(19)] shall become effective on July 1, 2025.
+amended provisions of [§8(19)] shall become effective on July 1, 2025.
 
 §2. Case of Application of Voluntary Disclosure on Improvement Plan
 
@@ -2580,7 +1998,6 @@ improvement period after the effective date of these Enforcement Rules.
 
 The  amended  provisions  of  [§13(1)]  shall  apply  starting  with  the  corporation  that
 receives  a  prior  notice  on  the  designation  as  an unfaithful  disclosure  corporation  after
-the effective date of these Enforcement Rules.
 
 ADDENDUM
 (Regulation No. 2347 / July 16, 2025)
@@ -2612,25 +2029,7 @@ the  resolution  of  the  general  shareholders'  meeting  pursuant  to  [§7(1)
 
 45
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Regulations; the same hereinafter) of [§18-4(3)] shall become effective on May 1, 2026.
+Regulations; the same hereinafter) of [§18-4(3)] shall become effective on May 1, 2026.
 
 §2.  Case  of  Application  concerning  Disclosure  Matters  of  Corporations  subject  to
 English Disclosure
@@ -2656,83 +2055,16 @@ Disclosure Corporation
 
 The  amended  provisions  of  [Annex  2]  shall  apply  starting  with  the  corporation  that
 receives  a  prior  notice  on  the  designation  as  an unfaithful  disclosure  corporation  after
-the effective date of these Enforcement Rules.
 
 46
 
+47
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-47
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex 1] [Deleted on March 26, 2013]
+[Annex 1] [Deleted on March 26, 2013]
 
 48
 
-
-[Annex  2]  Guidelines  for  Deliberation  of  Disciplinary  Actions  against  Unfaithful
+[Annex  2]  Guidelines  for  Deliberation  of  Disciplinary  Actions  against  Unfaithful
 
 Disclosure
 
@@ -2763,40 +2095,23 @@ Motivation
 
 Intentional
 
-  Significant violation
+Significant violation
 
-  Ordinary violation
+Ordinary violation
 
-  Insignificant violation
+Insignificant violation
 
 10
 
-8
-
-6
-
 Gross
 Negligence
-8
 
 Ordinary
 Negligence
-6
 
 (Unit: points)
 Insignificant
 Negligence
-4
-
-6
-
-4
-
-4
-
-2
-
-2
 
 0
 
@@ -2814,21 +2129,10 @@ Listing Regulation.
 
 49
 
-
-
-
-
-
-
-
-
-
-
-
-(ii)  ②  An  ordinary  violation  refers  to  the  noncompliance  with  disclosure
+(ii)  ②  An  ordinary  violation  refers  to  the  noncompliance  with  disclosure
 obligations  under  [§7]  through  [§11]  of  the  Regulation  that  do  not  fall  under  the
 significant  violations  noted  in
-  above,  the  noncompliance  with  fair  disclosure
+above,  the  noncompliance  with  fair  disclosure
 obligations  under  [§15]  and  [§16]  of  the  Regulation,  the  noncompliance  with
 obligations  to  disclose  the  report  on  corporate  governance  under  [§24-2]  of  the
 Regulation,  and  the  noncompliance  with  voluntary  disclosure  obligations  under
@@ -2841,9 +2145,9 @@ withheld or the disclosure of the release from the withholding conditions stipul
 in  [§43-2]  of  the  Regulation  and  the  noncompliance  with  disclosure  obligations
 under [§45] of the Regulation, those that do not fall under
 
- above.
+above.
 
- or
+or
 
 (iv) In relation to [§12(1)] of the Regulation, in cases where it has failed to comply
 with  the  deadline  of  inquired  disclosure  or  the  details  disclosed  fall  under
@@ -2881,15 +2185,7 @@ imposed  for  noncompliance  with
 
 50
 
-
-
-
-
-
-
-
-
-(b) Motivation for Violation
+(b) Motivation for Violation
 
 (i)  Intentional:  The  intent  of  violation  is  reasonably  estimated  through  the  related
 facts, such as violation by intention, violation due to unlawful act, etc.
@@ -2939,21 +2235,7 @@ as “combined deliberation”) by merging them.
 
 51
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-each violation that is combined to the highest demerit point from among the demerit
+each violation that is combined to the highest demerit point from among the demerit
 points  calculated  for  each  violation  of  the  disclosure  obligation  (referring  to  the
 demerit  point  after  reflecting  the  reasons  for  the  aggravation  and  reduction).
 However,  considering  the  impact  of  the  combined  violations  on  the  market,  all  or
@@ -2988,7 +2270,7 @@ on  multiple  violations  of  the  disclosure  obligation  (hereinafter  referre
 
 (b) Guidelines for deliberation
 
-      Demerit points shall be calculated for each violation of the disclosure obligation, but
+Demerit points shall be calculated for each violation of the disclosure obligation, but
 
 the  ground  for  reduction  related  to  the  non-designation  of  an  unfaithful  disclosure
 
@@ -2998,21 +2280,7 @@ disclosure obligation
 
 52
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Grounds for Increase or Reduction of Demerit Points
+Grounds for Increase or Reduction of Demerit Points
 
 Grounds
 
@@ -3070,10 +2338,6 @@ three (3) years
 Case of having not been designated as an unfaithful disclosure corporation within the past
 one (1) year and falling under each of the following grounds:
 
--1
-
--1
-
 Within
 
 ±2
@@ -3093,7 +2357,7 @@ pursuant to [§27(1)] of the Regulation) to total disclosures within the past on
 was  five  (5)  %  or  higher,  and  the  number  of  voluntary  disclosures  made  during  the
 same period was five (5) or more
 
-  - Case  where  the  officer  and  the  employee  responsible  for  disclosure  of  the  company
+- Case  where  the  officer  and  the  employee  responsible  for  disclosure  of  the  company
 have been certified as a disclosure specialist pursuant to the Guidelines for Certification
 of Disclosure Specialist; Provided that it shall be limited to one (1) time.
 
@@ -3109,22 +2373,12 @@ and 10 cases or more, respectively, within the past one (1) year
 
 -0.5
 
--1
-
--1
-
 Case  where  the  matters  to  be  disclosed  occurred  sequentially  as  a  specific  matter
 progresses, and the initial disclosure thereof was made before the disclosure deadline
 
--1
-
 53
 
-
-
-
-
-Case  of  having  participated  in  the  ‘Program  for  Compliance  with  Distributed
+Case  of  having  participated  in  the  ‘Program  for  Compliance  with  Distributed
 Shareholders’  Meeting’  of  the  Korea  Listed  Companies  Association  and  held  a  general
 meeting  of  shareholders  for  the  latest  fiscal  year  on  a  date  other  than  during  the
 ‘concentrated period’.
@@ -3139,15 +2393,11 @@ shareholders that voting rights may be exercised electronically in accordance wi
 submitting business reports has been extended in accordance with Article 165, Paragraph
 3 of the Financial Investment Services and Capital Markets Act)
 
--1
-
 -0.5
 
 54
 
-
-
-[Annex  3]  Designation  of  and  Release  from  Corporations  subject  to  Verification
+[Annex  3]  Designation  of  and  Release  from  Corporations  subject  to  Verification
 
 Procedure: Grounds & Timing Thereof
 (Amended on December 27, 2019)
@@ -3245,12 +2495,7 @@ release
 
 55
 
-
-
-
-
-
-[Annex 4] Standards for Certification of Disclosure Professionals
+[Annex 4] Standards for Certification of Disclosure Professionals
 [September 25, 2019]
 
 Standards for Certification of Disclosure Professionals
@@ -3295,26 +2540,7 @@ professionals to the Korea Listed Companies Association.
 
 56
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(a) The Exchange shall provide follow-up training for disclosure professionals within
+(a) The Exchange shall provide follow-up training for disclosure professionals within
 eight (8) hours.
 
 (b) Disclosure professionals shall complete the follow-up training under item (a) once
@@ -3361,26 +2587,10 @@ charge of disclosure of the KOSPI Market Division.
 
 57
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 1] Improvement Plan for Prevention of Unfaithful Disclosure
+[Annex: Form No. 1] Improvement Plan for Prevention of Unfaithful Disclosure
 (Amended on April 19, 2012)
 
 Improvement Plan for Prevention of Unfaithful Disclosure
-
-To Korea Exchange, Inc.
 
 Pursuant  to  [§39(2)]  of  the  KOSPI  Market  Disclosure  Regulation  and  [§15(1)]  of  the
 Enforcement  Rules  of  the  same  Regulation,  I,  the  undersigned,  hereby  submit  the
@@ -3403,25 +2613,7 @@ Name & signature/seal of representative director (CEO):
 
 58
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 2] Written Report on Implementation of Improvement Plan for
+[Annex: Form No. 2] Written Report on Implementation of Improvement Plan for
 
 Prevention of Unfaithful Disclosure
 [August 28, 2015]
@@ -3429,8 +2621,6 @@ Prevention of Unfaithful Disclosure
 Written Report on Implementation of Improvement Plan for Prevention of
 
 Unfaithful Disclosure
-
-To Korea Exchange, Inc.
 
 Pursuant  to  [§39(2)]  of  the  KOSPI  Market  Disclosure  Regulation  and  [§15(2)]  of  the
 Enforcement Rules the same Regulation, I, the undersigned, hereby submit a report on
@@ -3450,26 +2640,10 @@ Name & signature/seal of representative director (CEO):
 
 59
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 3] Delegation of Disclosure Authority
+[Annex: Form No. 3] Delegation of Disclosure Authority
 (Amended on April 19, 2012)
 
 Delegation of Disclosure Authority
-
-To Korea Exchange, Inc.
 
 xxxx  (name  of  the  company)  hereby  delegates  the  authority  to  accomplish  the  tasks
 relating  to  the  disclosure  operation  on  behalf  of  this  Corporation  to  ooo  (name  of
@@ -3491,28 +2665,11 @@ Name & signature/seal of representative (CEO):
 
 60
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 4] Written Notification of Appointment of Disclosure Agent
+[Annex: Form No. 4] Written Notification of Appointment of Disclosure Agent
 
 (Amended on April 19, 2012)
 
 Written Notification of Appointment of Disclosure Agent
-
-To Korea Exchange, Inc.
 
 In  order  to  faithfully  comply  with  the  disclosure  obligations  stipulated  in  the  KOSPI
 Market Disclosure Regulation of the Korea Exchange, xxxx (name of the company) has
@@ -3528,8 +2685,8 @@ changed,  we  will  nominate  a  service  agent  and  notify  the  Korea  Exchan
 without delay, and we hereby confirm that we will take all responsibilities for any losses
 incurring from the breach of this obligation.
 
-    1. Disclosure agent:                          (signature or seal)
-    2. Term of appointment: from              to
+1. Disclosure agent:                          (signature or seal)
+2. Term of appointment: from              to
 
 Date: mm/dd/yyyy
 Name of company:
@@ -3537,22 +2694,7 @@ Name & signature/seal of representative director (CEO):
 
 61
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 5] Written Notice on Imposition of the Fine for Noncompliance
+[Annex: Form No. 5] Written Notice on Imposition of the Fine for Noncompliance
 
 with Disclosure Obligations
 
@@ -3571,10 +2713,10 @@ company fined)
 
 4. Payment method:
 
-    Method: Wire transfer to the account of the Korea Exchange
-    Account No.:    000-00-000000 with xxxx Bank
-    Account holder: The Korea Exchange
-    Others: Cash or cashier’s check that can be cashed on the same day
+Method: Wire transfer to the account of the Korea Exchange
+Account No.:    000-00-000000 with xxxx Bank
+Account holder: The Korea Exchange
+Others: Cash or cashier’s check that can be cashed on the same day
 
 5. Legal base and reasons for fine
 
@@ -3589,33 +2731,11 @@ Name & signature/seal of representative (CEO):
 
 62
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 6] Request for Withholding of Disclosure
+[Annex: Form No. 6] Request for Withholding of Disclosure
 
 (Amended on April 19, 2012)
 
 Request for Withholding of Disclosure
-
-To Korea Exchange, Inc.
 
 Pursuant  to  the  KOSPI  Market  Disclosure  Regulation  and  the  Enforcement  Rules
 thereof,  the  undersigned  xxxx  (name  of  the  company  requesting  to  withhold  the
@@ -3645,20 +2765,7 @@ such confidential information is made public.
 
 63
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 7] Written Request for Linked Disclosure of Material Business
+[Annex: Form No. 7] Written Request for Linked Disclosure of Material Business
 Matters of Subsidiary by Holding Company (New / Change)
 (Amended on February 26, 2013
 
@@ -3710,31 +2817,13 @@ Name & signature/seal of representative director (CEO):
 
 64
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex:  Form  No.  8]  Written  Statement  on  Filing  of  Report  on  Corporate
+[Annex:  Form  No.  8]  Written  Statement  on  Filing  of  Report  on  Corporate
 
 Governance
 
 [January 2, 2019] (Amended on November 21, 2023)
 
 Written Statement on Filing of Report on Corporate Governance
-
-To Korea Exchange, Inc.
 
 We hereby file a report on corporate governance pursuant to Article 24-2 of the KOSPI
 Market  Disclosure  Regulation  and  Article  7-2  of  the  Enforcement  Rules  of  the  same

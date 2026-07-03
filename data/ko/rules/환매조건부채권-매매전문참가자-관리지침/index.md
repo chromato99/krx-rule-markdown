@@ -2,7 +2,7 @@
 id: "204847919"
 title: "환매조건부채권 매매전문참가자 관리지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:01:57.523236Z"
+collected_at: "2026-07-03T21:16:37.123070Z"
 content_hash: "5a4c08a1526f2c033f91b833f547babbb31cdc84aca35758bca3e8c9862add71"
 document_type: "rule"
 language: "ko"

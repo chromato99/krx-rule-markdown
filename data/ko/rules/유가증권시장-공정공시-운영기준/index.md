@@ -2,7 +2,7 @@
 id: "204844585"
 title: "유가증권시장 공정공시 운영기준"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:00:52.945962Z"
+collected_at: "2026-07-03T21:15:31.927291Z"
 content_hash: "aa600761ab86b7d4207fbe018e627f3d93f049e141f4e6fb1d40977fcbe75e47"
 document_type: "rule"
 language: "ko"

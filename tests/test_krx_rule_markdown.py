@@ -4,6 +4,7 @@ from pathlib import Path
 import ast
 import io
 import json
+import os
 import tempfile
 import unittest
 import zipfile
@@ -28,13 +29,24 @@ from krx_rule_markdown.collector import (
 )
 from krx_rule_markdown.clean import clean_unreferenced_attachments, clean_unreferenced_documents, drop_past_rule_attachments
 from krx_rule_markdown.converters.hwp import render_hwp_paragraph, render_hwp_table_cells
+from krx_rule_markdown.converters.pdf import postprocess_pdf_text
 from krx_rule_markdown.converters.tables import normalize_angle_bracket_tables, render_html_table
+from krx_rule_markdown.html import html_to_markdown
 from krx_rule_markdown.markdown import load_documents, parse_markdown, write_document
 from krx_rule_markdown.models import ATTACHMENT_CONVERTED, ATTACHMENT_FAILED, Attachment, Document, Item, now_utc
 from krx_rule_markdown.paths import converted_attachment_path, raw_attachment_path
 from krx_rule_markdown.quality import audit_data_quality, inspect_attachment_quality
 from krx_rule_markdown.reconvert import reconvert_data
-from krx_rule_markdown.sync import collect_items, includes_english, includes_korean, normalize_sync_language
+from krx_rule_markdown.sync import (
+    collection_guard_error,
+    collect_items,
+    includes_english,
+    includes_korean,
+    english_rule_title,
+    normalize_sync_language,
+    write_manifest as write_sync_manifest,
+)
+from krx_rule_markdown.validate import validate_data
 
 
 class ToolTests(unittest.TestCase):
@@ -76,25 +88,54 @@ class ToolTests(unittest.TestCase):
         self.assertEqual(loaded[0].language, "en")
         self.assertEqual(loaded[0].source_id, "rule-1")
 
-    def test_load_documents_keeps_legacy_root_rules_as_korean(self) -> None:
-        raw = """---
-id: "legacy-rule"
-title: Legacy Rule
-source_url: https://example.test/rule
-collected_at: 2026-06-16T14:33:12Z
-content_hash: hash
-document_type: rule
----
-
-body
-"""
+    def test_markdown_avoids_silent_overwrite_on_title_slug_collision(self) -> None:
+        first = Document(
+            id="rule-1",
+            title="동일 제목",
+            source_url="https://example.test/rule-1",
+            document_type="rule",
+            collected_at=now_utc(),
+            content_hash="hash-rule-1",
+            body="first body",
+        )
+        second = Document(
+            id="rule-2",
+            title="동일 제목",
+            source_url="https://example.test/rule-2",
+            document_type="rule",
+            collected_at=now_utc(),
+            content_hash="hash-rule-2",
+            body="second body",
+        )
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
-            (root / "rules").mkdir()
-            (root / "rules" / "legacy.md").write_text(raw, encoding="utf-8")
-            loaded = load_documents(root)
-        self.assertEqual(len(loaded), 1)
-        self.assertEqual(loaded[0].language, "ko")
+            first_path = write_document(root, first)
+            second_path = write_document(root, second)
+            loaded = sorted(load_documents(root), key=lambda doc: doc.id)
+        self.assertNotEqual(first_path, second_path)
+        self.assertTrue(second_path.parent.name.endswith("-rule-2"))
+        self.assertEqual([doc.body for doc in loaded], ["first body", "second body"])
+
+    def test_write_document_preserves_existing_bundle_path_for_loaded_document(self) -> None:
+        doc = Document(
+            id="rule-1-en",
+            title="20250922_Membership_Regulation",
+            source_url="https://example.test/rule",
+            document_type="rule",
+            language="en",
+            collected_at=now_utc(),
+            content_hash="hash-rule-1",
+            body="body",
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            original_path = write_document(root, doc)
+            loaded = load_documents(root)[0]
+            loaded.title = "Membership Regulation"
+            rewritten_path = write_document(root, loaded)
+            loaded_again = load_documents(root)[0]
+        self.assertEqual(rewritten_path, original_path)
+        self.assertEqual(loaded_again.title, "Membership Regulation")
 
     def test_load_documents_ignores_bundle_attachment_markdown(self) -> None:
         raw = """---
@@ -173,6 +214,69 @@ document_type: rule
         self.assertEqual([item.id for item in all_items], ["rule-1", "notice-1"])
         self.assertEqual([item.id for item in english_items], ["rule-1"])
         self.assertEqual([item.id for item in korean_items], ["rule-1", "notice-1"])
+
+    def test_collection_guard_refuses_empty_sync_result(self) -> None:
+        error = collection_guard_error(Path("/tmp/nonexistent-krx-data"), [], "all", partial=False)
+        self.assertIn("0 items", error)
+
+    def test_collection_guard_refuses_large_full_sync_drop(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            for idx in range(10):
+                write_document(
+                    root,
+                    Document(
+                        id=f"rule-{idx}",
+                        title=f"규정 {idx}",
+                        source_url=f"https://example.test/rule-{idx}",
+                        document_type="rule",
+                        language="ko",
+                        collected_at=now_utc(),
+                        content_hash=f"hash-rule-{idx}",
+                        body="본문",
+                    ),
+                )
+            items = [
+                Item(
+                    id="rule-new",
+                    book_id="rule-new",
+                    title="새 규정",
+                    document_type="rule",
+                    noformyn="N",
+                )
+            ]
+            full_error = collection_guard_error(root, items, "all", partial=False)
+            partial_error = collection_guard_error(root, items, "all", partial=True)
+        self.assertIn("below half", full_error)
+        self.assertEqual(partial_error, "")
+
+    def test_partial_sync_manifest_preserves_existing_documents(self) -> None:
+        existing = Document(
+            id="rule-1",
+            title="기존 규정",
+            source_url="https://example.test/rule-1",
+            document_type="rule",
+            collected_at=now_utc(),
+            content_hash="hash-rule-1",
+            body="existing body",
+        )
+        updated = Document(
+            id="rule-2",
+            title="부분 동기화 규정",
+            source_url="https://example.test/rule-2",
+            document_type="rule",
+            collected_at=now_utc(),
+            content_hash="hash-rule-2",
+            body="updated body",
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            write_document(root, existing)
+            updated_path = write_document(root, updated)
+            updated.path = str(updated_path)
+            write_sync_manifest(root, [updated], [], "https://example.test", preserve_existing=True)
+            manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
+        self.assertEqual({doc["id"] for doc in manifest["documents"]}, {"rule-1", "rule-2"})
 
     def test_rule_attachments_skip_jun_and_collect_appendix_forms(self) -> None:
         html = """
@@ -258,6 +362,45 @@ $(".goRdoc").click(function(){});
         )
         doc = parse_notice_document(html, item, "https://rule.krx.co.kr")
         self.assertEqual(doc.title, "파생상품시장 업무규정 시행세칙 개정 예고")
+
+    def test_html_to_markdown_preserves_body_tables_as_markdown_tables(self) -> None:
+        html = """
+<table>
+  <tr><th>적용기간</th><th>매출액</th><th>시가총액</th></tr>
+  <tr><td>2027년</td><td>100억원</td><td>500억원</td></tr>
+</table>
+"""
+        markdown = html_to_markdown(html)
+        self.assertIn("| 적용기간 | 매출액 | 시가총액 |", markdown)
+        self.assertIn("| --- | --- | --- |", markdown)
+        self.assertIn("| 2027년 | 100억원 | 500억원 |", markdown)
+
+    def test_html_to_markdown_preserves_br_in_merged_html_table_cells(self) -> None:
+        html = """
+<table>
+  <tr><th rowspan="2">구분<br>항목</th><td>값</td></tr>
+  <tr><td>100억원</td></tr>
+</table>
+"""
+        markdown = html_to_markdown(html)
+        self.assertIn("구분<br>항목", markdown)
+        self.assertNotIn("&lt;br&gt;", markdown)
+
+    def test_rule_document_keeps_content_image_placeholder_but_ignores_ui_icons(self) -> None:
+        html = """
+<html>
+<p class="title">유가증권시장 상장규정</p>
+<div id="innerbody">
+  <p>상장주식수와 상장시가총액은 다음 표에 따른다.</p>
+  <img src="/resources/images/btn_print.gif" alt="print">
+  <img src="../../dataFile/law/img/204817634.gif" alt="표">
+</div>
+</html>
+"""
+        item = Item(id="210220143", title="유가증권시장 상장규정", document_type="rule")
+        doc = parse_rule_document(html, item, "https://rule.krx.co.kr")
+        self.assertIn("[이미지: https://rule.krx.co.kr/dataFile/law/img/204817634.gif]", doc.body)
+        self.assertNotIn("btn_print", doc.body)
         self.assertNotIn("닫기", doc.title)
 
     def test_js_args_concatenates_string_literals_per_argument(self) -> None:
@@ -287,10 +430,12 @@ $(".goRdoc").click(function(){});
             title="[별표 1] 이론가격 산출기준",
             file_name="210032775.hwp",
         )
-        path = converted_attachment_path(Path("data"), doc, att)
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            path = converted_attachment_path(root, doc, att)
         self.assertEqual(
             path,
-            Path("data/ko/rules/유가증권시장-업무규정-시행세칙/attachments/별표-1-이론가격-산출기준.md"),
+            root / "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별표-1-이론가격-산출기준.md",
         )
 
     def test_raw_attachment_path_uses_attachment_title_and_original_extension(self) -> None:
@@ -307,10 +452,12 @@ $(".goRdoc").click(function(){});
             title="[별표 1] 이론가격 산출기준",
             file_name="210032775.hwp",
         )
-        path = raw_attachment_path(Path("data"), doc, att)
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            path = raw_attachment_path(root, doc, att)
         self.assertEqual(
             path,
-            Path("data/ko/rules/유가증권시장-업무규정-시행세칙/raw/별표-1-이론가격-산출기준.hwp"),
+            root / "ko/rules/유가증권시장-업무규정-시행세칙/raw/별표-1-이론가격-산출기준.hwp",
         )
 
     def test_infer_extension_uses_attachment_id_and_file_signature(self) -> None:
@@ -329,6 +476,7 @@ $(".goRdoc").click(function(){});
         self.assertIn("수식: A=B+1", text)
         self.assertGreaterEqual(quality.table_row_count, 1)
         self.assertGreaterEqual(quality.formula_hint_count, 1)
+        self.assertEqual(quality.formula_block_count, 0)
         self.assertNotIn("raw_table_hints_without_table_text", quality.flags)
         self.assertNotIn("raw_formula_hints_without_formula_text", quality.flags)
 
@@ -470,7 +618,22 @@ $(".goRdoc").click(function(){});
         self.assertIn("```math", text)
         self.assertIn("hat{beta _{j}}", text)
         self.assertIn(r"\hat{\beta_{j}}", text)
+        self.assertEqual(quality.formula_block_count, 2)
         self.assertGreaterEqual(quality.formula_hint_count, 2)
+
+    def test_quality_formula_hints_ignore_checkbox_dates_and_ids(self) -> None:
+        text = "\n".join(
+            [
+                "신청 구분: √ 신규  √ 변경",
+                "연락처: 02-3774-9000",
+                "기준일: 2026/07/04",
+                "일련번호: 1-1",
+                "HTML fragment g<b should not be formula.",
+            ]
+        )
+        quality = inspect_attachment_quality(text)
+        self.assertEqual(quality.formula_block_count, 0)
+        self.assertEqual(quality.formula_hint_count, 0)
 
     def test_hwp_paragraph_places_equations_near_placeholders(self) -> None:
         chunks = [
@@ -535,6 +698,50 @@ $(".goRdoc").click(function(){});
         latex = hwp_equation_to_latex("KOFR_{T-1D")
         self.assertEqual(latex, "KOFR_{T - 1D}")
 
+    def test_hwp_equation_to_latex_ignores_division_inside_parentheses(self) -> None:
+        latex = hwp_equation_to_latex("ln(S/X)")
+        self.assertEqual(latex, r"\ln(S/X)")
+        self.assertNotIn(r"\frac{\ln(S}{X)}", latex)
+
+    def test_hwp_equation_to_latex_drops_trailing_bare_script_operator(self) -> None:
+        latex = hwp_equation_to_latex("sigma _{0}^")
+        self.assertEqual(latex, r"\sigma_{0}")
+
+    def test_hwp_equation_to_latex_keeps_thousands_commas_tight(self) -> None:
+        latex = hwp_equation_to_latex("MC = 1,000")
+        self.assertIn("1,000", latex)
+        self.assertNotIn("1 , 000", latex)
+
+    def test_pdf_postprocess_removes_toc_dots_headers_and_compresses_blanks(self) -> None:
+        text = "\n".join(
+            [
+                "Korea Exchange Regulation",
+                "",
+                "",
+                "",
+                "Chapter 1 General Provisions .....1",
+                "Article 1 Purpose",
+                "",
+                "",
+                "",
+                "Korea Exchange Regulation",
+                "Article 2 Definitions",
+                "Korea Exchange Regulation",
+            ]
+        )
+        processed = postprocess_pdf_text(text)
+        self.assertNotIn(".....1", processed)
+        self.assertNotIn("Korea Exchange Regulation", processed)
+        self.assertNotIn("\n\n\n", processed)
+        self.assertIn("Article 1 Purpose", processed)
+
+    def test_english_rule_title_removes_date_prefix_and_separators(self) -> None:
+        self.assertEqual(english_rule_title("20250922_Membership_Regulation.pdf", "회원관리규정"), "Membership Regulation")
+        self.assertEqual(
+            english_rule_title("20260417-enforcement-rules-of-securities-market-clearing.pdf", "증권시장 청산결제업무규정 시행세칙"),
+            "enforcement rules of securities market clearing",
+        )
+
     def test_quality_audit_updates_attachment_metadata(self) -> None:
         doc = Document(
             id="rule-1",
@@ -567,9 +774,20 @@ $(".goRdoc").click(function(){});
             write_document(root, doc)
             report = audit_data_quality(root, update_metadata=True)
             loaded = load_documents(root)[0]
+            index_path = root / "ko" / "rules" / "상장규정" / "index.md"
+            manifest_path = root / "manifest.json"
+            fixed_time_ns = 1_700_000_000_000_000_000
+            os.utime(index_path, ns=(fixed_time_ns, fixed_time_ns))
+            os.utime(manifest_path, ns=(fixed_time_ns, fixed_time_ns))
+            audit_data_quality(root, update_metadata=True)
+            index_mtime_ns = index_path.stat().st_mtime_ns
+            manifest_mtime_ns = manifest_path.stat().st_mtime_ns
         self.assertEqual(report["summary"]["quality_status"]["ok"], 1)
         self.assertEqual(loaded.attachments[0].quality_status, "ok")
         self.assertGreaterEqual(loaded.attachments[0].table_row_count, 1)
+        self.assertEqual(loaded.attachments[0].formula_block_count, 0)
+        self.assertEqual(index_mtime_ns, fixed_time_ns)
+        self.assertEqual(manifest_mtime_ns, fixed_time_ns)
 
     def test_reconvert_rebuilds_attachment_markdown_from_existing_raw_file(self) -> None:
         doc = Document(
@@ -665,6 +883,32 @@ $(".goRdoc").click(function(){});
         self.assertEqual(converted_text, "fresh body\ncontracts\n")
         self.assertNotEqual(loaded.content_hash, "old-hash")
 
+    def test_reconvert_normalizes_existing_english_document_title_without_moving_bundle(self) -> None:
+        doc = Document(
+            id="rule-1-en",
+            title="20250922_Membership_Regulation",
+            source_url="https://example.test/rule",
+            document_type="rule",
+            language="en",
+            collected_at=now_utc(),
+            content_hash="old-hash",
+            body="old body",
+            raw_path="en/rules/20250922-membership-regulation/raw/20250922-membership-regulation.txt",
+            text_path="en/rules/20250922-membership-regulation/attachments/english-full-text.md",
+            file_name="20250922_Membership_Regulation.pdf",
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            path = write_document(root, doc)
+            raw_path = root / doc.raw_path
+            raw_path.parent.mkdir(parents=True)
+            raw_path.write_text("fresh body", encoding="utf-8")
+            result = reconvert_data(root)
+            loaded = load_documents(root)[0]
+        self.assertEqual(result.converted, 1)
+        self.assertEqual(loaded.title, "Membership Regulation")
+        self.assertEqual(Path(loaded.path), path)
+
     def test_clean_removes_unreferenced_attachment_files(self) -> None:
         doc = Document(
             id="rule-1",
@@ -742,6 +986,59 @@ $(".goRdoc").click(function(){});
         self.assertFalse(stale_path.exists())
         self.assertEqual([doc.id for doc in loaded], ["rule-1"])
         self.assertEqual(loaded[0].title, "새 규정")
+
+    def test_clean_refuses_to_prune_when_manifest_looks_truncated(self) -> None:
+        docs = [
+            Document(
+                id=f"rule-{idx}",
+                title=f"규정 {idx}",
+                source_url=f"https://example.test/rule-{idx}",
+                document_type="rule",
+                collected_at=now_utc(),
+                content_hash=f"hash-rule-{idx}",
+                body="body",
+            )
+            for idx in range(4)
+        ]
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            paths = [write_document(root, doc) for doc in docs]
+            (root / "manifest.json").write_text(
+                json.dumps(
+                    {"documents": [docs[0].to_mapping() | {"path": str(paths[0].relative_to(root))}]},
+                    ensure_ascii=False,
+                ),
+                encoding="utf-8",
+            )
+            with self.assertRaisesRegex(ValueError, "far fewer documents"):
+                clean_unreferenced_documents(root)
+
+    def test_validate_detects_manifest_document_count_mismatch(self) -> None:
+        docs = [
+            Document(
+                id=f"rule-{idx}",
+                title=f"검증 규정 {idx}",
+                source_url=f"https://example.test/rule-{idx}",
+                document_type="rule",
+                collected_at=now_utc(),
+                content_hash=f"hash-rule-{idx}",
+                body="body",
+            )
+            for idx in range(2)
+        ]
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            paths = [write_document(root, doc) for doc in docs]
+            (root / "manifest.json").write_text(
+                json.dumps(
+                    {"documents": [docs[0].to_mapping() | {"path": str(paths[0].relative_to(root))}]},
+                    ensure_ascii=False,
+                ),
+                encoding="utf-8",
+            )
+            errors = validate_data(root)
+        self.assertTrue(any("manifest document count" in error for error in errors))
+        self.assertTrue(any("missing document path" in error for error in errors))
 
     def test_clean_drops_past_rule_attachment_metadata_but_keeps_notice_attachments(self) -> None:
         rule_doc = Document(

@@ -2,7 +2,7 @@
 id: "210221766"
 title: "코스닥시장 업무규정 시행세칙 개정 예고"
 source_url: "https://rule.krx.co.kr/out/pds/pdsViewPop.do"
-collected_at: "2026-07-03T15:03:02.131981Z"
+collected_at: "2026-07-03T21:17:39.811372Z"
 content_hash: "5efd3735c6616c5b725ce49392ae8dc5acfa6be9db875b7118a7f829007520a3"
 document_type: "notice"
 language: "ko"
@@ -25,7 +25,6 @@ attachments:
     quality_score: 100
     converted_text_chars: 643
     converted_non_space_chars: 473
-    formula_hint_count: 2
   - id: "210221766-210221768-pdf"
     title: "(붙임2) 코스닥시장 업무규정 시행세칙 일부개정세칙안.pdf"
     file_name: "(붙임2) 코스닥시장 업무규정 시행세칙 일부개정세칙안.pdf"
@@ -41,7 +40,7 @@ attachments:
     quality_status: "warn"
     quality_score: 55
     quality_flags: "very_short_text"
-    converted_text_chars: 65
+    converted_text_chars: 59
     converted_non_space_chars: 20
 ---
 

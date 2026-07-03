@@ -2,7 +2,7 @@
 id: "204847960"
 title: "거래정보저장업무규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:01:53.327161Z"
+collected_at: "2026-07-03T21:16:33.259233Z"
 content_hash: "43a4998d3dc2b6df7c14b9e554c232fb677fe49976b7c4ab5d4be146aaa7f0e0"
 document_type: "rule"
 language: "ko"

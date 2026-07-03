@@ -2,7 +2,7 @@
 id: "210225665"
 title: "유가증권시장 업무규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:43:57.655130Z"
+collected_at: "2026-07-03T20:58:18.108342Z"
 content_hash: "49589354a90d1d62922925e2e5aa2099761e49e8d88e63a71c99c4c862e303ad"
 document_type: "rule"
 language: "ko"

@@ -2,7 +2,7 @@
 id: "210229371"
 title: "코스닥시장 공시규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:43:28.800863Z"
+collected_at: "2026-07-03T20:57:49.233866Z"
 content_hash: "b3b6aa903e8bc6ab127248492a88599226e3abb331969ede6020579749963ae9"
 document_type: "rule"
 language: "ko"
@@ -72,7 +72,6 @@ attachments:
     quality_score: 100
     converted_text_chars: 306
     converted_non_space_chars: 222
-    formula_hint_count: 2
   - id: "210229371-202411140000022690000110006-byl-hwp"
     title: "[공시서식 4] 공시유보신청서<신설 2009.2.3><개정 2012.4.18>"
     file_name: "코스닥시장 공시규정 시행세칙_53차_공시유보신청서(신설2009.2.3).hwp"
@@ -103,7 +102,6 @@ attachments:
     quality_score: 100
     converted_text_chars: 277
     converted_non_space_chars: 201
-    formula_hint_count: 1
   - id: "210229371-202411140000022690000110008-byl-hwp"
     title: "[공시서식 5] 코스닥상장법인 공시책임자 등 (신규·변경) 신고서<개정 2008.9.22, 2009.2.3, 2011.11.4, 2012.4.18, 2019.5.3>"
     file_name: "코스닥시장 공시규정 시행세칙_53차_코스닥상장법인공시책임자등(신규·변경)신고서.hwp"
@@ -167,7 +165,6 @@ attachments:
     converted_text_chars: 643
     converted_non_space_chars: 471
     table_row_count: 3
-    formula_hint_count: 1
   - id: "210229371-210202578-hwp"
     title: "[공시서식7-2] 기업성장집합투자증권 상장법인 공시책임자 직무수행 승낙 확인서<신설 2026-04-24>"
     file_name: "코스닥시장 공시규정 시행세칙_53차_"
@@ -183,7 +180,6 @@ attachments:
     quality_score: 100
     converted_text_chars: 283
     converted_non_space_chars: 217
-    formula_hint_count: 1
   - id: "210229371-202411140000022690000110011-byl-hwp"
     title: "[공시서식 8] 지주회사의 상장자회사 주요경영사항 연계공시 신청서<신설 2010.9.1><개정 2012.4.18, 2013.2.27>"
     file_name: "코스닥시장 공시규정 시행세칙_53차_지주회사의상장자회사주요경영사항연계공시신청서(신설2010.9.1).hwp"
@@ -245,7 +241,6 @@ attachments:
     quality_score: 100
     converted_text_chars: 334
     converted_non_space_chars: 252
-    formula_hint_count: 1
 ---
 
 제1장 총칙

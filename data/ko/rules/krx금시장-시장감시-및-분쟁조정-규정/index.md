@@ -2,7 +2,7 @@
 id: "204847714"
 title: "KRX금시장 시장감시 및 분쟁조정 규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:02:17.749930Z"
+collected_at: "2026-07-03T21:16:56.778539Z"
 content_hash: "579783a1a8a0ba1e95ae99b9108b5707d6b3dc017f63873604c3fb8a49caa002"
 document_type: "rule"
 language: "ko"

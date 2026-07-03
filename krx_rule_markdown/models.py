@@ -39,6 +39,7 @@ class Attachment:
     converted_text_chars: int = 0
     converted_non_space_chars: int = 0
     table_row_count: int = 0
+    formula_block_count: int = 0
     formula_hint_count: int = 0
     replacement_char_count: int = 0
 
@@ -64,6 +65,7 @@ class Attachment:
             converted_text_chars=int(data.get("converted_text_chars") or 0),
             converted_non_space_chars=int(data.get("converted_non_space_chars") or 0),
             table_row_count=int(data.get("table_row_count") or 0),
+            formula_block_count=int(data.get("formula_block_count") or 0),
             formula_hint_count=int(data.get("formula_hint_count") or 0),
             replacement_char_count=int(data.get("replacement_char_count") or 0),
         )
@@ -91,6 +93,7 @@ class Attachment:
             "converted_text_chars": self.converted_text_chars,
             "converted_non_space_chars": self.converted_non_space_chars,
             "table_row_count": self.table_row_count,
+            "formula_block_count": self.formula_block_count,
             "formula_hint_count": self.formula_hint_count,
             "replacement_char_count": self.replacement_char_count,
         }

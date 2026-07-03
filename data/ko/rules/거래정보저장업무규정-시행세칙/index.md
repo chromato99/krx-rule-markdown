@@ -2,7 +2,7 @@
 id: "210024015"
 title: "거래정보저장업무규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:58:42.857440Z"
+collected_at: "2026-07-03T21:13:18.792258Z"
 content_hash: "c8314e0eb25435cc746b9969423bfba9428985791bf054ed53a59cef54864d2e"
 document_type: "rule"
 language: "ko"
@@ -26,7 +26,6 @@ attachments:
     converted_text_chars: 180389
     converted_non_space_chars: 133624
     table_row_count: 1858
-    formula_hint_count: 4
   - id: "210024015-202409200000022490000294002-byl-hwp"
     title: "[별표 2] UTI 발급기관 결정 등에 관한 기준<개정 2024.9.20>"
     file_name: "거래정보저장업무규정 시행세칙_6차_UTI발급기관결정등에관한기준.hwp"
@@ -75,7 +74,6 @@ attachments:
     converted_text_chars: 2680
     converted_non_space_chars: 2091
     table_row_count: 40
-    formula_hint_count: 4
   - id: "210024015-202409200000022490000294005-byl-hwp"
     title: "[별지 제1호의2 서식] 보고업무담당자 지정·변경 신고서 <신설 2022.6.28><개정 2024.9.20>"
     file_name: "거래정보저장업무규정 시행세칙_6차_보고업무담당자지정·변경신고서(신설2022.6.28).hwp"
@@ -124,7 +122,6 @@ attachments:
     converted_text_chars: 2325
     converted_non_space_chars: 1775
     table_row_count: 40
-    formula_hint_count: 4
   - id: "210024015-202409200000022490000294008-byl-hwp"
     title: "[별지 제4호 서식] 금융거래정보이용·제공동의서<개정 2023.8.3>"
     file_name: "거래정보저장업무규정 시행세칙_6차_금융거래정보이용·제공동의서.hwp"
@@ -157,7 +154,6 @@ attachments:
     converted_text_chars: 902
     converted_non_space_chars: 772
     table_row_count: 1
-    formula_hint_count: 1
   - id: "210024015-202409200000022490000294010-byl-hwp"
     title: "[별지 제6호 서식] 비밀유지서약서<개정 2024.2.28>"
     file_name: "거래정보저장업무규정 시행세칙_6차_비밀유지서약서.hwp"

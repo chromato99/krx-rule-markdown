@@ -21,6 +21,9 @@ jobs:
       - name: Syntax check
         run: python3 -m py_compile krx_rule_markdown/*.py krx_rule_markdown/converters/*.py
 
+      - name: Tabnanny
+        run: python3 -m tabnanny krx_rule_markdown tests
+
       - name: Unit tests
         run: python3 -m unittest discover -s tests
 

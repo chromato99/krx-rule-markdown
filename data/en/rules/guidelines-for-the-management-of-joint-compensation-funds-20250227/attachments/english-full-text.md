@@ -35,89 +35,15 @@ Rules and Regulations available from this English version do not warrant or assu
 or responsibility for the accuracy, completeness or usefulness of any information. Only Korean
 version shall be deemed authentic.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-CHAPTER 1. GENERAL PROVISIONS ............................................................................. 1
-
-§1. Purpose ............................................................................................................................................................................ 1
-
-§2. Definition ........................................................................................................................................................................ 1
-
-CHAPTER 2. OPERATION OF JCF .................................................................................... 2
-
-Section 1. General Principles .................................................................................................. 2
-
-§3. Management and Operation of the JCF .......................................................................................................... 2
-
-§4. Principles of Operation ............................................................................................................................................ 2
-
-Section 2. General Operation .................................................................................................. 3
-
-§4-2. Methods of General Operation ....................................................................................................................... 3
-
-§4-3. Amount of General Operation ......................................................................................................................... 3
-
-Section 3. Special Operation ................................................................................................... 3
-
-§5. Methods of Special Operation ............................................................................................................................. 3
-
-§5-2. Amount of Special Operation........................................................................................................................... 4
-
-§5-3. Suspension of Special Operation .................................................................................................................... 4
-
-§6. Deposit Institution of Special Operation ......................................................................................................... 5
-
-Section 4. Calculation, etc. of Proceeds from JCF ................................................................ 5
-
-§7. Calculation of Proceeds ........................................................................................................................................... 5
-
-§8. Pro Rata Allocation of Proceeds and Notification Thereof ..................................................................... 5
-
-§9. Receipt or Payment of Difference in JCF, etc. ............................................................................................... 6
-
-§9-2. Settlement for withdrawing/converting Members ................................................................................. 6
-
-CHAPTER 3. USE OF JCF .................................................................................................... 7
-
-§10. Use of JCF .................................................................................................................................................................... 7
-
-CHAPTER 4. Supplementary Provisions .............................................................................. 7
-
-§11. Status Report .............................................................................................................................................................. 8
-
-§12. Issuance of Certificates .......................................................................................................................................... 8
+TABLE OF CONTENTS
 
 ii
 
-
-
-ADDENDA................................................................................................................................ 9
-
-[Annex: Form No. 1] Certificate of Contribution to Joint Compensation Funds ............ 12
-
 [Annex: Form No. 2] Certificate of Contribution to OTC Derivatives Joint Compensation
-Fund ........................................................................................................................................ 13
 
 iii
 
-
-
-CHAPTER 1. GENERAL PROVISIONS
+CHAPTER 1. GENERAL PROVISIONS
 
 §1. Purpose
 
@@ -161,19 +87,7 @@ suspension of special operation, etc. [February 15, 2019]
 
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER 2. OPERATION OF JCF
+CHAPTER 2. OPERATION OF JCF
 
 Section 1. General Principles
 
@@ -219,22 +133,7 @@ a row. [November 13, 2014] (Amended May 21, 2015)
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Section 2. General Operation
+Section 2. General Operation
 
 §4-2. Methods of General Operation
 
@@ -282,21 +181,7 @@ issued by securities finance companies; and
 
 3
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4. Depositing in banks.
+4. Depositing in banks.
 
 (2) The head of the operation department shall maintain the amount operated by the methods
 under subparagraphs 1 and 2 of paragraph (1) below 50 percent of the special operation amount.
@@ -347,19 +232,7 @@ management department. (Amended on February 15, 2019)
 
 4
 
-
-
-
-
-
-
-
-
-
-
-
-
-(2) The expenses incurred by the suspension of the special operation shall be covered by the
+(2) The expenses incurred by the suspension of the special operation shall be covered by the
 operating proceeds.
 
 [December 30, 2010]
@@ -373,7 +246,7 @@ the banks under subparagraph 1 or 2 of [§4-2(1)]. (Amended on July 27, 2018)
 
 Section 4. Calculation, etc. of Proceeds from JCF
 
-    [December 30, 2010]
+[December 30, 2010]
 
 §7. Calculation of Proceeds
 
@@ -408,19 +281,7 @@ October 23, 2009; December 30; 2010; March 28, 2014)
 
 5
 
-
-
-
-
-
-
-
-
-
-
-
-
-(2) The cash contribution ratio noted in paragraph (1) shall be calculated by dividing the total
+(2) The cash contribution ratio noted in paragraph (1) shall be calculated by dividing the total
 amount of daily cash contribution to the JCF of a member by the aggregate amount of daily
 total cash contribution to the JCF, and the figures after the 15th decimal place shall be discarded.
 (Amended on October 23, 2009; December 30, 2010; March 28, 2014)
@@ -470,19 +331,7 @@ date when the Exchange received the proceeds.
 
 6
 
-
-
-
-
-
-
-
-
-
-
-
-
-(2)  When  a  clearing  member  withdraws  its  membership,  the  head  of  the  management
+(2)  When  a  clearing  member  withdraws  its  membership,  the  head  of  the  management
 department shall return or pay the principal and proceeds of the OTC derivatives JCF to the
 relevant member as stipulated in each of the following subparagraphs: (Amended on March 28,
 2014)
@@ -525,23 +374,7 @@ CHAPTER 4. Supplementary Provisions
 
 7
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§11. Status Report
+§11. Status Report
 
 (1) [Deleted on February 15, 2019]
 
@@ -556,13 +389,7 @@ accordance with the attached forms when a clearing member requests for it.
 
 8
 
-
-
-
-
-
-
-ADDENDA
+ADDENDA
 
 (February 27, 2009)
 
@@ -606,28 +433,7 @@ and the derivatives market until March 31, 2011 and at least 65% until June 30, 
 
 9
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 (Regulation No. 334 / June 24, 2013)
 
 This Guidelines shall become effective on July 1, 2013.
@@ -668,32 +474,7 @@ This Guidelines shall become effective on March 30, 2016.
 
 10
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 (Regulation No. 497 / May 13, 2016)
 
 This Guidelines shall become effective on May 30, 2016.
@@ -720,21 +501,7 @@ This Guidelines shall become effective on March 4, 2025..
 
 11
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 1] Certificate of Contribution to Joint Compensation Funds
+[Annex: Form No. 1] Certificate of Contribution to Joint Compensation Funds
 
 Certificate of Contribution to Joint Compensation Funds
 
@@ -787,26 +554,7 @@ Chairperson of the Korea Exchange (seal)
 
 12
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 2] Certificate of Contribution to OTC Derivatives Joint Compensation
+[Annex: Form No. 2] Certificate of Contribution to OTC Derivatives Joint Compensation
 Fund
 
 Certificate of Contribution to OTC Derivatives Joint Compensation Fund

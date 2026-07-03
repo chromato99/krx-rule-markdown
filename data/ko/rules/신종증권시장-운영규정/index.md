@@ -2,7 +2,7 @@
 id: "210124215"
 title: "신종증권시장 운영규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:58:07.653292Z"
+collected_at: "2026-07-03T21:12:42.839418Z"
 content_hash: "24c366ca720158fce3f5f8cfec2f715a37658e85abda5feda3697bd38e3e5a0c"
 document_type: "rule"
 language: "ko"

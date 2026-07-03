@@ -2,7 +2,7 @@
 id: "210222057"
 title: "유가증권시장 업무규정 시행세칙 개정 예고"
 source_url: "https://rule.krx.co.kr/out/pds/pdsViewPop.do"
-collected_at: "2026-07-03T15:02:54.105760Z"
+collected_at: "2026-07-03T21:17:32.352515Z"
 content_hash: "d01b213edb7a7f3b4258c6c48b8242051ad4b7e2f4843e120360250b9b2e8d17"
 document_type: "notice"
 language: "ko"
@@ -25,7 +25,6 @@ attachments:
     quality_score: 100
     converted_text_chars: 790
     converted_non_space_chars: 599
-    formula_hint_count: 2
   - id: "210222057-210222059-pdf"
     title: "(붙임2) 유가증권시장 업무규정 시행세칙 일부개정세칙안.pdf"
     file_name: "(붙임2) 유가증권시장 업무규정 시행세칙 일부개정세칙안.pdf"
@@ -40,9 +39,8 @@ attachments:
     size: 254427
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 8923
+    converted_text_chars: 8912
     converted_non_space_chars: 7033
-    formula_hint_count: 11
 ---
 
 □ 주요 내용

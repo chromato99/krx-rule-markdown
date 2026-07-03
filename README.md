@@ -48,6 +48,8 @@ krx-rule-markdown sync --rule-id 210203562 --language en --data-dir /tmp/krx-rul
 krx-rule-markdown validate --data-dir /tmp/krx-rule-smoke --quality
 ```
 
+단일 규정 smoke test는 위처럼 임시 디렉터리에서 실행하세요. 기존 전체 corpus 디렉터리에서는 부분 sync 결과와 정리 명령 조합에 따라 의도하지 않은 문서 삭제 위험이 생길 수 있습니다.
+
 이미 받은 raw 첨부를 새 변환 로직으로 다시 Markdown화하려면 `reconvert`를 사용합니다. HWP/HWPX 표·수식 변환 로직을 개선한 뒤 기존 corpus에 반영할 때 유용합니다.
 
 ```bash
@@ -114,6 +116,14 @@ rsync -a data/ "$KRX_RULE_DATA_DIR"/
 ```
 
 [`krx-rule-mcp`](https://github.com/chromato99/krx-rule-mcp)는 위 경로를 읽기 전용 corpus 디렉터리로 사용하고, BM25/vector 검색 snapshot은 MCP 프로젝트가 소유하는 별도 index 디렉터리(`KRX_RULE_INDEX_DIR`)에 생성합니다.
+
+## 환경변수
+
+| 변수 | 사용처 | 기본값 |
+|---|---|---|
+| `KRX_DATA_DIR` | `sync`, `reconvert`, `clean`, `quality`, `validate`의 corpus 경로 | `data` |
+| `KRX_SYNC_LANGUAGE` | `sync --language` 기본값 (`all`, `ko`, `en`) | `all` |
+| `KRX_QUALITY_REPORT` | `quality --output` 기본 경로 | `data/reports/data-quality.json` |
 
 ## 자동화
 

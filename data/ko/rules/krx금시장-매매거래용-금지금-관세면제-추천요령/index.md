@@ -2,7 +2,7 @@
 id: "204847764"
 title: "KRX금시장 매매거래용 금지금 관세면제 추천요령"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:02:04.489671Z"
+collected_at: "2026-07-03T21:16:44.070510Z"
 content_hash: "69faa023685badbe67d90d1b740736739477bc7c44ca84d99ec41e9e1f205c74"
 document_type: "rule"
 language: "ko"

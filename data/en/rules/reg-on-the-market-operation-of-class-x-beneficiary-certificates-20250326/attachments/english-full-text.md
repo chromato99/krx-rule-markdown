@@ -10,102 +10,11 @@ This English version does not warrant or assume any liability or responsibility 
 accuracy, completeness or usefulness of any information contained herein. Only Korean
 version shall be deemed authentic.
 
+TABLE OF CONTENTS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-Chapter  I.  General Provisions .......................................................................................... 3
-§1. Purpose ................................................................................................................. 3
-§2. Opening of Market ............................................................................................... 3
-§3. Definitions............................................................................................................ 3
-Chapter  II.  Listing  of  Class X Beneficiary Certificates of a Multiple Class Fund ........ 4
-§4. General Operation of Listing of Securities .......................................................... 4
-§5. Preliminary Listing Review ................................................................................. 4
-§6. Initial Listing ........................................................................................................ 5
-§7. Supplementary Listing and Listing Change ......................................................... 7
-§8. Designation of Administrative Issues .................................................................. 8
-§9. Delisting ............................................................................................................... 9
-§10. Suspension of Trading and Resumption Thereof .............................................. 9
-§11. Prior Notice and Public Announcement on Administrative Issues .................. 10
-§12. Prior Notice and Public Announcement on Delisting ...................................... 10
-§13. Public Announcement on Noncompliance with Obligations ........................... 10
 Chapter  III.  Reporting  and  Disclosure  of  Listed  Entities  with  Class  X  Beneficiary
-Certificates ..................................................................................................................... 11
-§14. Reporting Obligations, etc. .............................................................................. 11
-Chapter  IV.  Market  Operation,  Trading,  Clearing  and  Settlement,  etc. .................. 12
-§15. Application of Regulation ................................................................................ 12
-§16. Limits on Quotation Prices .............................................................................. 12
-§17. Liquidity Providing Members .......................................................................... 13
-§18. Obligation to Submit Liquidity Providing Quotations .................................... 13
-§19. Method of Submitting Liquidity Providing Quotations ................................... 14
-§20. Assessment of Liquidity Providing Members.................................................. 14
-§21. Quotation Unit and Trading Unit ..................................................................... 15
-§22. Change of Trade Execution Methods, etc. by Issue......................................... 15
-Chapter  V.  Supplementary  Provisions .......................................................................... 15
-§23. Listing Fees and Annual Dues ......................................................................... 15
-§24. Enforcement Rules ........................................................................................... 16
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Regulations on the Market Operation of Class X Beneficiary Certificates of
+Regulations on the Market Operation of Class X Beneficiary Certificates of
 a Multiple Class Fund
 
 Chapter I. General Provisions
@@ -150,23 +59,7 @@ fund under the Financial Innovation Act.
 
 2.  “Authorized participant” refers to a person designated as an innovative financial service
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-provider for the listing and trading of class X beneficiary certificates in accordance with
+provider for the listing and trading of class X beneficiary certificates in accordance with
 the Financial Innovation Act and designated by a fund management company for the
 purpose of performing the duties specified in each subparagraph of Article 247 of the
 Enforcement Decree of the Act.
@@ -214,21 +107,7 @@ beneficiary certificates of the result of the preliminary listing review within 
 (based on business days) from the date of having received the application for preliminary listing
 review  noted  in  paragraph  (1).  Provided  that,  in  case  where  it  is  necessary  to  correct  or
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-supplement  the  application  for  preliminary  listing  review,  etc.  or  an  additional  review  is
+supplement  the  application  for  preliminary  listing  review,  etc.  or  an  additional  review  is
 necessary,  the  Exchange  may  extend  the  notification  period  by  notifying  the  initial  listing
 applicant of the reasons and estimated processing time.
 
@@ -268,28 +147,16 @@ the request, the submission deadline may be extended once for up to three (3) mo
 (2) To list class X beneficiary certificates, all of the following review requirements shall be
 met:
 
-    1. Size of the class X beneficiary certificate funds: The trust principal or total net assets of
+1. Size of the class X beneficiary certificate funds: The trust principal or total net assets of
 class X beneficiary certificate funds to be listed must be at least KRW 7 billion, and the
 total number of class X beneficiary certificates to be issued or converted must be at least
 1 billion units;
 
-    2. Size of the multiple class fund: The trust principal or total net assets of the multiple class
+2. Size of the multiple class fund: The trust principal or total net assets of the multiple class
 fund that has issued class X beneficiary certificates to be listed must be at least KRW 50
 billion. Provided that this may not apply to cases specified in the Enforcement Rules.
 
-
-
-
-
-
-
-
-
-
-
-
-
-    3.
+3.
 
 Authorized
 
@@ -307,11 +174,11 @@ following
 
 requirements must be met:
 
-        (a) There must be at least one (1) authorized participant;
+(a) There must be at least one (1) authorized participant;
 
 liquidity  provision  agreement  must  be  entered
 
-        (b)  A
+(b)  A
 one
 authorized participants pursuant to [§17(1)];
 
@@ -326,7 +193,7 @@ into  with  at
 least
 among
 
-        (c)
+(c)
 
 fund
 X
@@ -385,7 +252,7 @@ the
 the liquidity providing member replacement criteria, at least six (6) months shall
 have elapsed since then.
 
-    4.
+4.
 
 Included
 
@@ -403,11 +270,11 @@ the
 
 in
 
-        (a)  An  exchange  market,  a  foreign  exchange  market,  or  a  market  designated  and
+(a)  An  exchange  market,  a  foreign  exchange  market,  or  a  market  designated  and
 announced  by  the  Financial  Services  Commission  pursuant  to  Article  7-26  of  the
 Financial Investment Business Regulations;
 
-        (b) A market similar to item (a), which falls under any of the following:
+(b) A market similar to item (a), which falls under any of the following:
 
 (i)  A  precious  metals  market  operated  pursuant
 London Bullion Market Association (LBMA);
@@ -418,7 +285,7 @@ to  the  regulations  of  the
 operated pursuant to Articles 179, 180, and 185 of the Enforcement Decree of the
 Act;
 
-            (iii) A market in which a foreign exchange brokerage firm calculates the base exchange
+(iii) A market in which a foreign exchange brokerage firm calculates the base exchange
 rate and the arbitrated exchange rate pursuant to the Foreign Exchange Transactions
 Act  pursuant
 the  Foreign  Exchange
@@ -426,24 +293,11 @@ Transactions Act; and
 
 to  Article  9,  Paragraph  2  of
 
-            (iv) Any other market recognized by the Exchange, taking into account factors such as
+(iv) Any other market recognized by the Exchange, taking into account factors such as
 
+reliable price formation.
 
-
-
-
-
-
-
-
-
-
-
-
-
-reliable price formation.
-
-    5.  Duration:  Except  for  cases  stipulated  by  the  Enforcement  Rules,  class  X  beneficiary
+5.  Duration:  Except  for  cases  stipulated  by  the  Enforcement  Rules,  class  X  beneficiary
 certificate  funds  shall  have  no  duration.  In  this  case,  the  details  thereof  (including  the
 duration of the fund, if any) must be stated in the fund agreement.
 
@@ -461,11 +315,11 @@ efficient operation of included assets, etc.;
 
 and disclosure system related to the operation of class X beneficiary certificates;
 
-    4. Investor protection measures must be included in the fund agreement, etc., in preparation
+4. Investor protection measures must be included in the fund agreement, etc., in preparation
 
 for delisting pursuant to subparagraphs 6 through 8 of [§9]; and
 
-    5.  In  addition,  the  listing  of  class  X  beneficiary  certificates  must  be  recognized  as  not
+5.  In  addition,  the  listing  of  class  X  beneficiary  certificates  must  be  recognized  as  not
 
 detrimental to the sound development of the KOSPI Market.
 
@@ -493,22 +347,7 @@ stipulated by the Enforcement Rules after the grounds for the listing change bec
 
 (3) Notwithstanding paragraphs (1) and (2), in the case where a listed entity wishes to
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-make a supplementary listing or a listing change due to a change in quantity, it shall submit the
+make a supplementary listing or a listing change due to a change in quantity, it shall submit the
 relevant application to the Exchange by the trading day immediately before the scheduled date
 of listing.
 
@@ -543,7 +382,7 @@ necessary for the sake of public interest and investor protection.
 certificate  has  been  designated  as  an  administrative  issue  pursuant  to  paragraph  (1),  revoke
 such designation without delay:
 
-    1. In the case of paragraph (1)1: If the relevant ground has been resolved as of the end of the
+1. In the case of paragraph (1)1: If the relevant ground has been resolved as of the end of the
 semi-annual period to which the date of designation of administrative issue belongs;
 
 2. In the case of paragraph (1)2: If the Exchange recognizes that the relevant corrective order
@@ -560,22 +399,7 @@ been permitted pursuant to Article 11, Paragraph 2 of the Financial Innovation A
 5.  In  the  case  of  paragraph  (1)5:  If  it  has  been  confirmed  that  the  relevant  ground  for
 designating a class X beneficiary certificate as an administrative issue has been resolved.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(3) Necessary matters regarding the timing of designation and revocation of an administrative
+(3) Necessary matters regarding the timing of designation and revocation of an administrative
 issue pursuant to paragraphs (1) and (2) shall be prescribed by Enforcement Rules.
 
 §9 Delisting
@@ -623,29 +447,11 @@ protection.
 (1)  In  cases  where  a  listed  entity  or  a  listed  security  falls  under  any  of  the  following
 subparagraphs, the Exchange may suspend the trading of the relevant security:
 
-    1. Where the grounds for delisting apply pursuant to each subparagraph of [§9]; or
+1. Where the grounds for delisting apply pursuant to each subparagraph of [§9]; or
 
-    2. Other cases where the Exchange deems it necessary for the public interest and investor
+2. Other cases where the Exchange deems it necessary for the public interest and investor
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-protection.
+protection.
 
 (2) The period of trading suspension pursuant to paragraph (1) shall be until the date on which
 the grounds for the trading suspension are recognized as resolved.
@@ -669,13 +475,13 @@ the delisting period.
 Exchange may give prior notice that the listed security may fall under the grounds for delisting
 until such security actually falls under the grounds for delisting:
 
-    1. Where the conditions for liquidity provider replacement are met;
+1. Where the conditions for liquidity provider replacement are met;
 
-    2. Where delisting is expected due to the grounds for termination of the investment trust
+2. Where delisting is expected due to the grounds for termination of the investment trust
 
 under Article 223, Paragraph 3 or 4 of the Enforcement Decree of the Act; or
 
-    3. Where the fund agreement specifies the fund’s duration, and one (1) month has passed
+3. Where the fund agreement specifies the fund’s duration, and one (1) month has passed
 
 retroactively from the expiration date of such duration.
 
@@ -694,25 +500,7 @@ Exchange may terminate such prior notice from the date of confirmation of the re
 
 In cases where a listed entity fails to fulfill its obligations or to submit documents under this
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Regulation, the Exchange may officially announce such fact.
+Regulation, the Exchange may officially announce such fact.
 
 Chapter III. Reporting and Disclosure of Listed Entities with Class X Beneficiary
 Certificates of a Multiple Class Fund
@@ -723,13 +511,13 @@ Certificates of a Multiple Class Fund
 a listed entity shall report the details thereof to the Exchange by the deadline specified in each
 subparagraph:
 
-    1. Distribution of profits: Fifteen (15) days before the end of the trust accounting period;
+1. Distribution of profits: Fifteen (15) days before the end of the trust accounting period;
 
-    2. Net asset value and details of asset composition prescribed in the Enforcement Rules: On
+2. Net asset value and details of asset composition prescribed in the Enforcement Rules: On
 
 a daily basis
 
-    3. Matters on included assets specified in the Enforcement Rules; Within one (1) month from
+3. Matters on included assets specified in the Enforcement Rules; Within one (1) month from
 
 the last day of each month;
 
@@ -741,48 +529,29 @@ of the Act: One (1) month prior to the scheduled date for delisting;
 as  the  expiration  of  such  duration  constitutes  the  grounds  for  the  termination  of  the
 investment trust: One (1) month prior to the scheduled date for delisting;
 
-    6. In any of the following cases: Without delay
+6. In any of the following cases: Without delay
 
-        (a)  Where  a  corrective  order  has  been  issued  by  the  Financial  Services  Commission
+(a)  Where  a  corrective  order  has  been  issued  by  the  Financial  Services  Commission
 pursuant to Article 7 of the Financial Innovation Act or such order has been complied
 with;
 
-        (b) Where a request for withdrawal of designation as an innovative financial service has
+(b) Where a request for withdrawal of designation as an innovative financial service has
 been  submitted  to  the  Financial  Services  Commission  pursuant  to  Article  8  of  the
 Financial Innovation Act or such request has been canceled;
 
-        (c) Where an order  to suspend innovative financial services or a permission to resume
+(c) Where an order  to suspend innovative financial services or a permission to resume
 such  services  has  been  issued  by  the  Financial  Services  Commission  pursuant  to
 Article 11 of the Financial Innovation Act; or
 
-        (d)  Where  designation  as  an  innovative  financial  service  of  a  listed  entity  has  been
+(d)  Where  designation  as  an  innovative  financial  service  of  a  listed  entity  has  been
 
 canceled pursuant to Article 7 of the Financial Innovation Act.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    7. Where the period of designation as an innovative financial service of a listed entity expires
+7. Where the period of designation as an innovative financial service of a listed entity expires
 pursuant to Article 9 of the Financial Innovation Act: One (1) month prior to the expiration
 date of the designated period;
 
-    8. In any other cases prescribed by the Enforcement Rules: Without delay, as cases where
+8. In any other cases prescribed by the Enforcement Rules: Without delay, as cases where
 
 the Exchange deems such action necessary for listing management.
 
@@ -825,21 +594,7 @@ multiplying the reference price by 0.3 (Any amount less than the tick size of th
 shall be disregarded; the same hereinafter in this Article). Provided, however, that where the
 obtained amount is less than the minimum tick size, it shall be set at the minimum tick size.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(3) In the cases prescribed by the Enforcement Rules, notwithstanding paragraph (2), the price
+(3) In the cases prescribed by the Enforcement Rules, notwithstanding paragraph (2), the price
 change limits may be determined differently.
 
 §17. Liquidity Providing Members
@@ -860,11 +615,11 @@ an authorized participant under Article 247 of the Enforcement Decree of the Act
 
 of the relevant incident:
 
-    (a) Where the results of assessments carried out pursuant to [§20] show the lowest grade
+(a) Where the results of assessments carried out pursuant to [§20] show the lowest grade
 
 for three (3) consecutive times; or
 
-    (b) Where it is confirmed that the member has been subject to a criminal sanction or any
+(b) Where it is confirmed that the member has been subject to a criminal sanction or any
 measures equivalent to or heavier than business suspension or trading suspension for
 violating relevant securities-related statutes or the business regulations of the Exchange
 in the course of performing the tasks of liquidity provision.
@@ -888,22 +643,7 @@ the limit specified in each of the following subparagraphs (including cases wher
 bid or ask quotation on one or both sides), liquidity providing members shall submit liquidity
 providing quotations within five (5) minutes of such occurrence.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1.  For  listed  securities  whose  fund  invests  exclusively  in  domestic  assets:  a  ratio  not
+1.  For  listed  securities  whose  fund  invests  exclusively  in  domestic  assets:  a  ratio  not
 
 exceeding 2%, as reported to the Exchange by listed entities; or
 
@@ -956,21 +696,7 @@ liquidity providing member.
 
 (2) Liquidity providing members shall provide the Exchange with the materials required for
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-the assessment pursuant to paragraph (1), as prescribed by the Enforcement Rules.
+the assessment pursuant to paragraph (1), as prescribed by the Enforcement Rules.
 
 §21. Quotation Unit and Trading Unit
 
@@ -1011,26 +737,7 @@ Exchange may exempt the payment of the listing fee or annual dues in cases it de
 fee,  the  methods  for  calculation  and  payment,  the  scope  of  exemption  and  other  necessary
 matters shall be specified by the Enforcement Rules.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§24. Enforcement Rules
+§24. Enforcement Rules
 
 Matters necessary for implementing this Regulation shall be prescribed by the Enforcement
 Rules.

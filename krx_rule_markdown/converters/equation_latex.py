@@ -103,13 +103,21 @@ def strip_outer_group(expr: str) -> str:
 
 
 def find_top_level_division(expr: str) -> int:
-    depth = 0
+    depth_curly = depth_round = depth_square = 0
     for i, ch in enumerate(expr):
         if ch == "{":
-            depth += 1
+            depth_curly += 1
         elif ch == "}":
-            depth = max(0, depth - 1)
-        elif ch == "/" and depth == 0:
+            depth_curly = max(0, depth_curly - 1)
+        elif ch == "(":
+            depth_round += 1
+        elif ch == ")":
+            depth_round = max(0, depth_round - 1)
+        elif ch == "[":
+            depth_square += 1
+        elif ch == "]":
+            depth_square = max(0, depth_square - 1)
+        elif ch == "/" and depth_curly == 0 and depth_round == 0 and depth_square == 0:
             return i
     return -1
 
@@ -463,7 +471,7 @@ def normalize_latex_spacing(expr: str) -> str:
     expr = re.sub(r"\s+", " ", expr).strip()
     expr = re.sub(r"\\(sum|prod|int)\s*_", lambda m: "\\" + m.group(1) + "_", expr)
     expr = re.sub(r"\\(min|max)\s+", lambda m: "\\" + m.group(1) + " ", expr)
-    expr = re.sub(r"\s*([=,+\-])\s*", r" \1 ", expr)
+    expr = re.sub(r"\s*([=+\-])\s*", r" \1 ", expr)
     expr = re.sub(r"\s+", " ", expr).strip()
     return expr
 
@@ -475,6 +483,7 @@ def replace_hash_linebreaks(expr: str) -> str:
 def cleanup_latex(expr: str) -> str:
     expr = collapse_double_latex_command_slashes(expr)
     expr = re.sub(r"([_^])\{\s*\}", "", expr)
+    expr = re.sub(r"(?<!\\)[_^](?=\s|$|[)}\]])", "", expr)
     expr = re.sub(r"\s+([_^]\{)", r"\1", expr)
     expr = collapse_repeated_linebreaks(expr)
     expr = re.sub(r"\^\(([^()]*)\)", r"^{\1}", expr)
@@ -482,6 +491,7 @@ def cleanup_latex(expr: str) -> str:
     expr = combine_repeated_scripts(expr)
     expr = normalize_script_commas(expr)
     expr = re.sub(r"\\operatorname\{([^{}]+)\}\s*_\{([^{}]+)\}", r"\\operatorname{\1}_{\2}", expr)
+    expr = re.sub(r"(\\text\{(?:if|where)\})(?=[A-Za-z0-9\\])", r"\1 ", expr)
     expr = re.sub(r"\s+([)}\]])", r"\1", expr)
     expr = re.sub(r"([({\[])\s+", r"\1", expr)
     expr = balance_latex_groups(expr.strip())

@@ -2,7 +2,7 @@
 id: "210088759"
 title: "코스닥시장 상장적격성 실질심사지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:58:20.254865Z"
+collected_at: "2026-07-03T21:12:56.331126Z"
 content_hash: "36d6c5dca7918fd91618ebc5477bf38db48aefbdccacfa6c4aa474dccaeeef87"
 document_type: "rule"
 language: "ko"

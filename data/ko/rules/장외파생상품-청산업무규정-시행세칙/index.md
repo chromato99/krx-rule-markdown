@@ -2,8 +2,8 @@
 id: "210215757"
 title: "장외파생상품 청산업무규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:54:21.317287Z"
-content_hash: "1bf0d272da22cd45a33984f9f150e1b8d716109367400376cc7e39ef49fe1d0f"
+collected_at: "2026-07-03T21:08:52.333476Z"
+content_hash: "ff48dca16b2cd984b100249c8474211f70785a92149a4455f197e23ccc668756"
 document_type: "rule"
 language: "ko"
 category: "업무규정 / 장외파생상품청산업무규정"
@@ -23,10 +23,11 @@ attachments:
     size: 53248
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 12544
+    converted_text_chars: 12536
     converted_non_space_chars: 10255
     table_row_count: 27
-    formula_hint_count: 65
+    formula_block_count: 62
+    formula_hint_count: 127
   - id: "210215757-210215841-hwp"
     title: "[별표 1의2] 정산금리의 산출<개정 2017.3.17, 2017.12.18, 2019.9.20, 2023.06.26, 2023.09.26,2025. 10. 23.,2026. 5. 28.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_정산금리의산출.hwp"
@@ -56,10 +57,11 @@ attachments:
     size: 82944
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 64134
+    converted_text_chars: 63968
     converted_non_space_chars: 52735
     table_row_count: 18
-    formula_hint_count: 459
+    formula_block_count: 285
+    formula_hint_count: 744
   - id: "210215757-210136686-hwp"
     title: "[별표 4] 유동성위험증거금률 및 총가치변동증거금률<개정 2016.12.16,2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_유동성위험증거금률및총가치변동증거금률.hwp"
@@ -76,7 +78,8 @@ attachments:
     converted_text_chars: 11018
     converted_non_space_chars: 7825
     table_row_count: 62
-    formula_hint_count: 10
+    formula_block_count: 10
+    formula_hint_count: 20
   - id: "210215757-210136751-hwp"
     title: "[별표5] 순위험청산증거금의 산출<개정 2016.12.16, 2023.06.26, 2024.9.26,2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_순위험청산증거금의산출.hwp"
@@ -90,10 +93,11 @@ attachments:
     size: 48128
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 8919
+    converted_text_chars: 8899
     converted_non_space_chars: 7352
     table_row_count: 1
-    formula_hint_count: 55
+    formula_block_count: 44
+    formula_hint_count: 99
   - id: "210215757-202409260000022520000225007-byl-hwp"
     title: "[별표6] 유동성위험증거금의 산출<개정 2016.12.16>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_유동성위험증거금의산출.hwp"
@@ -109,7 +113,8 @@ attachments:
     quality_score: 100
     converted_text_chars: 1427
     converted_non_space_chars: 1175
-    formula_hint_count: 11
+    formula_block_count: 7
+    formula_hint_count: 18
   - id: "210215757-210136777-hwp"
     title: "[별표7] 총가치변동증거금액의 산출<개정 2016.12.16, 2022.6.7, 2023.7.14,2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_총가치변동증거금액의산출.hwp"
@@ -126,7 +131,8 @@ attachments:
     converted_text_chars: 2047
     converted_non_space_chars: 1685
     table_row_count: 3
-    formula_hint_count: 13
+    formula_block_count: 7
+    formula_hint_count: 20
   - id: "210215757-210136795-hwp"
     title: "[별표8] 변동금리 산출 중단 시 비상계획<신설 2023.09.26,개정 2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_기준CD금리산출중단시비상계획.hwp"
@@ -158,7 +164,6 @@ attachments:
     converted_text_chars: 1801
     converted_non_space_chars: 1351
     table_row_count: 3
-    formula_hint_count: 2
   - id: "210215757-202409260000022520000225011-byl-hwp"
     title: "[별지 제1호의2 서식] 외국 금융투자업자등의 청산참가확인서<신설 2016.12.16>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_외국금융투자업자등의청산참가확인서.hwp"
@@ -380,19 +385,8 @@ attachments:
 
 라. 30/360: 다음 계산식에 따라 산출한 일수를 360으로 나누는 방식
 
-일수 = {360 × (Y₂ - Y₁)} + {30 × (M₂ - M₁)} + (D₂ - D₁)
-
-Y₁: 이자계산기간 시작일이 속하는 년도의 숫자
-
-Y₂: 이자계산기간 종료일 직후의 날이 속하는 년도의 숫자
-
-M₁: 이자계산기간 시작일이 속하는 달의 숫자
-
-M₂: 이자계산기간 종료일 직후의 날이 속하는 달의 숫자
-
-D₁: 이자계산기간 시작일의 숫자. 다만, 그 날의 숫자가 31인 경우에는 30으로 한다.
-
-D₂: 이자계산기간 종료일 직후의 날의 숫자. 다만, 그 날의 숫자가 31이고 이자계산기간 시작일의 숫자가 29 보다 큰 경우에는 30으로 한다.
+| 일수 = {360 × (Y₂ - Y₁)} + {30 × (M₂ - M₁)} + (D₂ - D₁) Y₁: 이자계산기간 시작일이 속하는 년도의 숫자 Y₂: 이자계산기간 종료일 직후의 날이 속하는 년도의 숫자 M₁: 이자계산기간 시작일이 속하는 달의 숫자 M₂: 이자계산기간 종료일 직후의 날이 속하는 달의 숫자 D₁: 이자계산기간 시작일의 숫자. 다만, 그 날의 숫자가 31인 경우에는 30으로 한다. D₂: 이자계산기간 종료일 직후의 날의 숫자. 다만, 그 날의 숫자가 31이고 이자계산기간 시작일의 숫자가 29 보다 큰 경우에는 30으로 한다. |
+| --- |
 
 <개정 2025. 10. 23.>
 
@@ -597,6 +591,9 @@ D₂: 이자계산기간 종료일 직후의 날의 숫자. 다만, 그 날의 �
 ② 규정 제26조제2항에서 “세칙이 정하는 방법”이란 별표 1에서 정하는 방법을 말한다.<개정 2018. 12. 5.>
 
 ③ 규정 제26조제2항에서 “세칙이 정하는 날”이란 다음의 산식에 따라 현재 장외파생공동기금총적립액이 적정한지 점검하기 위하여 매일 산출하는 금액(이하 “장외파생공동기금총적립추산액”이라 한다)이 현재 장외파생공동기금총적립액에 임계치(Threshold)를 곱한 금액 보다 큰 날을 말한다.
+
+[이미지: https://rule.krx.co.kr/dataFile/law/img/202409260000022520000225002.gif]
+
 <개정 2018. 12. 5.>
 
 ④ 규정 제26조제2항에서 “세칙으로 정하는 경우”란 청산회원의 가입·탈퇴 등을 말한다.

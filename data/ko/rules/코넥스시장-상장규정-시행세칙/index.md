@@ -2,7 +2,7 @@
 id: "210222787"
 title: "코넥스시장 상장규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:51:43.215698Z"
+collected_at: "2026-07-03T21:06:12.606817Z"
 content_hash: "0bffe89db711d418473974c3659fe3dc5274ace8b7a2ce8180df760b30dd0dd2"
 document_type: "rule"
 language: "ko"
@@ -90,7 +90,7 @@ attachments:
     converted_text_chars: 87494
     converted_non_space_chars: 66308
     table_row_count: 371
-    formula_hint_count: 368
+    formula_hint_count: 367
   - id: "210222787-202406140000022340000213009-byl-hwp"
     title: "[상장서식 5] 주채권은행 의견서"
     file_name: "코넥스시장 상장규정 시행세칙_32차_주채권은행의견서.hwp"
@@ -214,7 +214,6 @@ attachments:
     converted_text_chars: 1062
     converted_non_space_chars: 837
     table_row_count: 2
-    formula_hint_count: 1
   - id: "210222787-202406140000022340000213017-byl-hwp"
     title: "[상장서식 12] 코넥스시장 상장법인 확인서"
     file_name: "코넥스시장 상장규정 시행세칙_32차_코넥스시장상장법인확인서.hwp"
@@ -263,7 +262,6 @@ attachments:
     converted_text_chars: 5314
     converted_non_space_chars: 3927
     table_row_count: 64
-    formula_hint_count: 1
   - id: "210222787-202406140000022340000213020-byl-hwp"
     title: "[상장서식 14] 상장유예에 대한 이의신청서"
     file_name: "코넥스시장 상장규정 시행세칙_32차_상장유예에대한이의신청서.hwp"
@@ -410,7 +408,7 @@ attachments:
     converted_text_chars: 56513
     converted_non_space_chars: 42514
     table_row_count: 271
-    formula_hint_count: 229
+    formula_hint_count: 222
   - id: "210222787-202406140000022340000213028-byl-hwp"
     title: "[상장서식 22] 신규상장심사청구서(기술평가기업)<개정 2017.8.4, 2019.3.20, 2019.4.17, 2019.9.10, 2020.6.10>"
     file_name: "코넥스시장 상장규정 시행세칙_32차_신규상장심사청구서(기술평가기업).hwp"
@@ -427,7 +425,7 @@ attachments:
     converted_text_chars: 86994
     converted_non_space_chars: 65867
     table_row_count: 366
-    formula_hint_count: 358
+    formula_hint_count: 357
   - id: "210222787-202406140000022340000213029-byl-hwp"
     title: "[상장서식 22-1] 신규상장심사청구서(크라우드펀딩기업)<신설 2017.8.4, 2019.3.20, 2019.4.17, 2019.9.10, 2020.6.10>"
     file_name: "코넥스시장 상장규정 시행세칙_32차_신규상장심사청구서(크라우드펀딩기업).hwp"
@@ -444,7 +442,7 @@ attachments:
     converted_text_chars: 87094
     converted_non_space_chars: 65754
     table_row_count: 368
-    formula_hint_count: 359
+    formula_hint_count: 357
   - id: "210222787-202406140000022340000213030-byl-hwp"
     title: "[상장서식 23] 지정기관투자자 동의서<개정 2015.6.30, 2017.8.4, 2019.9.10>"
     file_name: "코넥스시장 상장규정 시행세칙_32차_지정기관투자자동의서.hwp"

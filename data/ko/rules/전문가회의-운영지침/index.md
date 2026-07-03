@@ -2,7 +2,7 @@
 id: "204847342"
 title: "전문가회의 운영지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:01:05.207584Z"
+collected_at: "2026-07-03T21:15:44.917397Z"
 content_hash: "508ef2870c2f8739424b69c85487cb3adf9619b651bad355f307f4cf6e6c5be7"
 document_type: "rule"
 language: "ko"

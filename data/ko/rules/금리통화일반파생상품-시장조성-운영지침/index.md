@@ -2,7 +2,7 @@
 id: "210205830"
 title: "금리·통화·일반파생상품 시장조성 운영지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:52:38.813474Z"
+collected_at: "2026-07-03T21:07:09.476328Z"
 content_hash: "11be7116720524b20b5fc2450cd6234ae0550417ab842c81be85954e4f2d15cd"
 document_type: "rule"
 language: "ko"
@@ -70,10 +70,11 @@ attachments:
     size: 56320
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 11299
+    converted_text_chars: 11295
     converted_non_space_chars: 8828
     table_row_count: 48
-    formula_hint_count: 27
+    formula_block_count: 5
+    formula_hint_count: 32
   - id: "210205830-210077901-hwp"
     title: "[별지 제1호 서식] 시장조성 담당자 신고관련 제출 서류 양식<개정 2025. 6. 5.>"
     file_name: "금리·통화·일반파생상품 시장조성 운영지침_9차_시장조성담당자신고관련제출서류양식.hwp"
@@ -122,7 +123,6 @@ attachments:
     converted_text_chars: 534
     converted_non_space_chars: 471
     table_row_count: 1
-    formula_hint_count: 2
   - id: "210205830-210077929-hwp"
     title: "[별지 제4호 서식] 고속 알고리즘거래 관련 확인서<신설 2025. 6. 5.>"
     file_name: "금리·통화·일반파생상품 시장조성 운영지침_9차_"

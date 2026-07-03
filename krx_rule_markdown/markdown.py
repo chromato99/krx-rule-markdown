@@ -27,21 +27,7 @@ def parse_markdown(data: str) -> Document:
 
 
 def parse_frontmatter(text: str) -> dict[str, Any]:
-    parsed = parse_frontmatter_with_yaml(text)
-    if parsed is not None:
-        return parsed
     return parse_frontmatter_legacy(text)
-
-
-def parse_frontmatter_with_yaml(text: str) -> dict[str, Any] | None:
-    try:
-        import yaml
-    except ImportError:
-        return None
-    loaded = yaml.safe_load(text) or {}
-    if not isinstance(loaded, dict):
-        return {}
-    return loaded
 
 
 def parse_frontmatter_legacy(text: str) -> dict[str, Any]:
@@ -135,12 +121,28 @@ def format_scalar(value: Any) -> str:
 
 def write_document(root: Path, doc: Document) -> Path:
     folder = "notices" if doc.document_type == "notice" else "rules"
-    path = document_bundle_dir(root, doc) / "index.md"
+    path = existing_document_path(root, doc) or document_bundle_dir(root, doc) / "index.md"
     path.parent.mkdir(parents=True, exist_ok=True)
     legacy_path = language_root(root, doc.language) / folder / safe_file_name(doc.title)
     if legacy_path.exists():
         legacy_path.unlink()
     path.write_text(render_markdown(doc), encoding="utf-8")
+    return path
+
+
+def existing_document_path(root: Path, doc: Document) -> Path | None:
+    if not doc.path:
+        return None
+    root = Path(root)
+    path = Path(doc.path)
+    if not path.is_absolute():
+        path = path if path.exists() else root / path
+    try:
+        path.resolve().relative_to(root.resolve())
+    except ValueError:
+        return None
+    if path.name != "index.md":
+        return None
     return path
 
 
@@ -167,7 +169,25 @@ def load_documents(root: Path) -> list[Document]:
 
 def document_bundle_dir(root: Path, doc: Document) -> Path:
     folder = "notices" if doc.document_type == "notice" else "rules"
-    return language_root(root, doc.language) / folder / slug(doc.title)
+    parent = language_root(root, doc.language) / folder
+    base = parent / slug(doc.title)
+    if bundle_can_hold_document(base, doc):
+        return base
+    suffixed = parent / f"{slug(doc.title)}-{slug(doc.id) or 'document'}"
+    if not bundle_can_hold_document(suffixed, doc):
+        raise ValueError(f"document bundle collision for {doc.id}: {suffixed}")
+    return suffixed
+
+
+def bundle_can_hold_document(path: Path, doc: Document) -> bool:
+    index = path / "index.md"
+    if not index.exists():
+        return True
+    try:
+        existing = parse_markdown(index.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return False
+    return existing.id == doc.id and existing.document_type == doc.document_type
 
 
 def language_root(root: Path, language: str) -> Path:
@@ -175,9 +195,7 @@ def language_root(root: Path, language: str) -> Path:
 
 
 def document_paths(base: Path) -> list[Path]:
-    paths = list(sorted(base.glob("*.md")))
-    paths.extend(sorted(base.glob("*/index.md")))
-    return paths
+    return sorted(base.glob("*/index.md"))
 
 
 def document_roots(root: Path) -> list[tuple[str, Path]]:
@@ -185,6 +203,4 @@ def document_roots(root: Path) -> list[tuple[str, Path]]:
     for language in (LANGUAGE_KO, LANGUAGE_EN):
         for folder in ("rules", "notices"):
             roots.append((language, root / language / folder))
-    for folder in ("rules", "notices"):
-        roots.append((LANGUAGE_KO, root / folder))
     return roots

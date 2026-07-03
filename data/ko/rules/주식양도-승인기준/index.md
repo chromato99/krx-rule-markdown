@@ -2,7 +2,7 @@
 id: "204846917"
 title: "주식양도 승인기준"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:02:19.199346Z"
+collected_at: "2026-07-03T21:16:58.095037Z"
 content_hash: "5bd24c41b608f229b8e7ca8c709768be8bf742450e657ca69c97094023a57ec4"
 document_type: "rule"
 language: "ko"

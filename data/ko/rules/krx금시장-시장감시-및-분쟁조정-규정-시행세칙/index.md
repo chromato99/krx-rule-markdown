@@ -2,7 +2,7 @@
 id: "204847757"
 title: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:59:30.642004Z"
+collected_at: "2026-07-03T21:14:09.606544Z"
 content_hash: "3063cdd3d0cdb38ad2ea2338e47f235b18e8a723a074d6a21a529e550ca6f90b"
 document_type: "rule"
 language: "ko"
@@ -186,7 +186,6 @@ attachments:
     converted_text_chars: 621
     converted_non_space_chars: 475
     table_row_count: 4
-    formula_hint_count: 1
   - id: "204847757-202410150000022550000233012-byl-hwp"
     title: "[별지 제11호 서식] 현지조치사항"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_현지조치사항.hwp"
@@ -218,7 +217,6 @@ attachments:
     quality_score: 100
     converted_text_chars: 496
     converted_non_space_chars: 362
-    formula_hint_count: 3
   - id: "204847757-202410150000022550000233014-byl-hwp"
     title: "[별지 제13호 서식] 서면의견진술서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_서면의견진술서.hwp"
@@ -250,7 +248,6 @@ attachments:
     quality_score: 100
     converted_text_chars: 456
     converted_non_space_chars: 332
-    formula_hint_count: 2
   - id: "204847757-202410150000022550000233016-byl-hwp"
     title: "[별지 제15호 서식] KRX금시장 분쟁조정신청서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_KRX금시장분쟁조정신청서.hwp"

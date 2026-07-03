@@ -2,7 +2,7 @@
 id: "210102217"
 title: "코스닥시장 글로벌 기업의 지정 등에 관한 지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:58:17.385982Z"
+collected_at: "2026-07-03T21:12:53.663445Z"
 content_hash: "0f808162c2eaf3cc8a7e960a9e60b3eaf1937ab5ac1e71c3eed8ae2ec811eb31"
 document_type: "rule"
 language: "ko"

@@ -2,7 +2,7 @@
 id: "204847819"
 title: "배출권 거래시장 시장감시 및 분쟁조정 규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:01:43.446973Z"
+collected_at: "2026-07-03T21:16:23.723243Z"
 content_hash: "6fe4cba40b6bee40878c1f9247db035cd4a4ca91fc5dafcc3e03029851a371ef"
 document_type: "rule"
 language: "ko"

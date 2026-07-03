@@ -24,215 +24,23 @@ This  English  version  does  not  warrant  or  assume  any  liability  or  resp
 completeness or usefulness of any information contained herein. Only Korean version shall be deemed
 authentic.
 
+TABLE OF CONTENTS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-CHAPTER I. GENERAL PROVISIONS ................................................................................................. 1
-
-§1. Purpose ................................................................................................................................................. 1
-§2. Definitions ............................................................................................................................................ 1
-
-CHAPTER II. OPERATION OF THE MARKET .................................................................................. 1
-
-§3. Change of trading hours ....................................................................................................................... 1
-§4. Designation of Trading Types .............................................................................................................. 2
-§5. Guideline for Connection to Member System, etc. .............................................................................. 2
-
-CHAPTER III. TRADING ........................................................................................................................ 3
-
-§6. Quotation Receiving Hours .................................................................................................................. 3
-§7. Details of Quotation ............................................................................................................................. 4
-§8. Collective Quoting of Order Details Relating to Several Accounts ..................................................... 9
-§9. Checking Items Including Quotation Suitability, etc. .......................................................................... 9
-§10. Restrictions on Placement of Quotations ......................................................................................... 11
-§11. Validity of Quotations ...................................................................................................................... 13
-§11-2. Validity of Quotations with Self-match Prevention Condition ..................................................... 13
-§12. Cancellation or Correction of Quotations ......................................................................................... 14
-§12-2. Mass Order Cancellation ............................................................................................................... 14
-§12-3. Methods to Apply for Cancellation of Disconnected Quotations, etc. .......................................... 15
-§13. Methods of Verifying Covered Short Sale ....................................................................................... 15
-§14. Restrictions on Quotations for Covered Short Sale .......................................................................... 16
-§15. [Deleted on March 12, 2021]............................................................................................................ 18
-§16. Arbitrage Trading of DRs ................................................................................................................. 18
-§17. Restrictions on Quotation Prices for Covered Short Sale ................................................................. 18
-§18. Follow-up Management of Short Sale Quotations ........................................................................... 18
 §19. Methods of Submitting Quotations for Trading of Treasury Stocks of Listed Corporations, etc. ... 19
-§20. Special Case of Bid Quotation Price for Acquisition of Treasury Stocks ........................................ 20
-§21. Trading Methods of Treasury Stocks of Listed Corporations under Money Trust Contract ............ 21
-§22. Agreement for Liquidity Provision .................................................................................................. 21
-§23. Submission of Liquidity Providing Quotations ................................................................................ 23
-§23-2. Methods of Submitting Liquidity Providing Quotations ............................................................... 24
-§24. Restriction on Submission of Liquidity Providing Quotations ........................................................ 25
-§25. Base Price ......................................................................................................................................... 25
-§26. Price Limits ...................................................................................................................................... 28
-§27. Quotation Units ................................................................................................................................ 28
-§28. Priority of Simultaneous Quotations ................................................................................................ 29
-§29. Range of Quotations Participating in Call Auction, etc. .................................................................. 30
-§30. Range of Quotations Restricted to Participate in Determination of Special Quotation Price .......... 31
 
 ii
 
-
-
-§31. Criteria for Expanding the Range of Quotations Participating in Call Auction, etc. ....................... 31
-§32. [Deleted on June 20, 2014] ............................................................................................................... 32
-§33. Regular Session Block Trade ........................................................................................................... 32
-§34. Off-hours Closing Price Trade ......................................................................................................... 33
-§34-2. Off-Hours Block Trade ................................................................................................................. 33
-§34-3. Exceptions to Application of Off-hours Sessions ......................................................................... 34
-§35. One-sided Auction ............................................................................................................................ 34
-§36. Methods of Determining First Price of Initially Listed Issues, etc. .................................................. 35
-§36-2. Trade Execution Methods of Issues Scheduled to be Delisted, etc. .............................................. 36
-§37. Details of Trade Execution ............................................................................................................... 37
-§38. Suspension of Trade and Resumption of Trade Thereafter .............................................................. 38
-§39. Publication of Suspension of Trading and Resumption Thereafter, etc. .......................................... 39
-§40. Measures in Case of Computer System Failures or Influx of Excessive Quotations ....................... 39
-§41. Correction of Transaction Errors ...................................................................................................... 40
-§42. Methods of Correcting Transaction Errors ....................................................................................... 41
-§43. Agreement for Correction of Transaction Errors ............................................................................. 42
-§44. Settlement of Profits and Losses ...................................................................................................... 42
-
-CHAPTER IV. [Deleted on February 27, 2025] ..................................................................................... 42
-
-§45. [Deleted on February 27, 2025] ........................................................................................................ 42
-§46. [Deleted on February 27, 2025] ........................................................................................................ 42
-§46-2. [Deleted on February 27, 2025] .................................................................................................... 42
-§46-3. [Deleted on February 27, 2025] .................................................................................................... 42
-§46-4. [Deleted on February 27, 2025] .................................................................................................... 43
-§46-5. [Deleted on February 27, 2025] .................................................................................................... 43
-§46-6. [Deleted on February 27, 2025] .................................................................................................... 43
-§46-7. [Deleted on February 27, 2025] .................................................................................................... 43
-§46-8. [Deleted on February 27, 2025] .................................................................................................... 43
-§46-9. [Deleted on February 27, 2025] .................................................................................................... 43
-§46-10. [Deleted on February 27, 2025] .................................................................................................. 43
-§46-11. [Deleted on February 27, 2025] .................................................................................................. 43
-§46-12. [Deleted on February 27, 2025] .................................................................................................. 43
-§46-13. [Deleted on February 27, 2025] .................................................................................................. 44
-§46-14. [Deleted on February 27, 2025] .................................................................................................. 44
-§46-15. [Deleted on February 27, 2025] .................................................................................................. 44
-§47. [Deleted on February 27, 2025] ........................................................................................................ 44
-§48. [Deleted on February 27, 2025] ........................................................................................................ 44
-§49. [Deleted on February 27, 2025] ........................................................................................................ 44
-§50. [Deleted on February 27, 2025] ........................................................................................................ 44
-§51. [Deleted on February 27, 2025] ........................................................................................................ 44
-§52. [Deleted on February 27, 2025] ........................................................................................................ 44
-§53. [Deleted on February 27, 2025] ........................................................................................................ 44
-§54. [Deleted on February 27, 2025] ........................................................................................................ 44
-
 iii
-
-
-§55. [Deleted on February 27, 2025] ........................................................................................................ 44
-§56. [Deleted on February 27, 2025] ........................................................................................................ 44
-§57. [Deleted on February 27, 2025] ........................................................................................................ 45
-§58. [Deleted on February 27, 2025] ........................................................................................................ 45
-§59. [Deleted on February 27, 2025] ........................................................................................................ 45
-§60. [Deleted on February 27, 2025] ........................................................................................................ 45
-§61. [Deleted on February 27, 2025] ........................................................................................................ 45
-§62. [Deleted on February 27, 2025] ........................................................................................................ 45
-§63. [Deleted on February 27, 2025] ........................................................................................................ 45
-§63-2. [Deleted on February 27, 2025] .................................................................................................... 45
-
-CHAPTER V. RECEIVING OF TRADING ENTRUSTMENT .......................................................... 45
-
-§64. Order Types ...................................................................................................................................... 45
-§65. Opening of Accounts, etc. ................................................................................................................ 45
-§65-2. Terms and Conditions for High-speed Algorithmic Trading ........................................................ 47
-§66. Notification Deadline of Agreement for Receiving of Trading Entrustment ................................... 48
-§67. Matters to be Recorded When Receiving Entrustment of Orders .................................................... 48
-§68. Methods of Receiving Order ............................................................................................................ 50
-§69. Publication of Order Placing Methods, etc. ...................................................................................... 52
-§70. Processing of Order .......................................................................................................................... 52
-§71. Handling of Transaction Errors ........................................................................................................ 53
-§72. Recording and Retaining Details of Error Corrections .................................................................... 53
-§73. Reporting of Good Faith Deposit ..................................................................................................... 53
-§73-2. Separate Management of Good Faith Deposits and Restrictions on Use as Member Margins ..... 54
-§74. Notice of Investor Precautions ......................................................................................................... 54
-§74-2. [Deleted on April 28, 2022] .......................................................................................................... 55
-§75. Exclusion from Designation of Substitute Securities ....................................................................... 55
-§75-2. [Deleted on February 27, 2025] .................................................................................................... 56
-§76. [Deleted on February 27, 2025] ........................................................................................................ 56
-§77. [Deleted on February 27, 2025] ........................................................................................................ 56
-§77-2. [Deleted on February 27, 2025] .................................................................................................... 56
-§77-3. [Deleted on February 27, 2025] .................................................................................................... 56
-§78. [Deleted on February 27, 2025] ........................................................................................................ 56
-§79. [Deleted on February 27, 2025] ........................................................................................................ 56
-§79-2. [Deleted on April 28, 2022] .......................................................................................................... 56
-§80. [Deleted on February 27, 2025] ........................................................................................................ 56
-§81. Notification of Brokerage Fee Rate .................................................................................................. 57
-
-CHAPTER VI. MARKET MANAGEMENT ........................................................................................ 57
-
-§82. Publication of Expected Matching Prices, etc. during Call Auctions ............................................... 57
-§82-2. Method of Reporting Algorithmic Trading Account .................................................................... 58
-§82-3. Methods and Trades for Application for Quotation Processing by Account, etc. ......................... 58
 
 iv
 
-
-§82-4. Registration of High-speed Algorithmic Trader, etc. .................................................................... 59
-§82-5. Special Cases for Registration of High-speed Algorithmic Trader ............................................... 61
-§82-6. High-speed Algorithmic Trading through Multiple Members ...................................................... 62
-§82-7. Member’s Obligation to Manage High-speed Algorithmic Trading ............................................. 62
-§83. Date of Action for Ex-dividends, etc. ............................................................................................... 63
-§84. Public Opinion Gathering ................................................................................................................. 64
-
-ADDENDUM ............................................................................................................................................. 64
-
 [Annex 1] Guidelines for Calculation of Lowest and Highest Quotation Prices for Determination of the
-First Price of Initially Listed Issues, etc. .................................................................................................. 81
-[Annex 1-2] Application for Mass Order Cancellation, etc. .................................................................... 89
-[Annex 2] Method of Calculating Base Price of Issues gone Ex-dividend and Ex-right ......................... 91
-[Annex 3] [Deleted on February 27, 2025] .............................................................................................. 95
-[Annex 4] [Deleted on February 27, 2025] .............................................................................................. 96
-[Annex 5] [Deleted on February 27, 2025] .............................................................................................. 97
-[Annex 6] [Deleted on February 27, 2025] .............................................................................................. 98
-[Annex 7] [Deleted on February 27, 2025] .............................................................................................. 99
-[Annex: Form No. 1] Notification of Unsettled Trades ......................................................................... 100
 [Annex:  Form  No.  2]  Request  for  Trading  of  Treasury  Stocks  (Under  Trust  Contract)  of  Listed
-Corporations ........................................................................................................................................... 101
-[Annex: Form No. 3] Notification of Details of Agreement for Liquidity Provision ............................ 102
-[Annex: Form No. 4] Request for One-sided Auction ........................................................................... 103
-[Annex: Form No. 5] Request for Correction of Transaction Errors ..................................................... 104
-[Annex: Form No. 6] Agreement on Correction of Transaction Errors ................................................. 105
-[Annex: Form No. 7] Written Request for Correction of Transaction Errors ........................................ 107
-[Annex: Form No. 8] Notification of Correction of Transaction Errors ................................................ 108
-[Annex: Form No. 9] Request for Settlement for Handling Transaction Errors .................................... 109
-[Annex: Form No. 10]Request for Settlement Adjustment for Handling Transaction Errors ................ 110
-[Annex: Form No. 10-2] Application for Cash Transaction .................................................................. 111
-[Annex: Form No. 12] [Deleted on February 27, 2025] ......................................................................... 113
-[Annex: Form No. 13] [Deleted on February 27, 2025] ......................................................................... 114
-[Annex: Form No. 14] [Deleted on February 27, 2025] ......................................................................... 115
-[Annex: Form No. 15] [Deleted on February 27, 2025] ......................................................................... 116
-[Annex: Form No. 16] [Deleted on January 15, 2026] ........................................................................... 116
-[Annex: Form No. 17] Report on Algorithmic Trading Accounts ......................................................... 117
-[Annex: Form No. 18] Application (Report) for Registration of High-speed Algorithmic Trader ........ 118
 [Annex:  Form  No.  19]  Confirmation  on  Inspection  of  Registration  Information  of  High-speed
-Algorithmic Trader ................................................................................................................................. 119
 
 v
 
-
-CHAPTER I. GENERAL PROVISIONS
+CHAPTER I. GENERAL PROVISIONS
 
 §1. Purpose
 
@@ -272,21 +80,7 @@ system is not fully recovered by the market closing time, it shall be deemed tha
 
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-was closed at the time the system failure occurred.
+was closed at the time the system failure occurred.
 
 (3) Failure of the member systems mentioned in paragraph (1)1 shall refer to the case when
 the sum  of the trades  executed by the members  who are experiencing  a  computer system
@@ -330,17 +124,7 @@ Market Clearing and Settlement Business Regulations. (Amended on February 27, 20
 
 2
 
-
-
-
-
-
-
-
-
-
-
-(1) “Matters stipulated in the Enforcement Rules” in [§9(1)] of the Regulation shall refer to
+(1) “Matters stipulated in the Enforcement Rules” in [§9(1)] of the Regulation shall refer to
 the matters in each of the following subparagraphs: (Amended on February 28, 2014)
 
 1. Network connection method between the members and the Exchange;
@@ -382,23 +166,7 @@ closing”).
 
 3
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(a) Pre-hours sessions: From 08:00 hours to 09:00 hours; and
+(a) Pre-hours sessions: From 08:00 hours to 09:00 hours; and
 
 (b) For the after-hours sessions, the hours classified for each trading type as follows:
 
@@ -408,7 +176,7 @@ hours;
 (ii) Off-hours block trade: From 15:40 hours to 18:00 hours
 
 (c) One-way auction: From 08:00 hours to 08:30 hours
-      3. One-sided auction: From 08:00 hours to 08:30 hours
+3. One-sided auction: From 08:00 hours to 08:30 hours
 
 (2) The Exchange may change the quotation receiving hours mentioned in paragraph (1) in
 the case falling under any of the following subparagraphs:
@@ -443,25 +211,7 @@ and 4(c), the following classifications:
 
 4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-trade noted in [§25] of the Regulation and off-hours block trade noted in [§26-2] of the
+trade noted in [§25] of the Regulation and off-hours block trade noted in [§26-2] of the
 Regulation; the same hereinafter), the following classifications:
 
 (i) Pre-hours session;
@@ -497,7 +247,7 @@ number of the original quotation shall be included);
 (b) Algorithmic trading quotation excluding the quotation in item (a); or
 (c)  Quotations excluding quotations in items (a) and (b).
 
-      10-3. In the case of submitting quotations through high-speed algorithmic trading account,
+10-3. In the case of submitting quotations through high-speed algorithmic trading account,
 
 matters in each of the following items:
 
@@ -508,23 +258,7 @@ it is limited to cases where the self-match prevention condition pursuant to [§
 
 5
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-the mass order cancellation pursuant to [§12-2].
+the mass order cancellation pursuant to [§12-2].
 (b) Conditions in the case of quotations imposed the self-match prevention condition
 pursuant to [§11-2]; and
 (c) Quotation group number in Annex Form 1-2 to apply the mass order cancellation
@@ -570,23 +304,7 @@ method;
 
 6
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(c) Treasury stock trading other than those noted in items (a) and (b).
+(c) Treasury stock trading other than those noted in items (a) and (b).
 
 16.  In  the  case  of  the  liquidity  providing  quotations  pursuant  to  the  main  sentence  of
 [§17(1)] or [§17(2)] of the Regulation, such classification;
@@ -633,23 +351,7 @@ CFD;
 
 7
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-21. In the case of an investor who has to deposit the upfront good faith deposit pursuant
+21. In the case of an investor who has to deposit the upfront good faith deposit pursuant
 to [§61] of the Regulation, such classification;
 
 22.  Data  (the  private  IP  and  MAC  address  when  using  the  internal  communication
@@ -696,20 +398,7 @@ customer who placed the order to the relevant investment broker.
 
 8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-member shall immediately notify the Exchange of the details of such change.
+member shall immediately notify the Exchange of the details of such change.
 
 (6) In cases where the Exchange notifies other quotation information to input in addition to
 paragraphs (1), (2) and (4), the member shall comply with such request.
@@ -754,19 +443,7 @@ April 17, 2019; December 22, 2022)
 
 9
 
-
-
-
-
-
-
-
-
-
-
-
-
-2. Specifics about issue noted in each of the following items:
+2. Specifics about issue noted in each of the following items:
 
 (a) Issue code under [§7(1)7]; and
 (b)  If the issue is  suspended from  trading  pursuant  to  [§30] of the Regulation,  the
@@ -787,7 +464,6 @@ Disclosure Regulation”).
 (b) Price limit range under [§19] of the Regulation;
 (c)Restriction on quotation price under [§10(4)1];
 (d)Quotation  spread  ratio  of  liquidity  providing  quotations  under  [§18(3)]  of  the
-Regulation; and
 (e)Restriction on quotation price submitted for treasury stock trade under [§14(1) and
 (5)] of the Regulation.
 
@@ -802,8 +478,6 @@ Regulation; and
 
 (a)  If the good faith deposit has been collected pursuant to [§61(5), (8) and(9)] of the
 
-Regulation; and
-
 (b) [Deleted on April 28, 2022]
 (c)  Restrictions  that  the  Exchange  imposes  per  customer  and  per  issue  for  the
 
@@ -814,21 +488,7 @@ trading number pursuant to [§7(1)10-3(a)]:
 
 10
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(a)  Whether quotations are submitted through the high-speed algorithmic trading
+(a)  Whether quotations are submitted through the high-speed algorithmic trading
 account reported pursuant to [§70-3(3)] of the Regulation; and
 
 (b) Whether the high-speed algorithmic trading number linked to account in item (a)
@@ -855,7 +515,7 @@ to be delisted”);
 day of the issues falling under any of the subparagraphs of [§36(4)] (hereinafter referred
 to as the “issue using the opening price as the base price”);
 
-      4. Quotations affixed with the condition of self-match prevention noted in [§11-2]; or
+4. Quotations affixed with the condition of self-match prevention noted in [§11-2]; or
 
 5. Other cases that the Exchange deems it necessary for market management.
 
@@ -874,19 +534,7 @@ in this Paragraph) is KRW 10 trillion or more: the quantity calculated by dividi
 
 11
 
-
-
-
-
-
-
-
-
-
-
-
-
-100 billion by the base price for the date of quotation placement (the quantity less than
+100 billion by the base price for the date of quotation placement (the quantity less than
 the trading unit of the regular session shall be rounded off to the trading unit; the same
 hereinafter in this Paragraph);
 
@@ -936,18 +584,7 @@ condition of self- match prevention pursuant to [§11-2]:
 
 12
 
-
-
-
-
-
-
-
-
-
-
-
-(b) Issues subject to call auction due to abnormally soaring prices;
+(b) Issues subject to call auction due to abnormally soaring prices;
 
 (5) In the cases of the paragraph (1)3, (4)1 and (4)2, the member shall not place the concerned
 quotation until receiving a notice of the first price determined. [May 7, 2021]
@@ -992,21 +629,11 @@ imposed on the quotation received later:
 
 13
 
+1. A condition to cancel all of the balance of previously received quotation;
 
+2. A condition to cancel the entire quantity of quotation received later; and
 
-
-
-
-
-
-
-
-
-    1. A condition to cancel all of the balance of previously received quotation;
-
-    2. A condition to cancel the entire quantity of quotation received later; and
-
-    3. A condition to cancel each quantity that can be executed between buy and sell
+3. A condition to cancel each quantity that can be executed between buy and sell
 
 quotations.
 
@@ -1043,24 +670,7 @@ are met. In such case, matters necessary for the application of the mass order c
 
 14
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-such as classification of securities, conditions for cancellation, etc. shall be as specified in
+such as classification of securities, conditions for cancellation, etc. shall be as specified in
 the Annex 1-3:
 
 1.  Cases for managing risks; and
@@ -1106,21 +716,7 @@ system failure or other cases where it deems necessary for market management.
 
 15
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-to  the  preservation  of  the  documents,  tape  recordings  or  electronic  storage  devices  that
+to  the  preservation  of  the  documents,  tape  recordings  or  electronic  storage  devices  that
 validate the date and details of orders, which the member received from a customer, for a
 period of at least three (3) years as determined by the member.
 
@@ -1155,7 +751,7 @@ Items:
 
 of the base price of the day;
 
-    (b) The proportion of the trading value of covered short sale to the trading value of the
+(b) The proportion of the trading value of covered short sale to the trading value of the
 day shall be at least three (3) times (if the value is greater than 0.2, it shall be set at
 0.2)  the  proportion  of  the  trading  value  of  covered  short  sale  (numbers  shall  be
 rounded off to  the third  decimal  point) of the quarter immediately preceding  the
@@ -1167,29 +763,18 @@ listed on the KOSDAQ market; the same hereinafter) of the same period; and
 
 16
 
-
-
-
-
-
-
-
-
-
-
-
-    (c) The trading value of covered short sale of the day shall be at least five (5) times the
+(c) The trading value of covered short sale of the day shall be at least five (5) times the
 average of the trading value of covered short sale for the latest forty (40) trading
 days.
 
 2. Issues of which the stock price decline rate and the increase rate of short sale trading
 value meet all of the following Items:
 
-    (a) The closing price of the day shall be 90/100 or lower of the base price of the day;
+(a) The closing price of the day shall be 90/100 or lower of the base price of the day;
 
 and
 
-    (b) The requirement in Subparagraph 1(c) shall be satisfied.
+(b) The requirement in Subparagraph 1(c) shall be satisfied.
 
 3. Issues of which the stock price decline rate and the proportion and the increase rate of
 the trading value of covered short sale meet all of the following Items:
@@ -1200,7 +785,7 @@ the trading value of covered short sale meet all of the following Items:
 
 total trading value of the relevant issue of the day; and
 
-        (c) The trading value of covered short sale of the day shall be at least two (2) times the
+(c) The trading value of covered short sale of the day shall be at least two (2) times the
 
 average of the trading value of covered short sale for the latest forty (40) trading
 days.
@@ -1223,23 +808,7 @@ through (4) immediately and notify it to the members. (Amended on March 9, 2020)
 
 17
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Wholly amended on February 28, 2017]
+[Wholly amended on February 28, 2017]
 
 §15. [Deleted on March 12, 2021]
 
@@ -1282,22 +851,7 @@ on September 24, 2012)
 
 18
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2) In verifying the balance of securities held and quantity of securities to be settled pursuant
+(2) In verifying the balance of securities held and quantity of securities to be settled pursuant
 to  [§13(1)]  of  the  Regulation,  if  the  customer  has  electronically  registered  the  relevant
 securities  through  trust  companies  or  depository  institutions,  members  shall  obtain  a
 notification on the status of settlement shortage from the trust companies or the depository
@@ -1342,15 +896,7 @@ within 1/100 thereof:
 
 19
 
-
-
-
-
-
-
-
-
-(a)  Quantities  equivalent  to  10/100  of  the  number  of  stocks  intended  to  acquire
+(a)  Quantities  equivalent  to  10/100  of  the  number  of  stocks  intended  to  acquire
 (dispose), which the listed company reported to  the Financial Services Commission
 (hereinafter “FSC”) for the purpose of acquiring (disposing) its treasury stocks; and
 
@@ -1395,18 +941,7 @@ mutandis thereto; and
 
 20
 
-
-
-
-
-
-
-
-
-
-
-
-2. Quotation quantity shall be equal to or less than the quantity decided by the board of
+2. Quotation quantity shall be equal to or less than the quantity decided by the board of
 directors.
 
 (2) The provisions of [§19] shall apply mutatis mutandis to the trading matters other than
@@ -1451,20 +986,7 @@ million, the relevant details;
 
 21
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-8. The content that, in the case of falling under the proviso to [§17(1)] of the Regulation,
+8. The content that, in the case of falling under the proviso to [§17(1)] of the Regulation,
 the requirement for submission of liquidity providing quotation shall be exempted, and
 the content that, in cases of intending to submit a liquidity providing quotation, a separate
 liquidity providing agreement shall be made; and
@@ -1510,18 +1032,7 @@ shall be at least 10/100.
 
 22
 
-
-
-
-
-
-
-
-
-
-
-
-contract for a designated advisor if the appointment contract for a designated advisor includes
+contract for a designated advisor if the appointment contract for a designated advisor includes
 the matters on the liquidity provision pursuant to main sentence of [§17(1)] of the Regulation;
 the same hereinafter), terminating the relevant agreement thereafter, or changing the material
 details of the agreement, such facts shall be notified pursuant to [§17(6)] of the Regulation
@@ -1567,16 +1078,7 @@ June 26, 2018)
 
 23
 
-
-
-
-
-
-
-
-
-
-2.  Where the issue’s stock price has ascended or descended 30% or more for the last
+2.  Where the issue’s stock price has ascended or descended 30% or more for the last
 
 three (3) trading days;
 
@@ -1622,16 +1124,7 @@ issue concerned is executed by ten (10) minutes before the closing of the sessio
 
 24
 
-
-
-
-
-
-
-
-
-
-not apply.
+not apply.
 
 (3) In cases where a member submits liquidity providing quotations, the quotations shall not
 be made at a price which can be executed between the liquidity providing quotations.
@@ -1676,23 +1169,7 @@ day, it shall be the base price of the latest trading day.
 
 25
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2. For the initially listed issues, it shall be the price noted in each of following items:
+2. For the initially listed issues, it shall be the price noted in each of following items:
 
 (a) Case of stocks  that have transferred from the KOSDAQ Market  or the KOSPI
 Market:
@@ -1738,19 +1215,7 @@ and if the formula noted in  [Annex 2] cannot be applied, among the formula note
 
 26
 
-
-
-
-
-
-
-
-
-
-
-
-
-relevant issue shall apply mutatis mutandis thereto:
+relevant issue shall apply mutatis mutandis thereto:
 
 (a) The issue that had ex-dividend as a result of a prior notice on the stock dividend
 for the relevant fiscal year;
@@ -1795,20 +1260,7 @@ in right details or sudden change in market condition.
 
 27
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-§26. Price Limits
+§26. Price Limits
 
 (1) Among the amounts determined pursuant to [§19(2)] of the Regulation, the amount less
 than the quotation price unit corresponding to the base price range shall be rounded down,
@@ -1854,21 +1306,7 @@ KRW 500,000: KRW 500
 
 28
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7. Issue with the price per share is equal to or higher than KRW 500,000: KRW 1,000
+7. Issue with the price per share is equal to or higher than KRW 500,000: KRW 1,000
 
 §28. Priority of Simultaneous Quotations
 
@@ -1913,18 +1351,7 @@ the price is determined to be a price falling under the lowest quotation price u
 
 29
 
-
-
-
-
-
-
-
-
-
-
-
-such price is formed as the upper limit price or lower limit price at the time of determining
+such price is formed as the upper limit price or lower limit price at the time of determining
 the closing price, the quotations at the price noted in each subparagraph of [§22(3)] of the
 Regulation  that  participated  in  the  determination  of  such  price  shall  be  construed  as  the
 simultaneous quotation. (Amended on June 20, 2014)
@@ -1966,17 +1393,7 @@ price that is closest to such base price in cases where there is no such equival
 
 30
 
-
-
-
-
-
-
-
-
-
-
-§30.  Range  of  Quotations  Restricted  to  Participate  in  Determination  of  Special
+§30.  Range  of  Quotations  Restricted  to  Participate  in  Determination  of  Special
 Quotation Price
 
 Pursuant to the [§23(7)] of the Regulation, in cases where the trading was halted or suspended
@@ -2022,17 +1439,7 @@ expanded  pursuant  to  [§23(9)]  of  the  Regulation,  the  range  of  quotati
 
 31
 
-
-
-
-
-
-
-
-
-
-
-quotations until the expanded time point.
+quotations until the expanded time point.
 
 (4)  In  the  case  where  the  range  of  quotations  participating  in  the  call  auction  has  been
 extended pursuant to [§23(9)] of the Regulation, the Exchange shall make such fact public
@@ -2058,13 +1465,13 @@ by  inputting  the  details  negotiated  by  the  selling  and  buying  parties,
 quantity, and price, in accordance with any of the following subparagraphs: (Amended on
 December 22, 2022)
 
-      1. Method in which details of negotiation are notified to the member system and KONEX
+1. Method in which details of negotiation are notified to the member system and KONEX
 system via the electronic network for block trading, etc. (referring to the electronic system
 operated by the Exchange for the purpose of notifying and confirming the agreement or
 negotiated  details  of  block  trading  and  basket  trading;  the  same  hereinafter)  and  the
 member places the quotations in accordance with the negotiated details; or
 
-      2. Method in which the member places the quotations by inputting details of negotiation
+2. Method in which the member places the quotations by inputting details of negotiation
 
 to the KONEX system via the member system or the member securities terminal.
 
@@ -2077,20 +1484,7 @@ both the buying and selling customers shall be foreigners. (Amended on October 3
 
 32
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-(3) Notwithstanding [§27(2)], the quotation price unit for regular session block trade shall be
+(3) Notwithstanding [§27(2)], the quotation price unit for regular session block trade shall be
 KRW 1. (Amended on September 19, 2014)
 
 (4) The details, which have been negotiated between the buying and selling parties pursuant
@@ -2135,18 +1529,7 @@ trade.
 
 33
 
-
-
-
-
-
-
-
-
-
-
-
-[October 30, 2014]
+[October 30, 2014]
 
 §34-3. Exceptions to Application of Off-hours Sessions
 
@@ -2190,23 +1573,7 @@ the basis price of the day. (Amended on August 5, 2020)
 
 34
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(4) [Deleted on September 19, 2014]
+(4) [Deleted on September 19, 2014]
 
 (5) In cases that fall under any of subparagraph below, the  one-sided auction shall not be
 conducted:
@@ -2250,25 +1617,7 @@ trading day shall be the call auction noted in [§23] of the Regulation.
 
 35
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(3)  Pursuant  to  [§28]  of  the  Regulation,  the  range  of  quotations  participating  in  the
+(3)  Pursuant  to  [§28]  of  the  Regulation,  the  range  of  quotations  participating  in  the
 determination of the first price on the first trading day shall be the quotations received from
 the opening time of quotation receiving hours for the regular session to the opening time of
 the  regular  session.  Provided  that,  in  cases  where  the  price  is  not  determined  with  the
@@ -2313,17 +1662,7 @@ execution time; and
 
 36
 
-
-
-
-
-
-
-
-
-
-
-3. Cases where determining the price of the market closing: From the latest unit trade
+3. Cases where determining the price of the market closing: From the latest unit trade
 execution time among the unit trade execution times pursuant to subparagraph 2 to the
 market closing time.
 
@@ -2367,20 +1706,7 @@ subparagraphs shall be recorded:
 
 37
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. Classification of sale or purchase;
+1. Classification of sale or purchase;
 
 2. Name of issue;
 
@@ -2416,7 +1742,6 @@ February 28, 2017)
 
 2. Until the time when the relevant  cause of trade suspension is deemed to have been
 resolved for cases falling under any of subparagraphs 2 through 4and 7 of [§30(1)] of the
-Regulation; and
 
 3. For the period requested for cases falling under [§30(1)5] of the Regulation. Provided
 that, in cases where the Exchange deems it necessary for market management, the period
@@ -2428,25 +1753,7 @@ day  (including  the  day  when  trading  is  suspended)  pursuant  to  [§4(2)]
 
 38
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(3)  Pursuant  to  the  proviso  to  the  part  other  than  the  subparagraphs  of  [§30(1)]  of  the
+(3)  Pursuant  to  the  proviso  to  the  part  other  than  the  subparagraphs  of  [§30(1)]  of  the
 Regulation, in cases where it is deemed necessary for investor protection and market stability
 due to sudden changes in the market situation, etc., the Exchange may take the following
 additional measures from the date of release from the trade suspension:[February 28, 2017]
@@ -2475,9 +1782,9 @@ Exchange shall make such fact public without delay. (Amended on February 28, 201
 confirmed, the Exchange may take any of the following measures: (Amended on February
 28, 2014; January 15, 2026)
 
-    1. Cancellation of quotations that caused computer system failure; or [January 15, 2026]
+1. Cancellation of quotations that caused computer system failure; or [January 15, 2026]
 
-    2.  Suspension  of  receiving  quotations  (referring  to  the  suspension  of  receiving  new
+2.  Suspension  of  receiving  quotations  (referring  to  the  suspension  of  receiving  new
 quotations, correction quotations, and cancellation quotations; the same hereinafter) or halt
 of  trading.  In  this  case,  if  the  restoration  of  details  of  quotations  is  impossible  or  it  is
 necessary to promptly recover from a computer system failure, quotations that have not
@@ -2490,26 +1797,12 @@ following measures: [January 15, 2026]
 
 39
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    1. Suspension of receiving quotations or halt of trading. In this case, if the restoration of
+1. Suspension of receiving quotations or halt of trading. In this case, if the restoration of
 details  of  quotations  is  impossible  or  there  is  a  risk  of  computer  system  failure  during
 restoration, quotations that have not been concluded by the time of suspension of receiving
 quotations or halt of trading may be cancelled; or [January 15, 2026]
 
-    2. Closing of trading of the day. [January 15, 2026]
+2. Closing of trading of the day. [January 15, 2026]
 
 (3) When the Exchange determines that the computer system is back to normal operation and
 the risk of computer system failure due to excessive influx of quotations has been eliminated
@@ -2549,18 +1842,7 @@ the  details  of  orders,  which  has  occurred  because  the  details  of  quot
 
 40
 
-
-
-
-
-
-
-
-
-
-
-
-KONEX computer system were not the same as the order details due to the error made in
+KONEX computer system were not the same as the order details due to the error made in
 the courses of processing the orders received from customers, inputting such order details
 into the member’s system or transmitting the quotation details into the KONEX computer
 system. In such case, if there is an error of an overseas affiliate, etc. of a member in the
@@ -2603,18 +1885,7 @@ transaction error made by a member.
 
 41
 
-
-
-
-
-
-
-
-
-
-
-
-§43. Agreement for Correction of Transaction Errors
+§43. Agreement for Correction of Transaction Errors
 
 When  correcting  a  transaction  error  made  by  the  Exchange,  in  order  to  handle  the  error
 transaction as a proprietary account transaction of a member, the Exchange shall enter into
@@ -2653,21 +1924,7 @@ CHAPTER IV. [Deleted on February 27, 2025]
 
 42
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§46-4. [Deleted on February 27, 2025]
+§46-4. [Deleted on February 27, 2025]
 
 [September 19, 2017]
 
@@ -2705,27 +1962,7 @@ CHAPTER IV. [Deleted on February 27, 2025]
 
 43
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§46-13. [Deleted on February 27, 2025]
+§46-13. [Deleted on February 27, 2025]
 
 [November 27, 2019]
 
@@ -2759,25 +1996,7 @@ CHAPTER IV. [Deleted on February 27, 2025]
 
 44
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§57. [Deleted on February 27, 2025]
+§57. [Deleted on February 27, 2025]
 
 §58. [Deleted on February 27, 2025]
 
@@ -2814,25 +2033,7 @@ matters in each of the followings: (Amended on August 8, 2023; November 23, 2023
 
 45
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-or in the case of foreigners, the number identifying the real name such as the number of
+or in the case of foreigners, the number identifying the real name such as the number of
 foreigner identification means(in the case of foreigners    treated as citizens, it refers to
 the passport number, business registration number, or taxpayer number;
 
@@ -2880,26 +2081,7 @@ classified under paragraph (3)): 4000
 
 46
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7.  The  Government,  local  governments,  international  organizations  and  public  service
+7.  The  Government,  local  governments,  international  organizations  and  public  service
 institutions: 7000
 
 8. Corporations other than those noted in subparagraphs 1 through 7: 7100
@@ -2916,7 +2098,7 @@ Pursuant to [§52(1)9(b)] of the Regulation, in case where a customer of a membe
 who is required to registered as a high-speed algorithmic trader, the member shall include
 each of the following matters in the terms and conditions:
 
-    1. The customer shall identify and systemically manage risks that may arise from the high-
+1. The customer shall identify and systemically manage risks that may arise from the high-
 
 speed algorithmic trading;
 
@@ -2924,19 +2106,19 @@ speed algorithmic trading;
 systems  including  an  ordering  system,  etc.  and  the  program  related  to  the  high-speed
 algorithmic trading, and shall comply with them when operating;
 
-    3.  The  customer  shall  cooperate  in  fulfilling  the  member’s  obligation  to  manage  high-
+3.  The  customer  shall  cooperate  in  fulfilling  the  member’s  obligation  to  manage  high-
 speed algorithmic traders, including checking the electronic system such as the ordering
 system, etc.;
 
-    4. The customer shall prepare an appropriate control and response system to effectively
+4. The customer shall prepare an appropriate control and response system to effectively
 cope with accidents or system failures related to the high-speed algorithmic trading and
 to minimize damage therefrom;
 
-    5.  The  customer  shall  maintain  a  mutual  contact  system  with  members  to  respond
+5.  The  customer  shall  maintain  a  mutual  contact  system  with  members  to  respond
 promptly in the event of an emergency, such as errors in the electronic system such as the
 ordering system, etc.; and
 
-    6. In the case where the customer who has conducted the high-speed algorithmic trading
+6. In the case where the customer who has conducted the high-speed algorithmic trading
 through multiple members pursuant to [§82-6] is suspended to submit the orders for high-
 speed algorithmic trading pursuant to [§70-3(5)], he/she shall notify all other members of
 the relevant fact and reason.
@@ -2945,21 +2127,7 @@ the relevant fact and reason.
 
 47
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§66. Notification Deadline of Agreement for Receiving of Trading Entrustment
+§66. Notification Deadline of Agreement for Receiving of Trading Entrustment
 
 “Period stipulated in the Enforcement Rules” mentioned in [§52(3)] of the Regulation shall
 be five (5) trading days from the effective day of the relevant agreement.
@@ -3003,26 +2171,7 @@ submitted.
 
 48
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9. Each of following classifications;
+9. Each of following classifications;
 
 (a)In the case of order submitted for trade other than those noted in subparagraphs 9(b)
 and (c), following classifications:
@@ -3067,26 +2216,7 @@ investment securities of ETF collective investment vehicle; and
 
 49
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(c) DR arbitrage trading; and
+(c) DR arbitrage trading; and
 
 13.  In  the  case  of  an  order  for  trading  a  basket  of  stocks,  each  of  the  following
 classifications:
@@ -3131,23 +2261,7 @@ method as the tape-recording to prove the details of order.
 
 50
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2. The employee receiving the order shall input the details of order specified in [§67] into
+2. The employee receiving the order shall input the details of order specified in [§67] into
 the member computer system and sign or affix his/her personal seal on the printed copy
 of the order slip. In such cases, this provision shall not apply to the case where the details
 of  orders,  etc.  are  electronically  kept  after  putting  signature  using  electronic  device
@@ -3193,22 +2307,7 @@ including the details of the orders and execution thereafter.
 
 51
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§69. Publication of Order Placing Methods, etc.
+§69. Publication of Order Placing Methods, etc.
 
 (1) In cases where a member establishes the details about order placing method, etc. pursuant
 to [§58(1)] of the Regulation, the matters in the following subparagraphs shall be included:
@@ -3252,20 +2351,7 @@ order  input  device”)promptly  and  accurately  in  the  case  of  orders  re
 
 52
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-method noted in [§57(1)1 & 2] of the Regulation.
+method noted in [§57(1)1 & 2] of the Regulation.
 
 (2) When the order input device malfunctions, a member may process the orders using the
 emergency terminals.
@@ -3308,20 +2394,7 @@ amount excesses KRW one(1) billion. [December 18, 2013]
 
 53
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-§73-2.  Separate  Management  of  Good  Faith  Deposits  and  Restrictions  on  Use  as
+§73-2.  Separate  Management  of  Good  Faith  Deposits  and  Restrictions  on  Use  as
 Member Margins
 
 (1) With regard to “shall manage the good deposits separately from their own properties” in
@@ -3367,20 +2440,7 @@ trust pursuant to the Article 91-15(1) of the Restriction of Special Taxation Ac
 
 54
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-(hereinafter referred to as “the wrap account”) pursuant to [§4-77/7] of the Regulation on
+(hereinafter referred to as “the wrap account”) pursuant to [§4-77/7] of the Regulation on
 Financial Investment Business;
 
 7. Employee stock ownership associations pursuant to the Article 2/4 of the Framework
@@ -3425,20 +2485,7 @@ June 19, 2017)
 
 55
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-1.  The  issues  whose  trading  has  been  suspended  because  of  filing  the  application  for
+1.  The  issues  whose  trading  has  been  suspended  because  of  filing  the  application  for
 delisting pursuant to [§31] of the Listing Regulation;
 
 2. The issues scheduled to be delisted;
@@ -3477,24 +2524,7 @@ Market Listing Regulation are excluded.
 
 56
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§81. Notification of Brokerage Fee Rate
+§81. Notification of Brokerage Fee Rate
 
 “The period stipulated in the Enforcement Rules” noted in [§69(2)] of the Regulation shall
 mean the notification within five (5) trading days from the effective date of the guideline for
@@ -3536,21 +2566,7 @@ public after ten (10) minutes has elapsed from the beginning of the quotation re
 
 57
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(5) Pursuant  to  [§70(4)]  of the Regulation,  the publication of market  prices related to  the
+(5) Pursuant  to  [§70(4)]  of the Regulation,  the publication of market  prices related to  the
 trading of listed issues shall be disclosed through the disclosure medium.
 
 (6)  Pursuant  to  [§70(4)]  of  the  Regulation,  the  Exchange  may  make  public  any  of  the
@@ -3593,23 +2609,7 @@ the Regulation shall be conducted by the way of entering the matters noted in ea
 
 58
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-following subparagraphs into the Exchange system via member system or member securities
+following subparagraphs into the Exchange system via member system or member securities
 terminals:
 
 1.  Algorithmic trading account number (limited to the account that was reported as an
@@ -3655,38 +2655,25 @@ details of system failures, etc., for 10) years.
 
 59
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-by a member’s inputting all matters in each of the following subparagraphs through member
+by a member’s inputting all matters in each of the following subparagraphs through member
 system. Provided that, in the case where a member reports itself as a high-speed algorithmic
 trader, matters in subparagraphs 1 and 4 shall be excluded:
 
-      1. Matters concerning the fulfilment of the requirement in each subparagraph of  [§70-
+1. Matters concerning the fulfilment of the requirement in each subparagraph of  [§70-
 
 3(1)] of the Regulation;
 
-      2. Information about a customer or member as information that can identify the subject
+2. Information about a customer or member as information that can identify the subject
 
 of registration, such as mane or trade name;
 
-      3. Application for registration in accordance with [Annex: Form No. 18];
+3. Application for registration in accordance with [Annex: Form No. 18];
 
-      4. Confirmation on inspection of registration information, etc. in accordance with [Annex:
+4. Confirmation on inspection of registration information, etc. in accordance with [Annex:
 
 Form No. 19]; and
 
-      5. Other matters that the Exchange deems necessary.
+5. Other matters that the Exchange deems necessary.
 
 (2)  In  the  case  where  there  is  a  change  in  the  matters  registered  or  reported  pursuant  to
 paragraph  (1),  the  member  shall  input  the  changed  matter  through  the  member  securities
@@ -3701,9 +2688,9 @@ may arise from high-speed algorithmic trading. Provided that, with regard to the
 that  occurs  from  high-speed  algorithmic  trading,  any  of  the  following  items  shall  be
 deemed to meet the relevant requirement:
 
-        (a) When a member directly conducts risk management, and
+(a) When a member directly conducts risk management, and
 
-        (b)  Where  a  member  judges  that  the  customer  can  recognize,  evaluate,  monitor,  and
+(b)  Where  a  member  judges  that  the  customer  can  recognize,  evaluate,  monitor,  and
 
 control risks in a timely manner.
 
@@ -3718,21 +2705,7 @@ KOSPI market, KOSDAQ market, KONEX market, and derivatives market for each high-
 
 60
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-speed algorithmic trader who has completed registration and reporting. In such case, the high-
+speed algorithmic trader who has completed registration and reporting. In such case, the high-
 speed algorithmic trader can set the risk management number (referring to the two (2) digit
 number set by the high-speed algorithmic trader to distinguish the range for applying the self-
 match prevention condition pursuant to [§11-2] and the mass order cancellation pursuant to
@@ -3745,11 +2718,11 @@ member system and report it to the Exchange.
 (7) “The case specified in the Enforcement Rules” in [§70-3(5)3] of the Regulation shall refer
 to each of the following subparagraphs:
 
-      1. Where a customer takes out the ordering system from the member computer center,
+1. Where a customer takes out the ordering system from the member computer center,
 
 etc.; or
 
-      2.  Where  the  Exchange  recognizes  that  it  is  necessary  for  investor  protection  or  the
+2.  Where  the  Exchange  recognizes  that  it  is  necessary  for  investor  protection  or  the
 
 stability of trading order in the market and notifies it to the member.
 
@@ -3771,7 +2744,7 @@ subparagraphs, the member can collectively register them as high-speed algorithm
 In such case, the Exchange may issue a single trader registration number that can be jointly
 used by the relevant customers to a specific customer:
 
-      1.  The  customer  shall  be  an  affiliated  corporation  (including  a  foreign  corporation
+1.  The  customer  shall  be  an  affiliated  corporation  (including  a  foreign  corporation
 
 incorporated under foreign laws and regulations) of a specific customer;
 
@@ -3780,20 +2753,7 @@ and
 
 61
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-3. The member shall verify whether the registration requirements stated in [§70-3(1)] of
+3. The member shall verify whether the registration requirements stated in [§70-3(1)] of
 the Regulation are met for all of the multiple customers.
 
 [December 22, 2022]
@@ -3816,19 +2776,19 @@ order  to  verify  whether  the  electronic  systems  including  ordering  syste
 customer has sufficient stability and adequacy to carry out high-speed algorithmic trading as
 specified in each of the following subparagraphs:
 
-    1.  Matters  concerning  inspection  of  electronic  system,  etc.  related  to  the  registration
+1.  Matters  concerning  inspection  of  electronic  system,  etc.  related  to  the  registration
 stated in [§70-3] of the Regulation; A member shall prepare the standards and procedures
 for  electronic  system  inspection,  conduct  the  inspection  of  the  electronic  system
 thoroughly through the linkage tests with trade ordering system by the customer before
 applying for the registration, and file the results with the Exchange;
 
-    2. Matters concerning regular inspection: A member shall inspect the connection with
+2. Matters concerning regular inspection: A member shall inspect the connection with
 the  customer’s  electronic  system  on  a  regular  basis  every  year.  Provided  that,  if  the
 member  conducted  the  inspection  on  a  timely  basis  due  to  the  change  of  electronic
 system, etc. during the relevant year, it shall be deemed that the inspection pursuant to
 the main clause is completed and
 
-      3.  Other  matters  that  the  Exchange  deems  necessary  for  the  stable  operation  of  the
+3.  Other  matters  that  the  Exchange  deems  necessary  for  the  stable  operation  of  the
 
 electronic system, etc.
 
@@ -3839,27 +2799,16 @@ subparagraphs:
 
 62
 
-
-
-
-
-
-
-
-
-
-
-
-    1. Matters concerning the granting of order limits: A member shall grant an appropriate
+1. Matters concerning the granting of order limits: A member shall grant an appropriate
 
 order limit by evaluating the financial stability, credit rating, etc. and check the
 adequacy of the relevant limit on the regular basis;
 
-    2. Matters concerning the monitoring of trades: A member shall monitor and supervise
+2. Matters concerning the monitoring of trades: A member shall monitor and supervise
 whether a customer complies with relevant regulations and internal control standards
 through the monitoring of high-speed algorithmic trading; and
 
-    3. Matters concerning the response to accidents and failures: A member shall prepare
+3. Matters concerning the response to accidents and failures: A member shall prepare
 appropriate control and response system including manuals to effectively cope with
 accidents or failures related to high-speed algorithmic trading of customers and
 minimize damage.
@@ -3868,9 +2817,9 @@ minimize damage.
 Regulation, A member shall record and maintain the following materials for 10 years and
 submit them if the Exchange requests for the market management, etc.
 
-      1. Materials on the registration of high-speed algorithmic traders and their trades; and
+1. Materials on the registration of high-speed algorithmic traders and their trades; and
 
-      2. Results of inspection and supervision conducted pursuant to paragraphs (1) and (2)
+2. Results of inspection and supervision conducted pursuant to paragraphs (1) and (2)
 
 and related materials.
 
@@ -3895,21 +2844,7 @@ Exchange may determine the action date differently.
 
 63
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§84. Public Opinion Gathering
+§84. Public Opinion Gathering
 
 Public opinion gathering pursuant to [§75-2] of the Regulation shall be governed by the
 provisions of [§5] of the Internal Regulations Management Regulation and [§6] of the
@@ -3951,22 +2886,7 @@ be “[§9(7)]”.
 
 64
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[§43-2] shall be deleted.
+[§43-2] shall be deleted.
 
 The provisions of “[§45] or [§47-24]” in [§44/3] shall be “[§45]”, and “[§38(2)]
 or [§47-21(1) & (2)]” in [§44/6] shall be “[§38(2)]”.
@@ -4013,19 +2933,7 @@ and the KOSDAQ Market” shall be “between the KOSPI Market, the KOSDAQ
 
 65
 
-
-
-
-
-
-
-
-
-
-
-
-
-Market and the KONEX Market”.
+Market and the KONEX Market”.
 
 The new provision of [§102/1-2] below shall be established as below:
 
@@ -4070,23 +2978,7 @@ ADDENDA
 
 66
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-These Enforcement Rules shall become effective on March 3, 2014.
+These Enforcement Rules shall become effective on March 3, 2014.
 
 §2. Exception in Applying Temporary Halt of the KONEX Market
 
@@ -4128,28 +3020,7 @@ confirmation.
 
 67
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 (September 19, 2014)
 
 These Enforcement Rules  shall become effective on  November 17, 2014. However, the
@@ -4180,40 +3051,16 @@ ADDENDA
 These  Enforcement  Rules  shall  become  effective  on  June  29,  2015.Provided  that  the
 amended provisions of [§74-2] shall become effective on July 27, 2015.
 
-§2. Effective Date of the KONEX Market Business Regulation
-
 “The  date  set  by  the  Enforcement  Rules”  in  the  ADDENDUM  of  the  KOSADQ  Market
 Business Regulation, Regulation No. 1183 (amended on May 15, 2015), shall refer to June
 29, 2015. However, it refers to July 27, 2015, as for the amended provisions of [§62-2] of the
-Regulation.
 
 ADDENDA
 (July 20, 2015)
 
 68
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§1. Effective Date
+§1. Effective Date
 
 These Enforcement Rules shall become effective on July 27, 2015.Provided that the amended
 provisions of [§19(5)] shall put into effect on the effective date of the amended provisions
@@ -4257,26 +3104,6 @@ separately.
 
 69
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§2. Effective Date of the KONEX Market Business Regulation
-
 “The date determined in the Enforcement Rules” in the ADDENDUM of the KONEX Market
 Business Regulation, Regulation No. 1250 (amended on November 4, 2015),shall refer to the
 date separately determined by the Exchange by taking into consideration the time required to
@@ -4318,28 +3145,7 @@ These Enforcement Rules shall become effective on June 26, 2017.
 
 70
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDA
+ADDENDA
 (September 20, 2017)
 
 These Enforcement Rules shall become effective on September 25, 2017.
@@ -4382,25 +3188,7 @@ September 24, 2019. Provided that, in the case of a security falling under subpa
 
 71
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2. In the case of subparagraphs 3 and 4 of [§46-9(1)]: 20/100 from the effective date of
+2. In the case of subparagraphs 3 and 4 of [§46-9(1)]: 20/100 from the effective date of
 these Enforcement Rules to September 24, 2018; and 15/100 from September 25, 2018 to
 September 24, 2019.
 
@@ -4437,33 +3225,12 @@ amended  provisions  of  [§18(4)]  shall  become  effective  on  the  trading  
 effective date of the amendments to the related matters in [Table 1] of the General Credit
 Information Management Agreement of the Korea Credit Information Services.
 
-§2. Effective Date of the KONEX Market Business Regulation
-
 “The date set by the Enforcement Rules” in the Addenda of the KONEX Market Business
 Regulation, Regulation No.1607 (amended on December 5, 2018; referred to as “Regulation”
 
 72
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-hereinafter in these addenda) shall refer to the effective date pursuant to the proviso to [§1]
+hereinafter in these addenda) shall refer to the effective date pursuant to the proviso to [§1]
 above.
 
 §3. Applicable Cases
@@ -4508,23 +3275,7 @@ companies  which  listed  their  shares  prior  to  three  (3)  years  of  the  
 
 73
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-amendment.
+amendment.
 
 §1. Effective Date
 
@@ -4532,8 +3283,6 @@ ADDENDA
 (July 22, 2019)
 
 These Enforcement Rules shall become effective on July 29, 2019.
-
-§2. Effective Date of the KONEX Market Business Regulation
 
 “The date set by the Enforcement Rules” in the proviso to the ADDENDUM of the KONEX
 Market Business Regulation, Regulation No. 1696 (amended on July 10, 2019), in the case
@@ -4555,8 +3304,6 @@ These Enforcement Rules shall become effective on December 2, 2019.  Provided th
 amended provisions of [§46-5] shall take effect on July 1, 2020. (Amended on March 17,
 2020; June 15, 2020)
 
-§2. Effective Date of the KONEX Market Business Regulation
-
 “The date set by the Enforcement Rules” in the proviso to the ADDENDUM of the KOSDAQ
 Market Business Regulation, Regulation No. 1696 (amended on July 10, 2019), in the case
 of the amended provisions of [§34-7] and [§34-8] of the Regulation concerning imposition
@@ -4565,26 +3312,7 @@ and release from imposition of additional intraday member margins, shall refer t
 
 74
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 (March 9, 2020)
 
 These Enforcement Rules shall become effective on March 9, 2020.
@@ -4626,28 +3354,7 @@ Provisions of [§19] shall be established as follow.
 
 75
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§19. Public opinion gathering
+§19. Public opinion gathering
 
 Public opinion gathering pursuant to [§47-2] of the Regulation shall be governed
 by the provisions of [§5] of the Internal Regulations Management Regulation and
@@ -4688,30 +3395,7 @@ ADDENDA
 
 76
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§1. Regulation on the Enforcement Rules of the KOSDAQ Market Listing Regulation
+§1. Regulation on the Enforcement Rules of the KOSDAQ Market Listing Regulation
 
 The  wholly  amended  KOSDAQ  Market  Listing  Regulation,  Regulation  No.  1977,  shall
 become  effective  on  November  1,  2021.  Provided  that  the  amended  provisions  of
@@ -4756,25 +3440,7 @@ ADDENDA
 
 77
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-These  Enforcement  Rules  shall  become  effective  on  May  2,  2022.    Provided  that,  the
+These  Enforcement  Rules  shall  become  effective  on  May  2,  2022.    Provided  that,  the
 amended provisions of [§7], [§9], [§35], [§74], [§74-2] and [§79-2] shall be effective from
 May 30, 2022.
 
@@ -4819,29 +3485,7 @@ ADDENDA
 
 78
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(December 22, 2022)
+(December 22, 2022)
 
 §1. Effective Date
 
@@ -4886,29 +3530,7 @@ This Regulation shall become effective on March 4, 2025.
 
 79
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-as follows:
+as follows:
 
 Chapter 4 ([§45 through 63-2]) shall be deleted. [§75-2 through 80] shall be deleted.
 [Annex 3 through 7] and [Annex: Form No. 11 through 15] shall be deleted.
@@ -4930,44 +3552,7 @@ This Regulation shall become effective on February 9, 2026.
 
 80
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex  1]  Guidelines  for  Calculation  of  Lowest  and  Highest  Quotation  Prices  for
+[Annex  1]  Guidelines  for  Calculation  of  Lowest  and  Highest  Quotation  Prices  for
 Determination of the First Price of Initially Listed Issues, etc.
 (Amended on July 20, 2015; April 25, 2016; May 29, 2017; June 26, 2018; December 28, 2018; September
 30, 2022)
@@ -5013,19 +3598,7 @@ shall be calculated by applying each calculation method in the order of the effe
 
 81
 
-
-
-
-
-
-
-
-
-
-
-
-
-(i) In cases where the public offering or the secondary distribution is made within
+(i) In cases where the public offering or the secondary distribution is made within
 one year after submitting the application for listing eligibility review (hereinafter
 “date of listing application”) pursuant to [§12] or [§13-2] of the Listing Regulation,
 the issue price at the time of public offering or the secondary distribution (in cases
@@ -5070,11 +3643,7 @@ common stocks, convertible bonds, and bonds with warrants, the number of stocks
 
 82
 
-
-
-
-
-issued shall be calculated supposing the conversion or issuance of common stocks
+issued shall be calculated supposing the conversion or issuance of common stocks
 are  exercised;  the  same  hereinafter  in  this  subparagraph).  For  the  calculation,
 however, different weight is applied as follows: 500/100 for those securities issued
 after the day of one year prior to the application of initial listing; 400/100 for those
@@ -5101,13 +3670,13 @@ time 3% or more of the total number of securities issued when counting in the
 results  of  private  placements  starting  with  the  latest  one  from  the  date  of
 initial listing application.
 
-                    * Note: It shall refer to cases that meet all of following requirements:
-                        i) Considering the investment purpose and business relevance of the relevant
+* Note: It shall refer to cases that meet all of following requirements:
+i) Considering the investment purpose and business relevance of the relevant
 stock-listed corporation, etc. comprehensively, it shall be recognized that
 the  investment  is  carried  out  for  strategic  cooperation  with  the  applicant
 corporation for initial listing;
 
-                        ii) The stock-listed corporation shall not be a specially-related person of the
+ii) The stock-listed corporation shall not be a specially-related person of the
 corporation applying for initial listing (referring to a person falling under
 any of each Subparagraph of Article 3(1) of the Enforcement Decree of the
 Governance Structure of Financial Companies, etc.;
@@ -5123,13 +3692,7 @@ that
 
 83
 
-
-
-
-
-
-
-iv) The relevant stock-listed corporation shall not be a corporation that falls
+iv) The relevant stock-listed corporation shall not be a corporation that falls
 under the  causes  for delisting, a corporation that is  subject  to  the listing
 maintenance review, a corporation that is designated as an administrative
 issue, or a corporation that is designated as an investment caution issue in
@@ -5174,19 +3737,7 @@ by the number of shares issued);
 
 84
 
-
-
-
-
-
-
-
-
-
-
-
-
-c) As a case other than those noted in a) and b) above, if the different classes of
+c) As a case other than those noted in a) and b) above, if the different classes of
 stocks have the record of public offering or secondary distribution falling under
 the  subparagraph  1(a)(iii),the  price  calculated  according  to  the  method  of  the
 subparagraph 1(a)(iii); and,
@@ -5233,14 +3784,7 @@ to the balance sheet in the audit (or review) report of an external auditor, tha
 
 85
 
-
-
-
-
-
-
-
-net asset values of the issue with listing change as of the authorization date of listing
+net asset values of the issue with listing change as of the authorization date of listing
 application are different from those stated in the report on completion of split-off
 or the post-issuance report submitted with respect to the split-off or merger after
 split-off, the net asset split-off ratio may be determined differently.
@@ -5287,15 +3831,7 @@ stocks before the relevant paid-in capital increase by the third party allotment
 
 86
 
-
-
-
-
-
-
-
-
-the lowest price among the quotation price units shall be the lowest quotation price,
+the lowest price among the quotation price units shall be the lowest quotation price,
 and the amount pursuant to the following formula is not ‘positive’ quantity, the lowest
 quotation  price  shall  be  the  lowest  price  among  the  quotation  price  units  and  the
 highest  quotation  price  shall  be  the  closing  price  of  the  last  trading  before  trade
@@ -5342,14 +3878,7 @@ price of the last trading day before the capital reduction, the closing price of
 
 87
 
-
-
-
-
-
-
-
-day shall be the maximum quotation price, and if the appraisal price is not “positive”,
+day shall be the maximum quotation price, and if the appraisal price is not “positive”,
 the closing price of previous day shall be the maximum quotation price.
 
   Appraisal  price  =  [(Closing  price  of  the  last  trading  day  before  the  capital
@@ -5394,17 +3923,7 @@ subparagraphs  concerned  shall  be  applied.  [Latter  part  established  on  J
 
 88
 
-
-
-
-
-
-
-
-
-
-
-1. Application rate when determining the lowest quotation price
+1. Application rate when determining the lowest quotation price
 
 (a) For common stocks initially listed: 90/100
 
@@ -5444,23 +3963,7 @@ them. (Amended on July 20, 2015)
 
 89
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Application for Mass Order Cancellation, etc.
+Application for Mass Order Cancellation, etc.
 (Pertaining to [§12-2(1)] of the Enforcement Rules)
 
 * Securities shall be entered by selecting one from the securities list.
@@ -5511,20 +4014,7 @@ inputting those quotations
 
 90
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex 2] Method of Calculating Base Price of Issues gone Ex-dividend and Ex-right
+[Annex 2] Method of Calculating Base Price of Issues gone Ex-dividend and Ex-right
 
 Method of Calculating Base Price of Issus gone Ex-dividend and Ex-right
 (Pertaining to [§25(1)6] of the Enforcement Rules)
@@ -5568,22 +4058,7 @@ common stocks)] / Number of common stocks before dividends
 
 91
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ii. Base price of different classes of stocks = (Closing price of cum dividend different
+ii. Base price of different classes of stocks = (Closing price of cum dividend different
 classes of stocks × Number of different classes of stocks before dividends) / (Number
 of different classes of stocks before dividend + Number of different classes of stocks
 paid as dividends to shareholders of different classes of stocks)
@@ -5630,18 +4105,7 @@ classes of stocks – Base price of different classes of stocks) × Number of di
 
 92
 
-
-
-
-
-
-
-
-
-
-
-
-classes  of  stocks  allotted  to  shareholders  of  common  stocks}]  /  Number  of
+classes  of  stocks  allotted  to  shareholders  of  common  stocks}]  /  Number  of
 common stocks before rights offering
 
 ii) Base price of different classes of stocks = [(Closing price of cum rights different
@@ -5689,17 +4153,7 @@ day of calculation as “three (3) day before the day on which the shareholder�
 
 93
 
-
-
-
-
-
-
-
-
-
-
-Issuing price = [Base stock price × (1 - Discount rate)]/ [1+ Ratio of bonus issue + (Ratio of paid-
+Issuing price = [Base stock price × (1 - Discount rate)]/ [1+ Ratio of bonus issue + (Ratio of paid-
 in capital increase × Discount rate)]
 
 4. “Number of stocks paid as dividend or allocated to the shareholders of common stocks (different
@@ -5710,119 +4164,27 @@ or capital increase.
 
 94
 
-
-
-
-
-[Annex 3] [Deleted on February 27, 2025]
+[Annex 3] [Deleted on February 27, 2025]
 
 95
 
-
-
-
-
-[Annex 4] [Deleted on February 27, 2025]
+[Annex 4] [Deleted on February 27, 2025]
 
 96
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex 5] [Deleted on February 27, 2025]
+[Annex 5] [Deleted on February 27, 2025]
 
 97
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex 6] [Deleted on February 27, 2025]
+[Annex 6] [Deleted on February 27, 2025]
 
 98
 
-
-
-
-
-[Annex 7] [Deleted on February 27, 2025]
+[Annex 7] [Deleted on February 27, 2025]
 
 99
 
-
-
-
-[Annex: Form No. 1] Notification of Unsettled Trades
+[Annex: Form No. 1] Notification of Unsettled Trades
 (Amended on December 29, 2025)
 
 Notification of Unsettled Trades
@@ -5841,7 +4203,7 @@ Date: mm/dd/yyyy
 Company name:
 Director of the Department in charge:              (seal)
 
-                                                                                                                              (Unit: shares)
+(Unit: shares)
 
 Settlement
 Date
@@ -5873,33 +4235,12 @@ settlement failure falls under item 4 and also falls under items 1 through 3, en
 
 100
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 2] Request for Trading of Treasury Stocks (Under Trust Contract)
+[Annex: Form No. 2] Request for Trading of Treasury Stocks (Under Trust Contract)
 of Listed Corporations
 (Amended on October 30, 2014)
 
 Request for Trading of Treasury Stocks (Under Trust Contract) of
 Listed Corporations
-
-To: Korea Exchange
 
 In  accordance  with  [§14]  to  [§16]  of  the  KONEX  Market  Business  Regulation,  we,  the
 undersigned, hereby submit a request for trading of treasury stocks of the listed corporation
@@ -5920,7 +4261,6 @@ Notes:
 opening” and “during the session”) or “the off-hours session (off-hours block trading)”.
 3. In “Remarks” column, write down “price limit not applied” in cases of receiving an order from a
 KONEX-listed  company  that  intends  to  acquire  its  treasury  stocks  pursuant  to  [§26-2(3)]  of  the
-Regulation.
 
 Date:
 
@@ -5930,35 +4270,10 @@ Name and seal of representative director:
 
 101
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 3] Notification of Details of Agreement for Liquidity Provision
+[Annex: Form No. 3] Notification of Details of Agreement for Liquidity Provision
 (Amended on April 17, 2019)
 
 Notification of Details of Agreement for Liquidity Provision
-
-To: Korea Exchange
 
 In accordance with [§17(6)] of the KONEX Market Business Regulation and [§22(3)] of the
 Enforcement Rules thereof, we, the undersigned, hereby notify the details of agreement on
@@ -5985,7 +4300,6 @@ quotation  again  pursuant  to  [§22(4)]  of  the  Enforcement  Rules  of  the 
 Regulation. In this case, indicate the relevant matter in the remarks.
 2. In the case of amendment, the details before and after the amendment should be stated separately.
 3. The quotation spread ratio refers to the ratio pursuant to [§18(3)] of the KONEX Market Business
-Regulation.
 4. Reasons for exempting the obligation to submit liquidity providing quotation refers to the details
 stipulated  in  [§22(1)6]  or  [§22(1)7]  of  the  Enforcement  Rules  of  the  KONEX  Market  Business
 Regulation if such details have been agreed on.
@@ -5994,34 +4308,9 @@ Attachment: A copy of the Agreement for Liquidity Provision
 
 102
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 4] Request for One-sided Auction
+[Annex: Form No. 4] Request for One-sided Auction
 
 Request for One-sided Auction
-
-To: Korea Exchange
 
 In accordance with [§27(6)] of the KONEX Market Business Regulation and [§35(1)] of the
 Enforcement  Rules  thereof,  we,  the  undersigned,  hereby  submit  a  request  for  one-sided
@@ -6042,33 +4331,7 @@ Name and seal of representative director:
 
 103
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 5] Request for Correction of Transaction Errors
+[Annex: Form No. 5] Request for Correction of Transaction Errors
 
 Request for Correction of Transaction Errors
 
@@ -6093,47 +4356,7 @@ Name and seal of company:
 
 104
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 6] Agreement on Correction of Transaction Errors
+[Annex: Form No. 6] Agreement on Correction of Transaction Errors
 
 Agreement on Correction of Transaction Errors
 
@@ -6177,17 +4400,7 @@ settling the profits or losses incurred, regarding the method of settling profit
 
 105
 
-
-
-
-
-
-
-
-
-
-
-ex-rights or ex-dividend occurs to the products assumed and any other matters that are not
+ex-rights or ex-dividend occurs to the products assumed and any other matters that are not
 stipulated in this agreement, such difference shall be resolved through the consultation and
 mutual agreement between the two (2) parties.
 
@@ -6210,15 +4423,7 @@ Name and seal of representative director
 
 106
 
-
-
-
-
-
-
-
-
-[Annex: Form No. 7] Written Request for Correction of Transaction Errors
+[Annex: Form No. 7] Written Request for Correction of Transaction Errors
 
 Written Request for Correction of Transaction Errors
 
@@ -6250,66 +4455,10 @@ Quantity  Price  Remarks
 
 107
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 8] Notification of Correction of Transaction Errors
+[Annex: Form No. 8] Notification of Correction of Transaction Errors
 
 Notification of Correction of Transaction Errors
 
-To: Korea Exchange
 Attn: KONEX Market Division
 
 In  accordance  with  Article  2  of  the  Agreement  for  Correction  of  Transaction  Errors,  we
@@ -6318,7 +4467,7 @@ hereby notify the results of trading the products that we assumed.
 Date:
 Name  and  seal  of  the  head  of  department  in
 charge of prop trading:
-                                                                    xxx Securities Company
+xxx Securities Company
 
 Details of Products Assumed by Transaction Errors
 
@@ -6352,29 +4501,7 @@ Traded
 
 108
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 9] Request for Settlement for Handling Transaction Errors
+[Annex: Form No. 9] Request for Settlement for Handling Transaction Errors
 
 Request for Settlement for Handling Transaction Errors
 
@@ -6439,59 +4566,7 @@ Amount to be settled (E)
 
 109
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex:  Form  No.  10]Request  for  Settlement  Adjustment  for  Handling  Transaction
+[Annex:  Form  No.  10]Request  for  Settlement  Adjustment  for  Handling  Transaction
 Errors
 
 Request for Settlement Adjustment for Handling Transaction Errors
@@ -6557,62 +4632,11 @@ Amount to be settled (E)
 
 110
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 10-2] Application for Cash Transaction
+[Annex: Form No. 10-2] Application for Cash Transaction
 [October 30, 2014]
 
 Application for Cash Transaction
 
-To: Korea Exchange
 Attn: KONEX Market Division
 
 In accordance with the [§8(4)] of the KONEX Market Business Regulation and [§4/1] of the
@@ -6640,148 +4664,32 @@ Remarks
 
 111
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 11] [Deleted on February 27, 2025]
+[Annex: Form No. 11] [Deleted on February 27, 2025]
 
 112
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 12] [Deleted on February 27, 2025]
+[Annex: Form No. 12] [Deleted on February 27, 2025]
 
 113
 
-
-
-[Annex: Form No. 13] [Deleted on February 27, 2025]
+[Annex: Form No. 13] [Deleted on February 27, 2025]
 
 114
 
-
-
-
-
-[Annex: Form No. 14] [Deleted on February 27, 2025]
+[Annex: Form No. 14] [Deleted on February 27, 2025]
 
 115
 
-
-
-
-
-
-[Annex: Form No. 15] [Deleted on February 27, 2025]
+[Annex: Form No. 15] [Deleted on February 27, 2025]
 
 [Annex: Form No. 16] [Deleted on January 15, 2026]
 
 116
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 17] Report on Algorithmic Trading Accounts
+[Annex: Form No. 17] Report on Algorithmic Trading Accounts
 [December 22, 2022]
 
 Report on Algorithmic Trading Accounts
-
-To: Korea Exchange
 
 In accordance with [§82-2] of the Enforcement Rules of KONEX Market Business Regulation,
 we hereby report the opening, changing or closing of algorithmic trading accounts as follows.
@@ -6824,42 +4732,10 @@ Notes:
 
 117
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 18] Application (Report) for Registration of High-speed Algorithmic Trader
+[Annex: Form No. 18] Application (Report) for Registration of High-speed Algorithmic Trader
 [December 22, 2022]
 
 Application (Report) for Registration of High-speed Algorithmic Trader
-
-To: Korea Exchange
 
 According to [§82-4(1)] of the Enforcement Rules of KONEX Market Business Regulation,
 we hereby apply (report) for the registration of high-speed algorithmic trader as follows.
@@ -6887,7 +4763,7 @@ Date of birth
 Phone number
 Individual or group**
 
-  Individual  □    Group  □
+Individual  □    Group  □
 
 Member  □      General  □
 
@@ -6914,40 +4790,12 @@ KOSPI  □  KOSDAQ  □  Derivative market  □  KONEX  □
 
 118
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Annex: Form No. 19] Confirmation on Inspection of Registration Information of High-
+[Annex: Form No. 19] Confirmation on Inspection of Registration Information of High-
 speed Algorithmic Trader
 [December 22, 2022]
 
 Confirmation on Inspection of Registration Information of
 High-speed Algorithmic Trader
-
-To: Korea Exchange
 
 Corporation
 

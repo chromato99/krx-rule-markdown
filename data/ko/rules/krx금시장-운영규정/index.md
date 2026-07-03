@@ -2,7 +2,7 @@
 id: "210188671"
 title: "KRX금시장 운영규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:56:05.617930Z"
+collected_at: "2026-07-03T21:10:38.211896Z"
 content_hash: "76b6e42571b9fe1f7224f594e652d069798946268379bac9abe12c50fd4069d3"
 document_type: "rule"
 language: "ko"

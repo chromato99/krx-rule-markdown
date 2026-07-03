@@ -2,7 +2,7 @@
 id: "204848017"
 title: "KRX석유시장 이용계약서"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:02:16.572382Z"
+collected_at: "2026-07-03T21:16:55.326745Z"
 content_hash: "60d2c7b48cfcdf3f734ea48e355f042a91044da415e096f6ade9471891e24883"
 document_type: "rule"
 language: "ko"

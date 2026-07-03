@@ -2,7 +2,7 @@
 id: "210222386"
 title: "시장감시규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:53:22.226059Z"
+collected_at: "2026-07-03T21:07:53.741662Z"
 content_hash: "b05755aa9304036a9ee89e2f7762392d85a931b3ff76332075aeb1c7a1c8e372"
 document_type: "rule"
 language: "ko"
@@ -90,7 +90,6 @@ attachments:
     converted_text_chars: 728
     converted_non_space_chars: 565
     table_row_count: 1
-    formula_hint_count: 1
   - id: "210222386-202410150000022530000006008-byl-hwp"
     title: "[별지 제8호 서식] 출석요청서<개정 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_출석요청서.hwp"
@@ -203,7 +202,6 @@ attachments:
     converted_text_chars: 2418
     converted_non_space_chars: 1561
     table_row_count: 1
-    formula_hint_count: 1
   - id: "210222386-210036234-hwp"
     title: "[별지 제14호의3 서식] 사실관계확인서<신설 2025. 3. 14.>"
     file_name: "시장감시규정 시행세칙_74차_"
@@ -220,7 +218,6 @@ attachments:
     converted_text_chars: 501
     converted_non_space_chars: 430
     table_row_count: 1
-    formula_hint_count: 1
   - id: "210222386-210036248-hwp"
     title: "[별지 제14호의4 서식] 자료제출요구서<신설 2021.3.12,개정 2025. 3. 14.>"
     file_name: "시장감시규정 시행세칙_74차_자료제출요구서.hwp"
@@ -237,7 +234,6 @@ attachments:
     converted_text_chars: 384
     converted_non_space_chars: 314
     table_row_count: 1
-    formula_hint_count: 1
   - id: "210222386-210068401-hwp"
     title: "[별지 제15호 서식] 회원제재금 부과 통지서<개정 2009.2.3, 2011.12.26, 2024.1.30,2025. 5. 15.>"
     file_name: "시장감시규정 시행세칙_74차_회원제재금부과통지서.hwp"
@@ -253,7 +249,6 @@ attachments:
     quality_score: 100
     converted_text_chars: 606
     converted_non_space_chars: 454
-    formula_hint_count: 2
   - id: "210222386-202410150000022530000006017-byl-hwp"
     title: "[별지 제15-2호 서식] 서면의견진술서<신설 2006.11.30, 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_서면의견진술서.hwp"
@@ -270,7 +265,6 @@ attachments:
     converted_text_chars: 535
     converted_non_space_chars: 398
     table_row_count: 5
-    formula_hint_count: 1
   - id: "210222386-202410150000022530000006020-byl-hwp"
     title: "[별지 제15-5호서식] 징계내역 확인 요청서<개정 2021.9.14>"
     file_name: "시장감시규정 시행세칙_74차_징계내역확인요청서.hwp"
@@ -287,7 +281,6 @@ attachments:
     converted_text_chars: 403
     converted_non_space_chars: 312
     table_row_count: 3
-    formula_hint_count: 1
   - id: "210222386-202410150000022530000006021-byl-hwp"
     title: "[별지 제15-6호서식] 개인정보 제공 동의서<신설 2014.6.26>"
     file_name: "시장감시규정 시행세칙_74차_개인정보제공동의서.hwp"
@@ -304,7 +297,6 @@ attachments:
     converted_text_chars: 855
     converted_non_space_chars: 671
     table_row_count: 5
-    formula_hint_count: 1
   - id: "210222386-202410150000022530000006022-byl-hwp"
     title: "[별지 제15-7호서식] 징계내역 통보서<개정 2021.9.14>"
     file_name: "시장감시규정 시행세칙_74차_징계내역통보서.hwp"
@@ -321,7 +313,6 @@ attachments:
     converted_text_chars: 583
     converted_non_space_chars: 425
     table_row_count: 7
-    formula_hint_count: 1
   - id: "210222386-210068447-hwp"
     title: "[별지 제16호 서식] 약식제재금 부과 통지서<개정 2009.2.3, 2021.9.14, 2022.6.15, 2024.1.30,2025. 5. 15.>"
     file_name: "시장감시규정 시행세칙_74차_약식제재금부과통지서.hwp"
@@ -337,7 +328,6 @@ attachments:
     quality_score: 100
     converted_text_chars: 609
     converted_non_space_chars: 461
-    formula_hint_count: 2
   - id: "210222386-202410150000022530000006024-byl-hwp"
     title: "[별지 제17호 서식] 컨설팅 요청서<신설 2016.4.18>"
     file_name: "시장감시규정 시행세칙_74차_컨설팅요청서.hwp"
@@ -386,7 +376,6 @@ attachments:
     converted_text_chars: 916
     converted_non_space_chars: 665
     table_row_count: 7
-    formula_hint_count: 2
   - id: "210222386-202410150000022530000006027-byl-hwp"
     title: "[별지 제20호 서식] 위법·위규행위 발생사실 신고서<신설 2023.06.07>"
     file_name: "시장감시규정 시행세칙_74차_위법·위규행위발생사실신고서.hwp"
@@ -451,7 +440,7 @@ attachments:
     converted_text_chars: 2278
     converted_non_space_chars: 1766
     table_row_count: 8
-    formula_hint_count: 12
+    formula_hint_count: 2
 ---
 
 제1장 총칙

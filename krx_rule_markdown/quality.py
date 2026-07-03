@@ -21,11 +21,14 @@ from .models import (
 
 REPORT_VERSION = "0.1.0"
 FORMULA_RE = re.compile(
-    r"(≤|≥|≠|±|×|÷|√|∑|∫|∞|∂|→|←|"
-    r"\b[A-Za-z]\s*[=<>]\s*[-+0-9A-Za-z(]|[0-9]\s*[+\-*/]\s*[0-9]|"
+    r"(≤|≥|≠|±|×|÷|∑|∫|∞|∂|→|←|"
+    r"√(?:\s*[\(\{]|[0-9A-Za-z가-힣])|"
+    r"\b[A-Za-z]\s*=\s*[-+0-9A-Za-z(]|[0-9]\s*[+*]\s*[0-9]|"
     r"\b(?:hat|sum|Isum|LEFT|RIGHT|over|sqrt|root|matrix|dmatrix)\b|"
-    r"수식\s+\d+:|```hwp-equation)"
+    r"수식\s+\d+:|```(?:hwp-equation|math))"
 )
+FORMULA_BLOCK_RE = re.compile(r"^```(?:hwp-equation|math)\s*$", re.MULTILINE)
+SOURCE_FORMULA_BLOCK_RE = re.compile(r"^```hwp-equation\s*$", re.MULTILINE)
 
 
 @dataclass
@@ -37,6 +40,7 @@ class AttachmentQuality:
     non_space_chars: int
     line_count: int
     table_row_count: int
+    formula_block_count: int
     formula_hint_count: int
     replacement_char_count: int
     raw_table_hint_count: int = 0
@@ -48,6 +52,7 @@ def inspect_attachment_quality(text: str, raw_path: Path | None = None) -> Attac
     non_space_chars = sum(1 for ch in text if not ch.isspace())
     lines = [line.rstrip() for line in text.splitlines() if line.strip()]
     table_row_count = sum(1 for line in lines if is_table_like_line(line))
+    formula_block_count = preserved_formula_count(text)
     formula_hint_count = len(FORMULA_RE.findall(text))
     replacement_char_count = text.count("\ufffd")
     raw_table_hints, raw_formula_hints = raw_structure_hints(raw_path)
@@ -87,6 +92,7 @@ def inspect_attachment_quality(text: str, raw_path: Path | None = None) -> Attac
         non_space_chars=non_space_chars,
         line_count=len(lines),
         table_row_count=table_row_count,
+        formula_block_count=formula_block_count,
         formula_hint_count=formula_hint_count,
         replacement_char_count=replacement_char_count,
         raw_table_hint_count=raw_table_hints,
@@ -109,6 +115,13 @@ def is_table_like_line(line: str) -> bool:
         return False
     meaningful = sum(1 for cell in cells if re.search(r"[0-9A-Za-z가-힣]", cell))
     return meaningful >= 2
+
+
+def preserved_formula_count(text: str) -> int:
+    source_blocks = len(SOURCE_FORMULA_BLOCK_RE.findall(text))
+    if source_blocks:
+        return source_blocks
+    return len(FORMULA_BLOCK_RE.findall(text))
 
 
 def raw_structure_hints(raw_path: Path | None) -> tuple[int, int]:
@@ -158,6 +171,7 @@ def apply_quality(att: Attachment, quality: AttachmentQuality) -> Attachment:
     att.converted_text_chars = quality.text_chars
     att.converted_non_space_chars = quality.non_space_chars
     att.table_row_count = quality.table_row_count
+    att.formula_block_count = quality.formula_block_count
     att.formula_hint_count = quality.formula_hint_count
     att.replacement_char_count = quality.replacement_char_count
     return att
@@ -170,6 +184,7 @@ def mark_quality_failure(att: Attachment, flag: str) -> Attachment:
     att.converted_text_chars = 0
     att.converted_non_space_chars = 0
     att.table_row_count = 0
+    att.formula_block_count = 0
     att.formula_hint_count = 0
     att.replacement_char_count = 0
     return att
@@ -178,6 +193,11 @@ def mark_quality_failure(att: Attachment, flag: str) -> Attachment:
 def audit_data_quality(data_dir: Path, *, update_metadata: bool = False) -> dict:
     data_dir = Path(data_dir)
     docs = load_documents(data_dir)
+    original_metadata = (
+        {doc.id: document_metadata_fingerprint(doc) for doc in docs}
+        if update_metadata
+        else {}
+    )
     attachment_count = 0
     status_counts: Counter[str] = Counter()
     extension_counts: Counter[str] = Counter()
@@ -217,10 +237,20 @@ def audit_data_quality(data_dir: Path, *, update_metadata: bool = False) -> dict
         "issues": issues,
     }
     if update_metadata:
-        for doc in docs:
+        changed_docs = [
+            doc
+            for doc in docs
+            if document_metadata_fingerprint(doc) != original_metadata.get(doc.id)
+        ]
+        for doc in changed_docs:
             write_document(data_dir, doc)
-        write_manifest(data_dir, docs)
+        if changed_docs:
+            write_manifest(data_dir, docs)
     return report
+
+
+def document_metadata_fingerprint(doc: Document) -> str:
+    return json.dumps(doc.to_mapping(), ensure_ascii=False, sort_keys=True)
 
 
 def issue_quality_for_converted(

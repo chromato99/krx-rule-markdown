@@ -11,97 +11,15 @@ This English version does not warrant or assume any liability or responsibility 
 accuracy, completeness or usefulness of any information contained herein. Only Korean
 version shall be deemed authentic.
 
+TABLE OF CONTENTS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-Chapter I. General Provisions ............................................................................................ 3
-§1. Purpose ................................................................................................................. 3
-Chapter II. Listing of Class X Beneficiary Certificates of a Multiple Class Fund ............ 3
-§2. Listing Agreement ............................................................................................... 3
-§3. Application Documents for Preliminary Listing Review .................................... 3
-§4. Initial Listing ........................................................................................................ 3
-§5. Application Documents for Supplementary Listing and Listing Change ............ 4
-§6. Designation of Administrative Issues .................................................................. 4
 Chapter  III.  Reporting  and  Disclosure  of  Listed  Entities  with  Class  X  Beneficiary
-Certificates of a Multiple Class Fund ................................................................................ 4
-§7. Reporting Obligation ........................................................................................... 4
-Chapter IV. Market Operation, Trading, Clearing and Settlement, etc. ............................ 5
-§8. Base Price............................................................................................................. 5
-§9. Liquidity Providing Members .............................................................................. 7
-§10. Obligation to Submit Liquidity Providing Quotations ...................................... 7
-§11. Method of Submitting Liquidity Providing Quotations ..................................... 7
-§12. Exceptions to Submission of Two-sided Quotations ......................................... 8
-§13. Restrictions on Submitting Liquidity Providing Quotations ............................. 9
-§14. Assessment of Liquidity Providing Members.................................................... 9
-§15. Criteria for Replacing Liquidity Providing Members ...................................... 10
-§16. Quotation Quantity Unit .................................................................................. 10
-§17. Trading Quantity Unit ...................................................................................... 11
 §18.  Change  of  Trade  Execution  Methods,  etc.  by  Issue  and  Announcement  of
-Change ..................................................................................................................... 11
-Chapter V. Supplementary Provisions ............................................................................. 11
-§19. Listing Fees and Annual Dues ......................................................................... 11
-[Appendix 1] Application Documents for Preliminary Listing Review .................. 13
-[Appendix 2] Application Documents for Initial Listing ........................................ 14
 [Appendix 3] Guidelines for Listing Review of Class X Beneficiary Certificates .. 15
-[Appendix 4] Application Documents for Supplementary Listing .......................... 18
-[Appendix 5] Application Documents for Listing Change ...................................... 19
 [Appendix 6] Timing of Designation and Revocation of Administrative Issue Status
-.................................................................................................................................. 20
-[Appendix 7] Listing Fees and Annual Dues ........................................................... 21
-[Appendix Form No. 1] Listing Agreement ............................................................ 25
 [Appendix Form No. 2] Application for Supplementary Listing / Listing Change . 28
-[Appendix Form No. 3] Report of Liquidity Provision Account............................. 29
 
-
-
-
-
-
-
-
-
-
-Enforcement Rules on Regulations on the Market Operation of
+Enforcement Rules on Regulations on the Market Operation of
 Class X Beneficiary Certificates
 of a Multiple Class Fund
 
@@ -142,28 +60,7 @@ cases  where  bond-based  (including  bond  derivative-based)  class  X  benefic
 under Appendix 15 of the Enforcement Rules of Regulations on Business and Operation of
 Financial Investment Companies of the Korea Financial Investment Association are listed.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(4)  The  listing  review  criteria  class  X  beneficiary  certificates  pursuant  to  [§6(3)]  of  the
+(4)  The  listing  review  criteria  class  X  beneficiary  certificates  pursuant  to  [§6(3)]  of  the
 Regulation shall be as specified in Appendix 3.
 
 (5) Pursuant to [§6(6)] of the Regulation, an initial listing applicant may omit the submission
@@ -201,34 +98,15 @@ the included assets as of the end of each month.
 (3) “Cases prescribed by the Enforcement Rules” in [§14(1)8] of the Regulation shall refer to
 any of following subparagraphs:
 
-    1. In the event that any of the following resolutions, decisions, or facts occur in relation to
+1. In the event that any of the following resolutions, decisions, or facts occur in relation to
 
 class X beneficiary certificates:
 
-        (a) Where there is a change in registration pursuant to Article 182, Paragraph 8 of the Act
+(a) Where there is a change in registration pursuant to Article 182, Paragraph 8 of the Act
 
 or a change in the trust agreement;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(b) Where an approval is obtained for termination or partial termination of a multiple class
+(b) Where an approval is obtained for termination or partial termination of a multiple class
 
 fund;
 
@@ -246,27 +124,27 @@ closed;
 
 trust assets occurs
 
-    2. Where the authorized participant changes or is added;
+2. Where the authorized participant changes or is added;
 
-    3. Where a liquidity providing agreement is concluded with a liquidity providing member
+3. Where a liquidity providing agreement is concluded with a liquidity providing member
 
 pursuant to [§6(2)3(b)] of the Regulations, or such agreement is changed or terminated;
 
-    4. Where the computer system of a liquidity providing member malfunctions or is resolved;
+4. Where the computer system of a liquidity providing member malfunctions or is resolved;
 
-    5.  Where  an  error  occurs  in  the  details  of  asset  composition  noted  in  [§14(1)2]  of  the
+5.  Where  an  error  occurs  in  the  details  of  asset  composition  noted  in  [§14(1)2]  of  the
 
 Regulations or is resolved;
 
-    6. Where the deviation ratio calculated in accordance with [§18(2)] of the Regulations based
+6. Where the deviation ratio calculated in accordance with [§18(2)] of the Regulations based
 on the net asset value per 10,000 units calculated in real time at the end of regular market
 trading hours is higher than the ratio specified in each of the following items:
 
-        (a) Issues that constitute the assets of a fund using only domestic assets: 1 %; and
+(a) Issues that constitute the assets of a fund using only domestic assets: 1 %; and
 
-        (b) Other issues: 2%
+(b) Other issues: 2%
 
-    7. In other cases where the Exchange deems it necessary for the realization of the public
+7. In other cases where the Exchange deems it necessary for the realization of the public
 
 interest and investor protection.
 
@@ -277,31 +155,10 @@ Chapter IV. Market Operation, Trading, Clearing and Settlement, etc.
 (1) “Reference price determined by the Enforcement Rules” in [§16(1)] of the Regulation shall
 refer to the price in each of the following subparagraphs:
 
-    1. Issues other than those in subparagraphs 2 through 4: Closing price of the previous day (if
+1. Issues other than those in subparagraphs 2 through 4: Closing price of the previous day (if
 the price does not match the tick size, it shall be the closest price to the price among the
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-that  are  higher
+that  are  higher
 
 prices
 there
@@ -316,13 +173,13 @@ than
 
 the
 
-    2.  Issues  newly  listed:  The  reference  price  calculated  based  on  10,000  units,  using  the
+2.  Issues  newly  listed:  The  reference  price  calculated  based  on  10,000  units,  using  the
 reference price per unit derived pursuant to Article 238, Paragraph 6 of the Act. In this
 case,  the  most  recently  announced  reference  price  based  on  the  listing  date  shall  be
 used,  and  if  the  reference  price  is  announced  the  day  before  the  listing  date,  it  shall
 be limited to the price announced by 17:00.
 
-    3.
+3.
 
 Issues  using
 
@@ -337,7 +194,7 @@ of the following subparagraphs shall be the reference price for the next trading
 
 reference  price:  The  price
 
-        (a)  Where
+(a)  Where
 
 are
 
@@ -356,13 +213,13 @@ than
 
 the
 
-        (b)  Where  there  are  bid  quotations  higher  than  the  appraisal  price:  The  price  of  the
+(b)  Where  there  are  bid  quotations  higher  than  the  appraisal  price:  The  price  of  the
 
 highest bid quotation; or
 
-        (c) For cases other than items (a) and (b): The appraisal price
+(c) For cases other than items (a) and (b): The appraisal price
 
-    4.  Issues  that  have  reported  profit  distribution  to  the  Exchange:  The  price  calculated  by
+4.  Issues  that  have  reported  profit  distribution  to  the  Exchange:  The  price  calculated  by
 deducting  the  distribution  amount  per  10,000  units  from  the  closing  price  on  the  day
 before  the  second  trading  day  of  the  reference  date  pursuant  to  [§132(1)]  of  the
 Enforcement  Rules  of  the  Business  Regulations  (if  the  distribution  amount  is  not
@@ -448,19 +305,9 @@ as
 (4) ) “Cases prescribed by the Enforcement Rules” in [§16(3)] of the Regulation shall refer to
 any of the following subparagraphs:
 
+1. Where trading resumes for the first time after a long market closure; or
 
-
-
-
-
-
-
-
-
-
-    1. Where trading resumes for the first time after a long market closure; or
-
-    2.  Where  it  is  deemed  significantly  difficult  to  apply  the  reference  price  pursuant  to
+2.  Where  it  is  deemed  significantly  difficult  to  apply  the  reference  price  pursuant  to
 paragraphs (1) and (2) due to reasons such as a long-term suspension of trading, significant
 changes in rights, or sudden changes in market conditions.
 
@@ -478,12 +325,12 @@ agreement for liquidity provision with the Exchange.
 “Cases specified by the Enforcement Rules” in [§18(4)] of the Regulation shall refer to any of
 the following subparagraphs:
 
-    1.  Where  the  bid-ask  spread  ratio  falls  within  the  range  stipulated  in  [§18(1)]  of  the
+1.  Where  the  bid-ask  spread  ratio  falls  within  the  range  stipulated  in  [§18(1)]  of  the
 Regulations. In this case, if only an ask quotation is submitted, the lower limit price shall
 be considered the best bid. If only a bid quotation is submitted, the upper limit price is
 considered the best ask;
 
-    2. Where the bid-ask spread based on the best quotation is equivalent to one (1) tick size,
+2. Where the bid-ask spread based on the best quotation is equivalent to one (1) tick size,
 and the bid-ask spread ratio cannot be reduced within the range stipulated in [§18(1)] of
 the Regulations;
 
@@ -492,7 +339,7 @@ Regulations, during the time for quotation receiving hours specified in each sub
 of [§35(1)] of the Enforcement Rules of the Business Regulations and within 5 minutes
 after the end of the relevant quotation receiving hours; or
 
-    4. Where the Exchange deems it necessary for market management due to sudden changes
+4. Where the Exchange deems it necessary for market management due to sudden changes
 
 in the quotation or trading situation or other reasons.
 
@@ -507,21 +354,7 @@ Market Business Regulations], the member shall report the details of the account
 Exchange  using  the  form  in  Appendix  3  at  least  two  (2)  trading  days  prior  to  the  date  of
 submission of the liquidity providing quotation or hedge trade quotation through the account.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(Amended on October 24, 2025)
+(Amended on October 24, 2025)
 
 (2) Pursuant to [§19(3)] of the Regulations, in case where a liquidity providing member submits
 liquidity providing quotations for class X beneficiary certificates, the member shall submit a
@@ -550,9 +383,9 @@ tick size shall be used.
 that has not been traded, the quotation quantity shall be at least the smaller of the following
 quantities:
 
-    1. The entire quantity for which a trade has not been concluded; and
+1. The entire quantity for which a trade has not been concluded; and
 
-    2.  A  quantity  equivalent  to  100  times  the  trading  quantity  unit  of  class  X  beneficiary
+2.  A  quantity  equivalent  to  100  times  the  trading  quantity  unit  of  class  X  beneficiary
 
 certificates
 
@@ -569,26 +402,14 @@ Regulations  and  [§9-3(2)6]  of  the  KOSDAQ  Market  Business  Regulations  s
 “Cases specified by the Enforcement Rules” in the proviso to [§19(2)] of the Regulation shall
 refer to any of the following subparagraphs:
 
-    1. When a liquidity providing member submits a liquidity providing quotation on either the
+1. When a liquidity providing member submits a liquidity providing quotation on either the
 
-
-
-
-
-
-
-
-
-
-
-
-
-ask or bid side, and the bid-ask spread ratio with the other liquidity providing quotation
+ask or bid side, and the bid-ask spread ratio with the other liquidity providing quotation
 already submitted by the relevant liquidity providing member becomes within the ratio
 specified in Article 18, Paragraph 1 of the Regulations (in the case of falling under the
 latter part of [§11(4)], the ratio corresponding to one (1) quotation price unit); or
 
-    2. When the quotation submitted to the other party is an ask quotation under [§13(2)] or a
+2. When the quotation submitted to the other party is an ask quotation under [§13(2)] or a
 
 bid quotation under [§13(3)].
 
@@ -613,18 +434,18 @@ limited to bid quotations.
 liquidity providing members on a quarterly basis and announce the results as set forth in each
 of the following subparagraphs:
 
-    1. The degree of compliance with the obligation to submit liquidity providing quotations.
+1. The degree of compliance with the obligation to submit liquidity providing quotations.
 Provided that the deviation ratio may be calculated and evaluated according to a method
 determined by the Exchange based on prices established during regular market trading
 hours;
 
-    2. Proactiveness in submitting liquidity providing quotations;
+2. Proactiveness in submitting liquidity providing quotations;
 
-    3. The bid-ask spread reflected in the liquidity providing quotations submitted;
+3. The bid-ask spread reflected in the liquidity providing quotations submitted;
 
-    4. The quantity of liquidity providing quotations submitted; and
+4. The quantity of liquidity providing quotations submitted; and
 
-    5. Compliance with the securities laws and regulations and the Exchange regulations related
+5. Compliance with the securities laws and regulations and the Exchange regulations related
 
 to the task of liquidity provision
 
@@ -633,23 +454,7 @@ providing member has submitted liquidity providing quotations falls under [§15(
 (2) consecutive quarters, the Exchange shall assign the lowest rating to the relevant liquidity
 providing  member,  regardless  of  the  performance  of  other  issues  for  which  the  relevant
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-liquidity providing member provides liquidity. Provided that an exception may be made if the
+liquidity providing member provides liquidity. Provided that an exception may be made if the
 Exchange deems it necessary due to sudden changes in market conditions or other reasons.
 
 (3) A liquidity providing member shall, pursuant to Article 20, Paragraph 2 of the Regulations,
@@ -667,25 +472,25 @@ regarding the assessment of liquidity providing members.
 (1)  “Criteria  prescribed  by  the  Enforcement  Rules”  in  the  latter  part  of  [§20(1)]  of  the
 Regulation shall refer to cases where all of the following subparagraphs apply:
 
-    1.  Where  the  obligation  to  submit  a  liquidity  providing  quotation  under  [§18(1)]  of  the
+1.  Where  the  obligation  to  submit  a  liquidity  providing  quotation  under  [§18(1)]  of  the
 Regulations is violated for more than one hour on a trading day, or if the obligation to
 submit a quotation under [§18(2)] of the Regulation is violated for more than 20 trading
 days for each quarter; and
 
-    2. Where a liquidity providing member receives the lowest rating as a result of an assessment
+2. Where a liquidity providing member receives the lowest rating as a result of an assessment
 under [§14(1)] (excluding the assessment for the quarter in which the initial listing date
 falls).
 
 (2)  Notwithstanding  paragraph  (1),  if  any  of  the  following  subparagraphs  applies  and  the
 Exchange deems it necessary, each subparagraph of paragraph (1) may not be applied:
 
-    1.  Where  a  system  failure  occurs  at  the  Exchange  or  the  liquidity  providing  member,
+1.  Where  a  system  failure  occurs  at  the  Exchange  or  the  liquidity  providing  member,
 
 resulting in a situation falling under paragraph (1)1;
 
-    2. Where there is a rapid price fluctuation of the listed asset;
+2. Where there is a rapid price fluctuation of the listed asset;
 
-    3. Where it is practically impossible to submit liquidity providing quotations due to a sudden
+3. Where it is practically impossible to submit liquidity providing quotations due to a sudden
 
 change in political or economic conditions; or
 
@@ -697,26 +502,9 @@ change in political or economic conditions; or
 
 (2) The tick size under [§21] of the Regulations shall be as follows:
 
-    1. For issues with a price of less than KRW 2,000 per 10,000 units: KRW 1; and
+1. For issues with a price of less than KRW 2,000 per 10,000 units: KRW 1; and
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    2. For issues with a price of KRW 2,000 or higher per 10,000 units: KRW 5
+2. For issues with a price of KRW 2,000 or higher per 10,000 units: KRW 5
 
 §17. Trading Quantity Unit
 
@@ -750,34 +538,7 @@ Pursuant  to  [§23(2)]  of  the  Regulations,  the  fee  rates,  calculation  a
 exemption scope, and other necessary matters related to listing fees and annual dues shall be
 specified in Appendix 7.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDA
+ADDENDA
 (Regulation No. 2331 / May 9, 2025)
 
 §1. Effective Date
@@ -788,7 +549,7 @@ subparagraphs:
 
 1.  Chapter IV ([§8] through [§18]): October 27, 2025 (Amended on October 24, 2025)
 
-    2. [§19]: October 27, 2026 (Amended on October 24, 2025)
+2. [§19]: October 27, 2026 (Amended on October 24, 2025)
 
 §1-2. Application Case Concerning Payment of Listing Fees
 
@@ -808,36 +569,7 @@ ADDENDUM
 
 This Enforcement Rules shall become effective on October 27, 2025.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix 1] Application Documents for Preliminary Listing Review
+[Appendix 1] Application Documents for Preliminary Listing Review
 
 Application Documents for Preliminary Listing Review
 (Pertaining  to  [§3] of the Enforcement Rules)
@@ -865,42 +597,7 @@ investment trust
 Notes:  For  documents  from  3)  to 6),  if  the  Exchange  permits,  documents  with  final  contents  may  be
 additionally  submitted  by  the  time  of  application  for  initial  listing.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix 2] Application Documents for Initial Listing
+[Appendix 2] Application Documents for Initial Listing
 
 Application Documents for Initial Listing
 (Pertaining  to  [§4] of the Enforcement Rules)
@@ -935,38 +632,7 @@ investment trust
 
 Notes:  Documents  6)  and 7)  can  be  submitted  until  the  day  before  the  listing  date.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix 3] Guidelines for Listing Review of Class X Beneficiary Certificates
+[Appendix 3] Guidelines for Listing Review of Class X Beneficiary Certificates
 
 Guidelines for Listing Review of Class X Beneficiary Certificates
 (Pertaining  to  [§4] of the Enforcement Rules)
@@ -985,14 +651,14 @@ regulations.
 
 (i) Compliance  with  relevant  laws  and  regulations
 
-        The trust contract, articles of incorporation, authorized participant contract, agreement for
+The trust contract, articles of incorporation, authorized participant contract, agreement for
 liquidity provision, etc. of the Class X beneficiary certificates fund shall be recognized to
 have  legal  requisites  to  the  level  set  by  the  Act  and  the  Regulations  on  Financial
 Investment Business
 
 (ii) Restrictions  on  issuance  and  trading
 
-        It shall be  recognized that, in order to guarantee cashability for investors, there  are no
+It shall be  recognized that, in order to guarantee cashability for investors, there  are no
 specific restrictions pertaining to the free redemption in the primary market of Class X
 beneficial certificates or to the trading in the Exchange market.
 
@@ -1000,61 +666,39 @@ beneficial certificates or to the trading in the Exchange market.
 
 Class X beneficiary certificates shall be deemed to be sustainable.
 
-    (i) Soundness of included assets
+(i) Soundness of included assets
 
 ⓐ  In light of the characteristics of included assets, it shall not fall under any cases where
 the  formation  of  reliable  price is  difficult  due  to  abnormal  fluctuation  in  prices,  or
 where it is significantly limited for ordinary investors to find the price information of
 the assets, etc.
 
-        ⓑ  It shall be recognized that included assets do not violate good morals and other social
+ⓑ  It shall be recognized that included assets do not violate good morals and other social
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-order and thus do not undermine the realization of public interests and protection of
+order and thus do not undermine the realization of public interests and protection of
 investors.
 
-    (ii) Methods of management
+(ii) Methods of management
 
-        ⓐ  Rationality of asset composition
+ⓐ  Rationality of asset composition
 
-            a)  The  assets  of  an  Class  X  beneficiary  certificates  fund  shall  be  structured
+a)  The  assets  of  an  Class  X  beneficiary  certificates  fund  shall  be  structured
 appropriately to the operating strategy and profit structure to achieve its investment
 objectives.
 
-            b) The base price calculation method shall be capable of appropriately assessing the
+b) The base price calculation method shall be capable of appropriately assessing the
 
 value of the fund's assets.
 
-        ⓑ  Liquidity of included assets
+ⓑ  Liquidity of included assets
 
-              It shall be recognized that the liquidity of assets for operation is sufficient enough not
+It shall be recognized that the liquidity of assets for operation is sufficient enough not
 
 to cause too much impact on the market when they are bought or sold.
 
 ⓒ  Stability of included assets
 
-            a) In the case of raw materials, etc. that need to be kept in custody, it shall be recognized
+a) In the case of raw materials, etc. that need to be kept in custody, it shall be recognized
 that the management plans are duly prepared and implemented to secure the stability
 of  transaction  in  terms  of  quality  of  the  assets,  storage  conditions,  assessment
 institutions, etc.
@@ -1071,30 +715,16 @@ listing shall be recognized.
 
 (i) Operational ability
 
-    ⓐ  There shall not be any disciplinary measures received severer than partial suspension of
+ⓐ  There shall not be any disciplinary measures received severer than partial suspension of
 operation  and/or  business  during  the  latest  one  year  and  there  shall  not  be  any
 disciplinary measures received severer than issuance of warning to institution during the
 latest six months.
 
-    ⓑ  It shall be recognized that the accounting process and systems necessary for the creation
+ⓑ  It shall be recognized that the accounting process and systems necessary for the creation
 
 and verification of asset composition (PCF) and net asset value (NAV) are prepared.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ⓒ  There  shall  be  human  resources  and  organization  exclusively  dedicated  to  reporting
+ⓒ  There  shall  be  human  resources  and  organization  exclusively  dedicated  to  reporting
 (corporate  disclosure)  business  and  the  operation  manual  for  Class  X  beneficiary
 certificates fund in place.
 
@@ -1111,11 +741,11 @@ provider shall not fall under any interested parties.
 
 (iii) Liquidity providers
 
-    ⓐ  A liquidity provider shall possess professional human resources and computer system
+ⓐ  A liquidity provider shall possess professional human resources and computer system
 
 for liquidity provision.
 
-    ⓑ  The hedging tools and methods of a liquidity provider shall be deemed not to exceed the
+ⓑ  The hedging tools and methods of a liquidity provider shall be deemed not to exceed the
 bid-ask spread ratios and deviation ratios stipulated in [§18] of the Regulations.
 
 (d) Investor protection measures shall be in place in collective investment contract, etc., in
@@ -1142,21 +772,7 @@ will not be hampered.
 
 (i) Principles for assigning issue names
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The name of the Class X beneficiary certificates issue must be deemed appropriate
+The name of the Class X beneficiary certificates issue must be deemed appropriate
 For explaining the investment target, investment strategy, and product characteristics.
 
 [Appendix 4] Application Documents for Supplementary Listing
@@ -1174,47 +790,7 @@ Application Documents for Supplementary Listing
 
 5) Other documents that the Exchange deems necessary for the listing review
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix 5] Application Documents for Listing Change
+[Appendix 5] Application Documents for Listing Change
 
 Application Documents for Listing  Change
 (Pertaining  to  [§5] of the Enforcement Rules)
@@ -1229,49 +805,7 @@ Application Documents for Listing  Change
 
 5) Other documents that the Exchange deems necessary for the listing review
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix 6] Timing of Designation and Revocation of Administrative Issue Status
+[Appendix 6] Timing of Designation and Revocation of Administrative Issue Status
 
 Timing of Designation and Revocation of Administrative Issue Status
 (Pertaining  to  [§6] of the Enforcement Rules)
@@ -1286,30 +820,25 @@ Grounds
 trust and total net assets
 not up to standards
 ([§8(1)1] of the
-Regulations)
 (ii) When receiving a
 corrective order under
 Article 7 of Financial
 Innovation Act
 ([§8(1)2] of the
-Regulations)
 (iii) When requesting the
 revocation of designation
 under Article 8 of
 Financial Innovation Act
 ([§8(1)3] of the
-Regulations)
 (iv) When receiving the
 suspension order under
 Article 11 of Financial
 Innovation Act
 ([§8(1)4] of the
-Regulations)
 (v) Realization of the
 public interest and investor
 protection
 ([§8(1)2] of the
-Regulations)
 
 Timing
 On the first trading
@@ -1401,29 +930,7 @@ when the grounds
 for revocation have
 occurred.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix 7] Listing Fees and Annual Dues
+[Appendix 7] Listing Fees and Annual Dues
 
 Listing Fees and Annual Dues
 (Pertaining  to  [§19] of the Enforcement Rules)
@@ -1513,7 +1020,7 @@ for the amount to be listed in excess of KRW 50 billion
 KRW 17.97 million + KRW 120,000 per KRW 1 billion
 for the amount to be listed in excess of KRW 100 billon
 KRW 29.97  million + KRW 80,000 per KRW 1 billion
- billion
+billion
 for the amount to be listed in excess of KRW 20
 KRW 53.97 million + KRW 30,000 per KRW 1 billion
 for the amount to be listed in excess of KRW 500 billion
@@ -1523,22 +1030,12 @@ following rates (however, the maximum is KRW 80 million)
 
 Listing change  KRW 300,000 per case
 
-    Note.
-    1. Listing fees shall be calculated by issue.
-    2. Listing fees for supplementary listing shall be calculated by the date for listing application.
+Note.
+1. Listing fees shall be calculated by issue.
+2. Listing fees for supplementary listing shall be calculated by the date for listing application.
 
-
-
-
-
-
-
-
-
-
-
-    3. When calculating the fee rate per KRW 1 billion, amounts less than KRW 1 billion are rounded up.
-    4.  If  an  applicant  for  listing  change  submits  multiple  applications  for  listing  change  on  the  same  date,  all
+3. When calculating the fee rate per KRW 1 billion, amounts less than KRW 1 billion are rounded up.
+4.  If  an  applicant  for  listing  change  submits  multiple  applications  for  listing  change  on  the  same  date,  all
 applications are considered a single application and listing fee for a single application shall be charged.
 
 2. Annual Dues
@@ -1590,9 +1087,9 @@ market capitalization in excess of KRW 2,000 billion
 KRW  11.99  million  +  KRW  800  per  KRW  1  billion  of  average
 market capitalization in excess of KRW 5,000 billion
 
-    Note.
+Note.
 
-  1.  When  calculating  the  annual  dues  paid  regularly  for  initial  listing,  the  amounts  shall  be  determined  by
+1.  When  calculating  the  annual  dues  paid  regularly  for  initial  listing,  the  amounts  shall  be  determined  by
 prorating the amounts calculated according to the Table above based on the number of days from the initial
 listing date to the last day of the concerned year.
 
@@ -1618,19 +1115,9 @@ At the time of applying for preliminary listing
 review
 At the time of applying for listing
 
-    Note. listing fees can be paid by the next day of the day when the amount of trust principal to list is finalized.
+Note. listing fees can be paid by the next day of the day when the amount of trust principal to list is finalized.
 
-
-
-
-
-
-
-
-
-
-
-(b) Annual Dues
+(b) Annual Dues
 
 Regular payments
 
@@ -1659,19 +1146,19 @@ exempt for the purpose of market administration, etc.
 
 (a) Notification of bill of payment and measures against non-payments
 
-        (i)  With  respect  to  the  payment  of  annual  dues,  the  Exchange  shall  notify  the  listed
+(i)  With  respect  to  the  payment  of  annual  dues,  the  Exchange  shall  notify  the  listed
 corporations of such fact by the day two (2) weeks before the due date for the regular
 payments  and  by  the  day  one  (1)  week  before  the  delisting  date  for  the  irregular
 payments.
 
-        (ii) In cases where a listed corporation fails to make payment of the annual dues within
+(ii) In cases where a listed corporation fails to make payment of the annual dues within
 three (3) months after the due date, the Exchange may file legal actions such as request
 for an order of payment against the concerned corporation. Provided that this provision
 shall not apply to the delisted corporations.
 
 (b) Refund and additional payments
 
-          In  cases  where  the  listing  application  of  a  security  was  rejected,  the  Exchange  shall
+In  cases  where  the  listing  application  of  a  security  was  rejected,  the  Exchange  shall
 
 refund the listing fees that were prepaid. Provided that the fees for preliminary listing
 review  shall  not  be  refundable  once  the  preliminary  listing  review  process  has
@@ -1682,81 +1169,17 @@ commenced.
 (i) When determining the listing fees and annual dues for the securities issued by foreign
 corporations, the basic exchanges rates that are determined and announced pursuant to the
 
+Foreign Exchange Transaction Regulations shall be used as follows:
 
+ⓐ  For listing fees, the basic exchange rate on the listing application date;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Foreign Exchange Transaction Regulations shall be used as follows:
-
-    ⓐ  For listing fees, the basic exchange rate on the listing application date;
-
-    ⓑ  For annual dues, the basic exchange rate at the end of the latest year. Provided that, for
+ⓑ  For annual dues, the basic exchange rate at the end of the latest year. Provided that, for
 the cases of irregular payments, the basic exchange rate as of the day when the decision
 to delist was made.
 
 (ii) The amounts of listing fees and annual dues less than KRW 100 shall be discarded.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix  Form  No.  1]  Listing  Agreement
+[Appendix  Form  No.  1]  Listing  Agreement
 
 Listing Agreement
 
@@ -1803,21 +1226,7 @@ Article 4. Establishment and operation of listing and disclosure system
 
 To efficiently carry out the tasks of listing and disclosure, the Company shall establish the listing and
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-disclosure system  that the Exchange provides  and  manage it, including by  upgrading it to  the  latest
+disclosure system  that the Exchange provides  and  manage it, including by  upgrading it to  the  latest
 version, so not to cause any impediment to the performance of the tasks.
 
 Article 5. Fulfilling corporate social responsibilities
@@ -1862,24 +1271,7 @@ Name and Signature/Seal of KRX CEO:
 
 Name and Signature/Seal of Representative:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix  Form  No.  2]  Application  for  Supplementary  Listing  /  Listing  Change
+[Appendix  Form  No.  2]  Application  for  Supplementary  Listing  /  Listing  Change
 
 Application for Supplementary Listing / Listing Change
 
@@ -1907,7 +1299,7 @@ certificates to be listed
 
 Details of changes
 
-                                                            (KR7                )
+(KR7                )
 
 Units
 
@@ -1939,36 +1331,7 @@ Note.
 
 be separately recorded for each authorized participant and attached.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Appendix  Form  No.  3]  Report  of  Liquidity  Provision  Account
+[Appendix  Form  No.  3]  Report  of  Liquidity  Provision  Account
 
 Report of Liquidity Provision Account
 
@@ -1991,7 +1354,7 @@ Issue code
 Korean issue name
 abbreviation
 
-                                                                  (12 digits)
+(12 digits)
 
 mm/dd/yyyy
 

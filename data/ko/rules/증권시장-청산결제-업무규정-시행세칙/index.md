@@ -2,7 +2,7 @@
 id: "210199110"
 title: "증권시장 청산결제 업무규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:55:41.512132Z"
+collected_at: "2026-07-03T21:10:13.562759Z"
 content_hash: "8a60b56177ef43e554bc7312965ed16f7828726c97b1ea9d07b6b0aca27cc1cb"
 document_type: "rule"
 language: "ko"

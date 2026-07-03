@@ -2,7 +2,7 @@
 id: "204847877"
 title: "KSM 운영지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:00:40.301508Z"
+collected_at: "2026-07-03T21:15:19.348427Z"
 content_hash: "377f8cbe980b20602b6879e643950432dfc25763caabec79e1bca901db7728c7"
 document_type: "rule"
 language: "ko"

@@ -2,7 +2,7 @@
 id: "204847353"
 title: "코스닥시장 불성실공시 신고 및 포상에 관한 기준"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T15:00:48.656417Z"
+collected_at: "2026-07-03T21:15:27.689740Z"
 content_hash: "cd35c598ee8150351237729f5442abc1755746d5abe41123a159f94ae99fa9ce"
 document_type: "rule"
 language: "ko"

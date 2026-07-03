@@ -2,7 +2,7 @@
 id: "210227471"
 title: "유가증권시장 공시규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:45:29.502108Z"
+collected_at: "2026-07-03T20:59:52.438345Z"
 content_hash: "3a82cd69db129482a6bc1f45076af09684f5c3da50b48f30989ff63e9ec5c3ec"
 document_type: "rule"
 language: "ko"

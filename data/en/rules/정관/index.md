@@ -2,8 +2,8 @@
 id: "210016572-en"
 title: "정관"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:59:16.806915Z"
-content_hash: "cca708537f0b517385ecf5e278d240d34312924b641630a7c0a86339b2c4382d"
+collected_at: "2026-07-03T21:13:54.962950Z"
+content_hash: "44264eacc83583af0d26c73e70d00c98e3f877a899112f9e6645757c98d255f6"
 document_type: "rule"
 language: "en"
 category: "정관"
@@ -48,178 +48,17 @@ This English version of KRX Articles of Incorporation is for reference only. If 
 discrepancy  between  the  Korean  version  and  English  version  or  discrepancy  in  the
 interpretation, the Korean version takes precedence over the English version.
 
+TABLE OF CONTENTS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TABLE OF CONTENTS
-
-CHAPTER I. GENERAL PROVISIONS .................................................................................................... 1
-§1. Name .............................................................................................................................................. 1
-§2. Purpose ........................................................................................................................................... 1
-§2-2. Amendment of Articles of Incorporation .................................................................................... 2
-§3. Location of Main Office, etc. ......................................................................................................... 3
-§4. Application of Commercial Act, etc. .............................................................................................. 3
-§5. Method of Official Announcement ................................................................................................ 3
-CHAPTER II. STOCKS .............................................................................................................................. 3
-§6. Total Number of Stocks to be Issued .............................................................................................. 3
-§7. Price per Share ............................................................................................................................... 3
-§8. Total Number of Stocks to be Issued at the time of Inauguration .................................................. 4
-§9. Classes of Stocks, etc. .................................................................................................................... 4
-§9-2. Number and Details of Preferred Stocks ..................................................................................... 4
-§9-3. Subscription Rights ..................................................................................................................... 5
-§9-4. Capital Increase through Public Offering ................................................................................... 5
-§9-5. Stock Options .............................................................................................................................. 6
-§9-6. Employee Stock Options............................................................................................................. 8
-§9-7. Record Date for Dividend Payment of New Stocks .................................................................... 9
-§9-8. Transfer Agent ............................................................................................................................. 9
-§9-9. Reporting of Addresses, Names, Seals or Signatures of Shareholders, etc. ................................ 9
-§10. Closing of Register of Shareholders and the Record Date thereof ............................................. 10
-CHAPTER II-2. CORPORATE BONDS .................................................................................................. 10
-§10-2. Issuance of Convertible Bonds ............................................................................................... 10
-§10-3. Issuance of Bonds with Warrants ............................................................................................ 11
-§10-4. Provisions Applied to Issuance of Bonds................................................................................ 12
-CHAPTER III. GENERAL SHAREHOLDERS’ MEETING .................................................................... 12
-§11. Convening of Meeting ................................................................................................................ 12
-§12. Location of Meeting ................................................................................................................... 12
-§13. Chairperson of Shareholders’ Meeting ....................................................................................... 12
-§14. Power of Chairperson in Maintaining Order .............................................................................. 13
-§14-2. Voting Rights .......................................................................................................................... 13
-§15. Methods of Decision Making at Shareholders’ Meeting ............................................................ 13
-§16. Exercise of Voting Rights in Writing ......................................................................................... 13
-§16-2. Exercise of Voting Rights through Proxy ............................................................................... 14
-§16-3. Minutes of General Shareholders’ Meeting ............................................................................ 14
-CHAPTER IV. OFFICERS AND BOARD OF DIRECTORS ................................................................... 14
-§17. Number of Officers .................................................................................................................... 14
-§18. Qualification of Officers ............................................................................................................ 15
-§19. Appointment of Officers, etc. ..................................................................................................... 15
-§20. Candidate Nomination Committee, etc. ..................................................................................... 16
-§21. Term of Office of Officers ........................................................................................................... 17
-§21-2. Recommendation for Dismissal of President of KOSDAQ Market Division ......................... 17
-§22. Filling Vacant Post of Officer .................................................................................................... 17
-§23. Duties of Officers, etc. ............................................................................................................... 17
-§24. Composition of Board of Directors ............................................................................................ 18
-§25. Convening Board of Directors Meeting ..................................................................................... 18
-§26. Matters to be Resolved at Board Meeting .................................................................................. 18
-§27. Operation of Board Meeting ...................................................................................................... 19
-§27-2. Minutes of Board Meeting ...................................................................................................... 19
-CHAPTER V. COMMITTEES OF THE BORAD ..................................................................................... 19
 ii
 
-
-
-
-Section 1. General Provisions .......................................................................................................... 19
-§28. Establishment of Committees within Board of Directors .......................................................... 19
-§29. Operation of Board Committees ................................................................................................ 20
-Section 2. Market Committees ........................................................................................................ 20
-§30. Composition of Market Committees .......................................................................................... 20
-§31. Operation of Market Committees .............................................................................................. 21
-§32. Authorities of the Market Committees ....................................................................................... 21
-Section 3. Compensation Committee .............................................................................................. 21
-§33. Composition of Compensation Committee ................................................................................ 21
-§34. Duties of the Compensation Committee .................................................................................... 21
-Section 4. Audit Committee ............................................................................................................. 22
-§35. Composition of Audit Committee .............................................................................................. 22
-§36. Duties of Audit Committee ........................................................................................................ 22
-Section 5. Risk Management Committee ....................................................................................... 22
-§36-2. Composition of Risk Management Committee ....................................................................... 22
-§36-3. Duties of Risk Management Committee ................................................................................. 22
-CHAPTER VI. ORGANIZATIONAL STRUCTURE AND BUSINESS .................................................. 23
-Section 1. General Provisions .......................................................................................................... 23
-§37. Division of Markets ................................................................................................................... 23
-§38. Establishment of Business Divisions ......................................................................................... 23
-§39. Executive Officers ..................................................................................................................... 24
-§40. Personnel Administration for Employees................................................................................... 24
-§41. Business Plans and Budgets ....................................................................................................... 25
-§42. Formulation, Amendment and Abolition of Regulations, etc. Related to Markets ..................... 26
-§43. Functions of Management Strategy Division ............................................................................. 28
-§44. Operation of Management Strategy Division ............................................................................. 28
-Section 3. KOSPI Market Division and Derivative Market Division .......................................... 29
-§45. Functions of KOSPI Market Division ........................................................................................ 29
-§46. [Deleted on July 16, 2014] ......................................................................................................... 29
-§47. Functions of Derivatives Market Division .............................................................................. 29
-§48. Operation of Market Divisions .................................................................................................. 30
-Section 4. KOSDAQ Market Committee and KOSDAQ Market Division ................................. 31
-§48-2. Composition and Tasks of KOSDAQ Market Committee ...................................................... 31
-§48-3. Operation of KOSDAQ Market Committee ........................................................................... 33
-§48-4. Functions of KOSDAQ Market Division ............................................................................... 33
-§48-5. Operation of KOSDAQ Market Division ............................................................................... 34
-Section 5. Market Oversight Committee and Market Oversight Division .................................. 34
-§49. Composition and Duties of Market Oversight Committee ......................................................... 34
-§50. Operation of Market Oversight Committee ............................................................................... 36
-§51. Functions of Market Oversight Division.................................................................................... 36
-§52. Operation of Market Oversight Division ................................................................................... 37
-
 CHAPTER VI. CLEARING AND SETTLEMENT COMMITTEE AND                        CLEARING AND
-SETTLEMENT DIVISION ........................................................................................................................... 37
-§52-2. Composition and Duties of Clearing and Settlement Committee ............................................ 37
-§52-3. Operation of Clearing and Settlement Committee .................................................................. 38
-§52-4. Functions of Clearing and Settlement Division ...................................................................... 39
-§52-5. Operation of Clearing and Settlement Division ...................................................................... 40
-CHAPTER VII. ACCOUNTING ............................................................................................................... 40
-§53. Business Year ............................................................................................................................. 40
-§54. Appropriation of Retained Earnings........................................................................................... 40
-§55. Dividends ................................................................................................................................... 41
-§56. [Deleted on April 10, 2007] ...................................................................................................... 41
-CHAPER VIII. SUPPLEMENTARY PROVISIONS ................................................................................ 41
-§57. Establishment of Committees .................................................................................................... 41
 
 iii
 
-
-§58. [Deleted on April 10, 2007] ....................................................................................................... 41
-§59. Conclusion of Business Performance Agreement .................................................................. 42
-ADDENDA ................................................................................................................................................ 43
-
 iv
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER I. GENERAL PROVISIONS
+CHAPTER I. GENERAL PROVISIONS
 
 §1. Name
 
@@ -266,23 +105,7 @@ where there is a request from the concerned parties);
 
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10. Business related to the dissemination and vending of data and information generated
+10. Business related to the dissemination and vending of data and information generated
 
 in the Markets;
 
@@ -329,22 +152,7 @@ shareholders’ meeting.
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[April 15, 2009]
+[April 15, 2009]
 
 §3. Location of Main Office, etc.
 
@@ -400,25 +208,7 @@ The price of the stocks issued by the Exchange shall be KRW 5,000 per share.
 
 3
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§8. Total Number of Stocks to be Issued at the time of Inauguration
+§8. Total Number of Stocks to be Issued at the time of Inauguration
 
 Total number of the stocks to be issued at the time of inauguration of the Exchange shall be
 20 million common registered stocks.
@@ -449,7 +239,7 @@ preferred stock as in the case of common stock before paying dividends.
 
 (4) In cases where the required dividend has not been paid to preferred stocks for a business
 
-  year, the payment of accumulated unpaid dividend shall take the precedence at the dividend
+year, the payment of accumulated unpaid dividend shall take the precedence at the dividend
 payout time in the following business year.
 
 (5) In cases where there has been a decision not to pay the required dividend for the preferred
@@ -466,21 +256,7 @@ class of stock, and in this case, all shareholders have the right to the allotme
 
 4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-the stocks to be issued.
+the stocks to be issued.
 
 [April 10, 2007]
 
@@ -529,24 +305,7 @@ decisions of the Board.
 (1)  Pursuant  to  [§165-6]  of  the  Act,  within  the  quantity  that  is  less  than  20/100  of  total
 5
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-number of stocks issued, the Exchange may issue the new stocks through the capital increase
+number of stocks issued, the Exchange may issue the new stocks through the capital increase
 by public offering upon the decision of the Board. (Amended on January 14, 2009)
 
 (2) When issuing new stocks pursuant to paragraph (1), the class, quantity and issuing price
@@ -595,18 +354,7 @@ common stocks or preferred stocks.
 
 6
 
-
-
-
-
-
-
-
-
-
-
-
-(4) The stock options granted to  any one (1) officer  or employee shall not  exceed 1/100  of
+(4) The stock options granted to  any one (1) officer  or employee shall not  exceed 1/100  of
 total number of stocks issued.
 
 (5) The stock options shall be exercised within five (5) years from the date that has elapsed
@@ -640,16 +388,7 @@ agreement for granting the stock options, have occurred.
 
 7
 
-
-
-
-
-
-
-
-
-
-[April 10, 2007]
+[April 10, 2007]
 
 §9-6. Employee Stock Options
 
@@ -693,20 +432,7 @@ stock ownership association who have less than one (1) year of continuous servic
 
 8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-§9-7. Record Date for Dividend Payment of New Stocks
+§9-7. Record Date for Dividend Payment of New Stocks
 
 When  the  Exchange  issues  the  new  stocks  as  a  result  of  capital  increase  with/without
 consideration  or  stock  dividend,  with  regard  to  the  dividends  allotment,  it  shall  be  deemed
@@ -751,21 +477,7 @@ the shareholders shall do the same. (Amended on May 2, 2019)
 
 9
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§10. Closing of Register of Shareholders and the Record Date thereof
+§10. Closing of Register of Shareholders and the Record Date thereof
 
 (1)  The  Exchange  shall  close  down  the  register  of  shareholders,  suspending  the  change  of
 records relating to shareholder’s rights, from January 1st to January 31st each year.
@@ -810,21 +522,7 @@ the  convertible  bonds  noted  in  paragraph  (1)  with  the  condition  of  gr
 
 10
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-right to a part of the bonds issued.
+right to a part of the bonds issued.
 
 (3) The stocks to be issued as a result of the conversion shall be either the common stocks or
 preferred stocks, and the conversion price that is equal to or higher than the  face value shall
@@ -873,22 +571,7 @@ be adjusted within the period noted above through the Board’s decision. (Amend
 
 11
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-the new stocks issued as a result of exercising the subscription rights.
+the new stocks issued as a result of exercising the subscription rights.
 
 [April 10, 2007]
 
@@ -932,22 +615,7 @@ located or the place determined by the Board.
 
 12
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2) In  case  where  the  Chairman  is  absent,  the  deputy  designated  pursuant  to  the  proviso  to
+(2) In  case  where  the  Chairman  is  absent,  the  deputy  designated  pursuant  to  the  proviso  to
 [§23(1)] shall act as the chairperson. [April 10, 2007]
 
 §14. Power of Chairperson in Maintaining Order
@@ -990,20 +658,7 @@ form to the Exchange by the day before the meeting date.
 
 13
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-§16-2. Exercise of Voting Rights through Proxy
+§16-2. Exercise of Voting Rights through Proxy
 
 (1) The shareholders may let his/her proxy to exercise the voting rights.
 
@@ -1049,25 +704,7 @@ companies. (Amended on January 14, 2009)
 
 14
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(3) The Exchange shall have one (1) senior non-standing director, who is elected among and
+(3) The Exchange shall have one (1) senior non-standing director, who is elected among and
 by  the  outside  directors.  In  such  cases,  the  qualifications  and  authority  of  the  senior  non-
 standing director shall be established by the regulations of the board or directors. [April 15,
 2009] (Amended on February 21, 2018)
@@ -1114,19 +751,7 @@ May 15, 2015)
 
 15
 
-
-
-
-
-
-
-
-
-
-
-
-
-respectively  at  the  general  shareholders’  meeting  upon  the  recommendation  made  by  the
+respectively  at  the  general  shareholders’  meeting  upon  the  recommendation  made  by  the
 Officer  Candidate  Nomination  Committee  pursuant  to  [§385(1)]  of  the  ACT  (hereinafter
 referred to as “candidate nomination committee”). (Amended on May 15, 2015)
 
@@ -1175,23 +800,7 @@ other matters shall be stipulated in the regulation of the Board. (Amended on Ma
 
 16
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§21. Term of Office of Officers
+§21. Term of Office of Officers
 
 (1) The term of the officers shall be three (3) years and may be extended for a period of one
 (1) year each time. (Amended on May 15, 2015)
@@ -1238,21 +847,7 @@ the  functions  of  the  concerned  Division  that  he/she  is  in  charge  of. 
 
 17
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§24. Composition of Board of Directors
+§24. Composition of Board of Directors
 
 The  Board  shall  be  composed  of  the  officers  specified  in  each  subparagraph  of  [§17(1)]
 (hereinafter referred to as “the directors”). (Amended on May 2, 2019)
@@ -1303,17 +898,7 @@ deems the Board’s decisions on such matters necessary; and
 
 18
 
-
-
-
-
-
-
-
-
-
-
-Incorporation and the regulations of the Exchange.
+Incorporation and the regulations of the Exchange.
 
 (2)  The  Board  meeting  may  determine  the  details  of  the  scope  or  boundary  of  matters
 stipulated  in  subparagraphs  2  through  5  of  paragraph  (1),  which  are  to  be  resolved  by  the
@@ -1357,23 +942,7 @@ Committees”): (Amended on January 14, 2009; October 2, 2013; May 2, 2019)
 
 19
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. Each of the following market committees;
+1. Each of the following market committees;
 
 a. KOSPI Market Committee; and
 b. [Deleted on October 2, 2013]
@@ -1424,19 +993,7 @@ a. President of the Derivatives Market Division;
 
 20
 
-
-
-
-
-
-
-
-
-
-
-
-
-b. Two (2) public directors from the outside directors; and
+b. Two (2) public directors from the outside directors; and
 
 c. Two (2) outside directors who are representatives of investment dealing companies
 or investment brokerage companies.
@@ -1480,21 +1037,7 @@ standing officers and obtain the approval of the general shareholders’ meeting
 
 21
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Section 4. Audit Committee
+Section 4. Audit Committee
 
 §35. Composition of Audit Committee
 
@@ -1536,22 +1079,7 @@ may specify the matters necessary for the risk management.
 
 22
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER VI. ORGANIZATIONAL STRUCTURE AND BUSINESS
+CHAPTER VI. ORGANIZATIONAL STRUCTURE AND BUSINESS
 
 Section 1. General Provisions
 
@@ -1598,22 +1126,7 @@ appointed  by  the  recommendation  of  the  KOSDAQ  Market  Committee  pursuant
 
 23
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3.  The President of the Market Oversight Division shall be the Chairperson of the Market
+3.  The President of the Market Oversight Division shall be the Chairperson of the Market
 Oversight Commission; and
 
 4. The President of the Clearing and Settlement Division shall be an executive officer
@@ -1646,7 +1159,7 @@ the executive officers may be reappointed. (Amended on April 15, 2009)
 (4)  The  executive  officers  shall  perform  their  duties  as  follows:  (Amended  on  April  14,
 2021)
 
-    1. Duty of the President equivalent to [§23(2)] (limited to the President noted in
+1. Duty of the President equivalent to [§23(2)] (limited to the President noted in
 
 [§38(1)6]); and
 
@@ -1664,21 +1177,7 @@ applied mutatis mutandis to the executive officers. (Amended on January 14, 2009
 
 24
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2) Transfer of employees between the business Divisions and promotion of employees shall
+(2) Transfer of employees between the business Divisions and promotion of employees shall
 be  made  by  the  Chairman,  while  taking  into  the  consideration  the  recommendations  of  the
 President of the concerned business Division.
 
@@ -1686,7 +1185,7 @@ President of the concerned business Division.
 employees in the business Division that he/she is in charge of.
 
 (4) Matters necessary for the personnel administration shall be stipulated in the regulations of
- the Board.
+the Board.
 
 §41. Business Plans and Budgets
 
@@ -1698,15 +1197,15 @@ business  plan  and  the  related  budget  of  the  business  Division  in  each
 subparagraphs  shall  go  through  the  deliberation  of  the  Committee  stipulated  in  the  relevant
 subparagraph: (July 16, 2014; April 14, 2021)
 
-     1. KOSPI Market Division: KOSPI Market Committee;
+1. KOSPI Market Division: KOSPI Market Committee;
 
-     2. KOSDAQ Market Division: KOSDAQ Market Committee;
+2. KOSDAQ Market Division: KOSDAQ Market Committee;
 
-     3. Derivatives Market Division: Derivatives Market Committee;
+3. Derivatives Market Division: Derivatives Market Committee;
 
-     4. Market Oversight Division: Market Oversight Committee; and
+4. Market Oversight Division: Market Oversight Committee; and
 
-     5. Clearing and Settlement Division: Clearing and Settlement Committee.
+5. Clearing and Settlement Division: Clearing and Settlement Committee.
 
 (3)  The  Chairman  shall  obtain  the  approval  of  the  Board  reflecting  the  results  from  the
 deliberation of the KOSDAQ Market Committee pursuant to paragraph (2), on the business
@@ -1724,23 +1223,7 @@ July 16, 2014; April 14, 2021)
 
 25
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§42. Formulation, Amendment and Abolition of Regulations, etc. Related to Markets
+§42. Formulation, Amendment and Abolition of Regulations, etc. Related to Markets
 (Amended on October 2, 2013; April 14, 2021)
 
 (1)  The  formulation,  amendment  and  abolition  of  the  business  regulation,  disclosure
@@ -1783,17 +1266,9 @@ Presidents of the relevant Market Divisions in advance. (Amended on April 14, 20
 
 26
 
+27
 
-
-
-
-
-
-
-27
-
-
-Section 2. Management Strategy Division
+Section 2. Management Strategy Division
 
 §43. Functions of Management Strategy Division
 
@@ -1839,20 +1314,7 @@ officer of  the  Management  Strategy  Division,  who  has  been  designated  in
 
 28
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Chairman,  shall  undertake  the  responsibility  specified  in  paragraph  (1)  on  behalf  of  the
+Chairman,  shall  undertake  the  responsibility  specified  in  paragraph  (1)  on  behalf  of  the
 President of the Management Strategy Division.
 
 Section 3. KOSPI Market Division and Derivative Market Division
@@ -1900,18 +1362,7 @@ shutdown of the market;
 
 29
 
-
-
-
-
-
-
-
-
-
-
-
-2.  Businesses  related to the trade  execution of exchange-traded  derivatives in the
+2.  Businesses  related to the trade  execution of exchange-traded  derivatives in the
 Derivatives Market;
 
 3. Businesses related to the price publication of the Derivatives Market;
@@ -1962,13 +1413,7 @@ President of the Division specified in paragraph (1). (Amended on July 16, 2014)
 
 30
 
-
-
-
-
-
-
-Section 4. KOSDAQ Market Committee and KOSDAQ Market Division
+Section 4. KOSDAQ Market Committee and KOSDAQ Market Division
 [July 16, 2014]
 
 §48-2. Composition and Tasks of KOSDAQ Market Committee
@@ -2020,17 +1465,7 @@ perform his/her duties until his/her successor is appointed. [February 21, 2018]
 
 31
 
-
-
-
-
-
-
-
-
-
-
-apply mutatis mutandis to the qualifications of members of the KOSDAQ Market Committee.
+apply mutatis mutandis to the qualifications of members of the KOSDAQ Market Committee.
 (Amended on 21, 2018)
 
 (6)  Any  committee  member  who  has  special  interests  in  relation  to  the  resolution  of  the
@@ -2074,26 +1509,13 @@ report it to the KOSDAQ Market Committee. [February 21, 2018]
 and  operation  of  Listing  Committee  or  Listing  Maintenance  Review  Committee  and  other
 necessary matters shall be determined by the regulations of the KOSDAQ Market Committee.
 
-  [February 21, 2018]
+[February 21, 2018]
 
 [October 2, 2013]
 
 32
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-§48-3. Operation of KOSDAQ Market Committee
+§48-3. Operation of KOSDAQ Market Committee
 
 (1) The KOSDAQ Market Chairperson shall convene and chair the meeting of the KOSDAQ
 Market  Committee.  However,  in  the  case  of  mishap  of  the  KOSDAQ  Market  Chairperson,
@@ -2147,23 +1569,7 @@ KOSDAQ and CONEX markets;
 
 33
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7.  Businesses  related  to  the  management  of  the  KOSDAQ  or  KONEX--listed
+7.  Businesses  related  to  the  management  of  the  KOSDAQ  or  KONEX--listed
 
 corporations such as trading suspension, etc.;
 
@@ -2212,20 +1618,7 @@ and may be reappointed.
 
 34
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-completing his/her term, unless he/she fall under any of the followings: (Amended on January
+completing his/her term, unless he/she fall under any of the followings: (Amended on January
 14, 2009; February 21, 2018)
 
 1. Case of falling under the disqualification criteria stipulated in [§382] of the Act;
@@ -2275,21 +1668,7 @@ emissions trading market; and
 
 35
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8. Other tasks incidental to subparagraphs 1 through 7.
+8. Other tasks incidental to subparagraphs 1 through 7.
 
 (5) When  the  Market  Oversight  Committee  intends  to  amend  or  abolish  the  regulation  on
 market oversight, the Chairperson of the Committee shall consult with the relevant President
@@ -2330,30 +1709,14 @@ and establishment and amendment of relevant regulations;
 
 3. Businesses related to the operation of computer systems concerning the work of market
 
-      oversight; and
+oversight; and
 
 4.  In addition, other businesses incidental to the  tasks specified in subparagraphs 1
 through 3.
 
 36
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§52. Operation of Market Oversight Division
+§52. Operation of Market Oversight Division
 
 (1)  As  the  President  of  the  Market  Oversight  Division,  the  Chairperson  of  the  Market
 Oversight  Committee  shall  take  the  overall  responsibility  for  the  operation  of  the  Market
@@ -2403,19 +1766,7 @@ subparagraph 2, shall be non-standing and elected by the Board.
 
 37
 
-
-
-
-
-
-
-
-
-
-
-
-
-under  subparagraph  1  of  paragraph  (1).  Provided  that,  if  the  Chairperson  is  unable  to
+under  subparagraph  1  of  paragraph  (1).  Provided  that,  if  the  Chairperson  is  unable  to
 perform his/her duties due to unavoidable reasons, a member shall act on his/her behalf in
 the  order  of  the  members  determined  in  advance  by  the  Clearing  and  Settlement
 Committee.
@@ -2462,22 +1813,7 @@ Division deems necessary in relation with the clearing, settlement and risk mana
 
 38
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-and Settlement Committee and preside over the meeting.
+and Settlement Committee and preside over the meeting.
 
 (2) A member of the Clearing and Settlement Committee may request the Chairperson to
 convene the meeting of the Clearing and Settlement Committee.
@@ -2524,26 +1860,7 @@ and
 
 39
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§52-5. Operation of Clearing and Settlement Division
+§52-5. Operation of Clearing and Settlement Division
 
 (1) The President of the Clearing and Settlement Division shall take the overall responsibility
 for the operation of the Clearing and Settlement Division pursuant to [§52-4].
@@ -2583,21 +1900,7 @@ October 2, 2013)
 
 40
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(3) The settlement reserve noted in paragraph  (2) shall be accumulated separately according
+(3) The settlement reserve noted in paragraph  (2) shall be accumulated separately according
 to each of the following subparagraphs: [October 2, 2013]
 
 1. Settlement of securities trade or exchange-traded derivatives; and
@@ -2638,25 +1941,7 @@ committees shall be stipulated in the regulations of the Board.
 
 41
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§59. Conclusion of Business Performance Agreement
+§59. Conclusion of Business Performance Agreement
 
 (1) The Exchange shall conclude the business performance agreement (including the details
 of  management  information  disclosure,  business  performance  assessment,  budget  planning
@@ -2675,11 +1960,7 @@ paragraph (1).
 
 42
 
-
-
-
-
-ADDENDA
+ADDENDA
 (January 26, 2005)
 
 §1. Effective Date
@@ -2722,27 +2003,7 @@ This Articles of Incorporation shall become effective on April 15, 2009
 
 43
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-§2. Interim Measures for Appointment of Officers
+§2. Interim Measures for Appointment of Officers
 
 The officers elected and appointed before the effective date of this Articles of Incorporation
 shall  deem  that  they  has  been  appointed  in  accordance  with  [§19]  of  this  Articles  of
@@ -2786,24 +2047,7 @@ This Articles of Incorporation shall become effective on March 6, 2014.
 
 44
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 (July 16, 2014)
 
 This  Articles of  Incorporation shall become effective on July 17, 2014.  However, amended
@@ -2846,21 +2090,7 @@ established in accordance with the amendments to [§48-2(1) & (2)].
 
 45
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ADDENDUM
+ADDENDUM
 (May 2, 2019)
 
 This Articles of Incorporation shall become effective on May 3, 2019.

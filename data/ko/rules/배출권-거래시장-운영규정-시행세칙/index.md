@@ -2,7 +2,7 @@
 id: "210132992"
 title: "배출권 거래시장 운영규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T14:57:06.376233Z"
+collected_at: "2026-07-03T21:11:40.225715Z"
 content_hash: "af481c8b2fa245362d9aa6282413eae947014c5196ec224eba155d24f75bf3f8"
 document_type: "rule"
 language: "ko"
