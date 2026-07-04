@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "generated_at": "2026-07-03T21:28:17.708772Z",
+  "generated_at": "2026-07-04T08:08:08.253515Z",
   "source": "https://rule.krx.co.kr",
   "documents": [
     {
@@ -10639,8 +10639,8 @@
           "size": 54272,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3532,
-          "converted_non_space_chars": 2946,
+          "converted_text_chars": 3502,
+          "converted_non_space_chars": 2916,
           "formula_block_count": 15,
           "formula_hint_count": 37
         },
@@ -10658,8 +10658,8 @@
           "size": 44544,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2496,
-          "converted_non_space_chars": 2070,
+          "converted_text_chars": 2478,
+          "converted_non_space_chars": 2052,
           "formula_block_count": 13,
           "formula_hint_count": 30
         },
@@ -10677,8 +10677,8 @@
           "size": 41984,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2454,
-          "converted_non_space_chars": 2031,
+          "converted_text_chars": 2436,
+          "converted_non_space_chars": 2013,
           "formula_block_count": 13,
           "formula_hint_count": 30
         },
@@ -10791,8 +10791,8 @@
           "size": 52224,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 8528,
-          "converted_non_space_chars": 7081,
+          "converted_text_chars": 8492,
+          "converted_non_space_chars": 7045,
           "formula_block_count": 33,
           "formula_hint_count": 116
         },
@@ -10810,8 +10810,8 @@
           "size": 46592,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 7058,
-          "converted_non_space_chars": 5863,
+          "converted_text_chars": 7040,
+          "converted_non_space_chars": 5845,
           "formula_block_count": 31,
           "formula_hint_count": 109
         },
@@ -12216,7 +12216,7 @@
       "title": "Enforcement Rules of Membership Regulation",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
       "collected_at": "2026-07-03T21:10:04.592540Z",
-      "content_hash": "24165385ae552b36b4f0d88e8bbb98ef98c252ca455fff4ed476e2eb49e7d199",
+      "content_hash": "5794aef667ed8af138e156d6d3a0ae16d8774126dc3ad92bf191b4f3f7604c6a",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 회원관리규정",
@@ -22245,8 +22245,8 @@
       "size": 54272,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3532,
-      "converted_non_space_chars": 2946,
+      "converted_text_chars": 3502,
+      "converted_non_space_chars": 2916,
       "formula_block_count": 15,
       "formula_hint_count": 37
     },
@@ -22264,8 +22264,8 @@
       "size": 44544,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2496,
-      "converted_non_space_chars": 2070,
+      "converted_text_chars": 2478,
+      "converted_non_space_chars": 2052,
       "formula_block_count": 13,
       "formula_hint_count": 30
     },
@@ -22283,8 +22283,8 @@
       "size": 41984,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2454,
-      "converted_non_space_chars": 2031,
+      "converted_text_chars": 2436,
+      "converted_non_space_chars": 2013,
       "formula_block_count": 13,
       "formula_hint_count": 30
     },
@@ -22397,8 +22397,8 @@
       "size": 52224,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 8528,
-      "converted_non_space_chars": 7081,
+      "converted_text_chars": 8492,
+      "converted_non_space_chars": 7045,
       "formula_block_count": 33,
       "formula_hint_count": 116
     },
@@ -22416,8 +22416,8 @@
       "size": 46592,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 7058,
-      "converted_non_space_chars": 5863,
+      "converted_text_chars": 7040,
+      "converted_non_space_chars": 5845,
       "formula_block_count": 31,
       "formula_hint_count": 109
     },

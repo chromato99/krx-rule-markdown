@@ -134,8 +134,8 @@ attachments:
     size: 54272
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3532
-    converted_non_space_chars: 2946
+    converted_text_chars: 3502
+    converted_non_space_chars: 2916
     formula_block_count: 15
     formula_hint_count: 37
   - id: "210228709-210125238-hwp"
@@ -151,8 +151,8 @@ attachments:
     size: 44544
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2496
-    converted_non_space_chars: 2070
+    converted_text_chars: 2478
+    converted_non_space_chars: 2052
     formula_block_count: 13
     formula_hint_count: 30
   - id: "210228709-210125248-hwp"
@@ -168,8 +168,8 @@ attachments:
     size: 41984
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2454
-    converted_non_space_chars: 2031
+    converted_text_chars: 2436
+    converted_non_space_chars: 2013
     formula_block_count: 13
     formula_hint_count: 30
   - id: "210228709-210064540-hwp"
@@ -270,8 +270,8 @@ attachments:
     size: 52224
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 8528
-    converted_non_space_chars: 7081
+    converted_text_chars: 8492
+    converted_non_space_chars: 7045
     formula_block_count: 33
     formula_hint_count: 116
   - id: "210228709-210217348-hwp"
@@ -287,8 +287,8 @@ attachments:
     size: 46592
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 7058
-    converted_non_space_chars: 5863
+    converted_text_chars: 7040
+    converted_non_space_chars: 5845
     formula_block_count: 31
     formula_hint_count: 109
   - id: "210228709-202411010000022630000114024-byl-hwp"

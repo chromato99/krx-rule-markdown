@@ -690,9 +690,13 @@ $(".goRdoc").click(function(){});
         latex = hwp_equation_to_latex(
             'D _{i} = {"Div " _{i}} over {MC} TIMES 100 TIMES (1+f _{i} TIMES {t _{i}} over {365} )'
         )
-        self.assertIn(r"D_{i} = \frac{\operatorname{Div}_{i}}{MC}", latex)
+        self.assertIn(r"D_{i} = \frac{\mathrm{Div}_{i}}{MC}", latex)
         self.assertIn(r"\times 100 \times", latex)
         self.assertIn(r"\frac{f_{i} \times {t_{i}}}{365}", latex)
+
+    def test_hwp_equation_to_latex_uses_roman_for_quoted_english_identifiers(self) -> None:
+        self.assertEqual(hwp_equation_to_latex('"Div"_i'), r"\mathrm{Div}_{i}")
+        self.assertEqual(hwp_equation_to_latex('"Foo Bar"'), r"\text{Foo Bar}")
 
     def test_hwp_equation_to_latex_balances_malformed_hwp_groups(self) -> None:
         latex = hwp_equation_to_latex("KOFR_{T-1D")

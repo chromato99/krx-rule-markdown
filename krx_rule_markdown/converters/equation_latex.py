@@ -58,8 +58,10 @@ def replace_quoted_hwp_literals(script: str) -> str:
             return r"\{"
         if value == "}":
             return r"\}"
+        if re.fullmatch(r"[A-Za-z][A-Za-z0-9]*", value):
+            return r"\mathrm{" + value + "}"
         if re.fullmatch(r"[A-Za-z][A-Za-z0-9 ]*", value):
-            return r"\operatorname{" + normalize_text(value) + "}"
+            return r"\text{" + normalize_text(value) + "}"
         return r"\text{" + normalize_text(value) + "}"
 
     return re.sub(r'"([^"]*)"', repl, script)
@@ -490,7 +492,7 @@ def cleanup_latex(expr: str) -> str:
     expr = re.sub(r"_\(([^()]*)\)", r"_{\1}", expr)
     expr = combine_repeated_scripts(expr)
     expr = normalize_script_commas(expr)
-    expr = re.sub(r"\\operatorname\{([^{}]+)\}\s*_\{([^{}]+)\}", r"\\operatorname{\1}_{\2}", expr)
+    expr = re.sub(r"\\(mathrm|operatorname)\{([^{}]+)\}\s*_\{([^{}]+)\}", r"\\\1{\2}_{\3}", expr)
     expr = re.sub(r"(\\text\{(?:if|where)\})(?=[A-Za-z0-9\\])", r"\1 ", expr)
     expr = re.sub(r"\s+([)}\]])", r"\1", expr)
     expr = re.sub(r"([({\[])\s+", r"\1", expr)
@@ -502,7 +504,7 @@ def cleanup_latex(expr: str) -> str:
 def collapse_double_latex_command_slashes(expr: str) -> str:
     commands = (
         "bar|begin|Delta|div|end|exp|frac|ge|hat|int|lambda|le|left|ln|log|"
-        "max|min|mid|ne|operatorname|prod|right|Sigma|sigma|sqrt|sum|text|times|varepsilon"
+        "max|min|mid|ne|operatorname|prod|right|mathrm|Sigma|sigma|sqrt|sum|text|times|varepsilon"
     )
     return re.sub(rf"\\\\(?=({commands})\b)", r"\\", expr)
 
