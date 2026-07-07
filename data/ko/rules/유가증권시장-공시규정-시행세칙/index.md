@@ -71,9 +71,8 @@ attachments:
     size: 34816
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 355
-    converted_non_space_chars: 289
-    table_row_count: 1
+    converted_text_chars: 304
+    converted_non_space_chars: 227
   - id: "210179748-202411140000022700000013006-byl-hwp"
     title: "[별지 제2호 서식] 불성실공시예방 개선계획에 대한 이행보고서<신설 2015. 8. 28.>"
     file_name: "유가증권시장 공시규정 시행세칙_46차_불성실공시예방개선계획에대한이행보고서(삭제2009.2.3,신설2015.8.28).hwp"
@@ -87,9 +86,8 @@ attachments:
     size: 34304
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 353
-    converted_non_space_chars: 286
-    table_row_count: 1
+    converted_text_chars: 306
+    converted_non_space_chars: 232
   - id: "210179748-202411140000022700000013007-byl-hwp"
     title: "[별지 제3호 서식] 공시권한 위임장"
     file_name: "유가증권시장 공시규정 시행세칙_46차_공시권한위임장(개정2012.4.19).hwp"
@@ -103,9 +101,8 @@ attachments:
     size: 35328
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 368
-    converted_non_space_chars: 293
-    table_row_count: 1
+    converted_text_chars: 321
+    converted_non_space_chars: 239
   - id: "210179748-202411140000022700000013008-byl-hwp"
     title: "[별지 제4호 서식] 공시대리인 선임신고서<개정 2012. 4. 19.>"
     file_name: "유가증권시장 공시규정 시행세칙_46차_공시대리인선임신고서(개정2012.4.19).hwp"
@@ -119,9 +116,8 @@ attachments:
     size: 45568
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 562
-    converted_non_space_chars: 450
-    table_row_count: 1
+    converted_text_chars: 513
+    converted_non_space_chars: 392
   - id: "210179748-202411140000022700000013009-byl-hwp"
     title: "[별지 제5호 서식] 공시위반제재금 부과 통지서<개정 2012. 4. 19.>"
     file_name: "유가증권시장 공시규정 시행세칙_46차_공시위반제재금부과통지서(개정2012.4.19).hwp"
@@ -135,9 +131,8 @@ attachments:
     size: 34816
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 405
-    converted_non_space_chars: 325
-    table_row_count: 1
+    converted_text_chars: 348
+    converted_non_space_chars: 251
   - id: "210179748-202411140000022700000013010-byl-hwp"
     title: "[별지 제6호 서식] 공시 유보 신청서<개정 2012. 4. 19.>"
     file_name: "유가증권시장 공시규정 시행세칙_46차_공시유보신청서(개정2012.4.19).hwp"
@@ -151,9 +146,8 @@ attachments:
     size: 36864
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 496
-    converted_non_space_chars: 392
-    table_row_count: 1
+    converted_text_chars: 445
+    converted_non_space_chars: 330
   - id: "210179748-202411140000022700000013011-byl-hwp"
     title: "[별지 제7호 서식] 지주회사의 상장자회사 주요경영사항 연계공시 신청서<개정 2012. 4. 19., 2013. 2. 26.>"
     file_name: "유가증권시장 공시규정 시행세칙_46차_지주회사의상장자회사주요경영사항연계공시신청서(개정2012.4.19,2013.2.26).hwp"
@@ -183,9 +177,8 @@ attachments:
     size: 30720
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 275
-    converted_non_space_chars: 224
-    table_row_count: 1
+    converted_text_chars: 234
+    converted_non_space_chars: 182
 ---
 
 **제1조(목적)**이 세칙은 「유가증권시장 공시규정」(이하 "규정"이라 한다)의 시행에 관하여 필요한 사항을 정함을 목적으로 한다.<개정 2009. 2. 3., 2009. 12. 21.>

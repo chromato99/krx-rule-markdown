@@ -39,9 +39,9 @@ attachments:
     size: 52736
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3271
-    converted_non_space_chars: 2623
-    table_row_count: 13
+    converted_text_chars: 3448
+    converted_non_space_chars: 2678
+    table_row_count: 15
   - id: "210222787-202406140000022340000213004-byl-hwp"
     title: "[별표 4] 기술평가등급<신설 2015.6.30>"
     file_name: "코넥스시장 상장규정 시행세칙_32차_기술평가등급.hwp"
@@ -71,8 +71,8 @@ attachments:
     size: 33280
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 414
-    converted_non_space_chars: 302
+    converted_text_chars: 571
+    converted_non_space_chars: 411
     table_row_count: 2
   - id: "210222787-202406140000022340000213008-byl-hwp"
     title: "[상장서식 4] 상장적격성보고서<개정 2013.11.13, 2014.7.11, 2015.6.11, 2017.8.4, 2019.3.20, 2019.4.17, 2019.9.10, 2020.6.10, 2022.7.5>"
@@ -87,9 +87,9 @@ attachments:
     size: 183296
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 87494
-    converted_non_space_chars: 66308
-    table_row_count: 371
+    converted_text_chars: 96771
+    converted_non_space_chars: 72370
+    table_row_count: 438
     formula_hint_count: 367
   - id: "210222787-202406140000022340000213009-byl-hwp"
     title: "[상장서식 5] 주채권은행 의견서"
@@ -179,9 +179,9 @@ attachments:
     size: 49664
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 4184
-    converted_non_space_chars: 3191
-    table_row_count: 11
+    converted_text_chars: 6929
+    converted_non_space_chars: 4889
+    table_row_count: 44
     formula_hint_count: 54
   - id: "210222787-202406140000022340000213015-byl-hwp"
     title: "[상장서식 11] 명의개서 대행기관의 주권발행 증명서"
@@ -227,8 +227,8 @@ attachments:
     size: 31744
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 418
-    converted_non_space_chars: 294
+    converted_text_chars: 556
+    converted_non_space_chars: 390
     table_row_count: 2
   - id: "210222787-202406140000022340000213018-byl-hwp"
     title: "[상장서식 13] 변경상장신청서<개정 2021.12.10>"
@@ -243,9 +243,9 @@ attachments:
     size: 40448
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1710
-    converted_non_space_chars: 1260
-    table_row_count: 17
+    converted_text_chars: 1751
+    converted_non_space_chars: 1289
+    table_row_count: 18
   - id: "210222787-202406140000022340000213019-byl-hwp"
     title: "[상장서식 13-1] 추가상장신청서<신설 2021.12.10>"
     file_name: "코넥스시장 상장규정 시행세칙_32차_추가상장신청서.hwp"
@@ -259,9 +259,9 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 5314
-    converted_non_space_chars: 3927
-    table_row_count: 64
+    converted_text_chars: 5355
+    converted_non_space_chars: 3956
+    table_row_count: 65
   - id: "210222787-202406140000022340000213020-byl-hwp"
     title: "[상장서식 14] 상장유예에 대한 이의신청서"
     file_name: "코넥스시장 상장규정 시행세칙_32차_상장유예에대한이의신청서.hwp"
@@ -373,9 +373,9 @@ attachments:
     size: 29184
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 391
-    converted_non_space_chars: 302
-    table_row_count: 5
+    converted_text_chars: 403
+    converted_non_space_chars: 284
+    table_row_count: 3
   - id: "210222787-202406140000022340000213026-byl-hwp"
     title: "[상장서식 20] 종류주식의 상장폐지 신청서"
     file_name: "코넥스시장 상장규정 시행세칙_32차_종류주식의상장폐지신청서.hwp"
@@ -405,9 +405,9 @@ attachments:
     size: 133120
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 56513
-    converted_non_space_chars: 42514
-    table_row_count: 271
+    converted_text_chars: 60435
+    converted_non_space_chars: 44993
+    table_row_count: 303
     formula_hint_count: 222
   - id: "210222787-202406140000022340000213028-byl-hwp"
     title: "[상장서식 22] 신규상장심사청구서(기술평가기업)<개정 2017.8.4, 2019.3.20, 2019.4.17, 2019.9.10, 2020.6.10>"
@@ -422,9 +422,9 @@ attachments:
     size: 185344
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 86994
-    converted_non_space_chars: 65867
-    table_row_count: 366
+    converted_text_chars: 96279
+    converted_non_space_chars: 71921
+    table_row_count: 433
     formula_hint_count: 357
   - id: "210222787-202406140000022340000213029-byl-hwp"
     title: "[상장서식 22-1] 신규상장심사청구서(크라우드펀딩기업)<신설 2017.8.4, 2019.3.20, 2019.4.17, 2019.9.10, 2020.6.10>"
@@ -439,9 +439,9 @@ attachments:
     size: 187392
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 87094
-    converted_non_space_chars: 65754
-    table_row_count: 368
+    converted_text_chars: 96648
+    converted_non_space_chars: 71992
+    table_row_count: 437
     formula_hint_count: 357
   - id: "210222787-202406140000022340000213030-byl-hwp"
     title: "[상장서식 23] 지정기관투자자 동의서<개정 2015.6.30, 2017.8.4, 2019.9.10>"
@@ -473,9 +473,9 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 6355
-    converted_non_space_chars: 4660
-    table_row_count: 31
+    converted_text_chars: 9608
+    converted_non_space_chars: 6760
+    table_row_count: 56
     formula_hint_count: 6
   - id: "210222787-202406140000022340000213032-byl-hwp"
     title: "[상장서식 25] 소유주식 등의 의무보유확약서<개정 2015.6.30, 2017.8.4, 2019.9.10>"

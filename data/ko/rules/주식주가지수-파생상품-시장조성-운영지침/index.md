@@ -56,9 +56,9 @@ attachments:
     size: 46592
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1920
-    converted_non_space_chars: 1468
-    table_row_count: 10
+    converted_text_chars: 2504
+    converted_non_space_chars: 1900
+    table_row_count: 14
     formula_hint_count: 5
   - id: "210202173-210219676-hwp"
     title: "[별표 4] 시장조성실적 평가 기준<개정 2022.1.5, 2023.1.2, 2023.7.23, 2023.12.20, 2024.4.12,2024. 12. 12.,2025. 6. 9.,2025. 10. 23.,2025. 12. 12.,2026. 6. 23.>"
@@ -73,9 +73,9 @@ attachments:
     size: 71168
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 25011
-    converted_non_space_chars: 19890
-    table_row_count: 86
+    converted_text_chars: 25887
+    converted_non_space_chars: 20538
+    table_row_count: 92
     formula_block_count: 24
     formula_hint_count: 133
   - id: "210202173-210134276-hwp"
@@ -107,9 +107,9 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1453
-    converted_non_space_chars: 1179
-    table_row_count: 3
+    converted_text_chars: 1932
+    converted_non_space_chars: 1401
+    table_row_count: 10
   - id: "210202173-202404120000008760000292007-byl-hwp"
     title: "[별지 제2호 서식] 차입공매도 내부통제장치 구비 확인서"
     file_name: "주식·주가지수 파생상품 시장조성 운영지침_12차_차입공매도내부통제장치구비확인서.hwp"
@@ -138,9 +138,9 @@ attachments:
     size: 64000
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 6819
-    converted_non_space_chars: 5194
-    table_row_count: 15
+    converted_text_chars: 12953
+    converted_non_space_chars: 9114
+    table_row_count: 69
   - id: "210202173-210077710-hwp"
     title: "[별지 제4호 서식] 시장조성자 계좌 신규 및 변경 신고서<개정 2025. 6. 9.>"
     file_name: "주식·주가지수 파생상품 시장조성 운영지침_12차_시장조성자계좌신규및변경신고서.hwp"
@@ -154,9 +154,9 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 607
-    converted_non_space_chars: 539
-    table_row_count: 1
+    converted_text_chars: 1161
+    converted_non_space_chars: 838
+    table_row_count: 11
   - id: "210202173-202404120000008760000292010-byl-hwp"
     title: "[별지 제5호 서식] 고속 알고리즘거래 관련 확인서<신설 2023.1.2>"
     file_name: "주식·주가지수 파생상품 시장조성 운영지침_12차_고속알고리즘거래관련확인서.hwp"

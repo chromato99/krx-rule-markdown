@@ -39,9 +39,9 @@ attachments:
     size: 67584
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 5944
-    converted_non_space_chars: 4655
-    table_row_count: 28
+    converted_text_chars: 7113
+    converted_non_space_chars: 5508
+    table_row_count: 47
     formula_hint_count: 10
   - id: "210084351-202309070000021740000268003-byl-hwp"
     title: "[별지 제2호 서식] 지점ID 발급신청서"
@@ -56,9 +56,9 @@ attachments:
     size: 51200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3480
-    converted_non_space_chars: 2687
-    table_row_count: 32
+    converted_text_chars: 4992
+    converted_non_space_chars: 3789
+    table_row_count: 50
   - id: "210084351-202309070000021740000268004-byl-hwp"
     title: "[별지 제3호 서식] 지점ID 폐쇄신청서"
     file_name: "KRX석유시장 운영규정 시행세칙_3차_지점ID폐쇄신청서.hwp"
@@ -72,9 +72,9 @@ attachments:
     size: 37888
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1911
-    converted_non_space_chars: 1431
-    table_row_count: 18
+    converted_text_chars: 2184
+    converted_non_space_chars: 1628
+    table_row_count: 22
   - id: "210084351-202309070000021740000268005-byl-hwp"
     title: "[별지 제4호 서식] 참가자 탈퇴신청서"
     file_name: "KRX석유시장 운영규정 시행세칙_3차_참가자탈퇴신청서.hwp"
@@ -88,9 +88,9 @@ attachments:
     size: 35328
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1022
-    converted_non_space_chars: 776
-    table_row_count: 7
+    converted_text_chars: 1106
+    converted_non_space_chars: 836
+    table_row_count: 9
     formula_hint_count: 1
   - id: "210084351-202309070000021740000268006-byl-hwp"
     title: "[별지 제5호 서식] 호가입력 대행 신청서"
@@ -184,9 +184,9 @@ attachments:
     size: 52224
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3703
-    converted_non_space_chars: 2826
-    table_row_count: 30
+    converted_text_chars: 3871
+    converted_non_space_chars: 2946
+    table_row_count: 34
     formula_hint_count: 4
 ---
 

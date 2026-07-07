@@ -118,9 +118,9 @@ attachments:
     size: 72192
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3729
-    converted_non_space_chars: 2987
-    table_row_count: 19
+    converted_text_chars: 4069
+    converted_non_space_chars: 3099
+    table_row_count: 23
   - id: "210137438-210137539-hwp"
     title: "[별지 제1호 서식] 상장계약서<신설 2025. 5. 9.,개정 2025. 10. 24.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
@@ -150,9 +150,9 @@ attachments:
     size: 33280
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 461
-    converted_non_space_chars: 395
-    table_row_count: 1
+    converted_text_chars: 837
+    converted_non_space_chars: 616
+    table_row_count: 7
   - id: "210137438-210067582-hwp"
     title: "[별지 제3호 서식] 유동성공급계좌 신고서<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
@@ -166,9 +166,9 @@ attachments:
     size: 39424
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1022
-    converted_non_space_chars: 762
-    table_row_count: 9
+    converted_text_chars: 1320
+    converted_non_space_chars: 881
+    table_row_count: 13
 ---
 
 제1장 총 칙

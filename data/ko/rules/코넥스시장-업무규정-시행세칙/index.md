@@ -71,9 +71,9 @@ attachments:
     size: 38400
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 547
-    converted_non_space_chars: 454
-    table_row_count: 1
+    converted_text_chars: 670
+    converted_non_space_chars: 490
+    table_row_count: 2
   - id: "210224651-202311230000021860000212010-byl-hwp"
     title: "[업무서식 2] 주권상장법인 자기주식(신탁)매매신청서<개정 2014.10.30>"
     file_name: "코넥스시장 업무규정 시행세칙_54차_주권상장법인자기주식(신탁)매매신청서.hwp"
@@ -87,9 +87,9 @@ attachments:
     size: 34304
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 484
-    converted_non_space_chars: 411
-    table_row_count: 1
+    converted_text_chars: 613
+    converted_non_space_chars: 459
+    table_row_count: 2
   - id: "210224651-202311230000021860000212011-byl-hwp"
     title: "[업무서식 3] 유동성공급계약내용 신고서<개정 2019.4.17>"
     file_name: "코넥스시장 업무규정 시행세칙_54차_유동성공급계약내용신고서.hwp"
@@ -103,9 +103,9 @@ attachments:
     size: 37376
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 566
-    converted_non_space_chars: 472
-    table_row_count: 1
+    converted_text_chars: 534
+    converted_non_space_chars: 393
+    table_row_count: 4
   - id: "210224651-202311230000021860000212012-byl-hwp"
     title: "[업무서식 4] 경매매신청서"
     file_name: "코넥스시장 업무규정 시행세칙_54차_경매매신청서.hwp"
@@ -119,9 +119,9 @@ attachments:
     size: 23552
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 242
-    converted_non_space_chars: 199
-    table_row_count: 1
+    converted_text_chars: 353
+    converted_non_space_chars: 245
+    table_row_count: 2
   - id: "210224651-202311230000021860000212013-byl-hwp"
     title: "[업무서식 5] 착오매매정정신청서"
     file_name: "코넥스시장 업무규정 시행세칙_54차_착오매매정정신청서.hwp"
@@ -135,9 +135,9 @@ attachments:
     size: 23040
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 215
-    converted_non_space_chars: 154
-    table_row_count: 1
+    converted_text_chars: 640
+    converted_non_space_chars: 424
+    table_row_count: 6
   - id: "210224651-202311230000021860000212014-byl-hwp"
     title: "[업무서식 6] 착오매매처리약정서"
     file_name: "코넥스시장 업무규정 시행세칙_54차_착오매매처리약정서.hwp"
@@ -166,9 +166,9 @@ attachments:
     size: 29184
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 316
-    converted_non_space_chars: 231
-    table_row_count: 1
+    converted_text_chars: 1107
+    converted_non_space_chars: 735
+    table_row_count: 8
   - id: "210224651-202311230000021860000212016-byl-hwp"
     title: "[업무서식 8] 착오매매처리결과 통지서"
     file_name: "코넥스시장 업무규정 시행세칙_54차_착오매매처리결과통지서.hwp"
@@ -182,9 +182,9 @@ attachments:
     size: 29696
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 429
-    converted_non_space_chars: 314
-    table_row_count: 2
+    converted_text_chars: 584
+    converted_non_space_chars: 413
+    table_row_count: 3
   - id: "210224651-202311230000021860000212017-byl-hwp"
     title: "[업무서식 9] 착오매매 정산청구서"
     file_name: "코넥스시장 업무규정 시행세칙_54차_착오매매정산청구서.hwp"
@@ -230,8 +230,8 @@ attachments:
     size: 27136
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 300
-    converted_non_space_chars: 218
+    converted_text_chars: 419
+    converted_non_space_chars: 301
     table_row_count: 2
   - id: "210224651-202311230000021860000212026-byl-hwp"
     title: "[업무서식 17] 알고리즘거래계좌 신고서<신설 2022.12.22>"

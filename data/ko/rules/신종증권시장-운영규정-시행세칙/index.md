@@ -149,9 +149,9 @@ attachments:
     size: 51200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2083
-    converted_non_space_chars: 1604
-    table_row_count: 14
+    converted_text_chars: 2262
+    converted_non_space_chars: 1663
+    table_row_count: 16
   - id: "210136803-210137013-hwp"
     title: "[별지 제1호 서식] 상장계약서<신설 2025. 10. 23.>"
     file_name: "신종증권시장 운영규정 시행세칙_0차_[별지 제1호 서식] 상장계약서.hwp"
@@ -181,9 +181,9 @@ attachments:
     size: 33280
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 534
-    converted_non_space_chars: 439
-    table_row_count: 1
+    converted_text_chars: 496
+    converted_non_space_chars: 349
+    table_row_count: 2
   - id: "210136803-210137019-hwp"
     title: "[별지 제3호 서식] 추가상장신청서<신설 2025. 10. 23.>"
     file_name: "신종증권시장 운영규정 시행세칙_0차_[별지 제3호 서식] 추가상장신청서.hwp"
@@ -197,9 +197,9 @@ attachments:
     size: 39424
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 617
-    converted_non_space_chars: 524
-    table_row_count: 1
+    converted_text_chars: 1552
+    converted_non_space_chars: 1158
+    table_row_count: 16
     formula_hint_count: 1
   - id: "210136803-210137022-hwp"
     title: "[별지 제4호 서식] 변경상장신청서<신설 2025. 10. 23.>"
@@ -214,9 +214,9 @@ attachments:
     size: 32256
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 524
-    converted_non_space_chars: 457
-    table_row_count: 1
+    converted_text_chars: 1110
+    converted_non_space_chars: 752
+    table_row_count: 12
   - id: "210136803-210137027-hwp"
     title: "[별지 제5호 서식] 증권분포상황표<신설 2025. 10. 23.>"
     file_name: "신종증권시장 운영규정 시행세칙_0차_[별지 제5호 서식] 증권분포상황표.hwp"
@@ -230,9 +230,9 @@ attachments:
     size: 36864
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 632
-    converted_non_space_chars: 541
-    table_row_count: 1
+    converted_text_chars: 941
+    converted_non_space_chars: 641
+    table_row_count: 9
 ---
 
 제1장 총칙

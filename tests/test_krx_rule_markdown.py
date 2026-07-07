@@ -28,7 +28,7 @@ from krx_rule_markdown.collector import (
     safe_base,
 )
 from krx_rule_markdown.clean import clean_unreferenced_attachments, clean_unreferenced_documents, drop_past_rule_attachments
-from krx_rule_markdown.converters.hwp import render_hwp_paragraph, render_hwp_table_cells
+from krx_rule_markdown.converters.hwp import render_hwp_paragraph, render_hwp_table, render_hwp_table_cells
 from krx_rule_markdown.converters.pdf import postprocess_pdf_text
 from krx_rule_markdown.converters.tables import normalize_angle_bracket_tables, render_html_table
 from krx_rule_markdown.html import html_to_markdown
@@ -562,6 +562,68 @@ $(".goRdoc").click(function(){});
         self.assertIn('<td rowspan="2">구분</td>', text)
         self.assertIn("  <tr>\n    <td>10</td>\n  </tr>", text)
         self.assertNotIn("<td></td>", text)
+
+    def test_hwp_table_cells_preserve_blank_input_rows(self) -> None:
+        text = render_hwp_table_cells(
+            [
+                {"row": 0, "col": 0, "rowspan": 1, "colspan": 1, "text": "번호"},
+                {"row": 0, "col": 1, "rowspan": 1, "colspan": 1, "text": "내용"},
+                {"row": 1, "col": 0, "rowspan": 1, "colspan": 1, "text": ""},
+                {"row": 1, "col": 1, "rowspan": 1, "colspan": 1, "text": ""},
+            ]
+        )
+        self.assertIn("<table>", text)
+        self.assertIn("<td>번호</td>", text)
+        self.assertIn("  <tr>\n    <td></td>\n    <td></td>\n  </tr>", text)
+
+    def test_hwp_layout_table_unwraps_nested_table_structure(self) -> None:
+        models = [
+            {"tagname": "HWPTAG_TABLE", "level": 2, "content": {"rows": 1, "cols": 1, "rowcols": [1]}},
+            {"tagname": "HWPTAG_LIST_HEADER", "level": 2, "content": {"row": 0, "col": 0}},
+            {"tagname": "HWPTAG_PARA_TEXT", "level": 3, "content": {"chunks": [((0, 3), "신청서")]}},
+            {"tagname": "HWPTAG_TABLE", "level": 4, "content": {"rows": 2, "cols": 2, "rowcols": [2, 2]}},
+            {"tagname": "HWPTAG_LIST_HEADER", "level": 4, "content": {"row": 0, "col": 0}},
+            {"tagname": "HWPTAG_PARA_TEXT", "level": 5, "content": {"chunks": [((0, 2), "항목")]}},
+            {"tagname": "HWPTAG_LIST_HEADER", "level": 4, "content": {"row": 0, "col": 1}},
+            {"tagname": "HWPTAG_PARA_TEXT", "level": 5, "content": {"chunks": [((0, 1), "값")]}},
+            {"tagname": "HWPTAG_LIST_HEADER", "level": 4, "content": {"row": 1, "col": 0}},
+            {"tagname": "HWPTAG_PARA_TEXT", "level": 5, "content": {"chunks": [((0, 2), "수량")]}},
+            {"tagname": "HWPTAG_LIST_HEADER", "level": 4, "content": {"row": 1, "col": 1}},
+            {"tagname": "HWPTAG_PARA_TEXT", "level": 5, "content": {"chunks": [((0, 2), "10")]}},
+            {"tagname": "HWPTAG_PARA_TEXT", "level": 3, "content": {"chunks": [((0, 1), "끝")]}},
+        ]
+        text, next_index, formula_index, used = render_hwp_table(models, 0, [], 0)
+        self.assertEqual(next_index, len(models))
+        self.assertEqual(formula_index, 0)
+        self.assertEqual(used, 0)
+        self.assertIn("신청서", text)
+        self.assertIn("| 항목 | 값 |", text)
+        self.assertIn("| 수량 | 10 |", text)
+        self.assertIn("끝", text)
+        self.assertFalse(text.lstrip().startswith("<table>"))
+
+    def test_hwp_nested_table_inside_data_cell_is_not_escaped(self) -> None:
+        models = [
+            {"tagname": "HWPTAG_TABLE", "level": 2, "content": {"rows": 1, "cols": 2, "rowcols": [2]}},
+            {"tagname": "HWPTAG_LIST_HEADER", "level": 2, "content": {"row": 0, "col": 0}},
+            {"tagname": "HWPTAG_PARA_TEXT", "level": 3, "content": {"chunks": [((0, 2), "요약")]}},
+            {"tagname": "HWPTAG_LIST_HEADER", "level": 2, "content": {"row": 0, "col": 1}},
+            {"tagname": "HWPTAG_TABLE", "level": 4, "content": {"rows": 2, "cols": 2, "rowcols": [1, 2]}},
+            {"tagname": "HWPTAG_LIST_HEADER", "level": 4, "content": {"row": 0, "col": 0, "colspan": 2}},
+            {"tagname": "HWPTAG_PARA_TEXT", "level": 5, "content": {"chunks": [((0, 2), "상세")]}},
+            {"tagname": "HWPTAG_LIST_HEADER", "level": 4, "content": {"row": 1, "col": 0}},
+            {"tagname": "HWPTAG_PARA_TEXT", "level": 5, "content": {"chunks": [((0, 1), "A")]}},
+            {"tagname": "HWPTAG_LIST_HEADER", "level": 4, "content": {"row": 1, "col": 1}},
+            {"tagname": "HWPTAG_PARA_TEXT", "level": 5, "content": {"chunks": [((0, 1), "B")]}},
+        ]
+        text, next_index, _, _ = render_hwp_table(models, 0, [], 0)
+        self.assertEqual(next_index, len(models))
+        self.assertEqual(text.count("<table>"), 2)
+        self.assertIn("<td>요약</td>", text)
+        self.assertIn('<td colspan="2">상세</td>', text)
+        self.assertIn("<td>A</td>", text)
+        self.assertIn("<td>B</td>", text)
+        self.assertNotIn("&lt;table&gt;", text)
 
     def test_html_table_normalizes_rows_and_spans_together(self) -> None:
         text = render_html_table(

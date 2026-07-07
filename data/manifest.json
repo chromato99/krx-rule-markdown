@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "generated_at": "2026-07-04T08:08:08.253515Z",
+  "generated_at": "2026-07-07T10:48:11.670689Z",
   "source": "https://rule.krx.co.kr",
   "documents": [
     {
@@ -80,9 +80,9 @@
           "size": 15872,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1971,
-          "converted_non_space_chars": 1521,
-          "table_row_count": 14
+          "converted_text_chars": 2306,
+          "converted_non_space_chars": 1768,
+          "table_row_count": 17
         },
         {
           "id": "204847764-201705110000005520000236002-byl-hwp",
@@ -98,9 +98,9 @@
           "size": 14848,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1544,
-          "converted_non_space_chars": 1166,
-          "table_row_count": 13
+          "converted_text_chars": 1812,
+          "converted_non_space_chars": 1360,
+          "table_row_count": 15
         },
         {
           "id": "204847764-201705110000005520000236003-byl-hwp",
@@ -134,9 +134,9 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1315,
-          "converted_non_space_chars": 999,
-          "table_row_count": 11
+          "converted_text_chars": 1729,
+          "converted_non_space_chars": 1306,
+          "table_row_count": 15
         },
         {
           "id": "204847764-201705110000005520000236005-byl-hwp",
@@ -152,9 +152,9 @@
           "size": 12288,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 839,
-          "converted_non_space_chars": 646,
-          "table_row_count": 8
+          "converted_text_chars": 1384,
+          "converted_non_space_chars": 1026,
+          "table_row_count": 13
         }
       ],
       "path": "ko/rules/krx금시장-매매거래용-금지금-관세면제-추천요령/index.md"
@@ -216,8 +216,8 @@
           "size": 32768,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 301,
-          "converted_non_space_chars": 223,
+          "converted_text_chars": 401,
+          "converted_non_space_chars": 293,
           "table_row_count": 2
         },
         {
@@ -234,9 +234,9 @@
           "size": 41984,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 523,
-          "converted_non_space_chars": 405,
-          "table_row_count": 1
+          "converted_text_chars": 2073,
+          "converted_non_space_chars": 1395,
+          "table_row_count": 11
         },
         {
           "id": "204847757-202410150000022550000233004-byl-hwp",
@@ -252,9 +252,9 @@
           "size": 30720,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 559,
-          "converted_non_space_chars": 402,
-          "table_row_count": 5
+          "converted_text_chars": 600,
+          "converted_non_space_chars": 431,
+          "table_row_count": 6
         },
         {
           "id": "204847757-202410150000022550000233005-byl-hwp",
@@ -270,9 +270,9 @@
           "size": 44544,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 704,
-          "converted_non_space_chars": 549,
-          "table_row_count": 1
+          "converted_text_chars": 3572,
+          "converted_non_space_chars": 2385,
+          "table_row_count": 13
         },
         {
           "id": "204847757-202410150000022550000233006-byl-hwp",
@@ -306,9 +306,9 @@
           "size": 28160,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1040,
-          "converted_non_space_chars": 741,
-          "table_row_count": 8
+          "converted_text_chars": 2648,
+          "converted_non_space_chars": 1883,
+          "table_row_count": 29
         },
         {
           "id": "204847757-202410150000022550000233008-byl-hwp",
@@ -324,9 +324,9 @@
           "size": 33792,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 982,
-          "converted_non_space_chars": 702,
-          "table_row_count": 11
+          "converted_text_chars": 1396,
+          "converted_non_space_chars": 984,
+          "table_row_count": 17
         },
         {
           "id": "204847757-202410150000022550000233009-byl-hwp",
@@ -342,9 +342,9 @@
           "size": 18432,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 585,
-          "converted_non_space_chars": 418,
-          "table_row_count": 6
+          "converted_text_chars": 1118,
+          "converted_non_space_chars": 791,
+          "table_row_count": 15
         },
         {
           "id": "204847757-202410150000022550000233010-byl-hwp",
@@ -396,9 +396,9 @@
           "size": 31232,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 283,
-          "converted_non_space_chars": 228,
-          "table_row_count": 1
+          "converted_text_chars": 423,
+          "converted_non_space_chars": 291,
+          "table_row_count": 3
         },
         {
           "id": "204847757-202410150000022550000233013-byl-hwp",
@@ -758,9 +758,9 @@
           "size": 17408,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1219,
-          "converted_non_space_chars": 992,
-          "table_row_count": 3
+          "converted_text_chars": 1319,
+          "converted_non_space_chars": 978,
+          "table_row_count": 5
         },
         {
           "id": "210188913-202406250000022380000232006-byl-hwp",
@@ -812,9 +812,9 @@
           "size": 14848,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 509,
-          "converted_non_space_chars": 429,
-          "table_row_count": 1
+          "converted_text_chars": 682,
+          "converted_non_space_chars": 501,
+          "table_row_count": 6
         },
         {
           "id": "210188913-202406250000022380000232009-byl-hwp",
@@ -830,9 +830,9 @@
           "size": 14848,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 462,
-          "converted_non_space_chars": 377,
-          "table_row_count": 1
+          "converted_text_chars": 731,
+          "converted_non_space_chars": 519,
+          "table_row_count": 6
         },
         {
           "id": "210188913-202406250000022380000232010-byl-hwp",
@@ -848,9 +848,9 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 399,
-          "converted_non_space_chars": 338,
-          "table_row_count": 1
+          "converted_text_chars": 1082,
+          "converted_non_space_chars": 734,
+          "table_row_count": 6
         },
         {
           "id": "210188913-202406250000022380000232011-byl-hwp",
@@ -961,9 +961,9 @@
           "size": 67584,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5944,
-          "converted_non_space_chars": 4655,
-          "table_row_count": 28,
+          "converted_text_chars": 7113,
+          "converted_non_space_chars": 5508,
+          "table_row_count": 47,
           "formula_hint_count": 10
         },
         {
@@ -980,9 +980,9 @@
           "size": 51200,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3480,
-          "converted_non_space_chars": 2687,
-          "table_row_count": 32
+          "converted_text_chars": 4992,
+          "converted_non_space_chars": 3789,
+          "table_row_count": 50
         },
         {
           "id": "210084351-202309070000021740000268004-byl-hwp",
@@ -998,9 +998,9 @@
           "size": 37888,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1911,
-          "converted_non_space_chars": 1431,
-          "table_row_count": 18
+          "converted_text_chars": 2184,
+          "converted_non_space_chars": 1628,
+          "table_row_count": 22
         },
         {
           "id": "210084351-202309070000021740000268005-byl-hwp",
@@ -1016,9 +1016,9 @@
           "size": 35328,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1022,
-          "converted_non_space_chars": 776,
-          "table_row_count": 7,
+          "converted_text_chars": 1106,
+          "converted_non_space_chars": 836,
+          "table_row_count": 9,
           "formula_hint_count": 1
         },
         {
@@ -1124,9 +1124,9 @@
           "size": 52224,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3703,
-          "converted_non_space_chars": 2826,
-          "table_row_count": 30,
+          "converted_text_chars": 3871,
+          "converted_non_space_chars": 2946,
+          "table_row_count": 34,
           "formula_hint_count": 4
         }
       ],
@@ -1171,8 +1171,8 @@
           "size": 34304,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 471,
-          "converted_non_space_chars": 342,
+          "converted_text_chars": 628,
+          "converted_non_space_chars": 451,
           "table_row_count": 2
         },
         {
@@ -1189,9 +1189,9 @@
           "size": 23552,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 205,
-          "converted_non_space_chars": 143,
-          "table_row_count": 2
+          "converted_text_chars": 362,
+          "converted_non_space_chars": 249,
+          "table_row_count": 3
         },
         {
           "id": "204847877-202409200000008990000254003-byl-hwp",
@@ -1357,9 +1357,9 @@
           "size": 53248,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2680,
-          "converted_non_space_chars": 2091,
-          "table_row_count": 40
+          "converted_text_chars": 4352,
+          "converted_non_space_chars": 3207,
+          "table_row_count": 58
         },
         {
           "id": "210024015-202409200000022490000294005-byl-hwp",
@@ -1375,9 +1375,9 @@
           "size": 41984,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 875,
-          "converted_non_space_chars": 774,
-          "table_row_count": 2
+          "converted_text_chars": 1674,
+          "converted_non_space_chars": 1248,
+          "table_row_count": 15
         },
         {
           "id": "210024015-202409200000022490000294006-byl-hwp",
@@ -1393,9 +1393,9 @@
           "size": 40448,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 652,
-          "converted_non_space_chars": 555,
-          "table_row_count": 2
+          "converted_text_chars": 1988,
+          "converted_non_space_chars": 1391,
+          "table_row_count": 18
         },
         {
           "id": "210024015-202409200000022490000294007-byl-hwp",
@@ -1411,9 +1411,9 @@
           "size": 46080,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2325,
-          "converted_non_space_chars": 1775,
-          "table_row_count": 40
+          "converted_text_chars": 3370,
+          "converted_non_space_chars": 2447,
+          "table_row_count": 53
         },
         {
           "id": "210024015-202409200000022490000294008-byl-hwp",
@@ -1429,9 +1429,9 @@
           "size": 55808,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1315,
-          "converted_non_space_chars": 901,
-          "table_row_count": 1
+          "converted_text_chars": 1330,
+          "converted_non_space_chars": 1008,
+          "table_row_count": 7
         },
         {
           "id": "210024015-202409200000022490000294009-byl-hwp",
@@ -1447,9 +1447,9 @@
           "size": 50688,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 902,
-          "converted_non_space_chars": 772,
-          "table_row_count": 1
+          "converted_text_chars": 1800,
+          "converted_non_space_chars": 1362,
+          "table_row_count": 11
         },
         {
           "id": "210024015-202409200000022490000294010-byl-hwp",
@@ -1465,8 +1465,8 @@
           "size": 51712,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 832,
-          "converted_non_space_chars": 668,
+          "converted_text_chars": 818,
+          "converted_non_space_chars": 640,
           "table_row_count": 1
         }
       ],
@@ -1584,9 +1584,9 @@
           "size": 56320,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 11295,
-          "converted_non_space_chars": 8828,
-          "table_row_count": 48,
+          "converted_text_chars": 11879,
+          "converted_non_space_chars": 9260,
+          "table_row_count": 52,
           "formula_block_count": 5,
           "formula_hint_count": 32
         },
@@ -1604,9 +1604,9 @@
           "size": 41984,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1468,
-          "converted_non_space_chars": 1192,
-          "table_row_count": 3
+          "converted_text_chars": 1947,
+          "converted_non_space_chars": 1414,
+          "table_row_count": 10
         },
         {
           "id": "210205830-210219868-hwp",
@@ -1622,9 +1622,9 @@
           "size": 110080,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4657,
-          "converted_non_space_chars": 3546,
-          "table_row_count": 9
+          "converted_text_chars": 5202,
+          "converted_non_space_chars": 3906,
+          "table_row_count": 13
         },
         {
           "id": "210205830-210077921-hwp",
@@ -1640,9 +1640,9 @@
           "size": 44544,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 534,
-          "converted_non_space_chars": 471,
-          "table_row_count": 1
+          "converted_text_chars": 893,
+          "converted_non_space_chars": 644,
+          "table_row_count": 10
         },
         {
           "id": "210205830-210077929-hwp",
@@ -1704,9 +1704,9 @@
           "size": 28672,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 561,
-          "converted_non_space_chars": 403,
-          "table_row_count": 5
+          "converted_text_chars": 602,
+          "converted_non_space_chars": 432,
+          "table_row_count": 6
         },
         {
           "id": "204847824-202410150000022540000246002-byl-hwp",
@@ -1740,9 +1740,9 @@
           "size": 27136,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1044,
-          "converted_non_space_chars": 745,
-          "table_row_count": 8
+          "converted_text_chars": 2510,
+          "converted_non_space_chars": 1783,
+          "table_row_count": 25
         },
         {
           "id": "204847824-202410150000022540000246004-byl-hwp",
@@ -1758,9 +1758,9 @@
           "size": 33280,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 982,
-          "converted_non_space_chars": 702,
-          "table_row_count": 11
+          "converted_text_chars": 1396,
+          "converted_non_space_chars": 984,
+          "table_row_count": 17
         },
         {
           "id": "204847824-202410150000022540000246005-byl-hwp",
@@ -1776,9 +1776,9 @@
           "size": 17408,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 585,
-          "converted_non_space_chars": 418,
-          "table_row_count": 6
+          "converted_text_chars": 1118,
+          "converted_non_space_chars": 791,
+          "table_row_count": 15
         },
         {
           "id": "204847824-202410150000022540000246006-byl-hwp",
@@ -1830,9 +1830,9 @@
           "size": 29184,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 282,
-          "converted_non_space_chars": 227,
-          "table_row_count": 1
+          "converted_text_chars": 422,
+          "converted_non_space_chars": 290,
+          "table_row_count": 3
         },
         {
           "id": "204847824-202410150000022540000246009-byl-hwp",
@@ -2193,9 +2193,9 @@
           "size": 33280,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 377,
-          "converted_non_space_chars": 330,
-          "table_row_count": 1
+          "converted_text_chars": 1040,
+          "converted_non_space_chars": 711,
+          "table_row_count": 8
         }
       ],
       "path": "ko/rules/배출권-거래시장-운영규정-시행세칙/index.md"
@@ -2429,9 +2429,9 @@
           "size": 15872,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1966,
-          "converted_non_space_chars": 1517,
-          "table_row_count": 14
+          "converted_text_chars": 2301,
+          "converted_non_space_chars": 1764,
+          "table_row_count": 17
         },
         {
           "id": "204847401-201301100000003130000194002-byl-hwp",
@@ -2447,9 +2447,9 @@
           "size": 14336,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1524,
-          "converted_non_space_chars": 1148,
-          "table_row_count": 13
+          "converted_text_chars": 1792,
+          "converted_non_space_chars": 1342,
+          "table_row_count": 15
         },
         {
           "id": "204847401-201301100000003130000194003-byl-hwp",
@@ -2483,9 +2483,9 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1273,
-          "converted_non_space_chars": 973,
-          "table_row_count": 11
+          "converted_text_chars": 1687,
+          "converted_non_space_chars": 1280,
+          "table_row_count": 15
         },
         {
           "id": "204847401-201301100000003130000194005-byl-hwp",
@@ -2501,9 +2501,9 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1447,
-          "converted_non_space_chars": 1110,
-          "table_row_count": 12
+          "converted_text_chars": 1941,
+          "converted_non_space_chars": 1475,
+          "table_row_count": 16
         },
         {
           "id": "204847401-201301100000003130000194006-byl-hwp",
@@ -2519,9 +2519,9 @@
           "size": 11776,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 746,
-          "converted_non_space_chars": 548,
-          "table_row_count": 9
+          "converted_text_chars": 901,
+          "converted_non_space_chars": 647,
+          "table_row_count": 10
         },
         {
           "id": "204847401-201301100000003130000194007-byl-hwp",
@@ -2555,9 +2555,9 @@
           "size": 12288,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 818,
-          "converted_non_space_chars": 628,
-          "table_row_count": 8
+          "converted_text_chars": 1363,
+          "converted_non_space_chars": 1008,
+          "table_row_count": 13
         }
       ],
       "path": "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/index.md"
@@ -2674,9 +2674,9 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 852,
-          "converted_non_space_chars": 752,
-          "table_row_count": 2
+          "converted_text_chars": 1449,
+          "converted_non_space_chars": 1031,
+          "table_row_count": 18
         },
         {
           "id": "210025875-201902150000006310000083002-byl-hwp",
@@ -2692,9 +2692,9 @@
           "size": 14848,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 784,
-          "converted_non_space_chars": 681,
-          "table_row_count": 2
+          "converted_text_chars": 1274,
+          "converted_non_space_chars": 913,
+          "table_row_count": 18
         }
       ],
       "path": "ko/rules/손해배상공동기금-관리지침/index.md"
@@ -2738,9 +2738,9 @@
           "size": 46080,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 684,
-          "converted_non_space_chars": 524,
-          "table_row_count": 1
+          "converted_text_chars": 1661,
+          "converted_non_space_chars": 1153,
+          "table_row_count": 8
         },
         {
           "id": "210222386-202410150000022530000006002-byl-hwp",
@@ -2756,9 +2756,9 @@
           "size": 36352,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 351,
-          "converted_non_space_chars": 264,
-          "table_row_count": 2
+          "converted_text_chars": 513,
+          "converted_non_space_chars": 378,
+          "table_row_count": 4
         },
         {
           "id": "210222386-202410150000022530000006004-byl-hwp",
@@ -2774,9 +2774,9 @@
           "size": 43520,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 547,
-          "converted_non_space_chars": 407,
-          "table_row_count": 2
+          "converted_text_chars": 2159,
+          "converted_non_space_chars": 1441,
+          "table_row_count": 14
         },
         {
           "id": "210222386-202410150000022530000006005-byl-hwp",
@@ -2792,9 +2792,9 @@
           "size": 30720,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 569,
-          "converted_non_space_chars": 410,
-          "table_row_count": 5
+          "converted_text_chars": 672,
+          "converted_non_space_chars": 483,
+          "table_row_count": 8
         },
         {
           "id": "210222386-202410150000022530000006006-byl-hwp",
@@ -2810,9 +2810,9 @@
           "size": 48128,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 728,
-          "converted_non_space_chars": 565,
-          "table_row_count": 1
+          "converted_text_chars": 3826,
+          "converted_non_space_chars": 2553,
+          "table_row_count": 15
         },
         {
           "id": "210222386-202410150000022530000006008-byl-hwp",
@@ -2828,9 +2828,9 @@
           "size": 47616,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1007,
-          "converted_non_space_chars": 706,
-          "table_row_count": 10
+          "converted_text_chars": 1972,
+          "converted_non_space_chars": 1322,
+          "table_row_count": 27
         },
         {
           "id": "210222386-202410150000022530000006009-byl-hwp",
@@ -2846,9 +2846,9 @@
           "size": 30720,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1042,
-          "converted_non_space_chars": 742,
-          "table_row_count": 8
+          "converted_text_chars": 2930,
+          "converted_non_space_chars": 2076,
+          "table_row_count": 33
         },
         {
           "id": "210222386-202410150000022530000006010-byl-hwp",
@@ -2864,9 +2864,9 @@
           "size": 40960,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 952,
-          "converted_non_space_chars": 665,
-          "table_row_count": 12
+          "converted_text_chars": 1522,
+          "converted_non_space_chars": 1025,
+          "table_row_count": 22
         },
         {
           "id": "210222386-202410150000022530000006011-byl-hwp",
@@ -2882,9 +2882,9 @@
           "size": 31744,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1388,
-          "converted_non_space_chars": 975,
-          "table_row_count": 13
+          "converted_text_chars": 2526,
+          "converted_non_space_chars": 1770,
+          "table_row_count": 33
         },
         {
           "id": "210222386-202410150000022530000006012-byl-hwp",
@@ -2900,9 +2900,9 @@
           "size": 36352,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 883,
-          "converted_non_space_chars": 593,
-          "table_row_count": 11
+          "converted_text_chars": 2215,
+          "converted_non_space_chars": 1447,
+          "table_row_count": 35
         },
         {
           "id": "210222386-202410150000022530000006014-byl-hwp",
@@ -2918,9 +2918,9 @@
           "size": 36352,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1365,
-          "converted_non_space_chars": 999,
-          "table_row_count": 13
+          "converted_text_chars": 2306,
+          "converted_non_space_chars": 1655,
+          "table_row_count": 26
         },
         {
           "id": "210222386-210036233-hwp",
@@ -2936,9 +2936,9 @@
           "size": 56320,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2418,
-          "converted_non_space_chars": 1561,
-          "table_row_count": 1
+          "converted_text_chars": 3462,
+          "converted_non_space_chars": 2478,
+          "table_row_count": 19
         },
         {
           "id": "210222386-210036234-hwp",
@@ -2954,9 +2954,9 @@
           "size": 36864,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 501,
-          "converted_non_space_chars": 430,
-          "table_row_count": 1
+          "converted_text_chars": 651,
+          "converted_non_space_chars": 467,
+          "table_row_count": 4
         },
         {
           "id": "210222386-210036248-hwp",
@@ -3043,9 +3043,9 @@
           "size": 41984,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 855,
-          "converted_non_space_chars": 671,
-          "table_row_count": 5
+          "converted_text_chars": 896,
+          "converted_non_space_chars": 700,
+          "table_row_count": 6
         },
         {
           "id": "210222386-202410150000022530000006022-byl-hwp",
@@ -3393,9 +3393,9 @@
           "size": 51200,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2083,
-          "converted_non_space_chars": 1604,
-          "table_row_count": 14
+          "converted_text_chars": 2262,
+          "converted_non_space_chars": 1663,
+          "table_row_count": 16
         },
         {
           "id": "210136803-210137013-hwp",
@@ -3429,9 +3429,9 @@
           "size": 33280,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 534,
-          "converted_non_space_chars": 439,
-          "table_row_count": 1
+          "converted_text_chars": 496,
+          "converted_non_space_chars": 349,
+          "table_row_count": 2
         },
         {
           "id": "210136803-210137019-hwp",
@@ -3447,9 +3447,9 @@
           "size": 39424,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 617,
-          "converted_non_space_chars": 524,
-          "table_row_count": 1,
+          "converted_text_chars": 1552,
+          "converted_non_space_chars": 1158,
+          "table_row_count": 16,
           "formula_hint_count": 1
         },
         {
@@ -3466,9 +3466,9 @@
           "size": 32256,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 524,
-          "converted_non_space_chars": 457,
-          "table_row_count": 1
+          "converted_text_chars": 1110,
+          "converted_non_space_chars": 752,
+          "table_row_count": 12
         },
         {
           "id": "210136803-210137027-hwp",
@@ -3484,9 +3484,9 @@
           "size": 36864,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 632,
-          "converted_non_space_chars": 541,
-          "table_row_count": 1
+          "converted_text_chars": 941,
+          "converted_non_space_chars": 641,
+          "table_row_count": 9
         }
       ],
       "path": "ko/rules/신종증권시장-운영규정-시행세칙/index.md"
@@ -3604,9 +3604,8 @@
           "size": 34816,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 355,
-          "converted_non_space_chars": 289,
-          "table_row_count": 1
+          "converted_text_chars": 304,
+          "converted_non_space_chars": 227
         },
         {
           "id": "210179748-202411140000022700000013006-byl-hwp",
@@ -3622,9 +3621,8 @@
           "size": 34304,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 353,
-          "converted_non_space_chars": 286,
-          "table_row_count": 1
+          "converted_text_chars": 306,
+          "converted_non_space_chars": 232
         },
         {
           "id": "210179748-202411140000022700000013007-byl-hwp",
@@ -3640,9 +3638,8 @@
           "size": 35328,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 368,
-          "converted_non_space_chars": 293,
-          "table_row_count": 1
+          "converted_text_chars": 321,
+          "converted_non_space_chars": 239
         },
         {
           "id": "210179748-202411140000022700000013008-byl-hwp",
@@ -3658,9 +3655,8 @@
           "size": 45568,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 562,
-          "converted_non_space_chars": 450,
-          "table_row_count": 1
+          "converted_text_chars": 513,
+          "converted_non_space_chars": 392
         },
         {
           "id": "210179748-202411140000022700000013009-byl-hwp",
@@ -3676,9 +3672,8 @@
           "size": 34816,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 405,
-          "converted_non_space_chars": 325,
-          "table_row_count": 1
+          "converted_text_chars": 348,
+          "converted_non_space_chars": 251
         },
         {
           "id": "210179748-202411140000022700000013010-byl-hwp",
@@ -3694,9 +3689,8 @@
           "size": 36864,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 496,
-          "converted_non_space_chars": 392,
-          "table_row_count": 1
+          "converted_text_chars": 445,
+          "converted_non_space_chars": 330
         },
         {
           "id": "210179748-202411140000022700000013011-byl-hwp",
@@ -3730,9 +3724,8 @@
           "size": 30720,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 275,
-          "converted_non_space_chars": 224,
-          "table_row_count": 1
+          "converted_text_chars": 234,
+          "converted_non_space_chars": 182
         }
       ],
       "path": "ko/rules/유가증권시장-공시규정-시행세칙/index.md"
@@ -3893,9 +3886,9 @@
           "size": 104960,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 8472,
-          "converted_non_space_chars": 6157,
-          "table_row_count": 1
+          "converted_text_chars": 7899,
+          "converted_non_space_chars": 6052,
+          "table_row_count": 13
         },
         {
           "id": "210222644-202406140000022350000016005-byl-hwp",
@@ -3911,9 +3904,9 @@
           "size": 49664,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5460,
-          "converted_non_space_chars": 3727,
-          "table_row_count": 1
+          "converted_text_chars": 5561,
+          "converted_non_space_chars": 4166,
+          "table_row_count": 30
         },
         {
           "id": "210222644-210203409-hwp",
@@ -3929,9 +3922,9 @@
           "size": 62464,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 10351,
-          "converted_non_space_chars": 7339,
-          "table_row_count": 1,
+          "converted_text_chars": 9800,
+          "converted_non_space_chars": 7477,
+          "table_row_count": 28,
           "formula_hint_count": 1
         },
         {
@@ -4002,9 +3995,9 @@
           "size": 68608,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2883,
-          "converted_non_space_chars": 2199,
-          "table_row_count": 6
+          "converted_text_chars": 2775,
+          "converted_non_space_chars": 2216,
+          "table_row_count": 7
         },
         {
           "id": "210222644-202406140000022350000016011-byl-hwp",
@@ -4020,9 +4013,9 @@
           "size": 116224,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2344,
-          "converted_non_space_chars": 1708,
-          "table_row_count": 3
+          "converted_text_chars": 2332,
+          "converted_non_space_chars": 1848,
+          "table_row_count": 8
         },
         {
           "id": "210222644-210224647-hwp",
@@ -4111,9 +4104,9 @@
           "size": 84480,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 12711,
-          "converted_non_space_chars": 9995,
-          "table_row_count": 40
+          "converted_text_chars": 13442,
+          "converted_non_space_chars": 10264,
+          "table_row_count": 58
         },
         {
           "id": "210222644-202406140000022350000016017-byl-hwp",
@@ -4147,9 +4140,9 @@
           "size": 34816,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 492,
-          "converted_non_space_chars": 414,
-          "table_row_count": 1
+          "converted_text_chars": 466,
+          "converted_non_space_chars": 339,
+          "table_row_count": 2
         },
         {
           "id": "210222644-202406140000022350000016019-byl-hwp",
@@ -4183,9 +4176,9 @@
           "size": 48128,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2486,
-          "converted_non_space_chars": 1486,
-          "table_row_count": 1
+          "converted_text_chars": 2881,
+          "converted_non_space_chars": 2134,
+          "table_row_count": 17
         },
         {
           "id": "210222644-202406140000022350000016021-byl-hwp",
@@ -4201,9 +4194,9 @@
           "size": 39424,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 581,
-          "converted_non_space_chars": 469,
-          "table_row_count": 1
+          "converted_text_chars": 844,
+          "converted_non_space_chars": 599,
+          "table_row_count": 6
         },
         {
           "id": "210222644-202406140000022350000016022-byl-hwp",
@@ -4219,9 +4212,9 @@
           "size": 38912,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 584,
-          "converted_non_space_chars": 472,
-          "table_row_count": 1
+          "converted_text_chars": 847,
+          "converted_non_space_chars": 602,
+          "table_row_count": 6
         },
         {
           "id": "210222644-210224719-hwp",
@@ -4237,9 +4230,9 @@
           "size": 68608,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6583,
-          "converted_non_space_chars": 4024,
-          "table_row_count": 2,
+          "converted_text_chars": 13821,
+          "converted_non_space_chars": 9489,
+          "table_row_count": 81,
           "formula_hint_count": 5
         },
         {
@@ -4256,9 +4249,9 @@
           "size": 138752,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4838,
-          "converted_non_space_chars": 3305,
-          "table_row_count": 1,
+          "converted_text_chars": 5477,
+          "converted_non_space_chars": 4068,
+          "table_row_count": 29,
           "formula_hint_count": 2
         },
         {
@@ -4275,9 +4268,9 @@
           "size": 70144,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3836,
-          "converted_non_space_chars": 2648,
-          "table_row_count": 1,
+          "converted_text_chars": 3989,
+          "converted_non_space_chars": 2991,
+          "table_row_count": 15,
           "formula_hint_count": 2
         },
         {
@@ -4294,9 +4287,9 @@
           "size": 74752,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6318,
-          "converted_non_space_chars": 4454,
-          "table_row_count": 1,
+          "converted_text_chars": 6931,
+          "converted_non_space_chars": 5228,
+          "table_row_count": 31,
           "formula_hint_count": 2
         },
         {
@@ -4313,9 +4306,9 @@
           "size": 145920,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6477,
-          "converted_non_space_chars": 4595,
-          "table_row_count": 1,
+          "converted_text_chars": 7031,
+          "converted_non_space_chars": 5334,
+          "table_row_count": 30,
           "formula_hint_count": 2
         },
         {
@@ -4332,9 +4325,9 @@
           "size": 70656,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6691,
-          "converted_non_space_chars": 4774,
-          "table_row_count": 1,
+          "converted_text_chars": 6956,
+          "converted_non_space_chars": 5252,
+          "table_row_count": 30,
           "formula_hint_count": 2
         },
         {
@@ -4351,9 +4344,9 @@
           "size": 70144,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6744,
-          "converted_non_space_chars": 4819,
-          "table_row_count": 1,
+          "converted_text_chars": 6976,
+          "converted_non_space_chars": 5279,
+          "table_row_count": 30,
           "formula_hint_count": 2
         },
         {
@@ -4370,9 +4363,9 @@
           "size": 71680,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5077,
-          "converted_non_space_chars": 3525,
-          "table_row_count": 1,
+          "converted_text_chars": 5195,
+          "converted_non_space_chars": 3865,
+          "table_row_count": 21,
           "formula_hint_count": 2
         },
         {
@@ -4389,9 +4382,9 @@
           "size": 41984,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1512,
-          "converted_non_space_chars": 949,
-          "table_row_count": 1
+          "converted_text_chars": 2898,
+          "converted_non_space_chars": 2095,
+          "table_row_count": 37
         },
         {
           "id": "210222644-202406140000022350000016032-byl-hwp",
@@ -4407,9 +4400,9 @@
           "size": 43520,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3881,
-          "converted_non_space_chars": 2308,
-          "table_row_count": 1,
+          "converted_text_chars": 7522,
+          "converted_non_space_chars": 5425,
+          "table_row_count": 88,
           "formula_hint_count": 4
         },
         {
@@ -4426,9 +4419,9 @@
           "size": 47616,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2105,
-          "converted_non_space_chars": 1443,
-          "table_row_count": 1
+          "converted_text_chars": 3270,
+          "converted_non_space_chars": 2366,
+          "table_row_count": 21
         },
         {
           "id": "210222644-202406140000022350000016034-byl-hwp",
@@ -4444,9 +4437,9 @@
           "size": 48640,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2340,
-          "converted_non_space_chars": 1495,
-          "table_row_count": 1,
+          "converted_text_chars": 2761,
+          "converted_non_space_chars": 2032,
+          "table_row_count": 19,
           "formula_hint_count": 1
         },
         {
@@ -4463,9 +4456,9 @@
           "size": 49664,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3275,
-          "converted_non_space_chars": 1996,
-          "table_row_count": 1,
+          "converted_text_chars": 4668,
+          "converted_non_space_chars": 3315,
+          "table_row_count": 35,
           "formula_hint_count": 9
         },
         {
@@ -4482,9 +4475,9 @@
           "size": 75264,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5459,
-          "converted_non_space_chars": 3292,
-          "table_row_count": 2,
+          "converted_text_chars": 11747,
+          "converted_non_space_chars": 8557,
+          "table_row_count": 83,
           "formula_hint_count": 2
         },
         {
@@ -4501,9 +4494,9 @@
           "size": 39936,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 474,
-          "converted_non_space_chars": 407,
-          "table_row_count": 1
+          "converted_text_chars": 1682,
+          "converted_non_space_chars": 1264,
+          "table_row_count": 17
         },
         {
           "id": "210222644-202406140000022350000016038-byl-hwp",
@@ -4519,9 +4512,9 @@
           "size": 43520,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 644,
-          "converted_non_space_chars": 590,
-          "table_row_count": 1
+          "converted_text_chars": 3470,
+          "converted_non_space_chars": 2323,
+          "table_row_count": 25
         },
         {
           "id": "210222644-210141988-hwp",
@@ -4537,9 +4530,9 @@
           "size": 40960,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 487,
-          "converted_non_space_chars": 415,
-          "table_row_count": 1
+          "converted_text_chars": 871,
+          "converted_non_space_chars": 639,
+          "table_row_count": 5
         },
         {
           "id": "210222644-202406140000022350000016040-byl-hwp",
@@ -4555,9 +4548,9 @@
           "size": 45568,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 639,
-          "converted_non_space_chars": 558,
-          "table_row_count": 1
+          "converted_text_chars": 1563,
+          "converted_non_space_chars": 1119,
+          "table_row_count": 11
         },
         {
           "id": "210222644-202406140000022350000016041-byl-hwp",
@@ -4573,9 +4566,9 @@
           "size": 40960,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 575,
-          "converted_non_space_chars": 485,
-          "table_row_count": 1
+          "converted_text_chars": 965,
+          "converted_non_space_chars": 699,
+          "table_row_count": 7
         },
         {
           "id": "210222644-202406140000022350000016042-byl-hwp",
@@ -4591,9 +4584,9 @@
           "size": 46080,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 655,
-          "converted_non_space_chars": 560,
-          "table_row_count": 1
+          "converted_text_chars": 1340,
+          "converted_non_space_chars": 994,
+          "table_row_count": 10
         },
         {
           "id": "210222644-202406140000022350000016043-byl-hwp",
@@ -4609,9 +4602,9 @@
           "size": 43008,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 585,
-          "converted_non_space_chars": 522,
-          "table_row_count": 1
+          "converted_text_chars": 1630,
+          "converted_non_space_chars": 1201,
+          "table_row_count": 8
         },
         {
           "id": "210222644-202406140000022350000016044-byl-hwp",
@@ -4627,9 +4620,9 @@
           "size": 38912,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 571,
-          "converted_non_space_chars": 482,
-          "table_row_count": 1
+          "converted_text_chars": 1021,
+          "converted_non_space_chars": 753,
+          "table_row_count": 7
         },
         {
           "id": "210222644-202406140000022350000016045-byl-hwp",
@@ -4645,9 +4638,9 @@
           "size": 37888,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 536,
-          "converted_non_space_chars": 451,
-          "table_row_count": 1
+          "converted_text_chars": 918,
+          "converted_non_space_chars": 674,
+          "table_row_count": 8
         },
         {
           "id": "210222644-202406140000022350000016046-byl-hwp",
@@ -4663,9 +4656,9 @@
           "size": 38912,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 503,
-          "converted_non_space_chars": 431,
-          "table_row_count": 1
+          "converted_text_chars": 950,
+          "converted_non_space_chars": 695,
+          "table_row_count": 9
         },
         {
           "id": "210222644-202406140000022350000016047-byl-hwp",
@@ -4681,9 +4674,9 @@
           "size": 33792,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 435,
-          "converted_non_space_chars": 366,
-          "table_row_count": 1
+          "converted_text_chars": 721,
+          "converted_non_space_chars": 529,
+          "table_row_count": 6
         },
         {
           "id": "210222644-202406140000022350000016048-byl-hwp",
@@ -4699,9 +4692,9 @@
           "size": 53760,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1385,
-          "converted_non_space_chars": 930,
-          "table_row_count": 1
+          "converted_text_chars": 1979,
+          "converted_non_space_chars": 1467,
+          "table_row_count": 8
         },
         {
           "id": "210222644-202406140000022350000016049-byl-hwp",
@@ -4717,9 +4710,9 @@
           "size": 54784,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 810,
-          "converted_non_space_chars": 747,
-          "table_row_count": 1,
+          "converted_text_chars": 2250,
+          "converted_non_space_chars": 1703,
+          "table_row_count": 15,
           "formula_hint_count": 1
         },
         {
@@ -4736,9 +4729,9 @@
           "size": 40960,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 844,
-          "converted_non_space_chars": 741,
-          "table_row_count": 1
+          "converted_text_chars": 1421,
+          "converted_non_space_chars": 954,
+          "table_row_count": 14
         },
         {
           "id": "210222644-202406140000022350000016051-byl-hwp",
@@ -4754,9 +4747,9 @@
           "size": 43008,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 961,
-          "converted_non_space_chars": 857,
-          "table_row_count": 1
+          "converted_text_chars": 3257,
+          "converted_non_space_chars": 2359,
+          "table_row_count": 45
         },
         {
           "id": "210222644-202406140000022350000016052-byl-hwp",
@@ -4772,9 +4765,9 @@
           "size": 92672,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 713,
-          "converted_non_space_chars": 610,
-          "table_row_count": 1
+          "converted_text_chars": 1723,
+          "converted_non_space_chars": 1298,
+          "table_row_count": 17
         },
         {
           "id": "210222644-202406140000022350000016053-byl-hwp",
@@ -4790,9 +4783,9 @@
           "size": 54272,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 791,
-          "converted_non_space_chars": 732,
-          "table_row_count": 1,
+          "converted_text_chars": 2397,
+          "converted_non_space_chars": 1824,
+          "table_row_count": 15,
           "formula_hint_count": 1
         },
         {
@@ -4809,9 +4802,9 @@
           "size": 54784,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6223,
-          "converted_non_space_chars": 3846,
-          "table_row_count": 1,
+          "converted_text_chars": 12346,
+          "converted_non_space_chars": 8970,
+          "table_row_count": 142,
           "formula_hint_count": 1
         },
         {
@@ -4828,9 +4821,9 @@
           "size": 48640,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4221,
-          "converted_non_space_chars": 2648,
-          "table_row_count": 6,
+          "converted_text_chars": 10641,
+          "converted_non_space_chars": 5868,
+          "table_row_count": 87,
           "formula_hint_count": 1
         },
         {
@@ -4847,9 +4840,9 @@
           "size": 48640,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 801,
-          "converted_non_space_chars": 701,
-          "table_row_count": 1
+          "converted_text_chars": 1602,
+          "converted_non_space_chars": 1184,
+          "table_row_count": 14
         },
         {
           "id": "210222644-202406140000022350000016057-byl-hwp",
@@ -4865,9 +4858,9 @@
           "size": 70144,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 405,
-          "converted_non_space_chars": 345,
-          "table_row_count": 1
+          "converted_text_chars": 812,
+          "converted_non_space_chars": 594,
+          "table_row_count": 8
         },
         {
           "id": "210222644-202406140000022350000016058-byl-hwp",
@@ -5214,9 +5207,9 @@
           "size": 34816,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 446,
-          "converted_non_space_chars": 350,
-          "table_row_count": 2,
+          "converted_text_chars": 685,
+          "converted_non_space_chars": 505,
+          "table_row_count": 5,
           "formula_hint_count": 7
         },
         {
@@ -5251,9 +5244,9 @@
           "size": 36864,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1371,
-          "converted_non_space_chars": 1008,
-          "table_row_count": 8
+          "converted_text_chars": 3205,
+          "converted_non_space_chars": 2178,
+          "table_row_count": 22
         },
         {
           "id": "210225129-210153110-hwp",
@@ -5269,9 +5262,9 @@
           "size": 45568,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 756,
-          "converted_non_space_chars": 597,
-          "table_row_count": 3,
+          "converted_text_chars": 883,
+          "converted_non_space_chars": 678,
+          "table_row_count": 4,
           "formula_hint_count": 4
         },
         {
@@ -5342,9 +5335,9 @@
           "size": 59904,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5803,
-          "converted_non_space_chars": 4491,
-          "table_row_count": 8
+          "converted_text_chars": 8081,
+          "converted_non_space_chars": 5947,
+          "table_row_count": 30
         },
         {
           "id": "210225129-202410290000022560000111027-byl-hwp",
@@ -5360,9 +5353,9 @@
           "size": 38400,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 889,
-          "converted_non_space_chars": 682,
-          "table_row_count": 4
+          "converted_text_chars": 1058,
+          "converted_non_space_chars": 790,
+          "table_row_count": 5
         },
         {
           "id": "210225129-202410290000022560000111028-byl-hwp",
@@ -5378,9 +5371,9 @@
           "size": 40448,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1040,
-          "converted_non_space_chars": 780,
-          "table_row_count": 9
+          "converted_text_chars": 1338,
+          "converted_non_space_chars": 899,
+          "table_row_count": 13
         },
         {
           "id": "210225129-202410290000022560000111029-byl-hwp",
@@ -5396,9 +5389,9 @@
           "size": 24064,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 232,
-          "converted_non_space_chars": 170,
-          "table_row_count": 1,
+          "converted_text_chars": 657,
+          "converted_non_space_chars": 440,
+          "table_row_count": 6,
           "formula_hint_count": 4
         },
         {
@@ -5415,9 +5408,9 @@
           "size": 56320,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5151,
-          "converted_non_space_chars": 3673,
-          "table_row_count": 45,
+          "converted_text_chars": 6323,
+          "converted_non_space_chars": 4420,
+          "table_row_count": 55,
           "formula_hint_count": 24
         },
         {
@@ -5470,9 +5463,9 @@
           "size": 40448,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 712,
-          "converted_non_space_chars": 561,
-          "table_row_count": 2,
+          "converted_text_chars": 1036,
+          "converted_non_space_chars": 791,
+          "table_row_count": 4,
           "formula_hint_count": 7
         },
         {
@@ -5507,9 +5500,9 @@
           "size": 29696,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 603,
-          "converted_non_space_chars": 458,
-          "table_row_count": 2
+          "converted_text_chars": 758,
+          "converted_non_space_chars": 557,
+          "table_row_count": 3
         },
         {
           "id": "210225129-202410290000022560000111036-byl-hwp",
@@ -5729,9 +5722,9 @@
           "size": 53248,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 12536,
-          "converted_non_space_chars": 10255,
-          "table_row_count": 27,
+          "converted_text_chars": 12167,
+          "converted_non_space_chars": 9995,
+          "table_row_count": 13,
           "formula_block_count": 62,
           "formula_hint_count": 127
         },
@@ -5767,9 +5760,9 @@
           "size": 82944,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 63968,
-          "converted_non_space_chars": 52735,
-          "table_row_count": 18,
+          "converted_text_chars": 62925,
+          "converted_non_space_chars": 52107,
+          "table_row_count": 4,
           "formula_block_count": 285,
           "formula_hint_count": 744
         },
@@ -6151,8 +6144,8 @@
           "size": 400896,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1681,
-          "converted_non_space_chars": 1257,
+          "converted_text_chars": 1711,
+          "converted_non_space_chars": 1264,
           "table_row_count": 18
         },
         {
@@ -6169,9 +6162,9 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 259,
-          "converted_non_space_chars": 218,
-          "table_row_count": 1
+          "converted_text_chars": 1389,
+          "converted_non_space_chars": 697,
+          "table_row_count": 15
         },
         {
           "id": "204847848-202104160000007280000250005-byl-hwp",
@@ -6187,9 +6180,9 @@
           "size": 16384,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 994,
-          "converted_non_space_chars": 758,
-          "table_row_count": 7
+          "converted_text_chars": 1052,
+          "converted_non_space_chars": 794,
+          "table_row_count": 9
         }
       ],
       "path": "ko/rules/전문가회의-및-기술평가제도-운영지침/index.md"
@@ -6289,9 +6282,9 @@
           "size": 51200,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3670,
-          "converted_non_space_chars": 2711,
-          "table_row_count": 29
+          "converted_text_chars": 4029,
+          "converted_non_space_chars": 2957,
+          "table_row_count": 32
         },
         {
           "id": "210203237-202312280000008630000123004-byl-hwp",
@@ -6324,9 +6317,9 @@
           "size": 32768,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 243,
-          "converted_non_space_chars": 183,
-          "table_row_count": 1
+          "converted_text_chars": 947,
+          "converted_non_space_chars": 635,
+          "table_row_count": 7
         },
         {
           "id": "210203237-210205359-hwp",
@@ -6359,9 +6352,9 @@
           "size": 50688,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1627,
-          "converted_non_space_chars": 1225,
-          "table_row_count": 9
+          "converted_text_chars": 1714,
+          "converted_non_space_chars": 1279,
+          "table_row_count": 12
         }
       ],
       "path": "ko/rules/전문평가제도-운영지침/index.md"
@@ -6392,9 +6385,9 @@
           "size": 45056,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1188,
-          "converted_non_space_chars": 991,
-          "table_row_count": 2
+          "converted_text_chars": 1817,
+          "converted_non_space_chars": 1320,
+          "table_row_count": 13
         },
         {
           "id": "204848011-202304270000008300000318002-byl-hwp",
@@ -6410,9 +6403,9 @@
           "size": 28672,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 229,
-          "converted_non_space_chars": 191,
-          "table_row_count": 1
+          "converted_text_chars": 575,
+          "converted_non_space_chars": 401,
+          "table_row_count": 7
         }
       ],
       "path": "ko/rules/전자금융거래-분쟁처리지침/index.md"
@@ -6576,9 +6569,9 @@
           "size": 72192,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3729,
-          "converted_non_space_chars": 2987,
-          "table_row_count": 19
+          "converted_text_chars": 4069,
+          "converted_non_space_chars": 3099,
+          "table_row_count": 23
         },
         {
           "id": "210137438-210137539-hwp",
@@ -6612,9 +6605,9 @@
           "size": 33280,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 461,
-          "converted_non_space_chars": 395,
-          "table_row_count": 1
+          "converted_text_chars": 837,
+          "converted_non_space_chars": 616,
+          "table_row_count": 7
         },
         {
           "id": "210137438-210067582-hwp",
@@ -6630,9 +6623,9 @@
           "size": 39424,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1022,
-          "converted_non_space_chars": 762,
-          "table_row_count": 9
+          "converted_text_chars": 1320,
+          "converted_non_space_chars": 881,
+          "table_row_count": 13
         }
       ],
       "path": "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/index.md"
@@ -6732,9 +6725,9 @@
           "size": 46592,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1920,
-          "converted_non_space_chars": 1468,
-          "table_row_count": 10,
+          "converted_text_chars": 2504,
+          "converted_non_space_chars": 1900,
+          "table_row_count": 14,
           "formula_hint_count": 5
         },
         {
@@ -6751,9 +6744,9 @@
           "size": 71168,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 25011,
-          "converted_non_space_chars": 19890,
-          "table_row_count": 86,
+          "converted_text_chars": 25887,
+          "converted_non_space_chars": 20538,
+          "table_row_count": 92,
           "formula_block_count": 24,
           "formula_hint_count": 133
         },
@@ -6789,9 +6782,9 @@
           "size": 46080,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1453,
-          "converted_non_space_chars": 1179,
-          "table_row_count": 3
+          "converted_text_chars": 1932,
+          "converted_non_space_chars": 1401,
+          "table_row_count": 10
         },
         {
           "id": "210202173-202404120000008760000292007-byl-hwp",
@@ -6824,9 +6817,9 @@
           "size": 64000,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6819,
-          "converted_non_space_chars": 5194,
-          "table_row_count": 15
+          "converted_text_chars": 12953,
+          "converted_non_space_chars": 9114,
+          "table_row_count": 69
         },
         {
           "id": "210202173-210077710-hwp",
@@ -6842,9 +6835,9 @@
           "size": 46080,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 607,
-          "converted_non_space_chars": 539,
-          "table_row_count": 1
+          "converted_text_chars": 1161,
+          "converted_non_space_chars": 838,
+          "table_row_count": 11
         },
         {
           "id": "210202173-202404120000008760000292010-byl-hwp",
@@ -7242,9 +7235,9 @@
           "size": 47616,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3760,
-          "converted_non_space_chars": 2659,
-          "table_row_count": 1
+          "converted_text_chars": 3438,
+          "converted_non_space_chars": 2601,
+          "table_row_count": 4
         },
         {
           "id": "210224312-202411140000022710000216002-byl-hwp",
@@ -7278,9 +7271,9 @@
           "size": 14336,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 454,
-          "converted_non_space_chars": 381,
-          "table_row_count": 1
+          "converted_text_chars": 632,
+          "converted_non_space_chars": 461,
+          "table_row_count": 3
         },
         {
           "id": "210224312-202411140000022710000216004-byl-hwp",
@@ -7398,9 +7391,9 @@
           "size": 52736,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3271,
-          "converted_non_space_chars": 2623,
-          "table_row_count": 13
+          "converted_text_chars": 3448,
+          "converted_non_space_chars": 2678,
+          "table_row_count": 15
         },
         {
           "id": "210222787-202406140000022340000213004-byl-hwp",
@@ -7434,8 +7427,8 @@
           "size": 33280,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 414,
-          "converted_non_space_chars": 302,
+          "converted_text_chars": 571,
+          "converted_non_space_chars": 411,
           "table_row_count": 2
         },
         {
@@ -7452,9 +7445,9 @@
           "size": 183296,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 87494,
-          "converted_non_space_chars": 66308,
-          "table_row_count": 371,
+          "converted_text_chars": 96771,
+          "converted_non_space_chars": 72370,
+          "table_row_count": 438,
           "formula_hint_count": 367
         },
         {
@@ -7556,9 +7549,9 @@
           "size": 49664,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4184,
-          "converted_non_space_chars": 3191,
-          "table_row_count": 11,
+          "converted_text_chars": 6929,
+          "converted_non_space_chars": 4889,
+          "table_row_count": 44,
           "formula_hint_count": 54
         },
         {
@@ -7610,8 +7603,8 @@
           "size": 31744,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 418,
-          "converted_non_space_chars": 294,
+          "converted_text_chars": 556,
+          "converted_non_space_chars": 390,
           "table_row_count": 2
         },
         {
@@ -7628,9 +7621,9 @@
           "size": 40448,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1710,
-          "converted_non_space_chars": 1260,
-          "table_row_count": 17
+          "converted_text_chars": 1751,
+          "converted_non_space_chars": 1289,
+          "table_row_count": 18
         },
         {
           "id": "210222787-202406140000022340000213019-byl-hwp",
@@ -7646,9 +7639,9 @@
           "size": 46080,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5314,
-          "converted_non_space_chars": 3927,
-          "table_row_count": 64
+          "converted_text_chars": 5355,
+          "converted_non_space_chars": 3956,
+          "table_row_count": 65
         },
         {
           "id": "210222787-202406140000022340000213020-byl-hwp",
@@ -7774,9 +7767,9 @@
           "size": 29184,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 391,
-          "converted_non_space_chars": 302,
-          "table_row_count": 5
+          "converted_text_chars": 403,
+          "converted_non_space_chars": 284,
+          "table_row_count": 3
         },
         {
           "id": "210222787-202406140000022340000213026-byl-hwp",
@@ -7810,9 +7803,9 @@
           "size": 133120,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 56513,
-          "converted_non_space_chars": 42514,
-          "table_row_count": 271,
+          "converted_text_chars": 60435,
+          "converted_non_space_chars": 44993,
+          "table_row_count": 303,
           "formula_hint_count": 222
         },
         {
@@ -7829,9 +7822,9 @@
           "size": 185344,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 86994,
-          "converted_non_space_chars": 65867,
-          "table_row_count": 366,
+          "converted_text_chars": 96279,
+          "converted_non_space_chars": 71921,
+          "table_row_count": 433,
           "formula_hint_count": 357
         },
         {
@@ -7848,9 +7841,9 @@
           "size": 187392,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 87094,
-          "converted_non_space_chars": 65754,
-          "table_row_count": 368,
+          "converted_text_chars": 96648,
+          "converted_non_space_chars": 71992,
+          "table_row_count": 437,
           "formula_hint_count": 357
         },
         {
@@ -7886,9 +7879,9 @@
           "size": 46080,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6355,
-          "converted_non_space_chars": 4660,
-          "table_row_count": 31,
+          "converted_text_chars": 9608,
+          "converted_non_space_chars": 6760,
+          "table_row_count": 56,
           "formula_hint_count": 6
         },
         {
@@ -8088,9 +8081,9 @@
           "size": 38400,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 547,
-          "converted_non_space_chars": 454,
-          "table_row_count": 1
+          "converted_text_chars": 670,
+          "converted_non_space_chars": 490,
+          "table_row_count": 2
         },
         {
           "id": "210224651-202311230000021860000212010-byl-hwp",
@@ -8106,9 +8099,9 @@
           "size": 34304,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 484,
-          "converted_non_space_chars": 411,
-          "table_row_count": 1
+          "converted_text_chars": 613,
+          "converted_non_space_chars": 459,
+          "table_row_count": 2
         },
         {
           "id": "210224651-202311230000021860000212011-byl-hwp",
@@ -8124,9 +8117,9 @@
           "size": 37376,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 566,
-          "converted_non_space_chars": 472,
-          "table_row_count": 1
+          "converted_text_chars": 534,
+          "converted_non_space_chars": 393,
+          "table_row_count": 4
         },
         {
           "id": "210224651-202311230000021860000212012-byl-hwp",
@@ -8142,9 +8135,9 @@
           "size": 23552,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 242,
-          "converted_non_space_chars": 199,
-          "table_row_count": 1
+          "converted_text_chars": 353,
+          "converted_non_space_chars": 245,
+          "table_row_count": 2
         },
         {
           "id": "210224651-202311230000021860000212013-byl-hwp",
@@ -8160,9 +8153,9 @@
           "size": 23040,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 215,
-          "converted_non_space_chars": 154,
-          "table_row_count": 1
+          "converted_text_chars": 640,
+          "converted_non_space_chars": 424,
+          "table_row_count": 6
         },
         {
           "id": "210224651-202311230000021860000212014-byl-hwp",
@@ -8195,9 +8188,9 @@
           "size": 29184,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 316,
-          "converted_non_space_chars": 231,
-          "table_row_count": 1
+          "converted_text_chars": 1107,
+          "converted_non_space_chars": 735,
+          "table_row_count": 8
         },
         {
           "id": "210224651-202311230000021860000212016-byl-hwp",
@@ -8213,9 +8206,9 @@
           "size": 29696,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 429,
-          "converted_non_space_chars": 314,
-          "table_row_count": 2
+          "converted_text_chars": 584,
+          "converted_non_space_chars": 413,
+          "table_row_count": 3
         },
         {
           "id": "210224651-202311230000021860000212017-byl-hwp",
@@ -8267,8 +8260,8 @@
           "size": 27136,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 300,
-          "converted_non_space_chars": 218,
+          "converted_text_chars": 419,
+          "converted_non_space_chars": 301,
           "table_row_count": 2
         },
         {
@@ -8916,9 +8909,9 @@
           "size": 67584,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3087,
-          "converted_non_space_chars": 2164,
-          "table_row_count": 1
+          "converted_text_chars": 3451,
+          "converted_non_space_chars": 2640,
+          "table_row_count": 14
         },
         {
           "id": "210222109-210224951-hwp",
@@ -8934,9 +8927,9 @@
           "size": 64000,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 7276,
-          "converted_non_space_chars": 5091,
-          "table_row_count": 1
+          "converted_text_chars": 7830,
+          "converted_non_space_chars": 5980,
+          "table_row_count": 38
         },
         {
           "id": "210222109-202407120000022430000112012-byl-hwp",
@@ -9006,9 +8999,9 @@
           "size": 111104,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 7528,
-          "converted_non_space_chars": 5436,
-          "table_row_count": 2
+          "converted_text_chars": 8218,
+          "converted_non_space_chars": 5928,
+          "table_row_count": 58
         },
         {
           "id": "210222109-202407120000022430000112016-byl-hwp",
@@ -9042,9 +9035,9 @@
           "size": 41984,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 939,
-          "converted_non_space_chars": 784,
-          "table_row_count": 1,
+          "converted_text_chars": 2224,
+          "converted_non_space_chars": 1564,
+          "table_row_count": 18,
           "formula_hint_count": 2
         },
         {
@@ -9061,9 +9054,9 @@
           "size": 33792,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1372,
-          "converted_non_space_chars": 1144,
-          "table_row_count": 3
+          "converted_text_chars": 1852,
+          "converted_non_space_chars": 1345,
+          "table_row_count": 7
         },
         {
           "id": "210222109-210190410-hwp",
@@ -9133,9 +9126,9 @@
           "size": 27136,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 335,
-          "converted_non_space_chars": 272,
-          "table_row_count": 1
+          "converted_text_chars": 299,
+          "converted_non_space_chars": 195,
+          "table_row_count": 2
         },
         {
           "id": "210222109-202407120000022430000112023-byl-hwp",
@@ -9169,9 +9162,9 @@
           "size": 35328,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3119,
-          "converted_non_space_chars": 1958,
-          "table_row_count": 1,
+          "converted_text_chars": 3728,
+          "converted_non_space_chars": 2743,
+          "table_row_count": 17,
           "formula_hint_count": 59
         },
         {
@@ -9188,9 +9181,9 @@
           "size": 49664,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3951,
-          "converted_non_space_chars": 2570,
-          "table_row_count": 1,
+          "converted_text_chars": 5159,
+          "converted_non_space_chars": 3692,
+          "table_row_count": 22,
           "formula_hint_count": 37
         },
         {
@@ -9207,9 +9200,9 @@
           "size": 40960,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2958,
-          "converted_non_space_chars": 1924,
-          "table_row_count": 1,
+          "converted_text_chars": 3331,
+          "converted_non_space_chars": 2315,
+          "table_row_count": 13,
           "formula_hint_count": 2
         },
         {
@@ -9226,9 +9219,9 @@
           "size": 50176,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2705,
-          "converted_non_space_chars": 1947,
-          "table_row_count": 2
+          "converted_text_chars": 3043,
+          "converted_non_space_chars": 2198,
+          "table_row_count": 18
         },
         {
           "id": "210222109-210190303-hwp",
@@ -9262,9 +9255,9 @@
           "size": 46592,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2440,
-          "converted_non_space_chars": 1574,
-          "table_row_count": 1,
+          "converted_text_chars": 2904,
+          "converted_non_space_chars": 2140,
+          "table_row_count": 20,
           "formula_hint_count": 1
         },
         {
@@ -9281,9 +9274,9 @@
           "size": 84992,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 16178,
-          "converted_non_space_chars": 11509,
-          "table_row_count": 9,
+          "converted_text_chars": 23438,
+          "converted_non_space_chars": 17262,
+          "table_row_count": 93,
           "formula_hint_count": 2
         },
         {
@@ -9300,9 +9293,9 @@
           "size": 59904,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5851,
-          "converted_non_space_chars": 3979,
-          "table_row_count": 1,
+          "converted_text_chars": 7521,
+          "converted_non_space_chars": 5514,
+          "table_row_count": 42,
           "formula_hint_count": 2
         },
         {
@@ -9319,9 +9312,9 @@
           "size": 58368,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5409,
-          "converted_non_space_chars": 3699,
-          "table_row_count": 1,
+          "converted_text_chars": 6900,
+          "converted_non_space_chars": 5071,
+          "table_row_count": 38,
           "formula_hint_count": 2
         },
         {
@@ -9338,9 +9331,9 @@
           "size": 63488,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 9094,
-          "converted_non_space_chars": 6352,
-          "table_row_count": 1,
+          "converted_text_chars": 11157,
+          "converted_non_space_chars": 8321,
+          "table_row_count": 59,
           "formula_hint_count": 2
         },
         {
@@ -9357,9 +9350,9 @@
           "size": 60928,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 7472,
-          "converted_non_space_chars": 5228,
-          "table_row_count": 1,
+          "converted_text_chars": 9050,
+          "converted_non_space_chars": 6777,
+          "table_row_count": 45,
           "formula_hint_count": 2
         },
         {
@@ -9376,9 +9369,9 @@
           "size": 69120,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 9496,
-          "converted_non_space_chars": 6666,
-          "table_row_count": 1,
+          "converted_text_chars": 11452,
+          "converted_non_space_chars": 8553,
+          "table_row_count": 61,
           "formula_hint_count": 2
         },
         {
@@ -9395,9 +9388,9 @@
           "size": 63488,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 7963,
-          "converted_non_space_chars": 5586,
-          "table_row_count": 1,
+          "converted_text_chars": 9387,
+          "converted_non_space_chars": 7012,
+          "table_row_count": 47,
           "formula_hint_count": 2
         },
         {
@@ -9414,9 +9407,9 @@
           "size": 64000,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6248,
-          "converted_non_space_chars": 4265,
-          "table_row_count": 1,
+          "converted_text_chars": 7683,
+          "converted_non_space_chars": 5632,
+          "table_row_count": 43,
           "formula_hint_count": 2
         },
         {
@@ -9433,9 +9426,9 @@
           "size": 35328,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 898,
-          "converted_non_space_chars": 797,
-          "table_row_count": 1
+          "converted_text_chars": 2725,
+          "converted_non_space_chars": 1957,
+          "table_row_count": 36
         },
         {
           "id": "210222109-202407120000022430000112039-byl-hwp",
@@ -9451,9 +9444,9 @@
           "size": 44032,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2673,
-          "converted_non_space_chars": 1612,
-          "table_row_count": 1,
+          "converted_text_chars": 6716,
+          "converted_non_space_chars": 4890,
+          "table_row_count": 90,
           "formula_hint_count": 4
         },
         {
@@ -9470,9 +9463,9 @@
           "size": 39936,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 688,
-          "converted_non_space_chars": 573,
-          "table_row_count": 1
+          "converted_text_chars": 943,
+          "converted_non_space_chars": 687,
+          "table_row_count": 6
         },
         {
           "id": "210222109-210190323-hwp",
@@ -9488,9 +9481,9 @@
           "size": 46592,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2172,
-          "converted_non_space_chars": 1538,
-          "table_row_count": 2
+          "converted_text_chars": 5379,
+          "converted_non_space_chars": 3785,
+          "table_row_count": 68
         },
         {
           "id": "210222109-202407120000022430000112042-byl-hwp",
@@ -9506,9 +9499,9 @@
           "size": 45568,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1711,
-          "converted_non_space_chars": 1150,
-          "table_row_count": 1,
+          "converted_text_chars": 1853,
+          "converted_non_space_chars": 1343,
+          "table_row_count": 12,
           "formula_hint_count": 1
         },
         {
@@ -9543,9 +9536,9 @@
           "size": 39424,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 676,
-          "converted_non_space_chars": 562,
-          "table_row_count": 1
+          "converted_text_chars": 931,
+          "converted_non_space_chars": 676,
+          "table_row_count": 6
         },
         {
           "id": "210222109-210091249-hwp",
@@ -9561,9 +9554,9 @@
           "size": 42496,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 743,
-          "converted_non_space_chars": 606,
-          "table_row_count": 1,
+          "converted_text_chars": 923,
+          "converted_non_space_chars": 676,
+          "table_row_count": 5,
           "formula_hint_count": 1
         },
         {
@@ -9580,9 +9573,9 @@
           "size": 52224,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3802,
-          "converted_non_space_chars": 2379,
-          "table_row_count": 1
+          "converted_text_chars": 8708,
+          "converted_non_space_chars": 6025,
+          "table_row_count": 75
         },
         {
           "id": "210222109-202407120000022430000112047-byl-hwp",
@@ -9636,9 +9629,9 @@
           "size": 45056,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1602,
-          "converted_non_space_chars": 1039,
-          "table_row_count": 1
+          "converted_text_chars": 2023,
+          "converted_non_space_chars": 1455,
+          "table_row_count": 16
         },
         {
           "id": "210222109-202407120000022430000112049-byl-hwp",
@@ -9654,9 +9647,9 @@
           "size": 48128,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1748,
-          "converted_non_space_chars": 1179,
-          "table_row_count": 1
+          "converted_text_chars": 1589,
+          "converted_non_space_chars": 1154,
+          "table_row_count": 9
         },
         {
           "id": "210222109-202407120000022430000112050-byl-hwp",
@@ -9672,9 +9665,9 @@
           "size": 46592,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3274,
-          "converted_non_space_chars": 1988,
-          "table_row_count": 1,
+          "converted_text_chars": 4659,
+          "converted_non_space_chars": 3313,
+          "table_row_count": 35,
           "formula_hint_count": 9
         },
         {
@@ -9691,9 +9684,9 @@
           "size": 56320,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3587,
-          "converted_non_space_chars": 2633,
-          "table_row_count": 1
+          "converted_text_chars": 3968,
+          "converted_non_space_chars": 2971,
+          "table_row_count": 15
         },
         {
           "id": "210222109-202407120000022430000112052-byl-hwp",
@@ -9727,9 +9720,9 @@
           "size": 36352,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1597,
-          "converted_non_space_chars": 1105,
-          "table_row_count": 1
+          "converted_text_chars": 1843,
+          "converted_non_space_chars": 1349,
+          "table_row_count": 8
         },
         {
           "id": "210222109-202407120000022430000112054-byl-hwp",
@@ -9745,9 +9738,9 @@
           "size": 36864,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 868,
-          "converted_non_space_chars": 777,
-          "table_row_count": 1
+          "converted_text_chars": 3064,
+          "converted_non_space_chars": 2215,
+          "table_row_count": 43
         },
         {
           "id": "210222109-202407120000022430000112055-byl-hwp",
@@ -9763,9 +9756,9 @@
           "size": 38912,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 649,
-          "converted_non_space_chars": 553,
-          "table_row_count": 1
+          "converted_text_chars": 1314,
+          "converted_non_space_chars": 965,
+          "table_row_count": 14
         },
         {
           "id": "210222109-202407120000022430000112056-byl-hwp",
@@ -9781,9 +9774,9 @@
           "size": 31744,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 459,
-          "converted_non_space_chars": 373,
-          "table_row_count": 1
+          "converted_text_chars": 556,
+          "converted_non_space_chars": 391,
+          "table_row_count": 2
         },
         {
           "id": "210222109-202407120000022430000112057-byl-hwp",
@@ -9799,9 +9792,9 @@
           "size": 38912,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2378,
-          "converted_non_space_chars": 1400,
-          "table_row_count": 1
+          "converted_text_chars": 2782,
+          "converted_non_space_chars": 2052,
+          "table_row_count": 17
         },
         {
           "id": "210222109-202407120000022430000112058-byl-hwp",
@@ -9817,9 +9810,9 @@
           "size": 46080,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 768,
-          "converted_non_space_chars": 638,
-          "table_row_count": 1
+          "converted_text_chars": 785,
+          "converted_non_space_chars": 604,
+          "table_row_count": 3
         },
         {
           "id": "210222109-210090659-hwp",
@@ -9835,9 +9828,9 @@
           "size": 39936,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 686,
-          "converted_non_space_chars": 565,
-          "table_row_count": 1
+          "converted_text_chars": 705,
+          "converted_non_space_chars": 535,
+          "table_row_count": 3
         },
         {
           "id": "210222109-210225034-hwp",
@@ -9922,9 +9915,9 @@
           "size": 41472,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1265,
-          "converted_non_space_chars": 942,
-          "table_row_count": 10,
+          "converted_text_chars": 1468,
+          "converted_non_space_chars": 1013,
+          "table_row_count": 14,
           "formula_hint_count": 4
         }
       ],
@@ -10145,9 +10138,9 @@
           "size": 39936,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 575,
-          "converted_non_space_chars": 480,
-          "table_row_count": 1
+          "converted_text_chars": 698,
+          "converted_non_space_chars": 516,
+          "table_row_count": 2
         },
         {
           "id": "210223538-202311230000021890000113017-byl-hwp",
@@ -10163,9 +10156,9 @@
           "size": 14336,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 505,
-          "converted_non_space_chars": 430,
-          "table_row_count": 1
+          "converted_text_chars": 646,
+          "converted_non_space_chars": 485,
+          "table_row_count": 2
         },
         {
           "id": "210223538-202311230000021890000113023-byl-hwp",
@@ -10181,9 +10174,9 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 491,
-          "converted_non_space_chars": 422,
-          "table_row_count": 1
+          "converted_text_chars": 455,
+          "converted_non_space_chars": 344,
+          "table_row_count": 4
         },
         {
           "id": "210223538-202311230000021890000113024-byl-hwp",
@@ -10235,9 +10228,9 @@
           "size": 25088,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5833,
-          "converted_non_space_chars": 4520,
-          "table_row_count": 7
+          "converted_text_chars": 8082,
+          "converted_non_space_chars": 5951,
+          "table_row_count": 30
         },
         {
           "id": "210223538-202311230000021890000113027-byl-hwp",
@@ -10253,9 +10246,9 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 886,
-          "converted_non_space_chars": 680,
-          "table_row_count": 4
+          "converted_text_chars": 1055,
+          "converted_non_space_chars": 788,
+          "table_row_count": 5
         },
         {
           "id": "210223538-202311230000021890000113029-byl-hwp",
@@ -10271,9 +10264,9 @@
           "size": 13312,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 228,
-          "converted_non_space_chars": 166,
-          "table_row_count": 1
+          "converted_text_chars": 653,
+          "converted_non_space_chars": 436,
+          "table_row_count": 6
         },
         {
           "id": "210223538-202311230000021890000113030-byl-hwp",
@@ -10306,9 +10299,9 @@
           "size": 14336,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 329,
-          "converted_non_space_chars": 244,
-          "table_row_count": 1
+          "converted_text_chars": 1120,
+          "converted_non_space_chars": 748,
+          "table_row_count": 8
         },
         {
           "id": "210223538-210186676-hwp",
@@ -10360,9 +10353,9 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 454,
-          "converted_non_space_chars": 337,
-          "table_row_count": 2
+          "converted_text_chars": 609,
+          "converted_non_space_chars": 436,
+          "table_row_count": 3
         },
         {
           "id": "210223538-202311230000021890000113035-byl-hwp",
@@ -10414,8 +10407,8 @@
           "size": 13312,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 322,
-          "converted_non_space_chars": 239,
+          "converted_text_chars": 441,
+          "converted_non_space_chars": 322,
           "table_row_count": 2
         },
         {
@@ -10867,9 +10860,9 @@
           "size": 57344,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 12119,
-          "converted_non_space_chars": 9422,
-          "table_row_count": 31,
+          "converted_text_chars": 12099,
+          "converted_non_space_chars": 9555,
+          "table_row_count": 41,
           "formula_block_count": 7,
           "formula_hint_count": 159
         },
@@ -11145,9 +11138,9 @@
           "size": 15872,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 583,
-          "converted_non_space_chars": 421,
-          "table_row_count": 9
+          "converted_text_chars": 1293,
+          "converted_non_space_chars": 891,
+          "table_row_count": 13
         },
         {
           "id": "210228709-202411010000022630000114046-byl-hwp",
@@ -11235,9 +11228,9 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 316,
-          "converted_non_space_chars": 242,
-          "table_row_count": 2
+          "converted_text_chars": 2576,
+          "converted_non_space_chars": 1682,
+          "table_row_count": 22
         },
         {
           "id": "210228709-202411010000022630000114051-byl-hwp",
@@ -11253,9 +11246,9 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 613,
-          "converted_non_space_chars": 459,
-          "table_row_count": 5
+          "converted_text_chars": 910,
+          "converted_non_space_chars": 648,
+          "table_row_count": 8
         },
         {
           "id": "210228709-202411010000022630000114052-byl-hwp",
@@ -11271,9 +11264,9 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 425,
-          "converted_non_space_chars": 318,
-          "table_row_count": 3
+          "converted_text_chars": 780,
+          "converted_non_space_chars": 543,
+          "table_row_count": 8
         },
         {
           "id": "210228709-202411010000022630000114055-byl-hwp",
@@ -11307,9 +11300,9 @@
           "size": 16896,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2390,
-          "converted_non_space_chars": 1861,
-          "table_row_count": 11
+          "converted_text_chars": 2732,
+          "converted_non_space_chars": 2119,
+          "table_row_count": 13
         },
         {
           "id": "210228709-210125286-hwp",
@@ -12216,7 +12209,7 @@
       "title": "Enforcement Rules of Membership Regulation",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
       "collected_at": "2026-07-03T21:10:04.592540Z",
-      "content_hash": "5794aef667ed8af138e156d6d3a0ae16d8774126dc3ad92bf191b4f3f7604c6a",
+      "content_hash": "24165385ae552b36b4f0d88e8bbb98ef98c252ca455fff4ed476e2eb49e7d199",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 회원관리규정",
@@ -12731,9 +12724,9 @@
       "size": 15872,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1971,
-      "converted_non_space_chars": 1521,
-      "table_row_count": 14
+      "converted_text_chars": 2306,
+      "converted_non_space_chars": 1768,
+      "table_row_count": 17
     },
     {
       "id": "204847764-201705110000005520000236002-byl-hwp",
@@ -12749,9 +12742,9 @@
       "size": 14848,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1544,
-      "converted_non_space_chars": 1166,
-      "table_row_count": 13
+      "converted_text_chars": 1812,
+      "converted_non_space_chars": 1360,
+      "table_row_count": 15
     },
     {
       "id": "204847764-201705110000005520000236003-byl-hwp",
@@ -12785,9 +12778,9 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1315,
-      "converted_non_space_chars": 999,
-      "table_row_count": 11
+      "converted_text_chars": 1729,
+      "converted_non_space_chars": 1306,
+      "table_row_count": 15
     },
     {
       "id": "204847764-201705110000005520000236005-byl-hwp",
@@ -12803,9 +12796,9 @@
       "size": 12288,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 839,
-      "converted_non_space_chars": 646,
-      "table_row_count": 8
+      "converted_text_chars": 1384,
+      "converted_non_space_chars": 1026,
+      "table_row_count": 13
     },
     {
       "id": "204847757-202410150000022550000233001-byl-hwp",
@@ -12839,8 +12832,8 @@
       "size": 32768,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 301,
-      "converted_non_space_chars": 223,
+      "converted_text_chars": 401,
+      "converted_non_space_chars": 293,
       "table_row_count": 2
     },
     {
@@ -12857,9 +12850,9 @@
       "size": 41984,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 523,
-      "converted_non_space_chars": 405,
-      "table_row_count": 1
+      "converted_text_chars": 2073,
+      "converted_non_space_chars": 1395,
+      "table_row_count": 11
     },
     {
       "id": "204847757-202410150000022550000233004-byl-hwp",
@@ -12875,9 +12868,9 @@
       "size": 30720,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 559,
-      "converted_non_space_chars": 402,
-      "table_row_count": 5
+      "converted_text_chars": 600,
+      "converted_non_space_chars": 431,
+      "table_row_count": 6
     },
     {
       "id": "204847757-202410150000022550000233005-byl-hwp",
@@ -12893,9 +12886,9 @@
       "size": 44544,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 704,
-      "converted_non_space_chars": 549,
-      "table_row_count": 1
+      "converted_text_chars": 3572,
+      "converted_non_space_chars": 2385,
+      "table_row_count": 13
     },
     {
       "id": "204847757-202410150000022550000233006-byl-hwp",
@@ -12929,9 +12922,9 @@
       "size": 28160,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1040,
-      "converted_non_space_chars": 741,
-      "table_row_count": 8
+      "converted_text_chars": 2648,
+      "converted_non_space_chars": 1883,
+      "table_row_count": 29
     },
     {
       "id": "204847757-202410150000022550000233008-byl-hwp",
@@ -12947,9 +12940,9 @@
       "size": 33792,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 982,
-      "converted_non_space_chars": 702,
-      "table_row_count": 11
+      "converted_text_chars": 1396,
+      "converted_non_space_chars": 984,
+      "table_row_count": 17
     },
     {
       "id": "204847757-202410150000022550000233009-byl-hwp",
@@ -12965,9 +12958,9 @@
       "size": 18432,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 585,
-      "converted_non_space_chars": 418,
-      "table_row_count": 6
+      "converted_text_chars": 1118,
+      "converted_non_space_chars": 791,
+      "table_row_count": 15
     },
     {
       "id": "204847757-202410150000022550000233010-byl-hwp",
@@ -13019,9 +13012,9 @@
       "size": 31232,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 283,
-      "converted_non_space_chars": 228,
-      "table_row_count": 1
+      "converted_text_chars": 423,
+      "converted_non_space_chars": 291,
+      "table_row_count": 3
     },
     {
       "id": "204847757-202410150000022550000233013-byl-hwp",
@@ -13353,9 +13346,9 @@
       "size": 17408,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1219,
-      "converted_non_space_chars": 992,
-      "table_row_count": 3
+      "converted_text_chars": 1319,
+      "converted_non_space_chars": 978,
+      "table_row_count": 5
     },
     {
       "id": "210188913-202406250000022380000232006-byl-hwp",
@@ -13407,9 +13400,9 @@
       "size": 14848,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 509,
-      "converted_non_space_chars": 429,
-      "table_row_count": 1
+      "converted_text_chars": 682,
+      "converted_non_space_chars": 501,
+      "table_row_count": 6
     },
     {
       "id": "210188913-202406250000022380000232009-byl-hwp",
@@ -13425,9 +13418,9 @@
       "size": 14848,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 462,
-      "converted_non_space_chars": 377,
-      "table_row_count": 1
+      "converted_text_chars": 731,
+      "converted_non_space_chars": 519,
+      "table_row_count": 6
     },
     {
       "id": "210188913-202406250000022380000232010-byl-hwp",
@@ -13443,9 +13436,9 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 399,
-      "converted_non_space_chars": 338,
-      "table_row_count": 1
+      "converted_text_chars": 1082,
+      "converted_non_space_chars": 734,
+      "table_row_count": 6
     },
     {
       "id": "210188913-202406250000022380000232011-byl-hwp",
@@ -13515,9 +13508,9 @@
       "size": 67584,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5944,
-      "converted_non_space_chars": 4655,
-      "table_row_count": 28,
+      "converted_text_chars": 7113,
+      "converted_non_space_chars": 5508,
+      "table_row_count": 47,
       "formula_hint_count": 10
     },
     {
@@ -13534,9 +13527,9 @@
       "size": 51200,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3480,
-      "converted_non_space_chars": 2687,
-      "table_row_count": 32
+      "converted_text_chars": 4992,
+      "converted_non_space_chars": 3789,
+      "table_row_count": 50
     },
     {
       "id": "210084351-202309070000021740000268004-byl-hwp",
@@ -13552,9 +13545,9 @@
       "size": 37888,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1911,
-      "converted_non_space_chars": 1431,
-      "table_row_count": 18
+      "converted_text_chars": 2184,
+      "converted_non_space_chars": 1628,
+      "table_row_count": 22
     },
     {
       "id": "210084351-202309070000021740000268005-byl-hwp",
@@ -13570,9 +13563,9 @@
       "size": 35328,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1022,
-      "converted_non_space_chars": 776,
-      "table_row_count": 7,
+      "converted_text_chars": 1106,
+      "converted_non_space_chars": 836,
+      "table_row_count": 9,
       "formula_hint_count": 1
     },
     {
@@ -13678,9 +13671,9 @@
       "size": 52224,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3703,
-      "converted_non_space_chars": 2826,
-      "table_row_count": 30,
+      "converted_text_chars": 3871,
+      "converted_non_space_chars": 2946,
+      "table_row_count": 34,
       "formula_hint_count": 4
     },
     {
@@ -13697,8 +13690,8 @@
       "size": 34304,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 471,
-      "converted_non_space_chars": 342,
+      "converted_text_chars": 628,
+      "converted_non_space_chars": 451,
       "table_row_count": 2
     },
     {
@@ -13715,9 +13708,9 @@
       "size": 23552,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 205,
-      "converted_non_space_chars": 143,
-      "table_row_count": 2
+      "converted_text_chars": 362,
+      "converted_non_space_chars": 249,
+      "table_row_count": 3
     },
     {
       "id": "204847877-202409200000008990000254003-byl-hwp",
@@ -13840,9 +13833,9 @@
       "size": 53248,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2680,
-      "converted_non_space_chars": 2091,
-      "table_row_count": 40
+      "converted_text_chars": 4352,
+      "converted_non_space_chars": 3207,
+      "table_row_count": 58
     },
     {
       "id": "210024015-202409200000022490000294005-byl-hwp",
@@ -13858,9 +13851,9 @@
       "size": 41984,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 875,
-      "converted_non_space_chars": 774,
-      "table_row_count": 2
+      "converted_text_chars": 1674,
+      "converted_non_space_chars": 1248,
+      "table_row_count": 15
     },
     {
       "id": "210024015-202409200000022490000294006-byl-hwp",
@@ -13876,9 +13869,9 @@
       "size": 40448,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 652,
-      "converted_non_space_chars": 555,
-      "table_row_count": 2
+      "converted_text_chars": 1988,
+      "converted_non_space_chars": 1391,
+      "table_row_count": 18
     },
     {
       "id": "210024015-202409200000022490000294007-byl-hwp",
@@ -13894,9 +13887,9 @@
       "size": 46080,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2325,
-      "converted_non_space_chars": 1775,
-      "table_row_count": 40
+      "converted_text_chars": 3370,
+      "converted_non_space_chars": 2447,
+      "table_row_count": 53
     },
     {
       "id": "210024015-202409200000022490000294008-byl-hwp",
@@ -13912,9 +13905,9 @@
       "size": 55808,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1315,
-      "converted_non_space_chars": 901,
-      "table_row_count": 1
+      "converted_text_chars": 1330,
+      "converted_non_space_chars": 1008,
+      "table_row_count": 7
     },
     {
       "id": "210024015-202409200000022490000294009-byl-hwp",
@@ -13930,9 +13923,9 @@
       "size": 50688,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 902,
-      "converted_non_space_chars": 772,
-      "table_row_count": 1
+      "converted_text_chars": 1800,
+      "converted_non_space_chars": 1362,
+      "table_row_count": 11
     },
     {
       "id": "210024015-202409200000022490000294010-byl-hwp",
@@ -13948,8 +13941,8 @@
       "size": 51712,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 832,
-      "converted_non_space_chars": 668,
+      "converted_text_chars": 818,
+      "converted_non_space_chars": 640,
       "table_row_count": 1
     },
     {
@@ -14037,9 +14030,9 @@
       "size": 56320,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 11295,
-      "converted_non_space_chars": 8828,
-      "table_row_count": 48,
+      "converted_text_chars": 11879,
+      "converted_non_space_chars": 9260,
+      "table_row_count": 52,
       "formula_block_count": 5,
       "formula_hint_count": 32
     },
@@ -14057,9 +14050,9 @@
       "size": 41984,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1468,
-      "converted_non_space_chars": 1192,
-      "table_row_count": 3
+      "converted_text_chars": 1947,
+      "converted_non_space_chars": 1414,
+      "table_row_count": 10
     },
     {
       "id": "210205830-210219868-hwp",
@@ -14075,9 +14068,9 @@
       "size": 110080,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4657,
-      "converted_non_space_chars": 3546,
-      "table_row_count": 9
+      "converted_text_chars": 5202,
+      "converted_non_space_chars": 3906,
+      "table_row_count": 13
     },
     {
       "id": "210205830-210077921-hwp",
@@ -14093,9 +14086,9 @@
       "size": 44544,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 534,
-      "converted_non_space_chars": 471,
-      "table_row_count": 1
+      "converted_text_chars": 893,
+      "converted_non_space_chars": 644,
+      "table_row_count": 10
     },
     {
       "id": "210205830-210077929-hwp",
@@ -14129,9 +14122,9 @@
       "size": 28672,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 561,
-      "converted_non_space_chars": 403,
-      "table_row_count": 5
+      "converted_text_chars": 602,
+      "converted_non_space_chars": 432,
+      "table_row_count": 6
     },
     {
       "id": "204847824-202410150000022540000246002-byl-hwp",
@@ -14165,9 +14158,9 @@
       "size": 27136,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1044,
-      "converted_non_space_chars": 745,
-      "table_row_count": 8
+      "converted_text_chars": 2510,
+      "converted_non_space_chars": 1783,
+      "table_row_count": 25
     },
     {
       "id": "204847824-202410150000022540000246004-byl-hwp",
@@ -14183,9 +14176,9 @@
       "size": 33280,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 982,
-      "converted_non_space_chars": 702,
-      "table_row_count": 11
+      "converted_text_chars": 1396,
+      "converted_non_space_chars": 984,
+      "table_row_count": 17
     },
     {
       "id": "204847824-202410150000022540000246005-byl-hwp",
@@ -14201,9 +14194,9 @@
       "size": 17408,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 585,
-      "converted_non_space_chars": 418,
-      "table_row_count": 6
+      "converted_text_chars": 1118,
+      "converted_non_space_chars": 791,
+      "table_row_count": 15
     },
     {
       "id": "204847824-202410150000022540000246006-byl-hwp",
@@ -14255,9 +14248,9 @@
       "size": 29184,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 282,
-      "converted_non_space_chars": 227,
-      "table_row_count": 1
+      "converted_text_chars": 422,
+      "converted_non_space_chars": 290,
+      "table_row_count": 3
     },
     {
       "id": "204847824-202410150000022540000246009-byl-hwp",
@@ -14590,9 +14583,9 @@
       "size": 33280,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 377,
-      "converted_non_space_chars": 330,
-      "table_row_count": 1
+      "converted_text_chars": 1040,
+      "converted_non_space_chars": 711,
+      "table_row_count": 8
     },
     {
       "id": "204844636-202308310000021560000011001-byl-hwp",
@@ -14783,9 +14776,9 @@
       "size": 15872,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1966,
-      "converted_non_space_chars": 1517,
-      "table_row_count": 14
+      "converted_text_chars": 2301,
+      "converted_non_space_chars": 1764,
+      "table_row_count": 17
     },
     {
       "id": "204847401-201301100000003130000194002-byl-hwp",
@@ -14801,9 +14794,9 @@
       "size": 14336,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1524,
-      "converted_non_space_chars": 1148,
-      "table_row_count": 13
+      "converted_text_chars": 1792,
+      "converted_non_space_chars": 1342,
+      "table_row_count": 15
     },
     {
       "id": "204847401-201301100000003130000194003-byl-hwp",
@@ -14837,9 +14830,9 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1273,
-      "converted_non_space_chars": 973,
-      "table_row_count": 11
+      "converted_text_chars": 1687,
+      "converted_non_space_chars": 1280,
+      "table_row_count": 15
     },
     {
       "id": "204847401-201301100000003130000194005-byl-hwp",
@@ -14855,9 +14848,9 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1447,
-      "converted_non_space_chars": 1110,
-      "table_row_count": 12
+      "converted_text_chars": 1941,
+      "converted_non_space_chars": 1475,
+      "table_row_count": 16
     },
     {
       "id": "204847401-201301100000003130000194006-byl-hwp",
@@ -14873,9 +14866,9 @@
       "size": 11776,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 746,
-      "converted_non_space_chars": 548,
-      "table_row_count": 9
+      "converted_text_chars": 901,
+      "converted_non_space_chars": 647,
+      "table_row_count": 10
     },
     {
       "id": "204847401-201301100000003130000194007-byl-hwp",
@@ -14909,9 +14902,9 @@
       "size": 12288,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 818,
-      "converted_non_space_chars": 628,
-      "table_row_count": 8
+      "converted_text_chars": 1363,
+      "converted_non_space_chars": 1008,
+      "table_row_count": 13
     },
     {
       "id": "204846763-201403240000003840000127001-byl-hwp",
@@ -14998,9 +14991,9 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 852,
-      "converted_non_space_chars": 752,
-      "table_row_count": 2
+      "converted_text_chars": 1449,
+      "converted_non_space_chars": 1031,
+      "table_row_count": 18
     },
     {
       "id": "210025875-201902150000006310000083002-byl-hwp",
@@ -15016,9 +15009,9 @@
       "size": 14848,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 784,
-      "converted_non_space_chars": 681,
-      "table_row_count": 2
+      "converted_text_chars": 1274,
+      "converted_non_space_chars": 913,
+      "table_row_count": 18
     },
     {
       "id": "210222386-202410150000022530000006001-byl-hwp",
@@ -15034,9 +15027,9 @@
       "size": 46080,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 684,
-      "converted_non_space_chars": 524,
-      "table_row_count": 1
+      "converted_text_chars": 1661,
+      "converted_non_space_chars": 1153,
+      "table_row_count": 8
     },
     {
       "id": "210222386-202410150000022530000006002-byl-hwp",
@@ -15052,9 +15045,9 @@
       "size": 36352,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 351,
-      "converted_non_space_chars": 264,
-      "table_row_count": 2
+      "converted_text_chars": 513,
+      "converted_non_space_chars": 378,
+      "table_row_count": 4
     },
     {
       "id": "210222386-202410150000022530000006004-byl-hwp",
@@ -15070,9 +15063,9 @@
       "size": 43520,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 547,
-      "converted_non_space_chars": 407,
-      "table_row_count": 2
+      "converted_text_chars": 2159,
+      "converted_non_space_chars": 1441,
+      "table_row_count": 14
     },
     {
       "id": "210222386-202410150000022530000006005-byl-hwp",
@@ -15088,9 +15081,9 @@
       "size": 30720,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 569,
-      "converted_non_space_chars": 410,
-      "table_row_count": 5
+      "converted_text_chars": 672,
+      "converted_non_space_chars": 483,
+      "table_row_count": 8
     },
     {
       "id": "210222386-202410150000022530000006006-byl-hwp",
@@ -15106,9 +15099,9 @@
       "size": 48128,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 728,
-      "converted_non_space_chars": 565,
-      "table_row_count": 1
+      "converted_text_chars": 3826,
+      "converted_non_space_chars": 2553,
+      "table_row_count": 15
     },
     {
       "id": "210222386-202410150000022530000006008-byl-hwp",
@@ -15124,9 +15117,9 @@
       "size": 47616,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1007,
-      "converted_non_space_chars": 706,
-      "table_row_count": 10
+      "converted_text_chars": 1972,
+      "converted_non_space_chars": 1322,
+      "table_row_count": 27
     },
     {
       "id": "210222386-202410150000022530000006009-byl-hwp",
@@ -15142,9 +15135,9 @@
       "size": 30720,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1042,
-      "converted_non_space_chars": 742,
-      "table_row_count": 8
+      "converted_text_chars": 2930,
+      "converted_non_space_chars": 2076,
+      "table_row_count": 33
     },
     {
       "id": "210222386-202410150000022530000006010-byl-hwp",
@@ -15160,9 +15153,9 @@
       "size": 40960,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 952,
-      "converted_non_space_chars": 665,
-      "table_row_count": 12
+      "converted_text_chars": 1522,
+      "converted_non_space_chars": 1025,
+      "table_row_count": 22
     },
     {
       "id": "210222386-202410150000022530000006011-byl-hwp",
@@ -15178,9 +15171,9 @@
       "size": 31744,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1388,
-      "converted_non_space_chars": 975,
-      "table_row_count": 13
+      "converted_text_chars": 2526,
+      "converted_non_space_chars": 1770,
+      "table_row_count": 33
     },
     {
       "id": "210222386-202410150000022530000006012-byl-hwp",
@@ -15196,9 +15189,9 @@
       "size": 36352,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 883,
-      "converted_non_space_chars": 593,
-      "table_row_count": 11
+      "converted_text_chars": 2215,
+      "converted_non_space_chars": 1447,
+      "table_row_count": 35
     },
     {
       "id": "210222386-202410150000022530000006014-byl-hwp",
@@ -15214,9 +15207,9 @@
       "size": 36352,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1365,
-      "converted_non_space_chars": 999,
-      "table_row_count": 13
+      "converted_text_chars": 2306,
+      "converted_non_space_chars": 1655,
+      "table_row_count": 26
     },
     {
       "id": "210222386-210036233-hwp",
@@ -15232,9 +15225,9 @@
       "size": 56320,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2418,
-      "converted_non_space_chars": 1561,
-      "table_row_count": 1
+      "converted_text_chars": 3462,
+      "converted_non_space_chars": 2478,
+      "table_row_count": 19
     },
     {
       "id": "210222386-210036234-hwp",
@@ -15250,9 +15243,9 @@
       "size": 36864,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 501,
-      "converted_non_space_chars": 430,
-      "table_row_count": 1
+      "converted_text_chars": 651,
+      "converted_non_space_chars": 467,
+      "table_row_count": 4
     },
     {
       "id": "210222386-210036248-hwp",
@@ -15339,9 +15332,9 @@
       "size": 41984,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 855,
-      "converted_non_space_chars": 671,
-      "table_row_count": 5
+      "converted_text_chars": 896,
+      "converted_non_space_chars": 700,
+      "table_row_count": 6
     },
     {
       "id": "210222386-202410150000022530000006022-byl-hwp",
@@ -15661,9 +15654,9 @@
       "size": 51200,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2083,
-      "converted_non_space_chars": 1604,
-      "table_row_count": 14
+      "converted_text_chars": 2262,
+      "converted_non_space_chars": 1663,
+      "table_row_count": 16
     },
     {
       "id": "210136803-210137013-hwp",
@@ -15697,9 +15690,9 @@
       "size": 33280,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 534,
-      "converted_non_space_chars": 439,
-      "table_row_count": 1
+      "converted_text_chars": 496,
+      "converted_non_space_chars": 349,
+      "table_row_count": 2
     },
     {
       "id": "210136803-210137019-hwp",
@@ -15715,9 +15708,9 @@
       "size": 39424,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 617,
-      "converted_non_space_chars": 524,
-      "table_row_count": 1,
+      "converted_text_chars": 1552,
+      "converted_non_space_chars": 1158,
+      "table_row_count": 16,
       "formula_hint_count": 1
     },
     {
@@ -15734,9 +15727,9 @@
       "size": 32256,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 524,
-      "converted_non_space_chars": 457,
-      "table_row_count": 1
+      "converted_text_chars": 1110,
+      "converted_non_space_chars": 752,
+      "table_row_count": 12
     },
     {
       "id": "210136803-210137027-hwp",
@@ -15752,9 +15745,9 @@
       "size": 36864,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 632,
-      "converted_non_space_chars": 541,
-      "table_row_count": 1
+      "converted_text_chars": 941,
+      "converted_non_space_chars": 641,
+      "table_row_count": 9
     },
     {
       "id": "210227471-202411130000022670000012001-byl-hwp",
@@ -15842,9 +15835,8 @@
       "size": 34816,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 355,
-      "converted_non_space_chars": 289,
-      "table_row_count": 1
+      "converted_text_chars": 304,
+      "converted_non_space_chars": 227
     },
     {
       "id": "210179748-202411140000022700000013006-byl-hwp",
@@ -15860,9 +15852,8 @@
       "size": 34304,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 353,
-      "converted_non_space_chars": 286,
-      "table_row_count": 1
+      "converted_text_chars": 306,
+      "converted_non_space_chars": 232
     },
     {
       "id": "210179748-202411140000022700000013007-byl-hwp",
@@ -15878,9 +15869,8 @@
       "size": 35328,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 368,
-      "converted_non_space_chars": 293,
-      "table_row_count": 1
+      "converted_text_chars": 321,
+      "converted_non_space_chars": 239
     },
     {
       "id": "210179748-202411140000022700000013008-byl-hwp",
@@ -15896,9 +15886,8 @@
       "size": 45568,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 562,
-      "converted_non_space_chars": 450,
-      "table_row_count": 1
+      "converted_text_chars": 513,
+      "converted_non_space_chars": 392
     },
     {
       "id": "210179748-202411140000022700000013009-byl-hwp",
@@ -15914,9 +15903,8 @@
       "size": 34816,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 405,
-      "converted_non_space_chars": 325,
-      "table_row_count": 1
+      "converted_text_chars": 348,
+      "converted_non_space_chars": 251
     },
     {
       "id": "210179748-202411140000022700000013010-byl-hwp",
@@ -15932,9 +15920,8 @@
       "size": 36864,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 496,
-      "converted_non_space_chars": 392,
-      "table_row_count": 1
+      "converted_text_chars": 445,
+      "converted_non_space_chars": 330
     },
     {
       "id": "210179748-202411140000022700000013011-byl-hwp",
@@ -15968,9 +15955,8 @@
       "size": 30720,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 275,
-      "converted_non_space_chars": 224,
-      "table_row_count": 1
+      "converted_text_chars": 234,
+      "converted_non_space_chars": 182
     },
     {
       "id": "210069181-201204190000002800000184001-byl-hwp",
@@ -16075,9 +16061,9 @@
       "size": 104960,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 8472,
-      "converted_non_space_chars": 6157,
-      "table_row_count": 1
+      "converted_text_chars": 7899,
+      "converted_non_space_chars": 6052,
+      "table_row_count": 13
     },
     {
       "id": "210222644-202406140000022350000016005-byl-hwp",
@@ -16093,9 +16079,9 @@
       "size": 49664,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5460,
-      "converted_non_space_chars": 3727,
-      "table_row_count": 1
+      "converted_text_chars": 5561,
+      "converted_non_space_chars": 4166,
+      "table_row_count": 30
     },
     {
       "id": "210222644-210203409-hwp",
@@ -16111,9 +16097,9 @@
       "size": 62464,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 10351,
-      "converted_non_space_chars": 7339,
-      "table_row_count": 1,
+      "converted_text_chars": 9800,
+      "converted_non_space_chars": 7477,
+      "table_row_count": 28,
       "formula_hint_count": 1
     },
     {
@@ -16184,9 +16170,9 @@
       "size": 68608,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2883,
-      "converted_non_space_chars": 2199,
-      "table_row_count": 6
+      "converted_text_chars": 2775,
+      "converted_non_space_chars": 2216,
+      "table_row_count": 7
     },
     {
       "id": "210222644-202406140000022350000016011-byl-hwp",
@@ -16202,9 +16188,9 @@
       "size": 116224,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2344,
-      "converted_non_space_chars": 1708,
-      "table_row_count": 3
+      "converted_text_chars": 2332,
+      "converted_non_space_chars": 1848,
+      "table_row_count": 8
     },
     {
       "id": "210222644-210224647-hwp",
@@ -16293,9 +16279,9 @@
       "size": 84480,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 12711,
-      "converted_non_space_chars": 9995,
-      "table_row_count": 40
+      "converted_text_chars": 13442,
+      "converted_non_space_chars": 10264,
+      "table_row_count": 58
     },
     {
       "id": "210222644-202406140000022350000016017-byl-hwp",
@@ -16329,9 +16315,9 @@
       "size": 34816,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 492,
-      "converted_non_space_chars": 414,
-      "table_row_count": 1
+      "converted_text_chars": 466,
+      "converted_non_space_chars": 339,
+      "table_row_count": 2
     },
     {
       "id": "210222644-202406140000022350000016019-byl-hwp",
@@ -16365,9 +16351,9 @@
       "size": 48128,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2486,
-      "converted_non_space_chars": 1486,
-      "table_row_count": 1
+      "converted_text_chars": 2881,
+      "converted_non_space_chars": 2134,
+      "table_row_count": 17
     },
     {
       "id": "210222644-202406140000022350000016021-byl-hwp",
@@ -16383,9 +16369,9 @@
       "size": 39424,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 581,
-      "converted_non_space_chars": 469,
-      "table_row_count": 1
+      "converted_text_chars": 844,
+      "converted_non_space_chars": 599,
+      "table_row_count": 6
     },
     {
       "id": "210222644-202406140000022350000016022-byl-hwp",
@@ -16401,9 +16387,9 @@
       "size": 38912,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 584,
-      "converted_non_space_chars": 472,
-      "table_row_count": 1
+      "converted_text_chars": 847,
+      "converted_non_space_chars": 602,
+      "table_row_count": 6
     },
     {
       "id": "210222644-210224719-hwp",
@@ -16419,9 +16405,9 @@
       "size": 68608,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6583,
-      "converted_non_space_chars": 4024,
-      "table_row_count": 2,
+      "converted_text_chars": 13821,
+      "converted_non_space_chars": 9489,
+      "table_row_count": 81,
       "formula_hint_count": 5
     },
     {
@@ -16438,9 +16424,9 @@
       "size": 138752,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4838,
-      "converted_non_space_chars": 3305,
-      "table_row_count": 1,
+      "converted_text_chars": 5477,
+      "converted_non_space_chars": 4068,
+      "table_row_count": 29,
       "formula_hint_count": 2
     },
     {
@@ -16457,9 +16443,9 @@
       "size": 70144,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3836,
-      "converted_non_space_chars": 2648,
-      "table_row_count": 1,
+      "converted_text_chars": 3989,
+      "converted_non_space_chars": 2991,
+      "table_row_count": 15,
       "formula_hint_count": 2
     },
     {
@@ -16476,9 +16462,9 @@
       "size": 74752,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6318,
-      "converted_non_space_chars": 4454,
-      "table_row_count": 1,
+      "converted_text_chars": 6931,
+      "converted_non_space_chars": 5228,
+      "table_row_count": 31,
       "formula_hint_count": 2
     },
     {
@@ -16495,9 +16481,9 @@
       "size": 145920,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6477,
-      "converted_non_space_chars": 4595,
-      "table_row_count": 1,
+      "converted_text_chars": 7031,
+      "converted_non_space_chars": 5334,
+      "table_row_count": 30,
       "formula_hint_count": 2
     },
     {
@@ -16514,9 +16500,9 @@
       "size": 70656,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6691,
-      "converted_non_space_chars": 4774,
-      "table_row_count": 1,
+      "converted_text_chars": 6956,
+      "converted_non_space_chars": 5252,
+      "table_row_count": 30,
       "formula_hint_count": 2
     },
     {
@@ -16533,9 +16519,9 @@
       "size": 70144,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6744,
-      "converted_non_space_chars": 4819,
-      "table_row_count": 1,
+      "converted_text_chars": 6976,
+      "converted_non_space_chars": 5279,
+      "table_row_count": 30,
       "formula_hint_count": 2
     },
     {
@@ -16552,9 +16538,9 @@
       "size": 71680,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5077,
-      "converted_non_space_chars": 3525,
-      "table_row_count": 1,
+      "converted_text_chars": 5195,
+      "converted_non_space_chars": 3865,
+      "table_row_count": 21,
       "formula_hint_count": 2
     },
     {
@@ -16571,9 +16557,9 @@
       "size": 41984,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1512,
-      "converted_non_space_chars": 949,
-      "table_row_count": 1
+      "converted_text_chars": 2898,
+      "converted_non_space_chars": 2095,
+      "table_row_count": 37
     },
     {
       "id": "210222644-202406140000022350000016032-byl-hwp",
@@ -16589,9 +16575,9 @@
       "size": 43520,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3881,
-      "converted_non_space_chars": 2308,
-      "table_row_count": 1,
+      "converted_text_chars": 7522,
+      "converted_non_space_chars": 5425,
+      "table_row_count": 88,
       "formula_hint_count": 4
     },
     {
@@ -16608,9 +16594,9 @@
       "size": 47616,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2105,
-      "converted_non_space_chars": 1443,
-      "table_row_count": 1
+      "converted_text_chars": 3270,
+      "converted_non_space_chars": 2366,
+      "table_row_count": 21
     },
     {
       "id": "210222644-202406140000022350000016034-byl-hwp",
@@ -16626,9 +16612,9 @@
       "size": 48640,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2340,
-      "converted_non_space_chars": 1495,
-      "table_row_count": 1,
+      "converted_text_chars": 2761,
+      "converted_non_space_chars": 2032,
+      "table_row_count": 19,
       "formula_hint_count": 1
     },
     {
@@ -16645,9 +16631,9 @@
       "size": 49664,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3275,
-      "converted_non_space_chars": 1996,
-      "table_row_count": 1,
+      "converted_text_chars": 4668,
+      "converted_non_space_chars": 3315,
+      "table_row_count": 35,
       "formula_hint_count": 9
     },
     {
@@ -16664,9 +16650,9 @@
       "size": 75264,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5459,
-      "converted_non_space_chars": 3292,
-      "table_row_count": 2,
+      "converted_text_chars": 11747,
+      "converted_non_space_chars": 8557,
+      "table_row_count": 83,
       "formula_hint_count": 2
     },
     {
@@ -16683,9 +16669,9 @@
       "size": 39936,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 474,
-      "converted_non_space_chars": 407,
-      "table_row_count": 1
+      "converted_text_chars": 1682,
+      "converted_non_space_chars": 1264,
+      "table_row_count": 17
     },
     {
       "id": "210222644-202406140000022350000016038-byl-hwp",
@@ -16701,9 +16687,9 @@
       "size": 43520,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 644,
-      "converted_non_space_chars": 590,
-      "table_row_count": 1
+      "converted_text_chars": 3470,
+      "converted_non_space_chars": 2323,
+      "table_row_count": 25
     },
     {
       "id": "210222644-210141988-hwp",
@@ -16719,9 +16705,9 @@
       "size": 40960,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 487,
-      "converted_non_space_chars": 415,
-      "table_row_count": 1
+      "converted_text_chars": 871,
+      "converted_non_space_chars": 639,
+      "table_row_count": 5
     },
     {
       "id": "210222644-202406140000022350000016040-byl-hwp",
@@ -16737,9 +16723,9 @@
       "size": 45568,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 639,
-      "converted_non_space_chars": 558,
-      "table_row_count": 1
+      "converted_text_chars": 1563,
+      "converted_non_space_chars": 1119,
+      "table_row_count": 11
     },
     {
       "id": "210222644-202406140000022350000016041-byl-hwp",
@@ -16755,9 +16741,9 @@
       "size": 40960,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 575,
-      "converted_non_space_chars": 485,
-      "table_row_count": 1
+      "converted_text_chars": 965,
+      "converted_non_space_chars": 699,
+      "table_row_count": 7
     },
     {
       "id": "210222644-202406140000022350000016042-byl-hwp",
@@ -16773,9 +16759,9 @@
       "size": 46080,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 655,
-      "converted_non_space_chars": 560,
-      "table_row_count": 1
+      "converted_text_chars": 1340,
+      "converted_non_space_chars": 994,
+      "table_row_count": 10
     },
     {
       "id": "210222644-202406140000022350000016043-byl-hwp",
@@ -16791,9 +16777,9 @@
       "size": 43008,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 585,
-      "converted_non_space_chars": 522,
-      "table_row_count": 1
+      "converted_text_chars": 1630,
+      "converted_non_space_chars": 1201,
+      "table_row_count": 8
     },
     {
       "id": "210222644-202406140000022350000016044-byl-hwp",
@@ -16809,9 +16795,9 @@
       "size": 38912,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 571,
-      "converted_non_space_chars": 482,
-      "table_row_count": 1
+      "converted_text_chars": 1021,
+      "converted_non_space_chars": 753,
+      "table_row_count": 7
     },
     {
       "id": "210222644-202406140000022350000016045-byl-hwp",
@@ -16827,9 +16813,9 @@
       "size": 37888,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 536,
-      "converted_non_space_chars": 451,
-      "table_row_count": 1
+      "converted_text_chars": 918,
+      "converted_non_space_chars": 674,
+      "table_row_count": 8
     },
     {
       "id": "210222644-202406140000022350000016046-byl-hwp",
@@ -16845,9 +16831,9 @@
       "size": 38912,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 503,
-      "converted_non_space_chars": 431,
-      "table_row_count": 1
+      "converted_text_chars": 950,
+      "converted_non_space_chars": 695,
+      "table_row_count": 9
     },
     {
       "id": "210222644-202406140000022350000016047-byl-hwp",
@@ -16863,9 +16849,9 @@
       "size": 33792,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 435,
-      "converted_non_space_chars": 366,
-      "table_row_count": 1
+      "converted_text_chars": 721,
+      "converted_non_space_chars": 529,
+      "table_row_count": 6
     },
     {
       "id": "210222644-202406140000022350000016048-byl-hwp",
@@ -16881,9 +16867,9 @@
       "size": 53760,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1385,
-      "converted_non_space_chars": 930,
-      "table_row_count": 1
+      "converted_text_chars": 1979,
+      "converted_non_space_chars": 1467,
+      "table_row_count": 8
     },
     {
       "id": "210222644-202406140000022350000016049-byl-hwp",
@@ -16899,9 +16885,9 @@
       "size": 54784,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 810,
-      "converted_non_space_chars": 747,
-      "table_row_count": 1,
+      "converted_text_chars": 2250,
+      "converted_non_space_chars": 1703,
+      "table_row_count": 15,
       "formula_hint_count": 1
     },
     {
@@ -16918,9 +16904,9 @@
       "size": 40960,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 844,
-      "converted_non_space_chars": 741,
-      "table_row_count": 1
+      "converted_text_chars": 1421,
+      "converted_non_space_chars": 954,
+      "table_row_count": 14
     },
     {
       "id": "210222644-202406140000022350000016051-byl-hwp",
@@ -16936,9 +16922,9 @@
       "size": 43008,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 961,
-      "converted_non_space_chars": 857,
-      "table_row_count": 1
+      "converted_text_chars": 3257,
+      "converted_non_space_chars": 2359,
+      "table_row_count": 45
     },
     {
       "id": "210222644-202406140000022350000016052-byl-hwp",
@@ -16954,9 +16940,9 @@
       "size": 92672,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 713,
-      "converted_non_space_chars": 610,
-      "table_row_count": 1
+      "converted_text_chars": 1723,
+      "converted_non_space_chars": 1298,
+      "table_row_count": 17
     },
     {
       "id": "210222644-202406140000022350000016053-byl-hwp",
@@ -16972,9 +16958,9 @@
       "size": 54272,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 791,
-      "converted_non_space_chars": 732,
-      "table_row_count": 1,
+      "converted_text_chars": 2397,
+      "converted_non_space_chars": 1824,
+      "table_row_count": 15,
       "formula_hint_count": 1
     },
     {
@@ -16991,9 +16977,9 @@
       "size": 54784,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6223,
-      "converted_non_space_chars": 3846,
-      "table_row_count": 1,
+      "converted_text_chars": 12346,
+      "converted_non_space_chars": 8970,
+      "table_row_count": 142,
       "formula_hint_count": 1
     },
     {
@@ -17010,9 +16996,9 @@
       "size": 48640,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4221,
-      "converted_non_space_chars": 2648,
-      "table_row_count": 6,
+      "converted_text_chars": 10641,
+      "converted_non_space_chars": 5868,
+      "table_row_count": 87,
       "formula_hint_count": 1
     },
     {
@@ -17029,9 +17015,9 @@
       "size": 48640,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 801,
-      "converted_non_space_chars": 701,
-      "table_row_count": 1
+      "converted_text_chars": 1602,
+      "converted_non_space_chars": 1184,
+      "table_row_count": 14
     },
     {
       "id": "210222644-202406140000022350000016057-byl-hwp",
@@ -17047,9 +17033,9 @@
       "size": 70144,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 405,
-      "converted_non_space_chars": 345,
-      "table_row_count": 1
+      "converted_text_chars": 812,
+      "converted_non_space_chars": 594,
+      "table_row_count": 8
     },
     {
       "id": "210222644-202406140000022350000016058-byl-hwp",
@@ -17353,9 +17339,9 @@
       "size": 34816,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 446,
-      "converted_non_space_chars": 350,
-      "table_row_count": 2,
+      "converted_text_chars": 685,
+      "converted_non_space_chars": 505,
+      "table_row_count": 5,
       "formula_hint_count": 7
     },
     {
@@ -17390,9 +17376,9 @@
       "size": 36864,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1371,
-      "converted_non_space_chars": 1008,
-      "table_row_count": 8
+      "converted_text_chars": 3205,
+      "converted_non_space_chars": 2178,
+      "table_row_count": 22
     },
     {
       "id": "210225129-210153110-hwp",
@@ -17408,9 +17394,9 @@
       "size": 45568,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 756,
-      "converted_non_space_chars": 597,
-      "table_row_count": 3,
+      "converted_text_chars": 883,
+      "converted_non_space_chars": 678,
+      "table_row_count": 4,
       "formula_hint_count": 4
     },
     {
@@ -17481,9 +17467,9 @@
       "size": 59904,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5803,
-      "converted_non_space_chars": 4491,
-      "table_row_count": 8
+      "converted_text_chars": 8081,
+      "converted_non_space_chars": 5947,
+      "table_row_count": 30
     },
     {
       "id": "210225129-202410290000022560000111027-byl-hwp",
@@ -17499,9 +17485,9 @@
       "size": 38400,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 889,
-      "converted_non_space_chars": 682,
-      "table_row_count": 4
+      "converted_text_chars": 1058,
+      "converted_non_space_chars": 790,
+      "table_row_count": 5
     },
     {
       "id": "210225129-202410290000022560000111028-byl-hwp",
@@ -17517,9 +17503,9 @@
       "size": 40448,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1040,
-      "converted_non_space_chars": 780,
-      "table_row_count": 9
+      "converted_text_chars": 1338,
+      "converted_non_space_chars": 899,
+      "table_row_count": 13
     },
     {
       "id": "210225129-202410290000022560000111029-byl-hwp",
@@ -17535,9 +17521,9 @@
       "size": 24064,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 232,
-      "converted_non_space_chars": 170,
-      "table_row_count": 1,
+      "converted_text_chars": 657,
+      "converted_non_space_chars": 440,
+      "table_row_count": 6,
       "formula_hint_count": 4
     },
     {
@@ -17554,9 +17540,9 @@
       "size": 56320,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5151,
-      "converted_non_space_chars": 3673,
-      "table_row_count": 45,
+      "converted_text_chars": 6323,
+      "converted_non_space_chars": 4420,
+      "table_row_count": 55,
       "formula_hint_count": 24
     },
     {
@@ -17609,9 +17595,9 @@
       "size": 40448,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 712,
-      "converted_non_space_chars": 561,
-      "table_row_count": 2,
+      "converted_text_chars": 1036,
+      "converted_non_space_chars": 791,
+      "table_row_count": 4,
       "formula_hint_count": 7
     },
     {
@@ -17646,9 +17632,9 @@
       "size": 29696,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 603,
-      "converted_non_space_chars": 458,
-      "table_row_count": 2
+      "converted_text_chars": 758,
+      "converted_non_space_chars": 557,
+      "table_row_count": 3
     },
     {
       "id": "210225129-202410290000022560000111036-byl-hwp",
@@ -17810,9 +17796,9 @@
       "size": 53248,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 12536,
-      "converted_non_space_chars": 10255,
-      "table_row_count": 27,
+      "converted_text_chars": 12167,
+      "converted_non_space_chars": 9995,
+      "table_row_count": 13,
       "formula_block_count": 62,
       "formula_hint_count": 127
     },
@@ -17848,9 +17834,9 @@
       "size": 82944,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 63968,
-      "converted_non_space_chars": 52735,
-      "table_row_count": 18,
+      "converted_text_chars": 62925,
+      "converted_non_space_chars": 52107,
+      "table_row_count": 4,
       "formula_block_count": 285,
       "formula_hint_count": 744
     },
@@ -18217,8 +18203,8 @@
       "size": 400896,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1681,
-      "converted_non_space_chars": 1257,
+      "converted_text_chars": 1711,
+      "converted_non_space_chars": 1264,
       "table_row_count": 18
     },
     {
@@ -18235,9 +18221,9 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 259,
-      "converted_non_space_chars": 218,
-      "table_row_count": 1
+      "converted_text_chars": 1389,
+      "converted_non_space_chars": 697,
+      "table_row_count": 15
     },
     {
       "id": "204847848-202104160000007280000250005-byl-hwp",
@@ -18253,9 +18239,9 @@
       "size": 16384,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 994,
-      "converted_non_space_chars": 758,
-      "table_row_count": 7
+      "converted_text_chars": 1052,
+      "converted_non_space_chars": 794,
+      "table_row_count": 9
     },
     {
       "id": "204847342-202312280000008640000181001-byl-hwp",
@@ -18325,9 +18311,9 @@
       "size": 51200,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3670,
-      "converted_non_space_chars": 2711,
-      "table_row_count": 29
+      "converted_text_chars": 4029,
+      "converted_non_space_chars": 2957,
+      "table_row_count": 32
     },
     {
       "id": "210203237-202312280000008630000123004-byl-hwp",
@@ -18360,9 +18346,9 @@
       "size": 32768,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 243,
-      "converted_non_space_chars": 183,
-      "table_row_count": 1
+      "converted_text_chars": 947,
+      "converted_non_space_chars": 635,
+      "table_row_count": 7
     },
     {
       "id": "210203237-210205359-hwp",
@@ -18395,9 +18381,9 @@
       "size": 50688,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1627,
-      "converted_non_space_chars": 1225,
-      "table_row_count": 9
+      "converted_text_chars": 1714,
+      "converted_non_space_chars": 1279,
+      "table_row_count": 12
     },
     {
       "id": "204848011-202304270000008300000318001-byl-hwp",
@@ -18413,9 +18399,9 @@
       "size": 45056,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1188,
-      "converted_non_space_chars": 991,
-      "table_row_count": 2
+      "converted_text_chars": 1817,
+      "converted_non_space_chars": 1320,
+      "table_row_count": 13
     },
     {
       "id": "204848011-202304270000008300000318002-byl-hwp",
@@ -18431,9 +18417,9 @@
       "size": 28672,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 229,
-      "converted_non_space_chars": 191,
-      "table_row_count": 1
+      "converted_text_chars": 575,
+      "converted_non_space_chars": 401,
+      "table_row_count": 7
     },
     {
       "id": "210137438-210067529-hwp",
@@ -18556,9 +18542,9 @@
       "size": 72192,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3729,
-      "converted_non_space_chars": 2987,
-      "table_row_count": 19
+      "converted_text_chars": 4069,
+      "converted_non_space_chars": 3099,
+      "table_row_count": 23
     },
     {
       "id": "210137438-210137539-hwp",
@@ -18592,9 +18578,9 @@
       "size": 33280,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 461,
-      "converted_non_space_chars": 395,
-      "table_row_count": 1
+      "converted_text_chars": 837,
+      "converted_non_space_chars": 616,
+      "table_row_count": 7
     },
     {
       "id": "210137438-210067582-hwp",
@@ -18610,9 +18596,9 @@
       "size": 39424,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1022,
-      "converted_non_space_chars": 762,
-      "table_row_count": 9
+      "converted_text_chars": 1320,
+      "converted_non_space_chars": 881,
+      "table_row_count": 13
     },
     {
       "id": "204846917-201405300000003970000135001-byl-hwp",
@@ -18682,9 +18668,9 @@
       "size": 46592,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1920,
-      "converted_non_space_chars": 1468,
-      "table_row_count": 10,
+      "converted_text_chars": 2504,
+      "converted_non_space_chars": 1900,
+      "table_row_count": 14,
       "formula_hint_count": 5
     },
     {
@@ -18701,9 +18687,9 @@
       "size": 71168,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 25011,
-      "converted_non_space_chars": 19890,
-      "table_row_count": 86,
+      "converted_text_chars": 25887,
+      "converted_non_space_chars": 20538,
+      "table_row_count": 92,
       "formula_block_count": 24,
       "formula_hint_count": 133
     },
@@ -18739,9 +18725,9 @@
       "size": 46080,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1453,
-      "converted_non_space_chars": 1179,
-      "table_row_count": 3
+      "converted_text_chars": 1932,
+      "converted_non_space_chars": 1401,
+      "table_row_count": 10
     },
     {
       "id": "210202173-202404120000008760000292007-byl-hwp",
@@ -18774,9 +18760,9 @@
       "size": 64000,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6819,
-      "converted_non_space_chars": 5194,
-      "table_row_count": 15
+      "converted_text_chars": 12953,
+      "converted_non_space_chars": 9114,
+      "table_row_count": 69
     },
     {
       "id": "210202173-210077710-hwp",
@@ -18792,9 +18778,9 @@
       "size": 46080,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 607,
-      "converted_non_space_chars": 539,
-      "table_row_count": 1
+      "converted_text_chars": 1161,
+      "converted_non_space_chars": 838,
+      "table_row_count": 11
     },
     {
       "id": "210202173-202404120000008760000292010-byl-hwp",
@@ -19121,9 +19107,9 @@
       "size": 47616,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3760,
-      "converted_non_space_chars": 2659,
-      "table_row_count": 1
+      "converted_text_chars": 3438,
+      "converted_non_space_chars": 2601,
+      "table_row_count": 4
     },
     {
       "id": "210224312-202411140000022710000216002-byl-hwp",
@@ -19157,9 +19143,9 @@
       "size": 14336,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 454,
-      "converted_non_space_chars": 381,
-      "table_row_count": 1
+      "converted_text_chars": 632,
+      "converted_non_space_chars": 461,
+      "table_row_count": 3
     },
     {
       "id": "210224312-202411140000022710000216004-byl-hwp",
@@ -19247,9 +19233,9 @@
       "size": 52736,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3271,
-      "converted_non_space_chars": 2623,
-      "table_row_count": 13
+      "converted_text_chars": 3448,
+      "converted_non_space_chars": 2678,
+      "table_row_count": 15
     },
     {
       "id": "210222787-202406140000022340000213004-byl-hwp",
@@ -19283,8 +19269,8 @@
       "size": 33280,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 414,
-      "converted_non_space_chars": 302,
+      "converted_text_chars": 571,
+      "converted_non_space_chars": 411,
       "table_row_count": 2
     },
     {
@@ -19301,9 +19287,9 @@
       "size": 183296,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 87494,
-      "converted_non_space_chars": 66308,
-      "table_row_count": 371,
+      "converted_text_chars": 96771,
+      "converted_non_space_chars": 72370,
+      "table_row_count": 438,
       "formula_hint_count": 367
     },
     {
@@ -19405,9 +19391,9 @@
       "size": 49664,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4184,
-      "converted_non_space_chars": 3191,
-      "table_row_count": 11,
+      "converted_text_chars": 6929,
+      "converted_non_space_chars": 4889,
+      "table_row_count": 44,
       "formula_hint_count": 54
     },
     {
@@ -19459,8 +19445,8 @@
       "size": 31744,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 418,
-      "converted_non_space_chars": 294,
+      "converted_text_chars": 556,
+      "converted_non_space_chars": 390,
       "table_row_count": 2
     },
     {
@@ -19477,9 +19463,9 @@
       "size": 40448,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1710,
-      "converted_non_space_chars": 1260,
-      "table_row_count": 17
+      "converted_text_chars": 1751,
+      "converted_non_space_chars": 1289,
+      "table_row_count": 18
     },
     {
       "id": "210222787-202406140000022340000213019-byl-hwp",
@@ -19495,9 +19481,9 @@
       "size": 46080,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5314,
-      "converted_non_space_chars": 3927,
-      "table_row_count": 64
+      "converted_text_chars": 5355,
+      "converted_non_space_chars": 3956,
+      "table_row_count": 65
     },
     {
       "id": "210222787-202406140000022340000213020-byl-hwp",
@@ -19623,9 +19609,9 @@
       "size": 29184,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 391,
-      "converted_non_space_chars": 302,
-      "table_row_count": 5
+      "converted_text_chars": 403,
+      "converted_non_space_chars": 284,
+      "table_row_count": 3
     },
     {
       "id": "210222787-202406140000022340000213026-byl-hwp",
@@ -19659,9 +19645,9 @@
       "size": 133120,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 56513,
-      "converted_non_space_chars": 42514,
-      "table_row_count": 271,
+      "converted_text_chars": 60435,
+      "converted_non_space_chars": 44993,
+      "table_row_count": 303,
       "formula_hint_count": 222
     },
     {
@@ -19678,9 +19664,9 @@
       "size": 185344,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 86994,
-      "converted_non_space_chars": 65867,
-      "table_row_count": 366,
+      "converted_text_chars": 96279,
+      "converted_non_space_chars": 71921,
+      "table_row_count": 433,
       "formula_hint_count": 357
     },
     {
@@ -19697,9 +19683,9 @@
       "size": 187392,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 87094,
-      "converted_non_space_chars": 65754,
-      "table_row_count": 368,
+      "converted_text_chars": 96648,
+      "converted_non_space_chars": 71992,
+      "table_row_count": 437,
       "formula_hint_count": 357
     },
     {
@@ -19735,9 +19721,9 @@
       "size": 46080,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6355,
-      "converted_non_space_chars": 4660,
-      "table_row_count": 31,
+      "converted_text_chars": 9608,
+      "converted_non_space_chars": 6760,
+      "table_row_count": 56,
       "formula_hint_count": 6
     },
     {
@@ -19879,9 +19865,9 @@
       "size": 38400,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 547,
-      "converted_non_space_chars": 454,
-      "table_row_count": 1
+      "converted_text_chars": 670,
+      "converted_non_space_chars": 490,
+      "table_row_count": 2
     },
     {
       "id": "210224651-202311230000021860000212010-byl-hwp",
@@ -19897,9 +19883,9 @@
       "size": 34304,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 484,
-      "converted_non_space_chars": 411,
-      "table_row_count": 1
+      "converted_text_chars": 613,
+      "converted_non_space_chars": 459,
+      "table_row_count": 2
     },
     {
       "id": "210224651-202311230000021860000212011-byl-hwp",
@@ -19915,9 +19901,9 @@
       "size": 37376,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 566,
-      "converted_non_space_chars": 472,
-      "table_row_count": 1
+      "converted_text_chars": 534,
+      "converted_non_space_chars": 393,
+      "table_row_count": 4
     },
     {
       "id": "210224651-202311230000021860000212012-byl-hwp",
@@ -19933,9 +19919,9 @@
       "size": 23552,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 242,
-      "converted_non_space_chars": 199,
-      "table_row_count": 1
+      "converted_text_chars": 353,
+      "converted_non_space_chars": 245,
+      "table_row_count": 2
     },
     {
       "id": "210224651-202311230000021860000212013-byl-hwp",
@@ -19951,9 +19937,9 @@
       "size": 23040,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 215,
-      "converted_non_space_chars": 154,
-      "table_row_count": 1
+      "converted_text_chars": 640,
+      "converted_non_space_chars": 424,
+      "table_row_count": 6
     },
     {
       "id": "210224651-202311230000021860000212014-byl-hwp",
@@ -19986,9 +19972,9 @@
       "size": 29184,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 316,
-      "converted_non_space_chars": 231,
-      "table_row_count": 1
+      "converted_text_chars": 1107,
+      "converted_non_space_chars": 735,
+      "table_row_count": 8
     },
     {
       "id": "210224651-202311230000021860000212016-byl-hwp",
@@ -20004,9 +19990,9 @@
       "size": 29696,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 429,
-      "converted_non_space_chars": 314,
-      "table_row_count": 2
+      "converted_text_chars": 584,
+      "converted_non_space_chars": 413,
+      "table_row_count": 3
     },
     {
       "id": "210224651-202311230000021860000212017-byl-hwp",
@@ -20058,8 +20044,8 @@
       "size": 27136,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 300,
-      "converted_non_space_chars": 218,
+      "converted_text_chars": 419,
+      "converted_non_space_chars": 301,
       "table_row_count": 2
     },
     {
@@ -20608,9 +20594,9 @@
       "size": 67584,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3087,
-      "converted_non_space_chars": 2164,
-      "table_row_count": 1
+      "converted_text_chars": 3451,
+      "converted_non_space_chars": 2640,
+      "table_row_count": 14
     },
     {
       "id": "210222109-210224951-hwp",
@@ -20626,9 +20612,9 @@
       "size": 64000,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 7276,
-      "converted_non_space_chars": 5091,
-      "table_row_count": 1
+      "converted_text_chars": 7830,
+      "converted_non_space_chars": 5980,
+      "table_row_count": 38
     },
     {
       "id": "210222109-202407120000022430000112012-byl-hwp",
@@ -20698,9 +20684,9 @@
       "size": 111104,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 7528,
-      "converted_non_space_chars": 5436,
-      "table_row_count": 2
+      "converted_text_chars": 8218,
+      "converted_non_space_chars": 5928,
+      "table_row_count": 58
     },
     {
       "id": "210222109-202407120000022430000112016-byl-hwp",
@@ -20734,9 +20720,9 @@
       "size": 41984,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 939,
-      "converted_non_space_chars": 784,
-      "table_row_count": 1,
+      "converted_text_chars": 2224,
+      "converted_non_space_chars": 1564,
+      "table_row_count": 18,
       "formula_hint_count": 2
     },
     {
@@ -20753,9 +20739,9 @@
       "size": 33792,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1372,
-      "converted_non_space_chars": 1144,
-      "table_row_count": 3
+      "converted_text_chars": 1852,
+      "converted_non_space_chars": 1345,
+      "table_row_count": 7
     },
     {
       "id": "210222109-210190410-hwp",
@@ -20825,9 +20811,9 @@
       "size": 27136,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 335,
-      "converted_non_space_chars": 272,
-      "table_row_count": 1
+      "converted_text_chars": 299,
+      "converted_non_space_chars": 195,
+      "table_row_count": 2
     },
     {
       "id": "210222109-202407120000022430000112023-byl-hwp",
@@ -20861,9 +20847,9 @@
       "size": 35328,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3119,
-      "converted_non_space_chars": 1958,
-      "table_row_count": 1,
+      "converted_text_chars": 3728,
+      "converted_non_space_chars": 2743,
+      "table_row_count": 17,
       "formula_hint_count": 59
     },
     {
@@ -20880,9 +20866,9 @@
       "size": 49664,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3951,
-      "converted_non_space_chars": 2570,
-      "table_row_count": 1,
+      "converted_text_chars": 5159,
+      "converted_non_space_chars": 3692,
+      "table_row_count": 22,
       "formula_hint_count": 37
     },
     {
@@ -20899,9 +20885,9 @@
       "size": 40960,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2958,
-      "converted_non_space_chars": 1924,
-      "table_row_count": 1,
+      "converted_text_chars": 3331,
+      "converted_non_space_chars": 2315,
+      "table_row_count": 13,
       "formula_hint_count": 2
     },
     {
@@ -20918,9 +20904,9 @@
       "size": 50176,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2705,
-      "converted_non_space_chars": 1947,
-      "table_row_count": 2
+      "converted_text_chars": 3043,
+      "converted_non_space_chars": 2198,
+      "table_row_count": 18
     },
     {
       "id": "210222109-210190303-hwp",
@@ -20954,9 +20940,9 @@
       "size": 46592,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2440,
-      "converted_non_space_chars": 1574,
-      "table_row_count": 1,
+      "converted_text_chars": 2904,
+      "converted_non_space_chars": 2140,
+      "table_row_count": 20,
       "formula_hint_count": 1
     },
     {
@@ -20973,9 +20959,9 @@
       "size": 84992,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 16178,
-      "converted_non_space_chars": 11509,
-      "table_row_count": 9,
+      "converted_text_chars": 23438,
+      "converted_non_space_chars": 17262,
+      "table_row_count": 93,
       "formula_hint_count": 2
     },
     {
@@ -20992,9 +20978,9 @@
       "size": 59904,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5851,
-      "converted_non_space_chars": 3979,
-      "table_row_count": 1,
+      "converted_text_chars": 7521,
+      "converted_non_space_chars": 5514,
+      "table_row_count": 42,
       "formula_hint_count": 2
     },
     {
@@ -21011,9 +20997,9 @@
       "size": 58368,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5409,
-      "converted_non_space_chars": 3699,
-      "table_row_count": 1,
+      "converted_text_chars": 6900,
+      "converted_non_space_chars": 5071,
+      "table_row_count": 38,
       "formula_hint_count": 2
     },
     {
@@ -21030,9 +21016,9 @@
       "size": 63488,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 9094,
-      "converted_non_space_chars": 6352,
-      "table_row_count": 1,
+      "converted_text_chars": 11157,
+      "converted_non_space_chars": 8321,
+      "table_row_count": 59,
       "formula_hint_count": 2
     },
     {
@@ -21049,9 +21035,9 @@
       "size": 60928,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 7472,
-      "converted_non_space_chars": 5228,
-      "table_row_count": 1,
+      "converted_text_chars": 9050,
+      "converted_non_space_chars": 6777,
+      "table_row_count": 45,
       "formula_hint_count": 2
     },
     {
@@ -21068,9 +21054,9 @@
       "size": 69120,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 9496,
-      "converted_non_space_chars": 6666,
-      "table_row_count": 1,
+      "converted_text_chars": 11452,
+      "converted_non_space_chars": 8553,
+      "table_row_count": 61,
       "formula_hint_count": 2
     },
     {
@@ -21087,9 +21073,9 @@
       "size": 63488,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 7963,
-      "converted_non_space_chars": 5586,
-      "table_row_count": 1,
+      "converted_text_chars": 9387,
+      "converted_non_space_chars": 7012,
+      "table_row_count": 47,
       "formula_hint_count": 2
     },
     {
@@ -21106,9 +21092,9 @@
       "size": 64000,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6248,
-      "converted_non_space_chars": 4265,
-      "table_row_count": 1,
+      "converted_text_chars": 7683,
+      "converted_non_space_chars": 5632,
+      "table_row_count": 43,
       "formula_hint_count": 2
     },
     {
@@ -21125,9 +21111,9 @@
       "size": 35328,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 898,
-      "converted_non_space_chars": 797,
-      "table_row_count": 1
+      "converted_text_chars": 2725,
+      "converted_non_space_chars": 1957,
+      "table_row_count": 36
     },
     {
       "id": "210222109-202407120000022430000112039-byl-hwp",
@@ -21143,9 +21129,9 @@
       "size": 44032,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2673,
-      "converted_non_space_chars": 1612,
-      "table_row_count": 1,
+      "converted_text_chars": 6716,
+      "converted_non_space_chars": 4890,
+      "table_row_count": 90,
       "formula_hint_count": 4
     },
     {
@@ -21162,9 +21148,9 @@
       "size": 39936,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 688,
-      "converted_non_space_chars": 573,
-      "table_row_count": 1
+      "converted_text_chars": 943,
+      "converted_non_space_chars": 687,
+      "table_row_count": 6
     },
     {
       "id": "210222109-210190323-hwp",
@@ -21180,9 +21166,9 @@
       "size": 46592,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2172,
-      "converted_non_space_chars": 1538,
-      "table_row_count": 2
+      "converted_text_chars": 5379,
+      "converted_non_space_chars": 3785,
+      "table_row_count": 68
     },
     {
       "id": "210222109-202407120000022430000112042-byl-hwp",
@@ -21198,9 +21184,9 @@
       "size": 45568,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1711,
-      "converted_non_space_chars": 1150,
-      "table_row_count": 1,
+      "converted_text_chars": 1853,
+      "converted_non_space_chars": 1343,
+      "table_row_count": 12,
       "formula_hint_count": 1
     },
     {
@@ -21235,9 +21221,9 @@
       "size": 39424,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 676,
-      "converted_non_space_chars": 562,
-      "table_row_count": 1
+      "converted_text_chars": 931,
+      "converted_non_space_chars": 676,
+      "table_row_count": 6
     },
     {
       "id": "210222109-210091249-hwp",
@@ -21253,9 +21239,9 @@
       "size": 42496,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 743,
-      "converted_non_space_chars": 606,
-      "table_row_count": 1,
+      "converted_text_chars": 923,
+      "converted_non_space_chars": 676,
+      "table_row_count": 5,
       "formula_hint_count": 1
     },
     {
@@ -21272,9 +21258,9 @@
       "size": 52224,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3802,
-      "converted_non_space_chars": 2379,
-      "table_row_count": 1
+      "converted_text_chars": 8708,
+      "converted_non_space_chars": 6025,
+      "table_row_count": 75
     },
     {
       "id": "210222109-202407120000022430000112047-byl-hwp",
@@ -21328,9 +21314,9 @@
       "size": 45056,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1602,
-      "converted_non_space_chars": 1039,
-      "table_row_count": 1
+      "converted_text_chars": 2023,
+      "converted_non_space_chars": 1455,
+      "table_row_count": 16
     },
     {
       "id": "210222109-202407120000022430000112049-byl-hwp",
@@ -21346,9 +21332,9 @@
       "size": 48128,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1748,
-      "converted_non_space_chars": 1179,
-      "table_row_count": 1
+      "converted_text_chars": 1589,
+      "converted_non_space_chars": 1154,
+      "table_row_count": 9
     },
     {
       "id": "210222109-202407120000022430000112050-byl-hwp",
@@ -21364,9 +21350,9 @@
       "size": 46592,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3274,
-      "converted_non_space_chars": 1988,
-      "table_row_count": 1,
+      "converted_text_chars": 4659,
+      "converted_non_space_chars": 3313,
+      "table_row_count": 35,
       "formula_hint_count": 9
     },
     {
@@ -21383,9 +21369,9 @@
       "size": 56320,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3587,
-      "converted_non_space_chars": 2633,
-      "table_row_count": 1
+      "converted_text_chars": 3968,
+      "converted_non_space_chars": 2971,
+      "table_row_count": 15
     },
     {
       "id": "210222109-202407120000022430000112052-byl-hwp",
@@ -21419,9 +21405,9 @@
       "size": 36352,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1597,
-      "converted_non_space_chars": 1105,
-      "table_row_count": 1
+      "converted_text_chars": 1843,
+      "converted_non_space_chars": 1349,
+      "table_row_count": 8
     },
     {
       "id": "210222109-202407120000022430000112054-byl-hwp",
@@ -21437,9 +21423,9 @@
       "size": 36864,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 868,
-      "converted_non_space_chars": 777,
-      "table_row_count": 1
+      "converted_text_chars": 3064,
+      "converted_non_space_chars": 2215,
+      "table_row_count": 43
     },
     {
       "id": "210222109-202407120000022430000112055-byl-hwp",
@@ -21455,9 +21441,9 @@
       "size": 38912,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 649,
-      "converted_non_space_chars": 553,
-      "table_row_count": 1
+      "converted_text_chars": 1314,
+      "converted_non_space_chars": 965,
+      "table_row_count": 14
     },
     {
       "id": "210222109-202407120000022430000112056-byl-hwp",
@@ -21473,9 +21459,9 @@
       "size": 31744,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 459,
-      "converted_non_space_chars": 373,
-      "table_row_count": 1
+      "converted_text_chars": 556,
+      "converted_non_space_chars": 391,
+      "table_row_count": 2
     },
     {
       "id": "210222109-202407120000022430000112057-byl-hwp",
@@ -21491,9 +21477,9 @@
       "size": 38912,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2378,
-      "converted_non_space_chars": 1400,
-      "table_row_count": 1
+      "converted_text_chars": 2782,
+      "converted_non_space_chars": 2052,
+      "table_row_count": 17
     },
     {
       "id": "210222109-202407120000022430000112058-byl-hwp",
@@ -21509,9 +21495,9 @@
       "size": 46080,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 768,
-      "converted_non_space_chars": 638,
-      "table_row_count": 1
+      "converted_text_chars": 785,
+      "converted_non_space_chars": 604,
+      "table_row_count": 3
     },
     {
       "id": "210222109-210090659-hwp",
@@ -21527,9 +21513,9 @@
       "size": 39936,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 686,
-      "converted_non_space_chars": 565,
-      "table_row_count": 1
+      "converted_text_chars": 705,
+      "converted_non_space_chars": 535,
+      "table_row_count": 3
     },
     {
       "id": "210222109-210225034-hwp",
@@ -21599,9 +21585,9 @@
       "size": 41472,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1265,
-      "converted_non_space_chars": 942,
-      "table_row_count": 10,
+      "converted_text_chars": 1468,
+      "converted_non_space_chars": 1013,
+      "table_row_count": 14,
       "formula_hint_count": 4
     },
     {
@@ -21779,9 +21765,9 @@
       "size": 39936,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 575,
-      "converted_non_space_chars": 480,
-      "table_row_count": 1
+      "converted_text_chars": 698,
+      "converted_non_space_chars": 516,
+      "table_row_count": 2
     },
     {
       "id": "210223538-202311230000021890000113017-byl-hwp",
@@ -21797,9 +21783,9 @@
       "size": 14336,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 505,
-      "converted_non_space_chars": 430,
-      "table_row_count": 1
+      "converted_text_chars": 646,
+      "converted_non_space_chars": 485,
+      "table_row_count": 2
     },
     {
       "id": "210223538-202311230000021890000113023-byl-hwp",
@@ -21815,9 +21801,9 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 491,
-      "converted_non_space_chars": 422,
-      "table_row_count": 1
+      "converted_text_chars": 455,
+      "converted_non_space_chars": 344,
+      "table_row_count": 4
     },
     {
       "id": "210223538-202311230000021890000113024-byl-hwp",
@@ -21869,9 +21855,9 @@
       "size": 25088,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5833,
-      "converted_non_space_chars": 4520,
-      "table_row_count": 7
+      "converted_text_chars": 8082,
+      "converted_non_space_chars": 5951,
+      "table_row_count": 30
     },
     {
       "id": "210223538-202311230000021890000113027-byl-hwp",
@@ -21887,9 +21873,9 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 886,
-      "converted_non_space_chars": 680,
-      "table_row_count": 4
+      "converted_text_chars": 1055,
+      "converted_non_space_chars": 788,
+      "table_row_count": 5
     },
     {
       "id": "210223538-202311230000021890000113029-byl-hwp",
@@ -21905,9 +21891,9 @@
       "size": 13312,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 228,
-      "converted_non_space_chars": 166,
-      "table_row_count": 1
+      "converted_text_chars": 653,
+      "converted_non_space_chars": 436,
+      "table_row_count": 6
     },
     {
       "id": "210223538-202311230000021890000113030-byl-hwp",
@@ -21940,9 +21926,9 @@
       "size": 14336,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 329,
-      "converted_non_space_chars": 244,
-      "table_row_count": 1
+      "converted_text_chars": 1120,
+      "converted_non_space_chars": 748,
+      "table_row_count": 8
     },
     {
       "id": "210223538-210186676-hwp",
@@ -21994,9 +21980,9 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 454,
-      "converted_non_space_chars": 337,
-      "table_row_count": 2
+      "converted_text_chars": 609,
+      "converted_non_space_chars": 436,
+      "table_row_count": 3
     },
     {
       "id": "210223538-202311230000021890000113035-byl-hwp",
@@ -22048,8 +22034,8 @@
       "size": 13312,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 322,
-      "converted_non_space_chars": 239,
+      "converted_text_chars": 441,
+      "converted_non_space_chars": 322,
       "table_row_count": 2
     },
     {
@@ -22473,9 +22459,9 @@
       "size": 57344,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 12119,
-      "converted_non_space_chars": 9422,
-      "table_row_count": 31,
+      "converted_text_chars": 12099,
+      "converted_non_space_chars": 9555,
+      "table_row_count": 41,
       "formula_block_count": 7,
       "formula_hint_count": 159
     },
@@ -22751,9 +22737,9 @@
       "size": 15872,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 583,
-      "converted_non_space_chars": 421,
-      "table_row_count": 9
+      "converted_text_chars": 1293,
+      "converted_non_space_chars": 891,
+      "table_row_count": 13
     },
     {
       "id": "210228709-202411010000022630000114046-byl-hwp",
@@ -22841,9 +22827,9 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 316,
-      "converted_non_space_chars": 242,
-      "table_row_count": 2
+      "converted_text_chars": 2576,
+      "converted_non_space_chars": 1682,
+      "table_row_count": 22
     },
     {
       "id": "210228709-202411010000022630000114051-byl-hwp",
@@ -22859,9 +22845,9 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 613,
-      "converted_non_space_chars": 459,
-      "table_row_count": 5
+      "converted_text_chars": 910,
+      "converted_non_space_chars": 648,
+      "table_row_count": 8
     },
     {
       "id": "210228709-202411010000022630000114052-byl-hwp",
@@ -22877,9 +22863,9 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 425,
-      "converted_non_space_chars": 318,
-      "table_row_count": 3
+      "converted_text_chars": 780,
+      "converted_non_space_chars": 543,
+      "table_row_count": 8
     },
     {
       "id": "210228709-202411010000022630000114055-byl-hwp",
@@ -22913,9 +22899,9 @@
       "size": 16896,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2390,
-      "converted_non_space_chars": 1861,
-      "table_row_count": 11
+      "converted_text_chars": 2732,
+      "converted_non_space_chars": 2119,
+      "table_row_count": 13
     },
     {
       "id": "210228709-210125286-hwp",

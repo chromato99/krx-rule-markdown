@@ -18,6 +18,17 @@
     <td colspan="2">즉 시</td>
   </tr>
   <tr>
+    <td colspan="3"></td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td colspan="13"></td>
+  </tr>
+  <tr>
     <td colspan="13">KRX금시장 매매거래용 금지금 관세 면제 추천유효기간 연장신청서</td>
   </tr>
   <tr>
@@ -44,7 +55,18 @@
     <td colspan="3">⑨ 연장기간<br>만 료 일</td>
   </tr>
   <tr>
+    <td colspan="2"></td>
+    <td colspan="4"></td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+  </tr>
+  <tr>
     <td colspan="13">KRX금시장 매매거래용 금지금 관세 면제 추천 요령(지침 제 호) 제8조에 따라 관세 면제의 유효기간을 연장하고자 신청하오니 연장하여 주시기 바랍니다.<br>연장사유 :<br>20 . .<br>신 청 인 (인)<br>(한국거래소 이사장) 귀하</td>
+  </tr>
+  <tr>
+    <td colspan="12"></td>
+    <td></td>
   </tr>
   <tr>
     <td rowspan="2" colspan="12">구비서류 : KRX금시장 매매거래용 금지금 관세 면제 추천서 1부</td>

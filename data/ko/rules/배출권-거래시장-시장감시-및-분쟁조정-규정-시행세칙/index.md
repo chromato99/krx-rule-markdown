@@ -23,9 +23,9 @@ attachments:
     size: 28672
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 561
-    converted_non_space_chars: 403
-    table_row_count: 5
+    converted_text_chars: 602
+    converted_non_space_chars: 432
+    table_row_count: 6
   - id: "204847824-202410150000022540000246002-byl-hwp"
     title: "[별지 제2호 서식] 출석요청서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_출석요청서.hwp"
@@ -55,9 +55,9 @@ attachments:
     size: 27136
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1044
-    converted_non_space_chars: 745
-    table_row_count: 8
+    converted_text_chars: 2510
+    converted_non_space_chars: 1783
+    table_row_count: 25
   - id: "204847824-202410150000022540000246004-byl-hwp"
     title: "[별지 제4호 서식] 문답서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_문답서.hwp"
@@ -71,9 +71,9 @@ attachments:
     size: 33280
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 982
-    converted_non_space_chars: 702
-    table_row_count: 11
+    converted_text_chars: 1396
+    converted_non_space_chars: 984
+    table_row_count: 17
   - id: "204847824-202410150000022540000246005-byl-hwp"
     title: "[별지 제5호 서식] 질문서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_질문서.hwp"
@@ -87,9 +87,9 @@ attachments:
     size: 17408
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 585
-    converted_non_space_chars: 418
-    table_row_count: 6
+    converted_text_chars: 1118
+    converted_non_space_chars: 791
+    table_row_count: 15
   - id: "204847824-202410150000022540000246006-byl-hwp"
     title: "[별지 제6호 서식] 감리명령서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_감리명령서.hwp"
@@ -135,9 +135,9 @@ attachments:
     size: 29184
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 282
-    converted_non_space_chars: 227
-    table_row_count: 1
+    converted_text_chars: 422
+    converted_non_space_chars: 290
+    table_row_count: 3
   - id: "204847824-202410150000022540000246009-byl-hwp"
     title: "[별지 제9호 서식] 회원제재금 부과통지서"
     file_name: "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙_2차_회원제재금부과통지서.hwp"

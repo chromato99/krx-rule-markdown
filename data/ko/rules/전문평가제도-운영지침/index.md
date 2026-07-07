@@ -55,9 +55,9 @@ attachments:
     size: 51200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3670
-    converted_non_space_chars: 2711
-    table_row_count: 29
+    converted_text_chars: 4029
+    converted_non_space_chars: 2957
+    table_row_count: 32
   - id: "210203237-202312280000008630000123004-byl-hwp"
     title: "[별지 제2호 서식] 평가신청기업 서약서"
     file_name: "전문평가제도 운영지침_24차_평가신청기업서약서.hwp"
@@ -86,9 +86,9 @@ attachments:
     size: 32768
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 243
-    converted_non_space_chars: 183
-    table_row_count: 1
+    converted_text_chars: 947
+    converted_non_space_chars: 635
+    table_row_count: 7
   - id: "210203237-210205359-hwp"
     title: "[별지 제4호 서식] 전문평가기관 서약서<개정 2026. 5. 19.>"
     file_name: "전문평가제도 운영지침_24차_전문평가기관서약서.hwp"
@@ -117,9 +117,9 @@ attachments:
     size: 50688
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1627
-    converted_non_space_chars: 1225
-    table_row_count: 9
+    converted_text_chars: 1714
+    converted_non_space_chars: 1279
+    table_row_count: 12
 ---
 
 제1장 총칙

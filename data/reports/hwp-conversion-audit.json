@@ -1,0 +1,85 @@
+{
+  "version": "0.2.0",
+  "generated_at": "2026-07-07T10:49:09.730328Z",
+  "scope": {
+    "documents": 123,
+    "markdown_files_on_disk": 755,
+    "attachments_in_manifest": 596,
+    "hwp_attachments_checked": 580,
+    "pdf_attachments_in_manifest": 16
+  },
+  "summary": {
+    "hwp_tables_total": 2118,
+    "markdown_table_blocks_total_in_hwp_outputs": 1902,
+    "hwp_expected_cells_total": 44447,
+    "markdown_table_cells_total_in_hwp_outputs": 55293,
+    "hwp_attachments_with_tables": 494,
+    "table_cell_warning_files": 0,
+    "raw_equations_total": 656,
+    "markdown_hwp_equation_blocks_total": 656,
+    "markdown_math_blocks_total": 656,
+    "equation_warning_count": 0,
+    "hwp_text_coverage_min": 1.0,
+    "hwp_text_coverage_average": 1.0,
+    "text_coverage_warning_count": 0
+  },
+  "checks": {
+    "builtin_quality_summary": {
+      "documents": 123,
+      "attachments": 596,
+      "attachment_status": {
+        "converted": 596
+      },
+      "attachment_extensions": {
+        "(none)": 31,
+        ".hwp": 549,
+        ".pdf": 16
+      },
+      "quality_status": {
+        "ok": 593,
+        "warn": 3
+      },
+      "converted_text_chars": {
+        "count": 596,
+        "min": 34,
+        "median": 1256,
+        "max": 180389
+      }
+    },
+    "builtin_quality_issues": [
+      {
+        "severity": "warn",
+        "code": "very_short_text",
+        "document_id": "210188913",
+        "document_title": "KRX금시장 운영규정 시행세칙",
+        "attachment_id": "210188913-202406250000022380000232011-byl-hwp",
+        "attachment_title": "[별지 제6호 서식] 윤리 서약서 <삭제 2020.11.30>",
+        "file_name": "KRX금시장 운영규정 시행세칙_29차_윤리서약서(삭제2020.11.30).hwp",
+        "message": "converted text is very short (28 non-space chars)"
+      },
+      {
+        "severity": "warn",
+        "code": "very_short_text",
+        "document_id": "210188913",
+        "document_title": "KRX금시장 운영규정 시행세칙",
+        "attachment_id": "210188913-202406250000022380000232012-byl-hwp",
+        "attachment_title": "[별지 제7호 서식] 회피신청서 <삭제 2020.11.30>",
+        "file_name": "KRX금시장 운영규정 시행세칙_29차_회피신청서(삭제2020.11.30).hwp",
+        "message": "converted text is very short (28 non-space chars)"
+      },
+      {
+        "severity": "warn",
+        "code": "very_short_text",
+        "document_id": "210221766",
+        "document_title": "코스닥시장 업무규정 시행세칙 개정 예고",
+        "attachment_id": "210221766-210221768-pdf",
+        "attachment_title": "(붙임2) 코스닥시장 업무규정 시행세칙 일부개정세칙안.pdf",
+        "file_name": "(붙임2) 코스닥시장 업무규정 시행세칙 일부개정세칙안.pdf",
+        "message": "converted text is very short (20 non-space chars)"
+      }
+    ]
+  },
+  "table_cell_warnings": [],
+  "equation_warnings": [],
+  "text_coverage_warnings": []
+}

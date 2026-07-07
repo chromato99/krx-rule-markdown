@@ -31,6 +31,41 @@
     <td>⑧공급예정수량</td>
   </tr>
   <tr>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td colspan="7">KRX금시장 매매거래용 금지금의 관세 면제 추천과 관련하여 당사는 위와 같이 KRX금시장을 통하여 금지금을 매매거래(공급)하고자 합니다.<br>20 . .<br>신 청 인 (인)<br>(한국거래소 이사장) 귀하</td>
   </tr>
 </table>

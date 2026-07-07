@@ -23,9 +23,9 @@ attachments:
     size: 53248
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 12536
-    converted_non_space_chars: 10255
-    table_row_count: 27
+    converted_text_chars: 12167
+    converted_non_space_chars: 9995
+    table_row_count: 13
     formula_block_count: 62
     formula_hint_count: 127
   - id: "210215757-210215841-hwp"
@@ -57,9 +57,9 @@ attachments:
     size: 82944
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 63968
-    converted_non_space_chars: 52735
-    table_row_count: 18
+    converted_text_chars: 62925
+    converted_non_space_chars: 52107
+    table_row_count: 4
     formula_block_count: 285
     formula_hint_count: 744
   - id: "210215757-210136686-hwp"

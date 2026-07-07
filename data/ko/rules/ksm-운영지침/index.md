@@ -23,8 +23,8 @@ attachments:
     size: 34304
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 471
-    converted_non_space_chars: 342
+    converted_text_chars: 628
+    converted_non_space_chars: 451
     table_row_count: 2
   - id: "204847877-202409200000008990000254002-byl-hwp"
     title: "[별지 제2호 서식] 등록취소 신청서"
@@ -39,9 +39,9 @@ attachments:
     size: 23552
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 205
-    converted_non_space_chars: 143
-    table_row_count: 2
+    converted_text_chars: 362
+    converted_non_space_chars: 249
+    table_row_count: 3
   - id: "204847877-202409200000008990000254003-byl-hwp"
     title: "[별지 제3호 서식] KSM 참여 신청서"
     file_name: "KSM 운영지침_15차_KSM참여신청서.hwp"

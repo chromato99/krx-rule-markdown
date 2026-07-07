@@ -86,9 +86,9 @@ attachments:
     size: 17408
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1219
-    converted_non_space_chars: 992
-    table_row_count: 3
+    converted_text_chars: 1319
+    converted_non_space_chars: 978
+    table_row_count: 5
   - id: "210188913-202406250000022380000232006-byl-hwp"
     title: "[별지 제2호 서식] KRX금시장 회원탈퇴신청서"
     file_name: "KRX금시장 운영규정 시행세칙_29차_KRX금시장회원탈퇴신청서.hwp"
@@ -134,9 +134,9 @@ attachments:
     size: 14848
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 509
-    converted_non_space_chars: 429
-    table_row_count: 1
+    converted_text_chars: 682
+    converted_non_space_chars: 501
+    table_row_count: 6
   - id: "210188913-202406250000022380000232009-byl-hwp"
     title: "[별지 제4호 서식] 이의신청서"
     file_name: "KRX금시장 운영규정 시행세칙_29차_이의신청서.hwp"
@@ -150,9 +150,9 @@ attachments:
     size: 14848
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 462
-    converted_non_space_chars: 377
-    table_row_count: 1
+    converted_text_chars: 731
+    converted_non_space_chars: 519
+    table_row_count: 6
   - id: "210188913-202406250000022380000232010-byl-hwp"
     title: "[별지 제5호 서식] 착오매매정정신청서"
     file_name: "KRX금시장 운영규정 시행세칙_29차_착오매매정정신청서.hwp"
@@ -166,9 +166,9 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 399
-    converted_non_space_chars: 338
-    table_row_count: 1
+    converted_text_chars: 1082
+    converted_non_space_chars: 734
+    table_row_count: 6
   - id: "210188913-202406250000022380000232011-byl-hwp"
     title: "[별지 제6호 서식] 윤리 서약서 <삭제 2020.11.30>"
     file_name: "KRX금시장 운영규정 시행세칙_29차_윤리서약서(삭제2020.11.30).hwp"

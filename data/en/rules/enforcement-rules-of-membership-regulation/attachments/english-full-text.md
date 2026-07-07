@@ -506,9 +506,9 @@ the  Exchange  within
 
 the  period  specified
 
-to
-
 in
+
+to
 
 1.  Documents  on  the  closing  account  pursuant  to  [§3-67]  of  the  Regulations  on
 Financial  Investment  Business:  Within  three  (3) months  of  the  end  of  the  relevant

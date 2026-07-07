@@ -39,8 +39,8 @@ attachments:
     size: 32768
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 301
-    converted_non_space_chars: 223
+    converted_text_chars: 401
+    converted_non_space_chars: 293
     table_row_count: 2
   - id: "204847757-202410150000022550000233003-byl-hwp"
     title: "[별지 제2호 서식] 민원·분쟁현황 및 처리결과 보고"
@@ -55,9 +55,9 @@ attachments:
     size: 41984
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 523
-    converted_non_space_chars: 405
-    table_row_count: 1
+    converted_text_chars: 2073
+    converted_non_space_chars: 1395
+    table_row_count: 11
   - id: "204847757-202410150000022550000233004-byl-hwp"
     title: "[별지 제3호 서식] 심리·감리 회피신청서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_심리·감리회피신청서.hwp"
@@ -71,9 +71,9 @@ attachments:
     size: 30720
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 559
-    converted_non_space_chars: 402
-    table_row_count: 5
+    converted_text_chars: 600
+    converted_non_space_chars: 431
+    table_row_count: 6
   - id: "204847757-202410150000022550000233005-byl-hwp"
     title: "[별지 제4호 서식] 위탁자 기본정보 현황"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_위탁자기본정보현황.hwp"
@@ -87,9 +87,9 @@ attachments:
     size: 44544
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 704
-    converted_non_space_chars: 549
-    table_row_count: 1
+    converted_text_chars: 3572
+    converted_non_space_chars: 2385
+    table_row_count: 13
   - id: "204847757-202410150000022550000233006-byl-hwp"
     title: "[별지 제5호 서식] 출석요청서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_출석요청서.hwp"
@@ -119,9 +119,9 @@ attachments:
     size: 28160
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1040
-    converted_non_space_chars: 741
-    table_row_count: 8
+    converted_text_chars: 2648
+    converted_non_space_chars: 1883
+    table_row_count: 29
   - id: "204847757-202410150000022550000233008-byl-hwp"
     title: "[별지 제7호 서식] 문답서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_문답서.hwp"
@@ -135,9 +135,9 @@ attachments:
     size: 33792
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 982
-    converted_non_space_chars: 702
-    table_row_count: 11
+    converted_text_chars: 1396
+    converted_non_space_chars: 984
+    table_row_count: 17
   - id: "204847757-202410150000022550000233009-byl-hwp"
     title: "[별지 제8호 서식] 질문서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_질문서.hwp"
@@ -151,9 +151,9 @@ attachments:
     size: 18432
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 585
-    converted_non_space_chars: 418
-    table_row_count: 6
+    converted_text_chars: 1118
+    converted_non_space_chars: 791
+    table_row_count: 15
   - id: "204847757-202410150000022550000233010-byl-hwp"
     title: "[별지 제9호 서식] 감리명령서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_감리명령서.hwp"
@@ -199,9 +199,9 @@ attachments:
     size: 31232
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 283
-    converted_non_space_chars: 228
-    table_row_count: 1
+    converted_text_chars: 423
+    converted_non_space_chars: 291
+    table_row_count: 3
   - id: "204847757-202410150000022550000233013-byl-hwp"
     title: "[별지 제12호 서식] 회원제재금 부과통지서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_회원제재금부과통지서.hwp"

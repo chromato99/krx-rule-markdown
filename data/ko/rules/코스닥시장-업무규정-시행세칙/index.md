@@ -150,9 +150,9 @@ attachments:
     size: 39936
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 575
-    converted_non_space_chars: 480
-    table_row_count: 1
+    converted_text_chars: 698
+    converted_non_space_chars: 516
+    table_row_count: 2
   - id: "210223538-202311230000021890000113017-byl-hwp"
     title: "[업무서식 1의2] 코스닥상장법인 자기주식(신탁)매매신청서<개정 2007.12.27, 2009.2.3, 2009.3.12>"
     file_name: "코스닥시장 업무규정 시행세칙_118차_코스닥상장법인자기주식(신탁)매매신청서.hwp"
@@ -166,9 +166,9 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 505
-    converted_non_space_chars: 430
-    table_row_count: 1
+    converted_text_chars: 646
+    converted_non_space_chars: 485
+    table_row_count: 2
   - id: "210223538-202311230000021890000113023-byl-hwp"
     title: "[업무서식 6의2] 유동성공급계약내용 신고서<개정 2009.2.3>"
     file_name: "코스닥시장 업무규정 시행세칙_118차_유동성공급계약내용신고서.hwp"
@@ -182,9 +182,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 491
-    converted_non_space_chars: 422
-    table_row_count: 1
+    converted_text_chars: 455
+    converted_non_space_chars: 344
+    table_row_count: 4
   - id: "210223538-202311230000021890000113024-byl-hwp"
     title: "[업무서식 6의3] 시장조성계좌 신고서<개정 2016.3.25, 2017.9.19, 2021.3.12>"
     file_name: "코스닥시장 업무규정 시행세칙_118차_시장조성계좌신고서.hwp"
@@ -230,9 +230,9 @@ attachments:
     size: 25088
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 5833
-    converted_non_space_chars: 4520
-    table_row_count: 7
+    converted_text_chars: 8082
+    converted_non_space_chars: 5951
+    table_row_count: 30
   - id: "210223538-202311230000021890000113027-byl-hwp"
     title: "[업무서식 6의6] 시장조성계좌 보유수량 변동신고서<개정 2016.3.25, 2019.11.28>"
     file_name: "코스닥시장 업무규정 시행세칙_118차_시장조성계좌보유수량변동신고서.hwp"
@@ -246,9 +246,9 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 886
-    converted_non_space_chars: 680
-    table_row_count: 4
+    converted_text_chars: 1055
+    converted_non_space_chars: 788
+    table_row_count: 5
   - id: "210223538-202311230000021890000113029-byl-hwp"
     title: "[업무서식 8] 착오매매정정신청서<개정 2009.2.3>"
     file_name: "코스닥시장 업무규정 시행세칙_118차_착오매매정정신청서.hwp"
@@ -262,9 +262,9 @@ attachments:
     size: 13312
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 228
-    converted_non_space_chars: 166
-    table_row_count: 1
+    converted_text_chars: 653
+    converted_non_space_chars: 436
+    table_row_count: 6
   - id: "210223538-202311230000021890000113030-byl-hwp"
     title: "[업무서식 9] 착오매매처리약정서<개정 2005.5.16, 2009.2.3>"
     file_name: "코스닥시장 업무규정 시행세칙_118차_착오매매처리약정서.hwp"
@@ -293,9 +293,9 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 329
-    converted_non_space_chars: 244
-    table_row_count: 1
+    converted_text_chars: 1120
+    converted_non_space_chars: 748
+    table_row_count: 8
   - id: "210223538-210186676-hwp"
     title: "[업무서식 10의2] 대규모착오매매 구제신청서<신설 2016.6.21, 2017.2.28, 2026.3.16.>"
     file_name: "코스닥시장 업무규정 시행세칙_118차_대규모착오매매구제신청서.hwp"
@@ -341,9 +341,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 454
-    converted_non_space_chars: 337
-    table_row_count: 2
+    converted_text_chars: 609
+    converted_non_space_chars: 436
+    table_row_count: 3
   - id: "210223538-202311230000021890000113035-byl-hwp"
     title: "[업무서식 12] 착오매매 정산청구서<개정 2005.5.16, 2009.2.3>"
     file_name: "코스닥시장 업무규정 시행세칙_118차_착오매매정산청구서.hwp"
@@ -389,8 +389,8 @@ attachments:
     size: 13312
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 322
-    converted_non_space_chars: 239
+    converted_text_chars: 441
+    converted_non_space_chars: 322
     table_row_count: 2
   - id: "210223538-202311230000021890000113045-byl-hwp"
     title: "[업무서식 19] 알고리즘거래계좌 신고서<신설 2016.6.21, 2017.2.28>"

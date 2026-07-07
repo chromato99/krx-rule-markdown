@@ -55,9 +55,9 @@ attachments:
     size: 41472
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1265
-    converted_non_space_chars: 942
-    table_row_count: 10
+    converted_text_chars: 1468
+    converted_non_space_chars: 1013
+    table_row_count: 14
     formula_hint_count: 4
 ---
 

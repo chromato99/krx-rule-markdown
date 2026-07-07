@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "generated_at": "2026-07-04T08:08:08.184635Z",
+  "generated_at": "2026-07-07T10:48:11.643450Z",
   "summary": {
     "documents": 123,
     "attachments": 596,
@@ -19,7 +19,7 @@
     "converted_text_chars": {
       "count": 596,
       "min": 34,
-      "median": 939,
+      "median": 1256,
       "max": 180389
     }
   },

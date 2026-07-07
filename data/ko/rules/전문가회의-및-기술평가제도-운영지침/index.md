@@ -55,8 +55,8 @@ attachments:
     size: 400896
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1681
-    converted_non_space_chars: 1257
+    converted_text_chars: 1711
+    converted_non_space_chars: 1264
     table_row_count: 18
   - id: "204847848-202104160000007280000250004-byl-hwp"
     title: "[서식 3] 기술평가서"
@@ -71,9 +71,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 259
-    converted_non_space_chars: 218
-    table_row_count: 1
+    converted_text_chars: 1389
+    converted_non_space_chars: 697
+    table_row_count: 15
   - id: "204847848-202104160000007280000250005-byl-hwp"
     title: "[서식 4] 이해관계 부존재 확인서<개정 2016.12.29>"
     file_name: "전문가회의 및 기술평가제도 운영지침_3차_이해관계부존재확인서.hwp"
@@ -87,9 +87,9 @@ attachments:
     size: 16384
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 994
-    converted_non_space_chars: 758
-    table_row_count: 7
+    converted_text_chars: 1052
+    converted_non_space_chars: 794
+    table_row_count: 9
 ---
 
 제1장 총칙

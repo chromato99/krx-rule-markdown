@@ -6,6 +6,11 @@
     <td colspan="8"></td>
   </tr>
   <tr>
+    <td colspan="4"></td>
+    <td colspan="6"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
     <td colspan="12">KRX금시장 매매거래용 금지금 관세 면제 추천서</td>
   </tr>
   <tr>
@@ -55,6 +60,16 @@
     <td>수입신고<br>예정일</td>
     <td colspan="2">보세구역 반출예정일</td>
     <td>용 도</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td colspan="2"></td>
+    <td></td>
   </tr>
   <tr>
     <td colspan="12">◦ 유효기간 만료일 : 20 . . . 까지<br>조세특례제한법 제126조의7, 같은 법 시행령 제121조의7 및 KRX금시장 매매거래용 금지금의 관세 면제 추천요령(지침 제 호)에 따라 위와 같이 추천합니다.<br>20 . . .<br>한국거래소 이사장 (인)</td>

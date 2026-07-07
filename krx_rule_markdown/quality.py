@@ -40,10 +40,13 @@ class AttachmentQuality:
     non_space_chars: int
     line_count: int
     table_row_count: int
+    table_block_count: int
+    table_cell_count: int
     formula_block_count: int
     formula_hint_count: int
     replacement_char_count: int
     raw_table_hint_count: int = 0
+    raw_table_cell_hint_count: int = 0
     raw_formula_hint_count: int = 0
 
 
@@ -52,10 +55,11 @@ def inspect_attachment_quality(text: str, raw_path: Path | None = None) -> Attac
     non_space_chars = sum(1 for ch in text if not ch.isspace())
     lines = [line.rstrip() for line in text.splitlines() if line.strip()]
     table_row_count = sum(1 for line in lines if is_table_like_line(line))
+    table_block_count, table_cell_count = markdown_table_structure_counts(text)
     formula_block_count = preserved_formula_count(text)
     formula_hint_count = len(FORMULA_RE.findall(text))
     replacement_char_count = text.count("\ufffd")
-    raw_table_hints, raw_formula_hints = raw_structure_hints(raw_path)
+    raw_table_hints, raw_table_cell_hints, raw_formula_hints = raw_structure_hints(raw_path)
 
     flags: list[str] = []
     if text_chars == 0:
@@ -66,8 +70,10 @@ def inspect_attachment_quality(text: str, raw_path: Path | None = None) -> Attac
         flags.append("replacement_characters")
     if max((len(line) for line in lines), default=0) > 1200:
         flags.append("very_long_lines")
-    if raw_table_hints > 0 and table_row_count == 0:
+    if raw_table_hints > 0 and table_block_count == 0:
         flags.append("raw_table_hints_without_table_text")
+    if raw_table_cell_hints >= 8 and table_cell_count < raw_table_cell_hints * 0.5:
+        flags.append("raw_table_cells_may_be_flattened")
     if raw_formula_hints > 0 and formula_hint_count == 0:
         flags.append("raw_formula_hints_without_formula_text")
 
@@ -78,6 +84,7 @@ def inspect_attachment_quality(text: str, raw_path: Path | None = None) -> Attac
         "replacement_characters": min(30, replacement_char_count * 3),
         "very_long_lines": 15,
         "raw_table_hints_without_table_text": 25,
+        "raw_table_cells_may_be_flattened": 20,
         "raw_formula_hints_without_formula_text": 25,
     }
     for flag in flags:
@@ -92,10 +99,13 @@ def inspect_attachment_quality(text: str, raw_path: Path | None = None) -> Attac
         non_space_chars=non_space_chars,
         line_count=len(lines),
         table_row_count=table_row_count,
+        table_block_count=table_block_count,
+        table_cell_count=table_cell_count,
         formula_block_count=formula_block_count,
         formula_hint_count=formula_hint_count,
         replacement_char_count=replacement_char_count,
         raw_table_hint_count=raw_table_hints,
+        raw_table_cell_hint_count=raw_table_cell_hints,
         raw_formula_hint_count=raw_formula_hints,
     )
 
@@ -117,6 +127,44 @@ def is_table_like_line(line: str) -> bool:
     return meaningful >= 2
 
 
+def markdown_table_structure_counts(text: str) -> tuple[int, int]:
+    lines = text.splitlines()
+    block_count = 0
+    cell_count = 0
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if re.search(r"<table\b", line, re.I):
+            block_count += 1
+            while i < len(lines):
+                cell_count += sum(html_cell_span_width(match) for match in re.finditer(r"<t[dh]\b[^>]*>", lines[i], re.I))
+                if re.search(r"</table\s*>", lines[i], re.I):
+                    i += 1
+                    break
+                i += 1
+            continue
+        if line.strip().startswith("|") and line.count("|") >= 2:
+            rows = 0
+            while i < len(lines) and lines[i].strip().startswith("|") and lines[i].count("|") >= 2:
+                parts = [cell.strip() for cell in lines[i].strip().strip("|").split("|")]
+                is_separator = all(re.fullmatch(r":?-{3,}:?", cell or "") for cell in parts)
+                if not is_separator:
+                    rows += 1
+                    cell_count += len(parts)
+                i += 1
+            if rows:
+                block_count += 1
+            continue
+        i += 1
+    return block_count, cell_count
+
+
+def html_cell_span_width(match: re.Match[str]) -> int:
+    attrs = match.group(0)
+    colspan = re.search(r"\bcolspan\s*=\s*['\"]?(\d+)", attrs, re.I)
+    return max(1, int(colspan.group(1))) if colspan else 1
+
+
 def preserved_formula_count(text: str) -> int:
     source_blocks = len(SOURCE_FORMULA_BLOCK_RE.findall(text))
     if source_blocks:
@@ -124,14 +172,16 @@ def preserved_formula_count(text: str) -> int:
     return len(FORMULA_BLOCK_RE.findall(text))
 
 
-def raw_structure_hints(raw_path: Path | None) -> tuple[int, int]:
+def raw_structure_hints(raw_path: Path | None) -> tuple[int, int, int]:
     if raw_path is None or not raw_path.exists():
-        return 0, 0
+        return 0, 0, 0
     if raw_path.suffix.lower() == ".hwp":
-        return 0, hwp_eqedit_count(raw_path)
+        table_hints, table_cell_hints = hwp_table_counts(raw_path)
+        return table_hints, table_cell_hints, hwp_eqedit_count(raw_path)
     if raw_path.suffix.lower() != ".hwpx":
-        return 0, 0
+        return 0, 0, 0
     table_hints = 0
+    table_cell_hints = 0
     formula_hints = 0
     try:
         with zipfile.ZipFile(raw_path) as zf:
@@ -140,11 +190,32 @@ def raw_structure_hints(raw_path: Path | None) -> tuple[int, int]:
                 if not lower.endswith(".xml"):
                     continue
                 xml = zf.read(name).decode("utf-8", errors="replace")
-                table_hints += len(re.findall(r"(<[^>]*:?tbl\b|<[^>]*:?tr\b|<[^>]*:?tc\b)", xml, re.I))
+                table_hints += len(re.findall(r"<[^>]*:?tbl\b", xml, re.I))
+                table_cell_hints += len(re.findall(r"<[^>]*:?tc\b", xml, re.I))
                 formula_hints += len(re.findall(r"(equation|formula|수식|<[^>]*:?eq\b)", xml, re.I))
     except (OSError, zipfile.BadZipFile):
+        return 0, 0, 0
+    return table_hints, table_cell_hints, formula_hints
+
+
+def hwp_table_counts(raw_path: Path) -> tuple[int, int]:
+    try:
+        from hwp5.proc.find import hwp5file_models
+    except ImportError:
         return 0, 0
-    return table_hints, formula_hints
+
+    table_count = 0
+    cell_count = 0
+    try:
+        for model in hwp5file_models(str(raw_path)):
+            if model.get("tagname") != "HWPTAG_TABLE":
+                continue
+            table_count += 1
+            content = model.get("content", {})
+            cell_count += sum(content.get("rowcols", []) or []) or int(content.get("rows", 0) or 0) * int(content.get("cols", 0) or 0)
+    except Exception:
+        return 0, 0
+    return table_count, cell_count
 
 
 def hwp_eqedit_count(raw_path: Path) -> int:
@@ -293,7 +364,11 @@ def quality_message(flag: str, quality: AttachmentQuality) -> str:
         "very_short_text": f"converted text is very short ({quality.non_space_chars} non-space chars)",
         "replacement_characters": f"converted text contains {quality.replacement_char_count} replacement character(s)",
         "very_long_lines": "converted text contains very long lines; table or paragraph boundaries may be lost",
-        "raw_table_hints_without_table_text": "raw HWPX has table tags but converted text has no table-like rows",
+        "raw_table_hints_without_table_text": "raw attachment has table tags but converted text has no table-like rows",
+        "raw_table_cells_may_be_flattened": (
+            "raw attachment has many table cells but converted Markdown has far fewer table cells "
+            f"({quality.table_cell_count}/{quality.raw_table_cell_hint_count}); nested or layout tables may be flattened"
+        ),
         "raw_formula_hints_without_formula_text": "raw attachment has formula hints but converted text has no formula-like text",
     }
     return messages.get(flag, flag)

@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 import contextlib
+from html import escape
 import io
 import re
 import runpy
@@ -9,7 +10,7 @@ import sys
 
 from .base import ConversionError, dedupe_adjacent, normalize_text
 from .equation_latex import append_hwp_equations, clean_eqedit_script, hwp_equation_to_latex
-from .tables import normalize_angle_bracket_tables, render_html_table, render_markdown_table, table_needs_html
+from .tables import RawHtml, normalize_angle_bracket_tables, render_html_table, render_markdown_table, table_needs_html
 
 
 def extract_hwp(path: Path) -> str:
@@ -154,13 +155,19 @@ def render_hwp_table(models: list, table_index: int, formulas: list[str], formul
             continue
         header = model.get("content", {})
         i += 1
-        paragraphs: list[str] = []
+        blocks: list[dict[str, str]] = []
         while i < len(models):
             next_model = models[i]
             if next_model.get("tagname") == "HWPTAG_LIST_HEADER" and next_model.get("level") == table_level:
                 break
             if next_model.get("level", 0) < table_level:
                 break
+            if next_model.get("tagname") == "HWPTAG_TABLE" and next_model.get("level", 0) > table_level:
+                rendered, i, formula_index, nested_used = render_hwp_table(models, i, formulas, formula_index)
+                used += nested_used
+                if rendered.strip():
+                    blocks.append({"kind": "table", "text": rendered})
+                continue
             if next_model.get("tagname") == "HWPTAG_PARA_TEXT":
                 text, para_notes, formula_index, para_used, _ = render_hwp_chunks(
                     next_model.get("content", {}).get("chunks", []),
@@ -169,7 +176,7 @@ def render_hwp_table(models: list, table_index: int, formulas: list[str], formul
                 )
                 used += para_used
                 if text:
-                    paragraphs.append(text)
+                    blocks.append({"kind": "paragraph", "text": text})
                 notes.extend(para_notes)
             i += 1
         cells.append(
@@ -178,12 +185,21 @@ def render_hwp_table(models: list, table_index: int, formulas: list[str], formul
                 "col": int(header.get("col", 0) or 0),
                 "rowspan": int(header.get("rowspan", 1) or 1),
                 "colspan": int(header.get("colspan", 1) or 1),
-                "text": "<br>".join(paragraphs),
+                "blocks": blocks,
+                "has_nested_table": any(block["kind"] == "table" for block in blocks),
             }
         )
     if not cells:
         return "", table_index + 1, formula_index, used
-    rendered = render_hwp_table_cells(cells)
+    if table_is_layout_wrapper(table_content, cells):
+        rendered = render_unwrapped_layout_table(cells)
+    else:
+        rendered = render_hwp_table_cells(
+            [
+                cell | {"text": cell_blocks_to_table_cell(cell.get("blocks", []))}
+                for cell in cells
+            ]
+        )
     if notes:
         rendered = "\n\n".join([rendered, *notes])
     return rendered, i, formula_index, used
@@ -191,9 +207,54 @@ def render_hwp_table(models: list, table_index: int, formulas: list[str], formul
 
 def render_hwp_table_cells(cells: list[dict]) -> str:
     rows, spans = hwp_cells_to_table_grid(cells)
-    if table_needs_html(rows, spans):
-        return render_html_table(rows, spans)
+    if table_needs_html(rows, spans) or any(row_is_empty(row) for row in rows):
+        return render_html_table(rows, spans, preserve_empty_rows=True)
     return render_markdown_table(rows)
+
+
+def row_is_empty(row: list) -> bool:
+    return not any((cell.html if isinstance(cell, RawHtml) else str(cell)).strip() for cell in row)
+
+
+def table_is_layout_wrapper(table_content: dict, cells: list[dict]) -> bool:
+    if not any(cell.get("has_nested_table") for cell in cells):
+        return False
+    cols = int(table_content.get("cols", 0) or 0)
+    rowcols = list(table_content.get("rowcols", []) or [])
+    if cols <= 1 or (rowcols and max(rowcols) <= 1):
+        return True
+    if not cols:
+        return False
+    return all(int(cell.get("colspan", 1) or 1) >= cols for cell in cells)
+
+
+def render_unwrapped_layout_table(cells: list[dict]) -> str:
+    parts: list[str] = []
+    for cell in sorted(cells, key=lambda value: (value.get("row", 0), value.get("col", 0))):
+        text = cell_blocks_to_unwrapped_text(cell.get("blocks", []))
+        if text.strip():
+            parts.append(text)
+    return "\n\n".join(dedupe_adjacent(parts))
+
+
+def cell_blocks_to_unwrapped_text(blocks: list[dict[str, str]]) -> str:
+    parts = [block["text"] for block in blocks if block.get("text", "").strip()]
+    return "\n\n".join(dedupe_adjacent(parts))
+
+
+def cell_blocks_to_table_cell(blocks: list[dict[str, str]]):
+    if not any(block.get("kind") == "table" for block in blocks):
+        return "<br>".join(block["text"] for block in blocks if block.get("text"))
+    html_parts: list[str] = []
+    for block in blocks:
+        text = block.get("text", "")
+        if not text.strip():
+            continue
+        if block.get("kind") == "table":
+            html_parts.append(text)
+        else:
+            html_parts.append(escape(text).replace("\n", "<br>"))
+    return RawHtml("<br>\n".join(html_parts))
 
 
 def hwp_cells_to_table_grid(cells: list[dict]) -> tuple[list[list[str]], list[list[tuple[int, int]]]]:
@@ -203,7 +264,7 @@ def hwp_cells_to_table_grid(cells: list[dict]) -> tuple[list[list[str]], list[li
             "col": max(0, int(cell.get("col", 0) or 0)),
             "rowspan": max(1, int(cell.get("rowspan", 1) or 1)),
             "colspan": max(1, int(cell.get("colspan", 1) or 1)),
-            "text": str(cell.get("text", "")),
+            "text": cell.get("text", ""),
         }
         for cell in cells
     ]

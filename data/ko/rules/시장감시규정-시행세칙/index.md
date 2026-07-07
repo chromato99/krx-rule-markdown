@@ -23,9 +23,9 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 684
-    converted_non_space_chars: 524
-    table_row_count: 1
+    converted_text_chars: 1661
+    converted_non_space_chars: 1153
+    table_row_count: 8
   - id: "210222386-202410150000022530000006002-byl-hwp"
     title: "[별지 제2호 서식] 공정거래질서저해우려 풍문 또는 이상거래 징후·현상 보고<개정 2009.2.3, 2012.4.10>"
     file_name: "시장감시규정 시행세칙_74차_공정거래질서저해우려풍문또는이상거래징후·현상보고.hwp"
@@ -39,9 +39,9 @@ attachments:
     size: 36352
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 351
-    converted_non_space_chars: 264
-    table_row_count: 2
+    converted_text_chars: 513
+    converted_non_space_chars: 378
+    table_row_count: 4
   - id: "210222386-202410150000022530000006004-byl-hwp"
     title: "[별지 제4호 서식] 민원·분쟁현황 및 처리결과 보고<개정 2009.2.3, 2012.4.10>"
     file_name: "시장감시규정 시행세칙_74차_민원·분쟁현황및처리결과보고.hwp"
@@ -55,9 +55,9 @@ attachments:
     size: 43520
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 547
-    converted_non_space_chars: 407
-    table_row_count: 2
+    converted_text_chars: 2159
+    converted_non_space_chars: 1441
+    table_row_count: 14
   - id: "210222386-202410150000022530000006005-byl-hwp"
     title: "[별지 제5호 서식] 심리·감리 회피신청서<개정 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_심리·감리회피신청서.hwp"
@@ -71,9 +71,9 @@ attachments:
     size: 30720
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 569
-    converted_non_space_chars: 410
-    table_row_count: 5
+    converted_text_chars: 672
+    converted_non_space_chars: 483
+    table_row_count: 8
   - id: "210222386-202410150000022530000006006-byl-hwp"
     title: "[별지 제6호 서식] 위탁자 기본정보 현황<개정 2009.2.3, 2012.4.10, 2024.5.21>"
     file_name: "시장감시규정 시행세칙_74차_위탁자기본정보현황.hwp"
@@ -87,9 +87,9 @@ attachments:
     size: 48128
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 728
-    converted_non_space_chars: 565
-    table_row_count: 1
+    converted_text_chars: 3826
+    converted_non_space_chars: 2553
+    table_row_count: 15
   - id: "210222386-202410150000022530000006008-byl-hwp"
     title: "[별지 제8호 서식] 출석요청서<개정 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_출석요청서.hwp"
@@ -103,9 +103,9 @@ attachments:
     size: 47616
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1007
-    converted_non_space_chars: 706
-    table_row_count: 10
+    converted_text_chars: 1972
+    converted_non_space_chars: 1322
+    table_row_count: 27
   - id: "210222386-202410150000022530000006009-byl-hwp"
     title: "[별지 제9호 서식] 확인서<개정 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_확인서.hwp"
@@ -119,9 +119,9 @@ attachments:
     size: 30720
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1042
-    converted_non_space_chars: 742
-    table_row_count: 8
+    converted_text_chars: 2930
+    converted_non_space_chars: 2076
+    table_row_count: 33
   - id: "210222386-202410150000022530000006010-byl-hwp"
     title: "[별지 제10호 서식] 문답서<개정 2006.11.30>"
     file_name: "시장감시규정 시행세칙_74차_문답서.hwp"
@@ -135,9 +135,9 @@ attachments:
     size: 40960
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 952
-    converted_non_space_chars: 665
-    table_row_count: 12
+    converted_text_chars: 1522
+    converted_non_space_chars: 1025
+    table_row_count: 22
   - id: "210222386-202410150000022530000006011-byl-hwp"
     title: "[별지 제11호 서식] 질문서<개정 2006.11.30, 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_질문서.hwp"
@@ -151,9 +151,9 @@ attachments:
     size: 31744
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1388
-    converted_non_space_chars: 975
-    table_row_count: 13
+    converted_text_chars: 2526
+    converted_non_space_chars: 1770
+    table_row_count: 33
   - id: "210222386-202410150000022530000006012-byl-hwp"
     title: "[별지 제12호 서식] 감리명령서<개정 2006.11.30, 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_감리명령서.hwp"
@@ -167,9 +167,9 @@ attachments:
     size: 36352
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 883
-    converted_non_space_chars: 593
-    table_row_count: 11
+    converted_text_chars: 2215
+    converted_non_space_chars: 1447
+    table_row_count: 35
   - id: "210222386-202410150000022530000006014-byl-hwp"
     title: "[별지 제14호 서식] 현지조치사항<개정 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_현지조치사항.hwp"
@@ -183,9 +183,9 @@ attachments:
     size: 36352
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1365
-    converted_non_space_chars: 999
-    table_row_count: 13
+    converted_text_chars: 2306
+    converted_non_space_chars: 1655
+    table_row_count: 26
   - id: "210222386-210036233-hwp"
     title: "[별지 제14호의2 서식] 공매도 중앙점검시스템 보고서<신설 2025. 3. 14.>"
     file_name: "시장감시규정 시행세칙_74차_"
@@ -199,9 +199,9 @@ attachments:
     size: 56320
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2418
-    converted_non_space_chars: 1561
-    table_row_count: 1
+    converted_text_chars: 3462
+    converted_non_space_chars: 2478
+    table_row_count: 19
   - id: "210222386-210036234-hwp"
     title: "[별지 제14호의3 서식] 사실관계확인서<신설 2025. 3. 14.>"
     file_name: "시장감시규정 시행세칙_74차_"
@@ -215,9 +215,9 @@ attachments:
     size: 36864
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 501
-    converted_non_space_chars: 430
-    table_row_count: 1
+    converted_text_chars: 651
+    converted_non_space_chars: 467
+    table_row_count: 4
   - id: "210222386-210036248-hwp"
     title: "[별지 제14호의4 서식] 자료제출요구서<신설 2021.3.12,개정 2025. 3. 14.>"
     file_name: "시장감시규정 시행세칙_74차_자료제출요구서.hwp"
@@ -294,9 +294,9 @@ attachments:
     size: 41984
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 855
-    converted_non_space_chars: 671
-    table_row_count: 5
+    converted_text_chars: 896
+    converted_non_space_chars: 700
+    table_row_count: 6
   - id: "210222386-202410150000022530000006022-byl-hwp"
     title: "[별지 제15-7호서식] 징계내역 통보서<개정 2021.9.14>"
     file_name: "시장감시규정 시행세칙_74차_징계내역통보서.hwp"

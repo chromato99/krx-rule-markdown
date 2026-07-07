@@ -23,9 +23,9 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1971
-    converted_non_space_chars: 1521
-    table_row_count: 14
+    converted_text_chars: 2306
+    converted_non_space_chars: 1768
+    table_row_count: 17
   - id: "204847764-201705110000005520000236002-byl-hwp"
     title: "[별지 제2호] KRX금시장 매매거래용 금지금 관세 면제 추천서"
     file_name: "KRX금시장 매매거래용 금지금 관세면제 추천요령_1차_KRX금시장매매거래용금지금관세면제추천서.hwp"
@@ -39,9 +39,9 @@ attachments:
     size: 14848
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1544
-    converted_non_space_chars: 1166
-    table_row_count: 13
+    converted_text_chars: 1812
+    converted_non_space_chars: 1360
+    table_row_count: 15
   - id: "204847764-201705110000005520000236003-byl-hwp"
     title: "[별지 제3호] KRX금시장 매매거래용 금지금 관세 면제 추천서(전산용)"
     file_name: "KRX금시장 매매거래용 금지금 관세면제 추천요령_1차_KRX금시장매매거래용금지금관세면제추천서(전산용).hwp"
@@ -71,9 +71,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1315
-    converted_non_space_chars: 999
-    table_row_count: 11
+    converted_text_chars: 1729
+    converted_non_space_chars: 1306
+    table_row_count: 15
   - id: "204847764-201705110000005520000236005-byl-hwp"
     title: "[별지 제5호] 수입 및 KRX금시장 매매거래(공급)계획서"
     file_name: "KRX금시장 매매거래용 금지금 관세면제 추천요령_1차_수입및KRX금시장매매거래(공급)계획서.hwp"
@@ -87,9 +87,9 @@ attachments:
     size: 12288
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 839
-    converted_non_space_chars: 646
-    table_row_count: 8
+    converted_text_chars: 1384
+    converted_non_space_chars: 1026
+    table_row_count: 13
 ---
 
 **제1조(목적)**이 요령은 「조세특례제한법」(이하 이 요령에서 "법"이라 한다) 제126조의7제9항 및 같은 법 시행령 제121조의7제16항에 따라 KRX금시장(한국거래소가 개설하여 운영하는 금 현물시장을 말한다. 이하 같다)에서 매매거래를 하기 위하여 수입되는 금지금에 대하여 관세의 면제를 추천함에 있어서 필요한 방법과 절차 등을 정함을 목적으로 한다.

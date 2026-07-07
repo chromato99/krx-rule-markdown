@@ -70,9 +70,9 @@ attachments:
     size: 56320
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 11295
-    converted_non_space_chars: 8828
-    table_row_count: 48
+    converted_text_chars: 11879
+    converted_non_space_chars: 9260
+    table_row_count: 52
     formula_block_count: 5
     formula_hint_count: 32
   - id: "210205830-210077901-hwp"
@@ -88,9 +88,9 @@ attachments:
     size: 41984
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1468
-    converted_non_space_chars: 1192
-    table_row_count: 3
+    converted_text_chars: 1947
+    converted_non_space_chars: 1414
+    table_row_count: 10
   - id: "210205830-210219868-hwp"
     title: "[별지 제2호 서식] 금리·통화·일반파생상품 시장조성 표준 계약서<개정 2023.6.21, 2024.2.6, 2025. 6. 5.,2025. 7. 22.,2025. 10. 23.,2026. 6. 23.>"
     file_name: "금리·통화·일반파생상품 시장조성 운영지침_9차_금리·통화·일반파생상품시장조성표준계약서.hwp"
@@ -104,9 +104,9 @@ attachments:
     size: 110080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 4657
-    converted_non_space_chars: 3546
-    table_row_count: 9
+    converted_text_chars: 5202
+    converted_non_space_chars: 3906
+    table_row_count: 13
   - id: "210205830-210077921-hwp"
     title: "[별지 제3호 서식] 시장조성활동 계좌 신고서<개정 2025. 6. 5.>"
     file_name: "금리·통화·일반파생상품 시장조성 운영지침_9차_시장조성활동계좌신고서.hwp"
@@ -120,9 +120,9 @@ attachments:
     size: 44544
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 534
-    converted_non_space_chars: 471
-    table_row_count: 1
+    converted_text_chars: 893
+    converted_non_space_chars: 644
+    table_row_count: 10
   - id: "210205830-210077929-hwp"
     title: "[별지 제4호 서식] 고속 알고리즘거래 관련 확인서<신설 2025. 6. 5.>"
     file_name: "금리·통화·일반파생상품 시장조성 운영지침_9차_"

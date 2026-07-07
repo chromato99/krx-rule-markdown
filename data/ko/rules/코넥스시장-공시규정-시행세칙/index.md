@@ -23,9 +23,9 @@ attachments:
     size: 47616
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3760
-    converted_non_space_chars: 2659
-    table_row_count: 1
+    converted_text_chars: 3438
+    converted_non_space_chars: 2601
+    table_row_count: 4
   - id: "210224312-202411140000022710000216002-byl-hwp"
     title: "[공시서식 1] 이의신청서"
     file_name: "코넥스시장 공시규정 시행세칙_20차_이의신청서.hwp"
@@ -55,9 +55,9 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 454
-    converted_non_space_chars: 381
-    table_row_count: 1
+    converted_text_chars: 632
+    converted_non_space_chars: 461
+    table_row_count: 3
   - id: "210224312-202411140000022710000216004-byl-hwp"
     title: "[공시서식 3] 코넥스시장 상장법인 공시책임자 직무수행 승낙 확인서"
     file_name: "코넥스시장 공시규정 시행세칙_20차_코넥스시장상장법인공시책임자직무수행승낙확인서.hwp"

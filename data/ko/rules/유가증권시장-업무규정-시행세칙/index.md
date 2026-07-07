@@ -216,9 +216,9 @@ attachments:
     size: 34816
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 446
-    converted_non_space_chars: 350
-    table_row_count: 2
+    converted_text_chars: 685
+    converted_non_space_chars: 505
+    table_row_count: 5
     formula_hint_count: 7
   - id: "210225129-202410290000022560000111020-byl-hwp"
     title: "[별지 제1호의2 서식] 알고리즘거래계좌 신고서<신설 2016.6.21, 2017.2.28>"
@@ -249,9 +249,9 @@ attachments:
     size: 36864
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1371
-    converted_non_space_chars: 1008
-    table_row_count: 8
+    converted_text_chars: 3205
+    converted_non_space_chars: 2178
+    table_row_count: 22
   - id: "210225129-210153110-hwp"
     title: "[별지 제2호의2 서식] 미결제현황 통지서<신설 2009.3.6, 2012.9.20,개정 2025. 12. 29.>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_미결제현황통지서.hwp"
@@ -265,9 +265,9 @@ attachments:
     size: 45568
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 756
-    converted_non_space_chars: 597
-    table_row_count: 3
+    converted_text_chars: 883
+    converted_non_space_chars: 678
+    table_row_count: 4
     formula_hint_count: 4
   - id: "210225129-202410290000022560000111023-byl-hwp"
     title: "[별지 제2호의3 서식] 유동성공급계약내용 신고서<신설 2005.12.1, 2008.11.27, 2009.2.3, 2009.3.6>"
@@ -330,9 +330,9 @@ attachments:
     size: 59904
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 5803
-    converted_non_space_chars: 4491
-    table_row_count: 8
+    converted_text_chars: 8081
+    converted_non_space_chars: 5947
+    table_row_count: 30
   - id: "210225129-202410290000022560000111027-byl-hwp"
     title: "[별지 제2호의7 서식] 시장조성계좌 보유수량 변동신고서<신설 2016.3.25, 2019.11.28>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_시장조성계좌보유수량변동신고서.hwp"
@@ -346,9 +346,9 @@ attachments:
     size: 38400
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 889
-    converted_non_space_chars: 682
-    table_row_count: 4
+    converted_text_chars: 1058
+    converted_non_space_chars: 790
+    table_row_count: 5
   - id: "210225129-202410290000022560000111028-byl-hwp"
     title: "[별지 제2호의8 서식] 유동성공급계좌 신고서<신설 2021.7.20>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_유동성공급계좌신고서.hwp"
@@ -362,9 +362,9 @@ attachments:
     size: 40448
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1040
-    converted_non_space_chars: 780
-    table_row_count: 9
+    converted_text_chars: 1338
+    converted_non_space_chars: 899
+    table_row_count: 13
   - id: "210225129-202410290000022560000111029-byl-hwp"
     title: "[별지 제3호 서식] 착오매매정정신청서<개정 2009.2.3>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_착오매매정정신청서.hwp"
@@ -378,9 +378,9 @@ attachments:
     size: 24064
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 232
-    converted_non_space_chars: 170
-    table_row_count: 1
+    converted_text_chars: 657
+    converted_non_space_chars: 440
+    table_row_count: 6
     formula_hint_count: 4
   - id: "210225129-202410290000022560000111030-byl-hwp"
     title: "[별지 제4호 서식] 착오매매처리약정서<개정 2009.2.3>"
@@ -395,9 +395,9 @@ attachments:
     size: 56320
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 5151
-    converted_non_space_chars: 3673
-    table_row_count: 45
+    converted_text_chars: 6323
+    converted_non_space_chars: 4420
+    table_row_count: 55
     formula_hint_count: 24
   - id: "210225129-202410290000022560000111031-byl-hwp"
     title: "[별지 제5호 서식] 대규모착오매매 구제 신청서<신설 2016.6.21, 2017.2.28>"
@@ -444,9 +444,9 @@ attachments:
     size: 40448
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 712
-    converted_non_space_chars: 561
-    table_row_count: 2
+    converted_text_chars: 1036
+    converted_non_space_chars: 791
+    table_row_count: 4
     formula_hint_count: 7
   - id: "210225129-202410290000022560000111034-byl-hwp"
     title: "[별지 제7호 서식] 소액채권전담회원 지정신청서<개정 2009.2.3>"
@@ -477,9 +477,9 @@ attachments:
     size: 29696
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 603
-    converted_non_space_chars: 458
-    table_row_count: 2
+    converted_text_chars: 758
+    converted_non_space_chars: 557
+    table_row_count: 3
   - id: "210225129-202410290000022560000111036-byl-hwp"
     title: "[별지 제7호의3 서식] 채권시장조성회원 지정신청서<개정 2009.12.31, 2014.2.28, 2015.7.16>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_채권시장조성회원지정신청서.hwp"

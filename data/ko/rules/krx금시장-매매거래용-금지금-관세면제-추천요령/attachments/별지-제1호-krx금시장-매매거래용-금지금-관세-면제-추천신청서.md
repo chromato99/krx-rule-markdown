@@ -13,6 +13,10 @@
     <td colspan="3">즉 시</td>
   </tr>
   <tr>
+    <td colspan="14"></td>
+    <td colspan="3"></td>
+  </tr>
+  <tr>
     <td colspan="17">KRX금시장 매매거래용 금지금 관세 면제 추천신청서</td>
   </tr>
   <tr>
@@ -67,7 +71,21 @@
     <td>용 도</td>
   </tr>
   <tr>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td colspan="3"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td></td>
+  </tr>
+  <tr>
     <td colspan="17">조세특례제한법 제126조의7, 같은 법 시행령 제121조의7 및 KRX금시장 매매거래용 금지금 관세 면제 추천요령(지침 제 호)에 따라 KRX금시장 매매거래용 금지금에 대한 관세 면제 추천을 받고자 신청하오니 추천하여 주시기 바랍니다.<br>20 . . .<br>신청인 (인)<br>(한국거래소 이사장) 귀하</td>
+  </tr>
+  <tr>
+    <td colspan="15"></td>
+    <td colspan="2"></td>
   </tr>
   <tr>
     <td rowspan="2" colspan="15">구비서류 : ① 선하증권 또는 항공화물운송장 사본 1통<br>② 송품장 사본 1통<br>③ 수입 후 KRX금시장 매매거래(공급)계획서 1통<br>④ 그 밖에 추천에 필요한 서류</td>

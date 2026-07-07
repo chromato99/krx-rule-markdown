@@ -338,9 +338,9 @@ attachments:
     size: 57344
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 12119
-    converted_non_space_chars: 9422
-    table_row_count: 31
+    converted_text_chars: 12099
+    converted_non_space_chars: 9555
+    table_row_count: 41
     formula_block_count: 7
     formula_hint_count: 159
   - id: "210228709-210064740-hwp"
@@ -586,9 +586,9 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 583
-    converted_non_space_chars: 421
-    table_row_count: 9
+    converted_text_chars: 1293
+    converted_non_space_chars: 891
+    table_row_count: 13
   - id: "210228709-202411010000022630000114046-byl-hwp"
     title: "[별지 제6호서식] 거래증거금 현금 예탁신고(인출청구)서<개정 2016.11.21>"
     file_name: "파생상품시장 업무규정 시행세칙_163차_거래증거금현금예탁신고(인출청구)서.hwp"
@@ -666,9 +666,9 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 316
-    converted_non_space_chars: 242
-    table_row_count: 2
+    converted_text_chars: 2576
+    converted_non_space_chars: 1682
+    table_row_count: 22
   - id: "210228709-202411010000022630000114051-byl-hwp"
     title: "[별지 제9호서식] 권리행사 신고서<개정 2013.7.8, 2017.6.15>"
     file_name: "파생상품시장 업무규정 시행세칙_163차_권리행사신고서.hwp"
@@ -682,9 +682,9 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 613
-    converted_non_space_chars: 459
-    table_row_count: 5
+    converted_text_chars: 910
+    converted_non_space_chars: 648
+    table_row_count: 8
   - id: "210228709-202411010000022630000114052-byl-hwp"
     title: "[별지 제10호서식] 권리행사배정통지서<개정 2017.6.15>"
     file_name: "파생상품시장 업무규정 시행세칙_163차_권리행사배정통지서.hwp"
@@ -698,9 +698,9 @@ attachments:
     size: 13824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 425
-    converted_non_space_chars: 318
-    table_row_count: 3
+    converted_text_chars: 780
+    converted_non_space_chars: 543
+    table_row_count: 8
   - id: "210228709-202411010000022630000114055-byl-hwp"
     title: "[별지 제13호서식] 차익·헤지거래용 미결제약정수량 보유신고서 <신설 2012.2.17, 개정 2012.12.18, 2015.7.3, 2017.6.15, 2017.9.20, 2018.3.15>"
     file_name: "파생상품시장 업무규정 시행세칙_163차_차익·헤지거래용미결제약정수량보유신고서(신설2012.2.17,개정2012.12.18,2015.7.3,2017.6.15,2017.9.20,2018.3.15).hwp"
@@ -730,9 +730,9 @@ attachments:
     size: 16896
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2390
-    converted_non_space_chars: 1861
-    table_row_count: 11
+    converted_text_chars: 2732
+    converted_non_space_chars: 2119
+    table_row_count: 13
   - id: "210228709-210125286-hwp"
     title: "[별지 제13호의3 서식] 상장지수집합투자기구 미결제약정수량 보유신고서(코스닥150선물·옵션/코스닥글로벌선물/ETF선물) <신설 2018.3.15., 개정 2024.4.5., 2024.11.1.><개정 2025. 10. 1.>"
     file_name: "파생상품시장 업무규정 시행세칙_163차_상장지수집합투자기구미결제약정수량보유신고서(코스닥150선물·옵션_코스닥글로벌선물_TIGER미국나스닥100ETF선물)(신설2018.3.15.,개정2024.4.5.,2024.11.1.).hwp"

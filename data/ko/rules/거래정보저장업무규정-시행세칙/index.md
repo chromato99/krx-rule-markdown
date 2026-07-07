@@ -71,9 +71,9 @@ attachments:
     size: 53248
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2680
-    converted_non_space_chars: 2091
-    table_row_count: 40
+    converted_text_chars: 4352
+    converted_non_space_chars: 3207
+    table_row_count: 58
   - id: "210024015-202409200000022490000294005-byl-hwp"
     title: "[별지 제1호의2 서식] 보고업무담당자 지정·변경 신고서 <신설 2022.6.28><개정 2024.9.20>"
     file_name: "거래정보저장업무규정 시행세칙_6차_보고업무담당자지정·변경신고서(신설2022.6.28).hwp"
@@ -87,9 +87,9 @@ attachments:
     size: 41984
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 875
-    converted_non_space_chars: 774
-    table_row_count: 2
+    converted_text_chars: 1674
+    converted_non_space_chars: 1248
+    table_row_count: 15
   - id: "210024015-202409200000022490000294006-byl-hwp"
     title: "[별지 제2호 서식] 이용자등록·변경·해지신청서(금융위원회·금융감독원·한국은행용)"
     file_name: "거래정보저장업무규정 시행세칙_6차_이용자등록·변경·해지신청서(금융위원회·금융감독원·한국은행용).hwp"
@@ -103,9 +103,9 @@ attachments:
     size: 40448
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 652
-    converted_non_space_chars: 555
-    table_row_count: 2
+    converted_text_chars: 1988
+    converted_non_space_chars: 1391
+    table_row_count: 18
   - id: "210024015-202409200000022490000294007-byl-hwp"
     title: "[별지 제3호 서식] 이용자 지위 승계 신청서"
     file_name: "거래정보저장업무규정 시행세칙_6차_이용자지위승계신청서.hwp"
@@ -119,9 +119,9 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2325
-    converted_non_space_chars: 1775
-    table_row_count: 40
+    converted_text_chars: 3370
+    converted_non_space_chars: 2447
+    table_row_count: 53
   - id: "210024015-202409200000022490000294008-byl-hwp"
     title: "[별지 제4호 서식] 금융거래정보이용·제공동의서<개정 2023.8.3>"
     file_name: "거래정보저장업무규정 시행세칙_6차_금융거래정보이용·제공동의서.hwp"
@@ -135,9 +135,9 @@ attachments:
     size: 55808
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1315
-    converted_non_space_chars: 901
-    table_row_count: 1
+    converted_text_chars: 1330
+    converted_non_space_chars: 1008
+    table_row_count: 7
   - id: "210024015-202409200000022490000294009-byl-hwp"
     title: "[별지 제5호 서식] 보고대행기관 지정·변경·지정해제신청서<개정 2024.9.20>"
     file_name: "거래정보저장업무규정 시행세칙_6차_보고대행기관지정·변경·지정해제신청서.hwp"
@@ -151,9 +151,9 @@ attachments:
     size: 50688
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 902
-    converted_non_space_chars: 772
-    table_row_count: 1
+    converted_text_chars: 1800
+    converted_non_space_chars: 1362
+    table_row_count: 11
   - id: "210024015-202409200000022490000294010-byl-hwp"
     title: "[별지 제6호 서식] 비밀유지서약서<개정 2024.2.28>"
     file_name: "거래정보저장업무규정 시행세칙_6차_비밀유지서약서.hwp"
@@ -167,8 +167,8 @@ attachments:
     size: 51712
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 832
-    converted_non_space_chars: 668
+    converted_text_chars: 818
+    converted_non_space_chars: 640
     table_row_count: 1
 ---
 
