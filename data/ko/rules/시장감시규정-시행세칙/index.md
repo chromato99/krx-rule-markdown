@@ -199,8 +199,8 @@ attachments:
     size: 56320
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3462
-    converted_non_space_chars: 2478
+    converted_text_chars: 3531
+    converted_non_space_chars: 2547
     table_row_count: 19
   - id: "210222386-210036234-hwp"
     title: "[별지 제14호의3 서식] 사실관계확인서<신설 2025. 3. 14.>"
@@ -310,8 +310,8 @@ attachments:
     size: 31232
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 583
-    converted_non_space_chars: 425
+    converted_text_chars: 586
+    converted_non_space_chars: 428
     table_row_count: 7
   - id: "210222386-210068447-hwp"
     title: "[별지 제16호 서식] 약식제재금 부과 통지서<개정 2009.2.3, 2021.9.14, 2022.6.15, 2024.1.30,2025. 5. 15.>"
@@ -341,8 +341,8 @@ attachments:
     size: 35328
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 623
-    converted_non_space_chars: 453
+    converted_text_chars: 632
+    converted_non_space_chars: 462
     table_row_count: 4
   - id: "210222386-202410150000022530000006025-byl-hwp"
     title: "[별지 제18호 서식] 예방교육 요청서<신설 2016.5.31>"
@@ -357,8 +357,8 @@ attachments:
     size: 30208
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 515
-    converted_non_space_chars: 375
+    converted_text_chars: 521
+    converted_non_space_chars: 381
     table_row_count: 4
   - id: "210222386-202410150000022530000006026-byl-hwp"
     title: "[별지 제19호 서식] 임직원 등록 및 매매알림 서비스 이용신청서<신설 2018.12.11>"
@@ -389,8 +389,8 @@ attachments:
     size: 51200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1412
-    converted_non_space_chars: 1093
+    converted_text_chars: 1418
+    converted_non_space_chars: 1099
     table_row_count: 8
   - id: "210222386-210216184-hwp"
     title: "[별표 1] 회원제재금 부과기준<개정 2022.11.23, 2023.06.07, 2024.10.15,2026. 1. 29.>"
@@ -421,8 +421,8 @@ attachments:
     size: 55296
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1871
-    converted_non_space_chars: 1321
+    converted_text_chars: 1877
+    converted_non_space_chars: 1327
     table_row_count: 26
   - id: "210222386-210213282-hwp"
     title: "[별표2] 약식제재금 부과기준<신설 2006.11.30, 2007.8.27, 2008.6.27, 2009.3.27, 2009.11.27, 2010.5.31, 2011.12.26, 2012.4.10, 2015.11.20, 2016.4.18, 2017.8.11, 2019.9.20, 2022.6.15,개정 2025. 5. 15.,2026. 5. 19.>"

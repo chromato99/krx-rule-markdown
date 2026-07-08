@@ -54,8 +54,8 @@ attachments:
     size: 51200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1566
-    converted_non_space_chars: 1134
+    converted_text_chars: 1569
+    converted_non_space_chars: 1137
     table_row_count: 10
   - id: "210205830-210219860-hwp"
     title: "[별표 4] 시장조성 실적 평가 기준<개정 2022.2.16, 2022.5.31, 2023.6.21, 2024.2.6, 2024.6.14, 2025. 6. 5.,2025. 10. 23.,2026. 6. 23.>"
@@ -104,8 +104,8 @@ attachments:
     size: 110080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 5202
-    converted_non_space_chars: 3906
+    converted_text_chars: 5205
+    converted_non_space_chars: 3909
     table_row_count: 13
   - id: "210205830-210077921-hwp"
     title: "[별지 제3호 서식] 시장조성활동 계좌 신고서<개정 2025. 6. 5.>"

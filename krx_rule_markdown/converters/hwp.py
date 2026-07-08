@@ -12,6 +12,9 @@ from .base import ConversionError, dedupe_adjacent, normalize_text
 from .equation_latex import append_hwp_equations, clean_eqedit_script, hwp_equation_to_latex
 from .tables import RawHtml, normalize_angle_bracket_tables, render_html_table, render_markdown_table, table_needs_html
 
+HWP_SUPERSCRIPT_FLAG = 0x8000
+HWP_SUBSCRIPT_FLAG = 0x10000
+
 
 def extract_hwp(path: Path) -> str:
     pyhwp_error: Exception | None = None
@@ -58,6 +61,7 @@ def extract_hwp_layout(path: Path) -> str:
         raise ConversionError("pyhwp is not installed") from exc
 
     models = list(hwp5file_models(str(path)))
+    char_shapes = extract_hwp_char_shapes(models)
     formulas = [
         parse_eqedit_payload(model.get("payload") or model.get("unparsed", b""))
         for model in models
@@ -70,7 +74,13 @@ def extract_hwp_layout(path: Path) -> str:
     while model_index < len(models):
         model = models[model_index]
         if model.get("tagname") == "HWPTAG_TABLE":
-            rendered, model_index, formula_index, used = render_hwp_table(models, model_index, formulas, formula_index)
+            rendered, model_index, formula_index, used = render_hwp_table(
+                models,
+                model_index,
+                formulas,
+                formula_index,
+                char_shapes,
+            )
             used_formula_count += used
             if rendered.strip():
                 paragraphs.append(rendered)
@@ -79,7 +89,13 @@ def extract_hwp_layout(path: Path) -> str:
             model_index += 1
             continue
         chunks = model.get("content", {}).get("chunks", [])
-        rendered, formula_index, used = render_hwp_paragraph(chunks, formulas, formula_index)
+        rendered, formula_index, used = render_hwp_paragraph(
+            chunks,
+            formulas,
+            formula_index,
+            following_hwp_para_charshapes(models, model_index),
+            char_shapes,
+        )
         used_formula_count += used
         if rendered.strip():
             paragraphs.append(rendered)
@@ -99,8 +115,37 @@ def extract_hwp_layout(path: Path) -> str:
     return normalize_angle_bracket_tables(text).rstrip() + "\n"
 
 
-def render_hwp_paragraph(chunks: list, formulas: list[str], formula_index: int) -> tuple[str, int, int]:
-    rendered, notes, formula_index, used, has_text = render_hwp_chunks(chunks, formulas, formula_index)
+def extract_hwp_char_shapes(models: list) -> list[dict]:
+    return [
+        model.get("content", {})
+        for model in models
+        if model.get("tagname") == "HWPTAG_CHAR_SHAPE"
+    ]
+
+
+def following_hwp_para_charshapes(models: list, model_index: int) -> list[tuple[int, int]]:
+    if model_index + 1 >= len(models):
+        return []
+    model = models[model_index + 1]
+    if model.get("tagname") != "HWPTAG_PARA_CHAR_SHAPE":
+        return []
+    return list(model.get("content", {}).get("charshapes", []) or [])
+
+
+def render_hwp_paragraph(
+    chunks: list,
+    formulas: list[str],
+    formula_index: int,
+    para_charshapes: list[tuple[int, int]] | None = None,
+    char_shapes: list[dict] | None = None,
+) -> tuple[str, int, int]:
+    rendered, notes, formula_index, used, has_text = render_hwp_chunks(
+        chunks,
+        formulas,
+        formula_index,
+        para_charshapes,
+        char_shapes,
+    )
     if not rendered:
         return "", formula_index, used
     if not has_text and notes:
@@ -110,11 +155,18 @@ def render_hwp_paragraph(chunks: list, formulas: list[str], formula_index: int) 
     return rendered, formula_index, used
 
 
-def render_hwp_chunks(chunks: list, formulas: list[str], formula_index: int) -> tuple[str, list[str], int, int, bool]:
+def render_hwp_chunks(
+    chunks: list,
+    formulas: list[str],
+    formula_index: int,
+    para_charshapes: list[tuple[int, int]] | None = None,
+    char_shapes: list[dict] | None = None,
+) -> tuple[str, list[str], int, int, bool]:
     parts: list[str] = []
     notes: list[str] = []
     has_text = False
     used = 0
+    has_inline_equation = False
     for _, chunk in chunks:
         if isinstance(chunk, str):
             parts.append(chunk)
@@ -124,6 +176,7 @@ def render_hwp_chunks(chunks: list, formulas: list[str], formula_index: int) -> 
         if not isinstance(chunk, dict):
             continue
         if chunk.get("chid") == "eqed":
+            has_inline_equation = True
             formula_index += 1
             used += 1
             formula = formulas[formula_index - 1] if formula_index <= len(formulas) else ""
@@ -133,11 +186,109 @@ def render_hwp_chunks(chunks: list, formulas: list[str], formula_index: int) -> 
             notes.append(format_equation_block(formula_index, formula))
         elif chunk.get("code") == 13:
             continue
-    rendered = normalize_text("".join(parts))
+    rendered_source = "".join(parts)
+    if not has_inline_equation:
+        rendered_source = apply_hwp_script_styles(rendered_source, para_charshapes or [], char_shapes or [])
+    rendered = normalize_text(rendered_source)
     return rendered, notes, formula_index, used, has_text
 
 
-def render_hwp_table(models: list, table_index: int, formulas: list[str], formula_index: int) -> tuple[str, int, int, int]:
+def apply_hwp_script_styles(text: str, para_charshapes: list[tuple[int, int]], char_shapes: list[dict]) -> str:
+    if not text or not para_charshapes or not char_shapes:
+        return text
+    ranges = normalize_hwp_charshape_ranges(para_charshapes, len(text))
+    if not ranges:
+        return text
+    runs: list[tuple[str, str]] = []
+    for index, (start, shape_id) in enumerate(ranges):
+        end = ranges[index + 1][0] if index + 1 < len(ranges) else len(text)
+        if end <= start:
+            continue
+        segment = text[start:end]
+        kind = hwp_script_kind(shape_id, char_shapes)
+        if kind and runs and runs[-1][0] == kind:
+            runs[-1] = (kind, runs[-1][1] + segment)
+        else:
+            runs.append((kind, segment))
+    out: list[str] = []
+    for kind, segment in runs:
+        if kind:
+            if kind == "super":
+                segment = absorb_hwp_super_footnote_suffix(out, segment)
+            segment = format_hwp_script_segment(segment, kind)
+        out.append(segment)
+    return "".join(out)
+
+
+def normalize_hwp_charshape_ranges(para_charshapes: list[tuple[int, int]], text_length: int) -> list[tuple[int, int]]:
+    ranges: list[tuple[int, int]] = []
+    for item in para_charshapes:
+        if not isinstance(item, (tuple, list)) or len(item) < 2:
+            continue
+        try:
+            start = max(0, min(text_length, int(item[0])))
+            shape_id = int(item[1])
+        except (TypeError, ValueError):
+            continue
+        if ranges and ranges[-1][0] == start:
+            ranges[-1] = (start, shape_id)
+        else:
+            ranges.append((start, shape_id))
+    ranges.sort(key=lambda value: value[0])
+    if not ranges:
+        return []
+    deduped: list[tuple[int, int]] = []
+    for start, shape_id in ranges:
+        if deduped and deduped[-1][0] == start:
+            deduped[-1] = (start, shape_id)
+        else:
+            deduped.append((start, shape_id))
+    if deduped[0][0] > 0:
+        deduped.insert(0, (0, -1))
+    return deduped
+
+
+def hwp_script_kind(shape_id: int, char_shapes: list[dict]) -> str:
+    if shape_id < 0 or shape_id >= len(char_shapes):
+        return ""
+    flags = int(char_shapes[shape_id].get("charshapeflags") or 0)
+    if flags & HWP_SUBSCRIPT_FLAG:
+        return "sub"
+    if flags & HWP_SUPERSCRIPT_FLAG:
+        return "super"
+    return ""
+
+
+def format_hwp_script_segment(segment: str, kind: str) -> str:
+    leading = len(segment) - len(segment.lstrip())
+    trailing = len(segment.rstrip())
+    core = segment[leading:trailing]
+    if not core:
+        return segment
+    marker = "_" if kind == "sub" else "^"
+    return f"{segment[:leading]}{marker}{{{core}}}{segment[trailing:]}"
+
+
+def absorb_hwp_super_footnote_suffix(out: list[str], segment: str) -> str:
+    leading = len(segment) - len(segment.lstrip())
+    core = segment[leading:]
+    if not core.startswith(")") or not out:
+        return segment
+    match = re.search(r"(주[\dㆍ·, ]*|\d+)$", out[-1])
+    if not match:
+        return segment
+    suffix = match.group(1)
+    out[-1] = out[-1][: -len(suffix)]
+    return f"{segment[:leading]}{suffix}{segment[leading:]}"
+
+
+def render_hwp_table(
+    models: list,
+    table_index: int,
+    formulas: list[str],
+    formula_index: int,
+    char_shapes: list[dict] | None = None,
+) -> tuple[str, int, int, int]:
     table = models[table_index]
     table_level = table.get("level", 0)
     table_content = table.get("content", {})
@@ -163,7 +314,7 @@ def render_hwp_table(models: list, table_index: int, formulas: list[str], formul
             if next_model.get("level", 0) < table_level:
                 break
             if next_model.get("tagname") == "HWPTAG_TABLE" and next_model.get("level", 0) > table_level:
-                rendered, i, formula_index, nested_used = render_hwp_table(models, i, formulas, formula_index)
+                rendered, i, formula_index, nested_used = render_hwp_table(models, i, formulas, formula_index, char_shapes)
                 used += nested_used
                 if rendered.strip():
                     blocks.append({"kind": "table", "text": rendered})
@@ -173,6 +324,8 @@ def render_hwp_table(models: list, table_index: int, formulas: list[str], formul
                     next_model.get("content", {}).get("chunks", []),
                     formulas,
                     formula_index,
+                    following_hwp_para_charshapes(models, i),
+                    char_shapes,
                 )
                 used += para_used
                 if text:

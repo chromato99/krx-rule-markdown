@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "generated_at": "2026-07-07T10:48:11.670689Z",
+  "generated_at": "2026-07-07T15:26:11.185446Z",
   "source": "https://rule.krx.co.kr",
   "documents": [
     {
@@ -29,8 +29,8 @@
           "size": 66560,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2642,
-          "converted_non_space_chars": 2109,
+          "converted_text_chars": 2657,
+          "converted_non_space_chars": 2124,
           "table_row_count": 3
         },
         {
@@ -1303,8 +1303,8 @@
           "size": 307200,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 180389,
-          "converted_non_space_chars": 133624,
+          "converted_text_chars": 180395,
+          "converted_non_space_chars": 133630,
           "table_row_count": 1858
         },
         {
@@ -1321,8 +1321,8 @@
           "size": 80896,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4103,
-          "converted_non_space_chars": 3148,
+          "converted_text_chars": 4118,
+          "converted_non_space_chars": 3163,
           "table_row_count": 24
         },
         {
@@ -1339,8 +1339,8 @@
           "size": 65536,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 24582,
-          "converted_non_space_chars": 16244,
+          "converted_text_chars": 24594,
+          "converted_non_space_chars": 16256,
           "table_row_count": 144
         },
         {
@@ -1357,8 +1357,8 @@
           "size": 53248,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4352,
-          "converted_non_space_chars": 3207,
+          "converted_text_chars": 4361,
+          "converted_non_space_chars": 3216,
           "table_row_count": 58
         },
         {
@@ -1375,8 +1375,8 @@
           "size": 41984,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1674,
-          "converted_non_space_chars": 1248,
+          "converted_text_chars": 1680,
+          "converted_non_space_chars": 1254,
           "table_row_count": 15
         },
         {
@@ -1411,8 +1411,8 @@
           "size": 46080,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3370,
-          "converted_non_space_chars": 2447,
+          "converted_text_chars": 3376,
+          "converted_non_space_chars": 2453,
           "table_row_count": 53
         },
         {
@@ -1566,8 +1566,8 @@
           "size": 51200,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1566,
-          "converted_non_space_chars": 1134,
+          "converted_text_chars": 1569,
+          "converted_non_space_chars": 1137,
           "table_row_count": 10
         },
         {
@@ -1622,8 +1622,8 @@
           "size": 110080,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5202,
-          "converted_non_space_chars": 3906,
+          "converted_text_chars": 5205,
+          "converted_non_space_chars": 3909,
           "table_row_count": 13
         },
         {
@@ -2936,8 +2936,8 @@
           "size": 56320,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3462,
-          "converted_non_space_chars": 2478,
+          "converted_text_chars": 3531,
+          "converted_non_space_chars": 2547,
           "table_row_count": 19
         },
         {
@@ -3061,8 +3061,8 @@
           "size": 31232,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 583,
-          "converted_non_space_chars": 425,
+          "converted_text_chars": 586,
+          "converted_non_space_chars": 428,
           "table_row_count": 7
         },
         {
@@ -3096,8 +3096,8 @@
           "size": 35328,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 623,
-          "converted_non_space_chars": 453,
+          "converted_text_chars": 632,
+          "converted_non_space_chars": 462,
           "table_row_count": 4
         },
         {
@@ -3114,8 +3114,8 @@
           "size": 30208,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 515,
-          "converted_non_space_chars": 375,
+          "converted_text_chars": 521,
+          "converted_non_space_chars": 381,
           "table_row_count": 4
         },
         {
@@ -3150,8 +3150,8 @@
           "size": 51200,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1412,
-          "converted_non_space_chars": 1093,
+          "converted_text_chars": 1418,
+          "converted_non_space_chars": 1099,
           "table_row_count": 8
         },
         {
@@ -3186,8 +3186,8 @@
           "size": 55296,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1871,
-          "converted_non_space_chars": 1321,
+          "converted_text_chars": 1877,
+          "converted_non_space_chars": 1327,
           "table_row_count": 26
         },
         {
@@ -3689,8 +3689,8 @@
           "size": 36864,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 445,
-          "converted_non_space_chars": 330
+          "converted_text_chars": 454,
+          "converted_non_space_chars": 339
         },
         {
           "id": "210179748-202411140000022700000013011-byl-hwp",
@@ -3886,8 +3886,8 @@
           "size": 104960,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 7899,
-          "converted_non_space_chars": 6052,
+          "converted_text_chars": 7908,
+          "converted_non_space_chars": 6061,
           "table_row_count": 13
         },
         {
@@ -3904,8 +3904,8 @@
           "size": 49664,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5561,
-          "converted_non_space_chars": 4166,
+          "converted_text_chars": 5570,
+          "converted_non_space_chars": 4175,
           "table_row_count": 30
         },
         {
@@ -3922,8 +3922,8 @@
           "size": 62464,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 9800,
-          "converted_non_space_chars": 7477,
+          "converted_text_chars": 9809,
+          "converted_non_space_chars": 7486,
           "table_row_count": 28,
           "formula_hint_count": 1
         },
@@ -4249,8 +4249,8 @@
           "size": 138752,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5477,
-          "converted_non_space_chars": 4068,
+          "converted_text_chars": 5519,
+          "converted_non_space_chars": 4110,
           "table_row_count": 29,
           "formula_hint_count": 2
         },
@@ -4268,8 +4268,8 @@
           "size": 70144,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3989,
-          "converted_non_space_chars": 2991,
+          "converted_text_chars": 4010,
+          "converted_non_space_chars": 3012,
           "table_row_count": 15,
           "formula_hint_count": 2
         },
@@ -4287,8 +4287,8 @@
           "size": 74752,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6931,
-          "converted_non_space_chars": 5228,
+          "converted_text_chars": 6982,
+          "converted_non_space_chars": 5279,
           "table_row_count": 31,
           "formula_hint_count": 2
         },
@@ -4306,8 +4306,8 @@
           "size": 145920,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 7031,
-          "converted_non_space_chars": 5334,
+          "converted_text_chars": 7079,
+          "converted_non_space_chars": 5382,
           "table_row_count": 30,
           "formula_hint_count": 2
         },
@@ -4325,8 +4325,8 @@
           "size": 70656,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6956,
-          "converted_non_space_chars": 5252,
+          "converted_text_chars": 7007,
+          "converted_non_space_chars": 5303,
           "table_row_count": 30,
           "formula_hint_count": 2
         },
@@ -4344,8 +4344,8 @@
           "size": 70144,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6976,
-          "converted_non_space_chars": 5279,
+          "converted_text_chars": 7027,
+          "converted_non_space_chars": 5330,
           "table_row_count": 30,
           "formula_hint_count": 2
         },
@@ -4363,8 +4363,8 @@
           "size": 71680,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5195,
-          "converted_non_space_chars": 3865,
+          "converted_text_chars": 5237,
+          "converted_non_space_chars": 3907,
           "table_row_count": 21,
           "formula_hint_count": 2
         },
@@ -4437,8 +4437,8 @@
           "size": 48640,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2761,
-          "converted_non_space_chars": 2032,
+          "converted_text_chars": 2767,
+          "converted_non_space_chars": 2038,
           "table_row_count": 19,
           "formula_hint_count": 1
         },
@@ -4840,8 +4840,8 @@
           "size": 48640,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1602,
-          "converted_non_space_chars": 1184,
+          "converted_text_chars": 1608,
+          "converted_non_space_chars": 1190,
           "table_row_count": 14
         },
         {
@@ -5026,8 +5026,8 @@
           "size": 40960,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1062,
-          "converted_non_space_chars": 825,
+          "converted_text_chars": 1065,
+          "converted_non_space_chars": 828,
           "table_row_count": 8
         },
         {
@@ -5081,8 +5081,8 @@
           "size": 45568,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2986,
-          "converted_non_space_chars": 2307,
+          "converted_text_chars": 2989,
+          "converted_non_space_chars": 2310,
           "table_row_count": 15,
           "formula_hint_count": 3
         },
@@ -5117,8 +5117,8 @@
           "size": 52736,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6114,
-          "converted_non_space_chars": 4560,
+          "converted_text_chars": 6120,
+          "converted_non_space_chars": 4566,
           "table_row_count": 32,
           "formula_hint_count": 6
         },
@@ -5188,8 +5188,8 @@
           "size": 54784,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4492,
-          "converted_non_space_chars": 3394,
+          "converted_text_chars": 4522,
+          "converted_non_space_chars": 3424,
           "table_row_count": 24,
           "formula_hint_count": 13
         },
@@ -5518,8 +5518,8 @@
           "size": 32256,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 379,
-          "converted_non_space_chars": 282,
+          "converted_text_chars": 382,
+          "converted_non_space_chars": 285,
           "table_row_count": 4
         },
         {
@@ -5608,8 +5608,8 @@
           "size": 36864,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1904,
-          "converted_non_space_chars": 1381,
+          "converted_text_chars": 1907,
+          "converted_non_space_chars": 1384,
           "table_row_count": 12
         }
       ],
@@ -6282,8 +6282,8 @@
           "size": 51200,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4029,
-          "converted_non_space_chars": 2957,
+          "converted_text_chars": 4047,
+          "converted_non_space_chars": 2975,
           "table_row_count": 32
         },
         {
@@ -6605,8 +6605,8 @@
           "size": 33280,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 837,
-          "converted_non_space_chars": 616,
+          "converted_text_chars": 840,
+          "converted_non_space_chars": 619,
           "table_row_count": 7
         },
         {
@@ -6764,8 +6764,8 @@
           "size": 56320,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1822,
-          "converted_non_space_chars": 1323,
+          "converted_text_chars": 1831,
+          "converted_non_space_chars": 1332,
           "table_row_count": 11
         },
         {
@@ -6817,8 +6817,8 @@
           "size": 64000,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 12953,
-          "converted_non_space_chars": 9114,
+          "converted_text_chars": 12959,
+          "converted_non_space_chars": 9120,
           "table_row_count": 69
         },
         {
@@ -6936,8 +6936,8 @@
           "size": 45056,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 682,
-          "converted_non_space_chars": 539,
+          "converted_text_chars": 685,
+          "converted_non_space_chars": 542,
           "table_row_count": 2
         },
         {
@@ -6990,8 +6990,8 @@
           "size": 51200,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2162,
-          "converted_non_space_chars": 1594,
+          "converted_text_chars": 2165,
+          "converted_non_space_chars": 1597,
           "table_row_count": 8
         },
         {
@@ -7008,8 +7008,8 @@
           "size": 54272,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4646,
-          "converted_non_space_chars": 3277,
+          "converted_text_chars": 4649,
+          "converted_non_space_chars": 3280,
           "table_row_count": 24
         },
         {
@@ -7445,8 +7445,8 @@
           "size": 183296,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 96771,
-          "converted_non_space_chars": 72370,
+          "converted_text_chars": 96774,
+          "converted_non_space_chars": 72373,
           "table_row_count": 438,
           "formula_hint_count": 367
         },
@@ -7803,8 +7803,8 @@
           "size": 133120,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 60435,
-          "converted_non_space_chars": 44993,
+          "converted_text_chars": 60441,
+          "converted_non_space_chars": 44999,
           "table_row_count": 303,
           "formula_hint_count": 222
         },
@@ -7822,8 +7822,8 @@
           "size": 185344,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 96279,
-          "converted_non_space_chars": 71921,
+          "converted_text_chars": 96282,
+          "converted_non_space_chars": 71924,
           "table_row_count": 433,
           "formula_hint_count": 357
         },
@@ -7841,8 +7841,8 @@
           "size": 187392,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 96648,
-          "converted_non_space_chars": 71992,
+          "converted_text_chars": 96663,
+          "converted_non_space_chars": 72007,
           "table_row_count": 437,
           "formula_hint_count": 357
         },
@@ -7898,8 +7898,8 @@
           "size": 50176,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2457,
-          "converted_non_space_chars": 1777,
+          "converted_text_chars": 2466,
+          "converted_non_space_chars": 1786,
           "table_row_count": 14
         }
       ],
@@ -8027,8 +8027,8 @@
           "size": 59392,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 7940,
-          "converted_non_space_chars": 6213,
+          "converted_text_chars": 7943,
+          "converted_non_space_chars": 6216,
           "formula_hint_count": 10
         },
         {
@@ -8314,8 +8314,8 @@
           "size": 35840,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1898,
-          "converted_non_space_chars": 1376,
+          "converted_text_chars": 1901,
+          "converted_non_space_chars": 1379,
           "table_row_count": 12
         }
       ],
@@ -8482,8 +8482,8 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 930,
-          "converted_non_space_chars": 696,
+          "converted_text_chars": 933,
+          "converted_non_space_chars": 699,
           "table_row_count": 5
         },
         {
@@ -8854,8 +8854,8 @@
           "size": 126464,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5768,
-          "converted_non_space_chars": 4394,
+          "converted_text_chars": 5783,
+          "converted_non_space_chars": 4409,
           "table_row_count": 26
         },
         {
@@ -8890,8 +8890,8 @@
           "size": 54272,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2233,
-          "converted_non_space_chars": 1636,
+          "converted_text_chars": 2251,
+          "converted_non_space_chars": 1654,
           "table_row_count": 20,
           "formula_hint_count": 3
         },
@@ -8999,8 +8999,8 @@
           "size": 111104,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 8218,
-          "converted_non_space_chars": 5928,
+          "converted_text_chars": 8221,
+          "converted_non_space_chars": 5931,
           "table_row_count": 58
         },
         {
@@ -9181,8 +9181,8 @@
           "size": 49664,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5159,
-          "converted_non_space_chars": 3692,
+          "converted_text_chars": 5174,
+          "converted_non_space_chars": 3707,
           "table_row_count": 22,
           "formula_hint_count": 37
         },
@@ -9219,8 +9219,8 @@
           "size": 50176,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3043,
-          "converted_non_space_chars": 2198,
+          "converted_text_chars": 3049,
+          "converted_non_space_chars": 2204,
           "table_row_count": 18
         },
         {
@@ -9255,8 +9255,8 @@
           "size": 46592,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2904,
-          "converted_non_space_chars": 2140,
+          "converted_text_chars": 2910,
+          "converted_non_space_chars": 2146,
           "table_row_count": 20,
           "formula_hint_count": 1
         },
@@ -9274,8 +9274,8 @@
           "size": 84992,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 23438,
-          "converted_non_space_chars": 17262,
+          "converted_text_chars": 23522,
+          "converted_non_space_chars": 17346,
           "table_row_count": 93,
           "formula_hint_count": 2
         },
@@ -9293,8 +9293,8 @@
           "size": 59904,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 7521,
-          "converted_non_space_chars": 5514,
+          "converted_text_chars": 7602,
+          "converted_non_space_chars": 5595,
           "table_row_count": 42,
           "formula_hint_count": 2
         },
@@ -9312,8 +9312,8 @@
           "size": 58368,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6900,
-          "converted_non_space_chars": 5071,
+          "converted_text_chars": 6966,
+          "converted_non_space_chars": 5137,
           "table_row_count": 38,
           "formula_hint_count": 2
         },
@@ -9331,8 +9331,8 @@
           "size": 63488,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 11157,
-          "converted_non_space_chars": 8321,
+          "converted_text_chars": 11253,
+          "converted_non_space_chars": 8417,
           "table_row_count": 59,
           "formula_hint_count": 2
         },
@@ -9350,8 +9350,8 @@
           "size": 60928,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 9050,
-          "converted_non_space_chars": 6777,
+          "converted_text_chars": 9137,
+          "converted_non_space_chars": 6864,
           "table_row_count": 45,
           "formula_hint_count": 2
         },
@@ -9369,8 +9369,8 @@
           "size": 69120,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 11452,
-          "converted_non_space_chars": 8553,
+          "converted_text_chars": 11560,
+          "converted_non_space_chars": 8661,
           "table_row_count": 61,
           "formula_hint_count": 2
         },
@@ -9388,8 +9388,8 @@
           "size": 63488,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 9387,
-          "converted_non_space_chars": 7012,
+          "converted_text_chars": 9486,
+          "converted_non_space_chars": 7111,
           "table_row_count": 47,
           "formula_hint_count": 2
         },
@@ -9407,8 +9407,8 @@
           "size": 64000,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 7683,
-          "converted_non_space_chars": 5632,
+          "converted_text_chars": 7758,
+          "converted_non_space_chars": 5707,
           "table_row_count": 43,
           "formula_hint_count": 2
         },
@@ -9499,8 +9499,8 @@
           "size": 45568,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1853,
-          "converted_non_space_chars": 1343,
+          "converted_text_chars": 1856,
+          "converted_non_space_chars": 1346,
           "table_row_count": 12,
           "formula_hint_count": 1
         },
@@ -9554,8 +9554,8 @@
           "size": 42496,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 923,
-          "converted_non_space_chars": 676,
+          "converted_text_chars": 929,
+          "converted_non_space_chars": 682,
           "table_row_count": 5,
           "formula_hint_count": 1
         },
@@ -9573,8 +9573,8 @@
           "size": 52224,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 8708,
-          "converted_non_space_chars": 6025,
+          "converted_text_chars": 8711,
+          "converted_non_space_chars": 6028,
           "table_row_count": 75
         },
         {
@@ -9629,8 +9629,8 @@
           "size": 45056,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2023,
-          "converted_non_space_chars": 1455,
+          "converted_text_chars": 2029,
+          "converted_non_space_chars": 1461,
           "table_row_count": 16
         },
         {
@@ -9647,8 +9647,8 @@
           "size": 48128,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1589,
-          "converted_non_space_chars": 1154,
+          "converted_text_chars": 1601,
+          "converted_non_space_chars": 1166,
           "table_row_count": 9
         },
         {
@@ -9720,8 +9720,8 @@
           "size": 36352,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1843,
-          "converted_non_space_chars": 1349,
+          "converted_text_chars": 1846,
+          "converted_non_space_chars": 1352,
           "table_row_count": 8
         },
         {
@@ -9810,8 +9810,8 @@
           "size": 46080,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 785,
-          "converted_non_space_chars": 604,
+          "converted_text_chars": 794,
+          "converted_non_space_chars": 613,
           "table_row_count": 3
         },
         {
@@ -9828,8 +9828,8 @@
           "size": 39936,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 705,
-          "converted_non_space_chars": 535,
+          "converted_text_chars": 714,
+          "converted_non_space_chars": 544,
           "table_row_count": 3
         },
         {
@@ -9915,8 +9915,8 @@
           "size": 41472,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1468,
-          "converted_non_space_chars": 1013,
+          "converted_text_chars": 1474,
+          "converted_non_space_chars": 1019,
           "table_row_count": 14,
           "formula_hint_count": 4
         }
@@ -10030,8 +10030,8 @@
           "size": 37376,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 929,
-          "converted_non_space_chars": 704,
+          "converted_text_chars": 932,
+          "converted_non_space_chars": 707,
           "table_row_count": 8
         },
         {
@@ -10461,8 +10461,8 @@
           "size": 17920,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1896,
-          "converted_non_space_chars": 1375,
+          "converted_text_chars": 1899,
+          "converted_non_space_chars": 1378,
           "table_row_count": 12
         }
       ],
@@ -10860,8 +10860,8 @@
           "size": 57344,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 12099,
-          "converted_non_space_chars": 9555,
+          "converted_text_chars": 12234,
+          "converted_non_space_chars": 9690,
           "table_row_count": 41,
           "formula_block_count": 7,
           "formula_hint_count": 159
@@ -10880,8 +10880,8 @@
           "size": 49664,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 8288,
-          "converted_non_space_chars": 6540,
+          "converted_text_chars": 8351,
+          "converted_non_space_chars": 6603,
           "table_row_count": 29,
           "formula_hint_count": 8
         },
@@ -10936,8 +10936,8 @@
           "size": 17408,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1645,
-          "converted_non_space_chars": 1252,
+          "converted_text_chars": 1657,
+          "converted_non_space_chars": 1264,
           "table_row_count": 5,
           "formula_hint_count": 2
         },
@@ -11390,8 +11390,8 @@
           "size": 17920,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1905,
-          "converted_non_space_chars": 1386,
+          "converted_text_chars": 1908,
+          "converted_non_space_chars": 1389,
           "table_row_count": 12
         }
       ],
@@ -12209,7 +12209,7 @@
       "title": "Enforcement Rules of Membership Regulation",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
       "collected_at": "2026-07-03T21:10:04.592540Z",
-      "content_hash": "24165385ae552b36b4f0d88e8bbb98ef98c252ca455fff4ed476e2eb49e7d199",
+      "content_hash": "5794aef667ed8af138e156d6d3a0ae16d8774126dc3ad92bf191b4f3f7604c6a",
       "document_type": "rule",
       "language": "en",
       "category": "업무규정 / 회원관리규정",
@@ -12688,8 +12688,8 @@
       "size": 66560,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2642,
-      "converted_non_space_chars": 2109,
+      "converted_text_chars": 2657,
+      "converted_non_space_chars": 2124,
       "table_row_count": 3
     },
     {
@@ -13779,8 +13779,8 @@
       "size": 307200,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 180389,
-      "converted_non_space_chars": 133624,
+      "converted_text_chars": 180395,
+      "converted_non_space_chars": 133630,
       "table_row_count": 1858
     },
     {
@@ -13797,8 +13797,8 @@
       "size": 80896,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4103,
-      "converted_non_space_chars": 3148,
+      "converted_text_chars": 4118,
+      "converted_non_space_chars": 3163,
       "table_row_count": 24
     },
     {
@@ -13815,8 +13815,8 @@
       "size": 65536,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 24582,
-      "converted_non_space_chars": 16244,
+      "converted_text_chars": 24594,
+      "converted_non_space_chars": 16256,
       "table_row_count": 144
     },
     {
@@ -13833,8 +13833,8 @@
       "size": 53248,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4352,
-      "converted_non_space_chars": 3207,
+      "converted_text_chars": 4361,
+      "converted_non_space_chars": 3216,
       "table_row_count": 58
     },
     {
@@ -13851,8 +13851,8 @@
       "size": 41984,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1674,
-      "converted_non_space_chars": 1248,
+      "converted_text_chars": 1680,
+      "converted_non_space_chars": 1254,
       "table_row_count": 15
     },
     {
@@ -13887,8 +13887,8 @@
       "size": 46080,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3370,
-      "converted_non_space_chars": 2447,
+      "converted_text_chars": 3376,
+      "converted_non_space_chars": 2453,
       "table_row_count": 53
     },
     {
@@ -14012,8 +14012,8 @@
       "size": 51200,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1566,
-      "converted_non_space_chars": 1134,
+      "converted_text_chars": 1569,
+      "converted_non_space_chars": 1137,
       "table_row_count": 10
     },
     {
@@ -14068,8 +14068,8 @@
       "size": 110080,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5202,
-      "converted_non_space_chars": 3906,
+      "converted_text_chars": 5205,
+      "converted_non_space_chars": 3909,
       "table_row_count": 13
     },
     {
@@ -15225,8 +15225,8 @@
       "size": 56320,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3462,
-      "converted_non_space_chars": 2478,
+      "converted_text_chars": 3531,
+      "converted_non_space_chars": 2547,
       "table_row_count": 19
     },
     {
@@ -15350,8 +15350,8 @@
       "size": 31232,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 583,
-      "converted_non_space_chars": 425,
+      "converted_text_chars": 586,
+      "converted_non_space_chars": 428,
       "table_row_count": 7
     },
     {
@@ -15385,8 +15385,8 @@
       "size": 35328,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 623,
-      "converted_non_space_chars": 453,
+      "converted_text_chars": 632,
+      "converted_non_space_chars": 462,
       "table_row_count": 4
     },
     {
@@ -15403,8 +15403,8 @@
       "size": 30208,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 515,
-      "converted_non_space_chars": 375,
+      "converted_text_chars": 521,
+      "converted_non_space_chars": 381,
       "table_row_count": 4
     },
     {
@@ -15439,8 +15439,8 @@
       "size": 51200,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1412,
-      "converted_non_space_chars": 1093,
+      "converted_text_chars": 1418,
+      "converted_non_space_chars": 1099,
       "table_row_count": 8
     },
     {
@@ -15475,8 +15475,8 @@
       "size": 55296,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1871,
-      "converted_non_space_chars": 1321,
+      "converted_text_chars": 1877,
+      "converted_non_space_chars": 1327,
       "table_row_count": 26
     },
     {
@@ -15920,8 +15920,8 @@
       "size": 36864,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 445,
-      "converted_non_space_chars": 330
+      "converted_text_chars": 454,
+      "converted_non_space_chars": 339
     },
     {
       "id": "210179748-202411140000022700000013011-byl-hwp",
@@ -16061,8 +16061,8 @@
       "size": 104960,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 7899,
-      "converted_non_space_chars": 6052,
+      "converted_text_chars": 7908,
+      "converted_non_space_chars": 6061,
       "table_row_count": 13
     },
     {
@@ -16079,8 +16079,8 @@
       "size": 49664,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5561,
-      "converted_non_space_chars": 4166,
+      "converted_text_chars": 5570,
+      "converted_non_space_chars": 4175,
       "table_row_count": 30
     },
     {
@@ -16097,8 +16097,8 @@
       "size": 62464,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 9800,
-      "converted_non_space_chars": 7477,
+      "converted_text_chars": 9809,
+      "converted_non_space_chars": 7486,
       "table_row_count": 28,
       "formula_hint_count": 1
     },
@@ -16424,8 +16424,8 @@
       "size": 138752,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5477,
-      "converted_non_space_chars": 4068,
+      "converted_text_chars": 5519,
+      "converted_non_space_chars": 4110,
       "table_row_count": 29,
       "formula_hint_count": 2
     },
@@ -16443,8 +16443,8 @@
       "size": 70144,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3989,
-      "converted_non_space_chars": 2991,
+      "converted_text_chars": 4010,
+      "converted_non_space_chars": 3012,
       "table_row_count": 15,
       "formula_hint_count": 2
     },
@@ -16462,8 +16462,8 @@
       "size": 74752,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6931,
-      "converted_non_space_chars": 5228,
+      "converted_text_chars": 6982,
+      "converted_non_space_chars": 5279,
       "table_row_count": 31,
       "formula_hint_count": 2
     },
@@ -16481,8 +16481,8 @@
       "size": 145920,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 7031,
-      "converted_non_space_chars": 5334,
+      "converted_text_chars": 7079,
+      "converted_non_space_chars": 5382,
       "table_row_count": 30,
       "formula_hint_count": 2
     },
@@ -16500,8 +16500,8 @@
       "size": 70656,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6956,
-      "converted_non_space_chars": 5252,
+      "converted_text_chars": 7007,
+      "converted_non_space_chars": 5303,
       "table_row_count": 30,
       "formula_hint_count": 2
     },
@@ -16519,8 +16519,8 @@
       "size": 70144,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6976,
-      "converted_non_space_chars": 5279,
+      "converted_text_chars": 7027,
+      "converted_non_space_chars": 5330,
       "table_row_count": 30,
       "formula_hint_count": 2
     },
@@ -16538,8 +16538,8 @@
       "size": 71680,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5195,
-      "converted_non_space_chars": 3865,
+      "converted_text_chars": 5237,
+      "converted_non_space_chars": 3907,
       "table_row_count": 21,
       "formula_hint_count": 2
     },
@@ -16612,8 +16612,8 @@
       "size": 48640,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2761,
-      "converted_non_space_chars": 2032,
+      "converted_text_chars": 2767,
+      "converted_non_space_chars": 2038,
       "table_row_count": 19,
       "formula_hint_count": 1
     },
@@ -17015,8 +17015,8 @@
       "size": 48640,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1602,
-      "converted_non_space_chars": 1184,
+      "converted_text_chars": 1608,
+      "converted_non_space_chars": 1190,
       "table_row_count": 14
     },
     {
@@ -17158,8 +17158,8 @@
       "size": 40960,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1062,
-      "converted_non_space_chars": 825,
+      "converted_text_chars": 1065,
+      "converted_non_space_chars": 828,
       "table_row_count": 8
     },
     {
@@ -17213,8 +17213,8 @@
       "size": 45568,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2986,
-      "converted_non_space_chars": 2307,
+      "converted_text_chars": 2989,
+      "converted_non_space_chars": 2310,
       "table_row_count": 15,
       "formula_hint_count": 3
     },
@@ -17249,8 +17249,8 @@
       "size": 52736,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6114,
-      "converted_non_space_chars": 4560,
+      "converted_text_chars": 6120,
+      "converted_non_space_chars": 4566,
       "table_row_count": 32,
       "formula_hint_count": 6
     },
@@ -17320,8 +17320,8 @@
       "size": 54784,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4492,
-      "converted_non_space_chars": 3394,
+      "converted_text_chars": 4522,
+      "converted_non_space_chars": 3424,
       "table_row_count": 24,
       "formula_hint_count": 13
     },
@@ -17650,8 +17650,8 @@
       "size": 32256,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 379,
-      "converted_non_space_chars": 282,
+      "converted_text_chars": 382,
+      "converted_non_space_chars": 285,
       "table_row_count": 4
     },
     {
@@ -17740,8 +17740,8 @@
       "size": 36864,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1904,
-      "converted_non_space_chars": 1381,
+      "converted_text_chars": 1907,
+      "converted_non_space_chars": 1384,
       "table_row_count": 12
     },
     {
@@ -18311,8 +18311,8 @@
       "size": 51200,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4029,
-      "converted_non_space_chars": 2957,
+      "converted_text_chars": 4047,
+      "converted_non_space_chars": 2975,
       "table_row_count": 32
     },
     {
@@ -18578,8 +18578,8 @@
       "size": 33280,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 837,
-      "converted_non_space_chars": 616,
+      "converted_text_chars": 840,
+      "converted_non_space_chars": 619,
       "table_row_count": 7
     },
     {
@@ -18707,8 +18707,8 @@
       "size": 56320,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1822,
-      "converted_non_space_chars": 1323,
+      "converted_text_chars": 1831,
+      "converted_non_space_chars": 1332,
       "table_row_count": 11
     },
     {
@@ -18760,8 +18760,8 @@
       "size": 64000,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 12953,
-      "converted_non_space_chars": 9114,
+      "converted_text_chars": 12959,
+      "converted_non_space_chars": 9120,
       "table_row_count": 69
     },
     {
@@ -18851,8 +18851,8 @@
       "size": 45056,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 682,
-      "converted_non_space_chars": 539,
+      "converted_text_chars": 685,
+      "converted_non_space_chars": 542,
       "table_row_count": 2
     },
     {
@@ -18905,8 +18905,8 @@
       "size": 51200,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2162,
-      "converted_non_space_chars": 1594,
+      "converted_text_chars": 2165,
+      "converted_non_space_chars": 1597,
       "table_row_count": 8
     },
     {
@@ -18923,8 +18923,8 @@
       "size": 54272,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4646,
-      "converted_non_space_chars": 3277,
+      "converted_text_chars": 4649,
+      "converted_non_space_chars": 3280,
       "table_row_count": 24
     },
     {
@@ -19287,8 +19287,8 @@
       "size": 183296,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 96771,
-      "converted_non_space_chars": 72370,
+      "converted_text_chars": 96774,
+      "converted_non_space_chars": 72373,
       "table_row_count": 438,
       "formula_hint_count": 367
     },
@@ -19645,8 +19645,8 @@
       "size": 133120,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 60435,
-      "converted_non_space_chars": 44993,
+      "converted_text_chars": 60441,
+      "converted_non_space_chars": 44999,
       "table_row_count": 303,
       "formula_hint_count": 222
     },
@@ -19664,8 +19664,8 @@
       "size": 185344,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 96279,
-      "converted_non_space_chars": 71921,
+      "converted_text_chars": 96282,
+      "converted_non_space_chars": 71924,
       "table_row_count": 433,
       "formula_hint_count": 357
     },
@@ -19683,8 +19683,8 @@
       "size": 187392,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 96648,
-      "converted_non_space_chars": 71992,
+      "converted_text_chars": 96663,
+      "converted_non_space_chars": 72007,
       "table_row_count": 437,
       "formula_hint_count": 357
     },
@@ -19740,8 +19740,8 @@
       "size": 50176,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2457,
-      "converted_non_space_chars": 1777,
+      "converted_text_chars": 2466,
+      "converted_non_space_chars": 1786,
       "table_row_count": 14
     },
     {
@@ -19811,8 +19811,8 @@
       "size": 59392,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 7940,
-      "converted_non_space_chars": 6213,
+      "converted_text_chars": 7943,
+      "converted_non_space_chars": 6216,
       "formula_hint_count": 10
     },
     {
@@ -20098,8 +20098,8 @@
       "size": 35840,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1898,
-      "converted_non_space_chars": 1376,
+      "converted_text_chars": 1901,
+      "converted_non_space_chars": 1379,
       "table_row_count": 12
     },
     {
@@ -20238,8 +20238,8 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 930,
-      "converted_non_space_chars": 696,
+      "converted_text_chars": 933,
+      "converted_non_space_chars": 699,
       "table_row_count": 5
     },
     {
@@ -20539,8 +20539,8 @@
       "size": 126464,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5768,
-      "converted_non_space_chars": 4394,
+      "converted_text_chars": 5783,
+      "converted_non_space_chars": 4409,
       "table_row_count": 26
     },
     {
@@ -20575,8 +20575,8 @@
       "size": 54272,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2233,
-      "converted_non_space_chars": 1636,
+      "converted_text_chars": 2251,
+      "converted_non_space_chars": 1654,
       "table_row_count": 20,
       "formula_hint_count": 3
     },
@@ -20684,8 +20684,8 @@
       "size": 111104,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 8218,
-      "converted_non_space_chars": 5928,
+      "converted_text_chars": 8221,
+      "converted_non_space_chars": 5931,
       "table_row_count": 58
     },
     {
@@ -20866,8 +20866,8 @@
       "size": 49664,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5159,
-      "converted_non_space_chars": 3692,
+      "converted_text_chars": 5174,
+      "converted_non_space_chars": 3707,
       "table_row_count": 22,
       "formula_hint_count": 37
     },
@@ -20904,8 +20904,8 @@
       "size": 50176,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3043,
-      "converted_non_space_chars": 2198,
+      "converted_text_chars": 3049,
+      "converted_non_space_chars": 2204,
       "table_row_count": 18
     },
     {
@@ -20940,8 +20940,8 @@
       "size": 46592,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2904,
-      "converted_non_space_chars": 2140,
+      "converted_text_chars": 2910,
+      "converted_non_space_chars": 2146,
       "table_row_count": 20,
       "formula_hint_count": 1
     },
@@ -20959,8 +20959,8 @@
       "size": 84992,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 23438,
-      "converted_non_space_chars": 17262,
+      "converted_text_chars": 23522,
+      "converted_non_space_chars": 17346,
       "table_row_count": 93,
       "formula_hint_count": 2
     },
@@ -20978,8 +20978,8 @@
       "size": 59904,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 7521,
-      "converted_non_space_chars": 5514,
+      "converted_text_chars": 7602,
+      "converted_non_space_chars": 5595,
       "table_row_count": 42,
       "formula_hint_count": 2
     },
@@ -20997,8 +20997,8 @@
       "size": 58368,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6900,
-      "converted_non_space_chars": 5071,
+      "converted_text_chars": 6966,
+      "converted_non_space_chars": 5137,
       "table_row_count": 38,
       "formula_hint_count": 2
     },
@@ -21016,8 +21016,8 @@
       "size": 63488,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 11157,
-      "converted_non_space_chars": 8321,
+      "converted_text_chars": 11253,
+      "converted_non_space_chars": 8417,
       "table_row_count": 59,
       "formula_hint_count": 2
     },
@@ -21035,8 +21035,8 @@
       "size": 60928,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 9050,
-      "converted_non_space_chars": 6777,
+      "converted_text_chars": 9137,
+      "converted_non_space_chars": 6864,
       "table_row_count": 45,
       "formula_hint_count": 2
     },
@@ -21054,8 +21054,8 @@
       "size": 69120,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 11452,
-      "converted_non_space_chars": 8553,
+      "converted_text_chars": 11560,
+      "converted_non_space_chars": 8661,
       "table_row_count": 61,
       "formula_hint_count": 2
     },
@@ -21073,8 +21073,8 @@
       "size": 63488,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 9387,
-      "converted_non_space_chars": 7012,
+      "converted_text_chars": 9486,
+      "converted_non_space_chars": 7111,
       "table_row_count": 47,
       "formula_hint_count": 2
     },
@@ -21092,8 +21092,8 @@
       "size": 64000,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 7683,
-      "converted_non_space_chars": 5632,
+      "converted_text_chars": 7758,
+      "converted_non_space_chars": 5707,
       "table_row_count": 43,
       "formula_hint_count": 2
     },
@@ -21184,8 +21184,8 @@
       "size": 45568,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1853,
-      "converted_non_space_chars": 1343,
+      "converted_text_chars": 1856,
+      "converted_non_space_chars": 1346,
       "table_row_count": 12,
       "formula_hint_count": 1
     },
@@ -21239,8 +21239,8 @@
       "size": 42496,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 923,
-      "converted_non_space_chars": 676,
+      "converted_text_chars": 929,
+      "converted_non_space_chars": 682,
       "table_row_count": 5,
       "formula_hint_count": 1
     },
@@ -21258,8 +21258,8 @@
       "size": 52224,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 8708,
-      "converted_non_space_chars": 6025,
+      "converted_text_chars": 8711,
+      "converted_non_space_chars": 6028,
       "table_row_count": 75
     },
     {
@@ -21314,8 +21314,8 @@
       "size": 45056,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2023,
-      "converted_non_space_chars": 1455,
+      "converted_text_chars": 2029,
+      "converted_non_space_chars": 1461,
       "table_row_count": 16
     },
     {
@@ -21332,8 +21332,8 @@
       "size": 48128,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1589,
-      "converted_non_space_chars": 1154,
+      "converted_text_chars": 1601,
+      "converted_non_space_chars": 1166,
       "table_row_count": 9
     },
     {
@@ -21405,8 +21405,8 @@
       "size": 36352,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1843,
-      "converted_non_space_chars": 1349,
+      "converted_text_chars": 1846,
+      "converted_non_space_chars": 1352,
       "table_row_count": 8
     },
     {
@@ -21495,8 +21495,8 @@
       "size": 46080,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 785,
-      "converted_non_space_chars": 604,
+      "converted_text_chars": 794,
+      "converted_non_space_chars": 613,
       "table_row_count": 3
     },
     {
@@ -21513,8 +21513,8 @@
       "size": 39936,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 705,
-      "converted_non_space_chars": 535,
+      "converted_text_chars": 714,
+      "converted_non_space_chars": 544,
       "table_row_count": 3
     },
     {
@@ -21585,8 +21585,8 @@
       "size": 41472,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1468,
-      "converted_non_space_chars": 1013,
+      "converted_text_chars": 1474,
+      "converted_non_space_chars": 1019,
       "table_row_count": 14,
       "formula_hint_count": 4
     },
@@ -21657,8 +21657,8 @@
       "size": 37376,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 929,
-      "converted_non_space_chars": 704,
+      "converted_text_chars": 932,
+      "converted_non_space_chars": 707,
       "table_row_count": 8
     },
     {
@@ -22088,8 +22088,8 @@
       "size": 17920,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1896,
-      "converted_non_space_chars": 1375,
+      "converted_text_chars": 1899,
+      "converted_non_space_chars": 1378,
       "table_row_count": 12
     },
     {
@@ -22459,8 +22459,8 @@
       "size": 57344,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 12099,
-      "converted_non_space_chars": 9555,
+      "converted_text_chars": 12234,
+      "converted_non_space_chars": 9690,
       "table_row_count": 41,
       "formula_block_count": 7,
       "formula_hint_count": 159
@@ -22479,8 +22479,8 @@
       "size": 49664,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 8288,
-      "converted_non_space_chars": 6540,
+      "converted_text_chars": 8351,
+      "converted_non_space_chars": 6603,
       "table_row_count": 29,
       "formula_hint_count": 8
     },
@@ -22535,8 +22535,8 @@
       "size": 17408,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1645,
-      "converted_non_space_chars": 1252,
+      "converted_text_chars": 1657,
+      "converted_non_space_chars": 1264,
       "table_row_count": 5,
       "formula_hint_count": 2
     },
@@ -22989,8 +22989,8 @@
       "size": 17920,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1905,
-      "converted_non_space_chars": 1386,
+      "converted_text_chars": 1908,
+      "converted_non_space_chars": 1389,
       "table_row_count": 12
     },
     {

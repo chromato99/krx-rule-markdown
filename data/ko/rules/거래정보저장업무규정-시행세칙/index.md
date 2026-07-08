@@ -23,8 +23,8 @@ attachments:
     size: 307200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 180389
-    converted_non_space_chars: 133624
+    converted_text_chars: 180395
+    converted_non_space_chars: 133630
     table_row_count: 1858
   - id: "210024015-202409200000022490000294002-byl-hwp"
     title: "[별표 2] UTI 발급기관 결정 등에 관한 기준<개정 2024.9.20>"
@@ -39,8 +39,8 @@ attachments:
     size: 80896
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 4103
-    converted_non_space_chars: 3148
+    converted_text_chars: 4118
+    converted_non_space_chars: 3163
     table_row_count: 24
   - id: "210024015-202409200000022490000294003-byl-hwp"
     title: "[별표 3] 장외파생상품 거래정보 보고서"
@@ -55,8 +55,8 @@ attachments:
     size: 65536
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 24582
-    converted_non_space_chars: 16244
+    converted_text_chars: 24594
+    converted_non_space_chars: 16256
     table_row_count: 144
   - id: "210024015-202409200000022490000294004-byl-hwp"
     title: "[별지 제1호 서식] 이용자등록·변경·해지신청서<개정 2023.8.3>"
@@ -71,8 +71,8 @@ attachments:
     size: 53248
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 4352
-    converted_non_space_chars: 3207
+    converted_text_chars: 4361
+    converted_non_space_chars: 3216
     table_row_count: 58
   - id: "210024015-202409200000022490000294005-byl-hwp"
     title: "[별지 제1호의2 서식] 보고업무담당자 지정·변경 신고서 <신설 2022.6.28><개정 2024.9.20>"
@@ -87,8 +87,8 @@ attachments:
     size: 41984
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1674
-    converted_non_space_chars: 1248
+    converted_text_chars: 1680
+    converted_non_space_chars: 1254
     table_row_count: 15
   - id: "210024015-202409200000022490000294006-byl-hwp"
     title: "[별지 제2호 서식] 이용자등록·변경·해지신청서(금융위원회·금융감독원·한국은행용)"
@@ -119,8 +119,8 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3370
-    converted_non_space_chars: 2447
+    converted_text_chars: 3376
+    converted_non_space_chars: 2453
     table_row_count: 53
   - id: "210024015-202409200000022490000294008-byl-hwp"
     title: "[별지 제4호 서식] 금융거래정보이용·제공동의서<개정 2023.8.3>"

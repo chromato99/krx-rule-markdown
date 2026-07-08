@@ -338,8 +338,8 @@ attachments:
     size: 57344
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 12099
-    converted_non_space_chars: 9555
+    converted_text_chars: 12234
+    converted_non_space_chars: 9690
     table_row_count: 41
     formula_block_count: 7
     formula_hint_count: 159
@@ -356,8 +356,8 @@ attachments:
     size: 49664
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 8288
-    converted_non_space_chars: 6540
+    converted_text_chars: 8351
+    converted_non_space_chars: 6603
     table_row_count: 29
     formula_hint_count: 8
   - id: "210228709-210064829-hwp"
@@ -406,8 +406,8 @@ attachments:
     size: 17408
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1645
-    converted_non_space_chars: 1252
+    converted_text_chars: 1657
+    converted_non_space_chars: 1264
     table_row_count: 5
     formula_hint_count: 2
   - id: "210228709-210197600-hwp"
@@ -810,8 +810,8 @@ attachments:
     size: 17920
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1905
-    converted_non_space_chars: 1386
+    converted_text_chars: 1908
+    converted_non_space_chars: 1389
     table_row_count: 12
 ---
 

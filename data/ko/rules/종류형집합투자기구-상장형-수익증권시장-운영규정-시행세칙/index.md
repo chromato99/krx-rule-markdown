@@ -150,8 +150,8 @@ attachments:
     size: 33280
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 837
-    converted_non_space_chars: 616
+    converted_text_chars: 840
+    converted_non_space_chars: 619
     table_row_count: 7
   - id: "210137438-210067582-hwp"
     title: "[별지 제3호 서식] 유동성공급계좌 신고서<신설 2025. 5. 9.>"

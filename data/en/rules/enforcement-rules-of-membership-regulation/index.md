@@ -3,7 +3,7 @@ id: "210204739-en"
 title: "Enforcement Rules of Membership Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-03T21:10:04.592540Z"
-content_hash: "24165385ae552b36b4f0d88e8bbb98ef98c252ca455fff4ed476e2eb49e7d199"
+content_hash: "5794aef667ed8af138e156d6d3a0ae16d8774126dc3ad92bf191b4f3f7604c6a"
 document_type: "rule"
 language: "en"
 category: "업무규정 / 회원관리규정"
@@ -524,9 +524,9 @@ the  Exchange  within
 
 the  period  specified
 
-in
-
 to
+
+in
 
 1.  Documents  on  the  closing  account  pursuant  to  [§3-67]  of  the  Regulations  on
 Financial  Investment  Business:  Within  three  (3) months  of  the  end  of  the  relevant

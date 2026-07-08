@@ -146,8 +146,8 @@ attachments:
     size: 36864
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 445
-    converted_non_space_chars: 330
+    converted_text_chars: 454
+    converted_non_space_chars: 339
   - id: "210179748-202411140000022700000013011-byl-hwp"
     title: "[별지 제7호 서식] 지주회사의 상장자회사 주요경영사항 연계공시 신청서<개정 2012. 4. 19., 2013. 2. 26.>"
     file_name: "유가증권시장 공시규정 시행세칙_46차_지주회사의상장자회사주요경영사항연계공시신청서(개정2012.4.19,2013.2.26).hwp"

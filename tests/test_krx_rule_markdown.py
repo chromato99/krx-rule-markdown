@@ -724,6 +724,60 @@ $(".goRdoc").click(function(){});
         self.assertTrue(text.startswith("수식 1 원본(HWP EqEdit):"))
         self.assertIn("```math", text)
 
+    def test_hwp_paragraph_preserves_script_char_shapes(self) -> None:
+        char_shapes = [
+            {"charshapeflags": 0},
+            {"charshapeflags": 0x10000},
+            {"charshapeflags": 0x8000},
+        ]
+
+        text, next_index, used = render_hwp_paragraph(
+            [((0, 2), "S0"), ((2, 3), {"code": 13})],
+            [],
+            0,
+            [(0, 0), (1, 1)],
+            char_shapes,
+        )
+        self.assertEqual(text, "S_{0}")
+        self.assertEqual(next_index, 0)
+        self.assertEqual(used, 0)
+
+        text, _, _ = render_hwp_paragraph(
+            [((0, 9), "f(S-15,H)")],
+            [],
+            0,
+            [(0, 0), (3, 1), (6, 0)],
+            char_shapes,
+        )
+        self.assertEqual(text, "f(S_{-15},H)")
+
+        text, _, _ = render_hwp_paragraph(
+            [((0, 8), "명칭주1) :")],
+            [],
+            0,
+            [(0, 0), (2, 2), (5, 0)],
+            char_shapes,
+        )
+        self.assertEqual(text, "명칭^{주1)} :")
+
+        text, _, _ = render_hwp_paragraph(
+            [((0, 6), "사업연도주)")],
+            [],
+            0,
+            [(0, 0), (4, 2), (5, 3)],
+            char_shapes + [{"charshapeflags": 0x8000}],
+        )
+        self.assertEqual(text, "사업연도^{주)}")
+
+        text, _, _ = render_hwp_paragraph(
+            [((0, 8), "컨설팅 방식3)")],
+            [],
+            0,
+            [(0, 0), (7, 2)],
+            char_shapes,
+        )
+        self.assertEqual(text, "컨설팅 방식^{3)}")
+
     def test_hwp_equation_to_latex_converts_common_eqedit_syntax(self) -> None:
         latex = hwp_equation_to_latex(
             "sum _{i=1} ^{m} 선형화된`증거금 _{i} `/ {dmatrix{sum _{i=1} ^{m} 표준계약수량 _{i}}}"
