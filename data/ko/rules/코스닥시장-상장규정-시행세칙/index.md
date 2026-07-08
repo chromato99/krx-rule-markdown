@@ -119,8 +119,8 @@ attachments:
     size: 126464
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 5783
-    converted_non_space_chars: 4409
+    converted_text_chars: 5823
+    converted_non_space_chars: 4449
     table_row_count: 26
   - id: "210222109-210225028-hwp"
     title: "[별표 7] 업종별 질적심사기준 (기업의 계속성)<개정 2023.12.28,2025. 12. 30.,2026. 7. 1.>"
@@ -151,8 +151,8 @@ attachments:
     size: 54272
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2251
-    converted_non_space_chars: 1654
+    converted_text_chars: 2299
+    converted_non_space_chars: 1702
     table_row_count: 20
     formula_hint_count: 3
   - id: "210222109-202407120000022430000112010-byl-hwp"
@@ -248,8 +248,8 @@ attachments:
     size: 111104
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 8221
-    converted_non_space_chars: 5931
+    converted_text_chars: 8229
+    converted_non_space_chars: 5939
     table_row_count: 58
   - id: "210222109-202407120000022430000112016-byl-hwp"
     title: "[별지 제1호 서식] 상장폐지 신청서"
@@ -410,8 +410,8 @@ attachments:
     size: 49664
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 5174
-    converted_non_space_chars: 3707
+    converted_text_chars: 5214
+    converted_non_space_chars: 3747
     table_row_count: 22
     formula_hint_count: 37
   - id: "210222109-202407120000022430000112026-byl-hwp"
@@ -444,8 +444,8 @@ attachments:
     size: 50176
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3049
-    converted_non_space_chars: 2204
+    converted_text_chars: 3065
+    converted_non_space_chars: 2220
     table_row_count: 18
   - id: "210222109-210190303-hwp"
     title: "[별지 제12호 서식] 의무이행 확약서<개정 2026. 3. 16.>"
@@ -476,8 +476,8 @@ attachments:
     size: 46592
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2910
-    converted_non_space_chars: 2146
+    converted_text_chars: 2926
+    converted_non_space_chars: 2162
     table_row_count: 20
     formula_hint_count: 1
   - id: "210222109-210190403-hwp"
@@ -493,8 +493,8 @@ attachments:
     size: 84992
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 23522
-    converted_non_space_chars: 17346
+    converted_text_chars: 23746
+    converted_non_space_chars: 17570
     table_row_count: 93
     formula_hint_count: 2
   - id: "210222109-210091149-hwp"
@@ -510,8 +510,8 @@ attachments:
     size: 59904
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 7602
-    converted_non_space_chars: 5595
+    converted_text_chars: 7818
+    converted_non_space_chars: 5811
     table_row_count: 42
     formula_hint_count: 2
   - id: "210222109-202407120000022430000112032-byl-hwp"
@@ -527,8 +527,8 @@ attachments:
     size: 58368
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 6966
-    converted_non_space_chars: 5137
+    converted_text_chars: 7142
+    converted_non_space_chars: 5313
     table_row_count: 38
     formula_hint_count: 2
   - id: "210222109-202407120000022430000112033-byl-hwp"
@@ -544,8 +544,8 @@ attachments:
     size: 63488
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 11253
-    converted_non_space_chars: 8417
+    converted_text_chars: 11509
+    converted_non_space_chars: 8673
     table_row_count: 59
     formula_hint_count: 2
   - id: "210222109-202407120000022430000112034-byl-hwp"
@@ -561,8 +561,8 @@ attachments:
     size: 60928
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 9137
-    converted_non_space_chars: 6864
+    converted_text_chars: 9369
+    converted_non_space_chars: 7096
     table_row_count: 45
     formula_hint_count: 2
   - id: "210222109-202407120000022430000112035-byl-hwp"
@@ -578,8 +578,8 @@ attachments:
     size: 69120
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 11560
-    converted_non_space_chars: 8661
+    converted_text_chars: 11848
+    converted_non_space_chars: 8949
     table_row_count: 61
     formula_hint_count: 2
   - id: "210222109-202407120000022430000112036-byl-hwp"
@@ -595,8 +595,8 @@ attachments:
     size: 63488
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 9486
-    converted_non_space_chars: 7111
+    converted_text_chars: 9750
+    converted_non_space_chars: 7375
     table_row_count: 47
     formula_hint_count: 2
   - id: "210222109-202407120000022430000112037-byl-hwp"
@@ -612,8 +612,8 @@ attachments:
     size: 64000
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 7758
-    converted_non_space_chars: 5707
+    converted_text_chars: 7958
+    converted_non_space_chars: 5907
     table_row_count: 43
     formula_hint_count: 2
   - id: "210222109-202407120000022430000112038-byl-hwp"
@@ -694,8 +694,8 @@ attachments:
     size: 45568
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1856
-    converted_non_space_chars: 1346
+    converted_text_chars: 1864
+    converted_non_space_chars: 1354
     table_row_count: 12
     formula_hint_count: 1
   - id: "210222109-202407120000022430000112043-byl-hwp"
@@ -743,8 +743,8 @@ attachments:
     size: 42496
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 929
-    converted_non_space_chars: 682
+    converted_text_chars: 945
+    converted_non_space_chars: 698
     table_row_count: 5
     formula_hint_count: 1
   - id: "210222109-202407120000022430000112046-byl-hwp"
@@ -760,8 +760,8 @@ attachments:
     size: 52224
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 8711
-    converted_non_space_chars: 6028
+    converted_text_chars: 8719
+    converted_non_space_chars: 6036
     table_row_count: 75
   - id: "210222109-202407120000022430000112047-byl-hwp"
     title: "[별지 제31호 서식] 계속기업 불확실성 사유해소 확인서"
@@ -810,8 +810,8 @@ attachments:
     size: 45056
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2029
-    converted_non_space_chars: 1461
+    converted_text_chars: 2045
+    converted_non_space_chars: 1477
     table_row_count: 16
   - id: "210222109-202407120000022430000112049-byl-hwp"
     title: "[별지 제33호 서식] 관리종목 지정 예외사유 해당 여부 확인서"
@@ -826,8 +826,8 @@ attachments:
     size: 48128
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1601
-    converted_non_space_chars: 1166
+    converted_text_chars: 1633
+    converted_non_space_chars: 1198
     table_row_count: 9
   - id: "210222109-202407120000022430000112050-byl-hwp"
     title: "[별지 제34호 서식] 내부회계관리제도 운영보고서"
@@ -891,8 +891,8 @@ attachments:
     size: 36352
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1846
-    converted_non_space_chars: 1352
+    converted_text_chars: 1854
+    converted_non_space_chars: 1360
     table_row_count: 8
   - id: "210222109-202407120000022430000112054-byl-hwp"
     title: "[별지 제38호 서식] 신주인수권증권 상장신청서"
@@ -971,8 +971,8 @@ attachments:
     size: 46080
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 794
-    converted_non_space_chars: 613
+    converted_text_chars: 818
+    converted_non_space_chars: 637
     table_row_count: 3
   - id: "210222109-210090659-hwp"
     title: "[별지 제43호 서식] 금융상품 관련 평가손실 확인서<신설 2025. 7. 9.>"
@@ -987,8 +987,8 @@ attachments:
     size: 39936
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 714
-    converted_non_space_chars: 544
+    converted_text_chars: 738
+    converted_non_space_chars: 568
     table_row_count: 3
   - id: "210222109-210225034-hwp"
     title: "[별지 제44호 서식] 기술성장기업의 기업가치 제고 계획(첨부 서식)<신설 2026. 7. 1.>"

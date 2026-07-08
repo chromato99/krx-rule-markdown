@@ -265,8 +265,8 @@ def format_hwp_script_segment(segment: str, kind: str) -> str:
     core = segment[leading:trailing]
     if not core:
         return segment
-    marker = "_" if kind == "sub" else "^"
-    return f"{segment[:leading]}{marker}{{{core}}}{segment[trailing:]}"
+    tag = "sub" if kind == "sub" else "sup"
+    return f"{segment[:leading]}<{tag}>{escape(core)}</{tag}>{segment[trailing:]}"
 
 
 def absorb_hwp_super_footnote_suffix(out: list[str], segment: str) -> str:

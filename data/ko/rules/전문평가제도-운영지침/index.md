@@ -55,8 +55,8 @@ attachments:
     size: 51200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 4047
-    converted_non_space_chars: 2975
+    converted_text_chars: 4095
+    converted_non_space_chars: 3023
     table_row_count: 32
   - id: "210203237-202312280000008630000123004-byl-hwp"
     title: "[별지 제2호 서식] 평가신청기업 서약서"

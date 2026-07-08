@@ -40,8 +40,8 @@ attachments:
     size: 45056
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 685
-    converted_non_space_chars: 542
+    converted_text_chars: 693
+    converted_non_space_chars: 550
     table_row_count: 2
   - id: "210199110-210030106-hwp"
     title: "[별표 3] 상장채무증권의 분류"
@@ -88,8 +88,8 @@ attachments:
     size: 51200
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2165
-    converted_non_space_chars: 1597
+    converted_text_chars: 2173
+    converted_non_space_chars: 1605
     table_row_count: 8
   - id: "210199110-210030124-hwp"
     title: "[별표 6] 상장채무증권 등의 사정비율 산출방법 및 점검방법"
@@ -104,8 +104,8 @@ attachments:
     size: 54272
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 4649
-    converted_non_space_chars: 3280
+    converted_text_chars: 4657
+    converted_non_space_chars: 3288
     table_row_count: 24
   - id: "210199110-210030126-hwp"
     title: "[별지 제1호 서식] 결제촉진담보금 현금 예탁(인출) 신청서"

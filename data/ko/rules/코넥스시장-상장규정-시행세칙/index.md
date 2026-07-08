@@ -87,8 +87,8 @@ attachments:
     size: 183296
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 96774
-    converted_non_space_chars: 72373
+    converted_text_chars: 96782
+    converted_non_space_chars: 72381
     table_row_count: 438
     formula_hint_count: 367
   - id: "210222787-202406140000022340000213009-byl-hwp"
@@ -405,8 +405,8 @@ attachments:
     size: 133120
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 60441
-    converted_non_space_chars: 44999
+    converted_text_chars: 60457
+    converted_non_space_chars: 45015
     table_row_count: 303
     formula_hint_count: 222
   - id: "210222787-202406140000022340000213028-byl-hwp"
@@ -422,8 +422,8 @@ attachments:
     size: 185344
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 96282
-    converted_non_space_chars: 71924
+    converted_text_chars: 96290
+    converted_non_space_chars: 71932
     table_row_count: 433
     formula_hint_count: 357
   - id: "210222787-202406140000022340000213029-byl-hwp"
@@ -439,8 +439,8 @@ attachments:
     size: 187392
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 96663
-    converted_non_space_chars: 72007
+    converted_text_chars: 96703
+    converted_non_space_chars: 72047
     table_row_count: 437
     formula_hint_count: 357
   - id: "210222787-202406140000022340000213030-byl-hwp"
@@ -490,8 +490,8 @@ attachments:
     size: 50176
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2466
-    converted_non_space_chars: 1786
+    converted_text_chars: 2490
+    converted_non_space_chars: 1810
     table_row_count: 14
 ---
 

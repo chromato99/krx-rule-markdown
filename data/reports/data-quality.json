@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "generated_at": "2026-07-07T15:26:11.111359Z",
+  "generated_at": "2026-07-08T10:27:10.537009Z",
   "summary": {
     "documents": 123,
     "attachments": 596,
@@ -20,7 +20,7 @@
       "count": 596,
       "min": 34,
       "median": 1256,
-      "max": 180395
+      "max": 180411
     }
   },
   "issues": [

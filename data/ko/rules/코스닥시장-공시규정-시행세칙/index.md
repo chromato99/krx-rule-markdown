@@ -131,8 +131,8 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 933
-    converted_non_space_chars: 699
+    converted_text_chars: 941
+    converted_non_space_chars: 707
     table_row_count: 5
   - id: "210229371-202411140000022690000110010-byl-hwp"
     title: "[공시서식 7] 공시대리인 선임 신고서<신설 2005.12.26, 2009.2.3, 2011.11.4, 2012.4.18, 2019.5.3>"

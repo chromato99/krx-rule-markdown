@@ -55,8 +55,8 @@ attachments:
     size: 40960
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1065
-    converted_non_space_chars: 828
+    converted_text_chars: 1073
+    converted_non_space_chars: 836
     table_row_count: 8
   - id: "210225129-210032783-hwp"
     title: "[별표 1의4] 주권 및 외국주식예탁증권의 신규상장 시 기준가격<신설 2023.4.12, 개정 2023. 8. 8, 2025. 2. 27.>"
@@ -104,8 +104,8 @@ attachments:
     size: 45568
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2989
-    converted_non_space_chars: 2310
+    converted_text_chars: 2997
+    converted_non_space_chars: 2318
     table_row_count: 15
     formula_hint_count: 3
   - id: "210225129-202410290000022560000111008-byl-hwp"
@@ -136,8 +136,8 @@ attachments:
     size: 52736
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 6120
-    converted_non_space_chars: 4566
+    converted_text_chars: 6136
+    converted_non_space_chars: 4582
     table_row_count: 32
     formula_hint_count: 6
   - id: "210225129-210145510-hwp"
@@ -199,8 +199,8 @@ attachments:
     size: 54784
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 4522
-    converted_non_space_chars: 3424
+    converted_text_chars: 4602
+    converted_non_space_chars: 3504
     table_row_count: 24
     formula_hint_count: 13
   - id: "210225129-202410290000022560000111019-byl-hwp"
@@ -493,8 +493,8 @@ attachments:
     size: 32256
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 382
-    converted_non_space_chars: 285
+    converted_text_chars: 390
+    converted_non_space_chars: 293
     table_row_count: 4
   - id: "210225129-202410290000022560000111037-byl-hwp"
     title: "[별지 제7호의4 서식] 채권시장조성거래원 지정 및 지정취소 신청서<신설 2015.7.16, 2024.5.23>"
@@ -573,8 +573,8 @@ attachments:
     size: 36864
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1907
-    converted_non_space_chars: 1384
+    converted_text_chars: 1915
+    converted_non_space_chars: 1392
     table_row_count: 12
 ---
 

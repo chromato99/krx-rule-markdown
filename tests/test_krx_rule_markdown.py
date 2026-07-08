@@ -576,6 +576,35 @@ $(".goRdoc").click(function(){});
         self.assertIn("<td>번호</td>", text)
         self.assertIn("  <tr>\n    <td></td>\n    <td></td>\n  </tr>", text)
 
+    def test_hwp_table_cells_render_script_tags_inside_html_tables(self) -> None:
+        text = render_hwp_table_cells(
+            [
+                {"row": 0, "col": 0, "rowspan": 1, "colspan": 2, "text": "구분"},
+                {"row": 1, "col": 0, "rowspan": 1, "colspan": 1, "text": "S<sub>0</sub>"},
+                {"row": 1, "col": 1, "rowspan": 1, "colspan": 1, "text": "명칭<sup>주)</sup>"},
+            ]
+        )
+        self.assertIn("<td>S<sub>0</sub></td>", text)
+        self.assertIn("<td>명칭<sup>주)</sup></td>", text)
+        self.assertNotIn("&lt;sub&gt;", text)
+        self.assertNotIn("&lt;sup&gt;", text)
+
+    def test_hwp_html_table_cells_keep_unrelated_html_escaped(self) -> None:
+        text = render_hwp_table_cells(
+            [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "rowspan": 1,
+                    "colspan": 2,
+                    "text": 'literal <sub> marker <sup class="note">1</sup> <script>x</script>',
+                },
+            ]
+        )
+        self.assertIn("&lt;sub&gt; marker", text)
+        self.assertIn("&lt;sup class=&quot;note&quot;&gt;1&lt;/sup&gt;", text)
+        self.assertIn("&lt;script&gt;x&lt;/script&gt;", text)
+
     def test_hwp_layout_table_unwraps_nested_table_structure(self) -> None:
         models = [
             {"tagname": "HWPTAG_TABLE", "level": 2, "content": {"rows": 1, "cols": 1, "rowcols": [1]}},
@@ -738,7 +767,7 @@ $(".goRdoc").click(function(){});
             [(0, 0), (1, 1)],
             char_shapes,
         )
-        self.assertEqual(text, "S_{0}")
+        self.assertEqual(text, "S<sub>0</sub>")
         self.assertEqual(next_index, 0)
         self.assertEqual(used, 0)
 
@@ -749,7 +778,7 @@ $(".goRdoc").click(function(){});
             [(0, 0), (3, 1), (6, 0)],
             char_shapes,
         )
-        self.assertEqual(text, "f(S_{-15},H)")
+        self.assertEqual(text, "f(S<sub>-15</sub>,H)")
 
         text, _, _ = render_hwp_paragraph(
             [((0, 8), "명칭주1) :")],
@@ -758,7 +787,7 @@ $(".goRdoc").click(function(){});
             [(0, 0), (2, 2), (5, 0)],
             char_shapes,
         )
-        self.assertEqual(text, "명칭^{주1)} :")
+        self.assertEqual(text, "명칭<sup>주1)</sup> :")
 
         text, _, _ = render_hwp_paragraph(
             [((0, 6), "사업연도주)")],
@@ -767,7 +796,7 @@ $(".goRdoc").click(function(){});
             [(0, 0), (4, 2), (5, 3)],
             char_shapes + [{"charshapeflags": 0x8000}],
         )
-        self.assertEqual(text, "사업연도^{주)}")
+        self.assertEqual(text, "사업연도<sup>주)</sup>")
 
         text, _, _ = render_hwp_paragraph(
             [((0, 8), "컨설팅 방식3)")],
@@ -776,7 +805,7 @@ $(".goRdoc").click(function(){});
             [(0, 0), (7, 2)],
             char_shapes,
         )
-        self.assertEqual(text, "컨설팅 방식^{3)}")
+        self.assertEqual(text, "컨설팅 방식<sup>3)</sup>")
 
     def test_hwp_equation_to_latex_converts_common_eqedit_syntax(self) -> None:
         latex = hwp_equation_to_latex(

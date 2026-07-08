@@ -54,8 +54,8 @@ attachments:
     size: 37376
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 932
-    converted_non_space_chars: 707
+    converted_text_chars: 940
+    converted_non_space_chars: 715
     table_row_count: 8
   - id: "210223538-210023265-hwp"
     title: "[별표 1의4] 주권 및 외국주식예탁증권의 신규상장 시 기준가격<신설 2023.4.12, 2023.8.8,개정 2025. 2. 27.>"
@@ -437,8 +437,8 @@ attachments:
     size: 17920
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1899
-    converted_non_space_chars: 1378
+    converted_text_chars: 1907
+    converted_non_space_chars: 1386
     table_row_count: 12
 ---
 

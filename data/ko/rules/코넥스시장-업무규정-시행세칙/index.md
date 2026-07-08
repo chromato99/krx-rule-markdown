@@ -23,8 +23,8 @@ attachments:
     size: 59392
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 7943
-    converted_non_space_chars: 6216
+    converted_text_chars: 7951
+    converted_non_space_chars: 6224
     formula_hint_count: 10
   - id: "210224651-202311230000021860000212002-byl-hwp"
     title: "[별표 1의2] 일괄호가취소의 신청사항 등<신설 2022.12.22>"
@@ -278,8 +278,8 @@ attachments:
     size: 35840
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1901
-    converted_non_space_chars: 1379
+    converted_text_chars: 1909
+    converted_non_space_chars: 1387
     table_row_count: 12
 ---
 

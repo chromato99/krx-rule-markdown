@@ -91,8 +91,8 @@ attachments:
     size: 56320
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1831
-    converted_non_space_chars: 1332
+    converted_text_chars: 1855
+    converted_non_space_chars: 1356
     table_row_count: 11
   - id: "210202173-210077684-hwp"
     title: "[별지 제1호 서식] 시장조성 담당자 신고관련 제출 서류 양식<개정 2025. 6. 9.>"
@@ -138,8 +138,8 @@ attachments:
     size: 64000
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 12959
-    converted_non_space_chars: 9120
+    converted_text_chars: 12975
+    converted_non_space_chars: 9136
     table_row_count: 69
   - id: "210202173-210077710-hwp"
     title: "[별지 제4호 서식] 시장조성자 계좌 신규 및 변경 신고서<개정 2025. 6. 9.>"

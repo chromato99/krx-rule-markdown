@@ -70,8 +70,8 @@ attachments:
     size: 104960
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 7908
-    converted_non_space_chars: 6061
+    converted_text_chars: 7932
+    converted_non_space_chars: 6085
     table_row_count: 13
   - id: "210222644-202406140000022350000016005-byl-hwp"
     title: "[별표 2의4] 주식워런트증권 상장심사기준<개정 2015.12.16, 2016.6.27, 2018.4.6, 2019.4.29>"
@@ -86,8 +86,8 @@ attachments:
     size: 49664
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 5570
-    converted_non_space_chars: 4175
+    converted_text_chars: 5594
+    converted_non_space_chars: 4199
     table_row_count: 30
   - id: "210222644-210203409-hwp"
     title: "[별표 2의5] 상장지수증권 상장심사기준<개정 2015.12.16, 2016.6.27, 2017.2.8, 2017.4.28, 2019.1.25, 2020.7.23, 2022.5.27, 2022.8.4, 2022.10.20., 2023.10.17., 2023.12.7., 2024.1.31,2026. 4. 27.>"
@@ -102,8 +102,8 @@ attachments:
     size: 62464
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 9809
-    converted_non_space_chars: 7486
+    converted_text_chars: 9833
+    converted_non_space_chars: 7510
     table_row_count: 28
     formula_hint_count: 1
   - id: "210222644-210205138-hwp"
@@ -393,8 +393,8 @@ attachments:
     size: 138752
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 5519
-    converted_non_space_chars: 4110
+    converted_text_chars: 5631
+    converted_non_space_chars: 4222
     table_row_count: 29
     formula_hint_count: 2
   - id: "210222644-202406140000022350000016025-byl-hwp"
@@ -410,8 +410,8 @@ attachments:
     size: 70144
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 4010
-    converted_non_space_chars: 3012
+    converted_text_chars: 4066
+    converted_non_space_chars: 3068
     table_row_count: 15
     formula_hint_count: 2
   - id: "210222644-202406140000022350000016026-byl-hwp"
@@ -427,8 +427,8 @@ attachments:
     size: 74752
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 6982
-    converted_non_space_chars: 5279
+    converted_text_chars: 7118
+    converted_non_space_chars: 5415
     table_row_count: 31
     formula_hint_count: 2
   - id: "210222644-202406140000022350000016027-byl-hwp"
@@ -444,8 +444,8 @@ attachments:
     size: 145920
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 7079
-    converted_non_space_chars: 5382
+    converted_text_chars: 7207
+    converted_non_space_chars: 5510
     table_row_count: 30
     formula_hint_count: 2
   - id: "210222644-202406140000022350000016028-byl-hwp"
@@ -461,8 +461,8 @@ attachments:
     size: 70656
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 7007
-    converted_non_space_chars: 5303
+    converted_text_chars: 7143
+    converted_non_space_chars: 5439
     table_row_count: 30
     formula_hint_count: 2
   - id: "210222644-202406140000022350000016029-byl-hwp"
@@ -478,8 +478,8 @@ attachments:
     size: 70144
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 7027
-    converted_non_space_chars: 5330
+    converted_text_chars: 7163
+    converted_non_space_chars: 5466
     table_row_count: 30
     formula_hint_count: 2
   - id: "210222644-202406140000022350000016030-byl-hwp"
@@ -495,8 +495,8 @@ attachments:
     size: 71680
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 5237
-    converted_non_space_chars: 3907
+    converted_text_chars: 5349
+    converted_non_space_chars: 4019
     table_row_count: 21
     formula_hint_count: 2
   - id: "210222644-202406140000022350000016031-byl-hwp"
@@ -561,8 +561,8 @@ attachments:
     size: 48640
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2767
-    converted_non_space_chars: 2038
+    converted_text_chars: 2783
+    converted_non_space_chars: 2054
     table_row_count: 19
     formula_hint_count: 1
   - id: "210222644-202406140000022350000016035-byl-hwp"
@@ -920,8 +920,8 @@ attachments:
     size: 48640
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1608
-    converted_non_space_chars: 1190
+    converted_text_chars: 1624
+    converted_non_space_chars: 1206
     table_row_count: 14
   - id: "210222644-202406140000022350000016057-byl-hwp"
     title: "[별지 제35호 서식] 수량감소 변경상장신청서(상장지수증권)<신설 2014.9.2, 2019.1.25>"

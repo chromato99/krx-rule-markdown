@@ -7,6 +7,7 @@ from html import escape
 from .base import normalize_text
 
 HTML_CELL_WRAP = 900
+HTML_SCRIPT_TAG_PATTERN = re.compile(r"&lt;(sub|sup)&gt;(.*?)&lt;/\1&gt;")
 
 
 @dataclass(frozen=True)
@@ -177,7 +178,11 @@ def escape_markdown_cell(cell: CellValue) -> str:
 
 
 def escape_html_cell(cell: str) -> str:
-    return escape(cell).replace("&lt;br&gt;", "<br>")
+    escaped = escape(cell).replace("&lt;br&gt;", "<br>")
+    return HTML_SCRIPT_TAG_PATTERN.sub(
+        lambda match: f"<{match.group(1)}>{match.group(2)}</{match.group(1)}>",
+        escaped,
+    )
 
 
 def wrapped_html_cell_lines(cell: CellValue) -> list[str]:
