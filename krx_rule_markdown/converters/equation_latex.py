@@ -76,7 +76,7 @@ def convert_hwp_expression(expr: str) -> str:
     expr = replace_braced_command(expr, "sqrt", lambda arg: rf"\sqrt{{{convert_hwp_expression(arg)}}}")
     expr = replace_braced_command(expr, "root", lambda arg: rf"\sqrt{{{convert_hwp_expression(arg)}}}")
     expr = replace_braced_command(expr, "bar", lambda arg: rf"\bar{{{convert_hwp_expression(arg)}}}")
-    expr = replace_braced_command(expr, "dmatrix", lambda arg: rf"\displaystyle {convert_hwp_expression(arg)}")
+    expr = replace_braced_command(expr, "dmatrix", determinant_to_latex)
     expr = replace_braced_command(expr, "matrix", lambda arg: matrix_to_latex(arg))
     expr = replace_braced_command(expr, "eqalign", eqalign_to_latex)
     expr = replace_braced_command(expr, "cases", cases_to_latex)
@@ -294,6 +294,18 @@ def matrix_to_latex(arg: str) -> str:
     return r"\begin{matrix}" + r" \\ ".join(converted_rows) + r"\end{matrix}"
 
 
+def determinant_to_latex(arg: str) -> str:
+    rows = [row.strip() for row in re.split(r"\s*#\s*", arg) if row.strip()]
+    has_matrix_shape = len(rows) > 1 or any("&" in row for row in rows)
+    if has_matrix_shape:
+        converted_rows = []
+        for row in rows:
+            cells = [cell.strip() for cell in re.split(r"\s*&\s*", row) if cell.strip()]
+            converted_rows.append(" & ".join(convert_hwp_expression(cell) for cell in (cells or [row])))
+        return r"\begin{vmatrix}" + r" \\ ".join(converted_rows) + r"\end{vmatrix}"
+    return rf"\left\lvert {convert_hwp_expression(rows[0] if rows else arg)} \right\rvert"
+
+
 def eqalign_to_latex(arg: str) -> str:
     rows = [row.strip() for row in re.split(r"\s*#\s*", arg) if row.strip()]
     if len(rows) <= 1:
@@ -333,10 +345,14 @@ def replace_left_right(expr: str) -> str:
 
     def repl(match: re.Match[str]) -> str:
         side = "left" if match.group(1).upper() == "LEFT" else "right"
-        symbol = pairs.get(match.group(2), match.group(2))
+        token = match.group(2)
+        if token == "|":
+            symbol = r"\lvert" if side == "left" else r"\rvert"
+        else:
+            symbol = pairs.get(token, token)
         return rf"\{side}{symbol}"
 
-    expr = re.sub(r"\b(LEFT|RIGHT)\s*([{}()\[\]|])", repl, expr, flags=re.I)
+    expr = re.sub(r"(?<!\\)\b(LEFT|RIGHT)\s*([{}()\[\]|])", repl, expr, flags=re.I)
     expr = re.sub(r"}\s*(?<!\\)\bright\b", r" \\right\\}", expr, flags=re.I)
     expr = re.sub(r"(?<!\\)\bleft\b(?!\s*[{}()\[\]|])", r"\\left.", expr, flags=re.I)
     expr = re.sub(r"(?<!\\)\bright\b(?!\s*[{}()\[\]|])", r"\\right.", expr, flags=re.I)
@@ -503,8 +519,8 @@ def cleanup_latex(expr: str) -> str:
 
 def collapse_double_latex_command_slashes(expr: str) -> str:
     commands = (
-        "bar|begin|Delta|div|end|exp|frac|ge|hat|int|lambda|le|left|ln|log|"
-        "max|min|mid|ne|operatorname|prod|right|mathrm|Sigma|sigma|sqrt|sum|text|times|varepsilon"
+        "bar|begin|Delta|div|end|exp|frac|ge|hat|int|lambda|le|left|lvert|ln|log|"
+        "max|min|mid|ne|operatorname|prod|right|rvert|mathrm|Sigma|sigma|sqrt|sum|text|times|varepsilon"
     )
     return re.sub(rf"\\\\(?=({commands})\b)", r"\\", expr)
 

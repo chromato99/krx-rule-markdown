@@ -814,8 +814,19 @@ $(".goRdoc").click(function(){});
         self.assertIn(r"\frac", latex)
         self.assertIn(r"\sum_{i = 1}^{m}", latex)
         self.assertIn(r"\text{선형화된 증거금}_{i}", latex)
-        self.assertIn(r"\displaystyle \sum_{i = 1}^{m}", latex)
+        self.assertIn(r"\left\lvert \sum_{i = 1}^{m}", latex)
+        self.assertIn(r"\right\rvert", latex)
+        self.assertNotIn(r"\\left", latex)
+        self.assertNotIn(r"\\right", latex)
         self.assertIn(r"\text{표준계약수량}_{i}", latex)
+
+    def test_hwp_equation_to_latex_converts_dmatrix_to_vertical_bars(self) -> None:
+        latex = hwp_equation_to_latex("dmatrix{a&b#c&d}")
+        self.assertEqual(latex, r"\begin{vmatrix}a & b \\ c & d\end{vmatrix}")
+
+    def test_hwp_equation_to_latex_uses_lvert_for_left_right_pipe(self) -> None:
+        latex = hwp_equation_to_latex("LEFT | A _{i} -B _{i} RIGHT |")
+        self.assertEqual(latex, r"\left\lvert A_{i} - B_{i} \right\rvert")
 
     def test_hwp_equation_to_latex_preserves_min_left_right(self) -> None:
         latex = hwp_equation_to_latex("C=Min LEFT { sum _{i=1} ^{m} |`k _{i}`| RIGHT }")

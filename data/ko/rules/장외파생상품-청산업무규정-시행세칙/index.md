@@ -23,7 +23,7 @@ attachments:
     size: 53248
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 12167
+    converted_text_chars: 12166
     converted_non_space_chars: 9995
     table_row_count: 13
     formula_block_count: 62
@@ -41,7 +41,7 @@ attachments:
     size: 109056
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2906
+    converted_text_chars: 2905
     converted_non_space_chars: 2280
     table_row_count: 13
   - id: "210215757-210136622-hwp"
@@ -57,7 +57,7 @@ attachments:
     size: 82944
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 62925
+    converted_text_chars: 62924
     converted_non_space_chars: 52107
     table_row_count: 4
     formula_block_count: 285
@@ -75,7 +75,7 @@ attachments:
     size: 55808
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 11018
+    converted_text_chars: 11017
     converted_non_space_chars: 7825
     table_row_count: 62
     formula_block_count: 10
@@ -93,7 +93,7 @@ attachments:
     size: 48128
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 8899
+    converted_text_chars: 8898
     converted_non_space_chars: 7352
     table_row_count: 1
     formula_block_count: 44
@@ -111,7 +111,7 @@ attachments:
     size: 13312
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1427
+    converted_text_chars: 1426
     converted_non_space_chars: 1175
     formula_block_count: 7
     formula_hint_count: 18
@@ -128,9 +128,9 @@ attachments:
     size: 50688
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2047
-    converted_non_space_chars: 1685
-    table_row_count: 3
+    converted_text_chars: 2066
+    converted_non_space_chars: 1705
+    table_row_count: 1
     formula_block_count: 7
     formula_hint_count: 20
   - id: "210215757-210136795-hwp"
@@ -146,7 +146,7 @@ attachments:
     size: 44032
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3608
+    converted_text_chars: 3607
     converted_non_space_chars: 2848
   - id: "210215757-210136786-hwp"
     title: "[별지 제1호 서식] 청산회원 가입신청서<개정 2025. 10. 23.>"
@@ -161,7 +161,7 @@ attachments:
     size: 43520
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1801
+    converted_text_chars: 1800
     converted_non_space_chars: 1351
     table_row_count: 3
   - id: "210215757-202409260000022520000225011-byl-hwp"
@@ -177,7 +177,7 @@ attachments:
     size: 17408
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2117
+    converted_text_chars: 2116
     converted_non_space_chars: 1552
     table_row_count: 17
     formula_hint_count: 6
@@ -194,7 +194,7 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 940
+    converted_text_chars: 939
     converted_non_space_chars: 747
     formula_hint_count: 6
   - id: "210215757-202409260000022520000225013-byl-hwp"
@@ -210,7 +210,7 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 924
+    converted_text_chars: 923
     converted_non_space_chars: 723
     formula_hint_count: 6
   - id: "210215757-202409260000022520000225014-byl-hwp"
@@ -226,7 +226,7 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 545
+    converted_text_chars: 544
     converted_non_space_chars: 433
     table_row_count: 3
   - id: "210215757-202409260000022520000225015-byl-hwp"
@@ -242,7 +242,7 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 684
+    converted_text_chars: 683
     converted_non_space_chars: 545
     table_row_count: 3
   - id: "210215757-202409260000022520000225016-byl-hwp"
@@ -258,7 +258,7 @@ attachments:
     size: 17408
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1764
+    converted_text_chars: 1763
     converted_non_space_chars: 1293
     table_row_count: 22
   - id: "210215757-202409260000022520000225017-byl-hwp"
@@ -274,7 +274,7 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 684
+    converted_text_chars: 683
     converted_non_space_chars: 523
     formula_hint_count: 6
   - id: "210215757-202409260000022520000225018-byl-hwp"
@@ -290,7 +290,7 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 923
+    converted_text_chars: 922
     converted_non_space_chars: 650
     table_row_count: 12
   - id: "210215757-202409260000022520000225019-byl-hwp"
@@ -306,7 +306,7 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 990
+    converted_text_chars: 989
     converted_non_space_chars: 707
     table_row_count: 12
   - id: "210215757-202409260000022520000225021-byl-hwp"
@@ -322,7 +322,7 @@ attachments:
     size: 17920
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2129
+    converted_text_chars: 2128
     converted_non_space_chars: 1539
     table_row_count: 19
   - id: "210215757-202409260000022520000225022-byl-hwp"
@@ -338,7 +338,7 @@ attachments:
     size: 16384
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1254
+    converted_text_chars: 1253
     converted_non_space_chars: 915
     table_row_count: 11
 ---
