@@ -30,7 +30,7 @@ from krx_rule_markdown.collector import (
 from krx_rule_markdown.clean import clean_unreferenced_attachments, clean_unreferenced_documents, drop_past_rule_attachments
 from krx_rule_markdown.converters.hwp import render_hwp_paragraph, render_hwp_table, render_hwp_table_cells
 from krx_rule_markdown.converters.pdf import postprocess_pdf_text
-from krx_rule_markdown.converters.tables import normalize_angle_bracket_tables, render_html_table
+from krx_rule_markdown.converters.tables import normalize_angle_bracket_tables, render_html_table, render_markdown_table
 from krx_rule_markdown.html import html_to_markdown
 from krx_rule_markdown.markdown import load_documents, parse_markdown, write_document
 from krx_rule_markdown.models import ATTACHMENT_CONVERTED, ATTACHMENT_FAILED, Attachment, Document, Item, now_utc
@@ -527,6 +527,30 @@ $(".goRdoc").click(function(){});
         self.assertIn('<td rowspan="3" colspan="5"></td>', text)
         self.assertNotIn("| td rowspan=", text)
 
+    def test_markdown_table_cells_preserve_latex_backslashes(self) -> None:
+        text = render_markdown_table(
+            [
+                ["구분", "산식"],
+                ["증거금", r"\(S_{0} + \frac{A}{B}\)"],
+                ["빈칸표시", "\\"],
+            ]
+        )
+        self.assertIn(r"| 증거금 | \(S_{0} + \frac{A}{B}\) |", text)
+        self.assertIn(r"| 빈칸표시 | \\ |", text)
+        self.assertNotIn(r"\\(S_{0}", text)
+
+    def test_markdown_table_cells_protect_pipe_delimiters_without_double_escaping(self) -> None:
+        text = render_markdown_table(
+            [
+                ["구분", "값"],
+                ["일반", "A|B"],
+                ["이미 보호됨", r"A\|B"],
+            ]
+        )
+        self.assertIn(r"| 일반 | A\|B |", text)
+        self.assertIn(r"| 이미 보호됨 | A\|B |", text)
+        self.assertNotIn(r"A\\|B", text)
+
     def test_hwp_table_cells_preserve_spans_and_line_breaks_as_html(self) -> None:
         text = render_hwp_table_cells(
             [
@@ -828,12 +852,17 @@ $(".goRdoc").click(function(){});
         latex = hwp_equation_to_latex("LEFT | A _{i} -B _{i} RIGHT |")
         self.assertEqual(latex, r"\left\lvert A_{i} - B_{i} \right\rvert")
 
-    def test_hwp_equation_to_latex_preserves_min_left_right(self) -> None:
+    def test_hwp_equation_to_latex_converts_absolute_value_bars(self) -> None:
         latex = hwp_equation_to_latex("C=Min LEFT { sum _{i=1} ^{m} |`k _{i}`| RIGHT }")
         self.assertIn(r"C = \min \left\{", latex)
         self.assertIn(r"\sum_{i = 1}^{m}", latex)
-        self.assertIn(r"| k_{i} |", latex)
+        self.assertIn(r"\lvert k_{i} \rvert", latex)
+        self.assertNotIn(r"| k_{i} |", latex)
         self.assertIn(r"\right\}", latex)
+
+    def test_hwp_equation_to_latex_keeps_relation_like_pipes(self) -> None:
+        latex = hwp_equation_to_latex("A | B | C")
+        self.assertEqual(latex, "A | B | C")
 
     def test_hwp_equation_to_latex_converts_over_times_and_comparison_words(self) -> None:
         latex = hwp_equation_to_latex("{의무충족일수} over {시장조성일수} GEQ 기간의무이행률")

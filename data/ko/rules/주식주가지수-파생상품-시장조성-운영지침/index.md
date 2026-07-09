@@ -23,8 +23,8 @@ attachments:
     size: 55296
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 4771
-    converted_non_space_chars: 3601
+    converted_text_chars: 4763
+    converted_non_space_chars: 3593
     table_row_count: 24
     formula_block_count: 1
     formula_hint_count: 3
@@ -73,8 +73,8 @@ attachments:
     size: 71168
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 25887
-    converted_non_space_chars: 20538
+    converted_text_chars: 25835
+    converted_non_space_chars: 20486
     table_row_count: 92
     formula_block_count: 24
     formula_hint_count: 133

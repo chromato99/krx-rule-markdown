@@ -174,7 +174,60 @@ def cell_has_text(cell: CellValue) -> bool:
 
 def escape_markdown_cell(cell: CellValue) -> str:
     text = cell_to_text(cell)
-    return text.replace("\\", "\\\\").replace("|", "\\|").replace("\n", "<br>")
+    text = escape_markdown_backslashes_outside_math(text)
+    return escape_markdown_table_pipes(text).replace("\n", "<br>")
+
+
+def escape_markdown_backslashes_outside_math(text: str) -> str:
+    out: list[str] = []
+    i = 0
+    while i < len(text):
+        if text.startswith(r"\(", i):
+            end = find_latex_math_span_end(text, i + 2, r"\)")
+            if end >= 0:
+                out.append(text[i : end + 2])
+                i = end + 2
+                continue
+        if text.startswith(r"\[", i):
+            end = find_latex_math_span_end(text, i + 2, r"\]")
+            if end >= 0:
+                out.append(text[i : end + 2])
+                i = end + 2
+                continue
+        if text[i] == "\\":
+            out.append("\\" if i + 1 < len(text) and text[i + 1] == "|" else "\\\\")
+        else:
+            out.append(text[i])
+        i += 1
+    return "".join(out)
+
+
+def find_latex_math_span_end(text: str, start: int, close: str) -> int:
+    i = start
+    while i < len(text):
+        if text.startswith(close, i):
+            return i
+        i += 1
+    return -1
+
+
+def escape_markdown_table_pipes(text: str) -> str:
+    out: list[str] = []
+    for index, ch in enumerate(text):
+        if ch == "|" and not is_markdown_escaped(text, index):
+            out.append(r"\|")
+        else:
+            out.append(ch)
+    return "".join(out)
+
+
+def is_markdown_escaped(text: str, index: int) -> bool:
+    count = 0
+    i = index - 1
+    while i >= 0 and text[i] == "\\":
+        count += 1
+        i -= 1
+    return count % 2 == 1
 
 
 def escape_html_cell(cell: str) -> str:

@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "generated_at": "2026-07-08T11:55:49.831130Z",
+  "generated_at": "2026-07-09T03:00:53.127474Z",
   "source": "https://rule.krx.co.kr",
   "documents": [
     {
@@ -1584,8 +1584,8 @@
           "size": 56320,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 11879,
-          "converted_non_space_chars": 9260,
+          "converted_text_chars": 11846,
+          "converted_non_space_chars": 9227,
           "table_row_count": 52,
           "formula_block_count": 5,
           "formula_hint_count": 32
@@ -5674,8 +5674,8 @@
           "size": 15872,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4282,
-          "converted_non_space_chars": 3540,
+          "converted_text_chars": 4271,
+          "converted_non_space_chars": 3529,
           "table_row_count": 1,
           "formula_block_count": 17,
           "formula_hint_count": 45
@@ -5722,8 +5722,8 @@
           "size": 53248,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 12166,
-          "converted_non_space_chars": 9995,
+          "converted_text_chars": 12145,
+          "converted_non_space_chars": 9973,
           "table_row_count": 13,
           "formula_block_count": 62,
           "formula_hint_count": 127
@@ -5742,7 +5742,7 @@
           "size": 109056,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2905,
+          "converted_text_chars": 2906,
           "converted_non_space_chars": 2280,
           "table_row_count": 13
         },
@@ -5760,8 +5760,8 @@
           "size": 82944,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 62924,
-          "converted_non_space_chars": 52107,
+          "converted_text_chars": 62829,
+          "converted_non_space_chars": 52011,
           "table_row_count": 4,
           "formula_block_count": 285,
           "formula_hint_count": 744
@@ -5780,7 +5780,7 @@
           "size": 55808,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 11017,
+          "converted_text_chars": 11018,
           "converted_non_space_chars": 7825,
           "table_row_count": 62,
           "formula_block_count": 10,
@@ -5800,8 +5800,8 @@
           "size": 48128,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 8898,
-          "converted_non_space_chars": 7352,
+          "converted_text_chars": 8880,
+          "converted_non_space_chars": 7333,
           "table_row_count": 1,
           "formula_block_count": 44,
           "formula_hint_count": 99
@@ -5820,8 +5820,8 @@
           "size": 13312,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1426,
-          "converted_non_space_chars": 1175,
+          "converted_text_chars": 1423,
+          "converted_non_space_chars": 1171,
           "formula_block_count": 7,
           "formula_hint_count": 18
         },
@@ -5839,8 +5839,8 @@
           "size": 50688,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2066,
-          "converted_non_space_chars": 1705,
+          "converted_text_chars": 2059,
+          "converted_non_space_chars": 1697,
           "table_row_count": 1,
           "formula_block_count": 7,
           "formula_hint_count": 20
@@ -5859,7 +5859,7 @@
           "size": 44032,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3607,
+          "converted_text_chars": 3608,
           "converted_non_space_chars": 2848
         },
         {
@@ -5876,7 +5876,7 @@
           "size": 43520,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1800,
+          "converted_text_chars": 1801,
           "converted_non_space_chars": 1351,
           "table_row_count": 3
         },
@@ -5894,7 +5894,7 @@
           "size": 17408,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2116,
+          "converted_text_chars": 2117,
           "converted_non_space_chars": 1552,
           "table_row_count": 17,
           "formula_hint_count": 6
@@ -5913,7 +5913,7 @@
           "size": 15872,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 939,
+          "converted_text_chars": 940,
           "converted_non_space_chars": 747,
           "formula_hint_count": 6
         },
@@ -5931,7 +5931,7 @@
           "size": 15872,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 923,
+          "converted_text_chars": 924,
           "converted_non_space_chars": 723,
           "formula_hint_count": 6
         },
@@ -5949,7 +5949,7 @@
           "size": 14336,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 544,
+          "converted_text_chars": 545,
           "converted_non_space_chars": 433,
           "table_row_count": 3
         },
@@ -5967,7 +5967,7 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 683,
+          "converted_text_chars": 684,
           "converted_non_space_chars": 545,
           "table_row_count": 3
         },
@@ -5985,7 +5985,7 @@
           "size": 17408,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1763,
+          "converted_text_chars": 1764,
           "converted_non_space_chars": 1293,
           "table_row_count": 22
         },
@@ -6003,7 +6003,7 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 683,
+          "converted_text_chars": 684,
           "converted_non_space_chars": 523,
           "formula_hint_count": 6
         },
@@ -6021,7 +6021,7 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 922,
+          "converted_text_chars": 923,
           "converted_non_space_chars": 650,
           "table_row_count": 12
         },
@@ -6039,7 +6039,7 @@
           "size": 15872,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 989,
+          "converted_text_chars": 990,
           "converted_non_space_chars": 707,
           "table_row_count": 12
         },
@@ -6057,7 +6057,7 @@
           "size": 17920,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2128,
+          "converted_text_chars": 2129,
           "converted_non_space_chars": 1539,
           "table_row_count": 19
         },
@@ -6075,7 +6075,7 @@
           "size": 16384,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1253,
+          "converted_text_chars": 1254,
           "converted_non_space_chars": 915,
           "table_row_count": 11
         }
@@ -6688,8 +6688,8 @@
           "size": 55296,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4771,
-          "converted_non_space_chars": 3601,
+          "converted_text_chars": 4763,
+          "converted_non_space_chars": 3593,
           "table_row_count": 24,
           "formula_block_count": 1,
           "formula_hint_count": 3
@@ -6744,8 +6744,8 @@
           "size": 71168,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 25887,
-          "converted_non_space_chars": 20538,
+          "converted_text_chars": 25835,
+          "converted_non_space_chars": 20486,
           "table_row_count": 92,
           "formula_block_count": 24,
           "formula_hint_count": 133
@@ -10507,7 +10507,7 @@
           "size": 52224,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1825,
+          "converted_text_chars": 1826,
           "converted_non_space_chars": 1500
         },
         {
@@ -10524,7 +10524,7 @@
           "size": 52736,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6383,
+          "converted_text_chars": 6384,
           "converted_non_space_chars": 4800,
           "table_row_count": 93
         },
@@ -10542,7 +10542,7 @@
           "size": 43008,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1301,
+          "converted_text_chars": 1302,
           "converted_non_space_chars": 973,
           "table_row_count": 18
         },
@@ -10560,7 +10560,7 @@
           "size": 56320,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1736,
+          "converted_text_chars": 1737,
           "converted_non_space_chars": 1394,
           "table_row_count": 11
         },
@@ -10578,7 +10578,7 @@
           "size": 12800,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 251,
+          "converted_text_chars": 252,
           "converted_non_space_chars": 200,
           "formula_hint_count": 1
         },
@@ -10596,7 +10596,7 @@
           "size": 70656,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6168,
+          "converted_text_chars": 6169,
           "converted_non_space_chars": 4817,
           "table_row_count": 30
         },
@@ -10614,7 +10614,7 @@
           "size": 51200,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3129,
+          "converted_text_chars": 3130,
           "converted_non_space_chars": 2299,
           "table_row_count": 40
         },
@@ -10632,7 +10632,7 @@
           "size": 54272,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3501,
+          "converted_text_chars": 3502,
           "converted_non_space_chars": 2916,
           "formula_block_count": 15,
           "formula_hint_count": 37
@@ -10651,7 +10651,7 @@
           "size": 44544,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2477,
+          "converted_text_chars": 2478,
           "converted_non_space_chars": 2052,
           "formula_block_count": 13,
           "formula_hint_count": 30
@@ -10670,7 +10670,7 @@
           "size": 41984,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2435,
+          "converted_text_chars": 2436,
           "converted_non_space_chars": 2013,
           "formula_block_count": 13,
           "formula_hint_count": 30
@@ -10689,7 +10689,7 @@
           "size": 48640,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6162,
+          "converted_text_chars": 6163,
           "converted_non_space_chars": 5140,
           "formula_block_count": 18,
           "formula_hint_count": 95
@@ -10708,7 +10708,7 @@
           "size": 44032,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4387,
+          "converted_text_chars": 4388,
           "converted_non_space_chars": 3570,
           "table_row_count": 5,
           "formula_block_count": 19,
@@ -10728,7 +10728,7 @@
           "size": 55808,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2865,
+          "converted_text_chars": 2866,
           "converted_non_space_chars": 2347,
           "formula_block_count": 6,
           "formula_hint_count": 18
@@ -10747,7 +10747,7 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1364,
+          "converted_text_chars": 1365,
           "converted_non_space_chars": 1110,
           "formula_block_count": 6,
           "formula_hint_count": 14
@@ -10766,7 +10766,7 @@
           "size": 44544,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2314,
+          "converted_text_chars": 2315,
           "converted_non_space_chars": 1785,
           "table_row_count": 28
         },
@@ -10784,7 +10784,7 @@
           "size": 52224,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 8491,
+          "converted_text_chars": 8492,
           "converted_non_space_chars": 7045,
           "formula_block_count": 33,
           "formula_hint_count": 116
@@ -10803,7 +10803,7 @@
           "size": 46592,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 7039,
+          "converted_text_chars": 7040,
           "converted_non_space_chars": 5845,
           "formula_block_count": 31,
           "formula_hint_count": 109
@@ -10822,7 +10822,7 @@
           "size": 16896,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4028,
+          "converted_text_chars": 4029,
           "converted_non_space_chars": 3346,
           "formula_block_count": 14,
           "formula_hint_count": 51
@@ -10841,7 +10841,7 @@
           "size": 61952,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3977,
+          "converted_text_chars": 3978,
           "converted_non_space_chars": 3237,
           "table_row_count": 26,
           "formula_hint_count": 16
@@ -10860,9 +10860,9 @@
           "size": 57344,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 12643,
-          "converted_non_space_chars": 10096,
-          "table_row_count": 41,
+          "converted_text_chars": 12658,
+          "converted_non_space_chars": 10110,
+          "table_row_count": 39,
           "formula_block_count": 7,
           "formula_hint_count": 159
         },
@@ -10880,7 +10880,7 @@
           "size": 49664,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 8518,
+          "converted_text_chars": 8519,
           "converted_non_space_chars": 6771,
           "table_row_count": 29,
           "formula_hint_count": 8
@@ -10899,7 +10899,7 @@
           "size": 50176,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1590,
+          "converted_text_chars": 1591,
           "converted_non_space_chars": 1315,
           "table_row_count": 14,
           "formula_hint_count": 6
@@ -10918,7 +10918,7 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 655,
+          "converted_text_chars": 656,
           "converted_non_space_chars": 511,
           "table_row_count": 6
         },
@@ -10936,7 +10936,7 @@
           "size": 17408,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1688,
+          "converted_text_chars": 1689,
           "converted_non_space_chars": 1296,
           "table_row_count": 5,
           "formula_hint_count": 2
@@ -10955,7 +10955,7 @@
           "size": 43008,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1117,
+          "converted_text_chars": 1118,
           "converted_non_space_chars": 880,
           "table_row_count": 2
         },
@@ -10973,7 +10973,7 @@
           "size": 15872,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 991,
+          "converted_text_chars": 992,
           "converted_non_space_chars": 803
         },
         {
@@ -10990,7 +10990,7 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 965,
+          "converted_text_chars": 966,
           "converted_non_space_chars": 689,
           "table_row_count": 7
         },
@@ -11008,7 +11008,7 @@
           "size": 54272,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1964,
+          "converted_text_chars": 1965,
           "converted_non_space_chars": 1564,
           "table_row_count": 4
         },
@@ -11026,7 +11026,7 @@
           "size": 14336,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 533,
+          "converted_text_chars": 534,
           "converted_non_space_chars": 438,
           "table_row_count": 2,
           "formula_hint_count": 6
@@ -11045,7 +11045,7 @@
           "size": 48640,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2621,
+          "converted_text_chars": 2622,
           "converted_non_space_chars": 2067,
           "table_row_count": 32
         },
@@ -11063,7 +11063,7 @@
           "size": 51712,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2514,
+          "converted_text_chars": 2515,
           "converted_non_space_chars": 1962,
           "table_row_count": 24,
           "formula_hint_count": 12
@@ -11082,7 +11082,7 @@
           "size": 55296,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2452,
+          "converted_text_chars": 2453,
           "converted_non_space_chars": 1969,
           "table_row_count": 19
         },
@@ -11100,7 +11100,7 @@
           "size": 48128,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1561,
+          "converted_text_chars": 1562,
           "converted_non_space_chars": 1241,
           "formula_block_count": 2,
           "formula_hint_count": 4
@@ -11119,7 +11119,7 @@
           "size": 48128,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1880,
+          "converted_text_chars": 1881,
           "converted_non_space_chars": 1465,
           "table_row_count": 9,
           "formula_hint_count": 12
@@ -11138,7 +11138,7 @@
           "size": 15872,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1292,
+          "converted_text_chars": 1293,
           "converted_non_space_chars": 891,
           "table_row_count": 13
         },
@@ -11156,7 +11156,7 @@
           "size": 16384,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1218,
+          "converted_text_chars": 1219,
           "converted_non_space_chars": 874,
           "table_row_count": 14
         },
@@ -11174,7 +11174,7 @@
           "size": 16896,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1687,
+          "converted_text_chars": 1688,
           "converted_non_space_chars": 1232,
           "table_row_count": 15
         },
@@ -11192,7 +11192,7 @@
           "size": 17920,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2242,
+          "converted_text_chars": 2243,
           "converted_non_space_chars": 1653,
           "table_row_count": 15
         },
@@ -11210,7 +11210,7 @@
           "size": 17920,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2439,
+          "converted_text_chars": 2440,
           "converted_non_space_chars": 1767,
           "table_row_count": 22
         },
@@ -11228,7 +11228,7 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2575,
+          "converted_text_chars": 2576,
           "converted_non_space_chars": 1682,
           "table_row_count": 22
         },
@@ -11246,7 +11246,7 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 909,
+          "converted_text_chars": 910,
           "converted_non_space_chars": 648,
           "table_row_count": 8
         },
@@ -11264,7 +11264,7 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 779,
+          "converted_text_chars": 780,
           "converted_non_space_chars": 543,
           "table_row_count": 8
         },
@@ -11282,7 +11282,7 @@
           "size": 18432,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4468,
+          "converted_text_chars": 4469,
           "converted_non_space_chars": 3464,
           "table_row_count": 30
         },
@@ -11300,7 +11300,7 @@
           "size": 16896,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2731,
+          "converted_text_chars": 2732,
           "converted_non_space_chars": 2119,
           "table_row_count": 13
         },
@@ -11318,7 +11318,7 @@
           "size": 48640,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1559,
+          "converted_text_chars": 1560,
           "converted_non_space_chars": 1211,
           "table_row_count": 10
         },
@@ -11336,7 +11336,7 @@
           "size": 14848,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 592,
+          "converted_text_chars": 593,
           "converted_non_space_chars": 421,
           "table_row_count": 8
         },
@@ -11354,7 +11354,7 @@
           "size": 16384,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1622,
+          "converted_text_chars": 1623,
           "converted_non_space_chars": 1208,
           "table_row_count": 11
         },
@@ -11372,7 +11372,7 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1373,
+          "converted_text_chars": 1374,
           "converted_non_space_chars": 988,
           "table_row_count": 17
         },
@@ -11390,7 +11390,7 @@
           "size": 17920,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1915,
+          "converted_text_chars": 1916,
           "converted_non_space_chars": 1397,
           "table_row_count": 12
         }
@@ -14030,8 +14030,8 @@
       "size": 56320,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 11879,
-      "converted_non_space_chars": 9260,
+      "converted_text_chars": 11846,
+      "converted_non_space_chars": 9227,
       "table_row_count": 52,
       "formula_block_count": 5,
       "formula_hint_count": 32
@@ -17776,8 +17776,8 @@
       "size": 15872,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4282,
-      "converted_non_space_chars": 3540,
+      "converted_text_chars": 4271,
+      "converted_non_space_chars": 3529,
       "table_row_count": 1,
       "formula_block_count": 17,
       "formula_hint_count": 45
@@ -17796,8 +17796,8 @@
       "size": 53248,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 12166,
-      "converted_non_space_chars": 9995,
+      "converted_text_chars": 12145,
+      "converted_non_space_chars": 9973,
       "table_row_count": 13,
       "formula_block_count": 62,
       "formula_hint_count": 127
@@ -17816,7 +17816,7 @@
       "size": 109056,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2905,
+      "converted_text_chars": 2906,
       "converted_non_space_chars": 2280,
       "table_row_count": 13
     },
@@ -17834,8 +17834,8 @@
       "size": 82944,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 62924,
-      "converted_non_space_chars": 52107,
+      "converted_text_chars": 62829,
+      "converted_non_space_chars": 52011,
       "table_row_count": 4,
       "formula_block_count": 285,
       "formula_hint_count": 744
@@ -17854,7 +17854,7 @@
       "size": 55808,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 11017,
+      "converted_text_chars": 11018,
       "converted_non_space_chars": 7825,
       "table_row_count": 62,
       "formula_block_count": 10,
@@ -17874,8 +17874,8 @@
       "size": 48128,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 8898,
-      "converted_non_space_chars": 7352,
+      "converted_text_chars": 8880,
+      "converted_non_space_chars": 7333,
       "table_row_count": 1,
       "formula_block_count": 44,
       "formula_hint_count": 99
@@ -17894,8 +17894,8 @@
       "size": 13312,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1426,
-      "converted_non_space_chars": 1175,
+      "converted_text_chars": 1423,
+      "converted_non_space_chars": 1171,
       "formula_block_count": 7,
       "formula_hint_count": 18
     },
@@ -17913,8 +17913,8 @@
       "size": 50688,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2066,
-      "converted_non_space_chars": 1705,
+      "converted_text_chars": 2059,
+      "converted_non_space_chars": 1697,
       "table_row_count": 1,
       "formula_block_count": 7,
       "formula_hint_count": 20
@@ -17933,7 +17933,7 @@
       "size": 44032,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3607,
+      "converted_text_chars": 3608,
       "converted_non_space_chars": 2848
     },
     {
@@ -17950,7 +17950,7 @@
       "size": 43520,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1800,
+      "converted_text_chars": 1801,
       "converted_non_space_chars": 1351,
       "table_row_count": 3
     },
@@ -17968,7 +17968,7 @@
       "size": 17408,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2116,
+      "converted_text_chars": 2117,
       "converted_non_space_chars": 1552,
       "table_row_count": 17,
       "formula_hint_count": 6
@@ -17987,7 +17987,7 @@
       "size": 15872,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 939,
+      "converted_text_chars": 940,
       "converted_non_space_chars": 747,
       "formula_hint_count": 6
     },
@@ -18005,7 +18005,7 @@
       "size": 15872,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 923,
+      "converted_text_chars": 924,
       "converted_non_space_chars": 723,
       "formula_hint_count": 6
     },
@@ -18023,7 +18023,7 @@
       "size": 14336,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 544,
+      "converted_text_chars": 545,
       "converted_non_space_chars": 433,
       "table_row_count": 3
     },
@@ -18041,7 +18041,7 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 683,
+      "converted_text_chars": 684,
       "converted_non_space_chars": 545,
       "table_row_count": 3
     },
@@ -18059,7 +18059,7 @@
       "size": 17408,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1763,
+      "converted_text_chars": 1764,
       "converted_non_space_chars": 1293,
       "table_row_count": 22
     },
@@ -18077,7 +18077,7 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 683,
+      "converted_text_chars": 684,
       "converted_non_space_chars": 523,
       "formula_hint_count": 6
     },
@@ -18095,7 +18095,7 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 922,
+      "converted_text_chars": 923,
       "converted_non_space_chars": 650,
       "table_row_count": 12
     },
@@ -18113,7 +18113,7 @@
       "size": 15872,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 989,
+      "converted_text_chars": 990,
       "converted_non_space_chars": 707,
       "table_row_count": 12
     },
@@ -18131,7 +18131,7 @@
       "size": 17920,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2128,
+      "converted_text_chars": 2129,
       "converted_non_space_chars": 1539,
       "table_row_count": 19
     },
@@ -18149,7 +18149,7 @@
       "size": 16384,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1253,
+      "converted_text_chars": 1254,
       "converted_non_space_chars": 915,
       "table_row_count": 11
     },
@@ -18631,8 +18631,8 @@
       "size": 55296,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4771,
-      "converted_non_space_chars": 3601,
+      "converted_text_chars": 4763,
+      "converted_non_space_chars": 3593,
       "table_row_count": 24,
       "formula_block_count": 1,
       "formula_hint_count": 3
@@ -18687,8 +18687,8 @@
       "size": 71168,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 25887,
-      "converted_non_space_chars": 20538,
+      "converted_text_chars": 25835,
+      "converted_non_space_chars": 20486,
       "table_row_count": 92,
       "formula_block_count": 24,
       "formula_hint_count": 133
@@ -22106,7 +22106,7 @@
       "size": 52224,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1825,
+      "converted_text_chars": 1826,
       "converted_non_space_chars": 1500
     },
     {
@@ -22123,7 +22123,7 @@
       "size": 52736,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6383,
+      "converted_text_chars": 6384,
       "converted_non_space_chars": 4800,
       "table_row_count": 93
     },
@@ -22141,7 +22141,7 @@
       "size": 43008,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1301,
+      "converted_text_chars": 1302,
       "converted_non_space_chars": 973,
       "table_row_count": 18
     },
@@ -22159,7 +22159,7 @@
       "size": 56320,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1736,
+      "converted_text_chars": 1737,
       "converted_non_space_chars": 1394,
       "table_row_count": 11
     },
@@ -22177,7 +22177,7 @@
       "size": 12800,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 251,
+      "converted_text_chars": 252,
       "converted_non_space_chars": 200,
       "formula_hint_count": 1
     },
@@ -22195,7 +22195,7 @@
       "size": 70656,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6168,
+      "converted_text_chars": 6169,
       "converted_non_space_chars": 4817,
       "table_row_count": 30
     },
@@ -22213,7 +22213,7 @@
       "size": 51200,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3129,
+      "converted_text_chars": 3130,
       "converted_non_space_chars": 2299,
       "table_row_count": 40
     },
@@ -22231,7 +22231,7 @@
       "size": 54272,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3501,
+      "converted_text_chars": 3502,
       "converted_non_space_chars": 2916,
       "formula_block_count": 15,
       "formula_hint_count": 37
@@ -22250,7 +22250,7 @@
       "size": 44544,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2477,
+      "converted_text_chars": 2478,
       "converted_non_space_chars": 2052,
       "formula_block_count": 13,
       "formula_hint_count": 30
@@ -22269,7 +22269,7 @@
       "size": 41984,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2435,
+      "converted_text_chars": 2436,
       "converted_non_space_chars": 2013,
       "formula_block_count": 13,
       "formula_hint_count": 30
@@ -22288,7 +22288,7 @@
       "size": 48640,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6162,
+      "converted_text_chars": 6163,
       "converted_non_space_chars": 5140,
       "formula_block_count": 18,
       "formula_hint_count": 95
@@ -22307,7 +22307,7 @@
       "size": 44032,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4387,
+      "converted_text_chars": 4388,
       "converted_non_space_chars": 3570,
       "table_row_count": 5,
       "formula_block_count": 19,
@@ -22327,7 +22327,7 @@
       "size": 55808,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2865,
+      "converted_text_chars": 2866,
       "converted_non_space_chars": 2347,
       "formula_block_count": 6,
       "formula_hint_count": 18
@@ -22346,7 +22346,7 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1364,
+      "converted_text_chars": 1365,
       "converted_non_space_chars": 1110,
       "formula_block_count": 6,
       "formula_hint_count": 14
@@ -22365,7 +22365,7 @@
       "size": 44544,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2314,
+      "converted_text_chars": 2315,
       "converted_non_space_chars": 1785,
       "table_row_count": 28
     },
@@ -22383,7 +22383,7 @@
       "size": 52224,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 8491,
+      "converted_text_chars": 8492,
       "converted_non_space_chars": 7045,
       "formula_block_count": 33,
       "formula_hint_count": 116
@@ -22402,7 +22402,7 @@
       "size": 46592,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 7039,
+      "converted_text_chars": 7040,
       "converted_non_space_chars": 5845,
       "formula_block_count": 31,
       "formula_hint_count": 109
@@ -22421,7 +22421,7 @@
       "size": 16896,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4028,
+      "converted_text_chars": 4029,
       "converted_non_space_chars": 3346,
       "formula_block_count": 14,
       "formula_hint_count": 51
@@ -22440,7 +22440,7 @@
       "size": 61952,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3977,
+      "converted_text_chars": 3978,
       "converted_non_space_chars": 3237,
       "table_row_count": 26,
       "formula_hint_count": 16
@@ -22459,9 +22459,9 @@
       "size": 57344,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 12643,
-      "converted_non_space_chars": 10096,
-      "table_row_count": 41,
+      "converted_text_chars": 12658,
+      "converted_non_space_chars": 10110,
+      "table_row_count": 39,
       "formula_block_count": 7,
       "formula_hint_count": 159
     },
@@ -22479,7 +22479,7 @@
       "size": 49664,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 8518,
+      "converted_text_chars": 8519,
       "converted_non_space_chars": 6771,
       "table_row_count": 29,
       "formula_hint_count": 8
@@ -22498,7 +22498,7 @@
       "size": 50176,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1590,
+      "converted_text_chars": 1591,
       "converted_non_space_chars": 1315,
       "table_row_count": 14,
       "formula_hint_count": 6
@@ -22517,7 +22517,7 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 655,
+      "converted_text_chars": 656,
       "converted_non_space_chars": 511,
       "table_row_count": 6
     },
@@ -22535,7 +22535,7 @@
       "size": 17408,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1688,
+      "converted_text_chars": 1689,
       "converted_non_space_chars": 1296,
       "table_row_count": 5,
       "formula_hint_count": 2
@@ -22554,7 +22554,7 @@
       "size": 43008,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1117,
+      "converted_text_chars": 1118,
       "converted_non_space_chars": 880,
       "table_row_count": 2
     },
@@ -22572,7 +22572,7 @@
       "size": 15872,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 991,
+      "converted_text_chars": 992,
       "converted_non_space_chars": 803
     },
     {
@@ -22589,7 +22589,7 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 965,
+      "converted_text_chars": 966,
       "converted_non_space_chars": 689,
       "table_row_count": 7
     },
@@ -22607,7 +22607,7 @@
       "size": 54272,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1964,
+      "converted_text_chars": 1965,
       "converted_non_space_chars": 1564,
       "table_row_count": 4
     },
@@ -22625,7 +22625,7 @@
       "size": 14336,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 533,
+      "converted_text_chars": 534,
       "converted_non_space_chars": 438,
       "table_row_count": 2,
       "formula_hint_count": 6
@@ -22644,7 +22644,7 @@
       "size": 48640,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2621,
+      "converted_text_chars": 2622,
       "converted_non_space_chars": 2067,
       "table_row_count": 32
     },
@@ -22662,7 +22662,7 @@
       "size": 51712,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2514,
+      "converted_text_chars": 2515,
       "converted_non_space_chars": 1962,
       "table_row_count": 24,
       "formula_hint_count": 12
@@ -22681,7 +22681,7 @@
       "size": 55296,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2452,
+      "converted_text_chars": 2453,
       "converted_non_space_chars": 1969,
       "table_row_count": 19
     },
@@ -22699,7 +22699,7 @@
       "size": 48128,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1561,
+      "converted_text_chars": 1562,
       "converted_non_space_chars": 1241,
       "formula_block_count": 2,
       "formula_hint_count": 4
@@ -22718,7 +22718,7 @@
       "size": 48128,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1880,
+      "converted_text_chars": 1881,
       "converted_non_space_chars": 1465,
       "table_row_count": 9,
       "formula_hint_count": 12
@@ -22737,7 +22737,7 @@
       "size": 15872,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1292,
+      "converted_text_chars": 1293,
       "converted_non_space_chars": 891,
       "table_row_count": 13
     },
@@ -22755,7 +22755,7 @@
       "size": 16384,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1218,
+      "converted_text_chars": 1219,
       "converted_non_space_chars": 874,
       "table_row_count": 14
     },
@@ -22773,7 +22773,7 @@
       "size": 16896,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1687,
+      "converted_text_chars": 1688,
       "converted_non_space_chars": 1232,
       "table_row_count": 15
     },
@@ -22791,7 +22791,7 @@
       "size": 17920,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2242,
+      "converted_text_chars": 2243,
       "converted_non_space_chars": 1653,
       "table_row_count": 15
     },
@@ -22809,7 +22809,7 @@
       "size": 17920,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2439,
+      "converted_text_chars": 2440,
       "converted_non_space_chars": 1767,
       "table_row_count": 22
     },
@@ -22827,7 +22827,7 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2575,
+      "converted_text_chars": 2576,
       "converted_non_space_chars": 1682,
       "table_row_count": 22
     },
@@ -22845,7 +22845,7 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 909,
+      "converted_text_chars": 910,
       "converted_non_space_chars": 648,
       "table_row_count": 8
     },
@@ -22863,7 +22863,7 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 779,
+      "converted_text_chars": 780,
       "converted_non_space_chars": 543,
       "table_row_count": 8
     },
@@ -22881,7 +22881,7 @@
       "size": 18432,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4468,
+      "converted_text_chars": 4469,
       "converted_non_space_chars": 3464,
       "table_row_count": 30
     },
@@ -22899,7 +22899,7 @@
       "size": 16896,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2731,
+      "converted_text_chars": 2732,
       "converted_non_space_chars": 2119,
       "table_row_count": 13
     },
@@ -22917,7 +22917,7 @@
       "size": 48640,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1559,
+      "converted_text_chars": 1560,
       "converted_non_space_chars": 1211,
       "table_row_count": 10
     },
@@ -22935,7 +22935,7 @@
       "size": 14848,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 592,
+      "converted_text_chars": 593,
       "converted_non_space_chars": 421,
       "table_row_count": 8
     },
@@ -22953,7 +22953,7 @@
       "size": 16384,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1622,
+      "converted_text_chars": 1623,
       "converted_non_space_chars": 1208,
       "table_row_count": 11
     },
@@ -22971,7 +22971,7 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1373,
+      "converted_text_chars": 1374,
       "converted_non_space_chars": 988,
       "table_row_count": 17
     },
@@ -22989,7 +22989,7 @@
       "size": 17920,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1915,
+      "converted_text_chars": 1916,
       "converted_non_space_chars": 1397,
       "table_row_count": 12
     },

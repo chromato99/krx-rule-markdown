@@ -510,6 +510,7 @@ def cleanup_latex(expr: str) -> str:
     expr = normalize_script_commas(expr)
     expr = re.sub(r"\\(mathrm|operatorname)\{([^{}]+)\}\s*_\{([^{}]+)\}", r"\\\1{\2}_{\3}", expr)
     expr = re.sub(r"(\\text\{(?:if|where)\})(?=[A-Za-z0-9\\])", r"\1 ", expr)
+    expr = normalize_absolute_value_bars(expr)
     expr = re.sub(r"\s+([)}\]])", r"\1", expr)
     expr = re.sub(r"([({\[])\s+", r"\1", expr)
     expr = balance_latex_groups(expr.strip())
@@ -548,6 +549,117 @@ def normalize_script_commas(expr: str) -> str:
         out.append(expr[i])
         i += 1
     return "".join(out)
+
+
+def normalize_absolute_value_bars(expr: str) -> str:
+    out: list[str] = []
+    i = 0
+    while i < len(expr):
+        if expr[i] != "|" or is_escaped(expr, i) or not can_open_absolute_bar(expr, i):
+            out.append(expr[i])
+            i += 1
+            continue
+        end = closing_absolute_bar_index(expr, i + 1)
+        if end < 0 or not can_close_absolute_bar(expr, end):
+            out.append(expr[i])
+            i += 1
+            continue
+        content = expr[i + 1 : end].strip()
+        if not is_absolute_bar_content(content):
+            out.append(expr[i])
+            i += 1
+            continue
+        out.append(r"\lvert " + content + r" \rvert")
+        i = end + 1
+    return "".join(out)
+
+
+def can_open_absolute_bar(expr: str, index: int) -> bool:
+    prev = previous_non_space_index(expr, index)
+    if prev < 0:
+        return True
+    if expr[prev] in "([{=,+-*/^_":
+        return True
+    return bool(
+        re.search(
+            r"\\(?:sum|prod|int)(?:_\{[^{}]*\})?(?:\^\{[^{}]*\})?\s*$",
+            expr[:index],
+        )
+    )
+
+
+def can_close_absolute_bar(expr: str, index: int) -> bool:
+    next_index = next_non_space_index(expr, index + 1)
+    if next_index < 0:
+        return True
+    if expr[next_index] in ")]},;=+-*/^_#&":
+        return True
+    return expr.startswith(r"\right", next_index)
+
+
+def closing_absolute_bar_index(expr: str, start: int) -> int:
+    depth_curly = depth_round = depth_square = 0
+    i = start
+    while i < len(expr):
+        ch = expr[i]
+        if ch == "|" and depth_curly == 0 and depth_round == 0 and depth_square == 0 and not is_escaped(expr, i):
+            return i
+        if ch == "{" and not is_escaped(expr, i):
+            depth_curly += 1
+        elif ch == "}" and not is_escaped(expr, i):
+            depth_curly = max(0, depth_curly - 1)
+        elif ch == "(":
+            depth_round += 1
+        elif ch == ")":
+            depth_round = max(0, depth_round - 1)
+        elif ch == "[":
+            depth_square += 1
+        elif ch == "]":
+            depth_square = max(0, depth_square - 1)
+        i += 1
+    return -1
+
+
+def is_absolute_bar_content(content: str) -> bool:
+    if not content:
+        return False
+    if has_top_level_separator(content, ",;=#&"):
+        return False
+    return bool(re.search(r"[A-Za-z0-9가-힣\\]", content))
+
+
+def has_top_level_separator(expr: str, separators: str) -> bool:
+    depth_curly = depth_round = depth_square = 0
+    for i, ch in enumerate(expr):
+        if ch in separators and depth_curly == 0 and depth_round == 0 and depth_square == 0:
+            return True
+        if ch == "{" and not is_escaped(expr, i):
+            depth_curly += 1
+        elif ch == "}" and not is_escaped(expr, i):
+            depth_curly = max(0, depth_curly - 1)
+        elif ch == "(":
+            depth_round += 1
+        elif ch == ")":
+            depth_round = max(0, depth_round - 1)
+        elif ch == "[":
+            depth_square += 1
+        elif ch == "]":
+            depth_square = max(0, depth_square - 1)
+    return False
+
+
+def previous_non_space_index(expr: str, index: int) -> int:
+    i = index - 1
+    while i >= 0 and expr[i].isspace():
+        i -= 1
+    return i
+
+
+def next_non_space_index(expr: str, index: int) -> int:
+    i = index
+    while i < len(expr) and expr[i].isspace():
+        i += 1
+    return i if i < len(expr) else -1
 
 
 def collapse_repeated_linebreaks(expr: str) -> str:
