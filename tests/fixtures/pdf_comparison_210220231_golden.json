@@ -1,0 +1,21 @@
+{
+  "attachment_id": "210220231-210220236-pdf",
+  "expected_template": "two_column",
+  "status": "restored",
+  "table_pages": [4],
+  "row_count": 22,
+  "first_rows": [
+    [
+      "제15조(불성실공시법인의 지정 절",
+      "제15조(불성실공시법인의 지정 절"
+    ],
+    [
+      "차 등)",
+      "차 등)"
+    ],
+    [
+      "① ∼ ⑧ (생 략)",
+      "① ∼ ⑧ (현행과 같음)"
+    ]
+  ]
+}

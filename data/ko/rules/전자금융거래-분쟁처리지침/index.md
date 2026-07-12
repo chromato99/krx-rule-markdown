@@ -1,25 +1,42 @@
 ---
+schema_version: 2
 id: "204848011"
 title: "전자금융거래 분쟁처리지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:16:09.700907Z"
-content_hash: "4cd402fa100114fedd12e1a62637eaeb1d0f29e094c240425471906f5c80ec74"
+collected_at: "2026-07-12T08:03:45.103852Z"
+content_hash: "b6b0fd7c43bce149c259eaf7bb8d1f5ae99bc0cacbf042fe49f86810c03d8551"
+body_hash: "f14dd556d4ce6e603790af4647c1d897305f28f9ae081548b66228e8c52612d4"
 document_type: "rule"
 language: "ko"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 공통규정"
 effective_date: "2023-05-02"
 published_date: "2023-04-27"
+source_content_hash: "4f6112a34b931cce5cd0839fdb1013f8569ef775ee5be79e87c0246bec9e30ce"
+source_content_path: "ko/rules/전자금융거래-분쟁처리지침/raw/source.html"
+source_request_path: "ko/rules/전자금융거래-분쟁처리지침/raw/request.json"
+converter_version: "2"
+asset_inspection_version: "1"
+preservation_status: "preserved"
 attachments:
   - id: "204848011-202304270000008300000318001-byl-hwp"
     title: "[별지 제1호 서식] 거래소 전산장애에 따른 손해배상 신청양식"
     file_name: "전자금융거래 분쟁처리지침_0차_거래소전산장애에따른손해배상신청양식.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202304270000008300000318001_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/전자금융거래-분쟁처리지침/raw/별지-제1호-서식-거래소-전산장애에-따른-손해배상-신청양식.hwp"
     text_path: "ko/rules/전자금융거래-분쟁처리지침/attachments/별지-제1호-서식-거래소-전산장애에-따른-손해배상-신청양식.md"
     content_hash: "39c50a86203c3497f99c8a44089535a1b293f1f17a4bf990a706ff7ceee1d50d"
+    raw_file_hash: "39c50a86203c3497f99c8a44089535a1b293f1f17a4bf990a706ff7ceee1d50d"
+    converted_text_hash: "c64674ceeea8752dd5c092b0df0ba041ba59b66f004d5ae376c237cd13414d3c"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 45056
     quality_status: "ok"
     quality_score: 100
@@ -30,12 +47,19 @@ attachments:
     title: "[별지 제2호 서식] 손해배상 심사 결과에 관한 통지서"
     file_name: "전자금융거래 분쟁처리지침_0차_손해배상심사결과에관한통지서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202304270000008300000318002_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/전자금융거래-분쟁처리지침/raw/별지-제2호-서식-손해배상-심사-결과에-관한-통지서.hwp"
     text_path: "ko/rules/전자금융거래-분쟁처리지침/attachments/별지-제2호-서식-손해배상-심사-결과에-관한-통지서.md"
     content_hash: "bb26317dbf08f2156801d9c3698fac00d0a5c845956aa3d6f77dc0e8e23ae663"
+    raw_file_hash: "bb26317dbf08f2156801d9c3698fac00d0a5c845956aa3d6f77dc0e8e23ae663"
+    converted_text_hash: "b0bf42d542e922e51272f2bd47d408fa2e548f33e00685d8cd726fb3321b42b0"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 28672
     quality_status: "ok"
     quality_score: 100
@@ -50,11 +74,11 @@ attachments:
 
 1. "이용자"란 한국거래소(이하 "거래소"라 한다)의 전산시스템을 이용하는 다음 각 목의 어느 하나에 해당하는 자를 말한다.
 
-가. 「회원관리규정」제3조제1항 각 호에 따른 회원
+가. 「회원관리규정」 제3조제1항 각 호에 따른 회원
 
 나. 「KRX금시장 운영규정」제12조제1항 각 호에 따른 회원
 
-다. 「배출권 거래시장 운영규정」제11조의2각 호에 따른 회원
+다. 「배출권 거래시장 운영규정」제11조의2 각 호에 따른 회원
 
 라. 「KRX석유시장 운영규정」제3조제1항 각 호에 따른 참가자
 
@@ -100,7 +124,7 @@ attachments:
 
 **제2조(적용례)**이 지침은 2023년 1월 1일 이후 거래소의 전산장애가 발생한 경우부터 적용한다.
 
-별표 및 서식
+ 별표 및 서식
 
 [별지 제1호 서식] 거래소 전산장애에 따른 손해배상 신청양식
 

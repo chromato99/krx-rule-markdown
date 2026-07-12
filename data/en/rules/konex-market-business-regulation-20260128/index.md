@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210223624-en"
 title: "KONEX Market Business Regulation 20260128"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:05:16.839888Z"
+collected_at: "2026-07-12T07:53:03.920395Z"
 content_hash: "ab131817c16ccecbd484a762f83eb28df7fbb7e4ec47675ea9db775a8d84b292"
+body_hash: "9a17b8a2b4c6c2bf2a1a04b518b5942db5c443ea74df00141c60ff5ea6ad91e8"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 코넥스시장규정"
 effective_date: "2026-07-02"
 published_date: "2026-07-01"
@@ -14,6 +18,10 @@ file_name: "KONEX_Market_Business_Regulation_20260128.pdf"
 raw_path: "en/rules/konex-market-business-regulation-20260128/raw/english-full-text.pdf"
 text_path: "en/rules/konex-market-business-regulation-20260128/attachments/english-full-text.md"
 file_content_hash: "96c6a06954408a1c9ab565c1d7e73f7e914f45176e38d0ce556205f4231a7187"
+raw_file_hash: "96c6a06954408a1c9ab565c1d7e73f7e914f45176e38d0ce556205f4231a7187"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 KONEX Market Business Regulation

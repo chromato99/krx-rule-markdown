@@ -1,29 +1,167 @@
 {
   "version": "0.1.0",
-  "generated_at": "2026-07-09T03:00:53.103795Z",
+  "generated_at": "2026-07-12T08:06:29.411656Z",
   "summary": {
     "documents": 123,
-    "attachments": 596,
+    "attachments": 597,
+    "assets": 13,
     "attachment_status": {
-      "converted": 596
+      "converted": 597
     },
     "attachment_extensions": {
       "(none)": 31,
       ".hwp": 549,
-      ".pdf": 16
+      ".pdf": 17
     },
     "quality_status": {
-      "ok": 593,
-      "warn": 3
+      "ok": 595,
+      "warn": 2
     },
     "converted_text_chars": {
-      "count": 596,
+      "count": 597,
       "min": 34,
-      "median": 1256,
+      "median": 1274,
       "max": 180411
-    }
+    },
+    "hwp_equation_source_blocks": 656
   },
   "issues": [
+    {
+      "severity": "warn",
+      "document_id": "210220143",
+      "document_title": "유가증권시장 상장규정",
+      "asset_id": "asset-210220143-html-https-rule-krx-co-kr-datafile-law-img-204817634-gif",
+      "source_anchor": "html-img:https://rule.krx.co.kr/dataFile/law/img/204817634.gif",
+      "code": "image_content_unindexed",
+      "message": "preserved image asset is not text searchable (622x84)"
+    },
+    {
+      "severity": "warn",
+      "document_id": "210215757",
+      "document_title": "장외파생상품 청산업무규정 시행세칙",
+      "asset_id": "asset-210215757-html-https-rule-krx-co-kr-datafile-law-img-202409260000022520000225002-gif",
+      "source_anchor": "html-img:https://rule.krx.co.kr/dataFile/law/img/202409260000022520000225002.gif",
+      "code": "image_content_unindexed",
+      "message": "preserved image asset is not text searchable (603x258)"
+    },
+    {
+      "severity": "warn",
+      "document_id": "210220591",
+      "document_title": "코스닥시장 상장규정",
+      "asset_id": "asset-210220591-html-https-rule-krx-co-kr-datafile-law-img-204817659-gif",
+      "source_anchor": "html-img:https://rule.krx.co.kr/dataFile/law/img/204817659.gif",
+      "code": "image_content_unindexed",
+      "message": "preserved image asset is not text searchable (561x76)"
+    },
+    {
+      "severity": "warn",
+      "document_id": "210228709",
+      "document_title": "파생상품시장 업무규정 시행세칙",
+      "asset_id": "asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114001-gif",
+      "source_anchor": "html-img:https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114001.gif",
+      "code": "image_content_unindexed",
+      "message": "preserved image asset is not text searchable (539x72)"
+    },
+    {
+      "severity": "warn",
+      "document_id": "210228709",
+      "document_title": "파생상품시장 업무규정 시행세칙",
+      "asset_id": "asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114002-gif",
+      "source_anchor": "html-img:https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114002.gif",
+      "code": "image_content_unindexed",
+      "message": "preserved image asset is not text searchable (539x72)"
+    },
+    {
+      "severity": "warn",
+      "document_id": "210228709",
+      "document_title": "파생상품시장 업무규정 시행세칙",
+      "asset_id": "asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114003-gif",
+      "source_anchor": "html-img:https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114003.gif",
+      "code": "image_content_unindexed",
+      "message": "preserved image asset is not text searchable (539x72)"
+    },
+    {
+      "severity": "warn",
+      "document_id": "210228709",
+      "document_title": "파생상품시장 업무규정 시행세칙",
+      "asset_id": "asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114004-gif",
+      "source_anchor": "html-img:https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114004.gif",
+      "code": "image_content_unindexed",
+      "message": "preserved image asset is not text searchable (539x72)"
+    },
+    {
+      "severity": "warn",
+      "document_id": "210228709",
+      "document_title": "파생상품시장 업무규정 시행세칙",
+      "asset_id": "asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114005-gif",
+      "source_anchor": "html-img:https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114005.gif",
+      "code": "image_content_unindexed",
+      "message": "preserved image asset is not text searchable (588x141)"
+    },
+    {
+      "severity": "warn",
+      "code": "image_content_unindexed",
+      "document_id": "210188913",
+      "document_title": "KRX금시장 운영규정 시행세칙",
+      "attachment_id": "210188913-202406250000022380000232001-byl-hwp",
+      "attachment_title": "[별표 1] 거래소 및 품질인증기관의 상징 표식<개정 2018.1.15>",
+      "file_name": "KRX금시장 운영규정 시행세칙_29차_거래소및품질인증기관의상징표식.hwp",
+      "message": "preserved HWP picture content is not text searchable"
+    },
+    {
+      "severity": "warn",
+      "code": "image_content_unindexed",
+      "document_id": "210188913",
+      "document_title": "KRX금시장 운영규정 시행세칙",
+      "attachment_id": "210188913-202406250000022380000232001-byl-hwp",
+      "attachment_title": "[별표 1] 거래소 및 품질인증기관의 상징 표식<개정 2018.1.15>",
+      "file_name": "KRX금시장 운영규정 시행세칙_29차_거래소및품질인증기관의상징표식.hwp",
+      "message": "HWP picture content is not text searchable"
+    },
+    {
+      "severity": "warn",
+      "document_id": "210188913",
+      "document_title": "KRX금시장 운영규정 시행세칙",
+      "asset_id": "asset-210188913-202406250000022380000232001-byl-hwp-hwp-bindata-bin0001-bmp",
+      "source_anchor": "hwp:BinData/BIN0001.bmp",
+      "attachment_id": "210188913-202406250000022380000232001-byl-hwp",
+      "attachment_title": "[별표 1] 거래소 및 품질인증기관의 상징 표식<개정 2018.1.15>",
+      "code": "image_content_unindexed",
+      "message": "preserved image asset is not text searchable (471x574)"
+    },
+    {
+      "severity": "warn",
+      "document_id": "210188913",
+      "document_title": "KRX금시장 운영규정 시행세칙",
+      "asset_id": "asset-210188913-202406250000022380000232001-byl-hwp-hwp-bindata-bin0002-jpg",
+      "source_anchor": "hwp:BinData/BIN0002.jpg",
+      "attachment_id": "210188913-202406250000022380000232001-byl-hwp",
+      "attachment_title": "[별표 1] 거래소 및 품질인증기관의 상징 표식<개정 2018.1.15>",
+      "code": "image_content_unindexed",
+      "message": "preserved image asset is not text searchable (539x613)"
+    },
+    {
+      "severity": "warn",
+      "document_id": "210188913",
+      "document_title": "KRX금시장 운영규정 시행세칙",
+      "asset_id": "asset-210188913-202406250000022380000232001-byl-hwp-hwp-bindata-bin0003-jpg",
+      "source_anchor": "hwp:BinData/BIN0003.jpg",
+      "attachment_id": "210188913-202406250000022380000232001-byl-hwp",
+      "attachment_title": "[별표 1] 거래소 및 품질인증기관의 상징 표식<개정 2018.1.15>",
+      "code": "image_content_unindexed",
+      "message": "preserved image asset is not text searchable (720x764)"
+    },
+    {
+      "severity": "warn",
+      "document_id": "210188913",
+      "document_title": "KRX금시장 운영규정 시행세칙",
+      "asset_id": "asset-210188913-202406250000022380000232001-byl-hwp-hwp-bindata-bin0004-jpg",
+      "source_anchor": "hwp:BinData/BIN0004.jpg",
+      "attachment_id": "210188913-202406250000022380000232001-byl-hwp",
+      "attachment_title": "[별표 1] 거래소 및 품질인증기관의 상징 표식<개정 2018.1.15>",
+      "code": "image_content_unindexed",
+      "message": "preserved image asset is not text searchable (714x713)"
+    },
     {
       "severity": "warn",
       "code": "very_short_text",
@@ -46,13 +184,94 @@
     },
     {
       "severity": "warn",
-      "code": "very_short_text",
-      "document_id": "210221766",
-      "document_title": "코스닥시장 업무규정 시행세칙 개정 예고",
-      "attachment_id": "210221766-210221768-pdf",
-      "attachment_title": "(붙임2) 코스닥시장 업무규정 시행세칙 일부개정세칙안.pdf",
-      "file_name": "(붙임2) 코스닥시장 업무규정 시행세칙 일부개정세칙안.pdf",
-      "message": "converted text is very short (20 non-space chars)"
+      "code": "image_content_unindexed",
+      "document_id": "204847848",
+      "document_title": "전문가회의 및 기술평가제도 운영지침",
+      "attachment_id": "204847848-202104160000007280000250003-byl-hwp",
+      "attachment_title": "[서식 2] 기술평가신청서",
+      "file_name": "전문가회의 및 기술평가제도 운영지침_3차_기술평가신청서.hwp",
+      "message": "preserved HWP picture content is not text searchable"
+    },
+    {
+      "severity": "warn",
+      "code": "image_content_unindexed",
+      "document_id": "204847848",
+      "document_title": "전문가회의 및 기술평가제도 운영지침",
+      "attachment_id": "204847848-202104160000007280000250003-byl-hwp",
+      "attachment_title": "[서식 2] 기술평가신청서",
+      "file_name": "전문가회의 및 기술평가제도 운영지침_3차_기술평가신청서.hwp",
+      "message": "HWP picture content is not text searchable"
+    },
+    {
+      "severity": "warn",
+      "document_id": "204847848",
+      "document_title": "전문가회의 및 기술평가제도 운영지침",
+      "asset_id": "asset-204847848-202104160000007280000250003-byl-hwp-hwp-bindata-bin0001-jpg",
+      "source_anchor": "hwp:BinData/BIN0001.jpg",
+      "attachment_id": "204847848-202104160000007280000250003-byl-hwp",
+      "attachment_title": "[서식 2] 기술평가신청서",
+      "code": "image_content_unindexed",
+      "message": "preserved image asset is not text searchable (1400x834)"
+    },
+    {
+      "severity": "warn",
+      "code": "pdf_comparison_structure_lost",
+      "document_id": "210231027",
+      "document_title": "유가증권시장 공시규정 개정 예고",
+      "attachment_id": "210231027-210231029-pdf",
+      "attachment_title": "260707_유가증권시장 공시규정 일부개정규정안_규정예고.pdf",
+      "file_name": "260707_유가증권시장 공시규정 일부개정규정안_규정예고.pdf",
+      "message": "amendment comparison columns were extracted without a structured table"
+    },
+    {
+      "severity": "warn",
+      "code": "pdf_comparison_structure_lost",
+      "document_id": "210231017",
+      "document_title": "유가증권시장 상장규정 개정 예고",
+      "attachment_id": "210231017-210231024-pdf",
+      "attachment_title": "유가증권시장 상장규정 일부개정규정안_중복상장_예고.pdf",
+      "file_name": "유가증권시장 상장규정 일부개정규정안_중복상장_예고.pdf",
+      "message": "amendment comparison columns were extracted without a structured table"
+    },
+    {
+      "severity": "warn",
+      "code": "pdf_comparison_structure_lost",
+      "document_id": "210231020",
+      "document_title": "유가증권시장 상장규정 시행세칙 개정 예고",
+      "attachment_id": "210231020-210231026-pdf",
+      "attachment_title": "유가증권시장 상장규정 시행세칙 일부개정세칙안_중복상장_예고.pdf",
+      "file_name": "유가증권시장 상장규정 시행세칙 일부개정세칙안_중복상장_예고.pdf",
+      "message": "amendment comparison columns were extracted without a structured table"
+    },
+    {
+      "severity": "warn",
+      "code": "pdf_comparison_structure_lost",
+      "document_id": "210231030",
+      "document_title": "코스닥시장 공시규정 개정 예고",
+      "attachment_id": "210231030-210231031-pdf",
+      "attachment_title": "코스닥시장 공시규정 일부개정규정안.pdf",
+      "file_name": "코스닥시장 공시규정 일부개정규정안.pdf",
+      "message": "amendment comparison columns were extracted without a structured table"
+    },
+    {
+      "severity": "warn",
+      "code": "pdf_comparison_structure_lost",
+      "document_id": "210231033",
+      "document_title": "코스닥시장 상장규정 및 같은 규정 시행세칙 개정 예고",
+      "attachment_id": "210231033-210231060-pdf",
+      "attachment_title": "(붙임1) 코스닥시장 상장규정 일부개정규정안.pdf",
+      "file_name": "(붙임1) 코스닥시장 상장규정 일부개정규정안.pdf",
+      "message": "amendment comparison columns were extracted without a structured table"
+    },
+    {
+      "severity": "warn",
+      "code": "pdf_comparison_structure_lost",
+      "document_id": "210231033",
+      "document_title": "코스닥시장 상장규정 및 같은 규정 시행세칙 개정 예고",
+      "attachment_id": "210231033-210231036-pdf",
+      "attachment_title": "(붙임2) 코스닥시장 상장규정 시행세칙 일부개정세칙안.pdf",
+      "file_name": "(붙임2) 코스닥시장 상장규정 시행세칙 일부개정세칙안.pdf",
+      "message": "amendment comparison columns were extracted without a structured table"
     }
   ]
 }

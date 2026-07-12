@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210124485-en"
 title: "OTC Derivatives Clearing and Settlement Business Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:11:51.094917Z"
+collected_at: "2026-07-12T07:59:32.895692Z"
 content_hash: "31a8ec91c50ee342b0e8ec0dfb02ee9159b11b9058b1aceece9a3c8c1dcefc56"
+body_hash: "3390656383fa6786da0f97285635ac8a83976943dd39983de56e82d1f4d796f4"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 장외파생상품청산업무규정"
 effective_date: "2025-10-27"
 published_date: "2025-09-17"
@@ -14,6 +18,10 @@ file_name: "20250917_OTC_Derivatives_Clearing_and_Settlement_Business_Regulation
 raw_path: "en/rules/otc-derivatives-clearing-and-settlement-business-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/otc-derivatives-clearing-and-settlement-business-regulation/attachments/english-full-text.md"
 file_content_hash: "321e15dc8de8f6c9d0d583e14417fd9a61acc8d85f654b2762a8e7c4c9568f9f"
+raw_file_hash: "321e15dc8de8f6c9d0d583e14417fd9a61acc8d85f654b2762a8e7c4c9568f9f"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 OTC Derivatives Clearing and Settlement

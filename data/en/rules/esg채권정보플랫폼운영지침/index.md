@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "204847935-en"
 title: "ESG채권정보플랫폼운영지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:15:43.737927Z"
+collected_at: "2026-07-12T08:03:19.537430Z"
 content_hash: "5288be347b86fe48ca1e0d61a4c52ccf1d2751de2b6b14aee1edc74aa80de298"
+body_hash: "98f756ce816e2762856876d909365a32a5ee144f3cf27e75b7623442fb02f99a"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 유가증권시장규정"
 effective_date: "2024-05-09"
 published_date: "2024-04-30"
@@ -14,6 +18,10 @@ file_name: "ESG채권정보플랫폼운영지침.pdf"
 raw_path: "en/rules/esg채권정보플랫폼운영지침/raw/english-full-text.pdf"
 text_path: "en/rules/esg채권정보플랫폼운영지침/attachments/english-full-text.md"
 file_content_hash: "1142b51b615713de1862ab3577b250d7ea7f0a2e9c42b31e3ac119940db24c0b"
+raw_file_hash: "1142b51b615713de1862ab3577b250d7ea7f0a2e9c42b31e3ac119940db24c0b"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Guidelines for Operation of Segment

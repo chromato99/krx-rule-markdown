@@ -10,22 +10,61 @@ from .base import ConversionError, dedupe_adjacent, normalize_text
 from .tables import render_html_table, render_markdown_table, table_needs_html
 
 
+MAX_HWPX_ENTRIES = 512
+MAX_HWPX_ENTRY_BYTES = 16 * 1024 * 1024
+MAX_HWPX_TOTAL_BYTES = 64 * 1024 * 1024
+MAX_HWPX_COMPRESSION_RATIO = 200
+
+
 def extract_hwpx(data: bytes) -> str:
     chunks: list[str] = []
-    with zipfile.ZipFile(io.BytesIO(data)) as zf:
-        for name in zf.namelist():
-            lower = name.lower()
-            if not lower.endswith(".xml"):
-                continue
-            if "section" not in lower and "bodytext" not in lower:
-                continue
-            xml = zf.read(name).decode("utf-8", errors="replace")
-            text = extract_hwpx_xml(xml)
-            if text:
-                chunks.append(text)
+    try:
+        with zipfile.ZipFile(io.BytesIO(data)) as zf:
+            infos = zf.infolist()
+            validate_hwpx_archive(infos)
+            for info in sorted(infos, key=hwpx_entry_sort_key):
+                lower = info.filename.lower()
+                if not lower.endswith(".xml"):
+                    continue
+                if "section" not in lower and "bodytext" not in lower:
+                    continue
+                xml = zf.read(info).decode("utf-8", errors="replace")
+                text = extract_hwpx_xml(xml)
+                if text:
+                    chunks.append(text)
+    except zipfile.BadZipFile as exc:
+        raise ConversionError("invalid HWPX ZIP container") from exc
     if not chunks:
         raise ConversionError("no readable HWPX body XML found")
     return "\n\n".join(chunks)
+
+
+def validate_hwpx_archive(infos: list[zipfile.ZipInfo]) -> None:
+    if len(infos) > MAX_HWPX_ENTRIES:
+        raise ConversionError(f"HWPX has too many ZIP entries ({len(infos)}/{MAX_HWPX_ENTRIES})")
+    total = 0
+    for info in infos:
+        if info.flag_bits & 0x1:
+            raise ConversionError("encrypted HWPX ZIP entries are not supported")
+        if info.file_size > MAX_HWPX_ENTRY_BYTES:
+            raise ConversionError(
+                f"HWPX ZIP entry is too large ({info.filename}: {info.file_size}/{MAX_HWPX_ENTRY_BYTES})"
+            )
+        total += info.file_size
+        if total > MAX_HWPX_TOTAL_BYTES:
+            raise ConversionError(f"HWPX decompressed size exceeds {MAX_HWPX_TOTAL_BYTES} bytes")
+        if info.file_size and info.compress_size == 0:
+            raise ConversionError(f"HWPX ZIP entry has an invalid compressed size: {info.filename}")
+        if info.compress_size and info.file_size / info.compress_size > MAX_HWPX_COMPRESSION_RATIO:
+            raise ConversionError(f"HWPX ZIP entry compression ratio is unsafe: {info.filename}")
+
+
+def hwpx_entry_sort_key(info: zipfile.ZipInfo) -> tuple[int, int, str]:
+    lower = info.filename.lower()
+    section = re.search(r"section\s*([0-9]+)", lower)
+    if section:
+        return (0, int(section.group(1)), lower)
+    return (1, 0, lower)
 
 
 def extract_hwpx_xml(xml: str) -> str:

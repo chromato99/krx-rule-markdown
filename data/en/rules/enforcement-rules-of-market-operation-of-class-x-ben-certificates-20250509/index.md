@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210137438-en"
 title: "Enforcement Rules of Market Operation of Class X Ben. Certificates 20250509"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:12:38.873773Z"
+collected_at: "2026-07-12T08:00:20.848399Z"
 content_hash: "325db69df287037f4b3e668dc08b16b38d7b73ecdd5b1f6997100e004425454b"
+body_hash: "0290f1cc5ee9fbdd7808682987448bc7e1cdce863ce5e738d41cf16a46f93729"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 유가증권시장규정"
 effective_date: "2025-10-20"
 published_date: "2025-10-20"
@@ -14,6 +18,10 @@ file_name: "Enforcement_Rules_of_Market_Operation_of_Class_X_Ben._Certificates_2
 raw_path: "en/rules/enforcement-rules-of-market-operation-of-class-x-ben-certificates-20250509/raw/english-full-text.pdf"
 text_path: "en/rules/enforcement-rules-of-market-operation-of-class-x-ben-certificates-20250509/attachments/english-full-text.md"
 file_content_hash: "47a9e4cdc0d2ccbc41f3089e5658d00209cebf9ff51e0647dd410087912ea9cf"
+raw_file_hash: "47a9e4cdc0d2ccbc41f3089e5658d00209cebf9ff51e0647dd410087912ea9cf"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Enforcement Rules of Regulations on the Market

@@ -1,0 +1,148 @@
+{
+  "schema_version": 2,
+  "documents": [
+    {
+      "schema_version": 2,
+      "id": "rule-1",
+      "title": "Café 규정",
+      "category": "  시장 / 공시  ",
+      "source_url": " https://example.test/rule-1 ",
+      "collected_at": "2026-07-01T09:00:00+09:00",
+      "document_type": "rule",
+      "language": "ko",
+      "source_id": " source-1 ",
+      "file_name": " source.html ",
+      "conversion_status": "converted",
+      "searchable": true,
+      "quality_status": " warn ",
+      "quality_codes": [
+        "image_content_unindexed",
+        "inline_image_missing"
+      ],
+      "assets": [
+        {
+          "id": "asset-rule-1-chart",
+          "source_kind": "html_inline",
+          "source_anchor": "html-img:https://example.test/dataFile/law/img/chart.png",
+          "source_url": "https://example.test/dataFile/law/img/chart.png",
+          "path": "ko/rules/caf-규정/assets/inline/chart.png",
+          "mime_type": "image/png",
+          "raw_file_hash": "db42d7b740a36256f694172427189b90e7d94a9abebab81435bf4bb3d7b9bf9d",
+          "size": 24,
+          "width": 2,
+          "height": 3,
+          "preservation_status": "preserved",
+          "searchable": false,
+          "quality_codes": [
+            "image_content_unindexed"
+          ]
+        }
+      ],
+      "body": " \r\nCafé body\r\n제1조  \r\n",
+      "attachments": [
+        {
+          "id": "att-1",
+          "title": " 별표 1 ",
+          "file_name": " appendix.hwp ",
+          "conversion_status": "converted",
+          "text_path": "ko/rules/rule-1/attachments/appendix.md",
+          "converted_text": " \r\n별표 Café\r\n",
+          "converted_text_hash": "eafa74e56b7c5fe910b455ed30a0ff8d7d5c3227a1743507e802802336d89260",
+          "searchable": false,
+          "quality_status": " warn ",
+          "quality_codes": [
+            "hwp_picture_missing",
+            "image_content_unindexed"
+          ]
+        }
+      ]
+    }
+  ],
+  "negative_cases": [
+    {
+      "name": "document_preservation_failed",
+      "entity": "document",
+      "overrides": {
+        "preservation_status": "failed"
+      },
+      "expected_error": "required_source_missing"
+    }
+  ],
+  "asset_fixture": {
+    "file_base64": "iVBORw0KGgoAAAANSUhEUgAAAAIAAAAD",
+    "negative_cases": [
+      {
+        "name": "asset_searchable_missing",
+        "remove": [
+          "searchable"
+        ],
+        "expected_error": "searchable=false"
+      },
+      {
+        "name": "asset_path_parent",
+        "overrides": {
+          "path": "../chart.png"
+        },
+        "expected_error": "parent traversal"
+      },
+      {
+        "name": "asset_hash_mismatch",
+        "overrides": {
+          "raw_file_hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+        },
+        "expected_error": "raw_file_hash_mismatch"
+      },
+      {
+        "name": "asset_mime_mismatch",
+        "overrides": {
+          "mime_type": "image/gif"
+        },
+        "expected_error": "MIME/signature mismatch"
+      },
+      {
+        "name": "asset_anchor_mismatch",
+        "overrides": {
+          "source_anchor": "html-img:https://example.test/dataFile/law/img/other.png"
+        },
+        "expected_error": "html-img"
+      },
+      {
+        "name": "asset_cross_origin",
+        "overrides": {
+          "source_url": "https://evil.example/dataFile/law/img/chart.png",
+          "source_anchor": "html-img:https://evil.example/dataFile/law/img/chart.png"
+        },
+        "expected_error": "document source origin"
+      },
+      {
+        "name": "asset_outside_image_path",
+        "overrides": {
+          "source_url": "https://example.test/other/chart.png",
+          "source_anchor": "html-img:https://example.test/other/chart.png"
+        },
+        "expected_error": "/dataFile/law/img/"
+      },
+      {
+        "name": "asset_preserved_error",
+        "overrides": {
+          "error": "producer-local error"
+        },
+        "expected_error": "must not contain error"
+      },
+      {
+        "name": "asset_unindexed_code_missing",
+        "overrides": {
+          "quality_codes": []
+        },
+        "expected_error": "image_content_unindexed"
+      }
+    ]
+  },
+  "expected": {
+    "canonical_body": "Café body\n제1조",
+    "body_hash": "a5baa37d69a5be5c80c341e4fac31a071eea8084d88a9cf80878ddf0c74264bb",
+    "legacy_content_hash": "4056260ef60c79a261415714210484a21298bd3012f83807badd132eabac23cd",
+    "index_source_canonical_json": "{\"documents\":[{\"attachments\":[{\"conversion_status\":\"converted\",\"converted_text_hash\":\"eafa74e56b7c5fe910b455ed30a0ff8d7d5c3227a1743507e802802336d89260\",\"file_name\":\"appendix.hwp\",\"id\":\"att-1\",\"quality_codes\":[\"hwp_picture_missing\",\"image_content_unindexed\"],\"quality_status\":\"warn\",\"searchable\":false,\"title\":\"별표 1\"}],\"body_hash\":\"a5baa37d69a5be5c80c341e4fac31a071eea8084d88a9cf80878ddf0c74264bb\",\"category\":\"시장 / 공시\",\"collected_at\":\"2026-07-01T00:00:00Z\",\"document_type\":\"rule\",\"effective_date\":\"\",\"file_name\":\"source.html\",\"id\":\"rule-1\",\"language\":\"ko\",\"published_date\":\"\",\"quality_codes\":[\"image_content_unindexed\",\"inline_image_missing\"],\"quality_status\":\"warn\",\"searchable\":true,\"source_id\":\"source-1\",\"source_url\":\"https://example.test/rule-1\",\"title\":\"Café 규정\"}],\"schema_version\":2}",
+    "index_source_hash": "c89d27fcdb58d44f2785625db64eb98a24f3fb978222cbff240df7845473bfaa"
+  }
+}

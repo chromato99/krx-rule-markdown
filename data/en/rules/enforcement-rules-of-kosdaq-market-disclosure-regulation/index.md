@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210229371-en"
 title: "Enforcement Rules of KOSDAQ Market Disclosure Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T20:58:12.343194Z"
+collected_at: "2026-07-12T07:46:00.739035Z"
 content_hash: "457a293120415604fae7f2e764132bb5f1beab4c951a2765203f9e8e3bb392b8"
+body_hash: "48217085cd41b2906f0613c18c1f47787aebabdda2900a3273bef4ffff45b13b"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 코스닥시장규정"
 effective_date: "2026-07-03"
 published_date: "2026-07-02"
@@ -14,6 +18,10 @@ file_name: "20260424_Enforcement_Rules_of_KOSDAQ_Market_Disclosure_Regulation.pd
 raw_path: "en/rules/enforcement-rules-of-kosdaq-market-disclosure-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/enforcement-rules-of-kosdaq-market-disclosure-regulation/attachments/english-full-text.md"
 file_content_hash: "0a3be4708eff4b285d5686d70afef6ad0d6c58baa7c23369160eca97c12056fc"
+raw_file_hash: "0a3be4708eff4b285d5686d70afef6ad0d6c58baa7c23369160eca97c12056fc"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Enforcement Rules of

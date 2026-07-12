@@ -18,6 +18,10 @@ The default report path is `data/reports/data-quality.json`.
 - Formula-like expressions in converted Markdown text
 - HWPX raw XML table/formula hints that did not appear in converted text
 - HWP EqEdit formula blocks preserved as `hwp-equation` plus generated `math` blocks
+- Sparse/image-only PDF, comparison-table structure loss, and unresolved HTML/HWP images
+- Document bodies and document-level source files in addition to attachments
+- Raw, converted-text, manifest, and release hash consistency during release validation
+- Preserved asset ID/path/hash/MIME/dimensions and explicit non-searchability
 
 The audit is intentionally conservative. It does not prove legal or semantic correctness. It highlights places where a human or a stronger converter should inspect the source.
 
@@ -47,7 +51,12 @@ By default the command exits successfully after writing the report. Use stricter
 ```bash
 krx-rule-markdown quality --data-dir data --fail-on error
 krx-rule-markdown quality --data-dir data --fail-on warn
+krx-rule-markdown validate --data-dir data --release --quality
 ```
+
+`--update-metadata` runs against a staging generation. When combined with `--fail-on`, the gate is evaluated before publication, so a rejected quality update leaves the active corpus unchanged. A failed or pending required conversion is an error in release mode. The narrow exception is an explicitly reviewed `--allow-failure-id` whose original is preserved and whose `searchable` value is false.
+
+`pdf-comparisons --apply` also writes `data/reports/pdf-comparison-classification.json`. It is a named, corpus-specific classification set rather than a generic PDF promise: each entry is `restored` only when its expected two/three-column coordinate grid and 현행·개정안 headers are both found; otherwise it remains `degraded` with a reason.
 
 ## RAG Use
 

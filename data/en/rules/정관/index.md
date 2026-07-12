@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210016572-en"
 title: "정관"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:13:54.962950Z"
+collected_at: "2026-07-12T08:01:31.199589Z"
 content_hash: "44264eacc83583af0d26c73e70d00c98e3f877a899112f9e6645757c98d255f6"
+body_hash: "52c5e5057272755ae8121e5a60940604af24b06e07b5a02063a64a6ac3bc6341"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "정관"
 effective_date: "2025-03-04"
 published_date: "2025-03-04"
@@ -14,6 +18,10 @@ file_name: "정관.pdf"
 raw_path: "en/rules/정관/raw/english-full-text.pdf"
 text_path: "en/rules/정관/attachments/english-full-text.md"
 file_content_hash: "585ba61c0186bfa317e30dbf9dd496a5efc291ac8859c4f35d9a2dcaed462c6e"
+raw_file_hash: "585ba61c0186bfa317e30dbf9dd496a5efc291ac8859c4f35d9a2dcaed462c6e"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Articles of Incorporation

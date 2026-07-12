@@ -4,6 +4,7 @@ Documents are stored as Markdown with YAML frontmatter.
 
 ```yaml
 ---
+schema_version: 2
 id: "210207961"
 title: "코스닥시장 상장규정"
 category: "업무규정 / 코스닥시장규정"
@@ -11,9 +12,17 @@ source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 effective_date: "2026-07-01"
 published_date: "2026-05-13"
 collected_at: "2026-06-16T13:00:00Z"
-content_hash: "sha256..."
+body_hash: "sha256-of-canonical-markdown-body"
 document_type: "rule"
 language: "ko"
+conversion_status: "converted"
+preservation_status: "preserved"
+searchable: true
+quality_status: "ok"
+source_content_path: "ko/rules/코스닥시장-상장규정/raw/source.html"
+source_content_hash: "sha256-of-canonical-source-html"
+source_request_path: "ko/rules/코스닥시장-상장규정/raw/request.json"
+converter_version: "2"
 attachments:
   - id: "210203562-210032775-hwp"
     title: "[별표 1] 시가기준가종목의 최초의 가격을 결정하기 위한 최저호가가격 및 최고호가가격 산정기준"
@@ -21,8 +30,24 @@ attachments:
     source_url: "/Download.do"
     raw_path: "ko/rules/코스닥시장-상장규정/raw/별표-1-시가기준가종목의-최초의-가격을-결정하기-위한-최저호가가격-및-최고호가가격-산정기준.hwp"
     text_path: "ko/rules/코스닥시장-상장규정/attachments/별표-1-시가기준가종목의-최초의-가격을-결정하기-위한-최저호가가격-및-최고호가가격-산정기준.md"
-    content_hash: "sha256..."
-    status: "converted"
+    raw_file_hash: "sha256-of-original-bytes"
+    converted_text_hash: "sha256-of-canonical-converted-markdown"
+    conversion_status: "converted"
+    preservation_status: "preserved"
+    searchable: true
+    assets:
+      - id: "asset-210203562-210032775-hwp-hwp-bindata-bin0001-jpg"
+        source_kind: "hwp_bindata"
+        source_anchor: "hwp:BinData/BIN0001.jpg"
+        path: "ko/rules/코스닥시장-상장규정/assets/210203562-210032775-hwp/bin0001.jpg"
+        mime_type: "image/jpeg"
+        raw_file_hash: "sha256-of-image-bytes"
+        size: 12345
+        width: 640
+        height: 480
+        preservation_status: "preserved"
+        searchable: false
+        quality_codes: ["image_content_unindexed"]
     quality_status: "ok"
     quality_score: 100
     converted_text_chars: 18354
@@ -37,9 +62,20 @@ Required document fields:
 - `title`
 - `source_url`
 - `collected_at`
-- `content_hash`
+- `body_hash`
 - `document_type`
 - `language`: `ko` or `en`
+
+Schema v2 uses separate hashes with one meaning each:
+
+- `body_hash`: canonical Markdown document body
+- `source_content_hash`: sanitized collection-time source HTML
+- `raw_file_hash`: exact downloaded raw bytes
+- `converted_text_hash`: canonical converted attachment Markdown
+- `index_source_hash`: canonical projection of all index-affecting documents and attachments, stored in `manifest.json`
+- `release_hash`: reproducible manifest contents, excluding operational timestamps and response-observation fields
+
+Canonical text is UTF-8, LF line endings, Unicode NFC, with whitespace trimmed only at the complete-value boundary. Canonical JSON uses NFC strings, sorted keys, UTF-8, and no insignificant whitespace. `content_hash` and attachment `status` remain readable during the v1 migration, but new output writes `body_hash`/`raw_file_hash` and `conversion_status` explicitly.
 
 The `id` field is the stable KRX document id used by MCP resource URIs and search metadata. Korean documents use the KRX id. English full-text documents use `{source_id}-en` and keep the Korean document id in `source_id`. Generated directory names are title-based for readability.
 
@@ -54,6 +90,8 @@ Legacy `rules`, `notices`, and `attachments` directories may still be read by do
 
 Attachment statuses are `pending`, `converted`, or `failed`.
 
+Conversion and preservation are independent axes. `conversion_status` says whether searchable text was produced; `preservation_status` says whether the source bytes/content were retained (`preserved`, `missing`, or `failed`). `quality_status` is `ok`, `warn`, or `fail`. `searchable` is false for failed conversion/quality and for known image-only or structurally unreliable content even when the original is preserved. `quality_codes` contains canonical machine-readable reasons such as `pdf_text_layer_too_sparse`, `pdf_comparison_structure_lost`, `image_content_unindexed`, or `stale_due_to_refresh_failure`.
+
 Current-rule history attachments such as `전문(JUN)`, `개정이유`, `개정문`, and `신구조문` are intentionally skipped. They either duplicate the main rule body or describe past revisions. Direct `별표 및 서식` downloads are collected as normal attachments because they frequently carry tables, formulas, and templates needed for RAG answers. Future amendment notice attachments are kept with the notice document.
 
 Attachment path fields are relative to the data root:
@@ -64,6 +102,16 @@ Attachment path fields are relative to the data root:
 - `error`: failure reason for failed downloads or conversions
 
 If conversion fails, the manifest keeps the original file path and failure reason but omits `text_path`.
+
+For Korean pages, `source_content_path` points to sanitized source HTML captured at collection time and `source_request_path` points to a JSON descriptor containing only the public endpoint and stable document identifiers needed to reproduce the request. Cookies, CSRF values, authorization headers, and other session secrets are never committed. Volatile response observations and refresh failures are stored outside the release under the sibling `.krx-rule-runs/` directory.
+
+All paths are data-root-relative, must remain inside the owning document bundle, and may not contain parent traversal or symlink escapes. Document and attachment IDs share one global namespace.
+
+Materialized image assets may occur on a document (`html_inline`) or attachment (`hwp_bindata`). Their IDs share the same global namespace as documents and attachments. A preserved asset requires a bundle-contained regular file, exact `raw_file_hash` and byte size, supported MIME signature, bounded positive dimensions, `preservation_status: preserved`, and explicit `searchable: false`. `source_anchor` is `html-img:<source_url>` or `hwp:BinData/<stream>`. Markdown refers to an asset by the opaque `krx-asset:<id>` identifier; filesystem paths remain metadata-only and are not a public serving URL.
+
+## Release Manifest
+
+`manifest.json` is the producer/consumer handoff. A release validation requires schema version 2, an entry for every on-disk document, exact frontmatter parity, `index_source_hash`, and `release_hash`. A consumer must validate the manifest before building or loading a production index; directory names and host filesystem paths are not public identifiers.
 
 ## HWP Formula Blocks
 
@@ -105,5 +153,9 @@ Converted attachment quality fields are optional but recommended:
 - `replacement_char_count`: Unicode replacement characters found in converted text
 
 `data/reports/data-quality.json` stores the full data-quality audit, including issue severity, document id, attachment id, filename, and message. This is intended to catch RAG-risky data issues such as empty conversion output, suspiciously short converted text, broken characters, or HWPX table/formula hints that did not survive conversion.
+
+## HWPX Support Level
+
+HWPX parsing is experimental because the checked-in corpus currently has no representative HWPX raw fixture. The reader enforces ZIP entry, decompressed-size, compression-ratio, and encrypted-entry limits and converts the structures it can verify. Source-order reconstruction and complex drawing/layout fidelity are not stable guarantees until real corpus fixtures and golden outputs are added.
 
 Search indexes are not generated by this project. Pass the generated `data/` directory to `krx-rule-mcp` and run `krx-rule-index` there when you need BM25 or vector snapshots.

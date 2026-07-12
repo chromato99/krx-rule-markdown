@@ -9,6 +9,7 @@ from .attachment_policy import is_excluded_current_rule_attachment, is_professio
 from .markdown import load_documents, write_document
 from .models import DOCUMENT_RULE
 from .quality import write_manifest
+from .repository import mutate_staged_corpus
 
 
 @dataclass
@@ -24,6 +25,16 @@ class DropResult:
 
 
 def clean_unreferenced_attachments(data_dir: Path, *, dry_run: bool = False) -> CleanResult:
+    if dry_run:
+        return _clean_unreferenced_attachments(data_dir, dry_run=True)
+    return mutate_staged_corpus(
+        data_dir,
+        "clean-attachments",
+        lambda staging: _clean_unreferenced_attachments(staging, dry_run=False),
+    )
+
+
+def _clean_unreferenced_attachments(data_dir: Path, *, dry_run: bool = False) -> CleanResult:
     data_dir = Path(data_dir)
     referenced = referenced_attachment_paths(data_dir)
     scanned = 0
@@ -50,6 +61,16 @@ def clean_unreferenced_attachments(data_dir: Path, *, dry_run: bool = False) -> 
 
 
 def clean_unreferenced_documents(data_dir: Path, *, dry_run: bool = False) -> CleanResult:
+    if dry_run:
+        return _clean_unreferenced_documents(data_dir, dry_run=True)
+    return mutate_staged_corpus(
+        data_dir,
+        "clean-documents",
+        lambda staging: _clean_unreferenced_documents(staging, dry_run=False),
+    )
+
+
+def _clean_unreferenced_documents(data_dir: Path, *, dry_run: bool = False) -> CleanResult:
     data_dir = Path(data_dir)
     referenced = manifest_document_paths(data_dir)
     duplicate_paths = duplicate_document_paths(data_dir)
@@ -84,6 +105,16 @@ def ensure_manifest_not_truncated(data_dir: Path, scanned: int, referenced: set[
 
 
 def drop_professional_attachments(data_dir: Path, *, dry_run: bool = False) -> DropResult:
+    if dry_run:
+        return _drop_professional_attachments(data_dir, dry_run=True)
+    return mutate_staged_corpus(
+        data_dir,
+        "clean-professional",
+        lambda staging: _drop_professional_attachments(staging, dry_run=False),
+    )
+
+
+def _drop_professional_attachments(data_dir: Path, *, dry_run: bool = False) -> DropResult:
     data_dir = Path(data_dir)
     docs = load_documents(data_dir)
     removed = 0
@@ -106,6 +137,16 @@ def drop_professional_attachments(data_dir: Path, *, dry_run: bool = False) -> D
 
 
 def drop_past_rule_attachments(data_dir: Path, *, dry_run: bool = False) -> DropResult:
+    if dry_run:
+        return _drop_past_rule_attachments(data_dir, dry_run=True)
+    return mutate_staged_corpus(
+        data_dir,
+        "clean-past-rule",
+        lambda staging: _drop_past_rule_attachments(staging, dry_run=False),
+    )
+
+
+def _drop_past_rule_attachments(data_dir: Path, *, dry_run: bool = False) -> DropResult:
     data_dir = Path(data_dir)
     docs = load_documents(data_dir)
     removed = 0
@@ -141,6 +182,12 @@ def referenced_attachment_paths(data_dir: Path) -> set[str]:
                 paths.add(normalize_relative(att.raw_path))
             if att.text_path:
                 paths.add(normalize_relative(att.text_path))
+            for asset in att.assets:
+                if asset.path:
+                    paths.add(normalize_relative(asset.path))
+        for asset in doc.assets:
+            if asset.path:
+                paths.add(normalize_relative(asset.path))
     return paths
 
 
@@ -156,6 +203,7 @@ def attachment_roots(data_dir: Path) -> list[Path]:
                     continue
                 roots.append(bundle / "raw")
                 roots.append(bundle / "attachments")
+                roots.append(bundle / "assets")
     return roots
 
 

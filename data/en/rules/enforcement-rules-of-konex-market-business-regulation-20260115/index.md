@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210224651-en"
 title: "Enforcement Rules of KONEX Market Business Regulation 20260115"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:05:49.859098Z"
+collected_at: "2026-07-12T07:53:36.610834Z"
 content_hash: "64a35ac765c7919edb3650f6be01821fc21bdd2f6016afd64d01b7d58024f2d9"
+body_hash: "923fe0072906accd8b227ad22a47a255ba688337fe151daf9bc031e83db19f83"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 코넥스시장규정"
 effective_date: "2026-07-02"
 published_date: "2026-07-01"
@@ -14,6 +18,10 @@ file_name: "Enforcement_Rules_of_KONEX_Market_Business_Regulation_20260115.pdf"
 raw_path: "en/rules/enforcement-rules-of-konex-market-business-regulation-20260115/raw/english-full-text.pdf"
 text_path: "en/rules/enforcement-rules-of-konex-market-business-regulation-20260115/attachments/english-full-text.md"
 file_content_hash: "249b12c2cdffe6b9dec5017385faf70bd8af6961ce934f6bd841bea11c744084"
+raw_file_hash: "249b12c2cdffe6b9dec5017385faf70bd8af6961ce934f6bd841bea11c744084"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Enforcement Rules of

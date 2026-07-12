@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210217736-en"
 title: "Guidelines for Operation of Member Margin Cash 20250227"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:08:50.921409Z"
+collected_at: "2026-07-12T07:56:31.404251Z"
 content_hash: "a0288096fe92e7b8484aef3b4efcbe670d22dabcb4a34e3ebf97b363a6d38950"
+body_hash: "1b810cbcd9c5886ffa60e5e1e86bfcf8949c9186075f879edecbc2fe189a08d0"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 공통규정"
 effective_date: "2026-06-17"
 published_date: "2026-06-16"
@@ -14,6 +18,10 @@ file_name: "Guidelines_for_Operation_of_Member_Margin_Cash_20250227.pdf"
 raw_path: "en/rules/guidelines-for-operation-of-member-margin-cash-20250227/raw/english-full-text.pdf"
 text_path: "en/rules/guidelines-for-operation-of-member-margin-cash-20250227/attachments/english-full-text.md"
 file_content_hash: "97d705bb1d3b4d4190d0117da9957517123b8bd8ea354e0cdbd8fcf5c8a770ef"
+raw_file_hash: "97d705bb1d3b4d4190d0117da9957517123b8bd8ea354e0cdbd8fcf5c8a770ef"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Guidelines for Operation of Member Margin Cash

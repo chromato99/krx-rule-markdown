@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210210269-en"
 title: "Guidelines for Management of Margins in Sec and DerMarkets"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:09:39.872764Z"
+collected_at: "2026-07-12T07:57:21.709151Z"
 content_hash: "d0b115684937b2e0913717633ec4f95be7afb0c75b38c903e648681488012612"
+body_hash: "c9fd8910b891c9ad3ff61535918af94376dd01f4de551306ecf0c800fe275b97"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 공통규정"
 effective_date: "2026-05-26"
 published_date: "2026-05-19"
@@ -14,6 +18,10 @@ file_name: "20260519_Guidelines_for_Management_of_Margins_in_Sec_and_DerMarkets.
 raw_path: "en/rules/guidelines-for-management-of-margins-in-sec-and-dermarkets/raw/english-full-text.pdf"
 text_path: "en/rules/guidelines-for-management-of-margins-in-sec-and-dermarkets/attachments/english-full-text.md"
 file_content_hash: "e5c138f658f5fcf43a720dd1f07c275b60f03442885e86b78a6c684c5a0c750e"
+raw_file_hash: "e5c138f658f5fcf43a720dd1f07c275b60f03442885e86b78a6c684c5a0c750e"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Guidelines for Management of Margins

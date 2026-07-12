@@ -1,25 +1,45 @@
 ---
+schema_version: 2
 id: "210215757"
 title: "장외파생상품 청산업무규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:08:52.333476Z"
-content_hash: "ff48dca16b2cd984b100249c8474211f70785a92149a4455f197e23ccc668756"
+collected_at: "2026-07-12T07:56:32.978731Z"
+content_hash: "ed926501228fa1b170729830d9ab54c87c231e9ed8a0a2974a249770111a413d"
+body_hash: "ea4041a11403f5f3a2ddb95700b79cfaf3dc152c0bdd248afae031561433e12d"
 document_type: "rule"
 language: "ko"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 장외파생상품청산업무규정"
 effective_date: "2026-06-01"
 published_date: "2026-05-28"
+source_content_hash: "5c49e57d8a0b46dc21e1a180bb6f708886329f5b90789cd0c943fb189c754556"
+source_content_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/source.html"
+source_request_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/request.json"
+converter_version: "2"
+asset_inspection_version: "1"
+preservation_status: "preserved"
+quality_status: "warn"
+quality_codes: ["image_content_unindexed"]
+assets: [{"id":"asset-210215757-html-https-rule-krx-co-kr-datafile-law-img-202409260000022520000225002-gif","source_kind":"html_inline","source_anchor":"html-img:https://rule.krx.co.kr/dataFile/law/img/202409260000022520000225002.gif","path":"ko/rules/장외파생상품-청산업무규정-시행세칙/assets/inline/202409260000022520000225002.gif","mime_type":"image/gif","raw_file_hash":"3222d95c59d8b10831950c25419d18725d33b79789a8ec5678350614a4dd4399","size":5082,"width":603,"height":258,"preservation_status":"preserved","searchable":false,"source_url":"https://rule.krx.co.kr/dataFile/law/img/202409260000022520000225002.gif","quality_codes":["image_content_unindexed"]}]
 attachments:
   - id: "210215757-210136278-hwp"
     title: "[별표 1] 장외파생공동기금총적립액 산출방법<개정 2017.3.17, 2017.12.18, 2021.6.3, 2024.9.26,2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_장외파생공동기금총적립액산출방법.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210136278.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별표-1-장외파생공동기금총적립액-산출방법개정-2017-3-17-2017-12-18-2021-6-3-2024-9-262025-10-23.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별표-1-장외파생공동기금총적립액-산출방법개정-2017-3-17-2017-12-18-2021-6-3-2024-9-262025-10-23.md"
     content_hash: "034c278bed442b35ee8df23f20eb21ac60cdae2808e6e44b488fb8cf0c8588dd"
+    raw_file_hash: "034c278bed442b35ee8df23f20eb21ac60cdae2808e6e44b488fb8cf0c8588dd"
+    converted_text_hash: "7b39de575fd34cb63513f4c6863d2fb8b2cdecba6a78a314d13066cee4ae8b47"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 53248
     quality_status: "ok"
     quality_score: 100
@@ -32,12 +52,19 @@ attachments:
     title: "[별표 1의2] 정산금리의 산출<개정 2017.3.17, 2017.12.18, 2019.9.20, 2023.06.26, 2023.09.26,2025. 10. 23.,2026. 5. 28.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_정산금리의산출.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210215841.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별표-1의2-정산금리의-산출개정-2017-3-17-2017-12-18-2019-9-20-2023-06-26-2023-09-262025-10-23-2026-5-28.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별표-1의2-정산금리의-산출개정-2017-3-17-2017-12-18-2019-9-20-2023-06-26-2023-09-262025-10-23-2026-5-28.md"
     content_hash: "f784db3d0d49b7271af3a04d0442cc18b9de0e391c32a864273ef947b81880fb"
+    raw_file_hash: "f784db3d0d49b7271af3a04d0442cc18b9de0e391c32a864273ef947b81880fb"
+    converted_text_hash: "2b82d45d4a3efe8def337604b1876157881ebb5798ef9943fe85f152e44f9806"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 109056
     quality_status: "ok"
     quality_score: 100
@@ -48,12 +75,19 @@ attachments:
     title: "[별표 2] 순현재가치의 평가<개정 2016.12.16, 2021.1.22, 2023.06.26,2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_순현재가치의평가.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210136622.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별표-2-순현재가치의-평가개정-2016-12-16-2021-1-22-2023-06-262025-10-23.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별표-2-순현재가치의-평가개정-2016-12-16-2021-1-22-2023-06-262025-10-23.md"
     content_hash: "5b610ef53d70aadcfde54571141d984dc13abede7144f2d64c8dff385006de5d"
+    raw_file_hash: "5b610ef53d70aadcfde54571141d984dc13abede7144f2d64c8dff385006de5d"
+    converted_text_hash: "769f1f97a770eaee9f9a4f434b2d806a1fac4fb3ed94f1c3ce0f3867fa50aa0b"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 82944
     quality_status: "ok"
     quality_score: 100
@@ -66,12 +100,19 @@ attachments:
     title: "[별표 4] 유동성위험증거금률 및 총가치변동증거금률<개정 2016.12.16,2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_유동성위험증거금률및총가치변동증거금률.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210136686.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별표-4-유동성위험증거금률-및-총가치변동증거금률개정-2016-12-162025-10-23.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별표-4-유동성위험증거금률-및-총가치변동증거금률개정-2016-12-162025-10-23.md"
     content_hash: "f643d6afc62f6ca96565d5ebf9bd9cb1f88dc1bb6bd98c211fb70e237031bbf1"
+    raw_file_hash: "f643d6afc62f6ca96565d5ebf9bd9cb1f88dc1bb6bd98c211fb70e237031bbf1"
+    converted_text_hash: "857d8b1bb7c2c3f4d5e19125345bbb72da3dd95cc14d638d7ea745b789c0589a"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 55808
     quality_status: "ok"
     quality_score: 100
@@ -84,12 +125,19 @@ attachments:
     title: "[별표5] 순위험청산증거금의 산출<개정 2016.12.16, 2023.06.26, 2024.9.26,2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_순위험청산증거금의산출.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210136751.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별표5-순위험청산증거금의-산출개정-2016-12-16-2023-06-26-2024-9-262025-10-23.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별표5-순위험청산증거금의-산출개정-2016-12-16-2023-06-26-2024-9-262025-10-23.md"
     content_hash: "5a95470357dd88c39d3fec40f727e0621152e9c9ab03cd0dcb09fe2d3a3981a1"
+    raw_file_hash: "5a95470357dd88c39d3fec40f727e0621152e9c9ab03cd0dcb09fe2d3a3981a1"
+    converted_text_hash: "28ac4c7a7383d4be36b5d67fcf01897a063bc78b71a8a812d144c4cf0d0fe3d4"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 48128
     quality_status: "ok"
     quality_score: 100
@@ -102,12 +150,19 @@ attachments:
     title: "[별표6] 유동성위험증거금의 산출<개정 2016.12.16>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_유동성위험증거금의산출.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202409260000022520000225007_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별표6-유동성위험증거금의-산출개정-2016-12-16.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별표6-유동성위험증거금의-산출개정-2016-12-16.md"
     content_hash: "92ef4009d66a169a9c4d66946d1663fb26b8b7e91ed6dddc3b5e310ba7f83666"
+    raw_file_hash: "92ef4009d66a169a9c4d66946d1663fb26b8b7e91ed6dddc3b5e310ba7f83666"
+    converted_text_hash: "26a66f6b1883833dfa333e7428e61180d6e53be4b5c4ae7064f253ea3fefec1a"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 13312
     quality_status: "ok"
     quality_score: 100
@@ -119,12 +174,19 @@ attachments:
     title: "[별표7] 총가치변동증거금액의 산출<개정 2016.12.16, 2022.6.7, 2023.7.14,2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_총가치변동증거금액의산출.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210136777.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별표7-총가치변동증거금액의-산출개정-2016-12-16-2022-6-7-2023-7-142025-10-23.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별표7-총가치변동증거금액의-산출개정-2016-12-16-2022-6-7-2023-7-142025-10-23.md"
     content_hash: "80dde5b4ebedaec3cb06722d34dbe20df59ae9ba8be2e1a2c0117b2f2f785de3"
+    raw_file_hash: "80dde5b4ebedaec3cb06722d34dbe20df59ae9ba8be2e1a2c0117b2f2f785de3"
+    converted_text_hash: "924043f13a32338b4e273066768c32d98b2dabea35f5e16caa8f2db8de3761a7"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 50688
     quality_status: "ok"
     quality_score: 100
@@ -137,12 +199,19 @@ attachments:
     title: "[별표8] 변동금리 산출 중단 시 비상계획<신설 2023.09.26,개정 2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_기준CD금리산출중단시비상계획.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210136795.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별표8-변동금리-산출-중단-시-비상계획신설-2023-09-26개정-2025-10-23.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별표8-변동금리-산출-중단-시-비상계획신설-2023-09-26개정-2025-10-23.md"
     content_hash: "fbfee25a24ccccc5afe29b6621e844ed5539bcc4a465a3d1ed8009c83d758117"
+    raw_file_hash: "fbfee25a24ccccc5afe29b6621e844ed5539bcc4a465a3d1ed8009c83d758117"
+    converted_text_hash: "0412491d3e629599707bad78b5abd0cce3939bcf2978ab936ef915ff32cda9d5"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 44032
     quality_status: "ok"
     quality_score: 100
@@ -152,12 +221,19 @@ attachments:
     title: "[별지 제1호 서식] 청산회원 가입신청서<개정 2025. 10. 23.>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_청산회원가입신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210136786.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별지-제1호-서식-청산회원-가입신청서개정-2025-10-23.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별지-제1호-서식-청산회원-가입신청서개정-2025-10-23.md"
     content_hash: "0eae19afd85dac55f9fa0cda57d65a3fd7288713ba89efe63e12639169f48bdf"
+    raw_file_hash: "0eae19afd85dac55f9fa0cda57d65a3fd7288713ba89efe63e12639169f48bdf"
+    converted_text_hash: "1b06709d65d6832278afe83885064f4345ced2e4532361bae8a293c07f6eab03"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 43520
     quality_status: "ok"
     quality_score: 100
@@ -168,12 +244,19 @@ attachments:
     title: "[별지 제1호의2 서식] 외국 금융투자업자등의 청산참가확인서<신설 2016.12.16>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_외국금융투자업자등의청산참가확인서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202409260000022520000225011_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별지-제1호의2-서식-외국-금융투자업자등의-청산참가확인서신설-2016-12-16.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별지-제1호의2-서식-외국-금융투자업자등의-청산참가확인서신설-2016-12-16.md"
     content_hash: "7c6f177f74abecc7a47dd75f6981d0238389d270c138bc15f26c50a38b41c0ca"
+    raw_file_hash: "7c6f177f74abecc7a47dd75f6981d0238389d270c138bc15f26c50a38b41c0ca"
+    converted_text_hash: "3d9c34d259a844badb815a0db9b783340ad2b5360f1063476521cf0661c4d981"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 17408
     quality_status: "ok"
     quality_score: 100
@@ -185,12 +268,19 @@ attachments:
     title: "[별지 제2호 서식] 채무이행보증서"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_채무이행보증서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202409260000022520000225012_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별지-제2호-서식-채무이행보증서.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별지-제2호-서식-채무이행보증서.md"
     content_hash: "3bad64c434065f14a872f66114cfaf69dd814edaeeca699fa5471523b3d025fb"
+    raw_file_hash: "3bad64c434065f14a872f66114cfaf69dd814edaeeca699fa5471523b3d025fb"
+    converted_text_hash: "814f56766bf39d7ce13da1ffde44ee7c0e5f52ebb29df1fa428ce7abf6222901"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 15872
     quality_status: "ok"
     quality_score: 100
@@ -201,12 +291,19 @@ attachments:
     title: "[별지 제3호 서식] 채무이행확약서"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_채무이행확약서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202409260000022520000225013_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별지-제3호-서식-채무이행확약서.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별지-제3호-서식-채무이행확약서.md"
     content_hash: "92ae7a2bd40dfab08b73fb648586b6a39746a771dbe8b6be25f3786e098d4d28"
+    raw_file_hash: "92ae7a2bd40dfab08b73fb648586b6a39746a771dbe8b6be25f3786e098d4d28"
+    converted_text_hash: "db933f6ff3d3f1bcf7da7915067a7a244f1bddc48de3b5419447e74931bf3636"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 15872
     quality_status: "ok"
     quality_score: 100
@@ -217,12 +314,19 @@ attachments:
     title: "[별지 제4호 서식] 청산회원 탈퇴신청서"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_청산회원탈퇴신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202409260000022520000225014_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별지-제4호-서식-청산회원-탈퇴신청서.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별지-제4호-서식-청산회원-탈퇴신청서.md"
     content_hash: "b169f5b249273b459a52db39ebfe9917ca2e444ffe8b7cf6b2bfcbebeaca8778"
+    raw_file_hash: "b169f5b249273b459a52db39ebfe9917ca2e444ffe8b7cf6b2bfcbebeaca8778"
+    converted_text_hash: "5ae6c8af6a649d0f4cd8572e4b96ad87e6c9c2c090c44814dca31cc8d67dae47"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 14336
     quality_status: "ok"
     quality_score: 100
@@ -233,12 +337,19 @@ attachments:
     title: "[별지 제5호 서식] 청산회원 전환신청서"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_청산회원전환신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202409260000022520000225015_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별지-제5호-서식-청산회원-전환신청서.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별지-제5호-서식-청산회원-전환신청서.md"
     content_hash: "c8418e3ae09c886d3e743558768412e6fe125719a1350c54ea74a7c3e37dcc0a"
+    raw_file_hash: "c8418e3ae09c886d3e743558768412e6fe125719a1350c54ea74a7c3e37dcc0a"
+    converted_text_hash: "5d6d987b3bc5344e687508b8f5d75821a6ac7340215ff346ee78510c0a509fec"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 15360
     quality_status: "ok"
     quality_score: 100
@@ -249,12 +360,19 @@ attachments:
     title: "[별지 제6호 서식] 청산계좌개설신청서<개정 2016.12.16>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_청산계좌개설신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202409260000022520000225016_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별지-제6호-서식-청산계좌개설신청서개정-2016-12-16.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별지-제6호-서식-청산계좌개설신청서개정-2016-12-16.md"
     content_hash: "d84e43561729cebc77e10fae66830e8d0bbcbe3c9a5643b75af8f43b21e4a897"
+    raw_file_hash: "d84e43561729cebc77e10fae66830e8d0bbcbe3c9a5643b75af8f43b21e4a897"
+    converted_text_hash: "83fa5886c51ca206d261f29c9b2e2577d30b06bb5fe7afbef7081a62492af294"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 17408
     quality_status: "ok"
     quality_score: 100
@@ -265,12 +383,19 @@ attachments:
     title: "[별지 제7호 서식] 서약서"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_서약서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202409260000022520000225017_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별지-제7호-서식-서약서.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별지-제7호-서식-서약서.md"
     content_hash: "6332584cd39021d17f2e1261102604b2d1c0e2e3586575d95ea1e95ea980b0e3"
+    raw_file_hash: "6332584cd39021d17f2e1261102604b2d1c0e2e3586575d95ea1e95ea980b0e3"
+    converted_text_hash: "e7c17971933cdd6620732eee17d611a574d4493b22c03a4ab36d68c7aa193514"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 15360
     quality_status: "ok"
     quality_score: 100
@@ -281,12 +406,19 @@ attachments:
     title: "[별지 제8호 서식] 차감결제현금 지급신청서<개정 2016.12.16>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_차감결제현금지급신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202409260000022520000225018_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별지-제8호-서식-차감결제현금-지급신청서개정-2016-12-16.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별지-제8호-서식-차감결제현금-지급신청서개정-2016-12-16.md"
     content_hash: "7df0a7dfd8f7457c704ed84499f05a125de482c16044ad881b85b2c503da80e6"
+    raw_file_hash: "7df0a7dfd8f7457c704ed84499f05a125de482c16044ad881b85b2c503da80e6"
+    converted_text_hash: "74de0e09a4aae26a981d8958452718986eda88efc469f473e6360b6a2154d86b"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 15360
     quality_status: "ok"
     quality_score: 100
@@ -297,12 +429,19 @@ attachments:
     title: "[별지 제9호 서식] 청산증거금 현금 예탁신고(인출청구)서<개정 2016.12.16>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_청산증거금현금예탁신고(인출청구)서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202409260000022520000225019_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별지-제9호-서식-청산증거금-현금-예탁신고인출청구서개정-2016-12-16.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별지-제9호-서식-청산증거금-현금-예탁신고인출청구서개정-2016-12-16.md"
     content_hash: "801afb17c30444540ed38174eba36e5b40b9ddeadece54aa81ff83914d282223"
+    raw_file_hash: "801afb17c30444540ed38174eba36e5b40b9ddeadece54aa81ff83914d282223"
+    converted_text_hash: "0b7617ca96c5b5328e93f0b1e1e00f861a448ea35910a55dae8eacedc6f6dd16"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 15872
     quality_status: "ok"
     quality_score: 100
@@ -313,12 +452,19 @@ attachments:
     title: "[별지 제11호 서식] 청산증거금 대용증권 예탁신고(인출청구)서<개정 2016.12.16>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_청산증거금대용증권예탁신고(인출청구)서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202409260000022520000225021_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별지-제11호-서식-청산증거금-대용증권-예탁신고인출청구서개정-2016-12-16.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별지-제11호-서식-청산증거금-대용증권-예탁신고인출청구서개정-2016-12-16.md"
     content_hash: "115a26759028a5cd2ea7bfe348347748dec85dd01a3762e2832b090c37e65aa4"
+    raw_file_hash: "115a26759028a5cd2ea7bfe348347748dec85dd01a3762e2832b090c37e65aa4"
+    converted_text_hash: "8d8b0101d296cc71309384c1994b0fd203b4cf2839ab6b2dd1d6475e07f8c98e"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 17920
     quality_status: "ok"
     quality_score: 100
@@ -329,12 +475,19 @@ attachments:
     title: "[별지 제12호 서식] 청산증거금 외화증권 예탁신고(인출청구)서<개정 2016.12.16>"
     file_name: "장외파생상품 청산업무규정 시행세칙_26차_청산증거금외화증권예탁신고(인출청구)서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202409260000022520000225022_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/raw/별지-제12호-서식-청산증거금-외화증권-예탁신고인출청구서개정-2016-12-16.hwp"
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별지-제12호-서식-청산증거금-외화증권-예탁신고인출청구서개정-2016-12-16.md"
     content_hash: "bb9a2241b2f0c77500945d8d10a175f2140dea02a1636d5fa029e360cbc396c5"
+    raw_file_hash: "bb9a2241b2f0c77500945d8d10a175f2140dea02a1636d5fa029e360cbc396c5"
+    converted_text_hash: "379eb57d6ac4247d8af12966b8317b71a2ea4f3764747d27d6be9e24cee0f60f"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 16384
     quality_status: "ok"
     quality_score: 100
@@ -383,12 +536,12 @@ attachments:
 
 다. Actual/Actual: 이자계산기간의 실제 일수를 365일 또는 366일(윤년의 경우에 한한다)로 나누는 방식<개정 2025. 10. 23.>
 
-라. 30/360: 다음 계산식에 따라 산출한 일수를 360으로 나누는 방식
+ 라. 30/360: 다음 계산식에 따라 산출한 일수를 360으로 나누는 방식
 
-| 일수 = {360 × (Y₂ - Y₁)} + {30 × (M₂ - M₁)} + (D₂ - D₁) Y₁: 이자계산기간 시작일이 속하는 년도의 숫자 Y₂: 이자계산기간 종료일 직후의 날이 속하는 년도의 숫자 M₁: 이자계산기간 시작일이 속하는 달의 숫자 M₂: 이자계산기간 종료일 직후의 날이 속하는 달의 숫자 D₁: 이자계산기간 시작일의 숫자. 다만, 그 날의 숫자가 31인 경우에는 30으로 한다. D₂: 이자계산기간 종료일 직후의 날의 숫자. 다만, 그 날의 숫자가 31이고 이자계산기간 시작일의 숫자가 29 보다 큰 경우에는 30으로 한다. |
+| 일수 = {360 × (Y₂ - Y₁)} + {30 × (M₂ - M₁)} + (D₂ - D₁)Y₁: 이자계산기간 시작일이 속하는 년도의 숫자Y₂: 이자계산기간 종료일 직후의 날이 속하는 년도의 숫자M₁: 이자계산기간 시작일이 속하는 달의 숫자M₂: 이자계산기간 종료일 직후의 날이 속하는 달의 숫자D₁: 이자계산기간 시작일의 숫자. 다만, 그 날의 숫자가 31인 경우에는 30으로 한다.D₂: 이자계산기간 종료일 직후의 날의 숫자. 다만, 그 날의 숫자가 31이고 이자계산기간 시작일의 숫자가 29 보다 큰 경우에는 30으로 한다. |
 | --- |
 
-<개정 2025. 10. 23.>
+ <개정 2025. 10. 23.>
 
 8. “영업일규칙”이란 이자계산기간 종료일 또는 계약만기일이 휴업일인 경우에 ISDA정의에 따라 해당 이자계산기간 종료일 또는 계약만기일을 다시 지정하는 규칙을 말하며, 다음 각 목과 같이 구분한다.<개정 2025. 10. 23.>
 
@@ -398,7 +551,7 @@ attachments:
 
 다. Modified Following: 이자계산기간 종료일 또는 계약만기일이 휴업일인 경우에는 그 직후 영업일을 이자계산기간 종료일 또는 계약만기일로 하되 그 직후 영업일이 다음 월로 이월되는 경우에는 그 직전 영업일을 이자계산기간 종료일 또는 계약만기일로 하는 방법<개정 2025. 10. 23.>
 
-제2장 청산대상거래
+ 제2장 청산대상거래
 
 **제2조의2(외화이자율스왑거래 계약금액의 표시통화)**규정 제5조제1항제2호에서 “세칙으로 정하는 외화”란 미국 달러화(이하 “달러”라 한다)를 말한다.
 
@@ -510,9 +663,9 @@ attachments:
 
 [본조신설 2025. 10. 23.]
 
-제3장 청산회원
+ 제3장 청산회원
 
-제1절 청산회원의 가입
+ 제1절 청산회원의 가입
 
 **제3조의3(외국 금융투자업자등의 청산참가확인서)**규정 제7조의2제4항에 따른 외국 금융투자업자등의 청산참가확인서는 별지 제1호의2 서식으로 한다.
 
@@ -562,7 +715,7 @@ attachments:
 
 2. 채무이행보증서 또는 채무이행확약서를 제출하는 자가 자기청산회원이 되고자 하는 자의 모회사, 최대주주 또는 본사임을 확인하는 서류
 
-제2절 청산회원의 탈퇴
+ 제2절 청산회원의 탈퇴
 
 **제9조(청산회원 탈퇴신청서)**규정 제14조제1항의 “세칙이 정하는 서식”은 별지 제4호의 서식을 말한다.
 
@@ -580,21 +733,21 @@ attachments:
 
 2. 청산약정거래의 전부를 해소한 날 현재 당연탈퇴청산회원이 적립한 제90조제1항의 손실분담지급준비금 잔액
 
-제3절 청산회원 종류의 전환
+ 제3절 청산회원 종류의 전환
 
 **제12조(청산회원 전환신청서)**규정 제22조제1항의 “세칙이 정하는 서식”은 별지 제5호의 서식을 말한다.
 
-제4절 청산회원의 의무
+ 제4절 청산회원의 의무
 
 **제13조(장외파생공동기금총적립액의 산출 및 조정<개정 2018. 7. 16.>)**① 규정 제26조제2항에서 “세칙이 정하는 자”란 그 청산회원의 청산위탁자 및 「주식회사 등의 외부감사에 관한 법률」 제21조제1항의 관계회사로서 청산회원과 그 청산위탁자인 자를 말한다.<개정 2019. 9. 20.>
 
 ② 규정 제26조제2항에서 “세칙이 정하는 방법”이란 별표 1에서 정하는 방법을 말한다.<개정 2018. 12. 5.>
 
-③ 규정 제26조제2항에서 “세칙이 정하는 날”이란 다음의 산식에 따라 현재 장외파생공동기금총적립액이 적정한지 점검하기 위하여 매일 산출하는 금액(이하 “장외파생공동기금총적립추산액”이라 한다)이 현재 장외파생공동기금총적립액에 임계치(Threshold)를 곱한 금액 보다 큰 날을 말한다.
+ ③ 규정 제26조제2항에서 “세칙이 정하는 날”이란 다음의 산식에 따라 현재 장외파생공동기금총적립액이 적정한지 점검하기 위하여 매일 산출하는 금액(이하 “장외파생공동기금총적립추산액”이라 한다)이 현재 장외파생공동기금총적립액에 임계치(Threshold)를 곱한 금액 보다 큰 날을 말한다.
 
-[이미지: https://rule.krx.co.kr/dataFile/law/img/202409260000022520000225002.gif]
+![KRX 규정 이미지](krx-asset:asset-210215757-html-https-rule-krx-co-kr-datafile-law-img-202409260000022520000225002-gif)
 
-<개정 2018. 12. 5.>
+ <개정 2018. 12. 5.>
 
 ④ 규정 제26조제2항에서 “세칙으로 정하는 경우”란 청산회원의 가입·탈퇴 등을 말한다.
 
@@ -680,7 +833,7 @@ attachments:
 
 ③ 청산회원이 제1항 및 제2항 규정에 의한 보고서를 금융감독원이 운영하는 금융정보교환망(FINES : Financial INformation Exchange System)을 통하여 금융감독원에 제출하고 거래소가 이를 이용할 수 있는 경우에는 당해 청산회원은 해당 보고서를 거래소에 제출한 것으로 본다.
 
-제5절 청산회원에 대한 조치
+ 제5절 청산회원에 대한 조치
 
 **제19조(재무요건 개선계획서)**규정 제42조제6항에 따라 거래소로부터 청산회원조치 사유 발생을 통보받은 청산회원이 제출하는 재무요건 개선계획서에는 다음 각 호의 사항이 포함되어야 한다.
 
@@ -708,9 +861,9 @@ attachments:
 
 ③ 규정 제40조제4항은 약식제재금 부과를 받은 청산회원이 납부기한 내에 이를 이행하지 아니한 경우에 준용한다.
 
-제4장 채무부담 등
+ 제4장 채무부담 등
 
-제1절 청산계좌 등의 설정
+ 제1절 청산계좌 등의 설정
 
 **제22조(청산계좌의 설정방법 등)**① 규정 제45조제5항에 따라 청산계좌는 청산회원이 거래소가 정하는 계좌설정에 필요한 사항을 회원장외파생상품청산단말기에 입력하거나 별지 제6호 서식에 따른 청산계좌개설신청서를 거래소에 제출하고 거래소가 계좌설정 신청내용에 따라 청산계좌를 거래소장외파생상품청산시스템에 등록하는 방법으로 설정한다.<개정 2016. 12. 16.>
 
@@ -728,7 +881,7 @@ attachments:
 
 **제23조(청산고객계좌의 설정방법)**청산회원은 규정 제46조제3항에 따라 청산고객계좌의 번호를 제22조제2항제3호의 청산계좌별 고유번호와 동일한 번호로 할 수 있다.
 
-제2절 채무부담
+ 제2절 채무부담
 
 **제24조(거래확인시스템)**① 규정 제47조제4항에서 “세칙이 정하는 거래확인시스템”이란 다음 각 호의 어느 하나를 말한다.
 
@@ -832,7 +985,7 @@ attachments:
 
 [본조신설 2021. 9. 30.]
 
-제5장 청산의 수탁
+ 제5장 청산의 수탁
 
 **제28조(서약서)**규정 제54조제3항의 “세칙이 정하는 서식”은 별지 제7호의 서식을 말한다.
 
@@ -906,9 +1059,9 @@ attachments:
 
 ④ 사무대행계약을 해지하고자 하는 경우 30영업일 이전에 상대방에 대하여 해지의 의사를 표시하여야 한다. 다만, 규정 제103조제1항에 따른 사무대행계약의 경우에는 그러하지 아니하다.<개정 2022. 12. 5.>
 
-제6장 청산약정거래의 결제
+ 제6장 청산약정거래의 결제
 
-제1절 거래소와 청산회원 간 결제
+ 제1절 거래소와 청산회원 간 결제
 
 **제33조(금리기준만기)**규정 제64조제2항에서 “세칙이 정하는 만기”란 다음 각 호의 구분에 따른 만기(이하 “금리기준만기”라 한다)을 말한다.<개정 2016. 8. 9., 2016. 12. 16., 2017. 12. 18., 2023. 6. 26.>
 
@@ -980,7 +1133,7 @@ attachments:
 
 [본조신설 2025. 10. 23.]
 
-제2절 차감결제 및 결제시한
+ 제2절 차감결제 및 결제시한
 
 **제40조(차감결제현금 등의 산출방법)**규정 제66조제5항에 따라 거래소가 청산회원과 수수하는 차감결제현금은 규정 제45조의 청산계좌마다 결제통화 및 변동금리를 구분하여 청산약정거래별 차감결제현금을 산출한 후에 결제통화별로 합산하는 방법으로 산출한다.<개정 2016. 12. 16.,2025. 10. 23.>
 
@@ -1014,7 +1167,7 @@ attachments:
 
 ④ 규정 제71조제3항에 따라 결제은행의 선정, 관리 및 조치에 관하여 필요한 사항은 거래소가 별도로 정하는 바에 따른다.
 
-제3절 결제위험의 파악·관리 및 유동성공급
+ 제3절 결제위험의 파악·관리 및 유동성공급
 
 **제44조(청산회원의 결제가능여부 통지 등)**규정 제72조제3항에 따라 거래소는 결제가 곤란하다고 예상되는 청산회원에 대하여 다음 각 호에 관한 사항의 통지를 요구할 수 있다.
 
@@ -1076,13 +1229,13 @@ attachments:
 
 2. 납부기간의 마지막 날의 다음날부터 기산하여 30영업일 후에 납부하는 경우 : 10,000분의 8
 
-제4절 청산회원과 청산위탁자 간 결제
+ 제4절 청산회원과 청산위탁자 간 결제
 
 **제48조(위탁자차감결제현금의 지급신청한도)**규정 제78조제3항 및 제79조제4항의 “세칙이 정하는 금액”이란 규정 제90조제1항의 예탁현금을 말한다.<개정 2016. 12. 16.>
 
-제7장 증거금
+ 제7장 증거금
 
-제1절 청산증거금의 예탁
+ 제1절 청산증거금의 예탁
 
 **제49조(순위험청산증거금산출기준시점)**규정 제81조제1항에서 “세칙이 정하는 시점”이란 17시를 말한다. 다만, 당일 중 규정 제100조 또는 제100조의2에 따라 청산약정거래를 이관하는 경우 해당 이관과 관련된 청산회원에 대하여는 17시 20분으로 한다.
 
@@ -1170,7 +1323,7 @@ attachments:
 
 [전문개정 2015. 10. 23.]
 
-제2절 청산증거금의 예탁·인출 및 관리·운용 방법
+ 제2절 청산증거금의 예탁·인출 및 관리·운용 방법
 
 **제55조(대용증권 등의 예탁한도)**① 규정 제83조제2항에서 “세칙이 정하는 한도”란 청산증거금 전액으로 한다.
 
@@ -1210,7 +1363,7 @@ attachments:
 
 ⑤ 제1항부터 제4항까지 외에 청산증거금으로 예탁받은 현금 또는 외화를 운용하는데 필요한 사항은 거래소가 따로 정한다.<신설 2025. 3. 26.>
 
-제3절 청산위탁증거금의 예탁
+ 제3절 청산위탁증거금의 예탁
 
 **제59조(순위험청산위탁증거금액)**① 규정 제87조제5항에 따라 청산수탁계좌별 순위험청산위탁증거금액은 다음 각 호의 금액 중 일반청산회원이 정하는 금액으로 한다. 다만, 규정 제63조에 따라 사무대행계약을 체결한 경우에는 제1호의 금액으로 한다.<개정 2015. 10. 23., 2016. 8. 9., 2016. 12. 16.>
 
@@ -1248,7 +1401,7 @@ attachments:
 
 ⑤ 청산위탁자가 규정 제88조제1항에 따라 일중청산위탁증거금을 예탁하여야 하는 경우 채무부담등록위탁증거금은 제1항에 따라 산출하되, “청산위험위탁증거금액”은 “일중청산위탁증거금액”으로 본다.<개정 2015. 10. 23.>
 
-제4절 청산위탁증거금의 지급·충당
+ 제4절 청산위탁증거금의 지급·충당
 
 **제62조의2(대용증권 등의 예탁한도)**규정 제89조제1항 단서에서 “세칙으로 정하는 한도”란 제55조제1항에 따른 예탁한도 이내에서 일반청산회원이 정하는 금액을 말한다.
 
@@ -1272,7 +1425,7 @@ attachments:
 
 **제64조(거래소의 청산위탁증거금의 지급·충당)**규정 제91조제5항에 따라 거래소의 청산위탁증거금의 지급·충당금액의 산출기준 및 방법에 관하여는 제63조를 준용한다. 이 경우 “청산회원”은 “거래소”로 본다.
 
-제5절 대용증권, 외화 및 외화증권의 종류 및 평가
+ 제5절 대용증권, 외화 및 외화증권의 종류 및 평가
 
 **제65조(대용증권)**① 규정 제95조제6항에 따라 상장주권, 상장지수집합투자기구 집합투자증권 및 상장외국주식예탁증권의 당일 종가가 공표된 이후부터 거래소가 「증권시장 청산결제 업무규정 시행세칙」 제58조에 따라 대용가격을 공표하기 전까지의 경우에는 거래소 및 일반청산회원은 다음 각 호의 기준시세를 적용하여 산출한 대용가격을 적용할 수 있다.<개정 2015. 10. 23.,2025. 3. 26.>
 
@@ -1376,9 +1529,9 @@ attachments:
 
 ⑩ 거래소는 장외파생상품청산의 안정적인 운영을 위해 필요한 경우 청산회원별로 외화증권의 기준시세 및 사정비율, 그 밖에 외화증권의 평가방법을 변경할 수 있다. 이 경우 해당 청산회원에게 변경된 사항을 통지한다.
 
-제8장 청산약정거래의 계약변경 및 이관<개정 2022. 6. 7.>
+ 제8장 청산약정거래의 계약변경 및 이관<개정 2022. 6. 7.>
 
-제1절 청산약정거래의 계약변경<개정 2022. 6. 7.>
+ 제1절 청산약정거래의 계약변경<개정 2022. 6. 7.>
 
 **제67조의2(축약의 신청 등)**① 거래소는 규정 제98조제4항에 따라 청산약정거래의 규모 및 청산회원의 수요 등을 고려하여 청산약정거래에 대한 축약의 실행일(이하 “축약일”이라 한다) 및 축약절차별 일정 등을 정한다.
 
@@ -1542,7 +1695,7 @@ attachments:
 
 ② 위탁청산약정거래의 경우에는 청산위탁자는 수탁청산회원과 수수하고 해당 수탁청산회원은 거래소와 수수하는 방식으로 계약변경협의결제금액을 수수한다. 다만, 거래소와 사무대행계약을 체결한 수탁청산회원의 청산위탁자는 거래소와 직접 계약변경협의결제금액을 수수하여야 한다.<개정 2016. 12. 16.>
 
-제2절 청산약정거래의 이관
+ 제2절 청산약정거래의 이관
 
 **제70조(청산회원 간의 위탁청산약정거래 이관신청 등)**① 규정 제100조제4항에 따라 규정 제100조제2항에 따른 이관청산회원(이하 “이관청산회원”이라 한다)은 다음 각 호의 사항을 회원장외파생상품청산시스템 또는 회원장외파생상품청산단말기를 통하여 거래소장외파생상품청산시스템에 입력하는 방법으로 위탁청산약정거래의 이관을 신청하여야 한다. 이 경우 사전에 위탁청산약정거래의 이관에 대한 규정 제100조제2항의 수관청산회원(이하 “수관청산회원”이라 한다)의 동의가 있어야 한다.
 
@@ -1618,9 +1771,9 @@ attachments:
 
 [전문개정 2015. 10. 23.]
 
-제9장 결제불이행의 처리
+ 제9장 결제불이행의 처리
 
-제1절 결제불이행 청산회원에 대한 조치
+ 제1절 결제불이행 청산회원에 대한 조치
 
 **제74조(거래소 파견직원의 결제지원)**① 규정 제101조제5항에 따라 결제불이행한 청산회원의 결제업무를 지원하는 거래소 파견직원은 결제지원명령서를 해당 청산회원에게 제시하여야 한다.
 
@@ -1660,7 +1813,7 @@ attachments:
 
 ② 제1항의 청산위탁증거금의 현금비율은 0%를 최저율로 하여 거래소가 정한다.
 
-제2절 결제불이행시 위험의 관리
+ 제2절 결제불이행시 위험의 관리
 
 **제78조(결제불이행관리위원회의 구성 및 운영)**결제불이행관리위원회 위원의 구성 및 운영, 그 밖에 필요한 사항은 거래소가 따로 정한다.
 
@@ -1766,7 +1919,7 @@ attachments:
 
 [본조신설 2014. 6. 13.]
 
-제3절 결제불이행에 따른 손실의 보전 순서
+ 제3절 결제불이행에 따른 손실의 보전 순서
 
 **제89조(장외파생공동기금의 손실 부담방법 등)**① 규정 제113조제3항에 따라 순서가 동일한 청산회원 간의 손실 부담방법은 다음 각 호의 구분에 따른다.
 
@@ -1822,7 +1975,7 @@ attachments:
 
 [전문개정 2016. 7. 14.]
 
-제10장 청산업무의 관리
+ 제10장 청산업무의 관리
 
 **제95조(청산약정거래 보유한도기준 등<개정 2016. 12. 16.>)**① 규정 제119조제1항의 “세칙이 정하는 계약금액기준 보유한도비율”은 20%로 한다.
 
@@ -1852,7 +2005,7 @@ attachments:
 
 3. 규정 제36조제2항에 따른 주시회원의 지정 및 주시회원 지정의 사유 해소에 따른 주시회원 지정의 해지
 
-4.거래정보 변경 관련사항<신설 2026. 5. 28.>
+4. 거래정보 변경 관련사항<신설 2026. 5. 28.>
 
 5. 그 밖에 거래소가 필요하다고 인정하는 사항
 
@@ -1864,9 +2017,9 @@ attachments:
 
 3. 서면에 의한 통보
 
-4.거래확인시스템<신설 2026. 5. 28.>
+4. 거래확인시스템<신설 2026. 5. 28.>
 
-5.회원장외파생상품청산시스템<신설 2026. 5. 28.>
+5. 회원장외파생상품청산시스템<신설 2026. 5. 28.>
 
 **제101조(지연이자의 산출)**① 규정 제128조제2항에 따라 지연이자는 지급기한일의 다음일부터 지급채무의 지급일까지 매일마다 다음 각 호의 구분에 따른 일별이자의 합계액으로 한다.<개정 2014. 6. 13., 2023. 6. 26.>
 
@@ -2034,7 +2187,7 @@ attachments:
 
 이 세칙은 2026년 6월 1일부터 시행한다.
 
-별표 및 서식
+ 별표 및 서식
 
 [별표 1] 장외파생공동기금총적립액 산출방법<개정 2017.3.17, 2017.12.18, 2021.6.3, 2024.9.26,2025. 10. 23.>
 

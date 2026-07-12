@@ -1,0 +1,82 @@
+{
+  "version": "1",
+  "generated_at": "2026-07-12T08:09:16.326646Z",
+  "classification_set": [
+    "210219622-210219624-pdf",
+    "210219879-210219880-pdf",
+    "210220231-210220236-pdf",
+    "210221769-210221771-pdf",
+    "210222057-210222059-pdf",
+    "210224393-210224395-pdf",
+    "210224396-210224398-pdf"
+  ],
+  "summary": {
+    "classified": 3,
+    "restored": 3,
+    "degraded": 0,
+    "converted": 3,
+    "failed": 0
+  },
+  "documents": [
+    {
+      "attachment_id": "210224393-210224395-pdf",
+      "expected_template": "three_column",
+      "status": "restored",
+      "reason": "named coordinate grid matched",
+      "confidence": 1.0,
+      "page_count": 18,
+      "table_pages": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "row_count": 308
+    },
+    {
+      "attachment_id": "210222057-210222059-pdf",
+      "expected_template": "three_column",
+      "status": "restored",
+      "reason": "named coordinate grid matched",
+      "confidence": 1.0,
+      "page_count": 12,
+      "table_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "row_count": 222
+    },
+    {
+      "attachment_id": "210224396-210224398-pdf",
+      "expected_template": "two_column",
+      "status": "restored",
+      "reason": "named coordinate grid matched",
+      "confidence": 1.0,
+      "page_count": 15,
+      "table_pages": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "row_count": 214
+    }
+  ]
+}

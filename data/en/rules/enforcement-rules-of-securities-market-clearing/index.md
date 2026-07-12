@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210199110-en"
 title: "Enforcement Rules of Securities Market Clearing..."
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:10:31.154602Z"
+collected_at: "2026-07-12T07:58:13.290588Z"
 content_hash: "d787becdada4e5e7dc53ccbc19331c48355bc143a0502d87bb6f6ee506b654e0"
+body_hash: "f0b4ecc3069fef05ce7025532d1cb9173b554beab3e00be0fd586da10f2be752"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 증권시장청산결제업무규정"
 effective_date: "2026-04-27"
 published_date: "2026-04-17"
@@ -14,6 +18,10 @@ file_name: "20260417_Enforcement_Rules_of_Securities_Market_Clearing....pdf"
 raw_path: "en/rules/enforcement-rules-of-securities-market-clearing/raw/english-full-text.pdf"
 text_path: "en/rules/enforcement-rules-of-securities-market-clearing/attachments/english-full-text.md"
 file_content_hash: "3c10852ae3e1dab315a1f408a453ad103ba053b450f1241ffaad060a0a58c2a0"
+raw_file_hash: "3c10852ae3e1dab315a1f408a453ad103ba053b450f1241ffaad060a0a58c2a0"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Enforcement Rules of

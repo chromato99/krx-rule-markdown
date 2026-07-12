@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210073008-en"
 title: "Membership Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:12:49.952960Z"
+collected_at: "2026-07-12T08:00:31.944354Z"
 content_hash: "977867d08980487908e24ec958cc8be69b86c91dae6c84c493a9f6bd918a3a3c"
+body_hash: "48865fab38e28f1edd467f3ba03d2cc480640a137382f85f860722f3412b853d"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 회원관리규정"
 effective_date: "2025-09-22"
 published_date: "2025-09-22"
@@ -14,6 +18,10 @@ file_name: "20250922_Membership_Regulation.pdf"
 raw_path: "en/rules/membership-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/membership-regulation/attachments/english-full-text.md"
 file_content_hash: "c1f006644de47f17d2731bda55008919fcc7bac7d98580018e3100b2ae7b9ee5"
+raw_file_hash: "c1f006644de47f17d2731bda55008919fcc7bac7d98580018e3100b2ae7b9ee5"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Membership Regulation

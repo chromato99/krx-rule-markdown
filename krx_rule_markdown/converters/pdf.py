@@ -4,14 +4,37 @@ from pathlib import Path
 import re
 
 from .base import ConversionError
+from .pdf_comparison import classify_comparison_pdf, restore_comparison_pages
+
+
+MAX_PDF_PAGES = 2000
 
 
 def extract_pdf(path: Path) -> str:
+    text, _ = extract_pdf_details(path)
+    return text
+
+
+def extract_pdf_details(path: Path, *, comparison_id: str = "") -> tuple[str, int]:
     try:
         from pdfminer.high_level import extract_text
     except ImportError as exc:
         raise ConversionError("pdfminer.six is not installed") from exc
-    return postprocess_pdf_text(extract_text(str(path)))
+    raw_text = extract_text(str(path), maxpages=MAX_PDF_PAGES)
+    page_count = max(1, raw_text.count("\x0c"))
+    if comparison_id:
+        classification = classify_comparison_pdf(path, comparison_id)
+        raw_text = restore_comparison_pages(raw_text, classification)
+    return postprocess_pdf_text(raw_text), page_count
+
+
+def looks_like_amendment_comparison(text: str) -> bool:
+    normalized = re.sub(r"\s+", "", text or "")
+    return "현행" in normalized and ("개정안" in normalized or "개정(안)" in normalized)
+
+
+def has_structured_table(text: str) -> bool:
+    return bool(re.search(r"(?:^\s*\|.+\|\s*$|<table\b)", text or "", re.I | re.M))
 
 
 def postprocess_pdf_text(text: str) -> str:

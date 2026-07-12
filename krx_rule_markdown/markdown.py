@@ -4,7 +4,15 @@ from pathlib import Path
 import json
 from typing import Any
 
-from .models import LANGUAGE_EN, LANGUAGE_KO, Document, normalize_language, safe_file_name, slug
+from .models import LANGUAGE_EN, LANGUAGE_KO, ATTACHMENT_CONVERTED, Document, hash_bytes, hash_text, normalize_language, safe_file_name, slug
+from .contracts import (
+    MAX_CONVERTED_TEXT_BYTES,
+    MAX_METADATA_FILE_BYTES,
+    MAX_SOURCE_BYTES,
+    read_utf8_file_bounded,
+    sha256_file,
+)
+from .repository import atomic_write_text
 
 
 def parse_markdown(data: str) -> Document:
@@ -73,8 +81,11 @@ def parse_scalar(value: str) -> Any:
     value = value.strip()
     if value == "":
         return ""
-    if value in {"[]", "{}"}:
-        return [] if value == "[]" else {}
+    if value.startswith(("[", "{")):
+        try:
+            return json.loads(value)
+        except json.JSONDecodeError:
+            pass
     if (value.startswith('"') and value.endswith('"')) or (
         value.startswith("'") and value.endswith("'")
     ):
@@ -86,6 +97,10 @@ def parse_scalar(value: str) -> Any:
         return value[1:-1].replace("''", "'")
     if value.isdigit():
         return int(value)
+    if value.lower() in {"true", "false"}:
+        return value.lower() == "true"
+    if value.lower() in {"null", "none"}:
+        return None
     return value
 
 
@@ -109,8 +124,12 @@ def render_markdown(doc: Document) -> str:
 
 
 def format_scalar(value: Any) -> str:
+    if isinstance(value, bool):
+        return "true" if value else "false"
     if isinstance(value, int):
         return str(value)
+    if isinstance(value, (list, dict)):
+        return json.dumps(value, ensure_ascii=False, separators=(",", ":"))
     if value is None:
         return '""'
     text = str(value)
@@ -120,14 +139,66 @@ def format_scalar(value: Any) -> str:
 
 
 def write_document(root: Path, doc: Document) -> Path:
+    hydrate_file_metadata(Path(root), doc)
+    doc.body_hash = hash_text(doc.body)
+    doc.content_hash = hash_text(doc.title + "\n" + doc.body)
     folder = "notices" if doc.document_type == "notice" else "rules"
     path = existing_document_path(root, doc) or document_bundle_dir(root, doc) / "index.md"
     path.parent.mkdir(parents=True, exist_ok=True)
     legacy_path = language_root(root, doc.language) / folder / safe_file_name(doc.title)
     if legacy_path.exists():
         legacy_path.unlink()
-    path.write_text(render_markdown(doc), encoding="utf-8")
+    atomic_write_text(path, render_markdown(doc))
+    doc.path = str(path)
     return path
+
+
+def hydrate_file_metadata(root: Path, doc: Document) -> None:
+    hydrate_asset_file_metadata(root, doc.assets)
+    if doc.raw_path:
+        raw_path = root / doc.raw_path
+        if raw_path.is_file():
+            doc.raw_file_hash = sha256_file(raw_path, max_bytes=MAX_SOURCE_BYTES)
+            doc.file_content_hash = doc.raw_file_hash
+            doc.preservation_status = "preserved"
+    for att in doc.attachments:
+        hydrate_asset_file_metadata(root, att.assets)
+        if att.raw_path:
+            raw_path = root / att.raw_path
+            if raw_path.is_file():
+                att.raw_file_hash = sha256_file(raw_path, max_bytes=MAX_SOURCE_BYTES)
+                att.content_hash = att.raw_file_hash
+                att.size = raw_path.stat().st_size
+                att.preservation_status = "preserved"
+        if att.status == ATTACHMENT_CONVERTED and att.text_path:
+            text_path = root / att.text_path
+            if text_path.is_file():
+                att.converted_text_hash = hash_text(
+                    read_utf8_file_bounded(text_path, max_bytes=MAX_CONVERTED_TEXT_BYTES)
+                )
+                if att.searchable is None:
+                    att.searchable = True
+
+
+def hydrate_asset_file_metadata(root: Path, assets) -> None:
+    from .assets import MAX_ASSET_BYTES, inspect_image
+
+    for asset in assets:
+        if asset.preservation_status != "preserved" or not asset.path:
+            continue
+        path = root / asset.path
+        if not path.is_file():
+            continue
+        if path.stat().st_size > MAX_ASSET_BYTES:
+            raise ValueError(f"asset exceeds {MAX_ASSET_BYTES} bytes: {path}")
+        data = path.read_bytes()
+        image = inspect_image(data)
+        asset.raw_file_hash = hash_bytes(data)
+        asset.size = len(data)
+        asset.mime_type = image.mime_type
+        asset.width = image.width
+        asset.height = image.height
+        asset.searchable = False
 
 
 def existing_document_path(root: Path, doc: Document) -> Path | None:
@@ -157,7 +228,8 @@ def load_documents(root: Path) -> list[Document]:
             if path in seen:
                 continue
             seen.add(path)
-            doc = parse_markdown(path.read_text(encoding="utf-8"))
+            doc = parse_markdown(read_utf8_file_bounded(path, max_bytes=MAX_METADATA_FILE_BYTES))
+            doc.directory_language = language
             if not doc.language:
                 doc.language = language
             else:
@@ -184,14 +256,19 @@ def bundle_can_hold_document(path: Path, doc: Document) -> bool:
     if not index.exists():
         return True
     try:
-        existing = parse_markdown(index.read_text(encoding="utf-8"))
+        existing = parse_markdown(
+            read_utf8_file_bounded(index, max_bytes=MAX_METADATA_FILE_BYTES)
+        )
     except (OSError, ValueError):
         return False
     return existing.id == doc.id and existing.document_type == doc.document_type
 
 
 def language_root(root: Path, language: str) -> Path:
-    return root / normalize_language(language)
+    normalized = normalize_language(language)
+    if normalized not in {LANGUAGE_KO, LANGUAGE_EN}:
+        raise ValueError(f"language must be ko or en, got {language!r}")
+    return root / normalized
 
 
 def document_paths(base: Path) -> list[Path]:

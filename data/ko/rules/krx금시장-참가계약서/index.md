@@ -1,14 +1,24 @@
 ---
+schema_version: 2
 id: "204847987"
 title: "KRX금시장 참가계약서"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:17:07.922274Z"
-content_hash: "a8e712ed1d2073b8684589db64dffd3f829837cc5d05c015df7caf40adece6b9"
+collected_at: "2026-07-12T08:04:43.605511Z"
+content_hash: "a5cd5381dd910fa37371999c17af53e69d7b060e72ebcdfb0de89ce3f9e73f39"
+body_hash: "cb11d48108a7c6be78e3826589f6480165ed2f0495ccb624cf9e8e3606248f27"
 document_type: "rule"
 language: "ko"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 일반상품시장규정"
 effective_date: "2014-03-11"
 published_date: "2014-03-11"
+source_content_hash: "0f6efd051a303c70f75b2acc24bff7f233c518b5e20c8824f6d91b8c69be8dc5"
+source_content_path: "ko/rules/krx금시장-참가계약서/raw/source.html"
+source_request_path: "ko/rules/krx금시장-참가계약서/raw/request.json"
+converter_version: "2"
+asset_inspection_version: "1"
+preservation_status: "preserved"
 ---
 
 **제1조(목적)**이 계약서는 금의 원활한 유통과 공정한 가격형성을 위하여 한국거래소(이하 "거래소"라 한다)가 개설하여 운영하는 금 현물시장인 KRX금시장(이하 "시장"이라 한다)에서의 매매거래와 관련하여 거래소와 계약자 간에 준수해야 할 기본적인 사항을 정함을 목적으로 한다.
@@ -184,8 +194,8 @@ published_date: "2014-03-11"
 ② 시장감시 및 분쟁조정 규정 제·개정 내용의 통지 및 게시, 회원의 동의 등에 관한 사항은 제14조제2항부터 제6항까지의 규정을 준용한다.
 
 **제16조(관할합의)**이 참가계약과 매매거래에 관련된 거래소와 회원 간의 일체의 분쟁에 관하여는 거래소의 서울사무소 소재지를 관할하는 법원이 관할하도록 합의한다.
-본인은 한국거래소「KRX금시장 참가계약서」및「KRX금시장 운영규정」내용을 확인하였으며 이에 동의합니다.
-20__년 __월 __일 법인명(사업주명) :________________________(서명 또는 인)
+ 본인은 한국거래소「KRX금시장 참가계약서」및「KRX금시장 운영규정」내용을 확인하였으며 이에 동의합니다.
+ 20__년 __월 __일 법인명(사업주명) :________________________(서명 또는 인)
 
 부칙 <제2148호, 2014. 3. 11.>
 

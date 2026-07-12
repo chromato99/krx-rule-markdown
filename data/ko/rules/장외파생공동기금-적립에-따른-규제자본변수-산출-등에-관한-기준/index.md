@@ -1,25 +1,42 @@
 ---
+schema_version: 2
 id: "204847787"
 title: "장외파생공동기금 적립에 따른 규제자본변수 산출 등에 관한 기준"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:16:41.359311Z"
-content_hash: "1ff6fceddd32822731833e145cc3df79bc7e53d7d19aeee76b4ca1a61a4a25c6"
+collected_at: "2026-07-12T08:04:17.071590Z"
+content_hash: "c7974594fb72f9ab8a3271d182eda0da9b9e3a9fc357ed92f862b937d7628711"
+body_hash: "83135161ae16c8ffbba5497c2206630b7c83d96efefee6facc124c9dd8038332"
 document_type: "rule"
 language: "ko"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 장외파생상품청산업무규정"
 effective_date: "2018-01-29"
 published_date: "2018-01-24"
+source_content_hash: "16b3cfe5603e3b24fd6d9f331babaac59faaa2716f46e27876de3f9dfaef8365"
+source_content_path: "ko/rules/장외파생공동기금-적립에-따른-규제자본변수-산출-등에-관한-기준/raw/source.html"
+source_request_path: "ko/rules/장외파생공동기금-적립에-따른-규제자본변수-산출-등에-관한-기준/raw/request.json"
+converter_version: "2"
+asset_inspection_version: "1"
+preservation_status: "preserved"
 attachments:
   - id: "204847787-201801240000005840000241001-byl-hwp"
     title: "[별표] 청산회원의 공동기금 적립에 따른 규제자본변수<개정 2017.3.9>"
     file_name: "장외파생공동기금 적립에 따른 규제자본변수 산출 등에 관한 기준_2차_청산회원의공동기금적립에따른규제자본변수.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201801240000005840000241001_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/장외파생공동기금-적립에-따른-규제자본변수-산출-등에-관한-기준/raw/별표-청산회원의-공동기금-적립에-따른-규제자본변수개정-2017-3-9.hwp"
     text_path: "ko/rules/장외파생공동기금-적립에-따른-규제자본변수-산출-등에-관한-기준/attachments/별표-청산회원의-공동기금-적립에-따른-규제자본변수개정-2017-3-9.md"
     content_hash: "674fee1125744a357c2ce20a0a3beefef3e98a77330708d2992927c789de6a88"
+    raw_file_hash: "674fee1125744a357c2ce20a0a3beefef3e98a77330708d2992927c789de6a88"
+    converted_text_hash: "7d44d457e961d322775f908debe20087239bb56cc1e9af5bfdc46c5a37e9c2be"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 15872
     quality_status: "ok"
     quality_score: 100
@@ -30,7 +47,7 @@ attachments:
     formula_hint_count: 45
 ---
 
-**제1조(목적)**이 기준은 청산회원인 은행이「장외파생상품 청산업무규정」(이하 "규정"이라 한다)제26조에 따라 적립한 장외파생공동기금(이하 "공동기금"이라 한다)의 익스포져에 대한 규제자본을 「은행업감독업무시행세칙」 별표 3의 310. 에 따라 산출하기 위하여 필요한 변수(이하 "규제자본변수"라 한다)를 중앙청산소인 한국거래소(이하 "거래소"라 한다)가 「은행업감독업무시행세칙」 별표 3의 311.에 따라 산출·제공 등을 함에 있어 필요한 사항을 규정함을 목적으로 한다.<개정 2017. 3. 9.>
+**제1조(목적)**이 기준은 청산회원인 은행이「장외파생상품 청산업무규정」(이하 "규정"이라 한다) 제26조에 따라 적립한 장외파생공동기금(이하 "공동기금"이라 한다)의 익스포져에 대한 규제자본을 「은행업감독업무시행세칙」 별표 3의 310. 에 따라 산출하기 위하여 필요한 변수(이하 "규제자본변수"라 한다)를 중앙청산소인 한국거래소(이하 "거래소"라 한다)가 「은행업감독업무시행세칙」 별표 3의 311.에 따라 산출·제공 등을 함에 있어 필요한 사항을 규정함을 목적으로 한다. <개정 2017. 3. 9.>
 
 **제2조(규제자본변수 산출 및 제공)**① 거래소는 매월 마지막 영업일을 기준일로 하여 별표의 규제자본변수를 산출한다.
 
@@ -62,12 +79,12 @@ attachments:
 
 부칙 <제540호, 2017. 3. 9.>
 
-이 기준은2019년 1월 1일부터 시행한다.<개정 2018.1.24>
+이 기준은 2019년 1월 1일부터 시행한다.<개정 2018.1.24>
 
 부칙 <제584호, 2018. 1. 24.>
 
 이 기준은 2018년 1월 29일부터 시행한다.
 
-별표 및 서식
+ 별표 및 서식
 
 [별표] 청산회원의 공동기금 적립에 따른 규제자본변수<개정 2017.3.9>

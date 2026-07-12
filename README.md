@@ -11,8 +11,13 @@
 - HWP/HWPX/PDF/HTML 첨부의 Markdown 텍스트 변환
 - HWP/HWPX 표 구조를 가능한 경우 Markdown/HTML table로 보존
 - HWP EqEdit 수식 원본 보존 및 RAG 참조용 LaTeX(best-effort) 블록 생성
+- KRX inline 이미지와 HWP BinData 이미지를 hash·MIME·dimensions가 있는 bundle asset으로 보존
+- 확인된 amendment comparison PDF template을 좌표 기반 현행·개정안 표로 복원
+- 수집 시점의 정제된 source HTML과 비밀값을 제거한 request descriptor 보존
 - 변환 품질 점검과 metadata 반영
-- corpus 참조 무결성 검증
+- 본문·원본·변환 텍스트별 SHA-256과 release hash 검증
+- 단일 writer lock, staging 검증, generation 단위 원자 publish
+- 갱신 실패 시 기존 정상 raw/text를 유지하는 last-known-good 정책
 - 더 이상 참조하지 않는 첨부 산출물 정리
 
 ## 설치
@@ -28,9 +33,11 @@ python3 -m pip install -e ".[convert]"
 ```bash
 krx-rule-markdown sync --all --data-dir data
 krx-rule-markdown reconvert --data-dir data
+krx-rule-markdown assets --data-dir data --download-inline
+krx-rule-markdown pdf-comparisons --data-dir data --apply
 krx-rule-markdown clean --data-dir data --drop-past-rule-attachments --prune-unreferenced-attachments
 krx-rule-markdown quality --data-dir data --output data/reports/data-quality.json --update-metadata
-krx-rule-markdown validate --data-dir data --quality
+krx-rule-markdown validate --data-dir data --release --quality
 ```
 
 `sync`는 기본적으로 한국어 규정/예고와 가능한 영문 규정 전문을 함께 수집합니다. 필요한 경우 언어를 제한할 수 있습니다.
@@ -57,6 +64,12 @@ krx-rule-markdown reconvert --data-dir data
 krx-rule-markdown reconvert --data-dir data --document-id 210217137
 ```
 
+`sync`, 실제 변경을 수행하는 `reconvert`·`clean`, `quality --update-metadata`는 활성 corpus를 직접 고치지 않습니다. 같은 파일시스템의 sibling staging generation을 만든 뒤 release 검증을 통과한 경우에만 Linux `renameat2(RENAME_EXCHANGE)`로 전체 디렉터리를 교체합니다. 동시에 두 writer를 실행하면 두 번째 작업은 즉시 실패합니다. 다운로드나 변환이 실패한 항목은 기존 정상 raw/text를 지우지 않고 실행 리포트와 `stale_due_to_refresh_failure` 진단으로 남깁니다.
+
+`--dry-run`은 corpus, manifest, 품질 리포트와 실행 리포트를 변경하지 않습니다. 정기 release에서는 `validate --release --quality`를 사용하고, 원본은 보존되었지만 의도적으로 검색에서 제외할 실패 항목만 검토된 ID를 `--allow-failure-id`로 명시하세요.
+
+`assets`는 HWP의 실제 JPEG/BMP/PNG/GIF BinData만 검사해 bundle의 `assets/`에 보존합니다. `--download-inline`을 주면 본문의 KRX `/dataFile/law/img/` URL도 같은 host·redirect, MIME/signature, byte·pixel 제한 아래 다운로드합니다. 본문에는 로컬 경로 대신 `krx-asset:<id>`만 남고 실제 경로와 bytes hash는 frontmatter metadata에만 기록됩니다. `pdf-comparisons`는 코드에 이름이 고정된 현재 7개 PDF만 분류하며, 좌표 grid와 header가 모두 확인된 template만 `--apply`로 복원합니다. 신뢰도 기준을 통과하지 못한 PDF는 원문을 추측해 재배열하지 않고 degraded로 남깁니다.
+
 ## HWP 수식 변환 정책
 
 HWP 첨부에서 EqEdit 수식 블록을 찾으면 문단이나 표 안의 수식 placeholder 위치에 최대한 가깝게 LaTeX 참조를 삽입합니다. 원본 확인이 가능하도록 해당 문단 또는 표 근처에 다음 두 블록도 함께 제공합니다.
@@ -74,6 +87,8 @@ HWPX 표는 행과 셀을 파싱해 일반 표는 Markdown table로 변환합니
 
 HWP 파일은 `pyhwp` 모델에서 표 행/셀과 병합 정보를 읽어 Markdown table 또는 HTML table로 변환합니다. 모델 기반 복원이 실패한 경우에도 텍스트 추출 결과에서 `<셀><셀>` 형태로 드러나는 표 행은 Markdown table block으로 후처리합니다. 이 방식은 행/열 구조를 RAG가 읽기 쉽게 보존하기 위한 것이며, 원본 HWP의 픽셀 단위 너비, 테두리, 정렬, 셀 배경색까지 동일하게 재현하지는 않습니다.
 
+HWPX 변환은 현재 `data/`에 검증 가능한 HWPX raw fixture가 없어 experimental입니다. ZIP entry 수·압축 해제 크기·압축 비율·암호화 여부를 먼저 제한하고, 파싱 가능한 문단과 표만 best-effort로 변환합니다. source-order나 복잡한 drawing/layout의 완전 복원을 보장하지 않으며, 실제 corpus fixture가 확보되기 전에는 stable 지원으로 간주하지 않습니다.
+
 ## 산출물 구조
 
 ```text
@@ -82,8 +97,9 @@ data/
     rules/
       <규정-제목>/
         index.md           # 한국어 최신 규정 Markdown
-        raw/               # 이 규정의 원본 첨부
+        raw/               # 원본 첨부, 정제 source.html, request.json
         attachments/       # 이 규정의 변환 Markdown 첨부
+        assets/            # hash로 검증되는 보존 이미지(검색 비대상)
     notices/
       <예고-제목>/
         index.md           # 한국어 규정 제·개정예고 Markdown
@@ -97,6 +113,7 @@ data/
         attachments/       # 영문전문 변환 Markdown
   manifest.json          # 수집 manifest
   reports/               # 품질 리포트
+../.krx-rule-runs/       # 응답 시각·실패 등 release 밖 실행 이력
 ```
 
 각 Markdown frontmatter에는 `language: "ko"` 또는 `language: "en"`이 들어갑니다. 영문 규정 문서는 한국어 규정과 구분되는 `{한국어 id}-en` id를 사용하고, `source_id`로 원 한국어 규정 id를 보존합니다.
@@ -104,6 +121,8 @@ data/
 HWP 첨부에 수식이 있으면 가능한 경우 원문 문단의 placeholder 위치에 가까운 곳에 LaTeX(best-effort)가 삽입되며, 원본 EqEdit 블록은 해당 문단 또는 표 근처에 함께 저장됩니다. 원위치가 복원되지 않은 수식만 별도 위치 미확정 섹션으로 분리됩니다.
 
 `data/index`는 이 프로젝트가 만들지 않습니다. BM25/vector index는 [`krx-rule-mcp`](https://github.com/chromato99/krx-rule-mcp)의 `krx-rule-index`가 이 corpus를 입력으로 받아 생성합니다.
+
+`manifest.json`의 `index_source_hash`는 검색 결과에 영향을 주는 canonical metadata와 텍스트를 묶은 producer/consumer 공통 해시입니다. `release_hash`는 manifest의 재현 가능한 release 내용 해시이며 `generated_at`, `last_checked_at`, 응답 시점 hash 같은 운영 필드는 제외합니다. 필드별 의미와 canonicalization은 [`docs/data-format.md`](docs/data-format.md)를 참고하세요.
 
 ## Corpus 배포
 

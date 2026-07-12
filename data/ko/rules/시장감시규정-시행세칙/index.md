@@ -1,25 +1,42 @@
 ---
+schema_version: 2
 id: "210222386"
 title: "시장감시규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:07:53.741662Z"
-content_hash: "b05755aa9304036a9ee89e2f7762392d85a931b3ff76332075aeb1c7a1c8e372"
+collected_at: "2026-07-12T07:55:34.004847Z"
+content_hash: "b865b4ff2cada6e145324ca7f8acc5691f8e526be498086b7738c6a5e8f0d1c3"
+body_hash: "21ed202ea808eeaadfddf88780706cca6cd9c04214b35254d8957ad0f9656dc0"
 document_type: "rule"
 language: "ko"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 시장감시규정"
 effective_date: "2026-06-29"
 published_date: "2026-06-26"
+source_content_hash: "b6e5d1f2c56f9ccc97df10a49c1b33c98bb89a606b1e5a60ad9869b284c69833"
+source_content_path: "ko/rules/시장감시규정-시행세칙/raw/source.html"
+source_request_path: "ko/rules/시장감시규정-시행세칙/raw/request.json"
+converter_version: "2"
+asset_inspection_version: "1"
+preservation_status: "preserved"
 attachments:
   - id: "210222386-202410150000022530000006001-byl-hwp"
     title: "[별지 제1호 서식] 상장법인 주요주주 등의 자기주식등 거래현황 보고<개정 2009.2.3, 2012.4.10>"
     file_name: "시장감시규정 시행세칙_74차_상장법인주요주주등의자기주식등거래현황보고.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006001_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제1호-서식-상장법인-주요주주-등의-자기주식등-거래현황-보고개정-2009-2-3-2012-4-10.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제1호-서식-상장법인-주요주주-등의-자기주식등-거래현황-보고개정-2009-2-3-2012-4-10.md"
     content_hash: "b1566c7ceac257bff898ce0639d7511236beb57ae26de65c8f7a86242f3cc804"
+    raw_file_hash: "b1566c7ceac257bff898ce0639d7511236beb57ae26de65c8f7a86242f3cc804"
+    converted_text_hash: "4ae1ddf1815305dba6de35b62ac9562eb0f44662046d862023103d2f33f3ba58"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 46080
     quality_status: "ok"
     quality_score: 100
@@ -30,12 +47,19 @@ attachments:
     title: "[별지 제2호 서식] 공정거래질서저해우려 풍문 또는 이상거래 징후·현상 보고<개정 2009.2.3, 2012.4.10>"
     file_name: "시장감시규정 시행세칙_74차_공정거래질서저해우려풍문또는이상거래징후·현상보고.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006002_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제2호-서식-공정거래질서저해우려-풍문-또는-이상거래-징후현상-보고개정-2009-2-3-2012-4-10.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제2호-서식-공정거래질서저해우려-풍문-또는-이상거래-징후현상-보고개정-2009-2-3-2012-4-10.md"
     content_hash: "d873f1ff9cc1e9c107658cacc2de69f401a9886fa8b06d623cfa76886e5ca9c4"
+    raw_file_hash: "d873f1ff9cc1e9c107658cacc2de69f401a9886fa8b06d623cfa76886e5ca9c4"
+    converted_text_hash: "ed4466343a7e6bd4ebdc8fa6a358e8d44a6ce658f0ea0e2174a2f6536bd78df0"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 36352
     quality_status: "ok"
     quality_score: 100
@@ -46,12 +70,19 @@ attachments:
     title: "[별지 제4호 서식] 민원·분쟁현황 및 처리결과 보고<개정 2009.2.3, 2012.4.10>"
     file_name: "시장감시규정 시행세칙_74차_민원·분쟁현황및처리결과보고.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006004_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제4호-서식-민원분쟁현황-및-처리결과-보고개정-2009-2-3-2012-4-10.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제4호-서식-민원분쟁현황-및-처리결과-보고개정-2009-2-3-2012-4-10.md"
     content_hash: "763d61fb00a2a1d22cb4c8f4f284ed16c64417d6a7f44c177fe5e8fc57c1ac9d"
+    raw_file_hash: "763d61fb00a2a1d22cb4c8f4f284ed16c64417d6a7f44c177fe5e8fc57c1ac9d"
+    converted_text_hash: "9ad2e17d795000b43810ac9b8f5ede7fc40ccc58bfca1dcc830629a9a4f805fc"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 43520
     quality_status: "ok"
     quality_score: 100
@@ -62,12 +93,19 @@ attachments:
     title: "[별지 제5호 서식] 심리·감리 회피신청서<개정 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_심리·감리회피신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006005_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제5호-서식-심리감리-회피신청서개정-2009-2-3.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제5호-서식-심리감리-회피신청서개정-2009-2-3.md"
     content_hash: "3812c582b098138fedeeddda7d73d481facba49a178993ffb48e1e7ceb4ce883"
+    raw_file_hash: "3812c582b098138fedeeddda7d73d481facba49a178993ffb48e1e7ceb4ce883"
+    converted_text_hash: "50631b383dbf20a70c8c10204fb5b50cd95911142faae9b7fd121b8dafa11328"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 30720
     quality_status: "ok"
     quality_score: 100
@@ -78,12 +116,19 @@ attachments:
     title: "[별지 제6호 서식] 위탁자 기본정보 현황<개정 2009.2.3, 2012.4.10, 2024.5.21>"
     file_name: "시장감시규정 시행세칙_74차_위탁자기본정보현황.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006006_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제6호-서식-위탁자-기본정보-현황개정-2009-2-3-2012-4-10-2024-5-21.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제6호-서식-위탁자-기본정보-현황개정-2009-2-3-2012-4-10-2024-5-21.md"
     content_hash: "8636e95d693848e5e97f31921e99de8b687a521a42781194a88be77c93fc87e6"
+    raw_file_hash: "8636e95d693848e5e97f31921e99de8b687a521a42781194a88be77c93fc87e6"
+    converted_text_hash: "6224e7ef10d8bea26f6084f5cb4654f6d770f8eb2c1638b01cf92b56a9c240b0"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 48128
     quality_status: "ok"
     quality_score: 100
@@ -94,12 +139,19 @@ attachments:
     title: "[별지 제8호 서식] 출석요청서<개정 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_출석요청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006008_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제8호-서식-출석요청서개정-2009-2-3.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제8호-서식-출석요청서개정-2009-2-3.md"
     content_hash: "e297370788dfa1ee792891b9206eb32c5fa367d2ca1ce333748af6d53ea97eba"
+    raw_file_hash: "e297370788dfa1ee792891b9206eb32c5fa367d2ca1ce333748af6d53ea97eba"
+    converted_text_hash: "71bfbce339d09c801dbc9fc26b7853b997e2f733219c48a78b431ae35697c71b"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 47616
     quality_status: "ok"
     quality_score: 100
@@ -110,12 +162,19 @@ attachments:
     title: "[별지 제9호 서식] 확인서<개정 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_확인서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006009_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제9호-서식-확인서개정-2009-2-3.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제9호-서식-확인서개정-2009-2-3.md"
     content_hash: "2f12d8f131cd3717d608c16b8dade508a3a10dd7c237532c636e8c1ac0dd1077"
+    raw_file_hash: "2f12d8f131cd3717d608c16b8dade508a3a10dd7c237532c636e8c1ac0dd1077"
+    converted_text_hash: "c6f243b3a65d11937f4f382e7306f5605989ffc9e850a724974103edce78c487"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 30720
     quality_status: "ok"
     quality_score: 100
@@ -126,12 +185,19 @@ attachments:
     title: "[별지 제10호 서식] 문답서<개정 2006.11.30>"
     file_name: "시장감시규정 시행세칙_74차_문답서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006010_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제10호-서식-문답서개정-2006-11-30.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제10호-서식-문답서개정-2006-11-30.md"
     content_hash: "a52299cb58585cb48800f24e9bb32ad0df757763c0f7d253a0d63c83954f9ee4"
+    raw_file_hash: "a52299cb58585cb48800f24e9bb32ad0df757763c0f7d253a0d63c83954f9ee4"
+    converted_text_hash: "8668aff7a8ef3a510c1120e2bb4adfe220b25b40e0debef9695e62f9501088f2"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 40960
     quality_status: "ok"
     quality_score: 100
@@ -142,12 +208,19 @@ attachments:
     title: "[별지 제11호 서식] 질문서<개정 2006.11.30, 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_질문서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006011_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제11호-서식-질문서개정-2006-11-30-2009-2-3.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제11호-서식-질문서개정-2006-11-30-2009-2-3.md"
     content_hash: "efafeaa079730bd4cfa8487559815591c7c62af54d527459878e6d53c8687eff"
+    raw_file_hash: "efafeaa079730bd4cfa8487559815591c7c62af54d527459878e6d53c8687eff"
+    converted_text_hash: "67921371eeb6c3570eddf8d3811aaf5ecd49f3cfc5f9a76422af865b7a962f06"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 31744
     quality_status: "ok"
     quality_score: 100
@@ -158,12 +231,19 @@ attachments:
     title: "[별지 제12호 서식] 감리명령서<개정 2006.11.30, 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_감리명령서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006012_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제12호-서식-감리명령서개정-2006-11-30-2009-2-3.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제12호-서식-감리명령서개정-2006-11-30-2009-2-3.md"
     content_hash: "c065d604712a14bd5d604a728497de0a52594ae37d1b231b1408bf3c63dfb430"
+    raw_file_hash: "c065d604712a14bd5d604a728497de0a52594ae37d1b231b1408bf3c63dfb430"
+    converted_text_hash: "776f22f185b0ae5bc75a6846bf8763c20e5f701acd94068e605e8b49169f07ae"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 36352
     quality_status: "ok"
     quality_score: 100
@@ -174,12 +254,19 @@ attachments:
     title: "[별지 제14호 서식] 현지조치사항<개정 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_현지조치사항.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006014_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제14호-서식-현지조치사항개정-2009-2-3.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제14호-서식-현지조치사항개정-2009-2-3.md"
     content_hash: "4bddfc5a2a5afb358a7143f5e984716f6cb2f983913de9382494a05e6e308390"
+    raw_file_hash: "4bddfc5a2a5afb358a7143f5e984716f6cb2f983913de9382494a05e6e308390"
+    converted_text_hash: "d2617932c1a513099e6d770409e80e50e5675403d1047b2ce308ad577f31b666"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 36352
     quality_status: "ok"
     quality_score: 100
@@ -190,12 +277,19 @@ attachments:
     title: "[별지 제14호의2 서식] 공매도 중앙점검시스템 보고서<신설 2025. 3. 14.>"
     file_name: "시장감시규정 시행세칙_74차_"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210036233.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제14호의2-서식-공매도-중앙점검시스템-보고서신설-2025-3-14.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제14호의2-서식-공매도-중앙점검시스템-보고서신설-2025-3-14.md"
     content_hash: "d3e8cf8bdfd8d819e7a0027116045037b2287d046053707f0905d9806d5bce0d"
+    raw_file_hash: "d3e8cf8bdfd8d819e7a0027116045037b2287d046053707f0905d9806d5bce0d"
+    converted_text_hash: "2118d83a971c4515c0b48a172e13d1cf30455350bfcb8b05206073b632c704f7"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 56320
     quality_status: "ok"
     quality_score: 100
@@ -206,12 +300,19 @@ attachments:
     title: "[별지 제14호의3 서식] 사실관계확인서<신설 2025. 3. 14.>"
     file_name: "시장감시규정 시행세칙_74차_"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210036234.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제14호의3-서식-사실관계확인서신설-2025-3-14.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제14호의3-서식-사실관계확인서신설-2025-3-14.md"
     content_hash: "b6f130f13a945d577511f65a7beeeb08ee460b1c139dcd8253fd333f5ffa3d88"
+    raw_file_hash: "b6f130f13a945d577511f65a7beeeb08ee460b1c139dcd8253fd333f5ffa3d88"
+    converted_text_hash: "3a385ce0ee139030c78133216b05c32dac77a95a50088a7490ff58e89043239f"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 36864
     quality_status: "ok"
     quality_score: 100
@@ -222,12 +323,19 @@ attachments:
     title: "[별지 제14호의4 서식] 자료제출요구서<신설 2021.3.12,개정 2025. 3. 14.>"
     file_name: "시장감시규정 시행세칙_74차_자료제출요구서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210036248.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제14호의4-서식-자료제출요구서신설-2021-3-12개정-2025-3-14.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제14호의4-서식-자료제출요구서신설-2021-3-12개정-2025-3-14.md"
     content_hash: "8f664c53fe62755ca647dd65e66dc95ed1898559bf06e803d19b95efd59db633"
+    raw_file_hash: "8f664c53fe62755ca647dd65e66dc95ed1898559bf06e803d19b95efd59db633"
+    converted_text_hash: "7d2f64c87bac3ab41530a22862e4a1f04ecb8e3abcbc076f269e8fc2950e9f3f"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 33792
     quality_status: "ok"
     quality_score: 100
@@ -238,12 +346,19 @@ attachments:
     title: "[별지 제15호 서식] 회원제재금 부과 통지서<개정 2009.2.3, 2011.12.26, 2024.1.30,2025. 5. 15.>"
     file_name: "시장감시규정 시행세칙_74차_회원제재금부과통지서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210068401.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제15호-서식-회원제재금-부과-통지서개정-2009-2-3-2011-12-26-2024-1-302025-5-15.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제15호-서식-회원제재금-부과-통지서개정-2009-2-3-2011-12-26-2024-1-302025-5-15.md"
     content_hash: "70fa05dde513a54c6e9d4f40bd3dd154aad888be0a8479e0513e4d5f514c7f29"
+    raw_file_hash: "70fa05dde513a54c6e9d4f40bd3dd154aad888be0a8479e0513e4d5f514c7f29"
+    converted_text_hash: "f8e2027af986a59b6f64d0a80d02f57a8b5ceca3046a3d44387d906117aa5a0c"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 39936
     quality_status: "ok"
     quality_score: 100
@@ -253,12 +368,19 @@ attachments:
     title: "[별지 제15-2호 서식] 서면의견진술서<신설 2006.11.30, 2009.2.3>"
     file_name: "시장감시규정 시행세칙_74차_서면의견진술서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006017_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제15-2호-서식-서면의견진술서신설-2006-11-30-2009-2-3.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제15-2호-서식-서면의견진술서신설-2006-11-30-2009-2-3.md"
     content_hash: "5e72a24a22c77361a7f2578c091cfa3f6ce2568879f36b1a4c3a5745747aaae7"
+    raw_file_hash: "5e72a24a22c77361a7f2578c091cfa3f6ce2568879f36b1a4c3a5745747aaae7"
+    converted_text_hash: "435b6088327a03993da936be4fe616fbd5e67f1645afdda9b9f7aad9a42b9aeb"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 30720
     quality_status: "ok"
     quality_score: 100
@@ -269,12 +391,19 @@ attachments:
     title: "[별지 제15-5호서식] 징계내역 확인 요청서<개정 2021.9.14>"
     file_name: "시장감시규정 시행세칙_74차_징계내역확인요청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006020_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제15-5호서식-징계내역-확인-요청서개정-2021-9-14.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제15-5호서식-징계내역-확인-요청서개정-2021-9-14.md"
     content_hash: "f0c66f8bf7ef1762f755a6b73cc6936b329f28d26c81bb8cf03e162723e5a259"
+    raw_file_hash: "f0c66f8bf7ef1762f755a6b73cc6936b329f28d26c81bb8cf03e162723e5a259"
+    converted_text_hash: "94766610baff509c355086d97ade083868e0fca7559bb7e4cc4fe340bbe75c2c"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 30208
     quality_status: "ok"
     quality_score: 100
@@ -285,12 +414,19 @@ attachments:
     title: "[별지 제15-6호서식] 개인정보 제공 동의서<신설 2014.6.26>"
     file_name: "시장감시규정 시행세칙_74차_개인정보제공동의서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006021_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제15-6호서식-개인정보-제공-동의서신설-2014-6-26.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제15-6호서식-개인정보-제공-동의서신설-2014-6-26.md"
     content_hash: "d24d256e243b21d16298fdd548daff46b287452c4ce0514736f0e8282ee0112f"
+    raw_file_hash: "d24d256e243b21d16298fdd548daff46b287452c4ce0514736f0e8282ee0112f"
+    converted_text_hash: "086ce9c326e123c2d2894ebc52af8822454418082c0925611c99fb2ba0b86ea4"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 41984
     quality_status: "ok"
     quality_score: 100
@@ -301,12 +437,19 @@ attachments:
     title: "[별지 제15-7호서식] 징계내역 통보서<개정 2021.9.14>"
     file_name: "시장감시규정 시행세칙_74차_징계내역통보서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006022_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제15-7호서식-징계내역-통보서개정-2021-9-14.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제15-7호서식-징계내역-통보서개정-2021-9-14.md"
     content_hash: "57b3ba84f17d114f0b45b33e228e1e7500b3587c16ce6b63a74850a84155a461"
+    raw_file_hash: "57b3ba84f17d114f0b45b33e228e1e7500b3587c16ce6b63a74850a84155a461"
+    converted_text_hash: "902f0632374c9f569a53c1397b64ddacf766d07dceba7b087ef792f8d9683d0a"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 31232
     quality_status: "ok"
     quality_score: 100
@@ -317,12 +460,19 @@ attachments:
     title: "[별지 제16호 서식] 약식제재금 부과 통지서<개정 2009.2.3, 2021.9.14, 2022.6.15, 2024.1.30,2025. 5. 15.>"
     file_name: "시장감시규정 시행세칙_74차_약식제재금부과통지서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210068447.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제16호-서식-약식제재금-부과-통지서개정-2009-2-3-2021-9-14-2022-6-15-2024-1-302025-5-15.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제16호-서식-약식제재금-부과-통지서개정-2009-2-3-2021-9-14-2022-6-15-2024-1-302025-5-15.md"
     content_hash: "146ecdaab9e02884c438ccca14b0b5e70ff6c476d009f9b9ab860c848e59b7aa"
+    raw_file_hash: "146ecdaab9e02884c438ccca14b0b5e70ff6c476d009f9b9ab860c848e59b7aa"
+    converted_text_hash: "6bd5cec9d47c082d477a7f4308972d28c7806127a7d4b25dc875b964dfb01b1e"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 38400
     quality_status: "ok"
     quality_score: 100
@@ -332,12 +482,19 @@ attachments:
     title: "[별지 제17호 서식] 컨설팅 요청서<신설 2016.4.18>"
     file_name: "시장감시규정 시행세칙_74차_컨설팅요청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006024_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제17호-서식-컨설팅-요청서신설-2016-4-18.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제17호-서식-컨설팅-요청서신설-2016-4-18.md"
     content_hash: "7a3b5a1227b847fa6002355dae01187f923e7b29866adba508db690bd42f7593"
+    raw_file_hash: "7a3b5a1227b847fa6002355dae01187f923e7b29866adba508db690bd42f7593"
+    converted_text_hash: "ed649d47485812d90ae58a4f16a0f691901df6ea0f657360fe8101d7110eb85c"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 35328
     quality_status: "ok"
     quality_score: 100
@@ -348,12 +505,19 @@ attachments:
     title: "[별지 제18호 서식] 예방교육 요청서<신설 2016.5.31>"
     file_name: "시장감시규정 시행세칙_74차_예방교육요청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006025_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제18호-서식-예방교육-요청서신설-2016-5-31.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제18호-서식-예방교육-요청서신설-2016-5-31.md"
     content_hash: "f292eff94286d87e9fbad49cf032efc55ca56f607ccfb6559953f86847282c99"
+    raw_file_hash: "f292eff94286d87e9fbad49cf032efc55ca56f607ccfb6559953f86847282c99"
+    converted_text_hash: "fc1ef0ffcb3af99705296c9c9f246e35aed7f8961d17968c5472060150d5ece7"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 30208
     quality_status: "ok"
     quality_score: 100
@@ -364,12 +528,19 @@ attachments:
     title: "[별지 제19호 서식] 임직원 등록 및 매매알림 서비스 이용신청서<신설 2018.12.11>"
     file_name: "시장감시규정 시행세칙_74차_임직원등록및매매알림서비스이용신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006026_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제19호-서식-임직원-등록-및-매매알림-서비스-이용신청서신설-2018-12-11.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제19호-서식-임직원-등록-및-매매알림-서비스-이용신청서신설-2018-12-11.md"
     content_hash: "112a2c3969858932973af17fbb4905820bacd1b7b87e2375d2cbd27185cd17d3"
+    raw_file_hash: "112a2c3969858932973af17fbb4905820bacd1b7b87e2375d2cbd27185cd17d3"
+    converted_text_hash: "56297c539bc1a3e642822b2577a066ae355412225ea2536366fe70608e39fa14"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 41472
     quality_status: "ok"
     quality_score: 100
@@ -380,12 +551,19 @@ attachments:
     title: "[별지 제20호 서식] 위법·위규행위 발생사실 신고서<신설 2023.06.07>"
     file_name: "시장감시규정 시행세칙_74차_위법·위규행위발생사실신고서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006027_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별지-제20호-서식-위법위규행위-발생사실-신고서신설-2023-06-07.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별지-제20호-서식-위법위규행위-발생사실-신고서신설-2023-06-07.md"
     content_hash: "553dc985cd3295121b2238d224d1322777fc15e8603ab86fc148345e0aa5856f"
+    raw_file_hash: "553dc985cd3295121b2238d224d1322777fc15e8603ab86fc148345e0aa5856f"
+    converted_text_hash: "f97e993349c9bca5b2d9acabd1d63d4a3ec12cc20bdb8eed69ce627028d427dd"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 51200
     quality_status: "ok"
     quality_score: 100
@@ -396,12 +574,19 @@ attachments:
     title: "[별표 1] 회원제재금 부과기준<개정 2022.11.23, 2023.06.07, 2024.10.15,2026. 1. 29.>"
     file_name: "시장감시규정 시행세칙_74차_회원제재금부과기준.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210216184.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별표-1-회원제재금-부과기준개정-2022-11-23-2023-06-07-2024-10-152026-1-29.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별표-1-회원제재금-부과기준개정-2022-11-23-2023-06-07-2024-10-152026-1-29.md"
     content_hash: "11ba6baa7875f7b79dbc133c0835a54d043d7d55af5d4691ad5277f36e5a1daa"
+    raw_file_hash: "11ba6baa7875f7b79dbc133c0835a54d043d7d55af5d4691ad5277f36e5a1daa"
+    converted_text_hash: "7612011e64de1dfc63e7a4b9773c01b1d08b069485f04518662d811954b457b1"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 43520
     quality_status: "ok"
     quality_score: 100
@@ -412,12 +597,19 @@ attachments:
     title: "[별표 1의2] 공매도 점검결과 보고 사항<신설 2021.3.12>"
     file_name: "시장감시규정 시행세칙_74차_공매도점검결과보고사항.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022530000006029_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별표-1의2-공매도-점검결과-보고-사항신설-2021-3-12.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별표-1의2-공매도-점검결과-보고-사항신설-2021-3-12.md"
     content_hash: "7200b6e7bfd910dad23595bf0fb71223cfd437b889867eeb21745b1bc5dc409d"
+    raw_file_hash: "7200b6e7bfd910dad23595bf0fb71223cfd437b889867eeb21745b1bc5dc409d"
+    converted_text_hash: "f0026e49ad0b237409ec2aed6bfd09edebb9b09120e535ae8de60359fd5340a2"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 55296
     quality_status: "ok"
     quality_score: 100
@@ -428,12 +620,19 @@ attachments:
     title: "[별표2] 약식제재금 부과기준<신설 2006.11.30, 2007.8.27, 2008.6.27, 2009.3.27, 2009.11.27, 2010.5.31, 2011.12.26, 2012.4.10, 2015.11.20, 2016.4.18, 2017.8.11, 2019.9.20, 2022.6.15,개정 2025. 5. 15.,2026. 5. 19.>"
     file_name: "시장감시규정 시행세칙_74차_약식제재금부과기준.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210213282.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/시장감시규정-시행세칙/raw/별표2-약식제재금-부과기준신설-2006-11-30-2007-8-27-2008-6-27-2009-3-27-2009-11-27-2010-5-31-2011-12-26-2012-4-10-2015-11-20-2016-4-18-2017-8-11-2019-9-20-2022-6-15.hwp"
     text_path: "ko/rules/시장감시규정-시행세칙/attachments/별표2-약식제재금-부과기준신설-2006-11-30-2007-8-27-2008-6-27-2009-3-27-2009-11-27-2010-5-31-2011-12-26-2012-4-10-2015-11-20-2016-4-18-2017-8-11.md"
     content_hash: "7c758f5739ab72101ffcd847d2299b2255105f0126eacf3b73c233ff1ee313f1"
+    raw_file_hash: "7c758f5739ab72101ffcd847d2299b2255105f0126eacf3b73c233ff1ee313f1"
+    converted_text_hash: "a2dde2ae446925dbef8c6d513a403ba7ce75f2c6c7b4ac603017cf984277faed"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 53760
     quality_status: "ok"
     quality_score: 100
@@ -445,13 +644,13 @@ attachments:
 
 제1장 총칙
 
-**제1조(목적)**이 세칙은 「시장감시규정」의 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.<개정 2020. 3. 18.>
+**제1조(목적)**이 세칙은 「시장감시규정」의 시행에 관하여 필요한 사항을 규정함을 목적으로 한다. <개정 2020. 3. 18.>
 
-**제2조(정의)**이 세칙에서 사용하는 용어의 정의는 「시장감시규정」(이하 "규정"이라 한다)이 정하는 바에 의한다.<개정 2020. 3. 18.>
+**제2조(정의)**이 세칙에서 사용하는 용어의 정의는 「시장감시규정」(이하 "규정"이라 한다)이 정하는 바에 의한다. <개정 2020. 3. 18.>
 
-제2장 시장의 건전성 유지
+ 제2장 시장의 건전성 유지
 
-**제2조의2(예방조치요구 등의 대상선정 및 방법)**①규정제5조제4항에 따라 위원회는 시장감시위원장(이하 "위원장"이라 한다)이 정하는 기준에 해당하는 계좌와 관련된 회원에게 장중 건전주문 안내 및 예방조치에 대한 요구를 할 수 있다. 이 경우 다음 각 호의 어느 하나에 해당하는 경우에는 주문수탁의 거부예고 이상의 예방조치에 대한 요구를 할 수 있다.<개정 2012. 3. 8., 2014. 7. 31., 2022. 11. 23., 2023. 2. 8.>
+**제2조의2(예방조치요구 등의 대상선정 및 방법)**① 규정 제5조 제4항에 따라 위원회는 시장감시위원장(이하 "위원장"이라 한다)이 정하는 기준에 해당하는 계좌와 관련된 회원에게 장중 건전주문 안내 및 예방조치에 대한 요구를 할 수 있다. 이 경우 다음 각 호의 어느 하나에 해당하는 경우에는 주문수탁의 거부예고 이상의 예방조치에 대한 요구를 할 수 있다. <개정 2012. 3. 8., 2014. 7. 31., 2022. 11. 23., 2023. 2. 8.>
 
 1. 투자경고종목 또는 투자위험종목에 관여하여 예방조치요구를 받는 경우
 
@@ -459,19 +658,19 @@ attachments:
 
 3. 불건전 매매양태의 반복, 계좌의 과거 불건전 매매 이력, 과도한 주가 변동 등을 감안할 때 불공정거래에 해당할 우려가 높다고 판단되어 예방조치요구를 받는 경우
 
-② 제1항에 따른 장중 건전주문 안내 또는 예방조치를 요구받은 회원은 위원회가 정하는 바에 따라 해당 고객에게 장중 건전주문 안내 또는 경고, 주문수탁의 거부예고, 주문수탁의 거부 등 불공정거래의 예방을 위한 적절한 조치를 하여야 한다.<개정 2012. 3. 8., 2014. 7. 31., 2018. 12. 11., 2023. 2. 8.>
+② 제1항에 따른 장중 건전주문 안내 또는 예방조치를 요구받은 회원은 위원회가 정하는 바에 따라 해당 고객에게 장중 건전주문 안내 또는 경고, 주문수탁의 거부예고, 주문수탁의 거부 등 불공정거래의 예방을 위한 적절한 조치를 하여야 한다. <개정 2012. 3. 8., 2014. 7. 31., 2018. 12. 11., 2023. 2. 8.>
 
-1. 삭제<2023. 2. 8.>
+1. 삭제 <2023. 2. 8.>
 
-2. 삭제<2023. 2. 8.>
+2. 삭제 <2023. 2. 8.>
 
-3. 삭제<2023. 2. 8.>
+3. 삭제 <2023. 2. 8.>
 
 ③ 제1항에 따른 예방조치요구를 받은 회원은 매분기가 종료된 달의 다음달 10일(당일이 「관공서의 공휴일에 관한 규정」에 따른 공휴일 또는 토요일인 경우에는 그 다음 매매거래일로 순연한다) 이내에 그 조치결과를 위원회에 통보하여야 한다.
 
 [본조신설 2009. 2. 3.]
 
-**제2조의3(투자유의 안내)**규정제5조제4항에 따라 위원회는 다음 각 호의 어느 하나에 해당하는 경우, 투자자의 피해 예방을 위하여 인터넷 홈페이지 게재 등의 방법으로 투자유의사항 등을 투자자에게 안내할 수 있다.
+**제2조의3(투자유의 안내)**규정 제5조 제4항에 따라 위원회는 다음 각 호의 어느 하나에 해당하는 경우, 투자자의 피해 예방을 위하여 인터넷 홈페이지 게재 등의 방법으로 투자유의사항 등을 투자자에게 안내할 수 있다.
 
 1. 불공정거래 등 시장질서 저해행위로 다수 투자자의 피해가 발생하거나 예상되는 경우
 
@@ -479,7 +678,7 @@ attachments:
 
 [본조신설 2012. 8. 27.]
 
-**제2조의4(회원에 대한 컨설팅)**①규정제5조제4항에 따라 위원회는 회원에 대하여 회원의 불공정거래 예방과 한국거래소(이하 "거래소"라 한다)의 업무관련규정(거래참가자의 경우에는규정및 해당 다자간매매체결회사의 업무기준을 말한다. 이하 "업무관련규정"이라 한다) 준수를 지원하기 위한 컨설팅(이하 "컨설팅"이라 한다)을 할 수 있다.<개정 2025. 2. 27.>
+**제2조의4(회원에 대한 컨설팅)**① 규정 제5조제4항에 따라 위원회는 회원에 대하여 회원의 불공정거래 예방과 한국거래소(이하 "거래소"라 한다)의 업무관련규정(거래참가자의 경우에는 규정 및 해당 다자간매매체결회사의 업무기준을 말한다. 이하 "업무관련규정"이라 한다) 준수를 지원하기 위한 컨설팅(이하 "컨설팅"이라 한다)을 할 수 있다. <개정 2025. 2. 27.>
 
 ② 위원회는 회원과 컨설팅 대상, 컨설팅 기간·방법, 자료수집 범위 등을 사전에 협의할 수 있다.
 
@@ -489,7 +688,7 @@ attachments:
 
 [본조신설 2016. 4. 18.]
 
-**제2조의5(회원에 대한 컨설팅 절차 및 방법)**① 컨설팅은 다음 각 호의 어느 하나에 해당하는 경우에 실시할 수 있다.<개정 2017. 2. 10., 2022. 11. 23.>
+**제2조의5(회원에 대한 컨설팅 절차 및 방법)**① 컨설팅은 다음 각 호의 어느 하나에 해당하는 경우에 실시할 수 있다. <개정 2017. 2. 10., 2022. 11. 23.>
 
 1. 위원회가 정한 연간 컨설팅 계획에 따른 경우
 
@@ -517,7 +716,7 @@ attachments:
 
 ③ 위원회는 컨설팅 결과 제14조제1항제4호부터 제6호까지의 징계 기준 또는 제14조제2항제1호부터 제3호까지의 조치기준에 해당하는 사실을 발견한 경우에는 위규내용, 시정필요사항 및 시정결과 통보기한이 기재된 시정사항을 해당 회원에게 통보할 수 있다.
 
-④ 제3항에 불구하고 위원회는 컨설팅 결과 회원이 다음 각 호의 어느 하나에 해당하는 경우에는규정제16조에 따른 감리를 실시할 수 있다.<개정 2018. 9. 7.>
+④ 제3항에 불구하고 위원회는 컨설팅 결과 회원이 다음 각 호의 어느 하나에 해당하는 경우에는 규정 제16조에 따른 감리를 실시할 수 있다. <개정 2018. 9. 7.>
 
 1. 제14조제1항제1호부터 제3호까지 조치기준 또는 별표 1의 회원제재금 부과기준상 위반 원인의 중대성이 '상'에 해당하는 사실을 발견한 경우
 
@@ -533,7 +732,7 @@ attachments:
 
 [본조신설 2016. 4. 18.]
 
-**제2조의8(주권상장법인에 대한 교육)**①규정제5조제4항에 따라 위원회는 주권상장법인에 대하여 불공정거래 예방과 업무관련규정 준수를 지원하기 위한 불공정거래 예방교육(이하 "교육"이라 한다)을 할 수 있다.
+**제2조의8(주권상장법인에 대한 교육)**① 규정 제5조제4항에 따라 위원회는 주권상장법인에 대하여 불공정거래 예방과 업무관련규정 준수를 지원하기 위한 불공정거래 예방교육(이하 "교육"이라 한다)을 할 수 있다.
 
 ② 위원회는 주권상장법인과 교육 대상, 내용, 시기 및 방법 등을 사전에 협의할 수 있다.
 
@@ -555,13 +754,13 @@ attachments:
 
 [본조신설 2016. 5. 31.]
 
-**제2조의10(주권상장법인에 대한 준법컨설팅)**①규정제5조제4항에 따라 위원회는 주권상장법인에 대하여 불공정거래 예방을 지원하기 위한 준법컨설팅을 할 수 있다.
+**제2조의10(주권상장법인에 대한 준법컨설팅)**① 규정 제5조제4항에 따라 위원회는 주권상장법인에 대하여 불공정거래 예방을 지원하기 위한 준법컨설팅을 할 수 있다.
 
 ② 제1항에 따른 준법컨설팅의 실시와 관련하여 필요한 사항은 위원장이 정한다.
 
 [본조신설 2017. 2. 10.]
 
-**제2조의11(주권상장법인 임직원 등록시스템 운영)**①규정제5조제4항에 따라 위원회는 주권상장법인의 불공정거래 예방활동을 지원하기 위하여 주권상장법인이 그 임직원(주요주주를 포함한다)의 성명, 생년월일, 계좌번호 등을 등록하고 그 임직원이 해당 주권상장법인(계열회사를 포함한다)의 주권을 매매하는 경우 해당 주권상장법인에 매매사실을 알리는 시스템(이하 "주권상장법인 임직원 등록시스템"이라 한다)을 운영할 수 있다.
+**제2조의11(주권상장법인 임직원 등록시스템 운영)**① 규정 제5조제4항에 따라 위원회는 주권상장법인의 불공정거래 예방활동을 지원하기 위하여 주권상장법인이 그 임직원(주요주주를 포함한다)의 성명, 생년월일, 계좌번호 등을 등록하고 그 임직원이 해당 주권상장법인(계열회사를 포함한다)의 주권을 매매하는 경우 해당 주권상장법인에 매매사실을 알리는 시스템(이하 "주권상장법인 임직원 등록시스템"이라 한다)을 운영할 수 있다.
 
 ② 주권상장법인은 주권상장법인 임직원 등록시스템을 이용하려는 경우에는 정보주체인 임직원의 동의를 받아 별지 제19호 서식의 임직원 등록 및 매매알림 서비스 이용신청서를 작성하여 제출하여야 한다.
 
@@ -569,9 +768,9 @@ attachments:
 
 [본조신설 2018. 12. 11.]
 
-**제3조(투자주의종목의 지정 등)**①규정제5조의2제1항 각 호 외의 부분에서 "세칙으로 정하는 증권"이란 증권예탁증권 및 주식워런트증권을 말한다.<신설 2009. 2. 3., 2012. 3. 8., 2012. 10. 5., 2014. 10. 31., 2018. 2. 2.>
+**제3조(투자주의종목의 지정 등)**① 규정 제5조의2제1항 각 호 외의 부분에서 "세칙으로 정하는 증권"이란 증권예탁증권 및 주식워런트증권을 말한다. <신설 2009. 2. 3., 2012. 3. 8., 2012. 10. 5., 2014. 10. 31., 2018. 2. 2.>
 
-②규정제5조의2제1항제1호에서 "소수지점거래집중종목"이란 최근 3일간 다음 각 호의 어느 하나에 해당하는 종목을 말하며, 그 다음 매매거래일 1일간 투자주의종목으로 지정하여 공표한다.<개정 2009. 11. 27., 2011. 2. 11., 2012. 3. 8., 2012. 10. 5., 2018. 2. 2., 2020. 3. 18., 2021. 12. 15.>
+② 규정 제5조의2제1항제1호에서 "소수지점거래집중종목"이란 최근 3일간 다음 각 호의 어느 하나에 해당하는 종목을 말하며, 그 다음 매매거래일 1일간 투자주의종목으로 지정하여 공표한다. <개정 2009. 11. 27., 2011. 2. 11., 2012. 3. 8., 2012. 10. 5., 2018. 2. 2., 2020. 3. 18., 2021. 12. 15.>
 
 1. 삭제
 
@@ -597,7 +796,7 @@ attachments:
 
 라. 일평균거래량 100,000증권 이상
 
-③규정제5조의2제1항제2호에서 "소수계좌거래집중종목"이란 최근 3일간 다음 각 호의 어느 하나에 해당하는 종목을 말하며, 그 다음 매매거래일 1일간 투자주의종목으로 지정하여 공표한다.<개정 2009. 11. 27., 2011. 2. 11., 2012. 3. 8., 2012. 10. 5., 2021. 12. 15., 2022. 11. 23.>
+③ 규정 제5조의2제1항제2호에서 "소수계좌거래집중종목"이란 최근 3일간 다음 각 호의 어느 하나에 해당하는 종목을 말하며, 그 다음 매매거래일 1일간 투자주의종목으로 지정하여 공표한다. <개정 2009. 11. 27., 2011. 2. 11., 2012. 3. 8., 2012. 10. 5., 2021. 12. 15., 2022. 11. 23.>
 
 1. 주권 또는 증권예탁증권(이하 "주권 등"이라 한다)의 경우에는 다음 각 목의 모두에 해당하는 종목
 
@@ -639,13 +838,13 @@ attachments:
 
 라. 일평균거래량이 100,000증권 이상
 
-④규정제5조의2제1항제3호에서 "세칙으로 정하는 종목"이란 주권 등으로서 다음 각 호의 어느 하나에 해당하는 종목을 말하며, 그 다음 매매거래일 1일간 투자주의종목으로 지정하여 공표할 수 있다.<개정 2008. 7. 24., 2009. 2. 3., 2009. 11. 27., 2011. 2. 11., 2012. 3. 8., 2012. 10. 5., 2014. 7. 31., 2014. 10. 31., 2015. 11. 20., 2015. 12. 11., 2017. 2. 10., 2017. 8. 11., 2018. 2. 2., 2020. 3. 18., 2021. 12. 15., 2022. 11. 23., 2023. 2. 8.>
+④ 규정 제5조의2제1항제3호에서 "세칙으로 정하는 종목"이란 주권 등으로서 다음 각 호의 어느 하나에 해당하는 종목을 말하며, 그 다음 매매거래일 1일간 투자주의종목으로 지정하여 공표할 수 있다. <개정 2008. 7. 24., 2009. 2. 3., 2009. 11. 27., 2011. 2. 11., 2012. 3. 8., 2012. 10. 5., 2014. 7. 31., 2014. 10. 31., 2015. 11. 20., 2015. 12. 11., 2017. 2. 10., 2017. 8. 11., 2018. 2. 2., 2020. 3. 18., 2021. 12. 15., 2022. 11. 23., 2023. 2. 8.>
 
 1. 다음 각 목의 모두에 해당하는 종목(이하 "종가급변종목"이라 한다)
 
 가. 장종료시의 가격결정시 형성된 가격이 직전가격 대비 5% 이상 상승 또는 하락(장종료시의 가격결정시 형성된 가격과 직전가격의 차이가 호가가격단위와 일치하는 경우를 제외한다)
 
-나. 당일 거래량이 30,000주 이상이고, 장종료시의 가격결정시 거래량이 당일 총거래량의 5% 이상<개정 2025. 2. 27.>
+나. 당일 거래량이 30,000주 이상이고, 장종료시의 가격결정시 거래량이 당일 총거래량의 5% 이상 <개정 2025. 2. 27.>
 
 2. 상한가잔량 상위종목 : 당일 정규시장 종료시 상한가 매수호가의 미체결 수량이 10만주 이상이면서 미체결수량 상위 10개 계좌의 미체결수량 합계가 전체 미체결수량의 90% 이상인 종목
 
@@ -670,29 +869,29 @@ attachments:
 7. 풍문관여과다종목 : 최근 5일 동안 동일한 내용의 풍문등을 이유로 3회 이상 풍문관여종목으로 지정된 종목. 이 경우 풍문관여종목은 다음 각 목의 어느 하나에 해당하는 종목 중에서 시황, 공시내용, 상장법인의 대응여부 등을 고려하여 위원장이 지정한다.
 
 가. 다음의 모두에 해당하는 종목
-1) 당일의 인터넷포털의 증권 관련 게시판에 게시된 공정거래질서를 저해할 우려가 있는 풍문등(이하 이 호에서 "인터넷 풍문등"이라 한다)이 최근 5일 평균 대비 3배 이상 증가한 경우이거나 당일의 인터넷 풍문등의 조회수가 최근 1개월 평균 대비 3배이상 증가한 경우
-2) 다음의 어느 하나에 해당할 것
-가) 당일의 주가가 상한가인 경우
-나) 당일의 주가가 최근 20일 중 최고가인 경우
-다) 당일의 장중 주가가 일중 최저가 대비 30% 이상 변동하고 전일 대비 주가가 상승한 경우
-라) 당일의 거래량이 최근 5일 평균 거래량 대비 3배 이상 증가한 경우
-마) 주가상승이 「유가증권시장 공시규정」제12조제2항 본문에 따른 조회공시 요구 기준 또는 「코스닥시장 공시규정」제10조제2항 본문에 따른 조회공시 요구기준에 해당하는 경우
+ 1) 당일의 인터넷포털의 증권 관련 게시판에 게시된 공정거래질서를 저해할 우려가 있는 풍문등(이하 이 호에서 "인터넷 풍문등"이라 한다)이 최근 5일 평균 대비 3배 이상 증가한 경우이거나 당일의 인터넷 풍문등의 조회수가 최근 1개월 평균 대비 3배이상 증가한 경우
+ 2) 다음의 어느 하나에 해당할 것
+ 가) 당일의 주가가 상한가인 경우
+ 나) 당일의 주가가 최근 20일 중 최고가인 경우
+ 다) 당일의 장중 주가가 일중 최저가 대비 30% 이상 변동하고 전일 대비 주가가 상승한 경우
+ 라) 당일의 거래량이 최근 5일 평균 거래량 대비 3배 이상 증가한 경우
+ 마) 주가상승이 「유가증권시장 공시규정」 제12조제2항 본문에 따른 조회공시 요구 기준 또는 「코스닥시장 공시규정」 제10조제2항 본문에 따른 조회공시 요구기준에 해당하는 경우
 
 나. 인터넷 풍문등의 내용이 투자자의 투자판단에 중대한 영향을 미친다고 위원장이 인정하는 종목
 
 8. 스팸관여과다종목 : 최근 5일 중 마지막 날을 포함하여 2일 이상 스팸관여종목으로 지정된 종목. 이 경우 스팸관여종목은 다음 각 목의 모두에 해당하는 종목 중에서 시황, 공시내용 등을 고려하여 위원장이 지정한다.
 
-가. 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」제52조에 따른 한국인터넷진흥원에 신고된 주식 매매 관련 영리 목적 광고성 정보의 최근 3일(당일을 포함한다) 평균신고건수가 최근 5일 또는 최근 20일 평균 대비 3배 이상 증가한 경우
+가. 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」 제52조에 따른 한국인터넷진흥원에 신고된 주식 매매 관련 영리 목적 광고성 정보의 최근 3일(당일을 포함한다) 평균신고건수가 최근 5일 또는 최근 20일 평균 대비 3배 이상 증가한 경우
 
 나. 이 항 제7호가목2)에 해당하는 경우
 
-9. 제3조의3제2항의 규정에 따른 투자경고종목의 지정예고요건에 해당하는 종목. 다만, 제3조의3제4항의 규정에 따라 투자경고종목 지정예고를 하지 아니한 종목은 제외한다.<개정 2026. 5. 26.>
+9. 제3조의3제2항의 규정에 따른 투자경고종목의 지정예고요건에 해당하는 종목. 다만, 제3조의3제4항의 규정에 따라 투자경고종목 지정예고를 하지 아니한 종목은 제외한다. <개정 2026. 5. 26.>
 
 10. 제3조의3제5항제1호의 규정에 따른 투자경고종목의 지정해제 요건에 해당하는 종목
 
 11. 그 밖에 위원장이 투자자보호를 위하여 필요하다고 인정하는 종목
 
-⑤ 주권 등으로서 다음 각 호의 어느 하나에 해당하는 종목에 대하여 제2항부터 제4항까지의 요건을 적용하는 경우 매매거래 재개일을 포함한 그 날부터 지정 요건을 적용한다.<신설 2009. 11. 27., 2016. 4. 18.>
+⑤ 주권 등으로서 다음 각 호의 어느 하나에 해당하는 종목에 대하여 제2항부터 제4항까지의 요건을 적용하는 경우 매매거래 재개일을 포함한 그 날부터 지정 요건을 적용한다. <신설 2009. 11. 27., 2016. 4. 18.>
 
 1. 시가기준가종목의 적용을 위하여 매매거래가 정지된 종목
 
@@ -700,7 +899,7 @@ attachments:
 
 3. 삭제
 
-⑥ 제2항부터 제4항까지의 규정에도 불구하고 위원회는 다음 각 호의 어느 하나에 해당하는 종목의 경우에는 투자주의종목으로 지정하지 아니 한다.<개정 2009. 2. 3., 2011. 2. 11., 2013. 6. 17., 2014. 6. 26., 2014. 11. 27.>
+⑥ 제2항부터 제4항까지의 규정에도 불구하고 위원회는 다음 각 호의 어느 하나에 해당하는 종목의 경우에는 투자주의종목으로 지정하지 아니 한다. <개정 2009. 2. 3., 2011. 2. 11., 2013. 6. 17., 2014. 6. 26., 2014. 11. 27.>
 
 1. 투자경고종목 또는 투자위험종목으로 지정된 종목
 
@@ -708,9 +907,9 @@ attachments:
 
 3. 코넥스시장 상장종목으로서 신규상장일로부터 20일 이내인 종목
 
-4. 종목의 특성 또는 시장 상황 등을 고려하여 투자주의종목의 지정이 현저하게 부적절하다고 위원장이 인정하는 종목<신설 2026. 4. 24.>
+4. 종목의 특성 또는 시장 상황 등을 고려하여 투자주의종목의 지정이 현저하게 부적절하다고 위원장이 인정하는 종목 <신설 2026. 4. 24.>
 
-⑦ 제2항부터 제4항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 투자주의종목의 지정 및 공표를 하지 아니할 수 있다.<신설 2008. 11. 13., 2009. 2. 3., 2022. 11. 23.>
+⑦ 제2항부터 제4항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 투자주의종목의 지정 및 공표를 하지 아니할 수 있다. <신설 2008. 11. 13., 2009. 2. 3., 2022. 11. 23.>
 
 1. 천재·지변·전시 또는 사변
 
@@ -720,11 +919,11 @@ attachments:
 
 [전문개정 2007. 8. 27.]
 
-**제3조의2(투자경고종목 및 투자위험종목의 지정대상 증권<개정 2009. 2. 3.>)**규정제5조의3제1항에서 "세칙으로 정하는 증권"이란 증권예탁증권을 말한다.<개정 2009. 2. 3., 2012. 3. 8., 2014. 10. 31., 2018. 2. 2.>
+**제3조의2(투자경고종목 및 투자위험종목의 지정대상 증권<개정 2009. 2. 3.>)**규정 제5조의3제1항에서 "세칙으로 정하는 증권"이란 증권예탁증권을 말한다. <개정 2009. 2. 3., 2012. 3. 8., 2014. 10. 31., 2018. 2. 2.>
 
 [본조신설 2007. 8. 27.]
 
-**제3조의3(투자경고종목의 지정 등)**①규정제5조의3제5항에 따라 위원회는 제2항에 따라 투자경고 종목으로 지정예고된 날부터 기산하여 10일 이내에 다음 각 호의 어느 하나에 해당하는 종목의 경우에는 그 다음 매매거래일부터 투자경고종목으로 지정하여 공표할 수 있다.<개정 2008. 7. 24., 2009. 11. 27., 2010. 5. 31., 2011. 2. 11., 2012. 3. 8., 2012. 9. 12., 2012. 10. 5., 2013. 6. 17., 2016. 3. 29., 2016. 4. 18., 2016. 5. 31., 2017. 2. 10., 2017. 9. 14., 2023. 12. 12., 2024. 5. 21.>
+**제3조의3(투자경고종목의 지정 등)**① 규정 제5조의3제5항에 따라 위원회는 제2항에 따라 투자경고 종목으로 지정예고된 날부터 기산하여 10일 이내에 다음 각 호의 어느 하나에 해당하는 종목의 경우에는 그 다음 매매거래일부터 투자경고종목으로 지정하여 공표할 수 있다. <개정 2008. 7. 24., 2009. 11. 27., 2010. 5. 31., 2011. 2. 11., 2012. 3. 8., 2012. 9. 12., 2012. 10. 5., 2013. 6. 17., 2016. 3. 29., 2016. 4. 18., 2016. 5. 31., 2017. 2. 10., 2017. 9. 14., 2023. 12. 12., 2024. 5. 21.>
 
 1. 제2항제1호에 따라 투자경고종목으로 지정예고된 경우에는 다음 각 목의 모두에 해당하는 종목
 
@@ -732,7 +931,7 @@ attachments:
 
 나. 당일의 주가가 최근 15일(신규상장일이나 제3항 각 호에 해당하는 종목의 매매거래 재개일을 포함한 날부터 매매거래 일수가 15일 미만인 경우에는 신규상장일이나 매매거래 재개일을 포함한 날부터 당일까지의 기간을 말한다. 이하 이 조 및 제3조의4에서 같다) 중 최고가
 
-다. 최근 5일간 주가상승률이 그 기간의 코스피지수(유가증권시장 상장종목에 적용하되, 해당 종목을 포함하는 산업별지수가 산출되고 그 구성종목이 10개를 초과하는 경우에는 그 산업별지수를 적용한다. 이하 이 항 및 제3조의4에서 같다) 또는 코스닥지수(코스닥시장 또는 코넥스시장 상장종목에 적용한다. 이하 이 항 및 제3조의4에서 같다) 상승률의 5배 이상<개정 2025. 12. 26.>
+다. 최근 5일간 주가상승률이 그 기간의 코스피지수(유가증권시장 상장종목에 적용하되, 해당 종목을 포함하는 산업별지수가 산출되고 그 구성종목이 10개를 초과하는 경우에는 그 산업별지수를 적용한다. 이하 이 항 및 제3조의4에서 같다) 또는 코스닥지수(코스닥시장 또는 코넥스시장 상장종목에 적용한다. 이하 이 항 및 제3조의4에서 같다) 상승률의 5배 이상 <개정 2025. 12. 26.>
 
 2. 제2항제2호에 따라 투자경고종목으로 지정예고된 경우에는 제1호 각 목의 모두에 해당하거나 다음 각 목의 모두에 해당하는 종목
 
@@ -788,7 +987,7 @@ attachments:
 
 나. 제2항제8호 본문에 해당되는 경우
 
-② 위원회는 당일의 주가가 최근 15일 중 최고가이면서 다음 각 호의 어느 하나에 해당하는 종목의 경우에는 투자경고종목으로 지정될 수 있다는 사실을 그 다음 매매거래일에 예고할 수 있다. 다만, 제6호의 경우에는 당일의 주가가 최근 15일 중 최고가가 아닌 경우에도 적용할 수 있다.<개정 2008. 7. 24., 2009. 11. 27., 2012. 3. 8., 2012. 10. 5., 2016. 4. 18., 2017. 9. 14., 2022. 11. 23., 2023. 12. 12.>
+② 위원회는 당일의 주가가 최근 15일 중 최고가이면서 다음 각 호의 어느 하나에 해당하는 종목의 경우에는 투자경고종목으로 지정될 수 있다는 사실을 그 다음 매매거래일에 예고할 수 있다. 다만, 제6호의 경우에는 당일의 주가가 최근 15일 중 최고가가 아닌 경우에도 적용할 수 있다. <개정 2008. 7. 24., 2009. 11. 27., 2012. 3. 8., 2012. 10. 5., 2016. 4. 18., 2017. 9. 14., 2022. 11. 23., 2023. 12. 12.>
 
 1. 최근 5일간 주가상승률이 60% 이상인 종목
 
@@ -802,7 +1001,7 @@ attachments:
 
 나. 최근 5일중 특정계좌(군)의 시세영향력을 고려한 매수 관여율이 위원장이 정하는 기준에 해당하는 일수가 2일 이상
 
-다. 삭제<2022. 11. 23.>
+다. 삭제 <2022. 11. 23.>
 
 라. 최근 5일중 특정계좌(군)의 시가 또는 종가의 매수 관여율이 20%이상인 일수가 2일 이상
 
@@ -812,7 +1011,7 @@ attachments:
 
 나. 최근 15일중 특정계좌(군)의 시세영향력을 고려한 매수 관여율이 위원장이 정하는 기준에 해당하는 일수가 4일 이상
 
-다. 삭제<2022. 11. 23.>
+다. 삭제 <2022. 11. 23.>
 
 라. 최근 15일중 특정계좌(군)의 시가 또는 종가의 매수 관여율이 20%이상인 일수가 4일 이상
 
@@ -820,35 +1019,35 @@ attachments:
 
 7. 최근 3일간 주가상승률이 100% 이상인 종목(코넥스시장 상장종목에는 적용하지 아니한다)
 
-8. 최근 1년간 코스피지수(유가증권시장 상장종목에 적용한다) 또는 코스닥지수(코스닥시장 상장종목에 적용한다)의 상승률(해당 지수가 하락한 경우에는 해당 지수의 상승률은 0%로 한다)을 초과한 주가상승률이 200% 이상이면서 최근 15일 중 시세영향력을 고려한 매수 관여율 상위 10개 계좌의 매수 관여율이 위원장이 정하는 기준에 해당하는 일수가 4일 이상인 종목. 다만, 다음 각 목의 어느 하나에 해당하는 종목은 제외한다.<개정 2025. 12. 26.>
+8. 최근 1년간 코스피지수(유가증권시장 상장종목에 적용한다) 또는 코스닥지수(코스닥시장 상장종목에 적용한다)의 상승률(해당 지수가 하락한 경우에는 해당 지수의 상승률은 0%로 한다)을 초과한 주가상승률이 200% 이상이면서 최근 15일 중 시세영향력을 고려한 매수 관여율 상위 10개 계좌의 매수 관여율이 위원장이 정하는 기준에 해당하는 일수가 4일 이상인 종목. 다만, 다음 각 목의 어느 하나에 해당하는 종목은 제외한다. <개정 2025. 12. 26.>
 
 가. 코넥스시장 상장종목
 
 나. 신규상장일 또는 시가기준가종목으로 적용된 날로부터 1년(초일을 산입한다)이 경과하지 않은 종목
 
-다. 최근 60영업일 이내에 제1항제9호에 따라 투자경고종목으로 지정된 종목<개정 2025. 12. 26.>
+다. 최근 60영업일 이내에 제1항제9호에 따라 투자경고종목으로 지정된 종목 <개정 2025. 12. 26.>
 
-라. 삭제<2026. 5. 26.>
+라. 삭제 <2026. 5. 26.>
 
-③ 다음 각 호의 어느 하나에 해당하는 종목의 경우에는 그 매매거래의 재개일을 포함하여 그 날부터 투자경고종목의 지정이나 지정예고의 요건을 적용한다.<개정 2009. 11. 27., 2016. 4. 18.>
+③ 다음 각 호의 어느 하나에 해당하는 종목의 경우에는 그 매매거래의 재개일을 포함하여 그 날부터 투자경고종목의 지정이나 지정예고의 요건을 적용한다. <개정 2009. 11. 27., 2016. 4. 18.>
 
 1. 시가기준가종목의 적용을 위하여 매매거래가 정지된 종목
 
 2. 상장폐지기준에 해당하여 매매거래가 정지된 종목
 
-3. 삭제<2016. 4. 18.>
+3. 삭제 <2016. 4. 18.>
 
-④ 제1항 및 제2항의 규정에 불구하고 위원회는 다음 각 호의 어느 하나에 해당하는 경우에는 투자경고종목의 지정 및 지정예고를 하지 아니할 수 있다.<개정 2013. 6. 17., 2014. 11. 27.>
+④ 제1항 및 제2항의 규정에 불구하고 위원회는 다음 각 호의 어느 하나에 해당하는 경우에는 투자경고종목의 지정 및 지정예고를 하지 아니할 수 있다. <개정 2013. 6. 17., 2014. 11. 27.>
 
 1. 정리매매종목
 
 2. 코넥스시장 상장종목으로서 신규상장일로부터 20일 이내인 종목
 
-3. 유가증권시장과 코스닥시장 전체 상장종목 중 전일의 시가총액의 순위가 상위 100위 이내인 종목<신설 2026. 5. 26.>
+3. 유가증권시장과 코스닥시장 전체 상장종목 중 전일의 시가총액의 순위가 상위 100위 이내인 종목 <신설 2026. 5. 26.>
 
-4. 그 밖에 시장상황의 급변, 투자자 보호의 필요성 등을 고려하여 위원장이 투자경고종목의 지정 및 지정예고가 현저하게 부적절하다고 인정하는 종목<신설 2026. 5. 26.>
+4. 그 밖에 시장상황의 급변, 투자자 보호의 필요성 등을 고려하여 위원장이 투자경고종목의 지정 및 지정예고가 현저하게 부적절하다고 인정하는 종목 <신설 2026. 5. 26.>
 
-⑤ 위원회는 투자경고종목이 다음 각 호의 어느 하나에 해당하는 경우에는 그 다음 매매거래일부터 그 지정을 해제한다.<개정 2010. 5. 31., 2012. 10. 5., 2016. 3. 29., 2016. 4. 18., 2023. 12. 12.>
+⑤ 위원회는 투자경고종목이 다음 각 호의 어느 하나에 해당하는 경우에는 그 다음 매매거래일부터 그 지정을 해제한다. <개정 2010. 5. 31., 2012. 10. 5., 2016. 3. 29., 2016. 4. 18., 2023. 12. 12.>
 
 1. 투자경고종목의 지정일부터 기산하여 10일 이후의 날로서 다음 각 목의 어느 하나에 해당될 경우
 
@@ -864,7 +1063,7 @@ attachments:
 
 [본조신설 2007. 8. 27.]
 
-**제3조의4(투자위험종목의 지정 등)**① 위원회는 투자경고종목이 제2항에 따라 투자위험종목으로 지정예고된 날부터 기산하여 10일 이내에 다음 각 호의 어느 하나에 해당하는 경우에는 그 다음 매매거래일부터 투자위험종목으로 지정하여 공표할 수 있다.<개정 2008. 7. 24., 2009. 11. 27., 2011. 2. 11., 2012. 3. 8., 2012. 10. 5., 2013. 6. 17., 2014. 11. 27., 2016. 3. 29.>
+**제3조의4(투자위험종목의 지정 등)**① 위원회는 투자경고종목이 제2항에 따라 투자위험종목으로 지정예고된 날부터 기산하여 10일 이내에 다음 각 호의 어느 하나에 해당하는 경우에는 그 다음 매매거래일부터 투자위험종목으로 지정하여 공표할 수 있다. <개정 2008. 7. 24., 2009. 11. 27., 2011. 2. 11., 2012. 3. 8., 2012. 10. 5., 2013. 6. 17., 2014. 11. 27., 2016. 3. 29.>
 
 1. 제2항제1호에 따라 투자위험종목으로 지정예고된 경우에는 다음 각 목의 모두에 해당하는 종목
 
@@ -906,7 +1105,7 @@ attachments:
 
 다. 최근 3일간 주가상승률이 그 기간의 코스피지수 또는 코스닥지수 상승률의 5배 이상
 
-② 위원회는 투자경고종목이 당일의 주가가 최근 15일 중 최고가이면서 다음 각 호의 어느 하나에 해당하는 경우에는 투자위험종목으로 지정될 수 있다는 사실을 그 다음 매매거래일에 예고할 수 있다.<개정 2009. 11. 27., 2012. 3. 8., 2012. 10. 5., 2016. 3. 29., 2022. 11. 23.>
+② 위원회는 투자경고종목이 당일의 주가가 최근 15일 중 최고가이면서 다음 각 호의 어느 하나에 해당하는 경우에는 투자위험종목으로 지정될 수 있다는 사실을 그 다음 매매거래일에 예고할 수 있다. <개정 2009. 11. 27., 2012. 3. 8., 2012. 10. 5., 2016. 3. 29., 2022. 11. 23.>
 
 1. 최근 5일간 주가상승률이 60% 이상인 종목
 
@@ -918,7 +1117,7 @@ attachments:
 
 나. 최근 5일중 특정계좌(군)의 시세영향력을 고려한 매수 관여율이 위원장이 정하는 기준에 해당하는 일수가 2일 이상
 
-다. 삭제<2022. 11. 23.>
+다. 삭제 <2022. 11. 23.>
 
 라. 최근 5일중 특정계좌(군)의 시가 또는 종가의 매수 관여율이 20%이상인 일수가 2일 이상
 
@@ -928,17 +1127,17 @@ attachments:
 
 나. 최근 15일중 특정계좌(군)의 시세영향력을 고려한 매수 관여율이 위원장이 정하는 기준에 해당하는 일수가 4일 이상
 
-다. 삭제<2022. 11. 23.>
+다. 삭제 <2022. 11. 23.>
 
 라. 최근 15일중 특정계좌(군)의 시가 또는 종가의 매수 관여율이 20%이상인 일수가 4일 이상
 
 5. 최근 3일간 주가상승률이 45% 이상인 종목
 
-③ 제1항 또는 제2항에서 정하는 요건을 투자위험종목의 지정 또는 그 지정예고에 각각 적용할 때 "최근 5일간"은 "투자경고종목의 지정일부터 기산하여 5일 이후의 날로서 최근 5일간"으로, "최근 15일간"은 "투자경고종목의 지정일부터 기산하여 15일 이후의 날로서 최근 15일간"으로, "최근 3일간"은 "투자경고종목 지정일부터 기산하여 3일 이후의 날로서 최근 3일간"으로 본다. 다만, 투자경고종목의 지정 해제일을 포함하여 그 날부터 10일 이내에 다시 투자경고종목으로 지정되는 경우의 투자경고종목의 지정일은 해제 직전의 지정일을 의미하는 것으로 본다.<개정 2009. 11. 27., 2012. 3. 8., 2016. 3. 29.>
+③ 제1항 또는 제2항에서 정하는 요건을 투자위험종목의 지정 또는 그 지정예고에 각각 적용할 때 "최근 5일간"은 "투자경고종목의 지정일부터 기산하여 5일 이후의 날로서 최근 5일간"으로, "최근 15일간"은 "투자경고종목의 지정일부터 기산하여 15일 이후의 날로서 최근 15일간"으로, "최근 3일간"은 "투자경고종목 지정일부터 기산하여 3일 이후의 날로서 최근 3일간"으로 본다. 다만, 투자경고종목의 지정 해제일을 포함하여 그 날부터 10일 이내에 다시 투자경고종목으로 지정되는 경우의 투자경고종목의 지정일은 해제 직전의 지정일을 의미하는 것으로 본다. <개정 2009. 11. 27., 2012. 3. 8., 2016. 3. 29.>
 
-④ 삭제<2014. 11. 27.>
+④ 삭제 <2014. 11. 27.>
 
-⑤ 위원회는 투자위험종목이 다음 각 호의 어느 하나에 해당하는 경우에는 그 다음 매매거래일부터 그 지정을 해제한다.<개정 2012. 3. 8., 2012. 10. 5., 2013. 6. 17., 2016. 3. 29.>
+⑤ 위원회는 투자위험종목이 다음 각 호의 어느 하나에 해당하는 경우에는 그 다음 매매거래일부터 그 지정을 해제한다. <개정 2012. 3. 8., 2012. 10. 5., 2013. 6. 17., 2016. 3. 29.>
 
 1. 투자위험종목의 지정일부터 기산하여 10일 이후의 날로서 다음 각 목의 어느 하나에 해당하는 경우
 
@@ -950,17 +1149,17 @@ attachments:
 
 [본조신설 2007. 8. 27.]
 
-**제3조의5(투자경고종목의 매매거래정지의 요청 등)**① 위원회는 제3조의3제1항에 따른 투자경고종목으로서 지정일 이후 특정일의 주가가 지정일 전일 및 직전 매매거래일의 주가보다 높으며, 특정일의 2일간 주가상승률이 40% 이상(코넥스시장 상장종목의 경우 20% 이상)인 종목에 대하여 그 다음 매매거래일 1일간 매매거래를 정지하도록 해당 시장에 요청할 수 있다.<개정 2015. 6. 10.>
+**제3조의5(투자경고종목의 매매거래정지의 요청 등)**① 위원회는 제3조의3제1항에 따른 투자경고종목으로서 지정일 이후 특정일의 주가가 지정일 전일 및 직전 매매거래일의 주가보다 높으며, 특정일의 2일간 주가상승률이 40% 이상(코넥스시장 상장종목의 경우 20% 이상)인 종목에 대하여 그 다음 매매거래일 1일간 매매거래를 정지하도록 해당 시장에 요청할 수 있다. <개정 2015. 6. 10.>
 
-② 위원회는 제3조의3제1항에 따른 투자경고종목으로서 다음 각 호 모두에 해당하는 종목에 대하여 그 다음 매매거래일에 익일 매매거래가 정지될 수 있다는 사실을 예고할 수 있다.<개정 2015. 6. 10.>
+② 위원회는 제3조의3제1항에 따른 투자경고종목으로서 다음 각 호 모두에 해당하는 종목에 대하여 그 다음 매매거래일에 익일 매매거래가 정지될 수 있다는 사실을 예고할 수 있다. <개정 2015. 6. 10.>
 
 1. 특정일의 주가가 투자경고종목 지정일 전일 및 직전 매매거래일의 주가보다 높은 경우
 
 2. 특정일 다음 매매거래일의 2일간 주가상승률이 40% 이상(코넥스시장 상장종목의 경우 20% 이상) 될 수 있는 경우
 
-③ 위원회는 제1항에 따라 1일간 매매거래가 정지된 종목에 대하여 제3조의3제5항 또는 제3조의4제1항에 따라 투자경고종목의 지정이 해제되기 전까지는 제1항 및 제2항의 적용을 배제한다.<개정 2013. 8. 26., 2015. 12. 11.>
+③ 위원회는 제1항에 따라 1일간 매매거래가 정지된 종목에 대하여 제3조의3제5항 또는 제3조의4제1항에 따라 투자경고종목의 지정이 해제되기 전까지는 제1항 및 제2항의 적용을 배제한다. <개정 2013. 8. 26., 2015. 12. 11.>
 
-④ 위원회는 제3조의3제1항제6호에 따라 투자경고종목으로 지정된 종목에 대하여 제1항 및 제2항의 적용을 배제한다.<개정 2012. 10. 5.>
+④ 위원회는 제3조의3제1항제6호에 따라 투자경고종목으로 지정된 종목에 대하여 제1항 및 제2항의 적용을 배제한다. <개정 2012. 10. 5.>
 
 [본조신설 2012. 3. 8.]
 
@@ -976,7 +1175,7 @@ attachments:
 
 2. 투자위험종목으로 지정된 이후 특정일의 주가가 그 지정일 전일 및 직전 매매거래일의 주가보다 2일 연속 높은 경우 그 다음 매매거래일
 
-③ 제1항제2호에 따라 해당 시장에서 매매거래가 정지된 후에 매매거래가 재개되는 종목에 대하여 제1항제2호·제2항제2호의규정을 다시 적용하는 경우 및 제3조의4제5항제1호에 따라 기산일을 산정하는 경우에는 그 매매거래의 재개일을 투자위험종목의 지정일로 본다.<개정 2013. 8. 26., 2015. 12. 11., 2022. 11. 23.>
+③ 제1항제2호에 따라 해당 시장에서 매매거래가 정지된 후에 매매거래가 재개되는 종목에 대하여 제1항제2호·제2항제2호의 규정을 다시 적용하는 경우 및 제3조의4제5항제1호에 따라 기산일을 산정하는 경우에는 그 매매거래의 재개일을 투자위험종목의 지정일로 본다. <개정 2013. 8. 26., 2015. 12. 11., 2022. 11. 23.>
 
 [전문개정 2012. 3. 8.]
 
@@ -988,7 +1187,7 @@ attachments:
 
 ④ 제3조 부터 제3조의6까지에의 규정에 따른 주가는 종가를 기준으로 한다. 이 경우 권리락, 주식분할 등으로 인하여 주가의 변동이 있는 경우에는 이를 감안하여 산정한 주가를 기준으로 종가를 적용하며, 신규상장종목 또는 제3조제5항 각 호의 어느 하나에 해당하여 매매거래가 정지된 후 재개된 종목의 경우 상장일 및 매매거래 재개일의 시가를 그 전일의 종가로 본다.
 
-⑤ 제3조 부터 제3조의6까지에의 규정에 따른 주가상승·하락률, 매수·매도 관여율, 주가지수상승률의 산식은 다음 각 호와 같다.<개정 2012. 10. 5., 2022. 11. 23., 2023. 12. 12.,2025. 2. 27.>
+⑤ 제3조 부터 제3조의6까지에의 규정에 따른 주가상승·하락률, 매수·매도 관여율, 주가지수상승률의 산식은 다음 각 호와 같다. <개정 2012. 10. 5., 2022. 11. 23., 2023. 12. 12.,2025. 2. 27.>
 
 1. 주가상승·하락률=[(비교시점의 종가-기준시점의 종가)/기준시점의 종가]×100
 
@@ -996,27 +1195,27 @@ attachments:
 
 3. 주가지수상승률=[(비교시점의 주가지수-기준시점의 주가지수)/기준시점의 주가지수]×100
 
-4. 삭제<2025. 2. 27..>
+4. 삭제 <2025. 2. 27..>
 
-5. 삭제<2025. 2. 27..>
+5. 삭제 <2025. 2. 27..>
 
-⑥ 제3조부터 제3조의6까지에 따른 거래량, 수량, 관여율, 계좌, 특정계좌(군) 및 일중 전체 최고가는 정규시장(정규시장의 매매거래시간과 동일하거나 유사한 다자간매매체결회사의 매매거래시간 중의 매매거래를 포함한다)을 기준으로 적용한다. 다만, 전산장애 등으로 다자간매매체결회사로부터 관련 정보를 수신할 수 없는 경우에는 해당 매매거래일의 다자간매매체결회사에 관한 사항을 제외하고 적용할 수 있다.<신설 2025. 2. 27.>
+⑥ 제3조부터 제3조의6까지에 따른 거래량, 수량, 관여율, 계좌, 특정계좌(군) 및 일중 전체 최고가는 정규시장(정규시장의 매매거래시간과 동일하거나 유사한 다자간매매체결회사의 매매거래시간 중의 매매거래를 포함한다)을 기준으로 적용한다. 다만, 전산장애 등으로 다자간매매체결회사로부터 관련 정보를 수신할 수 없는 경우에는 해당 매매거래일의 다자간매매체결회사에 관한 사항을 제외하고 적용할 수 있다. <신설 2025. 2. 27.>
 
 [본조신설 2007. 8. 27.]
 
-**제3조의8(회원의 모니터링시스템의 운영 등)**①규정제6조제6항에 따라 위원회는 주문의 양태, 종목별 관여율 및 주가변동율 등을 감안하여 회원의 모니터링시스템 감시항목의 예시기준을 정한다.<개정 2012. 12. 27., 2017. 2. 10.>
+**제3조의8(회원의 모니터링시스템의 운영 등)**① 규정 제6조제6항에 따라 위원회는 주문의 양태, 종목별 관여율 및 주가변동율 등을 감안하여 회원의 모니터링시스템 감시항목의 예시기준을 정한다. <개정 2012. 12. 27., 2017. 2. 10.>
 
-② 회원은 제1항에 따른 자체적인 모니터링기준에 해당하는 거래로서 불공정거래에 해당할 우려가 있다고 판단되는 경우에는 해당 고객에 대하여 사전경고, 주문수탁의 거부 등 불공정거래의 예방을 위한 적절한 조치를 하여야 한다.<개정 2017. 2. 10.>
+② 회원은 제1항에 따른 자체적인 모니터링기준에 해당하는 거래로서 불공정거래에 해당할 우려가 있다고 판단되는 경우에는 해당 고객에 대하여 사전경고, 주문수탁의 거부 등 불공정거래의 예방을 위한 적절한 조치를 하여야 한다. <개정 2017. 2. 10.>
 
 ③ 위원회가 회원에게 모니터링시스템의 운영 등 자체감시 활동에 필요한 사항을 권고하거나 이에 필요한 기술적 지원 등을 한 경우에는 해당 회원에게 적절한 조치를 취하고 그 결과를 위원회에 통보하도록 요구할 수 있다.
 
 ④ 위원회는 회원이 모니터링시스템 등을 효율적으로 운영할 수 있도록 회원의 준법감시인으로 구성되는 협의체를 지원할 수 있다.
 
-⑤ 제1항에 따른 회원의 모니터링시스템 감시항목의 예시기준 등 회원의 예방활동 지원을 위해 필요한 사항은 위원장이 정한다.<신설 2012. 12. 27., 2017. 2. 10.>
+⑤ 제1항에 따른 회원의 모니터링시스템 감시항목의 예시기준 등 회원의 예방활동 지원을 위해 필요한 사항은 위원장이 정한다. <신설 2012. 12. 27., 2017. 2. 10.>
 
 [전문개정 2009. 2. 3.]
 
-**제4조(회원의 보고대상 증권 등<개정 2009. 2. 3.>)**①규정제7조제1항에서 "세칙으로 정하는 종목"이란 다음 각 호의 증권 및 장내파생상품의 종목을 말한다.<개정 2006. 11. 30., 2009. 2. 3.>
+**제4조(회원의 보고대상 증권 등<개정 2009. 2. 3.>)**① 규정 제7조제1항에서 "세칙으로 정하는 종목"이란 다음 각 호의 증권 및 장내파생상품의 종목을 말한다. <개정 2006. 11. 30., 2009. 2. 3.>
 
 1. 전환사채권
 
@@ -1032,23 +1231,23 @@ attachments:
 
 6. 권리행사로 해당 주권상장법인의 주식을 취득할 수 있는 주식워런트증권, 주식선물, 주식옵션 및 이와 유사한 증권 또는 장내파생상품
 
-②규정제7조제5항에 따른 주권상장법인 주요주주 등의 자기주식등 거래현황 보고는 별지 제1호의 서식에 따른다.<개정 2009. 2. 3.>
+② 규정 제7조제5항에 따른 주권상장법인 주요주주 등의 자기주식등 거래현황 보고는 별지 제1호의 서식에 따른다. <개정 2009. 2. 3.>
 
-**제5조(불공정거래 예방을 위한 회원의 보고)**규정제7조제2항에 따른 회원의 풍문등의 보고는 별지 제2호서식에 따르고, 같은 조 제4항에 따른 민원·분쟁의 보고는 별지 제4호서식에 따른다.
+**제5조(불공정거래 예방을 위한 회원의 보고)**규정 제7조제2항에 따른 회원의 풍문등의 보고는 별지 제2호서식에 따르고, 같은 조 제4항에 따른 민원·분쟁의 보고는 별지 제4호서식에 따른다.
 
 [전문개정 2009. 2. 3.]
 
-제3장 이상거래의 심리 및 회원의 감리
+ 제3장 이상거래의 심리 및 회원의 감리
 
-**제6조(회피신청서의 작성방법)**규정제9조제2항의 규정에 의하여 회피신청서는 별지 제5호의 서식에 의한다.
+**제6조(회피신청서의 작성방법)**규정 제9조제2항의 규정에 의하여 회피신청서는 별지 제5호의 서식에 의한다.
 
-**제6조의2(불공정거래 신고의 처리)**①규정제10조제3항에 따른 불공정거래의 신고는 문서, 우편, 모사전송(FAX) 또는 인터넷, 전화 등으로 할 수 있다. 이 경우 신고인의 신원 확인이 가능하고 불공정거래 개연성을 확인할 수 있는 구체적 내용이 포함되어야 한다.<신설 2013. 9. 13.>
+**제6조의2(불공정거래 신고의 처리)**① 규정 제10조제3항에 따른 불공정거래의 신고는 문서, 우편, 모사전송(FAX) 또는 인터넷, 전화 등으로 할 수 있다. 이 경우 신고인의 신원 확인이 가능하고 불공정거래 개연성을 확인할 수 있는 구체적 내용이 포함되어야 한다. <신설 2013. 9. 13.>
 
-② 위원회는 제1항에 따라 불공정거래의 신고가 접수된 경우에는 그 내용의 사실 확인을 위하여 시장감시, 심리 또는 감리를 실시할 수 있다.<개정 2009. 2. 3., 2013. 9. 13.>
+② 위원회는 제1항에 따라 불공정거래의 신고가 접수된 경우에는 그 내용의 사실 확인을 위하여 시장감시, 심리 또는 감리를 실시할 수 있다. <개정 2009. 2. 3., 2013. 9. 13.>
 
-③ 위원회는 불공정거래의 신고내용이 다음 각 호의 어느 하나에 해당하는 경우에는 종결처리 할 수 있다.<개정 2007. 8. 27., 2009. 2. 3., 2013. 9. 13.>
+③ 위원회는 불공정거래의 신고내용이 다음 각 호의 어느 하나에 해당하는 경우에는 종결처리 할 수 있다. <개정 2007. 8. 27., 2009. 2. 3., 2013. 9. 13.>
 
-1. 「자본시장과 금융투자업에 관한 법률」(이하 "법"이라 한다) 및 업무관련규정 등에서 규정하는 위법·부당행위와 관련이 없는 경우<개정 2025. 2. 27.>
+1. 「자본시장과 금융투자업에 관한 법률」(이하 "법"이라 한다) 및 업무관련규정 등에서 규정하는 위법·부당행위와 관련이 없는 경우 <개정 2025. 2. 27.>
 
 2. 신고내용의 범위·시기·행위 등이 모호하거나 구체적인 사실이 제시되지 않아 불분명한 경우
 
@@ -1064,23 +1263,23 @@ attachments:
 
 8. 그밖에 신고내용이 거래양태·기간 또는 시황 등에 비추어 조사 필요성이 낮은 경우
 
-④ 제3항의 규정에 불구하고 신고내용이 중대하여 위원장이 필요하다고 인정하는 경우에는 종결처리하지 않을 수 있다.<개정 2007. 8. 27., 2013. 9. 13.>
+④ 제3항의 규정에 불구하고 신고내용이 중대하여 위원장이 필요하다고 인정하는 경우에는 종결처리하지 않을 수 있다. <개정 2007. 8. 27., 2013. 9. 13.>
 
 [본조신설 2006. 11. 30.]
 
-**제6조의3(포상지급기준 등)**①규정제10조제3항의 규정에 의하여 위원회는 불공정거래 혐의 입증과 관련된 구체적인 자료(주가추이, 공시, 언론보도 등 일반에 공개된 자료는 제외한다)를 근거로 한 신고내용에 대한 심리·감리결과 다음 각 호의 어느 하나에 해당하는 경우에 신고인에 대하여 30억원 이하의 포상금을 지급할 수 있다. 다만, 제1호 및 제3호의 경우 제2항에 따라 이미 지급된 소액포상금을, 제2호의 경우 제1호에 따라 이미 지급된 포상금을 차감하여 지급한다.<개정 2007. 8. 27., 2008. 6. 27., 2009. 2. 3., 2011. 2. 11., 2012. 7. 3., 2013. 9. 13., 2015. 6. 30., 2022. 11. 23., 2024. 2. 16.>
+**제6조의3(포상지급기준 등)**① 규정 제10조제3항의 규정에 의하여 위원회는 불공정거래 혐의 입증과 관련된 구체적인 자료(주가추이, 공시, 언론보도 등 일반에 공개된 자료는 제외한다)를 근거로 한 신고내용에 대한 심리·감리결과 다음 각 호의 어느 하나에 해당하는 경우에 신고인에 대하여 30억원 이하의 포상금을 지급할 수 있다. 다만, 제1호 및 제3호의 경우 제2항에 따라 이미 지급된 소액포상금을, 제2호의 경우 제1호에 따라 이미 지급된 포상금을 차감하여 지급한다. <개정 2007. 8. 27., 2008. 6. 27., 2009. 2. 3., 2011. 2. 11., 2012. 7. 3., 2013. 9. 13., 2015. 6. 30., 2022. 11. 23., 2024. 2. 16.>
 
 1. 불공정거래 혐의로 감독기관에 통보한 경우
 
 2. 제1호에 해당하는 경우로서 증권선물위원회의 검찰 고발, 수사기관 통보 또는 과징금 부과 등의 결정이 내려진 사실이 확인된 경우
 
-3. 업무관련규정 또는법제178조의2를 위반하여 회원조치(회원 임직원에 대한 조치를 포함한다) 등이 내려진 경우<개정 2025. 2. 27.>
+3. 업무관련규정 또는 법 제178조의2를 위반하여 회원조치(회원 임직원에 대한 조치를 포함한다) 등이 내려진 경우 <개정 2025. 2. 27.>
 
-② 위원회는 신고내용이 불공정거래의 예방과 시장감시 업무의 수행에 기여한 것으로 인정되는 경우에는900만원이하의 범위에서 별도로 정하는 소액포상금을 지급할 수 있다.<신설 2008. 6. 27., 2011. 2. 11., 2012. 7. 3., 2013. 9. 13., 2014. 6. 26., 2021. 12. 15.,개정 2026. 6. 26.>
+② 위원회는 신고내용이 불공정거래의 예방과 시장감시 업무의 수행에 기여한 것으로 인정되는 경우에는 900만원 이하의 범위에서 별도로 정하는 소액포상금을 지급할 수 있다. <신설 2008. 6. 27., 2011. 2. 11., 2012. 7. 3., 2013. 9. 13., 2014. 6. 26., 2021. 12. 15.,개정 2026. 6. 26.>
 
-③ 위원회가 중대한 불공정거래 사안에 대한 제보를 받기 위하여 인터넷 홈페이지 등에 공고한 기간 중의 신고내용이 시장감시 업무의 수행에 기여한 것으로 인정되는 경우에는 신고인에 대하여 1억원 이하의 특별포상금을 지급할 수 있다. 이 경우 제2항에 따른 소액포상금은 지급하지 아니한다.<신설 2012. 7. 3., 2013. 9. 13.>
+③ 위원회가 중대한 불공정거래 사안에 대한 제보를 받기 위하여 인터넷 홈페이지 등에 공고한 기간 중의 신고내용이 시장감시 업무의 수행에 기여한 것으로 인정되는 경우에는 신고인에 대하여 1억원 이하의 특별포상금을 지급할 수 있다. 이 경우 제2항에 따른 소액포상금은 지급하지 아니한다. <신설 2012. 7. 3., 2013. 9. 13.>
 
-④ 제1항부터 제3항까지에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 포상금을 지급하지 아니한다.<개정 2007. 8. 27., 2008. 6. 27., 2009. 2. 3., 2012. 7. 3., 2013. 9. 13., 2022. 11. 23.>
+④ 제1항부터 제3항까지에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 포상금을 지급하지 아니한다. <개정 2007. 8. 27., 2008. 6. 27., 2009. 2. 3., 2012. 7. 3., 2013. 9. 13., 2022. 11. 23.>
 
 1. 신고내용의 불공정거래 유형과 시기 및 행위자 등이 조사결과와 다른 경우. 다만, 당해 신고내용이 불공정거래를 적발하는데 크게 기여한 경우에는 그러하지 아니하다.
 
@@ -1096,13 +1295,13 @@ attachments:
 
 6. 신고자가 포상금 수령을 거부하는 경우
 
-7. 조사결과 신고자가 자신이 제보한해당불공정거래행위로 조치를 받는경우로서법시행령제379조의2제3항 각 호에 해당하는 경우<개정 2026. 6. 26.>
+7. 조사결과 신고자가 자신이 제보한 해당 불공정거래행위로 조치를 받는 경우로서 법 시행령 제379조의2제3항 각 호에 해당하는 경우 <개정 2026. 6. 26.>
 
 8. 신고자가 신고내용과 관련된 이해관계자로서 포상금 이외의 사적인 이익을 목적으로 신고했음이 명백한 경우
 
 9. 기타 포상금지급이 불합리하다고 위원장이 인정하는 경우
 
-⑤ 제1항부터 제3항까지에 따른 포상금의 지급 여부는 다음 각 호의 기간 이내에 결정하여야 한다.다만, 제1항제2호에 해당하는 경우로서 포상금 지급결정시한까지 제4항제2호의2에 해당하는지 여부가 확인되지 않은 경우에는 해당 확인일을 지급사유가 발생한 날로 본다.<개정 2022. 11. 23., 2024. 2. 16.,2026. 6. 26.>
+⑤ 제1항부터 제3항까지에 따른 포상금의 지급 여부는 다음 각 호의 기간 이내에 결정하여야 한다. 다만, 제1항제2호에 해당하는 경우로서 포상금 지급결정시한까지 제4항제2호의2에 해당하는지 여부가 확인되지 않은 경우에는 해당 확인일을 지급사유가 발생한 날로 본다. <개정 2022. 11. 23., 2024. 2. 16.,2026. 6. 26.>
 
 1. 위원회가 제1항에 따른 포상금의 지급 여부를 결정하는 경우 : 지급사유가 발생한 날이 속하는 분기가 경과한 후 4개월 이내
 
@@ -1114,29 +1313,29 @@ attachments:
 
 다. 가목 및 나목 외의 경우 : 지급사유가 발생한 날이 속하는 분기가 경과한 후 1개월 이내
 
-⑥제1항부터 제3항까지에 따른 포상금은 지급결정이 있는 해당연도 포상금 예산의 범위 내에서 지급하여야 한다. 다만, 해당연도 예산이 부족한 때에는 포상심의위원회가 필요하다고 인정하는 경우에 다음연도 예산에서 지급할 수 있다.<신설 2026. 6. 26.>
+⑥ 제1항부터 제3항까지에 따른 포상금은 지급결정이 있는 해당연도 포상금 예산의 범위 내에서 지급하여야 한다. 다만, 해당연도 예산이 부족한 때에는 포상심의위원회가 필요하다고 인정하는 경우에 다음연도 예산에서 지급할 수 있다. <신설 2026. 6. 26.>
 
-⑦ 제1항에 따른 포상금의 산정방법 및 심의절차와 제2항에 따른 소액포상금 및 제3항에 따른 특별포상금의 구체적 지급사유, 산정방법 및 심의절차 등은 위원장이 정한다.<개정 2008. 6. 27., 2012. 7. 3., 2012. 12. 27., 2026. 6. 26.>
+⑦ 제1항에 따른 포상금의 산정방법 및 심의절차와 제2항에 따른 소액포상금 및 제3항에 따른 특별포상금의 구체적 지급사유, 산정방법 및 심의절차 등은 위원장이 정한다. <개정 2008. 6. 27., 2012. 7. 3., 2012. 12. 27., 2026. 6. 26.>
 
 [본조신설 2006. 11. 30.]
 
-**제6조의4(다자간매매체결회사에 대한 정보제공 요구 방법)**규정제10조의2제2항에 따라 위원회는 서면(「정보통신망 이용촉진 및 정보보호 등에 관한 법률」에 따른 정보통신망을 이용한 전자문서를 포함한다) 또는 「전자금융감독규정」에 따른 정보통신망을 통한 전산자료의 방법으로 다자간매매체결회사에 관련 정보의 제공을 요구할 수 있다.
+**제6조의4(다자간매매체결회사에 대한 정보제공 요구 방법)**규정 제10조의2제2항에 따라 위원회는 서면(「정보통신망 이용촉진 및 정보보호 등에 관한 법률」에 따른 정보통신망을 이용한 전자문서를 포함한다) 또는 「전자금융감독규정」에 따른 정보통신망을 통한 전산자료의 방법으로 다자간매매체결회사에 관련 정보의 제공을 요구할 수 있다.
 
 [신설 2025. 2. 27.]
 
-**제7조(시장감시의 구분등<개정 2022. 11. 23.>)**①규정제11조제4항에 따라 시장감시의 구분은 시장감시의 대상종목 및 기간 등을 고려하여 위원장이 정한다.<개정 2006. 11. 30.,2025. 10. 28.>
+**제7조(시장감시의 구분등<개정 2022. 11. 23.>)**① 규정 제11조제4항에 따라 시장감시의 구분은 시장감시의 대상종목 및 기간 등을 고려하여 위원장이 정한다. <개정 2006. 11. 30.,2025. 10. 28.>
 
-②규정제11조제4항에 따라 위원회는 시장감시 등을 위하여 다음 각 호의 어느 하나에 해당하는 풍문등을 수집할 수 있다.<신설 2006. 11. 30., 2007. 8. 27., 2009. 2. 3., 2013. 9. 13., 2015. 6. 30.,개정 2025. 10. 28.>
+② 규정 제11조제4항에 따라 위원회는 시장감시 등을 위하여 다음 각 호의 어느 하나에 해당하는 풍문등을 수집할 수 있다. <신설 2006. 11. 30., 2007. 8. 27., 2009. 2. 3., 2013. 9. 13., 2015. 6. 30.,개정 2025. 10. 28.>
 
-1.법제147조·제172조부터제174조까지·제176조·제178조·제178조의2 및제180조에서 정하는 사항
+1. 법 제147조·제172조부터 제174조까지·제176조·제178조·제178조의2 및 제180조에서 정하는 사항
 
-2.법제161조, 「유가증권시장 공시규정」 제1편제2장·제3장, 「코스닥시장 공시규정」 제1편제2장·제3장 및 「코넥스시장 공시규정」 제1편제2장에서 규정하는 사항
+2. 법 제161조, 「유가증권시장 공시규정」 제1편제2장·제3장, 「코스닥시장 공시규정」 제1편제2장·제3장 및 「코넥스시장 공시규정」 제1편제2장에서 규정하는 사항
 
 3. 제1호와 제2호 이외에 가격 및 거래량에 영향을 미칠 수 있는 사항
 
-③ 이상거래 선정을 위한 분석대상 적출·주시기준, 심리·거래분석 대상의 선정기준 및 처리 등 시장감시를 위해 필요한 사항은 위원장이 정한다.<신설 2022. 11. 23.>
+③ 이상거래 선정을 위한 분석대상 적출·주시기준, 심리·거래분석 대상의 선정기준 및 처리 등 시장감시를 위해 필요한 사항은 위원장이 정한다. <신설 2022. 11. 23.>
 
-**제7조의2(이상급등종목의 매매계약체결방법 변경 요구)**①규정제11조제4항에 따라 위원회는 이상급등종목이 다음 각 호의 어느 하나에 해당하는 경우규정제12조제3호에 따른 매매계약체결방법의 변경을 해당시장에 요구할 수 있다. 다만, 그 종목이 단기과열종목 또는 정리매매종목으로 지정되어 이미 매매계약체결방법이 변경되었거나 변경될 예정인 경우에는 그러하지 아니하다.<개정 2025. 10. 28.>
+**제7조의2(이상급등종목의 매매계약체결방법 변경 요구)**① 규정 제11조제4항에 따라 위원회는 이상급등종목이 다음 각 호의 어느 하나에 해당하는 경우 규정 제12조제3호에 따른 매매계약체결방법의 변경을 해당시장에 요구할 수 있다. 다만, 그 종목이 단기과열종목 또는 정리매매종목으로 지정되어 이미 매매계약체결방법이 변경되었거나 변경될 예정인 경우에는 그러하지 아니하다. <개정 2025. 10. 28.>
 
 1. 제3조의3에 따른 투자경고종목으로서 주가변동, 공시, 풍문 및 보도 등을 종합적으로 고려하여 필요하다고 판단되는 경우
 
@@ -1146,11 +1345,11 @@ attachments:
 
 [본조신설 2017. 3. 7.]
 
-**제7조의3(시장감시자료)**규정제11조제4항에 따라 회원은 위원장이 정하여 통보한 제출방법에 따라 시장감시자료를 제출하여야 한다.
+**제7조의3(시장감시자료)**규정 제11조제4항에 따라 회원은 위원장이 정하여 통보한 제출방법에 따라 시장감시자료를 제출하여야 한다.
 
 [신설 2025. 10. 28.]
 
-**제8조(심리자료)**규정제14조제4항에 따라 심리를 위하여 징구하는 자료(이하 "심리자료"라 한다)는 다음 각 호와 같다.<개정 2006. 11. 30., 2009. 2. 3., 2013. 9. 13.>
+**제8조(심리자료)**규정 제14조제4항에 따라 심리를 위하여 징구하는 자료(이하 "심리자료"라 한다)는 다음 각 호와 같다. <개정 2006. 11. 30., 2009. 2. 3., 2013. 9. 13.>
 
 1. 별지 제6호 서식에 의한 위탁자 기본정보 현황
 
@@ -1174,7 +1373,7 @@ attachments:
 
 11. 위탁자별 예수금, 입·출금 및 입·출고현황과 위탁자별 증권보유현황 및 거래내역
 
-12. 「유가증권시장 업무규정」제17조, 「코스닥시장 업무규정」제9조의2, 「코넥스시장 업무규정」제11조및 다자간매매체결회사의 업무기준에 따른 공매도에 해당하는 종목의 수량, 가격, 일자 및 위탁자명<개정 2025. 2. 27.>
+12. 「유가증권시장 업무규정」 제17조, 「코스닥시장 업무규정」 제9조의2, 「코넥스시장 업무규정」 제11조 및 다자간매매체결회사의 업무기준에 따른 공매도에 해당하는 종목의 수량, 가격, 일자 및 위탁자명 <개정 2025. 2. 27.>
 
 13. 아이피(IP)주소 등 주문입력단말기 식별정보
 
@@ -1186,13 +1385,13 @@ attachments:
 
 17. 그 밖에 심리에 필요한 자료
 
-**제9조(심리자료의 제출요청등)**①규정제14조제4항에 따라 심리자료는 「금융실명거래 및 비밀보장에 관한 법률」 제4조제2항에 따른 서식에 따라 제출을 요청하고, 관계자의 출석·진술은 별지 제8호서식에 따라 요청한다.<개정 2009. 2. 3.>
+**제9조(심리자료의 제출요청등)**① 규정 제14조제4항에 따라 심리자료는 「금융실명거래 및 비밀보장에 관한 법률」 제4조제2항에 따른 서식에 따라 제출을 요청하고, 관계자의 출석·진술은 별지 제8호서식에 따라 요청한다. <개정 2009. 2. 3.>
 
-②규정제14조제4항의 규정에 의하여 위원회는 회원에게 부득이한 사정이 있다고 인정하는 경우 심리자료의 제출기한을 연장하거나 관계자의 출석일시를 연기할 수 있다.
+② 규정 제14조제4항의 규정에 의하여 위원회는 회원에게 부득이한 사정이 있다고 인정하는 경우 심리자료의 제출기한을 연장하거나 관계자의 출석일시를 연기할 수 있다.
 
-③규정제14조제4항의 규정에 의하여 위원회가 심리자료의 제출을 요청한 경우에 회원은 서면, 디스켓 그 밖에 위원회가 요구하는 방법으로 제출하여야 한다.<개정 2006. 11. 30.>
+③ 규정 제14조제4항의 규정에 의하여 위원회가 심리자료의 제출을 요청한 경우에 회원은 서면, 디스켓 그 밖에 위원회가 요구하는 방법으로 제출하여야 한다. <개정 2006. 11. 30.>
 
-**제10조(현지출장)**①규정제14조제4항의 규정에 따라 다음 각 호의 어느 하나에 해당하는 경우에는 현지출장을 할 수 있다.<개정 2007. 8. 27.>
+**제10조(현지출장)**① 규정 제14조제4항의 규정에 따라 다음 각 호의 어느 하나에 해당하는 경우에는 현지출장을 할 수 있다. <개정 2007. 8. 27.>
 
 1. 신속한 심리자료의 징구 등을 위하여 필요한 경우
 
@@ -1202,69 +1401,69 @@ attachments:
 
 4. 그 밖에 효율적인 심리업무의 수행을 위하여 필요한 경우
 
-② 제9조제1항의 규정은 제1항제1호의 규정에 따른 심리자료의 징구의 경우에 준용한다.<개정 2007. 8. 27.>
+② 제9조제1항의 규정은 제1항제1호의 규정에 따른 심리자료의 징구의 경우에 준용한다. <개정 2007. 8. 27.>
 
 ③ 제1항제1호, 제2호 및 제4호의 규정에 의하여 현지출장을 실시하는 경우에는 당해 회원의 본점·지점 또는 영업소에 사전통지하고, 관계자에게 제12조제1항의 규정에 의한 감리증표를 제시하며, 당해 목적에 필요한 최소한의 범위 내에서 업무를 수행하여야 한다.
 
-**제10조의2(심리반의 편성)**위원회는규정제14조제4항에 따라 심리를 위하여 필요한 경우에는 심리반을 편성할 수 있다.
+**제10조의2(심리반의 편성)**위원회는 규정 제14조제4항에 따라 심리를 위하여 필요한 경우에는 심리반을 편성할 수 있다.
 
 [본조신설 2009. 2. 3.]
 
-**제11조(문답서 등 작성방법)**규정제15조제5항에 따라 확인서, 문답서 및 질문서는 각각 별지 제9호부터 제11호까지의 서식에 따라 작성한다.
+**제11조(문답서 등 작성방법)**규정 제15조제5항에 따라 확인서, 문답서 및 질문서는 각각 별지 제9호부터 제11호까지의 서식에 따라 작성한다.
 
 [전문개정 2009. 2. 3.]
 
-**제12조(정기감리의 실시)**①규정제16조제3항에 따라 정기감리는 연간감리계획에 따라 실시한다.<개정 2009. 2. 3.>
+**제12조(정기감리의 실시)**① 규정 제16조제3항에 따라 정기감리는 연간감리계획에 따라 실시한다. <개정 2009. 2. 3.>
 
 ② 제1항의 규정에 의한 연간감리계획에는 감리대상, 감리방향, 중점감리사항 및 감리의 방법·일정 등을 포함하여야 한다.
 
-③ 위원회는 연간감리계획을 확정한 때에는 회원에게 통지하여야 한다. 이 경우 그 내용을 회원에게 설명한 때에는 통지한 것으로 본다.<개정 2009. 2. 3.>
+③ 위원회는 연간감리계획을 확정한 때에는 회원에게 통지하여야 한다. 이 경우 그 내용을 회원에게 설명한 때에는 통지한 것으로 본다. <개정 2009. 2. 3.>
 
-④ 위원회는 회원의 거래내역 등을 분석한 결과 회원이 업무관련규정 또는법제178조의2를 위반할 우려가 있는 경우에는 정기감리대상으로 선정될 수 있다는 사실을 해당 회원에게 예고할 수 있다.<개정 2009. 2. 3., 2015. 6. 30.,2025. 2. 27.>
+④ 위원회는 회원의 거래내역 등을 분석한 결과 회원이 업무관련규정 또는 법 제178조의2를 위반할 우려가 있는 경우에는 정기감리대상으로 선정될 수 있다는 사실을 해당 회원에게 예고할 수 있다. <개정 2009. 2. 3., 2015. 6. 30.,2025. 2. 27.>
 
-⑤ 거래분석 및 정기감리대상 선정 기준 등 정기감리를 위해 필요한 사항은 위원장이 정한다.<신설 2022. 11. 23.>
+⑤ 거래분석 및 정기감리대상 선정 기준 등 정기감리를 위해 필요한 사항은 위원장이 정한다. <신설 2022. 11. 23.>
 
 [본조신설 2006. 11. 30.]
 
-**제12조의2(수시감리의 실시)**①규정제16조제3항에 따라 수시감리는 시장감시결과 또는 민원·제보 등에 따라 위원장이 시장질서유지 및 투자자보호를 위하여 필요하다고 인정하는 경우에 실시한다.<개정 2009. 2. 3.>
+**제12조의2(수시감리의 실시)**① 규정 제16조제3항에 따라 수시감리는 시장감시결과 또는 민원·제보 등에 따라 위원장이 시장질서유지 및 투자자보호를 위하여 필요하다고 인정하는 경우에 실시한다. <개정 2009. 2. 3.>
 
 ② 제1항의 규정에 불구하고 관계법규 위반혐의와 관련하여 조사대상기간이 동일 또는 유사한 경우로서 심리 또는 감리를 이미 실시하였거나 실시중인 경우에는 감리를 실시하지 아니할 수 있다.
 
 [본조신설 2006. 11. 30.]
 
-**제12조의3(감리범위의 확대·병합등)**①규정제17조제5항의 규정에 의하여 위원회는 위법·위규행위의 확인을 위하여 불가피하다고 인정하는 경우에는 대상기간, 대상회원·지점 또는 대상종목 등에 대하여 감리를 확대할 수 있다.
+**제12조의3(감리범위의 확대·병합등)**① 규정제17조제5항의 규정에 의하여 위원회는 위법·위규행위의 확인을 위하여 불가피하다고 인정하는 경우에는 대상기간, 대상회원·지점 또는 대상종목 등에 대하여 감리를 확대할 수 있다.
 
 ② 위원회는 감리중인 회원 또는 지점이 동일·유사한 사유로 다시 감리대상으로 선정된 경우에는 대상기간, 대상회원·지점 또는 대상종목 등을 병합하여 단일건으로 감리를 실시할 수 있다.
 
 [본조신설 2006. 11. 30.]
 
-**제12조의4(감리의 방법등)**①규정제17조제5항의 규정에 의한 감리명령서는 별지 제12호 서식으로 하고 감리증표는 거래소취업규칙에 따른 신분증명서로 한다.<개정 2006. 11. 30., 2017. 3. 7.>
+**제12조의4(감리의 방법등)**① 규정 제17조제5항의 규정에 의한 감리명령서는 별지 제12호 서식으로 하고 감리증표는 거래소 취업규칙에 따른 신분증명서로 한다. <개정 2006. 11. 30., 2017. 3. 7.>
 
-②규정제17조제5항의 규정에 의하여 제13조의 규정에 의한 감리반의 장(이하 "감리반장"이라 한다)은 실지감리 중 관련 위반 내용이 임원·직원의 고의 또는 중과실이 없는 경미한 사항인 경우 다음 각 호의 조치를 현지에서 취할 수 있다.<개정 2006. 11. 30., 2009. 2. 3.>
+② 규정 제17조제5항의 규정에 의하여 제13조의 규정에 의한 감리반의 장(이하 "감리반장"이라 한다)은 실지감리 중 관련 위반 내용이 임원·직원의 고의 또는 중과실이 없는 경미한 사항인 경우 다음 각 호의 조치를 현지에서 취할 수 있다. <개정 2006. 11. 30., 2009. 2. 3.>
 
 1. 시정조치 : 시정방안이 명확·용이한 경우
 
 2. 주의조치 : 시정 또는 원상회복이 불가능하거나 그 실익이 없는 경우
 
-③ 제2항의 규정에 의하여 조치를 하는 경우에 감리반장은 별지 제14호의 서식을 작성하여 해당 본점·지점 또는 영업소의 부서장·지점장 등에게 교부하고 사후관리를 위하여 당해 회원의 감사 또는 내부통제 관련부서의 장에게 통보한다.<개정 2006. 11. 30.>
+③ 제2항의 규정에 의하여 조치를 하는 경우에 감리반장은 별지 제14호의 서식을 작성하여 해당 본점·지점 또는 영업소의 부서장·지점장 등에게 교부하고 사후관리를 위하여 당해 회원의 감사 또는 내부통제 관련부서의 장에게 통보한다. <개정 2006. 11. 30.>
 
 ④ 제8조 내지 제11조의 규정은 감리에 관하여 이를 준용한다.
 
-**제13조(감리반의 편성)**위원회는규정제17조제5항에 따라 감리를 위하여 필요한 경우에는 감리반을 편성할 수 있다.
+**제13조(감리반의 편성)**위원회는 규정 제17조제5항에 따라 감리를 위하여 필요한 경우에는 감리반을 편성할 수 있다.
 
 [전문개정 2009. 2. 3.]
 
-**제13조의2(회원의 공매도 점검 등)**①규정제19조의2제1항제2호에서 "세칙으로 정하는 공매도 위반의 우려가 있는 거래"란 차입공매도 호가 표시없이 소유하지 아니한 증권 또는 결제일까지 결제가 가능하지 않은 증권을 먼저 매도한 후 당일 해당 증권을 동일 또는 유사한 수량으로 재매수하는 거래를 말한다.
+**제13조의2(회원의 공매도 점검 등)**① 규정 제19조의2제1항제2호에서 "세칙으로 정하는 공매도 위반의 우려가 있는 거래"란 차입공매도 호가 표시없이 소유하지 아니한 증권 또는 결제일까지 결제가 가능하지 않은 증권을 먼저 매도한 후 당일 해당 증권을 동일 또는 유사한 수량으로 재매수하는 거래를 말한다.
 
-② 회원은규정제19조의2제1항 또는 같은 조 제2항에 따른 공매도 위반 여부를 확인하는 경우 관련 문서, 녹취, 전자기록 등의 자료를 5년 동안 보관하여야 한다.
+② 회원은 규정 제19조의2제1항 또는 같은 조 제2항에 따른 공매도 위반 여부를 확인하는 경우 관련 문서, 녹취, 전자기록 등의 자료를 5년 동안 보관하여야 한다.
 
-③ 회원은규정제19조의2제4항의 점검결과를 공매도위반 점검대상거래가 발생한 달이 속한 분기 종료일의 다음 달 10매매거래일까지 위원회에 보고하여야 한다.<개정 2026. 1. 29.>
+③ 회원은 규정 제19조의2제4항의 점검결과를 공매도위반 점검대상거래가 발생한 달이 속한 분기 종료일의 다음 달 10매매거래일까지 위원회에 보고하여야 한다. <개정 2026. 1. 29.>
 
 ④ 제3항에 따른 공매도 점검결과 보고에 관한 세부사항은 별표 1의2와 같다.
 
 [본조신설 2021. 3. 12.]
 
-**제13조의3(제출자료의 종류·범위 등)**①규정제19조의3제1항제1호 각 목 외의 부분에서 "세칙으로 정하는 자료"란 다음 각 호의 자료를 말한다.<개정 2025. 3. 13.>
+**제13조의3(제출자료의 종류·범위 등)**① 규정 제19조의3제1항제1호 각 목 외의 부분에서 "세칙으로 정하는 자료"란 다음 각 호의 자료를 말한다. <개정 2025. 3. 13.>
 
 1. 위탁자 등에 관한 정보
 
@@ -1274,50 +1473,50 @@ attachments:
 
 4. 그 밖에 공매도 위반 여부 확인을 위해 위원회가 필요하다고 인정하는 자료
 
-②규정제19조의3제1항제2호에서 "세칙으로 정하는 방법"이란 다음 각 호의 모든 방법을 말한다.<신설 2025. 3. 13.>
+② 규정 제19조의3제1항제2호에서 "세칙으로 정하는 방법"이란 다음 각 호의 모든 방법을 말한다. <신설 2025. 3. 13.>
 
-1. 별지 제14-2호 서식에 따른 보고서를 제출할 것<신설 2025. 3. 13.>
+1. 별지 제14-2호 서식에 따른 보고서를 제출할 것 <신설 2025. 3. 13.>
 
-2. 공매도 등록번호를 기준으로 보유하고 있는 모든 종목에 대한 잔고 정보 등을 사유발생일로부터 2영업일이 되는 날 증권시장(시간외 시장을 포함하고, 다자간매매체결회사에서의 매매거래는 제외한다)의 장종료 후 지체없이 제출할 것<신설 2025. 3. 13.>
+2. 공매도 등록번호를 기준으로 보유하고 있는 모든 종목에 대한 잔고 정보 등을 사유발생일로부터 2영업일이 되는 날 증권시장(시간외 시장을 포함하고, 다자간매매체결회사에서의 매매거래는 제외한다)의 장종료 후 지체없이 제출할 것 <신설 2025. 3. 13.>
 
-3. 위원회가 종목별 잔고 정보 등을 제출받기 위해 운영하는 시스템(이하 ‘공매도 중앙점검시스템’이라 한다)에 지정된 전자통신의 방식으로 제출할 것. 이 경우 공매도 중앙점검시스템의 운영기준, 점검대상 선정기준 및 절차 등 공매도 점검을 위해 필요한 사항은 위원장이 정한다.<신설 2025. 3. 13.>
+3. 위원회가 종목별 잔고 정보 등을 제출받기 위해 운영하는 시스템(이하 ‘공매도 중앙점검시스템’이라 한다)에 지정된 전자통신의 방식으로 제출할 것. 이 경우 공매도 중앙점검시스템의 운영기준, 점검대상 선정기준 및 절차 등 공매도 점검을 위해 필요한 사항은 위원장이 정한다. <신설 2025. 3. 13.>
 
-4. 제출한 보고서에 거짓의 기재 또는 표시가 있거나 기재사항이 누락되었다는 사실 등을 알게된 경우 지체없이 정정하여 제출할 것<신설 2025. 3. 13.>
+4. 제출한 보고서에 거짓의 기재 또는 표시가 있거나 기재사항이 누락되었다는 사실 등을 알게된 경우 지체없이 정정하여 제출할 것 <신설 2025. 3. 13.>
 
-③규정제19조의3제1항제2호에서 "세칙으로 정하는 자료"란 다음 각 호의 자료를 말한다.<신설 2025. 3. 13.>
+③ 규정 제19조의3제1항제2호에서 "세칙으로 정하는 자료"란 다음 각 호의 자료를 말한다. <신설 2025. 3. 13.>
 
-1. 별지 제14-3호 서식에 따른 사실관계확인서<신설 2025. 3. 13.>
+1. 별지 제14-3호 서식에 따른 사실관계확인서 <신설 2025. 3. 13.>
 
-2. 제1항제2호부터 제4호까지의 자료<신설 2025. 3. 13.>
+2. 제1항제2호부터 제4호까지의 자료 <신설 2025. 3. 13.>
 
-④ 회원은규정제19조의3제1항에 따른 자료제출 요구를 받은 날부터 2주 이내에 위원회에 관련 자료를 제출하여야 한다.
+④ 회원은 규정 제19조의3제1항에 따른 자료제출 요구를 받은 날부터 2주 이내에 위원회에 관련 자료를 제출하여야 한다.
 
-⑤규정제19조의3제2항에 따라 위원회는 같은 조 제1항제1호가목에 따른 회원에게 별지 제14-4호 서식에 따라 자료제출을 요구한다.<개정 2025. 3. 13.>
+⑤ 규정 제19조의3제2항에 따라 위원회는 같은 조 제1항제1호가목에 따른 회원에게 별지 제14-4호 서식에 따라 자료제출을 요구한다. <개정 2025. 3. 13.>
 
-⑥규정제19조의3제1항제2호에 따른 자료제출 요구를 받은 자는 그 날로부터 7거래일 이내에 위원회가 지정하는 전자적 방법 등을 통하여 위원회에 관련 자료를 제출하여야 한다.<신설 2025. 3. 13.>
+⑥ 규정 제19조의3제1항제2호에 따른 자료제출 요구를 받은 자는 그 날로부터 7거래일 이내에 위원회가 지정하는 전자적 방법 등을 통하여 위원회에 관련 자료를 제출하여야 한다. <신설 2025. 3. 13.>
 
 [본조신설 2021. 3. 12.]
 
-제4장 심리 또는 감리 결과의 조치
+ 제4장 심리 또는 감리 결과의 조치
 
-**제14조(회원에 대한 징계의 종류 및 사유 등<개정 2021. 9. 14.>)**①규정제22조제5항에 따라 회원에게 징계를 하는 경우에는 다음 각 호의 기준에 따른다.<개정 2006. 11. 30., 2007. 10. 16., 2009. 2. 3., 2013. 12. 30.>
+**제14조(회원에 대한 징계의 종류 및 사유 등<개정 2021. 9. 14.>)**① 규정 제22조제5항에 따라 회원에게 징계를 하는 경우에는 다음 각 호의 기준에 따른다. <개정 2006. 11. 30., 2007. 10. 16., 2009. 2. 3., 2013. 12. 30.>
 
 1. 회원의 제명
-규정제21조제1호 내지 제3호(이하 "관련법규등의 위반"이라 한다)에 해당되어 시장의 운영에 중대한 손실을 초래하거나 회원으로서 역할 수행이 곤란하다고 인정되는 경우
+ 규정 제21조제1호 내지 제3호(이하 "관련법규등의 위반"이라 한다)에 해당되어 시장의 운영에 중대한 손실을 초래하거나 회원으로서 역할 수행이 곤란하다고 인정되는 경우
 
-나. 삭제<2011. 12. 26.>
+나. 삭제 <2011. 12. 26.>
 
-다. 삭제<2011. 12. 26.>
+다. 삭제 <2011. 12. 26.>
 
 2. 회원의 6개월 이내의 회원자격의 전부 또는 일부의 정지
 
 가. 반복적으로 관련법규등의 위반을 하여 공정거래질서를 현저히 저해하거나 시장의 공신력을 크게 실추시키는 경우
 
-나.규정제21조제5호(이하 "심리·감리의 방해등"이라 한다)에 해당하는 행위를 하여 심리 또는 감리의 수행을 불가능하게 하는 경우
+나. 규정 제21조제5호(이하 "심리·감리의 방해등"이라 한다)에 해당하는 행위를 하여 심리 또는 감리의 수행을 불가능하게 하는 경우
 
-다. 삭제<2011. 12. 26.>
+다. 삭제 <2011. 12. 26.>
 
-라. 삭제<2011. 12. 26.>
+라. 삭제 <2011. 12. 26.>
 
 3. 회원의 6개월 이내의 거래의 전부 또는 일부의 정지. 이 경우 거래의 일부의 정지는 위탁거래, 자기거래, 종목 또는 회원의 본점·지점 그 밖의 영업소 등으로 구분하여 조치할 수 있다.
 
@@ -1325,19 +1524,19 @@ attachments:
 
 나. 심리·감리의 방해등을 하여 심리 또는 감리의 수행을 상당히 곤란하게 하는 경우
 
-다. 삭제<2011. 12. 26.>
+다. 삭제 <2011. 12. 26.>
 
-라. 삭제<2011. 12. 26.>
+라. 삭제 <2011. 12. 26.>
 
 4. 10억원 이하 1,000만원 이상의 회원제재금의 부과
 
 가. 관련법규등의 위반을 하여 공정거래질서를 저해하거나 시장의 공신력을 실추시키는 경우
 
-나.규정제21조제4호에 해당되는 경우(이하 "자료제출 등 협조의무 위반"이라 한다)로서 심리 또는 감리의 수행에 지장을 초래하는 경우
+나. 규정 제21조제4호에 해당되는 경우(이하 "자료제출 등 협조의무 위반"이라 한다)로서 심리 또는 감리의 수행에 지장을 초래하는 경우
 
-다. 삭제<2011. 12. 26.>
+다. 삭제 <2011. 12. 26.>
 
-라. 삭제<2011. 12. 26.>
+라. 삭제 <2011. 12. 26.>
 
 5. 경고
 
@@ -1345,9 +1544,9 @@ attachments:
 
 나. 자료제출등 협조의무 위반을 하였으나 심리 또는 감리의 수행에 지장을 초래하는 정도가 경미한 경우
 
-다. 삭제<2011. 12. 26.>
+다. 삭제 <2011. 12. 26.>
 
-라. 삭제<2011. 12. 26.>
+라. 삭제 <2011. 12. 26.>
 
 6. 주의
 
@@ -1355,43 +1554,43 @@ attachments:
 
 나. 자료제출등 협조의무 위반을 하였으나 심리 또는 감리의 수행에 지장을 초래하는 정도가 매우 경미한 경우
 
-다. 삭제<2013. 12. 30.>
+다. 삭제 <2013. 12. 30.>
 
-②규정제22조제5항에 따라 제1항제4호의 회원제재금을 부과하는 경우(규정 제22조제3항에 따라 가산금을 부과하는 경우를 포함한다) 별지 제15호 서식에 따른다.<개정 2021. 9. 14.>
+② 규정 제22조제5항에 따라 제1항제4호의 회원제재금을 부과하는 경우(규정 제22조제3항에 따라 가산금을 부과하는 경우를 포함한다) 별지 제15호 서식에 따른다. <개정 2021. 9. 14.>
 
-③ 회원제재금의 부과의 세부기준, 과오납금의 환급 및 충당 등에 관한 세부사항은 별표 1과 같다.<개정 2021. 9. 14.>
+③ 회원제재금의 부과의 세부기준, 과오납금의 환급 및 충당 등에 관한 세부사항은 별표 1과 같다. <개정 2021. 9. 14.>
 
-④ 삭제<2011. 12. 26.>
+④ 삭제 <2011. 12. 26.>
 
-⑤ 삭제<2021. 9. 14.>
+⑤ 삭제 <2021. 9. 14.>
 
-**제15조(회원에 대한 징계의 가중)**①규정제22조제5항에 따라 회원에 대하여규정제22조제1항의 징계를 하는 때에 다음 각 호의 어느 하나에 해당하는 경우 징계를 한 단계 이내에서 가중할 수 있다. 이 경우 제15조의2제2항에 따라 회원의 수개의 행위 각각에 대해 징계를 하는 경우로서 해당 징계 각각에 대해 가중할 수 있는 경우에는 가장 중한 사항에 해당하는 하나의 징계만 가중한다.<개정 2024. 10. 15.>
+**제15조(회원에 대한 징계의 가중)**① 규정 제22조제5항에 따라 회원에 대하여 규정 제22조제1항의 징계를 하는 때에 다음 각 호의 어느 하나에 해당하는 경우 징계를 한 단계 이내에서 가중할 수 있다. 이 경우 제15조의2제2항에 따라 회원의 수개의 행위 각각에 대해 징계를 하는 경우로서 해당 징계 각각에 대해 가중할 수 있는 경우에는 가장 중한 사항에 해당하는 하나의 징계만 가중한다. <개정 2024. 10. 15.>
 
-1. 회원이 관련법규등의 위반 또는 심리·감리의 방해등을 하여규정제22조제1항제1호의2, 제1호의3 또는 제2호의 징계 중 어느 하나의 징계를 받은 후 1년 이내에 관련 임원·직원 또는 위탁자 등이 징계사유에 해당하는 동일 또는 유사한 행위를 반복하는 경우
+1. 회원이 관련법규등의 위반 또는 심리·감리의 방해등을 하여 규정 제22조제1항제1호의2, 제1호의3 또는 제2호의 징계 중 어느 하나의 징계를 받은 후 1년 이내에 관련 임원·직원 또는 위탁자 등이 징계사유에 해당하는 동일 또는 유사한 행위를 반복하는 경우
 
 2. 회원이 관련법규등의 위반 또는 자료제출등 협조의무 위반으로 경고·주의를 받은 후 1년 이내에 관련 임원·직원 또는 위탁자 등이 경고 또는 주의에 해당하는 동일 또는 유사한 행위를 반복하는 경우
 
-3. 회원이 최근 2년 이내에 심리 또는 감리결과에 따라규정제22조제1항제1호의2부터 제4호까지의 징계 중 어느 하나를 기준으로 하여 그 이상의 징계를 3회 이상 받게 되는 경우
+3. 회원이 최근 2년 이내에 심리 또는 감리결과에 따라 규정 제22조제1항제1호의2부터 제4호까지의 징계 중 어느 하나를 기준으로 하여 그 이상의 징계를 3회 이상 받게 되는 경우
 
-4. 회원이 제18조제2항에 따른 개선요구 또는 시정요구를 이행하지 아니하고 징계를 받은 후 2년 이내에규정제22조제1항제1호의2부터 제4호까지의 징계를 받게 되는 경우
+4. 회원이 제18조제2항에 따른 개선요구 또는 시정요구를 이행하지 아니하고 징계를 받은 후 2년 이내에 규정 제22조제1항제1호의2부터 제4호까지의 징계를 받게 되는 경우
 
-②규정제22조제5항에 따라 회원에 대하여규정제22조제1항의 징계를 하는 경우에는 내부통제 적정성을 고려하여 징계를 한 단계 이내에서 가중할 수 있다. 이 경우 제1항 각 호 외의 부분 후단을 준용한다.<개정 2024. 10. 15.>
+② 규정 제22조제5항에 따라 회원에 대하여 규정 제22조제1항의 징계를 하는 경우에는 내부통제 적정성을 고려하여 징계를 한 단계 이내에서 가중할 수 있다. 이 경우 제1항 각 호 외의 부분 후단을 준용한다. <개정 2024. 10. 15.>
 
-③ 제1항제3호의 징계 횟수는 다음 각 호의 방법에 따라 산정한다.<개정 2024. 10. 15.,2025. 10. 2.>
+③ 제1항제3호의 징계 횟수는 다음 각 호의 방법에 따라 산정한다. <개정 2024. 10. 15.,2025. 10. 2.>
 
-1. 공매도 관련 규정 위반행위에 따른 징계 횟수와 그 외의 위반행위에 따른 징계 횟수를 구분하여 산정<신설 2025. 10. 2.>
+1. 공매도 관련 규정 위반행위에 따른 징계 횟수와 그 외의 위반행위에 따른 징계 횟수를 구분하여 산정 <신설 2025. 10. 2.>
 
-2. 제15조의2제1항에 따라 징계를 한 경우 징계 횟수는 수개의 위반유형 중 가장 중한 사항에 해당하는 징계 1회로 산정<신설 2025. 10. 2.>
+2. 제15조의2제1항에 따라 징계를 한 경우 징계 횟수는 수개의 위반유형 중 가장 중한 사항에 해당하는 징계 1회로 산정 <신설 2025. 10. 2.>
 
-3. 제15조의2제2항에 따라 회원의 수개의 행위 각각에 대해 징계를 하더라도 징계 횟수는 1회로 산정. 다만, 회원의 수개의 행위가 공매도 관련 규정 위반행위와 그 외의 위반행위로 구분되는 경우에는 징계 횟수는 각각 1회로 산정한다.<신설 2025. 10. 2.>
+3. 제15조의2제2항에 따라 회원의 수개의 행위 각각에 대해 징계를 하더라도 징계 횟수는 1회로 산정. 다만, 회원의 수개의 행위가 공매도 관련 규정 위반행위와 그 외의 위반행위로 구분되는 경우에는 징계 횟수는 각각 1회로 산정한다. <신설 2025. 10. 2.>
 
-④ 삭제<2024. 10. 15.>
+④ 삭제 <2024. 10. 15.>
 
-⑤ 제1항에 따라 징계를 가중한 경우에는 제2항에 따른 가중을 하지 않는다.<개정 2024. 10. 15.>
+⑤ 제1항에 따라 징계를 가중한 경우에는 제2항에 따른 가중을 하지 않는다. <개정 2024. 10. 15.>
 
 [전문개정 2021. 9. 14.]
 
-**제15조의2(회원의 수개의 위반행위에 대한 징계)**①규정제22조제5항에 따라 회원의 하나의 행위가 수개의 위반유형에 해당하는 경우에는 각각에 대한 징계 중 가장 중한 사항에 해당하는 징계를 할 수 있다.
+**제15조의2(회원의 수개의 위반행위에 대한 징계)**① 규정 제22조제5항에 따라 회원의 하나의 행위가 수개의 위반유형에 해당하는 경우에는 각각에 대한 징계 중 가장 중한 사항에 해당하는 징계를 할 수 있다.
 
 ② 회원의 수개의 행위가 수개의 위반유형 또는 위반행위에 해당하는 경우에는 각각에 대해 징계할 수 있다.
 
@@ -1399,47 +1598,47 @@ attachments:
 
 [본조신설 2024. 10. 15.]
 
-**제16조(회원에 대한 징계의 감경)**①규정제22조제5항에 따라 회원에 대하여규정제22조제1항의 징계를 하는 때에 최근 2년 이내에 위원회가 정하는 절차에 따라 우수 컴플라이언스 회원으로 선정된 회원의 경우에는 한 단계 이내에서 감경할 수 있다.
+**제16조(회원에 대한 징계의 감경)**① 규정 제22조제5항에 따라 회원에 대하여 규정 제22조제1항의 징계를 하는 때에 최근 2년 이내에 위원회가 정하는 절차에 따라 우수 컴플라이언스 회원으로 선정된 회원의 경우에는 한 단계 이내에서 감경할 수 있다.
 
-②규정제22조제5항에 따라 회원에 대하여규정제22조제1항의 징계를 하는 경우에는 내부통제 적정성을 고려하여 한 단계 이내에서 감경할 수 있다.
+② 규정 제22조제5항에 따라 회원에 대하여 규정 제22조제1항의 징계를 하는 경우에는 내부통제 적정성을 고려하여 한 단계 이내에서 감경할 수 있다.
 
-③규정제22조제5항에 따라 회원에 대하여규정제22조제1항의 징계를 하는 경우에는 위원회가 위법·위규행위를 인지하기 전에 회원 또는 회원의 임직원 등이 전화, 이메일, 팩스 또는 별지 제20호 서식의 신고서 제출 등의 방법으로 해당 행위를 자진신고한 경우에는 한 단계 이내에서 감경할 수 있다.<신설 2023. 6. 7.>
+③ 규정 제22조제5항에 따라 회원에 대하여 규정 제22조제1항의 징계를 하는 경우에는 위원회가 위법·위규행위를 인지하기 전에 회원 또는 회원의 임직원 등이 전화, 이메일, 팩스 또는 별지 제20호 서식의 신고서 제출 등의 방법으로 해당 행위를 자진신고한 경우에는 한 단계 이내에서 감경할 수 있다. <신설 2023. 6. 7.>
 
 ④ 제1항 및 제2항에 따른 징계의 감경은 중복하여 적용하지 아니한다.
 
 [전문개정 2021. 9. 14.]
 
-**제17조(회원에 대한 징계의 가중·감경방법)**규정제22조제5항에 따라 제15조 또는 제16조에 따른 가중 또는 감경을 하는 경우에는 다음 각 호의 방법에 따른다.
+**제17조(회원에 대한 징계의 가중·감경방법)**규정 제22조제5항에 따라 제15조 또는 제16조에 따른 가중 또는 감경을 하는 경우에는 다음 각 호의 방법에 따른다.
 
-1.규정제22조제1항제1호의2·제1호의3의 징계에 대한 가중 또는 감경은 각 징계종류별 범위 이내에서 한다. 다만, 징계종류별 범위의 상·하한에 대한 가중 또는 감경은규정제22조제1항 각 호에서 정하는 징계의 종류를 한 단계 가중 또는 감경한다.
+1. 규정 제22조제1항제1호의2·제1호의3의 징계에 대한 가중 또는 감경은 각 징계종류별 범위 이내에서 한다. 다만, 징계종류별 범위의 상·하한에 대한 가중 또는 감경은 규정 제22조제1항 각 호에서 정하는 징계의 종류를 한 단계 가중 또는 감경한다.
 
-2.규정제22조제1항제2호의 징계에 대한 가중 또는 감경에 관한 사항은 별표 1과 같다.
+2. 규정 제22조제1항제2호의 징계에 대한 가중 또는 감경에 관한 사항은 별표 1과 같다.
 
-3.규정제22조제1항제1호·제3호 및 제4호의 징계에 대한 가중 또는 감경은규정제22조제1항 각 호에서 정하는 징계의 종류를 한 단계 가중 또는 감경한다.
+3. 규정 제22조제1항제1호·제3호 및 제4호의 징계에 대한 가중 또는 감경은 규정 제22조제1항 각 호에서 정하는 징계의 종류를 한 단계 가중 또는 감경한다.
 
-4. 제3호에도 불구하고규정제22조제1항제1호의 징계에 대한 가중 또는규정제22조제1항제4호의 징계에 대한 감경은 하지 아니한다.
+4. 제3호에도 불구하고 규정 제22조제1항제1호의 징계에 대한 가중 또는 규정 제22조제1항제4호의 징계에 대한 감경은 하지 아니한다.
 
 [전문개정 2021. 9. 14.]
 
-**제18조(회원에 대한 조치요구의 종류 및 사유 등)**①규정제22조제5항에 따른 회원에 대한 조치요구의 종류 및 사유는 다음 각 호와 같다.
+**제18조(회원에 대한 조치요구의 종류 및 사유 등)**① 규정 제22조제5항에 따른 회원에 대한 조치요구의 종류 및 사유는 다음 각 호와 같다.
 
 1. 개선요구
-회원 및 그 임원·직원의 업무처리가 위법·위규하거나 불합리하여 회원의 내부통제시스템 등 업무개선이 요구되는 경우
+ 회원 및 그 임원·직원의 업무처리가 위법·위규하거나 불합리하여 회원의 내부통제시스템 등 업무개선이 요구되는 경우
 
 2. 시정요구
-회원 및 그 임원·직원이 위법·위규 또는 부당하게 처리한 업무를 원상회복이나 그 이후 정상화시킬 필요가 있다고 인정하는 경우
+ 회원 및 그 임원·직원이 위법·위규 또는 부당하게 처리한 업무를 원상회복이나 그 이후 정상화시킬 필요가 있다고 인정하는 경우
 
 3. 주의촉구
-제1호 또는 제2호에 따른 조치를 하는 것이 부적절하거나 위규행위의 재발방지를 위하여 회원에 대한 주의환기가 필요하다고 인정되는 경우
+ 제1호 또는 제2호에 따른 조치를 하는 것이 부적절하거나 위규행위의 재발방지를 위하여 회원에 대한 주의환기가 필요하다고 인정되는 경우
 
 4. 이행확약서 징구
-규정제22조에 따른 위원회의 조치에 대하여 이행을 사전적으로 담보할 필요가 있다고 인정되는 경우
+ 규정제22조에 따른 위원회의 조치에 대하여 이행을 사전적으로 담보할 필요가 있다고 인정되는 경우
 
-② 위원회는규정제22조제1항제1호의2부터 제4호까지의 징계를 하는 경우에는 같은 조 제4항에 따른 개선요구 또는 시정요구를 병과할 수 있다.
+② 위원회는 규정 제22조제1항제1호의2부터 제4호까지의 징계를 하는 경우에는 같은 조 제4항에 따른 개선요구 또는 시정요구를 병과할 수 있다.
 
 [전문개정 2021. 9. 14.]
 
-**제19조(회원에 대한 임직원의 징계요구의 종류 및 사유)**①규정제23조제2항에 따른 회원의 임원에 대한 징계요구의 종류 및 사유는 다음 각 호와 같다.
+**제19조(회원에 대한 임직원의 징계요구의 종류 및 사유)**① 규정 제23조제2항에 따른 회원의 임원에 대한 징계요구의 종류 및 사유는 다음 각 호와 같다.
 
 1. 해임의 요구
 
@@ -1462,18 +1661,18 @@ attachments:
 다. 위법·위규 또는 부당한 행위와 관련하여 선량한 관리자로서의 주의의무를 위반한 경우
 
 4. 주의의 요구
-제3호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
+ 제3호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
 
-②규정제23조제2항에 따른 회원의 직원에 대한 징계요구의 종류 및 사유는 다음 각 호와 같다.
+② 규정 제23조제2항에 따른 회원의 직원에 대한 징계요구의 종류 및 사유는 다음 각 호와 같다.
 
 1. 면직의 요구
 
 가. 고의 또는 중대한 과실로 위법·위규 또는 부당한 행위(감독을 게을리 하거나 지시한 경우 등을 포함한다. 이하 이항에서 같다)를 하여 공정거래질서를 현저히 저해하거나 시장의 공신력을 크게 실추시키는 경우
 
-나. 고의 또는 중대한 과실로규정제21조제5호에 해당되는 행위(이하 "심리·감리의 방해등"이라 한다)를 하여 심리 또는 감리의 수행을 불가능하게 하거나 상당히 곤란하게 하는 경우
+나. 고의 또는 중대한 과실로 규정 제21조제5호에 해당되는 행위(이하 "심리·감리의 방해등"이라 한다)를 하여 심리 또는 감리의 수행을 불가능하게 하거나 상당히 곤란하게 하는 경우
 
 2. 정직의 요구
-제1호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
+ 제1호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
 
 3. 감봉의 요구
 
@@ -1482,7 +1681,7 @@ attachments:
 나. 고의 또는 중대한 과실로 자료제출등 협조의무 위반을 하여 심리 또는 감리의 수행에 지장을 초래하는 경우
 
 4. 견책의 요구
-제3호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
+ 제3호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
 
 5. 경고의 요구
 
@@ -1493,21 +1692,21 @@ attachments:
 다. 위법·위규 또는 부당한 행위와 관련하여 선량한 관리자로서의 주의의무를 위반한 경우
 
 6. 주의의 요구
-제5호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
+ 제5호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
 
 ③ 제25조제1항에 따라 위원회가 징계요구 결정내용을 해당 회원에게 통보하는 때에는 제1항 또는 제2항 각 호에서 정한 징계요구의 종류 이상으로 징계요구를 기재하여 통보한다. 다만, 제1항제1호나 제2항제1호에 따른 징계요구 결정내용을 통보할 때에는 해당 각 호에서 정한 징계요구 종류를 기재한다.
 
 [전문개정 2021. 9. 14.]
 
-**제20조(임직원에 대한 징계요구의 가중)**규정제23조제2항에 따라 회원의 임원에 대하여규정제23조제1항제1호의 징계요구를 하거나, 직원에 대하여규정제23조제1항제2호의 징계요구를 하는 때에 다음 각 호의 어느 하나에 해당하는 경우에는 징계요구를 한 단계 이내에서 가중할 수 있다.
+**제20조(임직원에 대한 징계요구의 가중)**규정 제23조제2항에 따라 회원의 임원에 대하여 규정 제23조제1항제1호의 징계요구를 하거나, 직원에 대하여 규정 제23조제1항제2호의 징계요구를 하는 때에 다음 각 호의 어느 하나에 해당하는 경우에는 징계요구를 한 단계 이내에서 가중할 수 있다.
 
 1. 해당 임원이나 직원이 회원의 관련법규등의 위반 또는 심리·감리의 방해등과 관련하여 규정 제23조제1항제1호 또는 같은 항 제2호의 어느 하나에 해당하는 징계요구를 받은 후 2년 이내에 동일 또는 유사한 행위로 징계요구를 받는 경우
 
-2. 해당 임원이나 직원이 회원의 관련법규등의 위반 또는 심리·감리의 방해등과 관련하여 최근 2년 이내에규정제23조제1항제1호 또는 같은 항 제2호의 징계요구 중 어느 하나를 기준으로 하여 그 이상의 징계를 3회 이상 받게 되는 경우
+2. 해당 임원이나 직원이 회원의 관련법규등의 위반 또는 심리·감리의 방해등과 관련하여 최근 2년 이내에 규정 제23조제1항제1호 또는 같은 항 제2호의 징계요구 중 어느 하나를 기준으로 하여 그 이상의 징계를 3회 이상 받게 되는 경우
 
 [전문개정 2021. 9. 14.]
 
-**제21조(임직원에 대한 징계요구의 감경)**①규정제23조제2항에 따라 회원의 임원에 대하여규정제23조제1항제1호의 징계요구를 하거나, 직원에 대하여규정제23조제1항제2호의 징계요구를 하는 때에 다음 각 호의 어느 하나에 해당하는 공적이 있는 경우에는 징계요구를 한 단계 이내에서 감경할 수 있다.
+**제21조(임직원에 대한 징계요구의 감경)**① 규정 제23조제2항에 따라 회원의 임원에 대하여 규정 제23조제1항제1호의 징계요구를 하거나, 직원에 대하여 규정 제23조제1항제2호의 징계요구를 하는 때에 다음 각 호의 어느 하나에 해당하는 공적이 있는 경우에는 징계요구를 한 단계 이내에서 감경할 수 있다.
 
 1. 「상훈법」에 따라 훈장 또는 포장을 받은 경우
 
@@ -1515,7 +1714,7 @@ attachments:
 
 3. 금융위원회 위원장, 금융감독원장, 거래소 이사장 또는 위원장의 표창을 받은 경우
 
-②규정제23조제2항에 따라 회원의 임원에 대하여규정제23조제1항제1호의 징계요구를 하거나, 직원에 대하여규정제23조제1항제2호의 징계요구를 하는 때에 다음 각 호의 어느 하나에 해당하는 자는 징계요구를 감경하거나 면제할 수 있다.
+② 규정 제23조제2항에 따라 회원의 임원에 대하여 규정 제23조제1항제1호의 징계요구를 하거나, 직원에 대하여 규정 제23조제1항제2호의 징계요구를 하는 때에 다음 각 호의 어느 하나에 해당하는 자는 징계요구를 감경하거나 면제할 수 있다.
 
 1. 위법·위규 또는 부당행위를 위원회가 인지하기 전에 자진신고한 자
 
@@ -1523,7 +1722,7 @@ attachments:
 
 3. 위원회가 인지하기 전에 위법·위규 또는 부당행위를 스스로 시정한 자
 
-③규정제23조제2항에 따라 회원에게 관련 임직원의 징계를 요구하는 경우 행위자의 의사결정 또는 행위를 보조하는 자 및 행위자의 업무처리를 감독하는 자에 대하여는 다음 각 호의 사항을 고려하여 행위자에 대한 징계요구보다 한 단계 이상 감경할 수 있다.
+③ 규정 제23조제2항에 따라 회원에게 관련 임직원의 징계를 요구하는 경우 행위자의 의사결정 또는 행위를 보조하는 자 및 행위자의 업무처리를 감독하는 자에 대하여는 다음 각 호의 사항을 고려하여 행위자에 대한 징계요구보다 한 단계 이상 감경할 수 있다.
 
 1. 위법·위규 또는 부당한 행위의 성격과 규모
 
@@ -1541,21 +1740,21 @@ attachments:
 
 [본조신설 2021. 9. 14.]
 
-**제21조의2(의견진술의 방법 등)**규정제26조의2제1항의 규정에 의한 서면에 의한 의견진술은 별지 제15-2호 서식에 의한다.
+**제21조의2(의견진술의 방법 등)**규정 제26조의2제1항의 규정에 의한 서면에 의한 의견진술은 별지 제15-2호 서식에 의한다.
 
 [본조신설 2006. 11. 30.]
 
 **제22조(임직원에 대한 징계요구의 가중·감경방법)**제20조 또는 제21조에 따라 가중 또는 감경하는 경우 다음 각 호의 방법에 따른다.
 
-1.규정제23조제1항 각 호의 징계에 대한 가중 또는 감경할 때에는 제19조제1항 각 호 또는 제19조제2항 각 호에서 정하는 징계요구의 종류를 한 단계 가중 또는 감경한다.
+1. 규정 제23조제1항 각 호의 징계에 대한 가중 또는 감경할 때에는 제19조제1항 각 호 또는 제19조제2항 각 호에서 정하는 징계요구의 종류를 한 단계 가중 또는 감경한다.
 
 2. 제1호에도 불구하고 제19조제1항제1호 및 제19조제2항제1호의 징계요구에 대한 가중 또는 제19조제1항제4호 및 제19조제2항제6호의 징계요구에 대한 감경은 하지 아니한다.
 
 [본조신설 2021. 9. 14.]
 
-**제23조(회원의 자율조치)**①규정제23조제2항에 따라 위원회는 회원의 직원[이사·감사와 사실상 동등한 지위에 있는 미등기임원 또는 집행임원 등(이하 이 조에서 "집행임원 등"이라 한다)을 제외한다. 이하 이 조에서 같다]이 제19조제2항제5호·제6호의 징계요구 종류에 해당하는 경우에는 회원이 자율적으로 해당 직원에 대한 징계를 결정하여 조치(이하 "회원자율조치"라 한다)하도록 통보할 수 있다.
+**제23조(회원의 자율조치)**① 규정 제23조제2항에 따라 위원회는 회원의 직원[이사·감사와 사실상 동등한 지위에 있는 미등기임원 또는 집행임원 등(이하 이 조에서 "집행임원 등"이라 한다)을 제외한다. 이하 이 조에서 같다]이 제19조제2항제5호·제6호의 징계요구 종류에 해당하는 경우에는 회원이 자율적으로 해당 직원에 대한 징계를 결정하여 조치(이하 "회원자율조치"라 한다)하도록 통보할 수 있다.
 
-② 제1항에도 불구하고 위원회는 다음 각 호의 어느 하나에 해당하는 경우에는 회원에 대하여규정제23조제1항에 따라 해당 직원에 대한 징계의 종류를 지정하여 징계요구를 하여야 한다.
+② 제1항에도 불구하고 위원회는 다음 각 호의 어느 하나에 해당하는 경우에는 회원에 대하여 규정 제23조제1항에 따라 해당 직원에 대한 징계의 종류를 지정하여 징계요구를 하여야 한다.
 
 1. 회원의 직원이 위법·위규 또는 부당한 행위를 한 행위자이거나 해당 행위를 지시 또는 종용한 지시자인 경우로서 위원회가 관련자인 이사·감사 또는 집행임원 등에 대한 징계요구를 하는 경우
 
@@ -1563,7 +1762,7 @@ attachments:
 
 [본조신설 2021. 9. 14.]
 
-**제24조(징계 및 징계요구의 공표)**①규정제24조제3항에 따라 위원회는 다음 각 호의 사항을 공표할 수 있다.
+**제24조(징계 및 징계요구의 공표)**① 규정 제24조제3항에 따라 위원회는 다음 각 호의 사항을 공표할 수 있다.
 
 1. 징계 및 징계요구의 결의일자
 
@@ -1573,7 +1772,7 @@ attachments:
 
 4. 징계 및 징계요구의 종류와 내용
 
-② 위원회는규정제27조제1항에 따른 이의신청 또는규정제27조의2에 따른 직권재심을 한 결과, 징계의 종류 또는 내용이 변경된 때에는 그 사실을 변경 결정을 한 날에 다시 공표할 수 있다.
+② 위원회는 규정 제27조제1항에 따른 이의신청 또는 규정 제27조의2에 따른 직권재심을 한 결과, 징계의 종류 또는 내용이 변경된 때에는 그 사실을 변경 결정을 한 날에 다시 공표할 수 있다.
 
 ③ 제1항에 따라 공표하는 경우 관련 임원·직원의 실명은 공표하지 아니할 수 있다.
 
@@ -1581,11 +1780,11 @@ attachments:
 
 [본조신설 2021. 9. 14.]
 
-**제25조(징계등의 처리결과 보고)**① 위원회는규정제22조제5항,규정제23조제2항 또는 제23조에 따른 징계, 징계요구 또는 회원자율조치의 결정 내용을 해당 회원에게 통보하여야 한다.
+**제25조(징계등의 처리결과 보고)**① 위원회는 규정 제22조제5항, 규정 제23조제2항 또는 제23조에 따른 징계, 징계요구 또는 회원자율조치의 결정 내용을 해당 회원에게 통보하여야 한다.
 
 ② 위원회는 제1항의 결정과 관련하여 회원의 퇴임한 임원 또는 퇴직한 직원이 재임 또는 재직 중이었다면 받았을 것으로 인정되는 징계요구 또는 회원자율조치의 결정 내용을 회원에게 통보할 수 있다. 이 경우 회원은 그 내용을 해당 임원 또는 직원에게 통지하고, 통보 받은 날부터 3개월 이내에 위원회에 통지여부 및 징계여부 등을 보고하여야 한다.
 
-③ 제1항에 따른 징계, 징계요구 또는 회원자율조치를 통보 받거나규정제22조제4항에 따라 개선요구 또는 시정요구를 통보 받은 회원은 특별한 사유가 없는 경우 통보를 받은 날부터 다음 각 호의 기간 이내에 필요한 조치를 이행하고 그 결과를 지체 없이 위원회에 보고하여야 한다. 다만 개선요구 또는 시정요구 사항을 제4호의 기간 이내에 이행할 수 없는 경우에는 이행확약서를 제출하여야 한다.
+③ 제1항에 따른 징계, 징계요구 또는 회원자율조치를 통보 받거나 규정 제22조제4항에 따라 개선요구 또는 시정요구를 통보 받은 회원은 특별한 사유가 없는 경우 통보를 받은 날부터 다음 각 호의 기간 이내에 필요한 조치를 이행하고 그 결과를 지체 없이 위원회에 보고하여야 한다. 다만 개선요구 또는 시정요구 사항을 제4호의 기간 이내에 이행할 수 없는 경우에는 이행확약서를 제출하여야 한다.
 
 1. 회원제재금의 부과: 1개월
 
@@ -1605,43 +1804,43 @@ attachments:
 
 [본조신설 2021. 9. 14.]
 
-**제27조(규율위원회의 운영)**① 규율위원회의 운영과 관련하여 규정 제25조 및「심의·자문위원회 설치 및 운영규정」에서 특별히 규정하는 경우를 제외하고는 이 조에서 정하는 바에 따른다.<개정 2023. 8. 30.>
+**제27조(규율위원회의 운영)**① 규율위원회의 운영과 관련하여 규정 제25조 및「심의·자문위원회 설치 및 운영규정」에서 특별히 규정하는 경우를 제외하고는 이 조에서 정하는 바에 따른다. <개정 2023. 8. 30.>
 
-② 삭제<2023. 8. 30.>
+② 삭제 <2023. 8. 30.>
 
-③ 삭제<2023. 8. 30.>
+③ 삭제 <2023. 8. 30.>
 
-④ 삭제<2023. 8. 30.>
+④ 삭제 <2023. 8. 30.>
 
-⑤ 삭제<2023. 8. 30.>
+⑤ 삭제 <2023. 8. 30.>
 
 ⑥ 규율위원회의 의장이 부재중이거나 부득이한 사유로 직무를 수행할 수 없을 때에는 위원 중에서 의장이 미리 지정한 자로 하여금 그 직무를 대행하게 할 수 있다.
 
 ⑦ 규율위원회를 소집하고자 하는 때에는 회의일시, 장소 및 목적사항 등을 기재한 서면을 회의개최 3일전까지 각 위원에게 통지하여야 한다. 다만 의장이 긴급히 소집할 필요가 있다고 인정하는 경우에는 그러하지 아니하다.
 
-⑧ 삭제<2023. 8. 30.>
+⑧ 삭제 <2023. 8. 30.>
 
 ⑨ 위원장은 규율위원회의 심의와 관련한 제도의 개선 등에 관하여 규율위원회에 의견을 요청할 수 있다.
 
-⑩ 규율위원회의 간사는 시장감시본부 담당부서장으로 한다.<개정 2023. 8. 30.>
+⑩ 규율위원회의 간사는 시장감시본부 담당부서장으로 한다. <개정 2023. 8. 30.>
 
-⑪ 규율위원회 사전통지에 관하여는규정제26조를 준용하고, 규율위원회에서의 의견진술에 관하여는규정제26조의2를 준용한다. 다만,규정제26조제1항에 따른 통지를 하면서 규율위원회에서의 의견진술 일시 및 장소를 함께 통지한 경우에는규정제26조를 준용하지 아니한다.<개정 2023. 4. 11.>
+⑪ 규율위원회 사전통지에 관하여는 규정 제26조를 준용하고, 규율위원회에서의 의견진술에 관하여는 규정 제26조의2를 준용한다. 다만, 규정 제26조제1항에 따른 통지를 하면서 규율위원회에서의 의견진술 일시 및 장소를 함께 통지한 경우에는 규정 제26조를 준용하지 아니한다. <개정 2023. 4. 11.>
 
-⑫ 삭제<2023. 8. 30.>
+⑫ 삭제 <2023. 8. 30.>
 
-⑬ 삭제<2023. 8. 30.>
+⑬ 삭제 <2023. 8. 30.>
 
-⑭ 규율위원회 위원이 다음 각 호의 어느 하나에 해당하는 경우 위원회는 해당 위원을 해촉한다.<신설 2011. 7. 7., 2020. 3. 18., 2023. 8. 30.>
+⑭ 규율위원회 위원이 다음 각 호의 어느 하나에 해당하는 경우 위원회는 해당 위원을 해촉한다. <신설 2011. 7. 7., 2020. 3. 18., 2023. 8. 30.>
 
-1. 삭제<2023. 8. 30.>
+1. 삭제 <2023. 8. 30.>
 
-2. 위원이 된 후에규정제25조제2항 각 호의 자격을 상실한 경우
+2. 위원이 된 후에 규정 제25조제2항 각 호의 자격을 상실한 경우
 
-3. 삭제<2023. 8. 30.>
+3. 삭제 <2023. 8. 30.>
 
-4. 삭제<2023. 8. 30.>
+4. 삭제 <2023. 8. 30.>
 
-**제28조(이의신청의 방법 및 처리<개정 2006. 11. 30.>)**①규정제27조제4항의 규정에 의하여 징계등의 조치를 받은 자가 이의신청을 하는 경우에는 다음 각 호의 사항을 기재한 신청서와 증빙서류 등을 첨부하여 위원회에 제출하여야 한다.<개정 2006. 11. 30., 2009. 2. 3.>
+**제28조(이의신청의 방법 및 처리<개정 2006. 11. 30.>)**① 규정 제27조제4항의 규정에 의하여 징계등의 조치를 받은 자가 이의신청을 하는 경우에는 다음 각 호의 사항을 기재한 신청서와 증빙서류 등을 첨부하여 위원회에 제출하여야 한다. <개정 2006. 11. 30., 2009. 2. 3.>
 
 1. 이의신청인
 
@@ -1649,9 +1848,9 @@ attachments:
 
 3. 이의신청사유
 
-② 삭제<2011. 2. 11.>
+② 삭제 <2011. 2. 11.>
 
-③ 위원회는 이의신청을 한 자가 다음 각 호의 어느 하나에 해당하는 경우에는 이를 각하할 수 있다.<신설 2007. 8. 27., 2011. 2. 11.>
+③ 위원회는 이의신청을 한 자가 다음 각 호의 어느 하나에 해당하는 경우에는 이를 각하할 수 있다. <신설 2007. 8. 27., 2011. 2. 11.>
 
 1. 제1항의 규정에 따른 신청서가 같은 항의 각 호에서 정하는 요건에 충족되지 아니한 경우
 
@@ -1661,37 +1860,37 @@ attachments:
 
 나. 징계당사자가 제출한 문서, 진술 등이 위조·변조, 누락·왜곡 또는 허위인 경우
 
-④규정제27조제4항의 규정에 의하여 위원회는 이의신청 결과 또는 신청서의 각하 여부를 신청인에게 지체 없이 통지하여야 한다.<개정 2006. 11. 30., 2009. 2. 3.>
+④ 규정 제27조제4항의 규정에 의하여 위원회는 이의신청 결과 또는 신청서의 각하 여부를 신청인에게 지체 없이 통지하여야 한다. <개정 2006. 11. 30., 2009. 2. 3.>
 
-**제29조(약식제재금의 부과 방법 및 기준)**① 위원회는규정제28조제3항에 따라 다음 각 호의 어느 하나에 해당하고 위반수준이 경미한 경우에는 회원에게 약식제재금을 부과할 수 있다.<신설 2006. 11. 30., 2009. 2. 3., 2009. 3. 27., 2011. 12. 26., 2013. 9. 13., 2016. 4. 18., 2019. 9. 20.>
+**제29조(약식제재금의 부과 방법 및 기준)**① 위원회는 규정 제28조제3항에 따라 다음 각 호의 어느 하나에 해당하고 위반수준이 경미한 경우에는 회원에게 약식제재금을 부과할 수 있다. <신설 2006. 11. 30., 2009. 2. 3., 2009. 3. 27., 2011. 12. 26., 2013. 9. 13., 2016. 4. 18., 2019. 9. 20.>
 
-1. 「유가증권시장 업무규정」·같은규정시행세칙, 「코스닥시장 업무규정」·같은규정시행세칙, 「코넥스시장 업무규정」·같은규정시행세칙 및 다자간매매체결회사의 업무기준에서 규정하는 상장법인의 자기주식 매매거래와 관련된 사항의 위반. 다만, 자기주식매매거래계좌의 설정 또는 자기주식매매신청서의 제출 의무를 위반하는 경우는 그러하지 아니하다.<개정 2025. 2. 27.>
+1. 「유가증권시장 업무규정」·같은 규정 시행세칙, 「코스닥시장 업무규정」·같은 규정 시행세칙, 「코넥스시장 업무규정」·같은 규정 시행세칙 및 다자간매매체결회사의 업무기준에서 규정하는 상장법인의 자기주식 매매거래와 관련된 사항의 위반. 다만, 자기주식매매거래계좌의 설정 또는 자기주식매매신청서의 제출 의무를 위반하는 경우는 그러하지 아니하다. <개정 2025. 2. 27.>
 
 2. 삭제
 
-3. 「유가증권시장 업무규정」·같은규정시행세칙, 「코스닥시장 업무규정」·같은규정시행세칙, 「코넥스시장 업무규정」·같은규정시행세칙, 「파생상품시장 업무규정」·같은규정시행세칙 및 다자간매매체결회사의 업무기준에 따른 호가·주문의 방법과 관련된 사항의 위반<개정 2025. 2. 27.>
+3. 「유가증권시장 업무규정」·같은 규정 시행세칙, 「코스닥시장 업무규정」·같은 규정 시행세칙, 「코넥스시장 업무규정」·같은 규정 시행세칙, 「파생상품시장 업무규정」·같은 규정 시행세칙 및 다자간매매체결회사의 업무기준에 따른 호가·주문의 방법과 관련된 사항의 위반 <개정 2025. 2. 27.>
 
-4. 「유가증권시장 업무규정」·같은규정시행세칙, 「코스닥시장 업무규정」·같은규정시행세칙, 「코넥스시장 업무규정」·같은규정시행세칙, 「파생상품시장 업무규정」·같은규정시행세칙 및 다자간매매체결회사의 업무기준에 따른 수탁의 방법과 관련된 사항의 위반<개정 2025. 2. 27.>
+4. 「유가증권시장 업무규정」·같은 규정 시행세칙, 「코스닥시장 업무규정」·같은 규정 시행세칙, 「코넥스시장 업무규정」·같은 규정 시행세칙, 「파생상품시장 업무규정」·같은 규정 시행세칙 및 다자간매매체결회사의 업무기준에 따른 수탁의 방법과 관련된 사항의 위반 <개정 2025. 2. 27.>
 
-4의2. 「파생상품시장 업무규정」 및 같은규정시행세칙에 따른 미결제약정수량의 제한과 관련된 사항의 위반
+4의2. 「파생상품시장 업무규정」 및 같은 규정 시행세칙에 따른 미결제약정수량의 제한과 관련된 사항의 위반
 
-4의3. 「파생상품시장 업무규정」 및 같은규정시행세칙에 따른 누적호가수량의 제한과 관련된 사항의 위반
+4의3. 「파생상품시장 업무규정」 및 같은 규정 시행세칙에 따른 누적호가수량의 제한과 관련된 사항의 위반
 
 5. 그 밖에 경미한 위규행위로서 위원장이 필요하다고 인정하는 경우
 
-② 위원장은 약식제재금을 부과하는 경우에는 별표2에 따라 위반행위의 성격, 횟수, 규모 및 당해 회원의 자발적인 노력 등을 고려하여 위규행위별로 금액을 결정한다.<개정 2006. 11. 30.>
+② 위원장은 약식제재금을 부과하는 경우에는 별표2에 따라 위반행위의 성격, 횟수, 규모 및 당해 회원의 자발적인 노력 등을 고려하여 위규행위별로 금액을 결정한다. <개정 2006. 11. 30.>
 
-③ 제1항 및 제2항의 규정에 의하여 약식제재금을 부과하는 경우에는 별지 제16호 서식에 의한다. 이 경우 약식제재금의 납부기한은 해당 회원이 부과통지를 받는 날로부터 1개월 이내로 한다.<개정 2006. 11. 30., 2009. 2. 3.>
+③ 제1항 및 제2항의 규정에 의하여 약식제재금을 부과하는 경우에는 별지 제16호 서식에 의한다. 이 경우 약식제재금의 납부기한은 해당 회원이 부과통지를 받는 날로부터 1개월 이내로 한다. <개정 2006. 11. 30., 2009. 2. 3.>
 
-④규정제22조제3항은 약식제재금 부과를 받은 회원이 납부기한 내에 이를 이행하지 아니한 경우에 준용한다.<신설 2011. 2. 11.>
+④ 규정 제22조제3항은 약식제재금 부과를 받은 회원이 납부기한 내에 이를 이행하지 아니한 경우에 준용한다. <신설 2011. 2. 11.>
 
-⑤ 약식제재금의 사용 및 관리에 관하여 필요한 사항은 위원장이 따로 정한다.<신설 2024. 1. 30.>
+⑤ 약식제재금의 사용 및 관리에 관하여 필요한 사항은 위원장이 따로 정한다. <신설 2024. 1. 30.>
 
-**제30조(권한의 위임)**①규정제29조제10호의 규정에 의하여 위원회가 위원장에게 위임하는 긴급한 사항이라 함은 천재·지변·전시·사변·경제사정의 급격한 변동 그 밖에 이에 준하는 사태로 인하여 상당한 기간 위원회의 개최가 곤란한 경우로서 그 처리에 긴급을 요하는 사항을 말한다.
+**제30조(권한의 위임)**① 규정제29조제10호의 규정에 의하여 위원회가 위원장에게 위임하는 긴급한 사항이라 함은 천재·지변·전시·사변·경제사정의 급격한 변동 그 밖에 이에 준하는 사태로 인하여 상당한 기간 위원회의 개최가 곤란한 경우로서 그 처리에 긴급을 요하는 사항을 말한다.
 
-②규정제29조제10호의 규정에 의하여 위원회가 위원장에게 위임하는 경미한 사항은 다음 각 호의 사항을 말한다.<개정 2011. 2. 11., 2013. 9. 13., 2022. 11. 23., 2024. 1. 30.>
+② 규정제29조제10호의 규정에 의하여 위원회가 위원장에게 위임하는 경미한 사항은 다음 각 호의 사항을 말한다. <개정 2011. 2. 11., 2013. 9. 13., 2022. 11. 23., 2024. 1. 30.>
 
-1.규정제9조제1항의 규정에 의한 회피신청서 제출 및 승인에 관한 사항
+1. 규정제9조제1항의 규정에 의한 회피신청서 제출 및 승인에 관한 사항
 
 2. 제22조제3항에 따른 이의신청의 각하사유에 해당하는지 여부의 결정에 관한 사항
 
@@ -1703,7 +1902,7 @@ attachments:
 
 [본조신설 2006. 11. 30.]
 
-**제31조(의견수렴)**규정제29조의2에 따른 의견수렴은 「내규관리규정」제5조및 「규제관리규정」제6조에서 정하는 바에 따른다.
+**제31조(의견수렴)**규정 제29조의2에 따른 의견수렴은 「내규관리규정」 제5조 및 「규제관리규정」 제6조에서 정하는 바에 따른다.
 
 [본조신설 2020. 5. 7.]
 
@@ -1711,13 +1910,13 @@ attachments:
 
 ① (시행일) 이 세칙은 거래소의 설립일부터 시행한다
 
-② (회원에 대한 징계기준에 관한 특례) 거래소의 설립일부터 2년이 되는 날까지는 제14조제1항제1호다목·제2호라목·제3호라목·제4호라목·제5호라목의규정중 "2년"은 각각 "1년"으로 본다
+② (회원에 대한 징계기준에 관한 특례) 거래소의 설립일부터 2년이 되는 날까지는 제14조제1항제1호다목·제2호라목·제3호라목·제4호라목·제5호라목의 규정중 "2년"은 각각 "1년"으로 본다
 
 ③ (심리 또는 감리대상 종목 등에 관한 경과조치) 이 세칙 시행전에 한국증권거래소의 업무규정시행세칙 및 선물·옵션업무규정시행세칙, 한국증권업협회의 협회중개시장업무규정시행세칙과 한국선물거래소의 업무규정시행세칙에 의하여 심리 또는 감리대상으로 선정된 종목·회원 등은 이 세칙에 의하여 심리 또는 감리대상으로 선정된 것으로 본다.
 
 ④ (회원의 징계 등에 관한 경과조치) 이 세칙 시행전의 위법·위규 또는 부당한 행위 등에 대한 징계 또는 조치의 내용에 대하여는 종전 한국증권거래소의 업무규정시행세칙 및 선물·옵션업무규정시행세칙, 한국증권업협회의 협회중개시장업무규정시행세칙과 한국선물거래소의 업무규정시행세칙에 의한다.
 
-⑤ (회원의 보고 등에 관한 경과조치) 이규정시행전의 한국증권거래소의 업무규정시행세칙 및 선물·옵션업무규정시행세칙, 한국증권업협회의 협회중개시장업무규정시행세칙과 한국선물거래소의 업무규정시행세칙에 의한 회원의 보고, 회원에 대한 요구·요청, 불공정거래의 예방활동과 관련한 조치 등은 이 세칙에 의한 것으로 본다.
+⑤ (회원의 보고 등에 관한 경과조치) 이 규정 시행전의 한국증권거래소의 업무규정시행세칙 및 선물·옵션업무규정시행세칙, 한국증권업협회의 협회중개시장업무규정시행세칙과 한국선물거래소의 업무규정시행세칙에 의한 회원의 보고, 회원에 대한 요구·요청, 불공정거래의 예방활동과 관련한 조치 등은 이 세칙에 의한 것으로 본다.
 
 부칙 <제75호, 2005. 3. 24.>
 
@@ -1743,105 +1942,105 @@ attachments:
 
 ② (이의신청에 관한 적용례) 제21조의2제2항제3호의 개정규정은 이 세칙 시행 후 최초로 조치하는 징계등부터 적용한다.
 
-③ (투자경고종목 지정에 관한 경과조치) 이 세칙 시행 당시유가증권시장업무규정시행세칙제133조제1항제1호 및코스닥시장업무규정시행세칙제54조제1항의 규정에 따라 지정된 이상급등종목은 그 지정일부터 제3조의3제1항제1호의 개정규정에 따른 투자경고종목으로 지정된 것으로 본다.
+③ (투자경고종목 지정에 관한 경과조치) 이 세칙 시행 당시 유가증권시장업무규정시행세칙 제133조제1항제1호 및 코스닥시장업무규정시행세칙 제54조제1항의 규정에 따라 지정된 이상급등종목은 그 지정일부터 제3조의3제1항제1호의 개정규정에 따른 투자경고종목으로 지정된 것으로 본다.
 
 부칙 <제295호, 2007. 10. 16.>
 
-① (시행일) 이세칙은 2007년 11월 1일부터 시행한다.
+① (시행일) 이 세칙은 2007년 11월 1일부터 시행한다.
 
-② (회원에 대한 징계에 관한 적용례) 제14조제1항의 개정규정은 이세칙시행 후 최초로 위원회에서 행하는 징계부터 적용한다.
+② (회원에 대한 징계에 관한 적용례) 제14조제1항의 개정규정은 이 세칙 시행 후 최초로 위원회에서 행하는 징계부터 적용한다.
 
 부칙 <제328호, 2008. 2. 19.>
 
-① (시행일) 이세칙은 2008년 2월 25일부터 시행한다.
+① (시행일) 이 세칙은 2008년 2월 25일부터 시행한다.
 
-② (회원에 대한 징계에 관한 적용례) 별표1 제2호나목(4)의 개정규정은 이세칙시행 후 최초로 위원회에서 행하는 징계부터 적용한다.
+② (회원에 대한 징계에 관한 적용례) 별표1 제2호나목(4)의 개정규정은 이 세칙 시행 후 최초로 위원회에서 행하는 징계부터 적용한다.
 
 부칙 <제352호, 2008. 6. 27.>
 
-① (시행일) 이세칙은 2008년 6월 30일부터 시행한다. 다만, 제6조의3의 개정규정은 2008년 8월 25일부터 시행한다.
+① (시행일) 이 세칙은 2008년 6월 30일부터 시행한다. 다만, 제6조의3의 개정규정은 2008년 8월 25일부터 시행한다.
 
-② (포상금 지급에 관한 적용례) 제6조의3의 개정규정은 이세칙시행 후 최초로 접수하는 불공정거래 신고부터 적용한다.
+② (포상금 지급에 관한 적용례) 제6조의3의 개정규정은 이 세칙 시행 후 최초로 접수하는 불공정거래 신고부터 적용한다.
 
-③ (약식제재금 부과에 관한 적용례) 별표 2의 개정규정은 이세칙시행 후 최초로 실시하는 감리부터 적용한다.
+③ (약식제재금 부과에 관한 적용례) 별표 2의 개정규정은 이 세칙 시행 후 최초로 실시하는 감리부터 적용한다.
 
 부칙 <제358호, 2008. 7. 24.>
 
-① (시행일) 이세칙은 2008년 7월 28일부터 시행한다.
+① (시행일) 이 세칙은 2008년 7월 28일부터 시행한다.
 
-② (투자주의종목 지정 등에 관한 경과조치) 이세칙시행 당시 투자주의종목, 투자경고종목 또는 투자위험종목으로 지정 또는 지정예고된 종목은 제3조·제3조의3 및 제3조의4의 개정규정에 따라 지정 또는 지정예고된 종목으로 본다.
+② (투자주의종목 지정 등에 관한 경과조치) 이 세칙 시행 당시 투자주의종목, 투자경고종목 또는 투자위험종목으로 지정 또는 지정예고된 종목은 제3조·제3조의3 및 제3조의4의 개정규정에 따라 지정 또는 지정예고된 종목으로 본다.
 
 부칙 <제387호, 2008. 11. 13.>
 
-이세칙은 2008년 12월 1일부터 시행한다.
+이 세칙은 2008년 12월 1일부터 시행한다.
 
 부칙 <제464호, 2009. 2. 3.>
 
-① (시행일) 이세칙은 2009년 2월 4일부터 시행한다. 다만, 제2조의2의 개정규정은 2009년 2월 16일부터 시행한다.
+① (시행일) 이 세칙은 2009년 2월 4일부터 시행한다. 다만, 제2조의2의 개정규정은 2009년 2월 16일부터 시행한다.
 
-② (예방조치요구에 관련 적용례) 제2조의2제3항의 개정규정은 이세칙시행 후 최초로 위원회가 요구한 예방조치요구부터 적용한다.
+② (예방조치요구에 관련 적용례) 제2조의2제3항의 개정규정은 이 세칙 시행 후 최초로 위원회가 요구한 예방조치요구부터 적용한다.
 
-③ (징계등의 처리결과 통보에 관한 적용례) 제19조제2항제2호의 개정규정은 이세칙시행 후 최초로 위원회가 요구한 징계부터 적용한다.
+③ (징계등의 처리결과 통보에 관한 적용례) 제19조제2항제2호의 개정규정은 이 세칙 시행 후 최초로 위원회가 요구한 징계부터 적용한다.
 
 부칙 <제490호, 2009. 3. 27.>
 
-① (시행일) 이세칙은 2009년 4월 1일부터 시행한다.
+① (시행일) 이 세칙은 2009년 4월 1일부터 시행한다.
 
-② (적용례) 제23조 및 별표 2의 개정규정은 이세칙시행 후 최초로 발생하는 미결제약정제한수량 위반부터 적용한다.
+② (적용례) 제23조 및 별표 2의 개정규정은 이 세칙 시행 후 최초로 발생하는 미결제약정제한수량 위반부터 적용한다.
 
 부칙 <제552호, 2009. 11. 27.>
 
-**제1조(시행일)**이세칙은 2009년 12월 14일부터 시행한다.
+**제1조(시행일)**이 세칙은 2009년 12월 14일부터 시행한다.
 
-**제2조(투자경고종목 지정 등에 관한 적용례)**제3조의3제1항제3호 및 같은 조 제2항제3호의 개정규정에 따라 투자경고종목으로 지정 또는 지정예고하는 경우의 투자주의종목은 소수지점거래집중종목 또는 소수계좌거래집중종목을 제외하고는 이규정시행 후부터 지정되는 투자주의종목부터 적용한다.
+**제2조(투자경고종목 지정 등에 관한 적용례)**제3조의3제1항제3호 및 같은 조 제2항제3호의 개정규정에 따라 투자경고종목으로 지정 또는 지정예고하는 경우의 투자주의종목은 소수지점거래집중종목 또는 소수계좌거래집중종목을 제외하고는 이 규정 시행 후부터 지정되는 투자주의종목부터 적용한다.
 
-**제3조(투자경고종목 지정 등에 관한 경과조치)**이세칙시행 당시 투자경고종목 또는 투자위험종목으로 지정 또는 지정예고된 종목은 제3조의3 및 제3조의4의 개정규정에 따라 지정 또는 지정예고된 종목으로 본다.
+**제3조(투자경고종목 지정 등에 관한 경과조치)**이 세칙 시행 당시 투자경고종목 또는 투자위험종목으로 지정 또는 지정예고된 종목은 제3조의3 및 제3조의4의 개정규정에 따라 지정 또는 지정예고된 종목으로 본다.
 
 부칙 <제613호, 2010. 5. 31.>
 
-**제1조(시행일)**이세칙은 2010년 6월 1일부터 시행한다.
+**제1조(시행일)**이 세칙은 2010년 6월 1일부터 시행한다.
 
-**제2조(약식제재금에 관한 적용례)**별표 2의 개정규정은 이세칙시행 후 최초로 발생하는 위규행위부터 적용한다.
+**제2조(약식제재금에 관한 적용례)**별표 2의 개정규정은 이 세칙 시행 후 최초로 발생하는 위규행위부터 적용한다.
 
 부칙 <제692호, 2011. 2. 11.>
 
-**제1조(시행일)**이세칙은 2011년 2월 14일부터 시행한다. 다만, 제3조, 제3조의3, 제3조의4, 제3조의5 및 제3조의7의 개정규정은 2011년 2월 21일부터 시행한다.
+**제1조(시행일)**이 세칙은 2011년 2월 14일부터 시행한다. 다만, 제3조, 제3조의3, 제3조의4, 제3조의5 및 제3조의7의 개정규정은 2011년 2월 21일부터 시행한다.
 
-**제2조(투자위험종목의 매매거래정지 요청에 관한 적용례)**제3조의5의 개정규정은 이세칙시행일 이후 투자위험종목으로 지정되는 종목부터 적용한다.
+**제2조(투자위험종목의 매매거래정지 요청에 관한 적용례)**제3조의5의 개정규정은 이 세칙 시행일 이후 투자위험종목으로 지정되는 종목부터 적용한다.
 
-**제3조(포상금 지급기준 등에 관한 적용례)**제6조의3의 개정규정은 이세칙시행 당시 포상금 지급여부가 결정되지 않은 불공정거래 신고부터 적용한다.
+**제3조(포상금 지급기준 등에 관한 적용례)**제6조의3의 개정규정은 이 세칙 시행 당시 포상금 지급여부가 결정되지 않은 불공정거래 신고부터 적용한다.
 
-**제4조(약식제재금 부과에 관한 적용례)**제23조의 개정규정은 이세칙시행 후 부과되는 약식제재금부터 적용한다.
+**제4조(약식제재금 부과에 관한 적용례)**제23조의 개정규정은 이 세칙 시행 후 부과되는 약식제재금부터 적용한다.
 
-**제5조(투자주의종목 지정 등에 관한 경과조치)**이세칙시행 당시 제3조제4항제6호에 따라 투자주의종목으로 지정된 종목은 이 규정의 시행일에 제3조의 개정규정에 따라 투자주의종목으로 지정된 것으로 본다.
+**제5조(투자주의종목 지정 등에 관한 경과조치)**이 세칙 시행 당시 제3조제4항제6호에 따라 투자주의종목으로 지정된 종목은 이 규정의 시행일에 제3조의 개정규정에 따라 투자주의종목으로 지정된 것으로 본다.
 
 부칙 <제745호, 2011. 7. 7.>
 
-**제1조(시행일)**이세칙은 2011년 7월 8일부터 시행한다.
+**제1조(시행일)**이 세칙은 2011년 7월 8일부터 시행한다.
 
-**제2조(적용례)**제21조제1항의 개정규정은 이규정시행 이후 최초로 위촉되는 위원부터 적용한다.
+**제2조(적용례)**제21조제1항의 개정규정은 이 규정 시행 이후 최초로 위촉되는 위원부터 적용한다.
 
-**제3조(기존 위원의 연임·임기에 관한 특례)**이규정시행 당시 종전의 규정에 따라 위촉된 위원은 최초 위촉일로부터 기산하여 4년을 초과하지 않는 범위 내에서 제21조 제1항의 개정규정에 따라 연임할 수 있다.
+**제3조(기존 위원의 연임·임기에 관한 특례)**이 규정 시행 당시 종전의 규정에 따라 위촉된 위원은 최초 위촉일로부터 기산하여 4년을 초과하지 않는 범위 내에서 제21조 제1항의 개정규정에 따라 연임할 수 있다.
 
 부칙 <제792호, 2011. 12. 26.>
 
-**제1조(시행일)**이세칙은 2012년 1월 1일부터 시행한다.
+**제1조(시행일)**이 세칙은 2012년 1월 1일부터 시행한다.
 
-**제2조(회원에 대한 징계등의 적용례)**제14조제1항제6호다목, 제18조제1항제3호 단서 및 제23조제1항제1호 단서의 개정규정은 이세칙시행 후 최초로 발생하는 위규행위부터 적용한다. 다만, 별표2의 개정규정은 이세칙시행 후 최초로 약식제재금을 부과하는 경우부터 적용한다.
+**제2조(회원에 대한 징계등의 적용례)**제14조제1항제6호다목, 제18조제1항제3호 단서 및 제23조제1항제1호 단서의 개정규정은 이 세칙 시행 후 최초로 발생하는 위규행위부터 적용한다. 다만, 별표2의 개정규정은 이 세칙 시행 후 최초로 약식제재금을 부과하는 경우부터 적용한다.
 
-**제3조(회원제재금 부과에 관한 적용례)**별표1의 개정규정은 이세칙시행 후 최초로 회원제재금을 부과하는 경우부터 적용한다.
+**제3조(회원제재금 부과에 관한 적용례)**별표1의 개정규정은 이 세칙 시행 후 최초로 회원제재금을 부과하는 경우부터 적용한다.
 
 부칙 <제816호, 2012. 3. 8.>
 
-**제1조(시행일)**이세칙은 2012년 3월 12일부터 시행한다.
+**제1조(시행일)**이 세칙은 2012년 3월 12일부터 시행한다.
 
-**제2조(투자경고종목 또는 투자위험종목의 지정 등에 관한 적용례)**① 제3조의3 및 제3조의4의 개정규정은 이세칙시행 후의 매매 거래일부터 기산하여 투자경고종목 또는 투자위험종목으로 지정 되거나 지정예고되는 종목부터 적용한다.
+**제2조(투자경고종목 또는 투자위험종목의 지정 등에 관한 적용례)**① 제3조의3 및 제3조의4의 개정규정은 이 세칙 시행 후의 매매 거래일부터 기산하여 투자경고종목 또는 투자위험종목으로 지정 되거나 지정예고되는 종목부터 적용한다.
 
-② 제3조의5 및 제3조의6의 개정규정은 이세칙시행 후의 매매 거래일부터 기산하여 투자경고종목 또는 투자위험종목으로 지정되는 종목부터 적용한다.
+② 제3조의5 및 제3조의6의 개정규정은 이 세칙 시행 후의 매매 거래일부터 기산하여 투자경고종목 또는 투자위험종목으로 지정되는 종목부터 적용한다.
 
-**제3조(투자경고종목 또는 투자위험종목의 지정 등에 관한 경과조치)**① 이세칙시행이전의 매매거래일부터 기산하여 종전세칙제3조의3및제3조의4에 따른 투자경고종목 또는 투자위험종목의 지정이나 지정예고 등에 해당하는 경우에는 종전세칙제3조의3및제3조의4에 따른다.
+**제3조(투자경고종목 또는 투자위험종목의 지정 등에 관한 경과조치)**① 이 세칙 시행이전의 매매거래일부터 기산하여 종전 세칙 제3조의3 및 제3조의4에 따른 투자경고종목 또는 투자위험종목의 지정이나 지정예고 등에 해당하는 경우에는 종전 세칙 제3조의3 및 제3조의4에 따른다.
 
-② 이세칙시행이전의 매매거래일부터 기산하여 종전세칙제3조의4에 따라 투자위험종목으로 지정되는 경우 그 매매거래정지의 요청에 관하여는 종전세칙제3조의5에 따른다.
+② 이 세칙 시행이전의 매매거래일부터 기산하여 종전 세칙 제3조의4에 따라 투자위험종목으로 지정되는 경우 그 매매거래정지의 요청에 관하여는 종전 세칙 제3조의5에 따른다.
 
 **제4조(투자경고종목 또는 투자위험종목의 지정 등에 관한 특례)**① 부칙 제2조에 따른 조치를 받은 이후에 부칙 제3조에 따라 동일한 조치를 받게 되는 경우(양 조치를 동일한 시점에 받게 되는 경우를 포함한다)에는 부칙 제3조를 적용하지 아니한다.
 
@@ -1849,295 +2048,295 @@ attachments:
 
 부칙 <제826호, 2012. 4. 10.>
 
-이세칙은 2012년 4월 23일부터 시행한다.
+이 세칙은 2012년 4월 23일부터 시행한다.
 
 부칙 <제850호, 2012. 7. 3.>
 
-**제1조(시행일)**이세칙은 2012년 7월 9일부터 시행한다.
+**제1조(시행일)**이 세칙은 2012년 7월 9일부터 시행한다.
 
-**제2조(포상금 지급에 관한 적용례)**제6조의3의 개정규정은 이세칙시행일 이후 접수된 불공정거래 신고부터 적용한다.
+**제2조(포상금 지급에 관한 적용례)**제6조의3의 개정규정은 이 세칙 시행일 이후 접수된 불공정거래 신고부터 적용한다.
 
 부칙 <제858호, 2012. 8. 27.>
 
-이세칙은 2012년 9월 3일부터 시행한다.
+이 세칙은 2012년 9월 3일부터 시행한다.
 
 부칙 <제861호, 2012. 9. 12.>
 
-이세칙은 2012년 9월 13일부터 시행한다.
+이 세칙은 2012년 9월 13일부터 시행한다.
 
 부칙 <제868호, 2012. 10. 5.>
 
-**제1조(시행일)**이세칙은 2012년 10월 8일부터 시행한다. 다만, 제3조제1항부터 제3항까지 중 주식워런트증권과 관련된 개정규정은 2012년 10월 29일부터 시행한다.
+**제1조(시행일)**이 세칙은 2012년 10월 8일부터 시행한다. 다만, 제3조제1항부터 제3항까지 중 주식워런트증권과 관련된 개정규정은 2012년 10월 29일부터 시행한다.
 
-**제2조(투자주의종목 지정 등에 관한 적용례)**① 제3조, 제3조의3 및 제3조의4의 개정규정은 이세칙시행 후의 매매거래일부터 기산하여 투자주의종목, 투자경고종목 또는 투자위험종목으로 지정, 지정예고 또는 지정해제되는 종목부터 적용한다.
+**제2조(투자주의종목 지정 등에 관한 적용례)**① 제3조, 제3조의3 및 제3조의4의 개정규정은 이 세칙 시행 후의 매매거래일부터 기산하여 투자주의종목, 투자경고종목 또는 투자위험종목으로 지정, 지정예고 또는 지정해제되는 종목부터 적용한다.
 
-② 이세칙시행이전의 매매거래일부터 기산하여 종전세칙제3조,제3조의3및제3조의4에 따른 투자주의종목, 투자경고종목 또는 투자위험종목의 지정, 지정예고 또는 지정해제 등에 해당하는 경우에는 종전세칙제3조,제3조의3및제3조의4에 따른다.
+② 이 세칙 시행이전의 매매거래일부터 기산하여 종전 세칙 제3조, 제3조의3 및 제3조의4에 따른 투자주의종목, 투자경고종목 또는 투자위험종목의 지정, 지정예고 또는 지정해제 등에 해당하는 경우에는 종전 세칙 제3조, 제3조의3 및 제3조의4에 따른다.
 
 ③ 제1항에 따른 조치를 받은 이후에 제2항에 따라 동일한 조치를 받게 되는 경우(양 조치를 동일한 시점에 받게 되는 경우를 포함한다)에는 제2항을 적용하지 아니한다.
 
 부칙 <제885호, 2012. 12. 27.>
 
-이세칙은 2013년 1월 1일부터 시행한다.
+이 세칙은 2013년 1월 1일부터 시행한다.
 
 부칙 <제926호, 2013. 6. 17.>
 
-**제1조(시행일)**이세칙은 2013년 7월 1일부터 시행한다.
+**제1조(시행일)**이 세칙은 2013년 7월 1일부터 시행한다.
 
 **제2조(투자주의종목에 대한 적용특례)**코넥스시장 상장종목에 대하여는 시장감시위원장이 따로 정하는 날부터 제3조를 적용한다.
 
 부칙 <제941호, 2013. 8. 26.>
 
-**제1조(시행일)**이세칙은 2013년 9월 30일부터 시행한다. 다만 제3조의5 및 제3조의6의 개정규정은 2013년 8월 27일부터 시행한다.
+**제1조(시행일)**이 세칙은 2013년 9월 30일부터 시행한다. 다만 제3조의5 및 제3조의6의 개정규정은 2013년 8월 27일부터 시행한다.
 
-**제2조(투자주의종목 지정 등에 관한 적용례)**① 제3조, 제3조의3 및 제3조의4의 개정규정은 이세칙시행 이후의 매매거래일부터 기산하여 투자주의종목, 투자경고종목 또는 투자위험종목으로 지정, 지정예고 또는 지정해제되는 종목부터 적용한다.
+**제2조(투자주의종목 지정 등에 관한 적용례)**① 제3조, 제3조의3 및 제3조의4의 개정규정은 이 세칙 시행 이후의 매매거래일부터 기산하여 투자주의종목, 투자경고종목 또는 투자위험종목으로 지정, 지정예고 또는 지정해제되는 종목부터 적용한다.
 
-② 이세칙시행이전의 매매거래일부터 기산하여 종전세칙제3조,제3조의3및제3조의4에 따른 투자주의종목, 투자경고종목 또는 투자위험종목의 지정, 지정예고 또는 지정해제에 해당하는 경우에는 종전세칙제3조,제3조의3및제3조의4에 따른다.
+② 이 세칙 시행이전의 매매거래일부터 기산하여 종전 세칙 제3조, 제3조의3 및 제3조의4에 따른 투자주의종목, 투자경고종목 또는 투자위험종목의 지정, 지정예고 또는 지정해제에 해당하는 경우에는 종전 세칙 제3조, 제3조의3 및 제3조의4에 따른다.
 
 부칙 <제950호, 2013. 9. 13.>
 
-**제1조(시행일)**이세칙은 2013년 9월 23일부터 시행한다. 다만, 제7조, 제8조 및 제23조의 개정규정은 2013년 9월 17일부터 시행한다.
+**제1조(시행일)**이 세칙은 2013년 9월 23일부터 시행한다. 다만, 제7조, 제8조 및 제23조의 개정규정은 2013년 9월 17일부터 시행한다.
 
-**제2조(포상금에 관한 적용례)**제6조의3 및 제24조의 개정규정은 이세칙시행일 이후 접수된 신고분부터 적용한다.
+**제2조(포상금에 관한 적용례)**제6조의3 및 제24조의 개정규정은 이 세칙 시행일 이후 접수된 신고분부터 적용한다.
 
-**제3조(약식제재금 부과에 관한 적용례)**제23조의 개정규정은 이세칙시행 후 최초로 약식제재금을 부과하는 경우부터 적용한다.
+**제3조(약식제재금 부과에 관한 적용례)**제23조의 개정규정은 이 세칙 시행 후 최초로 약식제재금을 부과하는 경우부터 적용한다.
 
 부칙 <제984호, 2013. 12. 30.>
 
-이세칙은 2014년 1월 2일부터 시행한다.
+이 세칙은 2014년 1월 2일부터 시행한다.
 
 부칙 <제1046호, 2014. 6. 26.>
 
-이세칙은 2014년 6월 30일부터 시행한다.
+이 세칙은 2014년 6월 30일부터 시행한다.
 
 부칙 <제1072호, 2014. 7. 31.>
 
-이세칙은 2014년 8월 4일부터 시행한다.
+이 세칙은 2014년 8월 4일부터 시행한다.
 
 부칙 <제1105호, 2014. 10. 31.>
 
-이세칙은 2014년 11월 17일부터 시행한다.
+이 세칙은 2014년 11월 17일부터 시행한다.
 
 부칙 <제1117호, 2014. 11. 27.>
 
-**제1조(시행일)**이세칙은 2014년 12월 1일부터 시행한다.
+**제1조(시행일)**이 세칙은 2014년 12월 1일부터 시행한다.
 
-**제2조(투자주의종목 지정 등에 관한 적용례)**① 이세칙은 시행 이후의 매매거래일부터 기산하여 투자주의종목, 투자경고종목 또는 투자위험종목으로 지정, 지정예고 또는 지정해제되는 종목부터 적용한다.
+**제2조(투자주의종목 지정 등에 관한 적용례)**① 이 세칙은 시행 이후의 매매거래일부터 기산하여 투자주의종목, 투자경고종목 또는 투자위험종목으로 지정, 지정예고 또는 지정해제되는 종목부터 적용한다.
 
-② 이세칙시행이전의 매매거래일부터 기산하여 종전세칙에 따른 투자주의종목, 투자경고종목 또는 투자위험종목의 지정, 지정예고 또는 지정해제에 해당하는 경우에는 종전세칙에 따른다.
+② 이 세칙 시행이전의 매매거래일부터 기산하여 종전 세칙에 따른 투자주의종목, 투자경고종목 또는 투자위험종목의 지정, 지정예고 또는 지정해제에 해당하는 경우에는 종전 세칙에 따른다.
 
 부칙 <제1197호, 2015. 6. 10.>
 
-**제1조(시행일)**이세칙은 2015년 6월 15일부터 시행한다.
+**제1조(시행일)**이 세칙은 2015년 6월 15일부터 시행한다.
 
-**제2조(투자경고종목의 매매거래정지의 요청 등에 관한 경과조치)**이세칙시행일 전 위원회가 매매거래가 정지될 수 있다는 사실을 예고한 경우 매매거래정지의 요청은 제3조의5의 개정규정에도 불구하고 종전의규정을 따른다.
+**제2조(투자경고종목의 매매거래정지의 요청 등에 관한 경과조치)**이 세칙 시행일 전 위원회가 매매거래가 정지될 수 있다는 사실을 예고한 경우 매매거래정지의 요청은 제3조의5의 개정규정에도 불구하고 종전의 규정을 따른다.
 
 부칙 <제1211호, 2015. 6. 30.>
 
-이세칙은시장감시규정('15.6.5 시장감시위원회 의결)의 효력이 발생하는 때부터 시행한다.
+이 세칙은 시장감시규정('15.6.5 시장감시위원회 의결)의 효력이 발생하는 때부터 시행한다.
 
 부칙 <제1255호, 2015. 11. 20.>
 
-이세칙은 2015년 11월 23일부터 시행한다.
+이 세칙은 2015년 11월 23일부터 시행한다.
 
 부칙 <제1263호, 2015. 12. 11.>
 
-**제1조(시행일)**이세칙은 2015년 12월 14일부터 시행한다.
+**제1조(시행일)**이 세칙은 2015년 12월 14일부터 시행한다.
 
-**제2조(투자경고종목 적용례)**이세칙시행 이전 종전 규정에 따라 투자경고종목으로서 매매거래정지 사유가 발생한 종목에 대해서는 그 지정 해제 시까지 종전 규정에 의한다.
+**제2조(투자경고종목 적용례)**이 세칙 시행 이전 종전 규정에 따라 투자경고종목으로서 매매거래정지 사유가 발생한 종목에 대해서는 그 지정 해제 시까지 종전 규정에 의한다.
 
 부칙 <제1305호, 2016. 3. 29.>
 
-이세칙은 2016년 3월 30일부터 시행한다.
+이 세칙은 2016년 3월 30일부터 시행한다.
 
 부칙 <제1311호, 2016. 4. 18.>
 
-**제1조(시행일)**이세칙은 2016년 4월 20일부터 시행한다.
+**제1조(시행일)**이 세칙은 2016년 4월 20일부터 시행한다.
 
-**제2조(투자경고종목 지정 등에 관한 적용례)**제3조의3제1항제7호, 같은 조 제2항제6호 및 제5항제1호라목의 개정규정은 이세칙시행 이후 투자경고종목에서 지정해제되는 종목부터 적용한다.
+**제2조(투자경고종목 지정 등에 관한 적용례)**제3조의3제1항제7호, 같은 조 제2항제6호 및 제5항제1호라목의 개정규정은 이 세칙 시행 이후 투자경고종목에서 지정해제되는 종목부터 적용한다.
 
-**제3조(약식제재금 부과 적용례)**제23조제1항제4호의3의 개정규정은 이세칙시행 후 발생하는 위반분부터 적용한다.
+**제3조(약식제재금 부과 적용례)**제23조제1항제4호의3의 개정규정은 이 세칙 시행 후 발생하는 위반분부터 적용한다.
 
 부칙 <제1325호, 2016. 5. 31.>
 
-이세칙은 2016년 6월 1일부터 시행한다.
+이 세칙은 2016년 6월 1일부터 시행한다.
 
 부칙 <제1416호, 2017. 2. 10.>
 
-**제1조(시행일)**이세칙은 2017년 2월 13일부터 시행한다. 다만, 제3조제4항제7호의 개정규정은 2017년 2월 20일부터 시행한다.
+**제1조(시행일)**이 세칙은 2017년 2월 13일부터 시행한다. 다만, 제3조제4항제7호의 개정규정은 2017년 2월 20일부터 시행한다.
 
-**제2조(투자주의종목 지정에 관한 적용례)**제3조제4항제7호의 개정규정은 이세칙시행일 이후 최초로 풍문관여종목으로 지정된 종목부터 적용한다.
+**제2조(투자주의종목 지정에 관한 적용례)**제3조제4항제7호의 개정규정은 이 세칙 시행일 이후 최초로 풍문관여종목으로 지정된 종목부터 적용한다.
 
 부칙 <제1423호, 2017. 3. 7.>
 
-이세칙은 2017년 3월 13일부터 시행한다.
+이 세칙은 2017년 3월 13일부터 시행한다.
 
 부칙 <제1474호, 2017. 8. 11.>
 
-이세칙은 2017년 8월 14일부터 시행한다.
+이 세칙은 2017년 8월 14일부터 시행한다.
 
 부칙 <제1485호, 2017. 9. 14.>
 
-이세칙은 2017년 9월 18일부터 시행한다.
+이 세칙은 2017년 9월 18일부터 시행한다.
 
 부칙 <제1500호, 2017. 12. 18.>
 
-이세칙은 2018년 1월 2일부터 시행한다.
+이 세칙은 2018년 1월 2일부터 시행한다.
 
 부칙 <제1524호, 2018. 2. 2.>
 
-**제1조(시행일)**이세칙은 2018년 2월 6일부터 시행한다.
+**제1조(시행일)**이 세칙은 2018년 2월 6일부터 시행한다.
 
-**제2조(적용례)**제3조의7제1항 단서 및 제2항의 개정규정은 이세칙시행일 이후 최초로 코넥스시장 상장종목이 유가증권시장 또는 코스닥시장에 신규상장되는 경우부터 적용한다.
+**제2조(적용례)**제3조의7제1항 단서 및 제2항의 개정규정은 이 세칙 시행일 이후 최초로 코넥스시장 상장종목이 유가증권시장 또는 코스닥시장에 신규상장되는 경우부터 적용한다.
 
 부칙 <제1577호, 2018. 9. 7.>
 
-**제1조(시행일)**이세칙은 2018년 10월 1일부터 시행한다.
+**제1조(시행일)**이 세칙은 2018년 10월 1일부터 시행한다.
 
-**제2조(회원제재금 부과에 관한 적용례)**별표 1의 개정규정은 이세칙이 시행 후 최초로 회원제재금을 부과하는 경우부터 적용한다.
+**제2조(회원제재금 부과에 관한 적용례)**별표 1의 개정규정은 이 세칙이 시행 후 최초로 회원제재금을 부과하는 경우부터 적용한다.
 
 부칙 <제1611호, 2018. 12. 11.>
 
-**제1조(시행일)**이세칙은 2018년 12월 24일부터 시행한다.
+**제1조(시행일)**이 세칙은 2018년 12월 24일부터 시행한다.
 
 부칙 <제1734호, 2019. 9. 20.>
 
-이세칙은 2019년 9월 23일부터 시행한다.
+이 세칙은 2019년 9월 23일부터 시행한다.
 
 부칙 <제1792호, 2020. 3. 18.>
 
-이세칙은 2020년 3월 23일부터 시행한다.
+이 세칙은 2020년 3월 23일부터 시행한다.
 
 부칙 <제1822호, 2020. 5. 7.>
 
-이세칙은 2020년 5월 8일부터 시행한다.
+이 세칙은 2020년 5월 8일부터 시행한다.
 
 부칙 <제1933호, 2021. 3. 12.>
 
-이세칙은 2021년 3월 15일부터 시행한다. 다만, 제13조의3의 개정규정은 2021년 4월 6일부터 시행한다.
+이 세칙은 2021년 3월 15일부터 시행한다. 다만, 제13조의3의 개정규정은 2021년 4월 6일부터 시행한다.
 
 부칙 <제1982호, 2021. 9. 14.>
 
-**제1조(시행일)**이세칙은 2021년 10월 1일부터 시행한다.
+**제1조(시행일)**이 세칙은 2021년 10월 1일부터 시행한다.
 
-**제2조(회원에 대한 징계, 조치요구 또는 회원에 대한 임직원의 징계요구 등에 관한 경과조치)**이세칙시행 전의규정위반행위에 대하여 회원에 대한 징계, 조치요구 또는 회원에 대한 임직원의 징계요구 기준을 적용할 때에는 이세칙의 개정규정에도 불구하고 위반행위 당시의 규정에 따른다.
+**제2조(회원에 대한 징계, 조치요구 또는 회원에 대한 임직원의 징계요구 등에 관한 경과조치)**이 세칙 시행 전의 규정 위반행위에 대하여 회원에 대한 징계, 조치요구 또는 회원에 대한 임직원의 징계요구 기준을 적용할 때에는 이 세칙의 개정규정에도 불구하고 위반행위 당시의 규정에 따른다.
 
 부칙 <제2011호, 2021. 12. 15.>
 
-**제1조(시행일)**이세칙은 2021년 12월 27일부터 시행한다.
+**제1조(시행일)**이 세칙은 2021년 12월 27일부터 시행한다.
 
-**제2조(소액포상금 한도에 관한 적용례)**제6조의3제2항의 개정규정은 이세칙시행 당시 불공정거래 신고를 접수했으나 포상금을 지급하지 아니한 경우에도 적용한다.
+**제2조(소액포상금 한도에 관한 적용례)**제6조의3제2항의 개정규정은 이 세칙 시행 당시 불공정거래 신고를 접수했으나 포상금을 지급하지 아니한 경우에도 적용한다.
 
 부칙 <제2042호, 2022. 6. 15.>
 
-**제1조(시행일)**이세칙은 2022년 6월 16일부터 시행한다.
+**제1조(시행일)**이 세칙은 2022년 6월 16일부터 시행한다.
 
-**제2조(적용례)**별표 2 제1호다목의 개정규정은 이세칙시행일 이후 프로그램매매 호가표시를 위반한 경우부터 적용한다.
+**제2조(적용례)**별표 2 제1호다목의 개정규정은 이 세칙 시행일 이후 프로그램매매 호가표시를 위반한 경우부터 적용한다.
 
 부칙 <제2079호, 2022. 11. 23.>
 
-**제1조(시행일)**이세칙은 2022년 11월 28일부터 시행한다.
+**제1조(시행일)**이 세칙은 2022년 11월 28일부터 시행한다.
 
-**제2조(투자경고종목 및 투자위험종목의 지정 등에 관한 경과조치)**제3조의3 및 제3조의4의 개정규정에도 불구하고 이세칙시행 이전의 매매거래일부터 기산하여 투자경고종목 또는 투자위험종목의 지정이나 지정예고 등에 해당하는 경우에는 종전의 규정에 따른다.
+**제2조(투자경고종목 및 투자위험종목의 지정 등에 관한 경과조치)**제3조의3 및 제3조의4의 개정규정에도 불구하고 이 세칙 시행 이전의 매매거래일부터 기산하여 투자경고종목 또는 투자위험종목의 지정이나 지정예고 등에 해당하는 경우에는 종전의 규정에 따른다.
 
-**제3조(포상지급 기준 등의 관한 적용례)**제6조의3제1항·제4항·제5항 및 제30조제2항제3호의 개정규정은 이규정시행 당시 불공정거래 신고를 접수했으나 포상금을 지급하지 아니한 경우에도 적용한다.
+**제3조(포상지급 기준 등의 관한 적용례)**제6조의3제1항·제4항·제5항 및 제30조제2항제3호의 개정규정은 이 규정 시행 당시 불공정거래 신고를 접수했으나 포상금을 지급하지 아니한 경우에도 적용한다.
 
-**제4조(회원제재금 부과기준에 관한 적용례)**별표 1의 개정규정은 이세칙시행일 이후 최초로 회원제재금을 부과하는 경우부터 적용한다.
+**제4조(회원제재금 부과기준에 관한 적용례)**별표 1의 개정규정은 이 세칙 시행일 이후 최초로 회원제재금을 부과하는 경우부터 적용한다.
 
 부칙 <제2107호, 2023. 2. 8.>
 
-이세칙은 2023년 3월 2일부터 시행한다.
+이 세칙은 2023년 3월 2일부터 시행한다.
 
 부칙 <제2119호, 2023. 4. 11.>
 
-이세칙은 2023년 5월 2일부터 시행한다.
+이 세칙은 2023년 5월 2일부터 시행한다.
 
 부칙 <제2127호, 2023. 6. 7.>
 
-**제1조(시행일)**이세칙은 2023년 6월 8일부터 시행한다.
+**제1조(시행일)**이 세칙은 2023년 6월 8일부터 시행한다.
 
-**제2조(위법·위규행위 자진신고 감경에 관한 적용례)**제16조 및 별표 1의 개정규정은 이세칙시행 전에 위법·위규행위 자진신고를 한 경우로서 이세칙시행 이후 회원에 대하여 징계를 하는 경우에도 적용한다.
+**제2조(위법·위규행위 자진신고 감경에 관한 적용례)**제16조 및 별표 1의 개정규정은 이 세칙 시행 전에 위법·위규행위 자진신고를 한 경우로서 이 세칙 시행 이후 회원에 대하여 징계를 하는 경우에도 적용한다.
 
 부칙 <제2155호, 2023. 8. 30.>
 
-이세칙은 2023년 9월 1일부터 시행한다.
+이 세칙은 2023년 9월 1일부터 시행한다.
 
 부칙 <제2196호, 2023. 12. 12.>
 
-이세칙은 2023년 12월 26일부터 시행한다.
+이 세칙은 2023년 12월 26일부터 시행한다.
 
 부칙 <제2206호, 2024. 1. 30.>
 
-이세칙은 2024년 2월 16일부터 시행한다.
+이 세칙은 2024년 2월 16일부터 시행한다.
 
 부칙 <제2212호, 2024. 2. 16.>
 
-**제1조(시행일)**이세칙은 2024년 2월 19일부터 시행한다.
+**제1조(시행일)**이 세칙은 2024년 2월 19일부터 시행한다.
 
-**제2조(포상금 지급에 관한 적용례)**제6조의3제1항·제5항의 개정규정은 이세칙시행 당시 불공정거래 신고를 접수했으나 포상금을 지급하지 아니한 경우에도 적용한다.
+**제2조(포상금 지급에 관한 적용례)**제6조의3제1항·제5항의 개정규정은 이 세칙 시행 당시 불공정거래 신고를 접수했으나 포상금을 지급하지 아니한 경우에도 적용한다.
 
 부칙 <제2228호, 2024. 5. 21.>
 
-이세칙은 2024년 5월 27일부터 시행한다.
+이 세칙은 2024년 5월 27일부터 시행한다.
 
 부칙 <제2253호, 2024. 10. 15.>
 
-**제1조(시행일)**이세칙은 2024년 10월 16일부터 시행한다.
+**제1조(시행일)**이 세칙은 2024년 10월 16일부터 시행한다.
 
-**제2조(회원에 대한 징계 등의 적용례)**제15조, 제15조의2 및 별표 1의 개정규정은 이세칙시행 이후 최초로 회원에 대해 징계를 하는 경우부터 적용한다.
+**제2조(회원에 대한 징계 등의 적용례)**제15조, 제15조의2 및 별표 1의 개정규정은 이 세칙 시행 이후 최초로 회원에 대해 징계를 하는 경우부터 적용한다.
 
 부칙 <제2296호, 2025. 2. 27.>
 
-이세칙은 2025년 3월 4일부터 시행한다.
+이 세칙은 2025년 3월 4일부터 시행한다.
 
 부칙 <제2310호, 2025. 3. 13.>
 
-이세칙은 2025년 3월 31일부터 시행한다.
+이 세칙은 2025년 3월 31일부터 시행한다.
 
 부칙 <제2329호, 2025-05-15>
 
-**제1조(시행일)**이세칙은 2025년 6월 9일부터 시행한다.
+**제1조(시행일)**이 세칙은 2025년 6월 9일부터 시행한다.
 
 부칙 <제2364호, 2025. 10. 2.>
 
-이세칙은 2025년 10월 2일부터 시행한다.
+이 세칙은 2025년 10월 2일부터 시행한다.
 
 부칙 <제2372호, 2025. 10. 28.>
 
-이세칙은 2025년 10월 28일부터 시행한다.
+이 세칙은 2025년 10월 28일부터 시행한다.
 
 부칙 <제2382호, 2025. 12. 26.>
 
-**제1조(시행일)**이세칙은 2025년 12월 29일부터 시행한다.
+**제1조(시행일)**이 세칙은 2025년 12월 29일부터 시행한다.
 
-**제2조(경과규정)**이세칙시행 이전 종전규정제3조의3제2항제8호에 따라 투자경고종목으로 지정된 종목이 시행일 당시 개정규정제3조의3제2항제8호라목에 해당하는 경우에는 시행일부터 투자경고종목에서 지정해제한다.
+**제2조(경과규정)**이 세칙 시행 이전 종전 규정 제3조의3제2항제8호에 따라 투자경고종목으로 지정된 종목이 시행일 당시 개정 규정 제3조의3제2항제8호라목에 해당하는 경우에는 시행일부터 투자경고종목에서 지정해제한다.
 
 부칙 <제2400호, 2026. 1. 29.>
 
-**제1조(시행일)**이세칙은 2026년 1월 29일부터 시행한다.
+**제1조(시행일)**이 세칙은 2026년 1월 29일부터 시행한다.
 
-**제2조(회원제재금 미환급에 관한 경과조치)**이세칙시행 전에 회원이 이미 납부한 회원제재금의 환급에 관하여는 별표 1 제4호나목의 개정규정에도 불구하고 종전의 규정에 따른다.
+**제2조(회원제재금 미환급에 관한 경과조치)**이 세칙 시행 전에 회원이 이미 납부한 회원제재금의 환급에 관하여는 별표 1 제4호나목의 개정규정에도 불구하고 종전의 규정에 따른다.
 
 부칙 <제2435호, 2026. 4. 24.>
 
-이세칙은 2026년 4월 27일부터 시행한다.
+이 세칙은 2026년 4월 27일부터 시행한다.
 
 부칙 <제2446호, 2026. 5. 19.>
 
-이세칙은 2026년 5월 20일부터 시행한다.
+이 세칙은 2026년 5월 20일부터 시행한다.
 
 부칙 <제2448호, 2026. 5. 26.>
 
-**제1조(시행일)**이세칙은 2026년 5월 27일부터 시행한다.
+**제1조(시행일)**이 세칙은 2026년 5월 27일부터 시행한다.
 
-**제2조(투자경고종목의 지정 및 지정예고에 관한 적용례)**시행일 직전 거래일에 종전 규정에 따라 투자경고종목으로 지정 및 지정예고할 수 있는 종목이 시행일 당시 개정규정제3조의3제4항제3호에 해당하는 경우에는 시행일에 투자경고종목의 지정 및 지정예고를 하지 아니한다.
+**제2조(투자경고종목의 지정 및 지정예고에 관한 적용례)**시행일 직전 거래일에 종전 규정에 따라 투자경고종목으로 지정 및 지정예고할 수 있는 종목이 시행일 당시 개정 규정 제3조의3제4항제3호에 해당하는 경우에는 시행일에 투자경고종목의 지정 및 지정예고를 하지 아니한다.
 
 부칙 <제2452호, 2026. 6. 26.>
 
-**제1조(시행일)**이세칙은 2026년 6월 29일부터 시행한다.
+**제1조(시행일)**이 세칙은 2026년 6월 29일부터 시행한다.
 
-**제2조(포상금 지급에 관한 적용례)**제6조의3의 개정규정은 이세칙시행 전에 불공정거래 신고가 접수된 경우로서, 시행 당시 포상금 지급 결정을 하지 아니한 경우에도 적용한다.
+**제2조(포상금 지급에 관한 적용례)**제6조의3의 개정규정은 이 세칙 시행 전에 불공정거래 신고가 접수된 경우로서, 시행 당시 포상금 지급 결정을 하지 아니한 경우에도 적용한다.
 
-별표 및 서식
+ 별표 및 서식
 
 [별지 제1호 서식] 상장법인 주요주주 등의 자기주식등 거래현황 보고<개정 2009.2.3, 2012.4.10>
 

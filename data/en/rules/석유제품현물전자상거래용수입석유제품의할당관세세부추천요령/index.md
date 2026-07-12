@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "204847401-en"
 title: "석유제품현물전자상거래용수입석유제품의할당관세세부추천요령"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:17:22.692710Z"
+collected_at: "2026-07-12T08:04:58.153070Z"
 content_hash: "af8bb37f942189c0ca350867a8190de75d7f5e204d9ceabc9e9fe564e620361b"
+body_hash: "a3e405406df6d611705ce481ffb6500d26c8b00f1c593b8cf6d0f799bdfd1982"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 일반상품시장규정"
 effective_date: "2013-01-14"
 published_date: "2013-01-10"
@@ -14,6 +18,10 @@ file_name: "석유제품현물전자상거래용수입석유제품의할당관�
 raw_path: "en/rules/석유제품현물전자상거래용수입석유제품의할당관세세부추천요령/raw/english-full-text.pdf"
 text_path: "en/rules/석유제품현물전자상거래용수입석유제품의할당관세세부추천요령/attachments/english-full-text.md"
 file_content_hash: "8af75cdb5587a08ebdf5d42313d1f34cb52921fd3c5b970df1bd4dd7b065f63e"
+raw_file_hash: "8af75cdb5587a08ebdf5d42313d1f34cb52921fd3c5b970df1bd4dd7b065f63e"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Guideline for Recommending Quota Tariff Applied to

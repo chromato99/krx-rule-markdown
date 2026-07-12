@@ -74,25 +74,38 @@ def truncate_name(name: str, max_bytes: int) -> str:
     suffix = Path(name).suffix
     stem = name[: -len(suffix)] if suffix else name
     budget = max(1, max_bytes - len(suffix.encode("utf-8")))
+    shortened = truncate_stem(stem, budget)
+    return shortened + suffix
+
+
+def truncate_stem(stem: str, max_bytes: int) -> str:
     out: list[str] = []
     used = 0
     for ch in stem:
         ch_len = len(ch.encode("utf-8"))
-        if used + ch_len > budget:
+        if used + ch_len > max_bytes:
             break
         out.append(ch)
         used += ch_len
     shortened = "".join(out).rstrip(" ._-")
-    return (shortened or "attachment") + suffix
+    return shortened or truncate_ascii_fallback("attachment", max_bytes)
+
+
+def truncate_ascii_fallback(value: str, max_bytes: int) -> str:
+    return value.encode("ascii")[:max(1, max_bytes)].decode("ascii")
 
 
 def unique_name(name: str, used: set[str], *, max_bytes: int) -> str:
-    candidate = name
+    candidate = truncate_name(name, max_bytes)
     stem = Path(name).stem
     suffix = Path(name).suffix
     index = 2
     while candidate in used:
-        candidate = truncate_name(f"{stem}-{index}{suffix}", max_bytes)
+        disambiguator = f"-{index}"
+        stem_budget = max_bytes - len(suffix.encode("utf-8")) - len(disambiguator)
+        if stem_budget < 1:
+            raise ValueError("max_bytes is too small for a unique filename suffix")
+        candidate = f"{truncate_stem(stem, stem_budget)}{disambiguator}{suffix}"
         index += 1
     used.add(candidate)
     return candidate

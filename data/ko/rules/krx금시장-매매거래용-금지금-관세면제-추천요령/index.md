@@ -1,25 +1,42 @@
 ---
+schema_version: 2
 id: "204847764"
 title: "KRX금시장 매매거래용 금지금 관세면제 추천요령"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:16:44.070510Z"
-content_hash: "69faa023685badbe67d90d1b740736739477bc7c44ca84d99ec41e9e1f205c74"
+collected_at: "2026-07-12T08:04:19.737285Z"
+content_hash: "85d7966ab65f06f8633c19882166ae1c16f00df53ba16b8d098ee0eb2c748959"
+body_hash: "feaec46f60b4e541e8c218cc1316ffb90517219164311e2e84ea431b4e1454fd"
 document_type: "rule"
 language: "ko"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 일반상품시장규정"
 effective_date: "2017-05-12"
 published_date: "2017-05-11"
+source_content_hash: "831e970e26f041bafa6a799c2c251d620738db6926b8b8c5ee15cb7db44380a1"
+source_content_path: "ko/rules/krx금시장-매매거래용-금지금-관세면제-추천요령/raw/source.html"
+source_request_path: "ko/rules/krx금시장-매매거래용-금지금-관세면제-추천요령/raw/request.json"
+converter_version: "2"
+asset_inspection_version: "1"
+preservation_status: "preserved"
 attachments:
   - id: "204847764-201705110000005520000236001-byl-hwp"
     title: "[별지 제1호] KRX금시장 매매거래용 금지금 관세 면제 추천신청서"
     file_name: "KRX금시장 매매거래용 금지금 관세면제 추천요령_1차_KRX금시장매매거래용금지금관세면제추천신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201705110000005520000236001_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-매매거래용-금지금-관세면제-추천요령/raw/별지-제1호-krx금시장-매매거래용-금지금-관세-면제-추천신청서.hwp"
     text_path: "ko/rules/krx금시장-매매거래용-금지금-관세면제-추천요령/attachments/별지-제1호-krx금시장-매매거래용-금지금-관세-면제-추천신청서.md"
     content_hash: "d1903f439a76a9954ef37e15f1f7afd551a7bbae1ec84465073e07ef3e3edc26"
+    raw_file_hash: "d1903f439a76a9954ef37e15f1f7afd551a7bbae1ec84465073e07ef3e3edc26"
+    converted_text_hash: "58be94433c44d5060891e1dcc208066c4a17ca293c17e1d90ca94405080cb6b0"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 15872
     quality_status: "ok"
     quality_score: 100
@@ -30,12 +47,19 @@ attachments:
     title: "[별지 제2호] KRX금시장 매매거래용 금지금 관세 면제 추천서"
     file_name: "KRX금시장 매매거래용 금지금 관세면제 추천요령_1차_KRX금시장매매거래용금지금관세면제추천서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201705110000005520000236002_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-매매거래용-금지금-관세면제-추천요령/raw/별지-제2호-krx금시장-매매거래용-금지금-관세-면제-추천서.hwp"
     text_path: "ko/rules/krx금시장-매매거래용-금지금-관세면제-추천요령/attachments/별지-제2호-krx금시장-매매거래용-금지금-관세-면제-추천서.md"
     content_hash: "0bb952a0768282601ffb5992160fd82f66189e85833b81d389e526acade37b52"
+    raw_file_hash: "0bb952a0768282601ffb5992160fd82f66189e85833b81d389e526acade37b52"
+    converted_text_hash: "76ee6c026144b723bd18672239869f7e403c3c253c41f4554b51ceffe5164277"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 14848
     quality_status: "ok"
     quality_score: 100
@@ -46,12 +70,19 @@ attachments:
     title: "[별지 제3호] KRX금시장 매매거래용 금지금 관세 면제 추천서(전산용)"
     file_name: "KRX금시장 매매거래용 금지금 관세면제 추천요령_1차_KRX금시장매매거래용금지금관세면제추천서(전산용).hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201705110000005520000236003_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-매매거래용-금지금-관세면제-추천요령/raw/별지-제3호-krx금시장-매매거래용-금지금-관세-면제-추천서전산용.hwp"
     text_path: "ko/rules/krx금시장-매매거래용-금지금-관세면제-추천요령/attachments/별지-제3호-krx금시장-매매거래용-금지금-관세-면제-추천서전산용.md"
     content_hash: "98ecbed0eed6c856dcc920a3405d6942f7b05433b0c4de8e95a740580a83205b"
+    raw_file_hash: "98ecbed0eed6c856dcc920a3405d6942f7b05433b0c4de8e95a740580a83205b"
+    converted_text_hash: "7c11fd46086669ab3691ee58ea6d32d28166b28e71913806f349905c9aef12ba"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 14336
     quality_status: "ok"
     quality_score: 100
@@ -62,12 +93,19 @@ attachments:
     title: "[별지 제4호] KRX금시장 매매거래용 금지금 관세 면제 추천유효기간 연장신청서"
     file_name: "KRX금시장 매매거래용 금지금 관세면제 추천요령_1차_KRX금시장매매거래용금지금관세면제추천유효기간연장신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201705110000005520000236004_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-매매거래용-금지금-관세면제-추천요령/raw/별지-제4호-krx금시장-매매거래용-금지금-관세-면제-추천유효기간-연장신청서.hwp"
     text_path: "ko/rules/krx금시장-매매거래용-금지금-관세면제-추천요령/attachments/별지-제4호-krx금시장-매매거래용-금지금-관세-면제-추천유효기간-연장신청서.md"
     content_hash: "5414a60fbb62c71cbf370a501df077efc990a84e91654a2a3b1d3e938e4270eb"
+    raw_file_hash: "5414a60fbb62c71cbf370a501df077efc990a84e91654a2a3b1d3e938e4270eb"
+    converted_text_hash: "e16b1e31955fcd63ac1e0a2e72fd6f2952a720033487824684c148835e1412aa"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 13824
     quality_status: "ok"
     quality_score: 100
@@ -78,12 +116,19 @@ attachments:
     title: "[별지 제5호] 수입 및 KRX금시장 매매거래(공급)계획서"
     file_name: "KRX금시장 매매거래용 금지금 관세면제 추천요령_1차_수입및KRX금시장매매거래(공급)계획서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201705110000005520000236005_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-매매거래용-금지금-관세면제-추천요령/raw/별지-제5호-수입-및-krx금시장-매매거래공급계획서.hwp"
     text_path: "ko/rules/krx금시장-매매거래용-금지금-관세면제-추천요령/attachments/별지-제5호-수입-및-krx금시장-매매거래공급계획서.md"
     content_hash: "b86cabbeb5c3d2491751a4f9e5139554fda8bbda42a1eee9799b4a8e822dff0c"
+    raw_file_hash: "b86cabbeb5c3d2491751a4f9e5139554fda8bbda42a1eee9799b4a8e822dff0c"
+    converted_text_hash: "d04b7bceed8ff8bcde63f4ca0464c075d9e8d43d31be260bc9eae90cc02bdafb"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 12288
     quality_status: "ok"
     quality_score: 100
@@ -96,9 +141,9 @@ attachments:
 
 **제2조(적용범위)**이 요령은 법 제126조의7제9항에 따라 KRX금시장에서 매매거래를 하기 위하여 수입되는 금지금에 대한 관세를 면제받고자 할 때 적용한다.
 
-**제3조(추천대상 금지금)**「KRX금시장 운영규정」(이하 "운영규정"이라 한다)제34조제1항 및 제3항에 따른 요건을 충족하는 금지금으로서 법 제126조의7제9항에 따라 KRX금시장에서 매매거래를 하기 위하여수입신고하는 금지금으로 한다.<개정 2017. 5. 11.>
+**제3조(추천대상 금지금)** 「KRX금시장 운영규정」(이하 "운영규정"이라 한다) 제34조제1항 및 제3항에 따른 요건을 충족하는 금지금으로서 법 제126조의7제9항에 따라 KRX금시장에서 매매거래를 하기 위하여 수입신고하는 금지금으로 한다. <개정 2017. 5. 11.>
 
-**제4조(추천대상자)**법 시행령 제121조의7제16항에 따른 추천을 받을 수 있는 대상자는운영규정제36조제2호의 적격금지금수입업자(이하 "적격금지금수입업자"라 한다)로 한다.
+**제4조(추천대상자)**법 시행령 제121조의7제16항에 따른 추천을 받을 수 있는 대상자는 운영규정 제36조제2호의 적격금지금수입업자(이하 "적격금지금수입업자"라 한다)로 한다.
 
 **제5조(추천 신청)**① 적격금지금수입업자는 다음 각 호의 서류를 구비하여 한국거래소에 신청하여야 한다.
 
@@ -130,7 +175,7 @@ attachments:
 
 ③ 한국거래소 이사장은 제2항의 신청이 이유 있다고 인정되는 경우 추천의 유효기간을 연장하여 추천서를 재교부하여야 한다.
 
-④ 추천의 유효기간 만료일(제3항에 따라 연장된 유효기간 만료일을 포함한다)은 법 제126조의7제9항에규정된 일자를경과할 수 없다.<개정 2017. 5. 11.>
+④ 추천의 유효기간 만료일(제3항에 따라 연장된 유효기간 만료일을 포함한다)은 법 제126조의7제9항에 규정된 일자를 경과할 수 없다. <개정 2017. 5. 11.>
 
 **제9조(추천서의 반납)**관세 면제 추천을 받은 적격금지금수입업자는 다음 각 호의 어느 하나에 해당하는 경우 교부받은 추천서를 지체 없이 한국거래소 이사장에게 반납하여야 한다.
 
@@ -154,7 +199,7 @@ attachments:
 
 이 요령은 2017년 5월 12일부터 시행한다.
 
-별표 및 서식
+ 별표 및 서식
 
 [별지 제1호] KRX금시장 매매거래용 금지금 관세 면제 추천신청서
 

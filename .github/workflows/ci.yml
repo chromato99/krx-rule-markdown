@@ -16,7 +16,7 @@ jobs:
           cache: pip
 
       - name: Install package
-        run: python3 -m pip install -e .
+        run: python3 -m pip install -e ".[convert]"
 
       - name: Syntax check
         run: python3 -m py_compile krx_rule_markdown/*.py krx_rule_markdown/converters/*.py
@@ -34,21 +34,26 @@ jobs:
           mkdir -p "$KRX_DATA_DIR/ko/rules/sample-rule"
           cat > "$KRX_DATA_DIR/ko/rules/sample-rule/index.md" <<'EOF'
           ---
+          schema_version: 2
           id: "sample-rule"
           title: "샘플 상장규정"
           source_url: "https://example.test/rule"
           collected_at: "2026-06-29T00:00:00Z"
-          content_hash: "sample-content-hash"
+          content_hash: "9380652c2a1c063c876a20c63fb99119320b709b07d82a7321e574bd42d25b3d"
+          body_hash: "f389bc5be819e933fa9cd354992cb6a8271f98c5f8cf7aacd64bd1b1ea7e24e5"
           document_type: "rule"
           language: "ko"
+          conversion_status: "converted"
+          searchable: true
           ---
 
           # 제1조
 
           신규상장 심사와 공시 의무에 관한 샘플 규정입니다.
           EOF
+          python3 -c 'from pathlib import Path; import os; from krx_rule_markdown.markdown import load_documents; from krx_rule_markdown.manifest import write_manifest_atomic; root = Path(os.environ["KRX_DATA_DIR"]); write_manifest_atomic(root, load_documents(root), source="ci-smoke")'
           krx-rule-markdown --help
           krx-rule-markdown reconvert --data-dir "$KRX_DATA_DIR" --dry-run
-          krx-rule-markdown validate --data-dir "$KRX_DATA_DIR" --quality
+          krx-rule-markdown validate --data-dir "$KRX_DATA_DIR" --release --quality
           krx-rule-markdown quality --data-dir "$KRX_DATA_DIR" --output "$RUNNER_TEMP/data-quality.json" --fail-on error
           krx-rule-markdown clean --data-dir "$KRX_DATA_DIR" --drop-past-rule-attachments --prune-unreferenced-attachments --dry-run

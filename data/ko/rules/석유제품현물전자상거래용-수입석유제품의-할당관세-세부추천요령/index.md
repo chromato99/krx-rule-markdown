@@ -1,25 +1,42 @@
 ---
+schema_version: 2
 id: "204847401"
 title: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:17:09.339166Z"
-content_hash: "c48f191eeb25a8d3655c88bdbb6e9f8aea4b9daf65bc85dc066b9d8ca24e7086"
+collected_at: "2026-07-12T08:04:44.938439Z"
+content_hash: "fd04ac7319a4064f0492385589c5eac42abbb69e7a945688b82af9247cf16a0c"
+body_hash: "e4b43b787ddd8cfcc32fc2a56413a1871e8befacc0b575caa45846a93545ea43"
 document_type: "rule"
 language: "ko"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 일반상품시장규정"
 effective_date: "2013-01-14"
 published_date: "2013-01-10"
+source_content_hash: "b63c9f6fef61bd66e1e6c163148f95da1a6e477c01f22399f0319b8678a73595"
+source_content_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/raw/source.html"
+source_request_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/raw/request.json"
+converter_version: "2"
+asset_inspection_version: "1"
+preservation_status: "preserved"
 attachments:
   - id: "204847401-201301100000003130000194001-byl-hwp"
     title: "[별지 제1호] 할당관세 적용 추천신청서"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_할당관세적용추천신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201301100000003130000194001_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/raw/별지-제1호-할당관세-적용-추천신청서.hwp"
     text_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/attachments/별지-제1호-할당관세-적용-추천신청서.md"
     content_hash: "8b517919da0a10e88fc2ca67fd9bf84261fb3698a3080ff506e1e840e614db83"
+    raw_file_hash: "8b517919da0a10e88fc2ca67fd9bf84261fb3698a3080ff506e1e840e614db83"
+    converted_text_hash: "d21268188613da6a7acde36c1e37de28c398dd9e19c4a46b57d526e985ec68e2"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 15872
     quality_status: "ok"
     quality_score: 100
@@ -30,12 +47,19 @@ attachments:
     title: "[별지 제2호] 할당관세 적용 추천서"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_할당관세적용추천서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201301100000003130000194002_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/raw/별지-제2호-할당관세-적용-추천서.hwp"
     text_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/attachments/별지-제2호-할당관세-적용-추천서.md"
     content_hash: "429e9dda700c66b032b742fc14a8d27aa8d3dfb747058111cbf632f5a7e5e034"
+    raw_file_hash: "429e9dda700c66b032b742fc14a8d27aa8d3dfb747058111cbf632f5a7e5e034"
+    converted_text_hash: "2e4943d5e97475036f2b0771e409ae90b62773b1f594a913f02a57d4638ef3a3"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 14336
     quality_status: "ok"
     quality_score: 100
@@ -46,12 +70,19 @@ attachments:
     title: "[별지 제3호] 할당관세 적용 추천서(전산용)"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_할당관세적용추천서(전산용).hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201301100000003130000194003_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/raw/별지-제3호-할당관세-적용-추천서전산용.hwp"
     text_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/attachments/별지-제3호-할당관세-적용-추천서전산용.md"
     content_hash: "330ab3ee9f6a0691d4141ffe4f631d8b92e5354b2ed2122d01944e6dd4467721"
+    raw_file_hash: "330ab3ee9f6a0691d4141ffe4f631d8b92e5354b2ed2122d01944e6dd4467721"
+    converted_text_hash: "c6981e3cb2396bbf4df5bc647a4fc89317d08f5dcc876c4584e72b66d18b76a7"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 13824
     quality_status: "ok"
     quality_score: 100
@@ -62,12 +93,19 @@ attachments:
     title: "[별지 제4호] 할당관세 추천 유효기간 연장신청서"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_할당관세추천유효기간연장신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201301100000003130000194004_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/raw/별지-제4호-할당관세-추천-유효기간-연장신청서.hwp"
     text_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/attachments/별지-제4호-할당관세-추천-유효기간-연장신청서.md"
     content_hash: "2c7c17dce0da7704d6fb57e3e633fbeae8c4fed2c501ef58d25d71dc07c1ef78"
+    raw_file_hash: "2c7c17dce0da7704d6fb57e3e633fbeae8c4fed2c501ef58d25d71dc07c1ef78"
+    converted_text_hash: "ae217479b9ef842a6f606bde2883019eba46bdcebd03854c423ec327ad9f5122"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 13824
     quality_status: "ok"
     quality_score: 100
@@ -78,12 +116,19 @@ attachments:
     title: "[별지 제5호] 할당관세 분할추천 신청서"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_할당관세분할추천신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201301100000003130000194005_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/raw/별지-제5호-할당관세-분할추천-신청서.hwp"
     text_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/attachments/별지-제5호-할당관세-분할추천-신청서.md"
     content_hash: "f5fd94387178bac7df290e684d619d677734784d412c1933e8b7a4459dbb3e6b"
+    raw_file_hash: "f5fd94387178bac7df290e684d619d677734784d412c1933e8b7a4459dbb3e6b"
+    converted_text_hash: "e4eac14e5e0c08db341aea86fbc03f8ad46adfb0aecc54f6c3436aca6c92df71"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 13824
     quality_status: "ok"
     quality_score: 100
@@ -94,12 +139,19 @@ attachments:
     title: "[별지 제6호] 할당관세 분할추천서"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_할당관세분할추천서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201301100000003130000194006_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/raw/별지-제6호-할당관세-분할추천서.hwp"
     text_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/attachments/별지-제6호-할당관세-분할추천서.md"
     content_hash: "8461e9e860eb1aae20e0750bb01103d74f5542c40e0fe5c6d3e8741777091769"
+    raw_file_hash: "8461e9e860eb1aae20e0750bb01103d74f5542c40e0fe5c6d3e8741777091769"
+    converted_text_hash: "16500f98e8ff291bdb148de6894609a129172cfa62ee66d231d00a6729082f48"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 11776
     quality_status: "ok"
     quality_score: 100
@@ -110,12 +162,19 @@ attachments:
     title: "[별지 제7호] 할당관세 추천실적 보고서"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_할당관세추천실적보고서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201301100000003130000194007_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/raw/별지-제7호-할당관세-추천실적-보고서.hwp"
     text_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/attachments/별지-제7호-할당관세-추천실적-보고서.md"
     content_hash: "8c774b8beb2180bdb892115209ddfee14956da0529b1ce06db0ae1632a975625"
+    raw_file_hash: "8c774b8beb2180bdb892115209ddfee14956da0529b1ce06db0ae1632a975625"
+    converted_text_hash: "ea3b69866dcbb58e1f0df5a2d05f9c5c7a8203b5857d2504fa706596e18c02d4"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 12800
     quality_status: "ok"
     quality_score: 100
@@ -126,12 +185,19 @@ attachments:
     title: "[별지 제8호] 수입 및 전자상거래 공급계획서"
     file_name: "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령_1차_수입및전자상거래공급계획서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201301100000003130000194008_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/raw/별지-제8호-수입-및-전자상거래-공급계획서.hwp"
     text_path: "ko/rules/석유제품현물전자상거래용-수입석유제품의-할당관세-세부추천요령/attachments/별지-제8호-수입-및-전자상거래-공급계획서.md"
     content_hash: "9b16924917bf2f0ca7a79137b93e66253326a55f0cb45737c5814c43ed164ee3"
+    raw_file_hash: "9b16924917bf2f0ca7a79137b93e66253326a55f0cb45737c5814c43ed164ee3"
+    converted_text_hash: "865aa522468700e0b08dd63a0b517503fb4ce2a3d5e3e541e6544e8929e4ad6d"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 12288
     quality_status: "ok"
     quality_score: 100
@@ -140,19 +206,19 @@ attachments:
     table_row_count: 13
 ---
 
-**제1조(목적)**이 요령은 「관세법 제71조에 따른 할당관세의 적용에 관한 규정」 및 「지식경제부 소관품목에 대한 할당관세 추천요령(지식경제부 공고제2012-556호)」에 따라 한국거래소가 개설한 석유제품현물전자상거래(이하 "전자상거래"라 한다)를 통하여 공급할 목적으로 수입되는 석유제품에 대하여 할당관세 적용 추천을 받는 것과 관련한 세부추천요령을 정함을 그 목적으로 한다.<개정 2013. 1. 10.>
+**제1조(목적)**이 요령은 「관세법 제71조에 따른 할당관세의 적용에 관한 규정」 및 「지식경제부 소관품목에 대한 할당관세 추천요령(지식경제부 공고 제2012-556호)」에 따라 한국거래소가 개설한 석유제품현물전자상거래(이하 "전자상거래"라 한다)를 통하여 공급할 목적으로 수입되는 석유제품에 대하여 할당관세 적용 추천을 받는 것과 관련한 세부추천요령을 정함을 그 목적으로 한다. <개정 2013. 1. 10.>
 
-**제2조(추천대상품목 및 한계수량)**① 추천대상품목은 전자상거래를 통하여 공급될 석유제품(자동차용 보통휘발유 및 자동차용 경유)으로서2013년 1월 1일부터 2013년 6월 30일까지수입 신고되는 분에 한하며, 한계수량은 자동차용 보통휘발유 70만배럴 및 자동차용 경유 300만배럴에 한한다.<개정 2013. 1. 10.>
+**제2조(추천대상품목 및 한계수량)**① 추천대상품목은 전자상거래를 통하여 공급될 석유제품(자동차용 보통휘발유 및 자동차용 경유)으로서 2013년 1월 1일부터 2013년 6월 30일까지 수입 신고되는 분에 한하며, 한계수량은 자동차용 보통휘발유 70만배럴 및 자동차용 경유 300만배럴에 한한다. <개정 2013. 1. 10.>
 
-② 제1항에도 불구하고지식경제부장관이수급목적상 필요하다고 인정하는경우한국거래소이사장은제1항에 따른 한계수량 이하의수량을 추천할수 있으며, 월별추천수량의경우 휘발유는 11. 6만배럴, 경유는 50만배럴을 넘을 수 없도록 할 수 있다(전월이월수량은제외한다).<개정 2013. 1. 10.>
+② 제1항에도 불구하고 지식경제부장관이 수급목적상 필요하다고 인정하는 경우 한국거래소 이사장은 제1항에 따른 한계수량 이하의 수량을 추천할 수 있으며, 월별 추천수량의 경우 휘발유는 11. 6만배럴, 경유는 50만배럴을 넘을 수 없도록 할 수 있다(전월 이월수량은 제외한다). <개정 2013. 1. 10.>
 
-③할당관세 적용을 추천받고자 하는 자(이하 "신청자"라 한다)가 전자상거래를 통해 알뜰주유소에 공급한 수량(이하 "알뜰공급수량"이라 한다)은 전량 우선 추천한다(이미 추천받은 수량은 제외). 다만, 해당 알뜰공급수량이 제2항에 따른 추천 한도를 초과하는 때에는 각 신청자의 알뜰공급수량에 비례하여 추천한다.<신설 2013. 1. 10.>
+③  할당관세 적용을 추천받고자 하는 자(이하 "신청자"라 한다)가 전자상거래를 통해 알뜰주유소에 공급한 수량(이하 "알뜰공급수량"이라 한다)은 전량 우선 추천한다(이미 추천받은 수량은 제외). 다만, 해당 알뜰공급수량이 제2항에 따른 추천 한도를 초과하는 때에는 각 신청자의 알뜰공급수량에 비례하여 추천한다. <신설 2013. 1. 10.>
 
-④제3항에 따라 우선 추천된 알뜰공급수량을 제외한 총 신청수량이 제2항 및 제3항에 따른 추천 한도를 초과하는 경우 각 신청자의 신청수량(알뜰공급수량 제외)에 비례하여 추천한다.<신설 2013. 1. 10.>
+④  제3항에 따라 우선 추천된 알뜰공급수량을 제외한 총 신청수량이 제2항 및 제3항에 따른 추천 한도를 초과하는 경우 각 신청자의 신청수량(알뜰공급수량 제외)에 비례하여 추천한다. <신설 2013. 1. 10.>
 
-**제3조(추천대상자)**추천대상자는 전자상거래의 참가자로서 전자상거래를 통하여 공급될 석유제품을 수입하고자 하는 자로 한다. 다만,지식경제부장관이국내 시장질서 유지와 수급목적상 필요하다고 인정하는 경우한국거래소 이사장은 과거공급목적이나 수입실적, 시설규모 등을 고려하여일정한자격요건을 갖춘 자에 한하여추천할수 있다.<개정 2013. 1. 10.>
+**제3조(추천대상자)**추천대상자는 전자상거래의 참가자로서 전자상거래를 통하여 공급될 석유제품을 수입하고자 하는 자로 한다. 다만, 지식경제부장관이 국내 시장질서 유지와 수급목적상 필요하다고 인정하는 경우 한국거래소 이사장은 과거 공급목적이나 수입실적, 시설규모 등을 고려하여 일정한 자격요건을 갖춘 자에 한하여 추천할 수 있다. <개정 2013. 1. 10.>
 
-**제4조(추천신청)**①신청자는다음 각 호의 서류를 구비하여 한국거래소 이사장에게 신청하여야 한다.<개정 2013. 1. 10.>
+**제4조(추천신청)**①  신청자는 다음 각 호의 서류를 구비하여 한국거래소 이사장에게 신청하여야 한다. <개정 2013. 1. 10.>
 
 1. 할당관세적용추천신청서(별지 제1호 서식) 1통
 
@@ -166,21 +232,21 @@ attachments:
 
 6. 그 밖에 한국거래소 이사장이 필요하다고 인정하는 서류
 
-② 제1항제1호의 할당관세적용추천신청서상의 수량단위는 "배럴" 또는 "메트릭톤"으로 표시하며 괄호안에 "리터"를 부기하여야한다(1배럴당 158.984리터로 환산).<개정 2013. 1. 10.>
+② 제1항제1호의 할당관세적용추천신청서상의 수량단위는 "배럴" 또는 "메트릭톤"으로 표시하며 괄호안에 "리터"를 부기하여야 한다(1배럴당 158.984리터로 환산). <개정 2013. 1. 10.>
 
-**제5조(추천순서)**한국거래소 이사장은 할당관세 적용을 추천함에 있어서 제4조에 따른 할당관세적용추천신청서의 접수(구비서류를 포함한 유효한 신청에 한한다) 순서에 따라 할당관세 적용수량을 추천한다. 다만,수급목적및 전자상거래 활성화 등 국내 석유시장의 유통질서 유지를 위하여지식경제부장관이 필요하다고 인정하는경우 한국거래소이사장은수입실적, 동종제품을 국내에서 생산하여 수출업을 영위하는 자인지 여부 등을 고려하여일정 기간 내의 신청자별추천수량을지식경제부장관이 정하는 범위 이내로 제한할수 있다.<개정 2013. 1. 10.>
+**제5조(추천순서)**한국거래소 이사장은 할당관세 적용을 추천함에 있어서 제4조에 따른 할당관세적용추천신청서의 접수(구비서류를 포함한 유효한 신청에 한한다) 순서에 따라 할당관세 적용수량을 추천한다. 다만, 수급목적 및 전자상거래 활성화 등 국내 석유시장의 유통질서 유지를 위하여 지식경제부장관이 필요하다고 인정하는 경우 한국거래소 이사장은 수입실적, 동종제품을 국내에서 생산하여 수출업을 영위하는 자인지 여부 등을 고려하여 일정 기간 내의 신청자별 추천수량을 지식경제부장관이 정하는 범위 이내로 제한할 수 있다. <개정 2013. 1. 10.>
 
 **제6조(추천방법)**할당관세 추천방법은 신청자별로 제7조에 따른 휘발유 및 경유의 전자상거래 공급량을 한도로 해당 신청자의 석유제품별 신청수량 이내에서 할당 추천한다.
 
-**제7조(할당 대상 석유제품수량의 산출방법)**① 할당 대상 석유제품 수량은 신청자가2013년 1월 1일이후 추천신청일의 직전 매매거래일까지 석유제품을 수입하여 통관한 석유제품별 수량(FTA체결로 무관세로 통관된 수량은 제외한다)을 각각 한도로 하여 전자상거래를 통해 공급한 석유제품별 수량으로 한다.<개정 2013. 1. 10.>
+**제7조(할당 대상 석유제품수량의 산출방법)**① 할당 대상 석유제품 수량은 신청자가 2013년 1월 1일 이후 추천신청일의 직전 매매거래일까지 석유제품을 수입하여 통관한 석유제품별 수량(FTA체결로 무관세로 통관된 수량은 제외한다)을 각각 한도로 하여 전자상거래를 통해 공급한 석유제품별 수량으로 한다. <개정 2013. 1. 10.>
 
-② 제1항의 할당대상 석유제품수량을 산출함에 있어 제5조에 따라 이미 추천된 수량은 중복 추천이 되지 않도록 제외한다. 다만,제12조에따라 추천서를 반납한 경우 해당 수량은 그러하지 아니하다.<개정 2013. 1. 10.>
+② 제1항의 할당대상 석유제품수량을 산출함에 있어 제5조에 따라 이미 추천된 수량은 중복 추천이 되지 않도록 제외한다. 다만, 제12조에 따라 추천서를 반납한 경우 해당 수량은 그러하지 아니하다. <개정 2013. 1. 10.>
 
-③ 제1항에 따른 전자상거래를 통해 공급한 석유제품별 수량은2013년 1월 1일이후 추천신청일의 직전 매매거래일까지 매매거래되어 석유제품의 인도가 완료된 수량을 기준으로 한다.<개정 2013. 1. 10.>
+③ 제1항에 따른 전자상거래를 통해 공급한 석유제품별 수량은 2013년 1월 1일 이후 추천신청일의 직전 매매거래일까지 매매거래되어 석유제품의 인도가 완료된 수량을 기준으로 한다. <개정 2013. 1. 10.>
 
 **제8조(대상 석유제품수량 산정 자료 제출)**한국거래소 이사장의 할당관세추천 수량의 대조 및 확인을 위하여 신청자는 수입신고수리서 등 증빙자료를 신청일의 다음 월 20일까지 한국거래소 이사장에게 공문으로 제출하여야 한다.
 
-**제9조(처리기간 및 추천서교부)**① 한국거래소 이사장은 제4조제1항의 신청서를 유효하게 접수한 날로부터 다음 영업일 이내에 신청자에게 할당관세적용추천서(이하 "추천서"라 한다)를 교부하여야 한다. 다만,제2조제2항부터 제4항까지, 제3조단서 또는 제5조단서에 따라 추천하는 경우에는 그러하지 아니하다.<개정 2013. 1. 10.>
+**제9조(처리기간 및 추천서교부)**① 한국거래소 이사장은 제4조제1항의 신청서를 유효하게 접수한 날로부터 다음 영업일 이내에 신청자에게 할당관세적용추천서(이하 "추천서"라 한다)를 교부하여야 한다. 다만, 제2조제2항부터 제4항까지, 제3조단서 또는 제5조단서에 따라 추천하는 경우에는 그러하지 아니하다. <개정 2013. 1. 10.>
 
 ② 제1항에 따른 추천서는 전자문서(「전자거래기본법」 제2조 제1호의 규정에서 정하는 전자문서를 말한다)(별지 제3호서식)로 교부할 수 있다.
 
@@ -226,7 +292,7 @@ attachments:
 
 **제2조(다른 규정의 적용례)**본 요령 내용이 「지식경제부 소관품목에 대한 할당관세 추천요령(제2012-556호)」과 상이할 때는 동 지식경제부 공고를 우선 적용한다.
 
-별표 및 서식
+ 별표 및 서식
 
 [별지 제1호] 할당관세 적용 추천신청서
 

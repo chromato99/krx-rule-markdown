@@ -7,6 +7,10 @@ from dataclasses import dataclass
 from urllib.parse import urljoin
 
 
+IGNORED_CONTENT_TAGS = {"script", "style"}
+VOID_ELEMENTS = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "param", "source", "track", "wbr"}
+
+
 @dataclass
 class TableCell:
     text: str
@@ -28,9 +32,15 @@ class MarkdownHTMLParser(HTMLParser):
         self.current_cell_header = False
         self.current_cell_rowspan = 1
         self.current_cell_colspan = 1
+        self.ignored_depth = 0
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         tag = tag.lower()
+        if tag in IGNORED_CONTENT_TAGS:
+            self.ignored_depth += 1
+            return
+        if self.ignored_depth:
+            return
         if tag == "table":
             self.newline(2)
             self.table_rows = []
@@ -61,6 +71,8 @@ class MarkdownHTMLParser(HTMLParser):
 
     def handle_startendtag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         tag = tag.lower()
+        if self.ignored_depth or tag in IGNORED_CONTENT_TAGS:
+            return
         if tag == "img":
             self.handle_image(attrs)
         elif tag == "br" and self.current_cell_parts is not None:
@@ -70,10 +82,16 @@ class MarkdownHTMLParser(HTMLParser):
 
     def handle_endtag(self, tag: str) -> None:
         tag = tag.lower()
+        if tag in IGNORED_CONTENT_TAGS:
+            if self.ignored_depth:
+                self.ignored_depth -= 1
+            return
+        if self.ignored_depth:
+            return
         if tag in {"td", "th"} and self.current_row is not None and self.current_cell_parts is not None:
             self.current_row.append(
                 TableCell(
-                    text=normalize_cell_text(" ".join(self.current_cell_parts)),
+                    text=normalize_cell_text("".join(self.current_cell_parts)),
                     header=self.current_cell_header,
                     rowspan=self.current_cell_rowspan,
                     colspan=self.current_cell_colspan,
@@ -98,12 +116,15 @@ class MarkdownHTMLParser(HTMLParser):
             self.strong -= 1
 
     def handle_data(self, data: str) -> None:
+        if self.ignored_depth:
+            return
         text = re.sub(r"\s+", " ", data)
-        if text.strip():
-            if self.current_cell_parts is not None:
-                self.current_cell_parts.append(text.strip())
-            else:
-                self.parts.append(text.strip())
+        if not text:
+            return
+        if self.current_cell_parts is not None:
+            self.current_cell_parts.append(text)
+        else:
+            self.parts.append(text)
 
     def handle_image(self, attrs: list[tuple[str, str | None]]) -> None:
         attr = dict(attrs)
@@ -112,6 +133,9 @@ class MarkdownHTMLParser(HTMLParser):
             return
         if self.base_url:
             src = urljoin(self.base_url, src)
+        if self.current_cell_parts is not None:
+            self.current_cell_parts.append(f"[이미지: {src}]")
+            return
         self.newline(2)
         self.parts.append(f"[이미지: {src}]")
         self.newline(2)
@@ -210,7 +234,8 @@ class ElementByIDParser(HTMLParser):
                 self.depth = 1
             return
         self.parts.append(render_start_tag(tag, attrs))
-        self.depth += 1
+        if tag.lower() not in VOID_ELEMENTS:
+            self.depth += 1
 
     def handle_startendtag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         if self.depth > 0 and not self.done:

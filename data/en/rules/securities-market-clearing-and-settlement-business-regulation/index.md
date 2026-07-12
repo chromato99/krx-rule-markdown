@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210185757-en"
 title: "Securities Market Clearing and Settlement Business Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:10:09.343078Z"
+collected_at: "2026-07-12T07:57:51.542569Z"
 content_hash: "241c3d6c41b5bf80291112add35f588524e87cfb6dc5d393d213d4a7c6960455"
+body_hash: "00ebaf269ef732774bef33512a2f85be7d89e2a0b5c08bfd176f5238420f4281"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 증권시장청산결제업무규정"
 effective_date: "2026-04-27"
 published_date: "2026-03-04"
@@ -14,6 +18,10 @@ file_name: "20260304_Securities_Market_Clearing_and_Settlement_Business_Regulati
 raw_path: "en/rules/securities-market-clearing-and-settlement-business-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/securities-market-clearing-and-settlement-business-regulation/attachments/english-full-text.md"
 file_content_hash: "1773492e027dc25b20a100da846b48815d00753dc9576d9875fda1d11d59d445"
+raw_file_hash: "1773492e027dc25b20a100da846b48815d00753dc9576d9875fda1d11d59d445"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Securities Market Clearing and Settlement

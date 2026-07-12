@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210179748-en"
 title: "Enforcement Rules of KOSPI Market Disclosure Regulation 20260225"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:11:16.024561Z"
-content_hash: "6fe64b7ff8fb138b1d89ac0993c613a6e073416d1e5e54589ee0069c60f63d8c"
+collected_at: "2026-07-12T07:58:58.157406Z"
+content_hash: "77ab7a244c9953fdfc1aaa38af28a9a25a47e39772bda901a15e0f076a12e8a3"
+body_hash: "759847734d9ea44e429fecb3f488472bafdcf81a63f21c9c0576a21e825fa0e7"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 유가증권시장규정"
 effective_date: "2026-02-25"
 published_date: "2026-02-25"
@@ -14,6 +18,10 @@ file_name: "Enforcement_Rules_of_KOSPI_Market_Disclosure_Regulation_20260225.pdf
 raw_path: "en/rules/enforcement-rules-of-kospi-market-disclosure-regulation-20260225/raw/english-full-text.pdf"
 text_path: "en/rules/enforcement-rules-of-kospi-market-disclosure-regulation-20260225/attachments/english-full-text.md"
 file_content_hash: "1ec988ccd5e0dea8a2709d826d0925ed23ccd2fdcd6f2c7771e744b31db2a256"
+raw_file_hash: "1ec988ccd5e0dea8a2709d826d0925ed23ccd2fdcd6f2c7771e744b31db2a256"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Enforcement Rules of
