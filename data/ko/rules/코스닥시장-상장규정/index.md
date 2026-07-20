@@ -4,8 +4,8 @@ id: "210220591"
 title: "코스닥시장 상장규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:50:59.513908Z"
-content_hash: "8ea54ed92e7a06a1704d6daf7fc68de60945f36fb60308949ec680c7bb6b708e"
-body_hash: "4eb6b2d5202d4e618368819e45b865af6a6aa6c4464e32a05f058880c87a7b83"
+content_hash: "389959f5752195d5067261876b999b2ea8d69cedf4c5f153e3fb7c5643403e94"
+body_hash: "77fcc591dfa1e9daae1d20bd53791f940d9b44efeb0292bf4c662b5a27b1ce77"
 document_type: "rule"
 language: "ko"
 conversion_status: "converted"
@@ -20,7 +20,7 @@ converter_version: "2"
 asset_inspection_version: "1"
 preservation_status: "preserved"
 quality_status: "warn"
-quality_codes: ["image_content_unindexed"]
+quality_codes: ["image_content_unindexed","inline_image_missing"]
 assets: [{"id":"asset-210220591-html-https-rule-krx-co-kr-datafile-law-img-204817659-gif","source_kind":"html_inline","source_anchor":"html-img:https://rule.krx.co.kr/dataFile/law/img/204817659.gif","path":"ko/rules/코스닥시장-상장규정/assets/inline/204817659.gif","mime_type":"image/gif","raw_file_hash":"4a20d79bfc8288fee75730798b5c164e9c67e13aa00cce22632c0b6a79bbe6e2","size":2004,"width":561,"height":76,"preservation_status":"preserved","searchable":false,"source_url":"https://rule.krx.co.kr/dataFile/law/img/204817659.gif","quality_codes":["image_content_unindexed"]}]
 ---
 
@@ -2183,7 +2183,7 @@ assets: [{"id":"asset-210220591-html-https-rule-krx-co-kr-datafile-law-img-20481
 
 **제8조(종류주식의 관리종목 지정 및 상장폐지에 관한 경과조치)**① 2020년 10월 1일 당시 상장된 종류주식의 경우에는 제81조제1항제3호·제4호 및 제82조제1항제4호의 개정규정에도 불구하고 2022년 9월 30일까지는 제81조제1항제3호의 개정규정에 따른 상장주식 수와 같은 항 제4호 및 제82조제1항제4호의 개정규정에 따른 시가총액은 다음 표에 따른 상장주식수와 시가총액으로 적용한다.
 
-![KRX 규정 이미지](krx-asset:asset-210220591-html-https-rule-krx-co-kr-datafile-law-img-204817659-gif)
+[이미지: ../../dataFile/law/img/204817659.gif]
 
 ② 규정 제1857호 「코스닥시장 상장규정 일부개정규정」 적용 당시 종전의 규정(규정 제1857호 「코스닥시장 상장규정 일부개정규정」으로 개정되기 전의 것을 말한다. 이하 이 조에서 같다) 제40조의2제1항제3호·제4호에 따라 관리종목으로 지정된 경우에는 규정 제1857호 「코스닥시장 상장규정 일부개정규정」의 개정규정에 따라 관리종목으로 지정된 것으로 본다.
 

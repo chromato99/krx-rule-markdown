@@ -15,13 +15,17 @@ from .contracts import (
     MAX_SOURCE_BYTES,
     PRESERVATION_STATUSES,
     QUALITY_CODES,
+    REFRESH_OPERATIONAL_FIELDS,
     canonical_json_hash,
     canonical_text_hash,
+    contains_refresh_operational_fields,
     effective_searchable,
     index_source_hash,
+    legacy_v2_release_hash,
     parse_quality_codes,
     release_hash,
     read_utf8_file_bounded,
+    scrub_operational_fields,
     sha256_bytes,
     sha256_file,
     status_combination_errors,
@@ -864,7 +868,17 @@ def validate_manifest_document_paths(
             errors.append(f"{manifest}: invalid document metadata for {path}: {exc}")
             continue
         manifest_mapping = {key: value for key, value in item.items() if key != "path"}
-        if canonical_json_hash(disk_mapping) != canonical_json_hash(manifest_mapping):
+        disk_release_mapping = scrub_operational_fields(
+            disk_mapping,
+            excluded_fields=REFRESH_OPERATIONAL_FIELDS,
+        )
+        manifest_release_mapping = scrub_operational_fields(
+            manifest_mapping,
+            excluded_fields=REFRESH_OPERATIONAL_FIELDS,
+        )
+        if canonical_json_hash(disk_release_mapping) != canonical_json_hash(
+            manifest_release_mapping
+        ):
             errors.append(f"{manifest}: manifest_metadata_mismatch for {path}")
     declared_index_hash = str(payload.get("index_source_hash") or "")
     if not declared_index_hash and release_mode:
@@ -878,7 +892,13 @@ def validate_manifest_document_paths(
         errors.append(f"{manifest}: release_hash is required for release")
     elif declared_release_hash:
         errors.extend(validate_hash(str(manifest), "release_hash", declared_release_hash))
-        if declared_release_hash != release_hash(payload):
+        current_release_hash = release_hash(payload)
+        legacy_v2_match = (
+            manifest_schema_version == CORPUS_SCHEMA_VERSION
+            and contains_refresh_operational_fields(payload)
+            and declared_release_hash == legacy_v2_release_hash(payload)
+        )
+        if declared_release_hash != current_release_hash and not legacy_v2_match:
             errors.append(f"{manifest}: release_hash mismatch")
     return errors
 

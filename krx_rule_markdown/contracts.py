@@ -19,6 +19,21 @@ MAX_METADATA_FILE_BYTES = 64 * 1024 * 1024
 CONVERSION_STATUSES = frozenset({"pending", "converted", "failed"})
 PRESERVATION_STATUSES = frozenset({"preserved", "missing", "failed"})
 QUALITY_STATUSES = frozenset({"ok", "warn", "fail"})
+REFRESH_OPERATIONAL_FIELDS = frozenset(
+    {
+        "last_refresh_error",
+        "last_refresh_failed_at",
+    }
+)
+LEGACY_RELEASE_OPERATIONAL_FIELDS = frozenset(
+    {
+        "release_hash",
+        "generated_at",
+        "last_checked_at",
+        "source_response_hash",
+    }
+)
+RELEASE_OPERATIONAL_FIELDS = LEGACY_RELEASE_OPERATIONAL_FIELDS | REFRESH_OPERATIONAL_FIELDS
 
 VALIDATOR_ERROR_CODES = frozenset(
     {
@@ -260,17 +275,46 @@ def release_hash(manifest: dict[str, Any]) -> str:
     return canonical_json_hash(scrub_operational_fields(manifest))
 
 
-def scrub_operational_fields(value: Any) -> Any:
-    excluded = {"release_hash", "generated_at", "last_checked_at", "source_response_hash"}
+def legacy_v2_release_hash(manifest: dict[str, Any]) -> str:
+    """Return the schema-v2 hash used before refresh details became runtime-only."""
+
+    return canonical_json_hash(
+        scrub_operational_fields(
+            manifest,
+            excluded_fields=LEGACY_RELEASE_OPERATIONAL_FIELDS,
+        )
+    )
+
+
+def scrub_operational_fields(
+    value: Any,
+    *,
+    excluded_fields: frozenset[str] = RELEASE_OPERATIONAL_FIELDS,
+) -> Any:
     if isinstance(value, dict):
         return {
-            key: scrub_operational_fields(item)
+            key: scrub_operational_fields(item, excluded_fields=excluded_fields)
             for key, item in value.items()
-            if key not in excluded
+            if key not in excluded_fields
         }
     if isinstance(value, list):
-        return [scrub_operational_fields(item) for item in value]
+        return [
+            scrub_operational_fields(item, excluded_fields=excluded_fields)
+            for item in value
+        ]
     return value
+
+
+def contains_refresh_operational_fields(value: Any) -> bool:
+    if isinstance(value, dict):
+        return any(
+            key in REFRESH_OPERATIONAL_FIELDS
+            or contains_refresh_operational_fields(item)
+            for key, item in value.items()
+        )
+    if isinstance(value, list):
+        return any(contains_refresh_operational_fields(item) for item in value)
+    return False
 
 
 def effective_searchable(entity: Any) -> bool:

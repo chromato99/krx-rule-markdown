@@ -173,6 +173,10 @@ def _drop_past_rule_attachments(data_dir: Path, *, dry_run: bool = False) -> Dro
 def referenced_attachment_paths(data_dir: Path) -> set[str]:
     paths: set[str] = set()
     for doc in load_documents(data_dir):
+        if doc.source_content_path:
+            paths.add(normalize_relative(doc.source_content_path))
+        if doc.source_request_path:
+            paths.add(normalize_relative(doc.source_request_path))
         if doc.raw_path:
             paths.add(normalize_relative(doc.raw_path))
         if doc.text_path:

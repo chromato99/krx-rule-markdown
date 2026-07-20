@@ -4,8 +4,8 @@ id: "210215757"
 title: "장외파생상품 청산업무규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:56:32.978731Z"
-content_hash: "ed926501228fa1b170729830d9ab54c87c231e9ed8a0a2974a249770111a413d"
-body_hash: "ea4041a11403f5f3a2ddb95700b79cfaf3dc152c0bdd248afae031561433e12d"
+content_hash: "4f690153939c133ab8d4e40ee1f7a5cf6ddd231a648bd62fe918cfde72736113"
+body_hash: "69df9220a4b7f11e0bbf2acb139bc78ad04b1b02b213c6d329790a40ca0d8623"
 document_type: "rule"
 language: "ko"
 conversion_status: "converted"
@@ -20,7 +20,7 @@ converter_version: "2"
 asset_inspection_version: "1"
 preservation_status: "preserved"
 quality_status: "warn"
-quality_codes: ["image_content_unindexed"]
+quality_codes: ["image_content_unindexed","inline_image_missing"]
 assets: [{"id":"asset-210215757-html-https-rule-krx-co-kr-datafile-law-img-202409260000022520000225002-gif","source_kind":"html_inline","source_anchor":"html-img:https://rule.krx.co.kr/dataFile/law/img/202409260000022520000225002.gif","path":"ko/rules/장외파생상품-청산업무규정-시행세칙/assets/inline/202409260000022520000225002.gif","mime_type":"image/gif","raw_file_hash":"3222d95c59d8b10831950c25419d18725d33b79789a8ec5678350614a4dd4399","size":5082,"width":603,"height":258,"preservation_status":"preserved","searchable":false,"source_url":"https://rule.krx.co.kr/dataFile/law/img/202409260000022520000225002.gif","quality_codes":["image_content_unindexed"]}]
 attachments:
   - id: "210215757-210136278-hwp"
@@ -745,7 +745,7 @@ attachments:
 
  ③ 규정 제26조제2항에서 “세칙이 정하는 날”이란 다음의 산식에 따라 현재 장외파생공동기금총적립액이 적정한지 점검하기 위하여 매일 산출하는 금액(이하 “장외파생공동기금총적립추산액”이라 한다)이 현재 장외파생공동기금총적립액에 임계치(Threshold)를 곱한 금액 보다 큰 날을 말한다.
 
-![KRX 규정 이미지](krx-asset:asset-210215757-html-https-rule-krx-co-kr-datafile-law-img-202409260000022520000225002-gif)
+[이미지: ../../dataFile/law/img/202409260000022520000225002.gif]
 
  <개정 2018. 12. 5.>
 

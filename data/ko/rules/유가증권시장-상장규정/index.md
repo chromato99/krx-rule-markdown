@@ -4,8 +4,8 @@ id: "210220143"
 title: "유가증권시장 상장규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:47:55.530572Z"
-content_hash: "ddaf41af4b286ff695c39f9c2b935857176442ecbc186674da6da560ed8998a9"
-body_hash: "b6b0c6f554af2b297c9834d6a1120c87668d7c245adc7a5c30506146a643758f"
+content_hash: "1f34bd90dd0cd959b7aaf3b809956fa1b356e54fa751c3e878d9aae111355229"
+body_hash: "16bcde363e7d5467e1074e5fbe12ef538a4d8c84fc981af97d35a7b25611e0f8"
 document_type: "rule"
 language: "ko"
 conversion_status: "converted"
@@ -20,7 +20,7 @@ converter_version: "2"
 asset_inspection_version: "1"
 preservation_status: "preserved"
 quality_status: "warn"
-quality_codes: ["image_content_unindexed"]
+quality_codes: ["image_content_unindexed","inline_image_missing"]
 assets: [{"id":"asset-210220143-html-https-rule-krx-co-kr-datafile-law-img-204817634-gif","source_kind":"html_inline","source_anchor":"html-img:https://rule.krx.co.kr/dataFile/law/img/204817634.gif","path":"ko/rules/유가증권시장-상장규정/assets/inline/204817634.gif","mime_type":"image/gif","raw_file_hash":"0892267f8a495e67a025f892b3d55afe989d10b6a79ee6c9f866892caa58f75d","size":2686,"width":622,"height":84,"preservation_status":"preserved","searchable":false,"source_url":"https://rule.krx.co.kr/dataFile/law/img/204817634.gif","quality_codes":["image_content_unindexed"]}]
 ---
 
@@ -3799,7 +3799,7 @@ assets: [{"id":"asset-210220143-html-https-rule-krx-co-kr-datafile-law-img-20481
 
 **제3조(종류주권의 관리종목지정 및 상장폐지에 관한 특례 등)**① 부칙 제1조제2호에 따른 시행일 현재 상장되어 있는 종류주권의 경우에는 제64조제1항제3호·제5호 및 제65조제1항제3호·제5호의 개정규정에도 불구하고 2020년 10월 1일부터 2022년 9월 30일까지 제64조제1항제3호 및 제65조제1항제3호의 개정규정에 따른 상장주식수와 제64조제1항제5호 및 제65조제1항제5호의 개정규정에 따른 상장시가총액은 다음 표에 따른 상장주식수와 상장시가총액으로 적용한다.
 
-![KRX 규정 이미지](krx-asset:asset-210220143-html-https-rule-krx-co-kr-datafile-law-img-204817634-gif)
+[이미지: ../../dataFile/law/img/204817634.gif]
 
 ② 이 규정 적용 당시 제64조제1항제3호 및 제5호의 종전규정에 따라 관리종목으로 지정된 경우에는 해당 개정규정에 따라 관리종목으로 지정된 것으로 본다.
 

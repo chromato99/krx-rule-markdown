@@ -315,10 +315,15 @@ def audit_data_quality(
     update_metadata: bool = False,
     allowed_failure_ids: set[str] | None = None,
     release_gate: bool = False,
-    fail_on: str = "none",
+    fail_on: str | None = None,
 ) -> dict:
+    effective_fail_on = resolve_quality_fail_on(
+        update_metadata=update_metadata,
+        fail_on=fail_on,
+    )
+    effective_release_gate = release_gate or effective_fail_on != "none"
     profile_allowed = manifest_allowed_failure_ids(data_dir)
-    if profile_allowed is not None and (update_metadata or release_gate):
+    if profile_allowed is not None and (update_metadata or effective_release_gate):
         if allowed_failure_ids is None:
             allowed_failure_ids = profile_allowed
         elif set(allowed_failure_ids) != profile_allowed:
@@ -330,24 +335,33 @@ def audit_data_quality(
             data_dir,
             update_metadata=False,
             allowed_failure_ids=allowed_failure_ids,
-            release_gate=release_gate,
+            release_gate=effective_release_gate,
         )
+
     def update_staging(staging: Path) -> dict:
         report = _audit_data_quality(
             staging,
             update_metadata=True,
             allowed_failure_ids=allowed_failure_ids,
-            release_gate=release_gate,
+            release_gate=effective_release_gate,
         )
-        failures = report_failures(report, fail_on)
+        failures = report_failures(report, effective_fail_on)
         if failures:
             raise CorpusMutationError(
-                f"quality gate {fail_on!r} rejected staged corpus with {len(failures)} issue(s):\n"
+                f"quality gate {effective_fail_on!r} rejected staged corpus with {len(failures)} issue(s):\n"
                 + "\n".join(failures[:20])
             )
         return report
 
     return mutate_staged_corpus(data_dir, "quality-update", update_staging)
+
+
+def resolve_quality_fail_on(*, update_metadata: bool, fail_on: str | None) -> str:
+    if fail_on is None:
+        return "error" if update_metadata else "none"
+    if fail_on not in {"none", "error", "warn"}:
+        raise ValueError("fail_on must be one of 'none', 'error', or 'warn'")
+    return fail_on
 
 
 def _audit_data_quality(

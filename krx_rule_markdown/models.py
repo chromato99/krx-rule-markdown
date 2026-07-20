@@ -104,8 +104,8 @@ class Attachment:
     preservation_status: str = ""
     searchable: bool | None = None
     error: str = ""
-    last_refresh_error: str = ""
-    last_refresh_failed_at: str = ""
+    last_refresh_error: str = field(default="", repr=False)
+    last_refresh_failed_at: str = field(default="", repr=False)
     size: int = 0
     quality_status: str = ""
     quality_score: int = 0
@@ -189,8 +189,6 @@ class Attachment:
             "preservation_status": self.preservation_status,
             "searchable": self.searchable,
             "error": self.error,
-            "last_refresh_error": self.last_refresh_error,
-            "last_refresh_failed_at": self.last_refresh_failed_at,
             "size": self.size,
             "quality_status": self.quality_status,
             "quality_score": self.quality_score,

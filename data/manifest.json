@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "version": "0.1.0",
-  "generated_at": "2026-07-12T08:09:16.184996Z",
+  "generated_at": "2026-07-20T20:28:37.708821Z",
   "source": "https://rule.krx.co.kr",
   "documents": [
     {
@@ -7125,8 +7125,8 @@
       "title": "유가증권시장 상장규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
       "collected_at": "2026-07-12T07:47:55.530572Z",
-      "content_hash": "ddaf41af4b286ff695c39f9c2b935857176442ecbc186674da6da560ed8998a9",
-      "body_hash": "b6b0c6f554af2b297c9834d6a1120c87668d7c245adc7a5c30506146a643758f",
+      "content_hash": "1f34bd90dd0cd959b7aaf3b809956fa1b356e54fa751c3e878d9aae111355229",
+      "body_hash": "16bcde363e7d5467e1074e5fbe12ef538a4d8c84fc981af97d35a7b25611e0f8",
       "document_type": "rule",
       "language": "ko",
       "conversion_status": "converted",
@@ -7142,7 +7142,8 @@
       "preservation_status": "preserved",
       "quality_status": "warn",
       "quality_codes": [
-        "image_content_unindexed"
+        "image_content_unindexed",
+        "inline_image_missing"
       ],
       "assets": [
         {
@@ -9816,8 +9817,8 @@
       "title": "장외파생상품 청산업무규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
       "collected_at": "2026-07-12T07:56:32.978731Z",
-      "content_hash": "ed926501228fa1b170729830d9ab54c87c231e9ed8a0a2974a249770111a413d",
-      "body_hash": "ea4041a11403f5f3a2ddb95700b79cfaf3dc152c0bdd248afae031561433e12d",
+      "content_hash": "4f690153939c133ab8d4e40ee1f7a5cf6ddd231a648bd62fe918cfde72736113",
+      "body_hash": "69df9220a4b7f11e0bbf2acb139bc78ad04b1b02b213c6d329790a40ca0d8623",
       "document_type": "rule",
       "language": "ko",
       "conversion_status": "converted",
@@ -9833,7 +9834,8 @@
       "preservation_status": "preserved",
       "quality_status": "warn",
       "quality_codes": [
-        "image_content_unindexed"
+        "image_content_unindexed",
+        "inline_image_missing"
       ],
       "assets": [
         {
@@ -14162,8 +14164,8 @@
       "title": "코스닥시장 상장규정",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
       "collected_at": "2026-07-12T07:50:59.513908Z",
-      "content_hash": "8ea54ed92e7a06a1704d6daf7fc68de60945f36fb60308949ec680c7bb6b708e",
-      "body_hash": "4eb6b2d5202d4e618368819e45b865af6a6aa6c4464e32a05f058880c87a7b83",
+      "content_hash": "389959f5752195d5067261876b999b2ea8d69cedf4c5f153e3fb7c5643403e94",
+      "body_hash": "77fcc591dfa1e9daae1d20bd53791f940d9b44efeb0292bf4c662b5a27b1ce77",
       "document_type": "rule",
       "language": "ko",
       "conversion_status": "converted",
@@ -14179,7 +14181,8 @@
       "preservation_status": "preserved",
       "quality_status": "warn",
       "quality_codes": [
-        "image_content_unindexed"
+        "image_content_unindexed",
+        "inline_image_missing"
       ],
       "assets": [
         {
@@ -14207,7 +14210,7 @@
       "id": "210222109",
       "title": "코스닥시장 상장규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
-      "collected_at": "2026-07-12T07:51:01.894883Z",
+      "collected_at": "2026-07-20T19:34:28.708866Z",
       "content_hash": "f6553bfb683cfa9a61d2e37d65dc3774f62ae190b68cfb8da14602150bdbe875",
       "body_hash": "03eb56c1a3382fdbd6a55f4bd4592ff25aa5b60f336bc0758c1ee1924ae17d90",
       "document_type": "rule",
@@ -14385,18 +14388,18 @@
           "folder": "ATTACH",
           "raw_path": "ko/rules/코스닥시장-상장규정-시행세칙/raw/별표6-질적심사기준개정-2022-9-27-2023-12-28-2024-07-122025-7-3-2025-11-24-2026-7-1.hwp",
           "text_path": "ko/rules/코스닥시장-상장규정-시행세칙/attachments/별표6-질적심사기준개정-2022-9-27-2023-12-28-2024-07-122025-7-3-2025-11-24-2026-7-1.md",
-          "content_hash": "cf4968b12daac41cdfae9f525803e2ee49bae58007ae0f16c04acfe03ef2e32c",
-          "raw_file_hash": "cf4968b12daac41cdfae9f525803e2ee49bae58007ae0f16c04acfe03ef2e32c",
-          "converted_text_hash": "b8c8aabfac5d7caf43ca299adac7f152d60bf265a862cada59082791b1e3664c",
+          "content_hash": "eae184e5540b95dfd8233b13a1f5d4c270b36b98f599ebb5d53ba9f88ba058f0",
+          "raw_file_hash": "eae184e5540b95dfd8233b13a1f5d4c270b36b98f599ebb5d53ba9f88ba058f0",
+          "converted_text_hash": "49f6d335bb44812692f27dd6650cab3bf2882ba314cff01e68e81706aa1c06a6",
           "converter_version": "2",
           "asset_inspection_version": "1",
           "preservation_status": "preserved",
           "searchable": true,
-          "size": 126464,
+          "size": 64000,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 5823,
-          "converted_non_space_chars": 4449,
+          "converted_text_chars": 5818,
+          "converted_non_space_chars": 4445,
           "table_row_count": 26
         },
         {
@@ -16673,8 +16676,8 @@
       "title": "파생상품시장 업무규정 시행세칙",
       "source_url": "https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
       "collected_at": "2026-07-12T07:44:24.135865Z",
-      "content_hash": "72b57943dacd5420afc4e664b4d980dd43bd9d47c4af8be60650ccb3f9012852",
-      "body_hash": "18ed06e1a29e8004bcb31d639648f7fd4f8a80e2b3bf1c67e50a55a105bef9e6",
+      "content_hash": "fce9ad11c845e344cfe31d8479728ccaf7a926bec309984493ceff34888035a0",
+      "body_hash": "ba77fd10640ed47ea123804cc335e53c35dc8ba16317abf02bd793fa619debc8",
       "document_type": "rule",
       "language": "ko",
       "conversion_status": "converted",
@@ -16690,7 +16693,8 @@
       "preservation_status": "preserved",
       "quality_status": "warn",
       "quality_codes": [
-        "image_content_unindexed"
+        "image_content_unindexed",
+        "inline_image_missing"
       ],
       "assets": [
         {
@@ -29860,18 +29864,18 @@
       "folder": "ATTACH",
       "raw_path": "ko/rules/코스닥시장-상장규정-시행세칙/raw/별표6-질적심사기준개정-2022-9-27-2023-12-28-2024-07-122025-7-3-2025-11-24-2026-7-1.hwp",
       "text_path": "ko/rules/코스닥시장-상장규정-시행세칙/attachments/별표6-질적심사기준개정-2022-9-27-2023-12-28-2024-07-122025-7-3-2025-11-24-2026-7-1.md",
-      "content_hash": "cf4968b12daac41cdfae9f525803e2ee49bae58007ae0f16c04acfe03ef2e32c",
-      "raw_file_hash": "cf4968b12daac41cdfae9f525803e2ee49bae58007ae0f16c04acfe03ef2e32c",
-      "converted_text_hash": "b8c8aabfac5d7caf43ca299adac7f152d60bf265a862cada59082791b1e3664c",
+      "content_hash": "eae184e5540b95dfd8233b13a1f5d4c270b36b98f599ebb5d53ba9f88ba058f0",
+      "raw_file_hash": "eae184e5540b95dfd8233b13a1f5d4c270b36b98f599ebb5d53ba9f88ba058f0",
+      "converted_text_hash": "49f6d335bb44812692f27dd6650cab3bf2882ba314cff01e68e81706aa1c06a6",
       "converter_version": "2",
       "asset_inspection_version": "1",
       "preservation_status": "preserved",
       "searchable": true,
-      "size": 126464,
+      "size": 64000,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 5823,
-      "converted_non_space_chars": 4449,
+      "converted_text_chars": 5818,
+      "converted_non_space_chars": 4445,
       "table_row_count": 26
     },
     {
@@ -33488,11 +33492,11 @@
       "table_row_count": 7
     }
   ],
-  "index_source_hash": "aa8b26848101aae8b7ac6020db42e4b87f353867f2233e5809e370d61c70f4ed",
+  "index_source_hash": "59f22662dd59b4a1791c23bbdf4861a94dc4422c795a5a54be9b34336f26973e",
   "release_profile": {
     "version": 1,
     "default": "strict",
     "allowed_failure_ids": []
   },
-  "release_hash": "c53e32320c61cd4660b0b09c187a43a1093a99f6d78e48d186c25ffac3329001"
+  "release_hash": "08cac8d34b17bdf42d7a15b5806532332202ed94d70887e0b15a6a37af8fd33c"
 }

@@ -4,8 +4,8 @@ id: "210228709"
 title: "파생상품시장 업무규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:44:24.135865Z"
-content_hash: "72b57943dacd5420afc4e664b4d980dd43bd9d47c4af8be60650ccb3f9012852"
-body_hash: "18ed06e1a29e8004bcb31d639648f7fd4f8a80e2b3bf1c67e50a55a105bef9e6"
+content_hash: "fce9ad11c845e344cfe31d8479728ccaf7a926bec309984493ceff34888035a0"
+body_hash: "ba77fd10640ed47ea123804cc335e53c35dc8ba16317abf02bd793fa619debc8"
 document_type: "rule"
 language: "ko"
 conversion_status: "converted"
@@ -20,7 +20,7 @@ converter_version: "2"
 asset_inspection_version: "1"
 preservation_status: "preserved"
 quality_status: "warn"
-quality_codes: ["image_content_unindexed"]
+quality_codes: ["image_content_unindexed","inline_image_missing"]
 assets: [{"id":"asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114001-gif","source_kind":"html_inline","source_anchor":"html-img:https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114001.gif","path":"ko/rules/파생상품시장-업무규정-시행세칙/assets/inline/202411010000022630000114001.gif","mime_type":"image/gif","raw_file_hash":"5728a965db29edaa04d5bcce8b436fe3ae89e89f81a77e6e82ed81450c0cd178","size":2638,"width":539,"height":72,"preservation_status":"preserved","searchable":false,"source_url":"https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114001.gif","quality_codes":["image_content_unindexed"]},{"id":"asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114002-gif","source_kind":"html_inline","source_anchor":"html-img:https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114002.gif","path":"ko/rules/파생상품시장-업무규정-시행세칙/assets/inline/202411010000022630000114002.gif","mime_type":"image/gif","raw_file_hash":"6dbb9b12543a91a3be0cb4e35bc339381e8859cd60e05c9ed3e8c67733b36a79","size":2667,"width":539,"height":72,"preservation_status":"preserved","searchable":false,"source_url":"https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114002.gif","quality_codes":["image_content_unindexed"]},{"id":"asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114003-gif","source_kind":"html_inline","source_anchor":"html-img:https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114003.gif","path":"ko/rules/파생상품시장-업무규정-시행세칙/assets/inline/202411010000022630000114003.gif","mime_type":"image/gif","raw_file_hash":"02cdc8b8f19b0f46079e379d22947e7dc04c977e074e6828c4d4dfee1858e665","size":2691,"width":539,"height":72,"preservation_status":"preserved","searchable":false,"source_url":"https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114003.gif","quality_codes":["image_content_unindexed"]},{"id":"asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114004-gif","source_kind":"html_inline","source_anchor":"html-img:https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114004.gif","path":"ko/rules/파생상품시장-업무규정-시행세칙/assets/inline/202411010000022630000114004.gif","mime_type":"image/gif","raw_file_hash":"2ce19b18264cda2a5b6d5402daab6ce5d3f6abfc663a7c1ab1810735202dfdd2","size":2700,"width":539,"height":72,"preservation_status":"preserved","searchable":false,"source_url":"https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114004.gif","quality_codes":["image_content_unindexed"]},{"id":"asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114005-gif","source_kind":"html_inline","source_anchor":"html-img:https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114005.gif","path":"ko/rules/파생상품시장-업무규정-시행세칙/assets/inline/202411010000022630000114005.gif","mime_type":"image/gif","raw_file_hash":"218b09349410c0a974ddb033149be7935ace37d03f3925f4441499a3bdcc0476","size":4832,"width":588,"height":141,"preservation_status":"preserved","searchable":false,"source_url":"https://rule.krx.co.kr/dataFile/law/img/202411010000022630000114005.gif","quality_codes":["image_content_unindexed"]}]
 attachments:
   - id: "210228709-210229930-hwp"
@@ -1927,19 +1927,19 @@ attachments:
 
 1. 3년국채선물거래의 경우
 
-![KRX 규정 이미지](krx-asset:asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114001-gif)
+[이미지: ../../dataFile/law/img/202411010000022630000114001.gif]
 
 2. 5년국채선물거래의 경우
 
-![KRX 규정 이미지](krx-asset:asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114002-gif)
+[이미지: ../../dataFile/law/img/202411010000022630000114002.gif]
 
 3. 10년국채선물거래의 경우
 
-![KRX 규정 이미지](krx-asset:asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114003-gif)
+[이미지: ../../dataFile/law/img/202411010000022630000114003.gif]
 
 4. 30년국채선물거래의 경우
 
-![KRX 규정 이미지](krx-asset:asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114004-gif)
+[이미지: ../../dataFile/law/img/202411010000022630000114004.gif]
 
 ④ 제3항 후단의 최종결제기준채권은 거래소가 해당 결제월의 거래개시일의 직전 거래일에 지정하는 6개월 단위 이자지급방식의 국고채권으로 한다. <개정 2025. 5. 29.>
 
@@ -1991,7 +1991,7 @@ attachments:
 
 ③ 규정 제43조의5제2항에 따른 3개월무위험지표금리선물거래의 최종결제가격은 100에서 아래 산식에 따라 산출된 KOFR 3개월 복리금리를 뺀 값으로 한다. KOFR 3개월 복리금리 계산시 참조기간(결제월 3개월 전 월의 세 번째 수요일부터 결제월의 세 번째 수요일까지를 말한다. 이 경우 초일은 산입하고 말일은 불산입 한다)에 해당하는 확정된 지표금리를 이용하고 소수점 다섯째 자리에서 반올림한다.
 
-![KRX 규정 이미지](krx-asset:asset-210228709-html-https-rule-krx-co-kr-datafile-law-img-202411010000022630000114005-gif)
+[이미지: ../../dataFile/law/img/202411010000022630000114005.gif]
 
 [본조신설 2022. 2. 16.]
 

@@ -11,7 +11,14 @@ import tempfile
 from .collector import Client, guess_mime_type
 from .convert import convert_attachment
 from .assets import preserve_hwp_attachment_assets, preserve_inline_document_assets
-from .contracts import CONVERTER_VERSION, RELEASE_PROFILE_VERSION, add_quality_code, canonical_json_hash, canonical_text_hash
+from .contracts import (
+    CONVERTER_VERSION,
+    RELEASE_PROFILE_VERSION,
+    add_quality_code,
+    canonical_json_hash,
+    canonical_text_hash,
+    parse_quality_codes,
+)
 from .manifest import write_manifest_atomic
 from .markdown import document_bundle_dir, load_documents, write_document
 from .models import ATTACHMENT_CONVERTED, ATTACHMENT_FAILED, LANGUAGE_EN, LANGUAGE_KO, Document, hash_bytes, hash_text, now_utc
@@ -26,6 +33,7 @@ from .repository import (
     atomic_write_text,
     create_staged_corpus as create_staging_corpus,
     publish_staged_corpus,
+    write_run_report,
 )
 from .validate import validate_data
 
@@ -521,7 +529,33 @@ def merge_attachment_source_metadata(previous, current):
         value = getattr(current, field_name, "")
         if value:
             setattr(reused, field_name, value)
+    clear_stale_refresh_state(reused)
     return reused
+
+
+def clear_stale_refresh_state(att) -> None:
+    stale_code = "stale_due_to_refresh_failure"
+    quality_codes = parse_quality_codes(
+        [*att.quality_codes, *parse_quality_codes(att.quality_flags)]
+    )
+    had_stale_state = bool(
+        stale_code in quality_codes
+        or att.last_refresh_error
+        or att.last_refresh_failed_at
+    )
+    att.quality_codes = [code for code in quality_codes if code != stale_code]
+    att.quality_flags = ",".join(att.quality_codes)
+    att.last_refresh_error = ""
+    att.last_refresh_failed_at = ""
+    if att.status == ATTACHMENT_CONVERTED:
+        att.error = ""
+    if (
+        had_stale_state
+        and att.quality_status == "warn"
+        and not att.quality_codes
+        and not att.diagnostics
+    ):
+        att.quality_status = "ok"
 
 
 def reusable_document(previous: Document | None, current: Document) -> bool:
@@ -732,15 +766,13 @@ def write_sync_run_report(
     *,
     error: str = "",
 ) -> None:
-    report_dir = Path(data_dir).parent / ".krx-rule-runs"
-    atomic_write_json(
-        report_dir / "latest.json",
-        {
-            "finished_at": now_utc(),
-            "result": "ok" if result == 0 else "failed",
-            "documents": documents,
-            **({"error": error} if error else {}),
-        },
+    write_run_report(
+        data_dir,
+        "sync",
+        documents,
+        result,
+        error=error,
+        finished_at=now_utc(),
     )
 
 

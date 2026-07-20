@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "generated_at": "2026-07-12T08:06:29.411656Z",
+  "generated_at": "2026-07-20T20:28:35.137564Z",
   "summary": {
     "documents": 123,
     "attachments": 597,
@@ -28,12 +28,26 @@
   "issues": [
     {
       "severity": "warn",
+      "code": "inline_image_missing",
+      "document_id": "210220143",
+      "document_title": "유가증권시장 상장규정",
+      "message": "document contains an unresolved inline image"
+    },
+    {
+      "severity": "warn",
       "document_id": "210220143",
       "document_title": "유가증권시장 상장규정",
       "asset_id": "asset-210220143-html-https-rule-krx-co-kr-datafile-law-img-204817634-gif",
       "source_anchor": "html-img:https://rule.krx.co.kr/dataFile/law/img/204817634.gif",
       "code": "image_content_unindexed",
       "message": "preserved image asset is not text searchable (622x84)"
+    },
+    {
+      "severity": "warn",
+      "code": "inline_image_missing",
+      "document_id": "210215757",
+      "document_title": "장외파생상품 청산업무규정 시행세칙",
+      "message": "document contains an unresolved inline image"
     },
     {
       "severity": "warn",
@@ -46,12 +60,26 @@
     },
     {
       "severity": "warn",
+      "code": "inline_image_missing",
+      "document_id": "210220591",
+      "document_title": "코스닥시장 상장규정",
+      "message": "document contains an unresolved inline image"
+    },
+    {
+      "severity": "warn",
       "document_id": "210220591",
       "document_title": "코스닥시장 상장규정",
       "asset_id": "asset-210220591-html-https-rule-krx-co-kr-datafile-law-img-204817659-gif",
       "source_anchor": "html-img:https://rule.krx.co.kr/dataFile/law/img/204817659.gif",
       "code": "image_content_unindexed",
       "message": "preserved image asset is not text searchable (561x76)"
+    },
+    {
+      "severity": "warn",
+      "code": "inline_image_missing",
+      "document_id": "210228709",
+      "document_title": "파생상품시장 업무규정 시행세칙",
+      "message": "document contains an unresolved inline image"
     },
     {
       "severity": "warn",

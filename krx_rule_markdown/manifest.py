@@ -9,6 +9,7 @@ from .contracts import (
     MAX_CONVERTED_TEXT_BYTES,
     MAX_SOURCE_BYTES,
     canonical_text_hash,
+    contains_refresh_operational_fields,
     index_source_hash,
     release_hash,
     sha256_file,
@@ -94,6 +95,7 @@ def write_manifest_atomic(
     if (
         existing.get("release_hash") == payload.get("release_hash")
         and existing.get("release_hash") == release_hash(existing)
+        and not contains_refresh_operational_fields(existing)
     ):
         return existing
     atomic_write_json(path, payload)

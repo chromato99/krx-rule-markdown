@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from contextlib import AbstractContextManager
 from dataclasses import dataclass
+from datetime import datetime, timezone
 from pathlib import Path
 import ctypes
 import fcntl
@@ -122,6 +123,42 @@ def atomic_write_text(path: Path, text: str, *, encoding: str = "utf-8") -> None
 
 def atomic_write_json(path: Path, payload: Any) -> None:
     atomic_write_text(path, json.dumps(payload, ensure_ascii=False, indent=2) + "\n")
+
+
+def write_run_report(
+    data_dir: Path,
+    operation: str,
+    records: list[dict[str, Any]],
+    result: int | str,
+    *,
+    error: str = "",
+    finished_at: str = "",
+) -> None:
+    """Write operational provenance outside the immutable corpus generation."""
+
+    normalized_records = []
+    for record in records:
+        normalized = dict(record)
+        if not normalized.get("operation"):
+            normalized["operation"] = operation
+        normalized_records.append(normalized)
+    if isinstance(result, str):
+        result_label = result
+    else:
+        result_label = "ok" if result == 0 else "failed"
+    if not finished_at:
+        finished_at = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+    report_dir = Path(data_dir).parent / ".krx-rule-runs"
+    atomic_write_json(
+        report_dir / "latest.json",
+        {
+            "operation": operation,
+            "finished_at": finished_at,
+            "result": result_label,
+            "documents": normalized_records,
+            **({"error": error} if error else {}),
+        },
+    )
 
 
 def fsync_directory(path: Path) -> None:

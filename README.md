@@ -36,7 +36,11 @@ krx-rule-markdown reconvert --data-dir data
 krx-rule-markdown assets --data-dir data --download-inline
 krx-rule-markdown pdf-comparisons --data-dir data --apply
 krx-rule-markdown clean --data-dir data --drop-past-rule-attachments --prune-unreferenced-attachments
-krx-rule-markdown quality --data-dir data --output data/reports/data-quality.json --update-metadata
+krx-rule-markdown quality \
+  --data-dir data \
+  --output data/reports/data-quality.json \
+  --update-metadata \
+  --fail-on error
 krx-rule-markdown validate --data-dir data --release --quality
 ```
 
@@ -64,7 +68,7 @@ krx-rule-markdown reconvert --data-dir data
 krx-rule-markdown reconvert --data-dir data --document-id 210217137
 ```
 
-`sync`, 실제 변경을 수행하는 `reconvert`·`clean`, `quality --update-metadata`는 활성 corpus를 직접 고치지 않습니다. 같은 파일시스템의 sibling staging generation을 만든 뒤 release 검증을 통과한 경우에만 Linux `renameat2(RENAME_EXCHANGE)`로 전체 디렉터리를 교체합니다. 동시에 두 writer를 실행하면 두 번째 작업은 즉시 실패합니다. 다운로드나 변환이 실패한 항목은 기존 정상 raw/text를 지우지 않고 실행 리포트와 `stale_due_to_refresh_failure` 진단으로 남깁니다.
+`sync`, 실제 변경을 수행하는 `reconvert`·`clean`, `quality --update-metadata`는 활성 corpus를 직접 고치지 않습니다. 같은 파일시스템의 sibling staging generation을 만든 뒤 release 검증을 통과한 경우에만 Linux `renameat2(RENAME_EXCHANGE)`로 전체 디렉터리를 교체합니다. 동시에 두 writer를 실행하면 두 번째 작업은 즉시 실패합니다. `sync` 중 일부 refresh가 실패하면 기존 정상 raw/text를 유지하고 실행 리포트와 deterministic `stale_due_to_refresh_failure` 진단을 남길 수 있습니다. `reconvert` 중 새 실패가 발생하면 staging generation 전체를 폐기하므로 active release에는 새 stale 진단이 기록되지 않고, 상세 실패 정보만 release 밖 실행 리포트에 남습니다.
 
 `--dry-run`은 corpus, manifest, 품질 리포트와 실행 리포트를 변경하지 않습니다. 정기 release에서는 `validate --release --quality`를 사용하고, 원본은 보존되었지만 의도적으로 검색에서 제외할 실패 항목만 검토된 ID를 `--allow-failure-id`로 명시하세요.
 

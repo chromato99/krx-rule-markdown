@@ -3,7 +3,7 @@
 `krx-rule-markdown quality` audits the current Markdown corpus and converted attachments.
 
 ```bash
-krx-rule-markdown quality --data-dir data --update-metadata
+krx-rule-markdown quality --data-dir data --update-metadata --fail-on error
 ```
 
 The default report path is `data/reports/data-quality.json`.
@@ -46,7 +46,7 @@ Passing these checks means the generated LaTeX is structurally suitable for RAG 
 - `warn`: usable text exists, but the attachment may be incomplete, too short, structurally weak, or converted with a known failure elsewhere
 - `fail`: converted text is missing or empty
 
-By default the command exits successfully after writing the report. Use stricter modes in CI:
+Read-only quality audits exit successfully after writing the report by default. Use stricter modes in CI:
 
 ```bash
 krx-rule-markdown quality --data-dir data --fail-on error
@@ -54,7 +54,14 @@ krx-rule-markdown quality --data-dir data --fail-on warn
 krx-rule-markdown validate --data-dir data --release --quality
 ```
 
-`--update-metadata` runs against a staging generation. When combined with `--fail-on`, the gate is evaluated before publication, so a rejected quality update leaves the active corpus unchanged. A failed or pending required conversion is an error in release mode. The narrow exception is an explicitly reviewed `--allow-failure-id` whose original is preserved and whose `searchable` value is false.
+`--update-metadata` runs against a staging generation and defaults to
+`--fail-on error`. The gate is evaluated before publication, so a rejected
+quality update leaves the active corpus unchanged. Passing
+`--update-metadata --fail-on none` is an explicit opt-out and emits a warning.
+Read-only audits keep the report-oriented `--fail-on none` default. A failed or
+pending required conversion is an error in release mode. The narrow exception
+is an explicitly reviewed `--allow-failure-id` whose original is preserved and
+whose `searchable` value is false.
 
 `pdf-comparisons --apply` also writes `data/reports/pdf-comparison-classification.json`. It is a named, corpus-specific classification set rather than a generic PDF promise: each entry is `restored` only when its expected two/three-column coordinate grid and 현행·개정안 headers are both found; otherwise it remains `degraded` with a reason.
 

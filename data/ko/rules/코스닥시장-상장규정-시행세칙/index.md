@@ -3,7 +3,7 @@ schema_version: 2
 id: "210222109"
 title: "코스닥시장 상장규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-12T07:51:01.894883Z"
+collected_at: "2026-07-20T19:34:28.708866Z"
 content_hash: "f6553bfb683cfa9a61d2e37d65dc3774f62ae190b68cfb8da14602150bdbe875"
 body_hash: "03eb56c1a3382fdbd6a55f4bd4592ff25aa5b60f336bc0758c1ee1924ae17d90"
 document_type: "rule"
@@ -168,18 +168,18 @@ attachments:
     folder: "ATTACH"
     raw_path: "ko/rules/코스닥시장-상장규정-시행세칙/raw/별표6-질적심사기준개정-2022-9-27-2023-12-28-2024-07-122025-7-3-2025-11-24-2026-7-1.hwp"
     text_path: "ko/rules/코스닥시장-상장규정-시행세칙/attachments/별표6-질적심사기준개정-2022-9-27-2023-12-28-2024-07-122025-7-3-2025-11-24-2026-7-1.md"
-    content_hash: "cf4968b12daac41cdfae9f525803e2ee49bae58007ae0f16c04acfe03ef2e32c"
-    raw_file_hash: "cf4968b12daac41cdfae9f525803e2ee49bae58007ae0f16c04acfe03ef2e32c"
-    converted_text_hash: "b8c8aabfac5d7caf43ca299adac7f152d60bf265a862cada59082791b1e3664c"
+    content_hash: "eae184e5540b95dfd8233b13a1f5d4c270b36b98f599ebb5d53ba9f88ba058f0"
+    raw_file_hash: "eae184e5540b95dfd8233b13a1f5d4c270b36b98f599ebb5d53ba9f88ba058f0"
+    converted_text_hash: "49f6d335bb44812692f27dd6650cab3bf2882ba314cff01e68e81706aa1c06a6"
     converter_version: "2"
     asset_inspection_version: "1"
     preservation_status: "preserved"
     searchable: true
-    size: 126464
+    size: 64000
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 5823
-    converted_non_space_chars: 4449
+    converted_text_chars: 5818
+    converted_non_space_chars: 4445
     table_row_count: 26
   - id: "210222109-210225028-hwp"
     title: "[별표 7] 업종별 질적심사기준 (기업의 계속성)<개정 2023.12.28,2025. 12. 30.,2026. 7. 1.>"

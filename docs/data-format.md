@@ -73,7 +73,7 @@ Schema v2 uses separate hashes with one meaning each:
 - `raw_file_hash`: exact downloaded raw bytes
 - `converted_text_hash`: canonical converted attachment Markdown
 - `index_source_hash`: canonical projection of all index-affecting documents and attachments, stored in `manifest.json`
-- `release_hash`: reproducible manifest contents, excluding operational timestamps and response-observation fields
+- `release_hash`: reproducible manifest contents, excluding operational timestamps, response-observation fields, and transient refresh failure details
 
 Canonical text is UTF-8, LF line endings, Unicode NFC, with whitespace trimmed only at the complete-value boundary. Canonical JSON uses NFC strings, sorted keys, UTF-8, and no insignificant whitespace. `content_hash` and attachment `status` remain readable during the v1 migration, but new output writes `body_hash`/`raw_file_hash` and `conversion_status` explicitly.
 
@@ -103,7 +103,7 @@ Attachment path fields are relative to the data root:
 
 If conversion fails, the manifest keeps the original file path and failure reason but omits `text_path`.
 
-For Korean pages, `source_content_path` points to sanitized source HTML captured at collection time and `source_request_path` points to a JSON descriptor containing only the public endpoint and stable document identifiers needed to reproduce the request. Cookies, CSRF values, authorization headers, and other session secrets are never committed. Volatile response observations and refresh failures are stored outside the release under the sibling `.krx-rule-runs/` directory.
+For Korean pages, `source_content_path` points to sanitized source HTML captured at collection time and `source_request_path` points to a JSON descriptor containing only the public endpoint and stable document identifiers needed to reproduce the request. Cookies, CSRF values, authorization headers, and other session secrets are never committed. Volatile response observations and refresh failures are stored outside the release under the sibling `.krx-rule-runs/` directory. In particular, free-form refresh errors and failure timestamps are runtime-only: `last_refresh_error` and `last_refresh_failed_at` may still be read from older schema-v2 metadata, but new frontmatter and manifests do not write them. A deterministic `stale_due_to_refresh_failure` quality code may mark retained last-known-good content, while `.krx-rule-runs/latest.json` records the operation, outcome, failure time, and detailed error. These runtime details do not affect `release_hash`.
 
 All paths are data-root-relative, must remain inside the owning document bundle, and may not contain parent traversal or symlink escapes. Document and attachment IDs share one global namespace.
 

@@ -1159,14 +1159,22 @@ $(".goRdoc").click(function(){});
         self.assertEqual(Path(loaded.path), path)
 
     def test_clean_removes_unreferenced_attachment_files(self) -> None:
+        bundle = "ko/rules/상장규정"
+        source_path = f"{bundle}/raw/source.html"
+        request_path = f"{bundle}/raw/request.json"
+        source = "<p>official source</p>"
+        source_hash = canonical_text_hash(source)
         doc = Document(
             id="rule-1",
             title="상장규정",
-            source_url="https://example.test/rule",
+            source_url="https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
             document_type="rule",
             collected_at=now_utc(),
             content_hash="hash-rule-1",
             body="상장 심사",
+            source_content_hash=source_hash,
+            source_content_path=source_path,
+            source_request_path=request_path,
             attachments=[
                 Attachment(
                     id="att-1",
@@ -1186,6 +1194,20 @@ $(".goRdoc").click(function(){});
             old = root / "ko" / "rules" / "상장규정" / "raw" / "old.hwp"
             keep.write_bytes(b"keep")
             old.write_bytes(b"old")
+            source_file = root / source_path
+            source_file.write_text(source, encoding="utf-8")
+            request_file = root / request_path
+            request_file.write_text(
+                json.dumps(
+                    {
+                        "endpoint": "/out/regulation/regulationViewPop.do",
+                        "bookid": doc.id,
+                        "noformyn": "N",
+                        "source_content_hash": source_hash,
+                    }
+                ),
+                encoding="utf-8",
+            )
             converted = root / "ko" / "rules" / "상장규정" / "attachments" / "att-1.md"
             converted.write_text("converted", encoding="utf-8")
             write_document(root, doc)
@@ -1193,6 +1215,8 @@ $(".goRdoc").click(function(){});
             result = clean_unreferenced_attachments(root)
             self.assertTrue(keep.exists())
             self.assertTrue(converted.exists())
+            self.assertTrue(source_file.exists())
+            self.assertTrue(request_file.exists())
             self.assertFalse(old.exists())
         self.assertEqual(result.removed, 1)
 

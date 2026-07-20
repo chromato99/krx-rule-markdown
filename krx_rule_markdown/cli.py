@@ -14,7 +14,7 @@ from .clean import (
 from .asset_migration import migrate_assets
 from .pdf_migration import migrate_pdf_comparisons
 from .collector import DEFAULT_BASE_URL
-from .quality import audit_data_quality, write_quality_report
+from .quality import audit_data_quality, resolve_quality_fail_on, write_quality_report
 from .manifest import manifest_allowed_failure_ids
 from .reconvert import reconvert_data
 from .repository import CorpusMutationError, WriterLockError
@@ -65,7 +65,7 @@ def _main(argv: list[str] | None = None) -> int:
     quality_parser.add_argument("--data-dir", default=os.getenv("KRX_DATA_DIR", "data"))
     quality_parser.add_argument("--output", default=os.getenv("KRX_QUALITY_REPORT", ""))
     quality_parser.add_argument("--update-metadata", action="store_true")
-    quality_parser.add_argument("--fail-on", choices=("none", "error", "warn"), default="none")
+    quality_parser.add_argument("--fail-on", choices=("none", "error", "warn"), default=None)
     quality_parser.add_argument("--allow-failure-id", action="append", default=[])
 
     reconvert_parser = subparsers.add_parser("reconvert", help="Rebuild converted attachment Markdown from existing raw files.")
@@ -130,6 +130,15 @@ def _main(argv: list[str] | None = None) -> int:
         print("validation ok")
         return 0
     if args.command == "quality":
+        fail_on = resolve_quality_fail_on(
+            update_metadata=args.update_metadata,
+            fail_on=args.fail_on,
+        )
+        if args.update_metadata and args.fail_on == "none":
+            print(
+                "warning: quality metadata update is running without an error gate",
+                file=sys.stderr,
+            )
         requested_ids = set(args.allow_failure_id)
         profile_ids = manifest_allowed_failure_ids(Path(args.data_dir))
         if requested_ids and requested_ids != (profile_ids or set()):
@@ -139,8 +148,8 @@ def _main(argv: list[str] | None = None) -> int:
             Path(args.data_dir),
             update_metadata=args.update_metadata,
             allowed_failure_ids=profile_ids if profile_ids is not None else (requested_ids or None),
-            release_gate=args.fail_on != "none",
-            fail_on=args.fail_on,
+            release_gate=fail_on != "none",
+            fail_on=fail_on,
         )
         output = Path(args.output) if args.output else Path(args.data_dir) / "reports" / "data-quality.json"
         write_quality_report(output, report)
@@ -153,7 +162,7 @@ def _main(argv: list[str] | None = None) -> int:
             f"issues={len(report['issues'])} "
             f"report={output}"
         )
-        failures = quality_failures(report, args.fail_on)
+        failures = quality_failures(report, fail_on)
         if failures:
             for failure in failures:
                 print(failure, file=sys.stderr)
@@ -174,7 +183,11 @@ def _main(argv: list[str] | None = None) -> int:
             f"attachments={result.attachments} "
             f"{action}={result.converted} "
             f"failed={result.failed} "
-            f"skipped={result.skipped}"
+            f"skipped={result.skipped} "
+            f"metadata_updates={result.metadata_updates} "
+            f"stale_retained={result.stale_retained} "
+            f"allowed_failed={result.allowed_failed} "
+            f"required_failed={result.required_failed}"
         )
         return 1 if result.failed else 0
     if args.command == "assets":
