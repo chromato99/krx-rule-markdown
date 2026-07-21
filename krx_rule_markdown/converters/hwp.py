@@ -394,7 +394,13 @@ def render_hwp_table(
                 )
                 used += para_used
                 if text:
-                    blocks.append({"kind": "paragraph", "text": text})
+                    blocks.append(
+                        {
+                            "kind": "paragraph",
+                            "text": text,
+                            "notes": "\n\n".join(para_notes),
+                        }
+                    )
                 notes.extend(para_notes)
             i += 1
         cells.append(
@@ -409,7 +415,8 @@ def render_hwp_table(
         )
     if not cells:
         return "", table_index + 1, formula_index, used
-    if table_is_layout_wrapper(table_content, cells):
+    is_layout_wrapper = table_is_layout_wrapper(table_content, cells)
+    if is_layout_wrapper:
         rendered = render_unwrapped_layout_table(cells)
     else:
         rendered = render_hwp_table_cells(
@@ -418,7 +425,7 @@ def render_hwp_table(
                 for cell in cells
             ]
         )
-    if notes:
+    if notes and not is_layout_wrapper:
         rendered = "\n\n".join([rendered, *notes])
     return rendered, i, formula_index, used
 
@@ -456,7 +463,14 @@ def render_unwrapped_layout_table(cells: list[dict]) -> str:
 
 
 def cell_blocks_to_unwrapped_text(blocks: list[dict[str, str]]) -> str:
-    parts = [block["text"] for block in blocks if block.get("text", "").strip()]
+    parts: list[str] = []
+    for block in blocks:
+        text = block.get("text", "")
+        if text.strip():
+            parts.append(text)
+        notes = block.get("notes", "")
+        if notes.strip():
+            parts.append(notes)
     return "\n\n".join(dedupe_adjacent(parts))
 
 

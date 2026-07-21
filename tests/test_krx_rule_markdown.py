@@ -721,6 +721,77 @@ $(".goRdoc").click(function(){});
         self.assertIn("끝", text)
         self.assertFalse(text.lstrip().startswith("<table>"))
 
+    def test_hwp_layout_table_places_direct_formula_block_before_nested_table(self) -> None:
+        equation_chunks = [
+            ((0, 8), {"code": 11, "chid": "eqed", "param": b"\x00" * 8}),
+            ((8, 9), {"code": 13}),
+        ]
+        models = [
+            {"tagname": "HWPTAG_TABLE", "level": 2, "content": {"rows": 1, "cols": 1, "rowcols": [1]}},
+            {"tagname": "HWPTAG_LIST_HEADER", "level": 2, "content": {"row": 0, "col": 0}},
+            {"tagname": "HWPTAG_PARA_TEXT", "level": 3, "content": {"chunks": equation_chunks}},
+            {"tagname": "HWPTAG_TABLE", "level": 4, "content": {"rows": 1, "cols": 1, "rowcols": [1]}},
+            {"tagname": "HWPTAG_LIST_HEADER", "level": 4, "content": {"row": 0, "col": 0}},
+            {"tagname": "HWPTAG_PARA_TEXT", "level": 5, "content": {"chunks": equation_chunks}},
+        ]
+
+        text, next_index, formula_index, used = render_hwp_table(
+            models,
+            0,
+            ["alpha _{1}", "beta _{2}"],
+            0,
+        )
+
+        direct_paragraph = r"[수식 1 LaTeX(best-effort): \(\alpha_{1}\)]"
+        direct_formula_block = "\n".join(
+            [
+                "수식 1 원본(HWP EqEdit):",
+                "```hwp-equation",
+                "alpha _{1}",
+                "```",
+                "",
+                "수식 1 LaTeX(best-effort):",
+                "```math",
+                r"\alpha_{1}",
+                "```",
+            ]
+        )
+        nested_formula = r"[수식 2 LaTeX(best-effort): \(\beta_{2}\)]"
+        self.assertEqual(next_index, len(models))
+        self.assertEqual(formula_index, 2)
+        self.assertEqual(used, 2)
+        self.assertEqual(text.count("수식 1 원본(HWP EqEdit):"), 1)
+        self.assertEqual(text.count("수식 2 원본(HWP EqEdit):"), 1)
+        self.assertIn(f"{direct_paragraph}\n\n{direct_formula_block}", text)
+        self.assertLess(
+            text.index(direct_formula_block) + len(direct_formula_block),
+            text.index(nested_formula),
+        )
+
+    def test_hwp_data_table_keeps_direct_formula_blocks_outside_cells(self) -> None:
+        equation_chunk = ((1, 9), {"code": 11, "chid": "eqed", "param": b"\x00" * 8})
+        models = [
+            {"tagname": "HWPTAG_TABLE", "level": 2, "content": {"rows": 1, "cols": 2, "rowcols": [2]}},
+            {"tagname": "HWPTAG_LIST_HEADER", "level": 2, "content": {"row": 0, "col": 0}},
+            {
+                "tagname": "HWPTAG_PARA_TEXT",
+                "level": 3,
+                "content": {"chunks": [((0, 1), "값 "), equation_chunk]},
+            },
+            {"tagname": "HWPTAG_LIST_HEADER", "level": 2, "content": {"row": 0, "col": 1}},
+            {"tagname": "HWPTAG_PARA_TEXT", "level": 3, "content": {"chunks": [((0, 1), "설명")]}},
+        ]
+
+        text, next_index, formula_index, used = render_hwp_table(models, 0, ["alpha _{1}"], 0)
+
+        table_end = "| --- | --- |"
+        formula_block = "수식 1 원본(HWP EqEdit):"
+        self.assertEqual(next_index, len(models))
+        self.assertEqual(formula_index, 1)
+        self.assertEqual(used, 1)
+        self.assertLess(text.index(table_end) + len(table_end), text.index(formula_block))
+        self.assertNotIn("```hwp-equation", text[: text.index(table_end)])
+
     def test_hwp_nested_table_inside_data_cell_is_not_escaped(self) -> None:
         models = [
             {"tagname": "HWPTAG_TABLE", "level": 2, "content": {"rows": 1, "cols": 2, "rowcols": [2]}},

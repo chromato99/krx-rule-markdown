@@ -35,7 +35,7 @@ attachments:
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별표-1-장외파생공동기금총적립액-산출방법개정-2017-3-17-2017-12-18-2021-6-3-2024-9-262025-10-23.md"
     content_hash: "034c278bed442b35ee8df23f20eb21ac60cdae2808e6e44b488fb8cf0c8588dd"
     raw_file_hash: "034c278bed442b35ee8df23f20eb21ac60cdae2808e6e44b488fb8cf0c8588dd"
-    converted_text_hash: "7b39de575fd34cb63513f4c6863d2fb8b2cdecba6a78a314d13066cee4ae8b47"
+    converted_text_hash: "e8f915ccc72e096c674eeedae0b4f52ba09a48017278628a58595ecc30c903bf"
     converter_version: "2"
     asset_inspection_version: "1"
     preservation_status: "preserved"
@@ -43,7 +43,7 @@ attachments:
     size: 53248
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 12145
+    converted_text_chars: 12144
     converted_non_space_chars: 9973
     table_row_count: 13
     formula_block_count: 62
@@ -68,7 +68,7 @@ attachments:
     size: 109056
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2906
+    converted_text_chars: 2905
     converted_non_space_chars: 2280
     table_row_count: 13
   - id: "210215757-210136622-hwp"
@@ -83,7 +83,7 @@ attachments:
     text_path: "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별표-2-순현재가치의-평가개정-2016-12-16-2021-1-22-2023-06-262025-10-23.md"
     content_hash: "5b610ef53d70aadcfde54571141d984dc13abede7144f2d64c8dff385006de5d"
     raw_file_hash: "5b610ef53d70aadcfde54571141d984dc13abede7144f2d64c8dff385006de5d"
-    converted_text_hash: "769f1f97a770eaee9f9a4f434b2d806a1fac4fb3ed94f1c3ce0f3867fa50aa0b"
+    converted_text_hash: "8bad2336f69620348c9d0b48ed9934378223798a2a8d5528f5833dcd9cddd4d0"
     converter_version: "2"
     asset_inspection_version: "1"
     preservation_status: "preserved"
@@ -91,7 +91,7 @@ attachments:
     size: 82944
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 62829
+    converted_text_chars: 62828
     converted_non_space_chars: 52011
     table_row_count: 4
     formula_block_count: 285
@@ -116,7 +116,7 @@ attachments:
     size: 55808
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 11018
+    converted_text_chars: 11017
     converted_non_space_chars: 7825
     table_row_count: 62
     formula_block_count: 10
@@ -141,7 +141,7 @@ attachments:
     size: 48128
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 8880
+    converted_text_chars: 8879
     converted_non_space_chars: 7333
     table_row_count: 1
     formula_block_count: 44
@@ -166,7 +166,7 @@ attachments:
     size: 13312
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1423
+    converted_text_chars: 1422
     converted_non_space_chars: 1171
     formula_block_count: 7
     formula_hint_count: 18
@@ -190,7 +190,7 @@ attachments:
     size: 50688
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2059
+    converted_text_chars: 2058
     converted_non_space_chars: 1697
     table_row_count: 1
     formula_block_count: 7
@@ -215,7 +215,7 @@ attachments:
     size: 44032
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3608
+    converted_text_chars: 3607
     converted_non_space_chars: 2848
   - id: "210215757-210136786-hwp"
     title: "[별지 제1호 서식] 청산회원 가입신청서<개정 2025. 10. 23.>"
@@ -237,7 +237,7 @@ attachments:
     size: 43520
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1801
+    converted_text_chars: 1800
     converted_non_space_chars: 1351
     table_row_count: 3
   - id: "210215757-202409260000022520000225011-byl-hwp"
@@ -260,7 +260,7 @@ attachments:
     size: 17408
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2117
+    converted_text_chars: 2116
     converted_non_space_chars: 1552
     table_row_count: 17
     formula_hint_count: 6
@@ -284,7 +284,7 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 940
+    converted_text_chars: 939
     converted_non_space_chars: 747
     formula_hint_count: 6
   - id: "210215757-202409260000022520000225013-byl-hwp"
@@ -307,7 +307,7 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 924
+    converted_text_chars: 923
     converted_non_space_chars: 723
     formula_hint_count: 6
   - id: "210215757-202409260000022520000225014-byl-hwp"
@@ -330,7 +330,7 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 545
+    converted_text_chars: 544
     converted_non_space_chars: 433
     table_row_count: 3
   - id: "210215757-202409260000022520000225015-byl-hwp"
@@ -353,7 +353,7 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 684
+    converted_text_chars: 683
     converted_non_space_chars: 545
     table_row_count: 3
   - id: "210215757-202409260000022520000225016-byl-hwp"
@@ -376,7 +376,7 @@ attachments:
     size: 17408
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1764
+    converted_text_chars: 1763
     converted_non_space_chars: 1293
     table_row_count: 22
   - id: "210215757-202409260000022520000225017-byl-hwp"
@@ -399,7 +399,7 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 684
+    converted_text_chars: 683
     converted_non_space_chars: 523
     formula_hint_count: 6
   - id: "210215757-202409260000022520000225018-byl-hwp"
@@ -422,7 +422,7 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 923
+    converted_text_chars: 922
     converted_non_space_chars: 650
     table_row_count: 12
   - id: "210215757-202409260000022520000225019-byl-hwp"
@@ -445,7 +445,7 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 990
+    converted_text_chars: 989
     converted_non_space_chars: 707
     table_row_count: 12
   - id: "210215757-202409260000022520000225021-byl-hwp"
@@ -468,7 +468,7 @@ attachments:
     size: 17920
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2129
+    converted_text_chars: 2128
     converted_non_space_chars: 1539
     table_row_count: 19
   - id: "210215757-202409260000022520000225022-byl-hwp"
@@ -491,7 +491,7 @@ attachments:
     size: 16384
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1254
+    converted_text_chars: 1253
     converted_non_space_chars: 915
     table_row_count: 11
 ---
