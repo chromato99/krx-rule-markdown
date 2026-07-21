@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210222386-en"
 title: "Enforcement Rules of Market Oversight Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:08:35.038993Z"
+collected_at: "2026-07-12T07:56:14.948702Z"
 content_hash: "0f6e62c09c25c4a169793e53b5506b4876ec288b877b3eb8b5f4ea7098355cff"
+body_hash: "f234c31eb5c770cfdce6580a0b57627b554f5329b056e400bc88e110004bf636"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 시장감시규정"
 effective_date: "2026-06-29"
 published_date: "2026-06-26"
@@ -14,6 +18,10 @@ file_name: "20260526_Enforcement_Rules_of_Market_Oversight_Regulation.pdf"
 raw_path: "en/rules/enforcement-rules-of-market-oversight-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/enforcement-rules-of-market-oversight-regulation/attachments/english-full-text.md"
 file_content_hash: "2a4c167bac3ead85b1ed39a6d1a77a129d813329d6db2458ffed85b38769034d"
+raw_file_hash: "2a4c167bac3ead85b1ed39a6d1a77a129d813329d6db2458ffed85b38769034d"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Enforcement Rules of

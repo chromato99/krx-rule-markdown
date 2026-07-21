@@ -8,7 +8,8 @@ import re
 import runpy
 import sys
 
-from .base import ConversionError, dedupe_adjacent, normalize_text
+from .base import ConversionDiagnostic, ConversionError, dedupe_adjacent, normalize_text
+from .cache import SourceInspectionCache
 from .equation_latex import append_hwp_equations, clean_eqedit_script, hwp_equation_to_latex
 from .tables import RawHtml, normalize_angle_bracket_tables, render_html_table, render_markdown_table, table_needs_html
 
@@ -17,18 +18,51 @@ HWP_SUBSCRIPT_FLAG = 0x10000
 
 
 def extract_hwp(path: Path) -> str:
+    return extract_hwp_with_diagnostics(path)[0]
+
+
+def extract_hwp_with_diagnostics(
+    path: Path,
+    inspection_cache: SourceInspectionCache | None = None,
+) -> tuple[str, list[ConversionDiagnostic]]:
+    diagnostics: list[ConversionDiagnostic] = []
     pyhwp_error: Exception | None = None
     try:
         import hwp5  # noqa: F401
     except ImportError as exc:
         pyhwp_error = exc
+        diagnostics.append(
+            ConversionDiagnostic(
+                "source_inspection_failed",
+                "HWP primary layout extractor is unavailable; trying the embedded preview fallback",
+            )
+        )
     else:
         try:
-            layout_text = extract_hwp_layout(path)
-        except Exception:
+            if inspection_cache is None:
+                layout_text = extract_hwp_layout(path)
+            else:
+                models, model_error = inspection_cache.hwp_models(path)
+                if model_error:
+                    raise ConversionError(model_error)
+                layout_text = extract_hwp_layout(path, models=models)
+        except Exception as exc:  # noqa: BLE001 - the fallback reason is part of the outcome.
             layout_text = ""
+            diagnostics.append(
+                ConversionDiagnostic(
+                    "source_inspection_failed",
+                    f"HWP primary layout extraction failed ({type(exc).__name__}); trying hwp5txt",
+                )
+            )
         if layout_text.strip():
-            return layout_text
+            return layout_text, diagnostics
+        if not diagnostics:
+            diagnostics.append(
+                ConversionDiagnostic(
+                    "source_inspection_failed",
+                    "HWP primary layout extraction returned no text; trying hwp5txt",
+                )
+            )
         old_argv = sys.argv[:]
         stdout = io.StringIO()
         try:
@@ -39,28 +73,59 @@ def extract_hwp(path: Path) -> str:
                 except SystemExit as exc:
                     if exc.code not in (None, 0):
                         raise ConversionError(f"pyhwp hwp5txt exited with {exc.code}") from exc
+        except Exception as exc:  # noqa: BLE001 - continue to the preserved preview.
+            diagnostics.append(
+                ConversionDiagnostic(
+                    "source_inspection_failed",
+                    f"HWP hwp5txt fallback failed ({type(exc).__name__}); trying the embedded preview",
+                )
+            )
         finally:
             sys.argv = old_argv
         text = normalize_angle_bracket_tables(stdout.getvalue())
-        formulas = extract_hwp_equations(path)
         if text.strip():
-            return append_hwp_equations(text, formulas)
+            text, equation_diagnostic = append_hwp_equations_observable(path, text, inspection_cache)
+            if equation_diagnostic is not None:
+                diagnostics.append(equation_diagnostic)
+            return text, diagnostics
     preview = normalize_angle_bracket_tables(extract_hwp_preview(path))
     if preview.strip():
-        return append_hwp_equations(preview, extract_hwp_equations(path))
+        preview, equation_diagnostic = append_hwp_equations_observable(path, preview, inspection_cache)
+        if equation_diagnostic is not None:
+            diagnostics.append(equation_diagnostic)
+        return preview, diagnostics
     if pyhwp_error is not None:
         raise ConversionError("pyhwp is not installed") from pyhwp_error
     raise ConversionError("pyhwp produced empty text and no PrvText fallback was available")
 
 
-def extract_hwp_layout(path: Path) -> str:
+def append_hwp_equations_observable(
+    path: Path,
+    text: str,
+    inspection_cache: SourceInspectionCache | None = None,
+) -> tuple[str, ConversionDiagnostic | None]:
+    models = None
+    if inspection_cache is not None:
+        models, model_error = inspection_cache.hwp_models(path)
+        if model_error:
+            return text, ConversionDiagnostic("source_inspection_failed", model_error)
+    formulas, error_message = extract_hwp_equations_with_error(path, models=models)
+    diagnostic = (
+        ConversionDiagnostic("source_inspection_failed", error_message)
+        if error_message
+        else None
+    )
+    return append_hwp_equations(text, formulas), diagnostic
+
+
+def extract_hwp_layout(path: Path, *, models: list | None = None) -> str:
     try:
         from hwp5.binmodel import EqEdit
         from hwp5.proc.find import hwp5file_models
     except ImportError as exc:
         raise ConversionError("pyhwp is not installed") from exc
 
-    models = list(hwp5file_models(str(path)))
+    models = list(hwp5file_models(str(path))) if models is None else models
     char_shapes = extract_hwp_char_shapes(models)
     formulas = [
         parse_eqedit_payload(model.get("payload") or model.get("unparsed", b""))
@@ -475,24 +540,28 @@ def hwp_formula_notice() -> str:
 
 
 def extract_hwp_equations(path: Path) -> list[str]:
+    return extract_hwp_equations_with_error(path)[0]
+
+
+def extract_hwp_equations_with_error(path: Path, *, models: list | None = None) -> tuple[list[str], str]:
     try:
         from hwp5.binmodel import EqEdit
         from hwp5.proc.find import hwp5file_models
     except ImportError:
-        return []
+        return [], "HWP equation inspection was skipped because pyhwp is unavailable"
 
     formulas: list[str] = []
     try:
-        models = hwp5file_models(str(path))
-        for model in models:
+        source_models = hwp5file_models(str(path)) if models is None else models
+        for model in source_models:
             if model.get("type") is not EqEdit:
                 continue
             formula = parse_eqedit_payload(model.get("payload", b""))
             if formula:
                 formulas.append(formula)
-    except Exception:
-        return []
-    return formulas
+    except Exception as exc:  # noqa: BLE001 - expose the inspection failure to callers.
+        return [], f"HWP equation inspection failed ({type(exc).__name__})"
+    return formulas, ""
 
 
 def parse_eqedit_payload(payload: bytes) -> str:

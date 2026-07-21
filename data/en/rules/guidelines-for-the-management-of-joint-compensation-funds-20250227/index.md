@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210025875-en"
 title: "Guidelines for the Management of Joint Compensation Funds 20250227"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:14:08.022669Z"
+collected_at: "2026-07-12T08:01:43.895319Z"
 content_hash: "c44016a4ca509760113b8fe58d5d5afc395b6a1a126fd97dc1e77a3023251278"
+body_hash: "8390ca5a5100eba1201dbcd715bbd976004e2b83e63a32e8ecfa64950c276bd0"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 공통규정"
 effective_date: "2025-02-27"
 published_date: "2025-02-27"
@@ -14,6 +18,10 @@ file_name: "Guidelines_for_the_Management_of_Joint_Compensation_Funds_20250227.p
 raw_path: "en/rules/guidelines-for-the-management-of-joint-compensation-funds-20250227/raw/english-full-text.pdf"
 text_path: "en/rules/guidelines-for-the-management-of-joint-compensation-funds-20250227/attachments/english-full-text.md"
 file_content_hash: "e323de212854325157d3591c4fcec170f0f0b993f7d3bb3408d3d45963843072"
+raw_file_hash: "e323de212854325157d3591c4fcec170f0f0b993f7d3bb3408d3d45963843072"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Guidelines for the Management of Joint

@@ -2,12 +2,16 @@ from __future__ import annotations
 
 from pathlib import Path
 import ast
+import base64
+import copy
 import io
 import json
 import os
 import tempfile
 import unittest
 import zipfile
+from unittest import mock
+from urllib import error as urlerror, request as urlrequest
 
 from krx_rule_markdown.convert import (
     append_hwp_equations,
@@ -18,6 +22,7 @@ from krx_rule_markdown.convert import (
     parse_eqedit_payload,
 )
 from krx_rule_markdown.collector import (
+    SameHostRedirectHandler,
     extract_state_history_id,
     parse_js_args,
     parse_notice_attachments,
@@ -26,27 +31,75 @@ from krx_rule_markdown.collector import (
     parse_rule_document,
     parse_rule_attachments,
     safe_base,
+    sanitize_source_html,
+    validate_download,
+)
+from krx_rule_markdown.assets import (
+    MAX_ASSET_BYTES,
+    inspect_image,
+    preserve_inline_document_assets,
+    read_hwp_image_streams,
+)
+from krx_rule_markdown.asset_migration import migrate_assets
+from krx_rule_markdown.contracts import (
+    CONVERTER_VERSION,
+    canonical_json_bytes,
+    canonical_text,
+    canonical_text_hash,
+    effective_searchable,
+    index_source_hash,
+    index_source_payload,
+    release_hash,
+    sha256_bytes,
+    status_combination_errors,
 )
 from krx_rule_markdown.clean import clean_unreferenced_attachments, clean_unreferenced_documents, drop_past_rule_attachments
-from krx_rule_markdown.converters.hwp import render_hwp_paragraph, render_hwp_table, render_hwp_table_cells
+from krx_rule_markdown.converters.base import ConversionError
+from krx_rule_markdown.converters.cache import SourceInspectionCache
+from krx_rule_markdown.converters.core import convert_bytes_outcome
+from krx_rule_markdown.converters.hwp import extract_hwp_with_diagnostics, render_hwp_paragraph, render_hwp_table, render_hwp_table_cells
+from krx_rule_markdown.converters.hwpx import extract_hwpx
+from krx_rule_markdown.converters.inspection import inspect_converted_source
 from krx_rule_markdown.converters.pdf import postprocess_pdf_text
+from krx_rule_markdown.converters.pdf_comparison import (
+    KNOWN_COMPARISON_PDFS,
+    ComparisonClassification,
+    classify_comparison_pdf,
+    render_comparison_page,
+)
+from krx_rule_markdown.pdf_migration import migrate_pdf_comparisons
 from krx_rule_markdown.converters.tables import normalize_angle_bracket_tables, render_html_table, render_markdown_table
 from krx_rule_markdown.html import html_to_markdown
 from krx_rule_markdown.markdown import load_documents, parse_markdown, write_document
-from krx_rule_markdown.models import ATTACHMENT_CONVERTED, ATTACHMENT_FAILED, Attachment, Document, Item, now_utc
-from krx_rule_markdown.paths import converted_attachment_path, raw_attachment_path
+from krx_rule_markdown.models import ATTACHMENT_CONVERTED, ATTACHMENT_FAILED, Asset, Attachment, Document, Item, hash_text, now_utc
+from krx_rule_markdown.paths import (
+    MAX_RAW_NAME_BYTES,
+    converted_attachment_path,
+    raw_attachment_path,
+    truncate_name,
+    unique_name,
+)
 from krx_rule_markdown.quality import audit_data_quality, inspect_attachment_quality
 from krx_rule_markdown.reconvert import reconvert_data
+from krx_rule_markdown.repository import (
+    CorpusMutationError,
+    WriterLock,
+    WriterLockError,
+    atomic_exchange_paths,
+    mutate_staged_corpus,
+)
 from krx_rule_markdown.sync import (
+    SyncRunner,
     collection_guard_error,
     collect_items,
     includes_english,
     includes_korean,
     english_rule_title,
     normalize_sync_language,
+    sync_rules,
     write_manifest as write_sync_manifest,
 )
-from krx_rule_markdown.validate import validate_data
+from krx_rule_markdown.validate import validate_asset, validate_data
 
 
 class ToolTests(unittest.TestCase):
@@ -415,6 +468,19 @@ $(".goRdoc").click(function(){});
         base = safe_base(name, "210064740.hwp")
         self.assertLessEqual(len(base.encode("utf-8")), 180)
         self.assertTrue(base.endswith(".hwp"))
+
+    def test_unique_name_reserves_suffix_space_after_max_length_collision(self) -> None:
+        name = truncate_name(("파생상품시장" * 40) + ".hwp", MAX_RAW_NAME_BYTES)
+        used = {name}
+
+        second = unique_name(name, used, max_bytes=MAX_RAW_NAME_BYTES)
+        third = unique_name(name, used, max_bytes=MAX_RAW_NAME_BYTES)
+
+        self.assertNotEqual(second, name)
+        self.assertTrue(second.endswith("-2.hwp"))
+        self.assertTrue(third.endswith("-3.hwp"))
+        self.assertLessEqual(len(second.encode("utf-8")), MAX_RAW_NAME_BYTES)
+        self.assertLessEqual(len(third.encode("utf-8")), MAX_RAW_NAME_BYTES)
 
     def test_converted_attachment_path_uses_attachment_title(self) -> None:
         doc = Document(
@@ -938,6 +1004,7 @@ $(".goRdoc").click(function(){});
             source_url="https://example.test/rule",
             document_type="rule",
             collected_at=now_utc(),
+            schema_version=1,
             content_hash="hash-rule-1",
             body="상장 심사",
             attachments=[
@@ -972,6 +1039,7 @@ $(".goRdoc").click(function(){});
             index_mtime_ns = index_path.stat().st_mtime_ns
             manifest_mtime_ns = manifest_path.stat().st_mtime_ns
         self.assertEqual(report["summary"]["quality_status"]["ok"], 1)
+        self.assertEqual(loaded.schema_version, 2)
         self.assertEqual(loaded.attachments[0].quality_status, "ok")
         self.assertGreaterEqual(loaded.attachments[0].table_row_count, 1)
         self.assertEqual(loaded.attachments[0].formula_block_count, 0)
@@ -1021,16 +1089,8 @@ $(".goRdoc").click(function(){});
             collected_at=now_utc(),
             content_hash="old-hash",
             body="old body",
+            raw_path="en/rules/sample-rule/raw/english.txt",
             text_path="en/rules/sample-rule/attachments/english-full-text.md",
-            attachments=[
-                Attachment(
-                    id="att-1",
-                    title="English full text",
-                    file_name="english.txt",
-                    raw_path="en/rules/sample-rule/raw/english.txt",
-                    text_path="en/rules/sample-rule/attachments/english-full-text.md",
-                )
-            ],
         )
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
@@ -1099,14 +1159,22 @@ $(".goRdoc").click(function(){});
         self.assertEqual(Path(loaded.path), path)
 
     def test_clean_removes_unreferenced_attachment_files(self) -> None:
+        bundle = "ko/rules/상장규정"
+        source_path = f"{bundle}/raw/source.html"
+        request_path = f"{bundle}/raw/request.json"
+        source = "<p>official source</p>"
+        source_hash = canonical_text_hash(source)
         doc = Document(
             id="rule-1",
             title="상장규정",
-            source_url="https://example.test/rule",
+            source_url="https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
             document_type="rule",
             collected_at=now_utc(),
             content_hash="hash-rule-1",
             body="상장 심사",
+            source_content_hash=source_hash,
+            source_content_path=source_path,
+            source_request_path=request_path,
             attachments=[
                 Attachment(
                     id="att-1",
@@ -1126,12 +1194,29 @@ $(".goRdoc").click(function(){});
             old = root / "ko" / "rules" / "상장규정" / "raw" / "old.hwp"
             keep.write_bytes(b"keep")
             old.write_bytes(b"old")
+            source_file = root / source_path
+            source_file.write_text(source, encoding="utf-8")
+            request_file = root / request_path
+            request_file.write_text(
+                json.dumps(
+                    {
+                        "endpoint": "/out/regulation/regulationViewPop.do",
+                        "bookid": doc.id,
+                        "noformyn": "N",
+                        "source_content_hash": source_hash,
+                    }
+                ),
+                encoding="utf-8",
+            )
             converted = root / "ko" / "rules" / "상장규정" / "attachments" / "att-1.md"
             converted.write_text("converted", encoding="utf-8")
             write_document(root, doc)
+            write_sync_manifest(root, [doc], [], "https://example.test")
             result = clean_unreferenced_attachments(root)
             self.assertTrue(keep.exists())
             self.assertTrue(converted.exists())
+            self.assertTrue(source_file.exists())
+            self.assertTrue(request_file.exists())
             self.assertFalse(old.exists())
         self.assertEqual(result.removed, 1)
 
@@ -1158,17 +1243,7 @@ $(".goRdoc").click(function(){});
             root = Path(tmp)
             current_path = write_document(root, current)
             stale_path = write_document(root, stale)
-            (root / "manifest.json").write_text(
-                json.dumps(
-                    {
-                        "documents": [
-                            current.to_mapping() | {"path": str(current_path.relative_to(root))}
-                        ]
-                    },
-                    ensure_ascii=False,
-                ),
-                encoding="utf-8",
-            )
+            write_sync_manifest(root, [current], [], "https://example.test")
             result = clean_unreferenced_documents(root)
             loaded = load_documents(root)
         self.assertEqual(result.removed, 1)
@@ -1323,6 +1398,1050 @@ def hwpx_bytes_with_merged_cells() -> bytes:
     with zipfile.ZipFile(buf, "w") as zf:
         zf.writestr("Contents/section0.xml", xml)
     return buf.getvalue()
+
+
+class ContractAndSafetyRegressionTests(unittest.TestCase):
+    def test_document_searchability_uses_body_without_document_text_path(self) -> None:
+        doc = Document(
+            id="body-only",
+            title="body only",
+            source_url="https://example.test/body-only",
+            document_type="rule",
+            collected_at="2026-07-01T00:00:00Z",
+            body="searchable Korean body",
+            conversion_status="converted",
+        )
+        self.assertTrue(effective_searchable(doc))
+        self.assertTrue(doc.to_mapping()["searchable"])
+
+    def test_shared_contract_fixture_matches_canonical_hashes(self) -> None:
+        fixture_path = Path(__file__).parent / "fixtures" / "corpus_contract_v2.json"
+        fixture = json.loads(fixture_path.read_text(encoding="utf-8"))
+        source = fixture["documents"][0]
+        doc = Document.from_mapping(source, source["body"])
+        expected = fixture["expected"]
+        asset_bytes = base64.b64decode(fixture["asset_fixture"]["file_base64"])
+
+        self.assertEqual(canonical_text(doc.body), expected["canonical_body"])
+        self.assertEqual(canonical_text_hash(doc.body), expected["body_hash"])
+        self.assertEqual(hash_text(doc.title + "\n" + doc.body), expected["legacy_content_hash"])
+        payload = index_source_payload([doc])
+        self.assertEqual(canonical_json_bytes(payload).decode("utf-8"), expected["index_source_canonical_json"])
+        self.assertEqual(index_source_hash([doc]), expected["index_source_hash"])
+        self.assertEqual(fixture["negative_cases"][0]["expected_error"], "required_source_missing")
+        self.assertEqual(doc.assets[0].to_mapping(), source["assets"][0])
+        self.assertEqual(len(asset_bytes), source["assets"][0]["size"])
+        self.assertEqual(sha256_bytes(asset_bytes), source["assets"][0]["raw_file_hash"])
+        image = inspect_image(asset_bytes)
+        self.assertEqual((image.mime_type, image.width, image.height), ("image/png", 2, 3))
+        self.assertTrue(status_combination_errors(conversion_status="failed", searchable=True))
+        self.assertEqual(
+            release_hash({"value": "same", "generated_at": "first", "source_response_hash": "a"}),
+            release_hash({"value": "same", "generated_at": "second", "source_response_hash": "b"}),
+        )
+
+    def test_shared_asset_contract_negative_cases(self) -> None:
+        fixture_path = Path(__file__).parent / "fixtures" / "corpus_contract_v2.json"
+        fixture = json.loads(fixture_path.read_text(encoding="utf-8"))
+        base_mapping = fixture["documents"][0]["assets"][0]
+        asset_bytes = base64.b64decode(fixture["asset_fixture"]["file_base64"])
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            bundle = root / "ko/rules/caf-규정"
+            asset_path = root / base_mapping["path"]
+            asset_path.parent.mkdir(parents=True)
+            asset_path.write_bytes(asset_bytes)
+            for case in fixture["asset_fixture"]["negative_cases"]:
+                with self.subTest(case=case["name"]):
+                    mapping = copy.deepcopy(base_mapping)
+                    for key in case.get("remove", []):
+                        mapping.pop(key, None)
+                    mapping.update(case.get("overrides", {}))
+                    errors = "\n".join(
+                        validate_asset(
+                            root,
+                            bundle,
+                            Asset.from_mapping(mapping),
+                            {},
+                            {},
+                            "fixture asset",
+                            "https://example.test/rule-1",
+                        )
+                    )
+                    self.assertIn(case["expected_error"], errors)
+
+            oversized = copy.deepcopy(base_mapping)
+            oversized["path"] = "ko/rules/caf-규정/assets/inline/oversized.gif"
+            oversized["size"] = MAX_ASSET_BYTES + 1
+            oversized_path = root / oversized["path"]
+            with oversized_path.open("wb") as file:
+                file.truncate(MAX_ASSET_BYTES + 1)
+            errors = "\n".join(
+                validate_asset(
+                    root,
+                    bundle,
+                    Asset.from_mapping(oversized),
+                    {},
+                    {},
+                    "oversized asset",
+                    "https://example.test/rule-1",
+                )
+            )
+            self.assertIn("exceeds", errors)
+
+    def test_inline_asset_migration_is_strict_idempotent_and_prunes_stale_files(self) -> None:
+        gif = b"GIF89a\x02\x00\x03\x00"
+        url_a = "https://rule.krx.co.kr/dataFile/law/img/a.gif"
+        url_b = "https://rule.krx.co.kr/dataFile/law/img/b.gif"
+
+        class InlineClient:
+            def __init__(self, _base_url: str) -> None:
+                pass
+
+            def download_inline_asset(self, source_url: str) -> tuple[bytes, str]:
+                if source_url not in {url_a, url_b}:
+                    raise RuntimeError("unexpected inline URL")
+                return gif, "image/gif"
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            doc = Document(
+                id="inline-assets",
+                title="inline assets",
+                source_url="https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+                document_type="rule",
+                collected_at="2026-07-01T00:00:00Z",
+                body=f"[이미지: {url_a}]\n\n[이미지: {url_b}]",
+                converter_version=CONVERTER_VERSION,
+            )
+            write_document(root, doc)
+            write_sync_manifest(root, [doc], [], "https://rule.krx.co.kr")
+            with mock.patch("krx_rule_markdown.asset_migration.Client", InlineClient):
+                first = migrate_assets(root, download_inline=True)
+                first_snapshot = snapshot_files(root)
+                second = migrate_assets(root, download_inline=True)
+            self.assertEqual((first.preserved_assets, first.failed_assets), (2, 0))
+            self.assertEqual(second.preserved_assets, 2)
+            self.assertEqual(snapshot_files(root), first_snapshot)
+
+            migrated = load_documents(root)[0]
+            self.assertNotIn("/assets/", migrated.body)
+            self.assertEqual(migrated.body.count("krx-asset:"), 2)
+            self.assertTrue(all((root / asset.path).is_file() for asset in migrated.assets))
+            stale_path = root / next(asset.path for asset in migrated.assets if asset.source_url == url_b)
+
+            migrated.body = f"[이미지: {url_a}]"
+            write_document(root, migrated)
+            write_sync_manifest(root, [migrated], [], "https://rule.krx.co.kr")
+            with mock.patch("krx_rule_markdown.asset_migration.Client", InlineClient):
+                shrunk = migrate_assets(root, download_inline=True)
+            self.assertEqual(shrunk.preserved_assets, 1)
+            self.assertEqual(shrunk.pruned_assets, 1)
+            self.assertFalse(stale_path.exists())
+
+            migrated = load_documents(root)[0]
+            failed_url = "https://rule.krx.co.kr/dataFile/law/img/fail.gif"
+            migrated.body = f"[이미지: {failed_url}]"
+            write_document(root, migrated)
+            write_sync_manifest(root, [migrated], [], "https://rule.krx.co.kr")
+            before_failure = snapshot_files(root)
+
+            class FailingClient(InlineClient):
+                def download_inline_asset(self, source_url: str) -> tuple[bytes, str]:
+                    raise RuntimeError("network failed")
+
+            with (
+                mock.patch("krx_rule_markdown.asset_migration.Client", FailingClient),
+                self.assertRaisesRegex(CorpusMutationError, "inline asset"),
+            ):
+                migrate_assets(root, download_inline=True)
+            self.assertEqual(snapshot_files(root), before_failure)
+
+    def test_actual_hwp_images_and_operation_cache_are_reused(self) -> None:
+        project = Path(__file__).resolve().parents[1]
+        fixtures = {
+            project
+            / "data/ko/rules/krx금시장-운영규정-시행세칙/raw/별표-1-거래소-및-품질인증기관의-상징-표식개정-2018-1-15.hwp": [
+                ("image/bmp", 812838, 471, 574),
+                ("image/jpeg", 37339, 539, 613),
+                ("image/jpeg", 615979, 720, 764),
+                ("image/jpeg", 135415, 714, 713),
+            ],
+            project
+            / "data/ko/rules/전문가회의-및-기술평가제도-운영지침/raw/서식-2-기술평가신청서.hwp": [
+                ("image/jpeg", 415459, 1400, 834)
+            ],
+        }
+        for path, expected in fixtures.items():
+            if not path.is_file():
+                self.skipTest(f"corpus HWP fixture is missing: {path}")
+            streams = read_hwp_image_streams(path)
+            actual = [
+                (item.image.mime_type, len(item.data), item.image.width, item.image.height)
+                for item in streams
+            ]
+            self.assertEqual(actual, expected)
+
+        cache = SourceInspectionCache()
+        source = next(iter(fixtures))
+        text, _ = extract_hwp_with_diagnostics(source, cache)
+        inspect_attachment_quality(text, source, cache)
+        inspect_converted_source(source, text, inspection_cache=cache)
+        inspect_converted_source(source, text, inspection_cache=cache)
+        self.assertEqual(cache.hwp_model_parse_count, 1)
+        self.assertEqual(cache.hwp_ole_parse_count, 1)
+
+    def test_current_named_pdf_comparisons_match_coordinate_goldens(self) -> None:
+        project = Path(__file__).resolve().parents[1]
+        attachments = {
+            att.id: project / "data" / att.raw_path
+            for doc in load_documents(project / "data")
+            for att in doc.attachments
+            if att.id in KNOWN_COMPARISON_PDFS
+        }
+        expected = {
+            "210219879-210219880-pdf": (14, 419),
+            "210224393-210224395-pdf": (11, 308),
+            "210222057-210222059-pdf": (8, 222),
+            "210221769-210221771-pdf": (4, 88),
+            "210220231-210220236-pdf": (1, 22),
+            "210219622-210219624-pdf": (11, 407),
+            "210224396-210224398-pdf": (8, 214),
+        }
+        # The classification catalog intentionally includes historical notices,
+        # while a full sync materializes only the current KRX listing.  Validate
+        # every catalog entry that is present without requiring removed notices
+        # to remain in the release.
+        self.assertTrue(attachments)
+        self.assertLessEqual(set(attachments), set(KNOWN_COMPARISON_PDFS))
+        classifications = {
+            attachment_id: classify_comparison_pdf(attachments[attachment_id], attachment_id)
+            for attachment_id in sorted(attachments)
+        }
+        for attachment_id in sorted(attachments):
+            with self.subTest(attachment_id=attachment_id):
+                table_page_count, row_count = expected[attachment_id]
+                classification = classifications[attachment_id]
+                self.assertEqual(classification.status, "restored")
+                self.assertEqual(len(classification.table_pages), table_page_count)
+                self.assertEqual(classification.row_count, row_count)
+                self.assertEqual(classification.confidence, 1.0)
+
+        golden = json.loads(
+            (Path(__file__).parent / "fixtures/pdf_comparison_210220231_golden.json").read_text(
+                encoding="utf-8"
+            )
+        )
+        golden_attachment_id = golden["attachment_id"]
+        if golden_attachment_id in classifications:
+            classification = classifications[golden_attachment_id]
+            self.assertEqual(classification.table_pages, golden["table_pages"])
+            self.assertEqual(classification.pages[0].rows[:3], golden["first_rows"])
+
+        degradation_fixture_id = (
+            golden_attachment_id
+            if golden_attachment_id in attachments
+            else sorted(attachments)[0]
+        )
+
+        with (
+            mock.patch("pdfminer.high_level.extract_pages", return_value=[mock.Mock()]),
+            mock.patch(
+                "krx_rule_markdown.converters.pdf_comparison.comparison_boundaries",
+                return_value=[],
+            ),
+        ):
+            degraded = classify_comparison_pdf(
+                attachments[degradation_fixture_id], degradation_fixture_id
+            )
+        self.assertEqual(degraded.status, "degraded")
+
+    def test_pdf_comparison_apply_failure_keeps_active_generation(self) -> None:
+        ids = ["210220231-210220236-pdf", "210221769-210221771-pdf"]
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            bundle = "ko/notices/atomic-comparison"
+            attachments = []
+            for index, attachment_id in enumerate(ids, start=1):
+                raw_path = f"{bundle}/raw/{index}.pdf"
+                text_path = f"{bundle}/attachments/{index}.md"
+                (root / raw_path).parent.mkdir(parents=True, exist_ok=True)
+                (root / raw_path).write_bytes(b"%PDF-1.4\nfixture")
+                (root / text_path).parent.mkdir(parents=True, exist_ok=True)
+                (root / text_path).write_text("last known good", encoding="utf-8")
+                attachments.append(
+                    Attachment(
+                        id=attachment_id,
+                        title=attachment_id,
+                        file_name=f"{index}.pdf",
+                        raw_path=raw_path,
+                        text_path=text_path,
+                        status=ATTACHMENT_CONVERTED,
+                        preservation_status="preserved",
+                        searchable=True,
+                        converter_version=CONVERTER_VERSION,
+                    )
+                )
+            doc = Document(
+                id="atomic-comparison",
+                title="atomic comparison",
+                source_url="https://rule.krx.co.kr/out/pds/pdsViewPop.do",
+                document_type="notice",
+                collected_at="2026-07-01T00:00:00Z",
+                body="notice body",
+                attachments=attachments,
+            )
+            write_document(root, doc)
+            write_sync_manifest(root, [doc], [], "https://rule.krx.co.kr")
+            before = snapshot_files(root)
+            active_inode = root.stat().st_ino
+
+            def classify(_path: Path, attachment_id: str) -> ComparisonClassification:
+                return ComparisonClassification(
+                    attachment_id,
+                    KNOWN_COMPARISON_PDFS[attachment_id],
+                    "restored",
+                )
+
+            def convert(_raw: Path, text_path: Path, attachment: Attachment) -> Attachment:
+                if attachment.id == ids[0]:
+                    text_path.write_text("partially migrated", encoding="utf-8")
+                    return attachment
+                attachment.status = ATTACHMENT_FAILED
+                attachment.text_path = ""
+                return attachment
+
+            with (
+                mock.patch("krx_rule_markdown.pdf_migration.classify_comparison_pdf", side_effect=classify),
+                mock.patch("krx_rule_markdown.pdf_migration.convert_attachment", side_effect=convert),
+                self.assertRaisesRegex(CorpusMutationError, "PDF comparison migration aborted"),
+            ):
+                migrate_pdf_comparisons(root, apply=True)
+            self.assertEqual(root.stat().st_ino, active_inode)
+            self.assertEqual(snapshot_files(root), before)
+
+    def test_reconvert_current_corpus_is_byte_identical_on_repeat(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            bundle = "ko/rules/reconvert-noop"
+            raw_path = f"{bundle}/raw/source.txt"
+            text_path = f"{bundle}/attachments/source.md"
+            (root / raw_path).parent.mkdir(parents=True)
+            (root / raw_path).write_text("stable source", encoding="utf-8")
+            (root / text_path).parent.mkdir(parents=True)
+            (root / text_path).write_text("stable source\n", encoding="utf-8")
+            doc = Document(
+                id="reconvert-noop",
+                title="reconvert noop",
+                source_url="https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+                document_type="rule",
+                collected_at="2026-07-01T00:00:00Z",
+                body="body",
+                attachments=[
+                    Attachment(
+                        id="reconvert-noop-att",
+                        title="source",
+                        file_name="source.txt",
+                        raw_path=raw_path,
+                        text_path=text_path,
+                        status=ATTACHMENT_CONVERTED,
+                        preservation_status="preserved",
+                        searchable=True,
+                        converter_version=CONVERTER_VERSION,
+                    )
+                ],
+            )
+            write_document(root, doc)
+            write_sync_manifest(root, [doc], [], "https://rule.krx.co.kr")
+            before = snapshot_files(root)
+            first = reconvert_data(root)
+            middle = snapshot_files(root)
+            second = reconvert_data(root)
+            self.assertEqual((first.converted, first.skipped), (0, 1))
+            self.assertEqual((second.converted, second.skipped), (0, 1))
+            self.assertEqual(middle, before)
+            self.assertEqual(snapshot_files(root), before)
+
+    def test_public_metadata_and_source_request_are_strict_and_bounded(self) -> None:
+        invalid_urls = (
+            "file:///etc/passwd",
+            "/home/user/private",
+            "https://user:password@rule.krx.co.kr/rule",
+            "https://rule.krx.co.kr/%0aheader",
+        )
+        for source_url in invalid_urls:
+            with self.subTest(source_url=source_url), tempfile.TemporaryDirectory() as tmp:
+                root = Path(tmp)
+                write_document(
+                    root,
+                    Document(
+                        id="unsafe-url",
+                        title="unsafe url",
+                        source_url=source_url,
+                        document_type="rule",
+                        collected_at="2026-07-01T00:00:00Z",
+                        body="body",
+                    ),
+                )
+                self.assertIn("source_url must be absolute HTTP(S)", "\n".join(validate_data(root)))
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            bundle = "ko/rules/source-request"
+            source_path = f"{bundle}/raw/source.html"
+            request_path = f"{bundle}/raw/request.json"
+            source = "<p>official source</p>"
+            source_hash = canonical_text_hash(source)
+            (root / source_path).parent.mkdir(parents=True)
+            (root / source_path).write_text(source, encoding="utf-8")
+            doc = Document(
+                id="source-request",
+                title="source request",
+                source_url="https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+                document_type="rule",
+                collected_at="2026-07-01T00:00:00Z",
+                body="body",
+                source_content_hash=source_hash,
+                source_content_path=source_path,
+                source_request_path=request_path,
+            )
+            write_document(root, doc)
+            valid_prefix = (
+                '{"endpoint":"/out/regulation/regulationViewPop.do",'
+                '"bookid":"source-request","noformyn":"N",'
+            )
+            deeply_nested: object = []
+            for _ in range(66):
+                deeply_nested = [deeply_nested]
+            cases = {
+                "duplicate field": (
+                    '{"endpoint":"/out/regulation/regulationViewPop.do",'
+                    '"endpoint":"/out/regulation/regulationViewPop.do",'
+                    '"bookid":"source-request","noformyn":"N",'
+                    f'"source_content_hash":"{source_hash}"}}'
+                ),
+                "unknown field": valid_prefix
+                + f'"source_content_hash":"{source_hash}","headers":"secret"}}',
+                "does not match document": valid_prefix
+                + f'"source_content_hash":"{"0" * 64}"}}',
+                "nesting exceeds 64": json.dumps({"endpoint": deeply_nested}),
+            }
+            for expected, request in cases.items():
+                with self.subTest(request_error=expected):
+                    (root / request_path).write_text(request, encoding="utf-8")
+                    self.assertIn(expected, "\n".join(validate_data(root)))
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            index = root / "ko/rules/oversized/index.md"
+            index.parent.mkdir(parents=True)
+            with index.open("wb") as file:
+                file.truncate(64 * 1024 * 1024 + 1)
+            self.assertIn("file exceeds", "\n".join(validate_data(root)))
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            write_document(
+                root,
+                Document(
+                    id="oversized-manifest",
+                    title="oversized manifest",
+                    source_url="https://rule.krx.co.kr/out/regulation/regulationViewPop.do",
+                    document_type="rule",
+                    collected_at="2026-07-01T00:00:00Z",
+                    body="body",
+                ),
+            )
+            with (root / "manifest.json").open("wb") as file:
+                file.truncate(64 * 1024 * 1024 + 1)
+            self.assertIn("file exceeds", "\n".join(validate_data(root, release_mode=True)))
+
+    def test_html_preserves_inline_boundaries_and_excludes_active_content(self) -> None:
+        html = """
+        <p>제1조 <span>목적</span> 및 <b>범위</b><br>다음 문장</p>
+        <script>SEARCH_POISON</script><style>.hidden { content: 'POISON'; }</style>
+        """
+        converted = html_to_markdown(html)
+        self.assertIn("제1조 목적 및 **범위**\n다음 문장", converted)
+        self.assertNotIn("SEARCH_POISON", converted)
+        self.assertNotIn("POISON", converted)
+
+        sanitized = sanitize_source_html(
+            '<meta name="_csrf" content="secret"><input name="_csrf" value="secret">'
+            '<script>secret</script><p>보존 본문</p>'
+        )
+        self.assertEqual(sanitized, "<p>보존 본문</p>")
+
+    def test_writer_lock_and_atomic_generation_exchange(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            data_dir = root / "data"
+            with WriterLock(data_dir, "first"):
+                with self.assertRaises(WriterLockError):
+                    with WriterLock(data_dir, "second"):
+                        pass
+            lock_path = root / ".data.writer.lock"
+            lock_path.write_text(
+                json.dumps({"pid": 999999, "host": "terminated-other-host", "operation": "old"}),
+                encoding="utf-8",
+            )
+            with WriterLock(data_dir, "after-crash"):
+                pass
+
+            left = root / "left"
+            right = root / "right"
+            left.mkdir()
+            right.mkdir()
+            (left / "generation").write_text("old", encoding="utf-8")
+            (right / "generation").write_text("new", encoding="utf-8")
+            atomic_exchange_paths(left, right)
+            self.assertEqual((left / "generation").read_text(encoding="utf-8"), "new")
+            self.assertEqual((right / "generation").read_text(encoding="utf-8"), "old")
+
+    def test_staging_rejects_external_file_and_directory_symlinks_before_mutation(self) -> None:
+        for link_kind in ("file", "directory"):
+            with self.subTest(link_kind=link_kind), tempfile.TemporaryDirectory() as tmp:
+                root = Path(tmp)
+                data_dir = root / "data"
+                data_dir.mkdir()
+                sentinel = data_dir / "sentinel"
+                sentinel.write_text("active generation", encoding="utf-8")
+                if link_kind == "file":
+                    external = root / "external-secret.txt"
+                    external.write_text("external secret", encoding="utf-8")
+                    link = data_dir / "escaped-file"
+                else:
+                    external = root / "external-directory"
+                    external.mkdir()
+                    (external / "secret.txt").write_text("external secret", encoding="utf-8")
+                    link = data_dir / "escaped-directory"
+                link.symlink_to(external, target_is_directory=link_kind == "directory")
+                active_inode = data_dir.stat().st_ino
+                callback_called = False
+
+                def mutate(staging: Path) -> None:
+                    nonlocal callback_called
+                    callback_called = True
+                    (staging / "sentinel").write_text("mutated", encoding="utf-8")
+
+                with self.assertRaisesRegex(CorpusMutationError, "contains a symlink"):
+                    mutate_staged_corpus(data_dir, "symlink-test", mutate)
+
+                self.assertFalse(callback_called)
+                self.assertEqual(data_dir.stat().st_ino, active_inode)
+                self.assertEqual(sentinel.read_text(encoding="utf-8"), "active generation")
+                self.assertTrue(link.is_symlink())
+                external_secret = external if link_kind == "file" else external / "secret.txt"
+                self.assertEqual(external_secret.read_text(encoding="utf-8"), "external secret")
+
+    def test_staged_mutation_validation_failure_keeps_active_generation(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            data_dir = Path(tmp) / "data"
+            data_dir.mkdir()
+            (data_dir / "sentinel").write_text("old", encoding="utf-8")
+
+            def mutate(staging: Path) -> str:
+                (staging / "sentinel").write_text("new", encoding="utf-8")
+                return "mutated"
+
+            with mock.patch("krx_rule_markdown.validate.validate_data", return_value=["injected"]):
+                with self.assertRaises(CorpusMutationError):
+                    mutate_staged_corpus(data_dir, "test", mutate)
+            self.assertEqual((data_dir / "sentinel").read_text(encoding="utf-8"), "old")
+
+    def test_conversion_failure_keeps_last_known_good_bytes_and_records_failure(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            raw_path = root / "broken.pdf"
+            out_path = root / "converted.md"
+            raw_path.write_bytes(b"not a pdf")
+            original = b"last known good\n"
+            out_path.write_bytes(original)
+            attachment = Attachment(
+                id="att-lkg",
+                title="LKG",
+                file_name="broken.pdf",
+                text_path=str(out_path),
+                status=ATTACHMENT_CONVERTED,
+                converter_version=CONVERTER_VERSION,
+            )
+
+            result = convert_attachment(raw_path, out_path, attachment)
+
+            self.assertEqual(out_path.read_bytes(), original)
+            self.assertEqual(result.status, ATTACHMENT_CONVERTED)
+            self.assertTrue(result.last_refresh_error)
+            self.assertTrue(result.last_refresh_failed_at)
+            self.assertIn("stale_due_to_refresh_failure", result.quality_codes)
+
+    def test_strict_validation_rejects_status_hash_symlink_and_global_ids(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            raw_relative = "ko/rules/strict/raw/source.bin"
+            text_relative = "ko/rules/strict/attachments/source.md"
+            link_relative = "ko/rules/strict/raw/escape.bin"
+            doc = Document(
+                id="duplicate-id",
+                title="strict",
+                source_url="https://example.test/strict",
+                document_type="rule",
+                collected_at="2026-07-01T00:00:00Z",
+                body="strict body",
+                content_hash=hash_text("strict\nstrict body"),
+                attachments=[
+                    Attachment(
+                        id="duplicate-attachment",
+                        title="bad hashes",
+                        file_name="source.bin",
+                        raw_path=raw_relative,
+                        text_path=text_relative,
+                        raw_file_hash="0" * 64,
+                        converted_text_hash="0" * 64,
+                        status="unknown-status",
+                    ),
+                    Attachment(
+                        id="escape-attachment",
+                        title="symlink",
+                        file_name="escape.bin",
+                        raw_path=link_relative,
+                        raw_file_hash="0" * 64,
+                        status=ATTACHMENT_FAILED,
+                    ),
+                ],
+            )
+            write_document(root, doc)
+            (root / raw_relative).parent.mkdir(parents=True, exist_ok=True)
+            (root / raw_relative).write_bytes(b"actual raw")
+            (root / text_relative).parent.mkdir(parents=True, exist_ok=True)
+            (root / text_relative).write_text("actual converted", encoding="utf-8")
+            outside = root / "outside.bin"
+            outside.write_bytes(b"outside")
+            (root / link_relative).symlink_to(outside)
+
+            english = Document(
+                id="duplicate-id",
+                title="strict english",
+                source_url="https://example.test/strict-en",
+                document_type="rule",
+                language="en",
+                collected_at="2026-07-01T00:00:00Z",
+                body="strict english body",
+                content_hash=hash_text("strict english\nstrict english body"),
+                attachments=[Attachment(id="duplicate-attachment", status=ATTACHMENT_FAILED)],
+            )
+            write_document(root, english)
+
+            errors = "\n".join(validate_data(root))
+            self.assertIn("duplicate_document_id", errors)
+            self.assertIn("duplicate_attachment_id", errors)
+            self.assertIn("invalid conversion_status", errors)
+            self.assertIn("raw_file_hash_mismatch", errors)
+            self.assertIn("converted_text_hash_mismatch", errors)
+            self.assertIn("symlink paths are forbidden", errors)
+            self.assertIn("path_outside_data_root", errors)
+
+    def test_strict_validation_rejects_invalid_utf8_converted_text(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            raw_relative = "ko/rules/utf-8/raw/source.bin"
+            text_relative = "ko/rules/utf-8/attachments/source.md"
+            doc = Document(
+                id="utf-8",
+                title="utf 8",
+                source_url="https://example.test/utf-8",
+                document_type="rule",
+                collected_at="2026-07-01T00:00:00Z",
+                body="body",
+                content_hash=hash_text("utf 8\nbody"),
+                attachments=[
+                    Attachment(
+                        id="utf-8-att",
+                        raw_path=raw_relative,
+                        text_path=text_relative,
+                        raw_file_hash=hash_text("raw"),
+                        converted_text_hash="0" * 64,
+                        status=ATTACHMENT_CONVERTED,
+                    )
+                ],
+            )
+            write_document(root, doc)
+            (root / raw_relative).parent.mkdir(parents=True, exist_ok=True)
+            (root / raw_relative).write_bytes(b"raw")
+            (root / text_relative).parent.mkdir(parents=True, exist_ok=True)
+            (root / text_relative).write_bytes(b"valid prefix\xffinvalid")
+            errors = "\n".join(validate_data(root))
+        self.assertIn("invalid UTF-8", errors)
+
+    def test_document_and_attachment_ids_share_one_global_namespace(self) -> None:
+        doc = Document(
+            id="same-id",
+            title="global id",
+            source_url="https://example.test/global-id",
+            document_type="rule",
+            collected_at="2026-07-01T00:00:00Z",
+            body="body",
+            attachments=[Attachment(id="same-id", status=ATTACHMENT_FAILED)],
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            write_document(root, doc)
+            errors = "\n".join(validate_data(root))
+        self.assertIn("duplicate_attachment_id same-id", errors)
+
+    def test_release_quality_gate_requires_explicit_failure_allowlist(self) -> None:
+        doc = Document(
+            id="rule-failed",
+            title="failed attachment rule",
+            source_url="https://example.test/failed",
+            document_type="rule",
+            collected_at="2026-07-01T00:00:00Z",
+            body="body",
+            content_hash=hash_text("failed attachment rule\nbody"),
+            attachments=[
+                Attachment(
+                    id="known-deletion",
+                    status=ATTACHMENT_FAILED,
+                    error="deleted form",
+                    raw_path="ko/rules/failed-attachment-rule/raw/deleted.bin",
+                    preservation_status="preserved",
+                    searchable=False,
+                )
+            ],
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            raw = root / "ko/rules/failed-attachment-rule/raw/deleted.bin"
+            raw.parent.mkdir(parents=True)
+            raw.write_bytes(b"preserved raw")
+            write_document(root, doc)
+            blocked = audit_data_quality(root, release_gate=True)
+            allowed = audit_data_quality(root, release_gate=True, allowed_failure_ids={"known-deletion"})
+        self.assertTrue(
+            any(item["severity"] == "error" and item["code"] == "required_conversion_failed" for item in blocked["issues"])
+        )
+        self.assertFalse(any(item["severity"] == "error" for item in allowed["issues"]))
+
+    def test_quality_update_gate_does_not_publish_failed_release(self) -> None:
+        doc = Document(
+            id="quality-gate",
+            title="quality gate",
+            source_url="https://example.test/quality-gate",
+            document_type="rule",
+            collected_at="2026-07-01T00:00:00Z",
+            body="body",
+            attachments=[
+                Attachment(
+                    id="failed-new-attachment",
+                    status=ATTACHMENT_FAILED,
+                    searchable=False,
+                    error="conversion failed",
+                )
+            ],
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            index = write_document(root, doc)
+            write_sync_manifest(root, [doc], [], "https://example.test")
+            original_index = index.read_bytes()
+            original_manifest = (root / "manifest.json").read_bytes()
+            with self.assertRaises(CorpusMutationError):
+                audit_data_quality(
+                    root,
+                    update_metadata=True,
+                    release_gate=True,
+                    fail_on="error",
+                )
+            self.assertEqual(index.read_bytes(), original_index)
+            self.assertEqual((root / "manifest.json").read_bytes(), original_manifest)
+
+    def test_hwpx_zip_bomb_ratio_is_rejected(self) -> None:
+        buf = io.BytesIO()
+        with zipfile.ZipFile(buf, "w", compression=zipfile.ZIP_DEFLATED) as archive:
+            archive.writestr("Contents/section0.xml", "<body>" + ("A" * 1_000_000) + "</body>")
+        with self.assertRaisesRegex(ConversionError, "compression ratio"):
+            extract_hwpx(buf.getvalue())
+
+    def test_sparse_comparison_and_unresolved_image_diagnostics(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            pdf_path = root / "amendment.pdf"
+            pdf_path.write_bytes(b"%PDF-placeholder")
+            with mock.patch(
+                "krx_rule_markdown.converters.inspection.count_pdf_pages",
+                return_value=(7, ""),
+            ):
+                sparse, searchable = inspect_converted_source(pdf_path, "이미지 PDF")
+                comparison, comparison_searchable = inspect_converted_source(
+                    pdf_path,
+                    ("현행 조문 개정안 조문 " * 100),
+                )
+            self.assertFalse(searchable)
+            self.assertIn("pdf_text_layer_too_sparse", {item.code for item in sparse})
+            self.assertTrue(comparison_searchable)
+            self.assertIn("pdf_comparison_structure_lost", {item.code for item in comparison})
+
+            hwpx_path = root / "picture.hwpx"
+            with zipfile.ZipFile(hwpx_path, "w") as archive:
+                archive.writestr("BinData/image.png", b"\x89PNG\r\n\x1a\n")
+            image_diagnostics, _ = inspect_converted_source(hwpx_path, "searchable text")
+            self.assertIn("hwp_picture_missing", {item.code for item in image_diagnostics})
+
+            html_outcome = convert_bytes_outcome(
+                Path("source.html"),
+                b'<p>body</p><img src="/dataFile/law/img/important.png">',
+            )
+            self.assertIn("inline_image_missing", html_outcome.quality_codes)
+            self.assertIn("image_content_unindexed", html_outcome.quality_codes)
+
+    def test_hwp_fallback_reason_is_preserved_as_diagnostic(self) -> None:
+        with (
+            mock.patch.dict("sys.modules", {"hwp5": mock.Mock()}),
+            mock.patch(
+                "krx_rule_markdown.converters.hwp.extract_hwp_layout",
+                side_effect=RuntimeError("layout failed"),
+            ),
+            mock.patch("krx_rule_markdown.converters.hwp.runpy.run_module", side_effect=SystemExit(0)),
+            mock.patch("krx_rule_markdown.converters.hwp.extract_hwp_preview", return_value="preview fallback"),
+            mock.patch(
+                "krx_rule_markdown.converters.hwp.extract_hwp_equations_with_error",
+                return_value=([], ""),
+            ),
+        ):
+            text, diagnostics = extract_hwp_with_diagnostics(Path("fixture.hwp"))
+        self.assertEqual(text, "preview fallback")
+        self.assertIn("source_inspection_failed", {item.code for item in diagnostics})
+        self.assertTrue(any("primary layout extraction failed" in item.message for item in diagnostics))
+
+    def test_formula_source_mismatch_is_integrity_error_and_missing_math_is_warning(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            raw_relative = "ko/rules/formula/raw/formula.hwp"
+            text_relative = "ko/rules/formula/attachments/formula.md"
+            raw_path = root / raw_relative
+            text_path = root / text_relative
+            raw_path.parent.mkdir(parents=True)
+            text_path.parent.mkdir(parents=True)
+            raw_path.write_bytes(b"fake hwp fixture")
+            text_path.write_text("plain converted text", encoding="utf-8")
+            doc = Document(
+                id="formula",
+                title="formula",
+                source_url="https://example.test/formula",
+                document_type="rule",
+                collected_at="2026-07-01T00:00:00Z",
+                body="body",
+                attachments=[
+                    Attachment(
+                        id="formula-att",
+                        raw_path=raw_relative,
+                        text_path=text_relative,
+                        status=ATTACHMENT_CONVERTED,
+                    )
+                ],
+            )
+            write_document(root, doc)
+            with mock.patch(
+                "krx_rule_markdown.quality.hwp_structure_counts",
+                return_value=(0, 0, 1, ""),
+            ):
+                errors = "\n".join(validate_data(root))
+                quality = inspect_attachment_quality(
+                    "```hwp-equation\nA=B\n```",
+                    raw_path,
+                )
+        self.assertIn("formula_source_count_mismatch", errors)
+        self.assertIn("formula_generated_latex_invalid", quality.flags)
+
+    def test_redirect_escape_and_signature_mismatch_are_rejected(self) -> None:
+        handler = SameHostRedirectHandler("rule.krx.co.kr", "https")
+        request = urlrequest.Request("https://rule.krx.co.kr/source")
+        with self.assertRaises(urlerror.HTTPError):
+            handler.redirect_request(
+                request,
+                None,
+                302,
+                "Found",
+                {},
+                "https://evil.example/escape",
+            )
+        with self.assertRaisesRegex(RuntimeError, "not a PDF"):
+            validate_download(Attachment(id="pdf", file_name="rule.pdf"), b"<not-pdf>")
+
+    def test_sync_run_report_is_failed_when_staged_validation_fails(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            data_dir = root / "data"
+            data_dir.mkdir()
+            (data_dir / "sentinel").write_text("old release", encoding="utf-8")
+            with (
+                mock.patch.object(SyncRunner, "run", return_value=0),
+                mock.patch("krx_rule_markdown.sync.validate_data", return_value=["injected staged error"]),
+            ):
+                result = sync_rules(
+                    data_dir=data_dir,
+                    base_url="https://rule.krx.co.kr",
+                    limit=0,
+                    recent_only=False,
+                    rule_id="",
+                    download_attachments=False,
+                    language="all",
+                )
+            report = json.loads((root / ".krx-rule-runs" / "latest.json").read_text(encoding="utf-8"))
+            self.assertEqual(result, 1)
+            self.assertEqual(report["result"], "failed")
+            self.assertEqual((data_dir / "sentinel").read_text(encoding="utf-8"), "old release")
+
+    def test_english_file_not_found_keeps_lkg_and_records_run_failure(self) -> None:
+        class MissingEnglishClient:
+            def download_rule_file(self, item, filecd, title):
+                raise FileNotFoundError("official English file disappeared")
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            previous = Document(
+                id="rule-1-en",
+                title="Previous English",
+                source_url="https://example.test/rule-1",
+                document_type="rule",
+                language="en",
+                source_id="rule-1",
+                collected_at="2026-06-01T00:00:00Z",
+                body="last known good English body",
+            )
+            write_document(root, previous)
+            korean = Document(
+                id="rule-1",
+                title="한국어 규정",
+                source_url="https://example.test/rule-1",
+                document_type="rule",
+                collected_at="2026-07-01T00:00:00Z",
+                body="한국어 본문",
+            )
+            runner = SyncRunner(
+                data_dir=root,
+                base_url="https://rule.krx.co.kr",
+                limit=0,
+                recent_only=False,
+                rule_id="",
+                download_attachments=False,
+                language="all",
+            )
+            runner.client = MissingEnglishClient()
+            runner.existing_docs[("en", "rule", "rule-1-en")] = previous
+            runner.write_english_document(
+                Item(id="rule-1", book_id="rule-1", title="한국어 규정", document_type="rule"),
+                korean,
+            )
+        self.assertEqual(runner.manifest_docs[0].body, "last known good English body")
+        self.assertIn("stale_due_to_refresh_failure", runner.manifest_docs[0].quality_codes)
+        self.assertEqual(runner.run_provenance[-1]["outcome"], "stale")
+        self.assertTrue(runner.run_provenance[-1]["failed_at"])
+        self.assertIn("disappeared", runner.run_provenance[-1]["error"])
+
+    def test_sync_optional_failure_requires_named_id_and_preserved_raw(self) -> None:
+        class BrokenAttachmentClient:
+            def download_attachment(self, attachment):
+                return attachment, b"not a real PDF"
+
+        attachment = Attachment(
+            id="optional-pdf",
+            title="optional",
+            file_name="optional.pdf",
+            server_file="optional.pdf",
+            source_url="/Download.do",
+        )
+        document = Document(
+            id="rule-optional",
+            title="optional rule",
+            source_url="https://example.test/optional",
+            document_type="rule",
+            collected_at="2026-07-01T00:00:00Z",
+            body="body",
+            attachments=[attachment],
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            allowed_runner = SyncRunner(
+                data_dir=Path(tmp),
+                base_url="https://rule.krx.co.kr",
+                limit=0,
+                recent_only=False,
+                rule_id="",
+                download_attachments=True,
+                language="ko",
+                allowed_failure_ids={"optional-pdf"},
+            )
+            allowed_runner.client = BrokenAttachmentClient()
+            converted = allowed_runner.download_and_convert_attachments(document)
+            self.assertEqual(allowed_runner.required_failures, [])
+            self.assertEqual(converted[0].status, ATTACHMENT_FAILED)
+            self.assertEqual(converted[0].preservation_status, "preserved")
+            self.assertFalse(converted[0].searchable)
+            self.assertTrue((Path(tmp) / converted[0].raw_path).is_file())
+
+        with tempfile.TemporaryDirectory() as tmp:
+            strict_runner = SyncRunner(
+                data_dir=Path(tmp),
+                base_url="https://rule.krx.co.kr",
+                limit=0,
+                recent_only=False,
+                rule_id="",
+                download_attachments=True,
+                language="ko",
+            )
+            strict_runner.client = BrokenAttachmentClient()
+            strict_runner.download_and_convert_attachments(document)
+            self.assertTrue(strict_runner.required_failures)
+
+    def test_release_validation_requires_v2_manifest_and_integrity_hashes(self) -> None:
+        doc = Document(
+            id="release",
+            title="release",
+            source_url="https://example.test/release",
+            document_type="rule",
+            collected_at="2026-07-01T00:00:00Z",
+            body="body",
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            write_document(root, doc)
+            missing = "\n".join(validate_data(root, release_mode=True))
+            self.assertIn("release manifest is required", missing)
+            write_sync_manifest(root, [doc], [], "https://example.test")
+            self.assertEqual(validate_data(root, release_mode=True), [])
+            payload = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
+            payload.pop("index_source_hash")
+            (root / "manifest.json").write_text(json.dumps(payload), encoding="utf-8")
+            stale = "\n".join(validate_data(root, release_mode=True))
+        self.assertIn("index_source_hash is required for release", stale)
+        self.assertIn("release_hash mismatch", stale)
+
+    def test_release_rejects_v1_document_and_failed_required_source(self) -> None:
+        doc = Document(
+            id="legacy-release",
+            title="legacy release",
+            source_url="https://example.test/legacy-release",
+            document_type="rule",
+            collected_at="2026-07-01T00:00:00Z",
+            body="body",
+            schema_version=1,
+            preservation_status="failed",
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            write_document(root, doc)
+            write_sync_manifest(root, [doc], [], "https://example.test")
+            errors = "\n".join(validate_data(root, release_mode=True))
+        self.assertIn("schema_version 2 is required for release document", errors)
+        self.assertIn("schema-v2 document entry is required", errors)
+        self.assertIn("required_source_missing", errors)
+
+
+def snapshot_files(root: Path) -> dict[str, bytes]:
+    return {
+        path.relative_to(root).as_posix(): path.read_bytes()
+        for path in sorted(root.rglob("*"))
+        if path.is_file()
+    }
 
 
 class FakeClient:

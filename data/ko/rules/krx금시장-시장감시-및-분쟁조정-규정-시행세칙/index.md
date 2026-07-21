@@ -1,25 +1,42 @@
 ---
+schema_version: 2
 id: "204847757"
 title: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:14:09.606544Z"
-content_hash: "3063cdd3d0cdb38ad2ea2338e47f235b18e8a723a074d6a21a529e550ca6f90b"
+collected_at: "2026-07-12T08:01:45.152615Z"
+content_hash: "5453c402635f53405569fb06db4047306f38375026070c1934177b5fe693d6cc"
+body_hash: "5f3b10bc3958ccc3be4daecdd9b91e063c163433319c192b0b7997096e30067d"
 document_type: "rule"
 language: "ko"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 시장감시규정"
 effective_date: "2024-10-16"
 published_date: "2024-10-15"
+source_content_hash: "ce5df148b57ba9d3052ddc40209f0e0b99b45b36871cc51f6709c40cd2035ae0"
+source_content_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/source.html"
+source_request_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/request.json"
+converter_version: "2"
+asset_inspection_version: "1"
+preservation_status: "preserved"
 attachments:
   - id: "204847757-202410150000022550000233001-byl-hwp"
     title: "[별표 1] 회원제재금 부과기준"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_회원제재금부과기준.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233001_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별표-1-회원제재금-부과기준.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별표-1-회원제재금-부과기준.md"
     content_hash: "871e7f4d80985f6cc1bceb56b0defac884eb54605d3f0173b5c3c1be382097ca"
+    raw_file_hash: "871e7f4d80985f6cc1bceb56b0defac884eb54605d3f0173b5c3c1be382097ca"
+    converted_text_hash: "d25b970cfd7c0ec6790b641208f50c0a34502c8fd76c96c3eb65826440dd1b32"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 43520
     quality_status: "ok"
     quality_score: 100
@@ -30,12 +47,19 @@ attachments:
     title: "[별지 제1호 서식] 공정거래질서저해우려 풍문 또는 이상거래 징후·현상 보고"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_공정거래질서저해우려풍문또는이상거래징후·현상보고.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233002_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제1호-서식-공정거래질서저해우려-풍문-또는-이상거래-징후현상-보고.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제1호-서식-공정거래질서저해우려-풍문-또는-이상거래-징후현상-보고.md"
     content_hash: "128ac672ed26eecc7a665238531ed0243d6e093f60279a6ec4f091fa03d23a23"
+    raw_file_hash: "128ac672ed26eecc7a665238531ed0243d6e093f60279a6ec4f091fa03d23a23"
+    converted_text_hash: "3688784af8ac64c09ffa0a042b802c2ed9728498d898632e9581b300fed6d645"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 32768
     quality_status: "ok"
     quality_score: 100
@@ -46,12 +70,19 @@ attachments:
     title: "[별지 제2호 서식] 민원·분쟁현황 및 처리결과 보고"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_민원·분쟁현황및처리결과보고.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233003_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제2호-서식-민원분쟁현황-및-처리결과-보고.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제2호-서식-민원분쟁현황-및-처리결과-보고.md"
     content_hash: "c0a4f5ba1dca91aefe343715a3bad69287fb58cdc82e119e8ffd8165fea86517"
+    raw_file_hash: "c0a4f5ba1dca91aefe343715a3bad69287fb58cdc82e119e8ffd8165fea86517"
+    converted_text_hash: "0dab7a95b4567fbabcc2e8fe44becb21258ac7c66b4ca3b51c25a435397066a6"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 41984
     quality_status: "ok"
     quality_score: 100
@@ -62,12 +93,19 @@ attachments:
     title: "[별지 제3호 서식] 심리·감리 회피신청서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_심리·감리회피신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233004_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제3호-서식-심리감리-회피신청서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제3호-서식-심리감리-회피신청서.md"
     content_hash: "fc20f04786faf62fe49f05791a8b98c892fa299465f20a5078aaea8fe820b989"
+    raw_file_hash: "fc20f04786faf62fe49f05791a8b98c892fa299465f20a5078aaea8fe820b989"
+    converted_text_hash: "0a536fd2785c9d091b6d16a9a32c4c251e48dc7773474554f7a0ce1c39c10199"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 30720
     quality_status: "ok"
     quality_score: 100
@@ -78,12 +116,19 @@ attachments:
     title: "[별지 제4호 서식] 위탁자 기본정보 현황"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_위탁자기본정보현황.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233005_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제4호-서식-위탁자-기본정보-현황.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제4호-서식-위탁자-기본정보-현황.md"
     content_hash: "34e6098b38a9f55c35921ca0bedd9403a0acb7ec6c20ed7e54cc2be6fd6d1d65"
+    raw_file_hash: "34e6098b38a9f55c35921ca0bedd9403a0acb7ec6c20ed7e54cc2be6fd6d1d65"
+    converted_text_hash: "d13e160aaa4cf47f4ba93a3e97efaaa57b771c64b25fcbe9093b5f815b27dd84"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 44544
     quality_status: "ok"
     quality_score: 100
@@ -94,12 +139,19 @@ attachments:
     title: "[별지 제5호 서식] 출석요청서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_출석요청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233006_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제5호-서식-출석요청서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제5호-서식-출석요청서.md"
     content_hash: "7012e93bd77ea492a30d46d87246d0df735afb28fc6ba96c4a24935a4b4e6372"
+    raw_file_hash: "7012e93bd77ea492a30d46d87246d0df735afb28fc6ba96c4a24935a4b4e6372"
+    converted_text_hash: "e394ed5c325df225abd951798c79343a6516f373e9c91c30563435c7eaed7af1"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 36352
     quality_status: "ok"
     quality_score: 100
@@ -110,12 +162,19 @@ attachments:
     title: "[별지 제6호 서식] 확인서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_확인서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233007_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제6호-서식-확인서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제6호-서식-확인서.md"
     content_hash: "05806d9d136dbb8d0c93e8efa255843a2ecb29848ab11b8b86653ab9575e7298"
+    raw_file_hash: "05806d9d136dbb8d0c93e8efa255843a2ecb29848ab11b8b86653ab9575e7298"
+    converted_text_hash: "93e7259efe9c9cbe3d0b82eea313a189f8801e066467ce142b6113f026d83ed3"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 28160
     quality_status: "ok"
     quality_score: 100
@@ -126,12 +185,19 @@ attachments:
     title: "[별지 제7호 서식] 문답서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_문답서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233008_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제7호-서식-문답서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제7호-서식-문답서.md"
     content_hash: "36fb1a1317840f47c98bb81afc724e90b48bf875334fae0019f1d88ad32fc2dc"
+    raw_file_hash: "36fb1a1317840f47c98bb81afc724e90b48bf875334fae0019f1d88ad32fc2dc"
+    converted_text_hash: "da9ebd1d6f411dc6b664a0c6ea1a21d69ae838b22c6e8c62424425eb8399cfc3"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 33792
     quality_status: "ok"
     quality_score: 100
@@ -142,12 +208,19 @@ attachments:
     title: "[별지 제8호 서식] 질문서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_질문서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233009_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제8호-서식-질문서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제8호-서식-질문서.md"
     content_hash: "2c31beccfc36e3c68b0f1bfba5d12aac4851e181d0a6544bcd883bf2a8fb8f0d"
+    raw_file_hash: "2c31beccfc36e3c68b0f1bfba5d12aac4851e181d0a6544bcd883bf2a8fb8f0d"
+    converted_text_hash: "8feb806526d804bbb0917ad7f921e5f7dc70780cf3767e2ed5a121b68dd60a29"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 18432
     quality_status: "ok"
     quality_score: 100
@@ -158,12 +231,19 @@ attachments:
     title: "[별지 제9호 서식] 감리명령서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_감리명령서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233010_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제9호-서식-감리명령서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제9호-서식-감리명령서.md"
     content_hash: "28c00b5e82b85b52b4422923f2f913ed6d7c45f5a7cf9b7d7b672bdffefd1c68"
+    raw_file_hash: "28c00b5e82b85b52b4422923f2f913ed6d7c45f5a7cf9b7d7b672bdffefd1c68"
+    converted_text_hash: "583236c270c2465ba40b9a3eaa048042ddeadfc77f6226d70a06659b4b9b49ee"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 27136
     quality_status: "ok"
     quality_score: 100
@@ -174,12 +254,19 @@ attachments:
     title: "[별지 제10호 서식] 감리증"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_감리증.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233011_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제10호-서식-감리증.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제10호-서식-감리증.md"
     content_hash: "79e82c7c7f97167c32ba6b6d40f48e841e506158a7b329d9b650c29b4f6105f8"
+    raw_file_hash: "79e82c7c7f97167c32ba6b6d40f48e841e506158a7b329d9b650c29b4f6105f8"
+    converted_text_hash: "0fd187b2974b87a5c589c6758230ce6731a0309f49029901f281f394e1c01145"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 37888
     quality_status: "ok"
     quality_score: 100
@@ -190,12 +277,19 @@ attachments:
     title: "[별지 제11호 서식] 현지조치사항"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_현지조치사항.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233012_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제11호-서식-현지조치사항.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제11호-서식-현지조치사항.md"
     content_hash: "13f45aa6d7e80ba7e7c95effdc840dd414705a5bb11bc1c28afe9b976507dd5a"
+    raw_file_hash: "13f45aa6d7e80ba7e7c95effdc840dd414705a5bb11bc1c28afe9b976507dd5a"
+    converted_text_hash: "4ad565c59cbe71feec57e35918d7bf672c15ec4e28ab90027a59a8dc0292a005"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 31232
     quality_status: "ok"
     quality_score: 100
@@ -206,12 +300,19 @@ attachments:
     title: "[별지 제12호 서식] 회원제재금 부과통지서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_회원제재금부과통지서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233013_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제12호-서식-회원제재금-부과통지서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제12호-서식-회원제재금-부과통지서.md"
     content_hash: "37196eabe047ff9f3c3802b56064bd06a288bdfa39d8e5d175f76090491668cc"
+    raw_file_hash: "37196eabe047ff9f3c3802b56064bd06a288bdfa39d8e5d175f76090491668cc"
+    converted_text_hash: "9b7370e645bccaec3a42c73839661e85d2c85ad362ae16ba41aa1c93415caf15"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 36352
     quality_status: "ok"
     quality_score: 100
@@ -221,12 +322,19 @@ attachments:
     title: "[별지 제13호 서식] 서면의견진술서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_서면의견진술서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233014_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제13호-서식-서면의견진술서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제13호-서식-서면의견진술서.md"
     content_hash: "ae3b301c708bd2f45cad4126a9de7130ad5aa1618d5361745804108f82e5edc0"
+    raw_file_hash: "ae3b301c708bd2f45cad4126a9de7130ad5aa1618d5361745804108f82e5edc0"
+    converted_text_hash: "bf2690ee3dd8ea95fb50f8ed6f8e91af7e813bf4ca38867c10bfc98dd1a5d51d"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 28160
     quality_status: "ok"
     quality_score: 100
@@ -237,12 +345,19 @@ attachments:
     title: "[별지 제14호 서식] 약식제재금 부과통지서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_약식제재금부과통지서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233015_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제14호-서식-약식제재금-부과통지서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제14호-서식-약식제재금-부과통지서.md"
     content_hash: "0f0e7f32463e5ee21da99ecaba57cb5326d8249e68507b32ff95673ef9370a74"
+    raw_file_hash: "0f0e7f32463e5ee21da99ecaba57cb5326d8249e68507b32ff95673ef9370a74"
+    converted_text_hash: "53118047406c1441e2f4ceb21e439c4a01d6a27f1656c3e5a88daf2057ee6be6"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 34816
     quality_status: "ok"
     quality_score: 100
@@ -252,12 +367,19 @@ attachments:
     title: "[별지 제15호 서식] KRX금시장 분쟁조정신청서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_KRX금시장분쟁조정신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233016_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제15호-서식-krx금시장-분쟁조정신청서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제15호-서식-krx금시장-분쟁조정신청서.md"
     content_hash: "1a9ebd1fcfef9f7f6c600a0be7e433b9f010f2213f6ddb8f747ffaec927540fb"
+    raw_file_hash: "1a9ebd1fcfef9f7f6c600a0be7e433b9f010f2213f6ddb8f747ffaec927540fb"
+    converted_text_hash: "bd5898fc87186329bc6fad8dde1f6250021a62598ea13ed8b7462e6c03663614"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 34816
     quality_status: "ok"
     quality_score: 100
@@ -268,12 +390,19 @@ attachments:
     title: "[별지 제16호 서식] KRX금시장 조정신청조서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_KRX금시장조정신청조서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233017_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제16호-서식-krx금시장-조정신청조서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제16호-서식-krx금시장-조정신청조서.md"
     content_hash: "381da6022413e5164ef2db476bfc197e3096b15e8312a5f476b4b496ed68a91a"
+    raw_file_hash: "381da6022413e5164ef2db476bfc197e3096b15e8312a5f476b4b496ed68a91a"
+    converted_text_hash: "9f42a20b4d8c757982d4c0947ecf70230d11f06291f68f99862e51634bc99017"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 35328
     quality_status: "ok"
     quality_score: 100
@@ -284,12 +413,19 @@ attachments:
     title: "[별지 제17호 서식] 위임장"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_위임장.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233018_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제17호-서식-위임장.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제17호-서식-위임장.md"
     content_hash: "ae31a29b617b7a64d1af677f62d81d7c18e7bef9b00c3fbc02f32b73d90524b0"
+    raw_file_hash: "ae31a29b617b7a64d1af677f62d81d7c18e7bef9b00c3fbc02f32b73d90524b0"
+    converted_text_hash: "437a15b0dad5d1559774f6f118c69d3fd90bad36ca87565dba3b184f14bb22ad"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 29696
     quality_status: "ok"
     quality_score: 100
@@ -299,12 +435,19 @@ attachments:
     title: "[별지 제18호 서식] KRX금시장 분쟁조정신청취하서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_KRX금시장분쟁조정신청취하서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233019_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제18호-서식-krx금시장-분쟁조정신청취하서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제18호-서식-krx금시장-분쟁조정신청취하서.md"
     content_hash: "8adbf602c16af4c0acac5540318ca7999e4564acb40f6f297a361cefd7993843"
+    raw_file_hash: "8adbf602c16af4c0acac5540318ca7999e4564acb40f6f297a361cefd7993843"
+    converted_text_hash: "90f8158f25bddcb05b8cdacc748026fd5c6f2cad3b43265efb4e1d1b83812f66"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 33792
     quality_status: "ok"
     quality_score: 100
@@ -315,12 +458,19 @@ attachments:
     title: "[별지 제19호 서식] 제척·기피 신청서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_제척·기피신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233020_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제19호-서식-제척기피-신청서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제19호-서식-제척기피-신청서.md"
     content_hash: "c0c5c4ca49e26ed9a9ca2eef93761a53f096269e5f725eb9f8b3f9fb4812a39e"
+    raw_file_hash: "c0c5c4ca49e26ed9a9ca2eef93761a53f096269e5f725eb9f8b3f9fb4812a39e"
+    converted_text_hash: "49f03a807f53234b280d58b2c0a5d9d4684b7c1473a451b961f32ac7518ab5d8"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 30208
     quality_status: "ok"
     quality_score: 100
@@ -331,12 +481,19 @@ attachments:
     title: "[별지 제20호 서식] 제척사유 부존재 확인서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_제척사유부존재확인서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233021_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제20호-서식-제척사유-부존재-확인서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제20호-서식-제척사유-부존재-확인서.md"
     content_hash: "14f9a5180da0560d30eac3ea20a2f0f166d40b29684562bef137f4fc43c4ad62"
+    raw_file_hash: "14f9a5180da0560d30eac3ea20a2f0f166d40b29684562bef137f4fc43c4ad62"
+    converted_text_hash: "454704f261132682998f47158357ecfe582c0dc528a828af690be004831aad5f"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 30208
     quality_status: "ok"
     quality_score: 100
@@ -347,12 +504,19 @@ attachments:
     title: "[별지 제21호 서식] 회피신청서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_회피신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233022_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제21호-서식-회피신청서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제21호-서식-회피신청서.md"
     content_hash: "1ff3c6f911eb4e2e078da7d907dfed01958da00624faa75167f5251a6e4347fc"
+    raw_file_hash: "1ff3c6f911eb4e2e078da7d907dfed01958da00624faa75167f5251a6e4347fc"
+    converted_text_hash: "567c659d6979269f7a4a67c83571d5ced87a54fba4de6bf239dbd64edc1de690"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 28160
     quality_status: "ok"
     quality_score: 100
@@ -363,12 +527,19 @@ attachments:
     title: "[별지 제22호 서식] 조정결정서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_조정결정서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233023_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제22호-서식-조정결정서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제22호-서식-조정결정서.md"
     content_hash: "98a7fb3a8b5c1d45b4d3a14fa1d090a4c81ba5a293a28b6fc7bfa2e02a0cdbc0"
+    raw_file_hash: "98a7fb3a8b5c1d45b4d3a14fa1d090a4c81ba5a293a28b6fc7bfa2e02a0cdbc0"
+    converted_text_hash: "35069b7077c421258b34f817621044789ecf42a3b830148b4eb14fa80d758a48"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 34816
     quality_status: "ok"
     quality_score: 100
@@ -378,12 +549,19 @@ attachments:
     title: "[별지 제23호 서식] 각하결정서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_각하결정서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233024_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제23호-서식-각하결정서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제23호-서식-각하결정서.md"
     content_hash: "ab559f20c2fbeb3f1246abaad2e4805b2f4c6cd17091207529172b7e68649808"
+    raw_file_hash: "ab559f20c2fbeb3f1246abaad2e4805b2f4c6cd17091207529172b7e68649808"
+    converted_text_hash: "a7a6194ef55bf7b358a0272c1c81d233ed4b3db7a7b788ccfaf788bf3f3d428b"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 24576
     quality_status: "ok"
     quality_score: 100
@@ -393,12 +571,19 @@ attachments:
     title: "[별지 제24호 서식] 조정결정수락서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_조정결정수락서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233025_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제24호-서식-조정결정수락서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제24호-서식-조정결정수락서.md"
     content_hash: "4068b194195951847543d568762ffd175a5f773aafbc4cb5eca3d40660dbd161"
+    raw_file_hash: "4068b194195951847543d568762ffd175a5f773aafbc4cb5eca3d40660dbd161"
+    converted_text_hash: "721f89672ac0b0fc3d97be3708da2b8a19e5a5f1d08cd027d9e73827971e9817"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 25088
     quality_status: "ok"
     quality_score: 100
@@ -408,12 +593,19 @@ attachments:
     title: "[별지 제25호 서식] 조정서"
     file_name: "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙_1차_조정서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410150000022550000233026_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/raw/별지-제25호-서식-조정서.hwp"
     text_path: "ko/rules/krx금시장-시장감시-및-분쟁조정-규정-시행세칙/attachments/별지-제25호-서식-조정서.md"
     content_hash: "4a28e40d5ec43c56e283346286d258442191931f83629a8863159af1074ba369"
+    raw_file_hash: "4a28e40d5ec43c56e283346286d258442191931f83629a8863159af1074ba369"
+    converted_text_hash: "8bce262fbc64797a20b1b7d2b68c584189aa85707187e75ad874e5d6ec6f13b0"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 22528
     quality_status: "ok"
     quality_score: 100
@@ -427,27 +619,27 @@ attachments:
 
 **제2조(정의)**이 세칙에서 사용하는 용어의 정의는 규정이 정하는 바에 의한다.
 
-제2장 시장의 건전성 유지
+ 제2장 시장의 건전성 유지
 
-**제3조(예방조치요구의 대상선정 및 방법 등)**①규정제5조제3항에 따라 시장감시위원회(이하 "위원회"라 한다)는 별도로 정하는 기준에 해당하는 계좌와 관련된 회원에게 서면으로 예방조치요구를 할 수 있다.
+**제3조(예방조치요구의 대상선정 및 방법 등)**① 규정 제5조제3항에 따라 시장감시위원회(이하 "위원회"라 한다)는 별도로 정하는 기준에 해당하는 계좌와 관련된 회원에게 서면으로 예방조치요구를 할 수 있다.
 
 ② 제1항에 따른 예방조치요구를 받은 회원은 위원회가 정하는 바에 따라 해당 위탁자에게 경고, 주문수탁의 거부예고, 주문수탁의 거부 등 불공정거래등의 예방을 위한 적절한 조치를 하여야 한다. 다만, 해당 위탁자의 계좌가 주문의 양태, 종목별 관여율 및 가격변동 등을 감안할 때 불공정거래등에 해당할 우려가 높다고 판단되어 예방조치요구를 받는 경우에는 주문수탁의 거부예고 이상의 조치를 취하여야 한다.
 
 ③ 제1항에 따른 예방조치요구를 받은 회원은 매분기가 종료된 달의 다음달 10일(당일이 「관공서의 공휴일에 관한 규정」에 따른 공휴일 또는 토요일인 경우에는 그 다음 매매거래일로 순연한다) 이내에 그 조치결과를 위원회에 통보하여야 한다.
 
-**제4조(투자유의 안내)**규정제5조제3항에 따라 위원회는 다음 각 호의 어느 하나에 해당하는 경우, 투자자의 피해 예방을 위하여 인터넷 홈페이지 게재 등의 방법으로 투자유의사항 등을 투자자에게 안내할 수 있다.
+**제4조(투자유의 안내)**규정 제5조제3항에 따라 위원회는 다음 각 호의 어느 하나에 해당하는 경우, 투자자의 피해 예방을 위하여 인터넷 홈페이지 게재 등의 방법으로 투자유의사항 등을 투자자에게 안내할 수 있다.
 
 1. 불공정거래등 시장질서 저해행위로 다수 투자자의 피해가 발생하거나 예상되는 경우
 
 2. 그 밖에 KRX금시장 또는 그와 관련한 증권시장이나 파생상품시장에 중요한 영향을 미칠 수 있는 사건이 발생하거나 예상되는 경우
 
-**제5조(불공정거래등의 예방을 위한 회원의 보고)**규정제7조제1항에 따른 회원의 풍문등의 보고는 별지 제1호 서식에 따르고, 같은 조 제2항에 따른 민원·분쟁의 보고는 별지 제2호 서식에 따른다.
+**제5조(불공정거래등의 예방을 위한 회원의 보고)**규정 제7조제1항에 따른 회원의 풍문등의 보고는 별지 제1호 서식에 따르고, 같은 조 제2항에 따른 민원·분쟁의 보고는 별지 제2호 서식에 따른다.
 
-제3장 이상거래의 심리 및 회원의 감리
+ 제3장 이상거래의 심리 및 회원의 감리
 
-**제6조(회피신청서의 작성방법)**규정제9조제2항에 따른 회피신청서는 별지 제3호의 서식에 의한다.
+**제6조(회피신청서의 작성방법)**규정 제9조제2항에 따른 회피신청서는 별지 제3호의 서식에 의한다.
 
-**제7조(불공정거래 신고의 처리)**①규정제10조제3항에 따른 불공정거래등의 신고는 문서, 우편, 모사전송(FAX) 또는 인터넷, 전화 등으로 할 수 있다. 이 경우 신고인의 신원 확인이 가능하고 불공정거래등의 개연성을 확인할 수 있는 구체적인 내용이 포함되어야 한다.
+**제7조(불공정거래 신고의 처리)**① 규정 제10조제3항에 따른 불공정거래등의 신고는 문서, 우편, 모사전송(FAX) 또는 인터넷, 전화 등으로 할 수 있다. 이 경우 신고인의 신원 확인이 가능하고 불공정거래등의 개연성을 확인할 수 있는 구체적인 내용이 포함되어야 한다.
 
 ② 위원회는 제1항에 따라 불공정거래등의 신고가 접수된 경우에는 그 내용의 사실확인을 위하여 시장감시, 심리 또는 감리를 실시할 수 있다.
 
@@ -471,7 +663,7 @@ attachments:
 
 ④ 제3항에도 불구하고 신고내용이 중대하여 시장감시위원장(이하 "위원장"이라 한다)이 필요하다고 인정하는 경우에는 종결처리하지 않을 수 있다.
 
-**제8조(포상지급기준)**①규정제10조제3항에 따라 위원회는 불공정거래등에 대한 혐의 입증과 관련한 구체적인 자료(시세추이, 언론보도 등 일반에 공개된 자료는 제외한다)를 근거로 한 신고내용에 대한 심리·감리결과 다음 각 호의 어느 하나에 해당하는 경우에 신고인에 대하여 1억원 이하의 포상금을 지급할 수 있다. 이 경우 제2항에 따른 소액포상금을 차감하여 지급한다.
+**제8조(포상지급기준)**① 규정 제10조제3항에 따라 위원회는 불공정거래등에 대한 혐의 입증과 관련한 구체적인 자료(시세추이, 언론보도 등 일반에 공개된 자료는 제외한다)를 근거로 한 신고내용에 대한 심리·감리결과 다음 각 호의 어느 하나에 해당하는 경우에 신고인에 대하여 1억원 이하의 포상금을 지급할 수 있다. 이 경우 제2항에 따른 소액포상금을 차감하여 지급한다.
 
 1. 불공정거래등의 혐의로 관계기관에 통보한 경우
 
@@ -505,11 +697,11 @@ attachments:
 
 ⑤ 제1항에 따른 포상금의 산정방법 및 심의절차와 제2항에 따른 소액포상금의 구체적 지급사유, 산정방법 및 심의절차 등은 위원장이 정한다.
 
-**제9조(시장감시의 구분 등)**①규정제11조제3항에 따라 시장감시의 구분은 시장감시의 종목, 계좌 및 기간 등을 고려하여 위원장이 정한다.
+**제9조(시장감시의 구분 등)**① 규정 제11조제3항에 따라 시장감시의 구분은 시장감시의 종목, 계좌 및 기간 등을 고려하여 위원장이 정한다.
 
-②규정제11조제3항에 따라 위원회는 시장감시 등을 위하여 KRX금시장의 불공정거래등을 포함하여 가격 및 거래량에 영향을 미칠 수 있는 사항에 해당하는 풍문을 수집할 수 있다.
+② 규정 제11조제3항에 따라 위원회는 시장감시 등을 위하여 KRX금시장의 불공정거래등을 포함하여 가격 및 거래량에 영향을 미칠 수 있는 사항에 해당하는 풍문을 수집할 수 있다.
 
-**제10조(심리자료)**규정제13조제3항에 따라 심리를 위하여 징구하는 자료(이하 "심리자료"라 한다)는 다음 각 호와 같다.
+**제10조(심리자료)**규정 제13조제3항에 따라 심리를 위하여 징구하는 자료(이하 "심리자료"라 한다)는 다음 각 호와 같다.
 
 1. 별지 제4호 서식에 의한 위탁자 기본정보 현황
 
@@ -535,13 +727,13 @@ attachments:
 
 12. 그 밖에 심리에 필요한 자료
 
-**제11조(심리자료의 제출요청등)**①규정제13조제3항에 따라 심리자료는 「금융실명거래 및 비밀보장에 관한 법률」제4조제2항에서 정하는 서식에 따라 제출을 요청하고, 관계자의 출석·진술은 별지 제5호 서식에 따라 요청한다.
+**제11조(심리자료의 제출요청등)**① 규정 제13조제3항에 따라 심리자료는 「금융실명거래 및 비밀보장에 관한 법률」 제4조제2항에서 정하는 서식에 따라 제출을 요청하고, 관계자의 출석·진술은 별지 제5호 서식에 따라 요청한다.
 
-②규정제13조제3항에 따라 위원회는 회원에게 부득이한 사정이 있다고 인정하는 경우 심리자료의 제출기한을 연장하거나 관계자의 출석일시를 연기할 수 있다.
+② 규정 제13조제3항에 따라 위원회는 회원에게 부득이한 사정이 있다고 인정하는 경우 심리자료의 제출기한을 연장하거나 관계자의 출석일시를 연기할 수 있다.
 
-③규정제13조제3항에 따라 위원회가 심리자료의 제출을 요청한 경우에 회원은 서면, 디스켓 그 밖에 위원회가 요구하는 방법으로 제출하여야 한다.
+③ 규정 제13조제3항에 따라 위원회가 심리자료의 제출을 요청한 경우에 회원은 서면, 디스켓 그 밖에 위원회가 요구하는 방법으로 제출하여야 한다.
 
-**제12조(현지출장)**①규정제13조제3항에 따라 다음 각 호의 어느 하나에 해당하는 경우에는 현지출장을 할 수 있다.
+**제12조(현지출장)**① 규정 제13조제3항에 따라 다음 각 호의 어느 하나에 해당하는 경우에는 현지출장을 할 수 있다.
 
 1. 신속한 심리자료의 징구 등을 위하여 필요한 경우
 
@@ -555,11 +747,11 @@ attachments:
 
 ③ 제1항제1호, 제2호 및 제4호의 규정에 따라 현지출장을 실시하는 경우에는 당해 회원의 본점·지점 또는 영업소에 사전통지하고, 관계자에게 제18조제1항에 따른 감리증표를 제시하며, 당해 목적에 필요한 최소한의 범위 내에서 업무를 수행하여야 한다.
 
-**제13조(심리반의 편성)**위원회는규정제13조제3항에 따라 심리를 위하여 필요한 경우에는 심리반을 편성할 수 있다.
+**제13조(심리반의 편성)**위원회는 규정 제13조제3항에 따라 심리를 위하여 필요한 경우에는 심리반을 편성할 수 있다.
 
-**제14조(문답서 등 작성방법)**규정제14조제5항에 따라 확인서, 문답서 및 질문서는 각각 별지 제6호, 제7호 및 제8호의 서식에 따라 작성한다.
+**제14조(문답서 등 작성방법)**규정 제14조제5항에 따라 확인서, 문답서 및 질문서는 각각 별지 제6호, 제7호 및 제8호의 서식에 따라 작성한다.
 
-**제15조(정기감리의 실시)**①규정제15조제3항에 따라 정기감리는 연간감리계획에 따라 실시한다.
+**제15조(정기감리의 실시)**① 규정 제15조제3항에 따라 정기감리는 연간감리계획에 따라 실시한다.
 
 ② 제1항에 따른 연간감리계획에는 감리대상, 감리방향, 중점감리사항 및 감리의 방법·일정 등을 포함하여야 한다.
 
@@ -567,17 +759,17 @@ attachments:
 
 ④ 위원회는 회원의 거래내역 등을 분석한 결과 회원이 거래소의 KRX금시장 업무관련규정을 위반할 우려가 있는 경우에는 정기감리대상으로 선정될 수 있다는 사실을 해당 회원에게 예고할 수 있다.
 
-**제16조(수시감리의 실시)**①규정제15조제3항에 따라 수시감리는 시장감시결과 또는 민원·제보 등에 따라 위원장이 시장질서유지 및 투자자보호를 위하여 필요하다고 인정하는 경우에 실시한다.
+**제16조(수시감리의 실시)**① 규정 제15조제3항에 따라 수시감리는 시장감시결과 또는 민원·제보 등에 따라 위원장이 시장질서유지 및 투자자보호를 위하여 필요하다고 인정하는 경우에 실시한다.
 
 ② 제1항에도 불구하고 관련법령 또는 업무관련규정 위반혐의와 관련하여 조사대상기간이 동일 또는 유사한 경우로서 심리 또는 감리를 이미 실시하였거나 실시 중인 경우에는 감리를 실시하지 아니할 수 있다.
 
-**제17조(감리범위의 확대·병합등)**①규정제16조제5항에 따라 위원회는 위법·위규행위의 확인을 위하여 불가피하다고 인정하는 경우에는 대상기간, 대상회원·지점 또는 대상종목·계좌 등에 대하여 감리를 확대할 수 있다.
+**제17조(감리범위의 확대·병합등)**① 규정 제16조제5항에 따라 위원회는 위법·위규행위의 확인을 위하여 불가피하다고 인정하는 경우에는 대상기간, 대상회원·지점 또는 대상종목·계좌 등에 대하여 감리를 확대할 수 있다.
 
 ② 위원회는 감리중인 회원 또는 지점이 동일·유사한 사유로 다시 감리대상으로 선정된 경우에는 대상기간, 대상회원·지점 또는 대상종목·계좌 등을 병합하여 단일건으로 감리를 실시할 수 있다.
 
-**제18조(감리의 방법등)**①규정제16조제5항에 따른 감리명령서 및 감리증표는 각각 별지 제9호 및 제10호 서식에 의한다.
+**제18조(감리의 방법등)**① 규정 제16조제5항에 따른 감리명령서 및 감리증표는 각각 별지 제9호 및 제10호 서식에 의한다.
 
-②규정제16조제5항에 따라 제19조에 의한 감리반의 장(이하 "감리반장"이라 한다)은 실지감리 중 관련 위반 내용이 임원·직원의 고의 또는 중과실이 없는 경미한 사항인 경우 다음 각 호의 조치를 현지에서 취할 수 있다.
+② 규정 제16조제5항에 따라 제19조에 의한 감리반의 장(이하 "감리반장"이라 한다)은 실지감리 중 관련 위반 내용이 임원·직원의 고의 또는 중과실이 없는 경미한 사항인 경우 다음 각 호의 조치를 현지에서 취할 수 있다.
 
 1. 시정조치 : 시정방안이 명확·용이한 경우
 
@@ -587,21 +779,21 @@ attachments:
 
 ④ 제10조부터 제14조까지의 규정은 감리에 관하여 이를 준용한다.
 
-**제19조(감리반의 편성)**위원회는규정제16조제5항에 따라 감리를 위하여 필요한 경우에는 감리반을 편성할 수 있다.
+**제19조(감리반의 편성)**위원회는 규정 제16조제5항에 따라 감리를 위하여 필요한 경우에는 감리반을 편성할 수 있다.
 
-제4장 심리 또는 감리 결과의 조치
+ 제4장 심리 또는 감리 결과의 조치
 
-**제20조(회원에 대한 징계·조치요구의 기준)**①규정제21조제4항에 따라 회원에게 징계를 하는 경우에는 다음 각 호의 기준에 따른다.
+**제20조(회원에 대한 징계·조치요구의 기준)**① 규정 제21조제4항에 따라 회원에게 징계를 하는 경우에는 다음 각 호의 기준에 따른다.
 
 1. 회원의 제명
 
-가.규정제20조제1호부터 제4호(이하 "관련법규등의 위반"이라 한다)에 해당되어 시장의 운영에 중대한 손실을 초래하거나 회원으로서 역할 수행이 곤란하다고 인정되는 경우
+가. 규정 제20조제1호부터 제4호(이하 "관련법규등의 위반"이라 한다)에 해당되어 시장의 운영에 중대한 손실을 초래하거나 회원으로서 역할 수행이 곤란하다고 인정되는 경우
 
 2. 회원의 6개월 이내의 회원자격의 전부 또는 일부의 정지
 
 가. 반복적으로 관련법규등을 위반하여 공정거래질서를 현저히 저해하거나 시장의 공신력을 크게 실추시키는 경우
 
-나.규정제20조제6호(이하 "심리·감리의 방해등"이라 한다)에 해당하는 행위를 하여 심리 또는 감리의 수행을 불가능하게 하는 경우
+나. 규정 제20조제6호(이하 "심리·감리의 방해등"이라 한다)에 해당하는 행위를 하여 심리 또는 감리의 수행을 불가능하게 하는 경우
 
 3. 회원의 6개월 이내의 거래의 전부 또는 일부의 정지. 이 경우, 거래의 일부의 정지는 위탁거래, 자기거래, 종목 또는 회원의 본점·지점 그 밖의 영업소 등으로 구분하여 조치할 수 있다.
 
@@ -613,7 +805,7 @@ attachments:
 
 가. 관련법규등의 위반에 해당되어 공정거래질서를 저해하거나 시장의 공신력을 실추시키는 경우
 
-나.규정제20조제5호(이하 "자료제출등 협조의무 위반"이라 한다)에 해당하는 행위를 하여 심리 또는 감리의 수행에 지장을 초래하는 경우
+나. 규정 제20조제5호(이하 "자료제출등 협조의무 위반"이라 한다)에 해당하는 행위를 하여 심리 또는 감리의 수행에 지장을 초래하는 경우
 
 5. 경고
 
@@ -627,31 +819,31 @@ attachments:
 
 나. 자료제출등 협조의무 위반에 해당하나 심리 또는 감리의 수행에 지장을 초래하는 정도가 매우 경미한 경우
 
-②규정제21조제4항에 따라 회원에게 조치를 요구하는 경우에는 다음 각 호의 기준에 따른다.
+② 규정 제21조제4항에 따라 회원에게 조치를 요구하는 경우에는 다음 각 호의 기준에 따른다.
 
 1. 개선요구
-회원 및 그 임원·직원의 업무처리가 위법·위규하거나 불합리하여 회원의 내부통제시스템 등 업무개선이 요구되는 경우
+ 회원 및 그 임원·직원의 업무처리가 위법·위규하거나 불합리하여 회원의 내부통제시스템 등 업무개선이 요구되는 경우
 
 2. 시정요구
-회원 및 그 임원·직원이 위법·위규 또는 부당하게 처리한 업무를 원상회복이나 그 이후 정상화시킬 필요가 있다고 인정하는 경우
+ 회원 및 그 임원·직원이 위법·위규 또는 부당하게 처리한 업무를 원상회복이나 그 이후 정상화시킬 필요가 있다고 인정하는 경우
 
 3. 주의촉구
-제1호 또는 제2호에 따른 조치를 하는 것이 부적절하거나 위규행위의 재발방지를 위하여 회원에 대한 주의환기가 필요하다고 인정되는 경우
+ 제1호 또는 제2호에 따른 조치를 하는 것이 부적절하거나 위규행위의 재발방지를 위하여 회원에 대한 주의환기가 필요하다고 인정되는 경우
 
 4. 이행확약서 징구
-규정제21조에 따른 위원회의 조치에 대하여 이행을 사전적으로 담보할 필요가 있다고 인정되는 경우
+ 규정 제21조에 따른 위원회의 조치에 대하여 이행을 사전적으로 담보할 필요가 있다고 인정되는 경우
 
-**제21조(회원제재금의 부과 방법 및 기준)**①규정제21조제4항에 따라 회원제재금은 별지 제12호 서식에 따라 부과(규정 제21조제2항에 따른 가산금의 부과를 포함한다)한다.
+**제21조(회원제재금의 부과 방법 및 기준)**① 규정 제21조제4항에 따라 회원제재금은 별지 제12호 서식에 따라 부과(규정 제21조제2항에 따른 가산금의 부과를 포함한다)한다.
 
 ② 회원제재금의 부과에 대한 세부기준은 별표 1과 같다.
 
-**제22조(회원제재금 과오납금의 환급)**①규정제21조제4항에 따라 위원회는규정제21조제1항제4호의 회원제재금 부과조치를 받은 회원이규정제28조에 따른 이의신청의 인용 또는규정제29조에 따른 직권재심 등의 사유로 회원제재금 과오납금의 환급을 청구하는 경우 이를 지체없이 환급하여야 한다.
+**제22조(회원제재금 과오납금의 환급)**① 규정 제21조제4항에 따라 위원회는 규정 제21조제1항제4호의 회원제재금 부과조치를 받은 회원이 규정 제28조에 따른 이의신청의 인용 또는 규정 제29조에 따른 직권재심 등의 사유로 회원제재금 과오납금의 환급을 청구하는 경우 이를 지체없이 환급하여야 한다.
 
 ② 위원회는 제1항에 따라 회원제재금 과오납금을 환급하는 경우 환급받을 회원이 위원회에 납부하여야 하는 회원제재금 또는 약식제재금이 있으면 환급하는 금액을 당해 회원제재금 또는 약식제재금에 충당할 수 있다.
 
-③ 위원회는 제1항에 따라 회원제재금 과오납금을 환급하는 경우에 회원제재금을 납부한 날부터 환급하는 날까지의 기간에 대하여 「자본시장과 금융투자업에 관한 법률 시행령」제383조의2에서 정하는 가산금 이율을 적용한 환급가산금을 환급받을 회원에게 지급하여야 한다.
+③ 위원회는 제1항에 따라 회원제재금 과오납금을 환급하는 경우에 회원제재금을 납부한 날부터 환급하는 날까지의 기간에 대하여 「자본시장과 금융투자업에 관한 법률 시행령」 제383조의2에서 정하는 가산금 이율을 적용한 환급가산금을 환급받을 회원에게 지급하여야 한다.
 
-**제23조(회원에 대한 임원·직원의 징계요구의 기준)**①규정제22조제2항에 따라 회원에게 그 임원의 징계를 요구하는 경우에는 다음 각 호의 기준에 따른다.
+**제23조(회원에 대한 임원·직원의 징계요구의 기준)**① 규정 제22조제2항에 따라 회원에게 그 임원의 징계를 요구하는 경우에는 다음 각 호의 기준에 따른다.
 
 1. 해임의 요구
 
@@ -674,9 +866,9 @@ attachments:
 다. 위법·위규 또는 부당한 행위와 관련하여 선량한 관리자로서의 주의의무를 위반한 경우
 
 4. 주의 이상의 요구
-제3호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
+ 제3호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
 
-②규정제22조제2항에 따라 회원에게 그 직원의 징계를 요구하는 경우에는 다음 각 호의 기준에 따른다.
+② 규정 제22조제2항에 따라 회원에게 그 직원의 징계를 요구하는 경우에는 다음 각 호의 기준에 따른다.
 
 1. 면직의 요구
 
@@ -685,7 +877,7 @@ attachments:
 나. 고의 또는 중대한 과실로 심리·감리의 방해등에 해당하는 행위를 하여 심리 또는 감리의 수행을 불가능하게 하거나 상당히 곤란하게 하는 경우
 
 2. 정직 이상의 요구
-제1호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
+ 제1호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
 
 3. 감봉 이상의 요구
 
@@ -694,7 +886,7 @@ attachments:
 나. 고의 또는 중대한 과실로 자료제출등 협조의무 위반을 하여 심리 또는 감리의 수행에 지장을 초래하는 경우
 
 4. 견책 이상의 요구
-제3호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
+ 제3호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
 
 5. 경고 이상의 요구
 
@@ -705,35 +897,35 @@ attachments:
 다. 위법·위규 또는 부당한 행위와 관련하여 선량한 관리자로서의 주의의무를 위반한 경우
 
 6. 주의 이상의 요구
-제5호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
+ 제5호 각 목의 어느 하나에 해당되나 그 밖의 참작 사유가 있는 경우
 
-**제24조(관련자의 구분)**규정제22조제2항에 따라 회원에게 관련 임원·직원(이하 "관련자"라 한다)의 징계를 요구하는 경우에는 다음 각 호의 구분에 따른다.
+**제24조(관련자의 구분)**규정 제22조제2항에 따라 회원에게 관련 임원·직원(이하 "관련자"라 한다)의 징계를 요구하는 경우에는 다음 각 호의 구분에 따른다.
 
 1. 지시자
-위법·위규 또는 부당한 행위를 지시 또는 종용한 자(사실상의 영향력을 행사한 자도 포함한다)
+ 위법·위규 또는 부당한 행위를 지시 또는 종용한 자(사실상의 영향력을 행사한 자도 포함한다)
 
 2. 행위자
-위법·위규 또는 부당한 행위를 한 자
+ 위법·위규 또는 부당한 행위를 한 자
 
 3. 보조자
-행위자의 의사결정 또는 행위를 보조하는 자
+ 행위자의 의사결정 또는 행위를 보조하는 자
 
 4. 감독자
-위법·위규 또는 부당한 행위와 관련된 업무의 처리를 실질적으로 감독할 수 있는 지위에 있는자
+ 위법·위규 또는 부당한 행위와 관련된 업무의 처리를 실질적으로 감독할 수 있는 지위에 있는자
 
-**제25조(징계등의 가중 또는 감경)**①규정제21조제4항에 따라 위원회는 회원에 대하여규정제21조제1항의 징계를 하는 경우에 다음 각 호의 어느 하나에 해당하면 징계를 한 단계 이내에서 가중할 수 있다.이 경우 제25조의2제2항에 따라 회원의 수개의 행위 각각에 대해 징계를 하는 경우로서 해당 징계 각각에 대해 가중할 수 있는 경우에는 가장 중한 사항에 해당하는 하나의 징계만 가중한다.<개정 2024. 10. 15.>
+**제25조(징계등의 가중 또는 감경)**① 규정 제21조제4항에 따라 위원회는 회원에 대하여 규정 제21조제1항의 징계를 하는 경우에 다음 각 호의 어느 하나에 해당하면 징계를 한 단계 이내에서 가중할 수 있다. 이 경우 제25조의2제2항에 따라 회원의 수개의 행위 각각에 대해 징계를 하는 경우로서 해당 징계 각각에 대해 가중할 수 있는 경우에는 가장 중한 사항에 해당하는 하나의 징계만 가중한다. <개정 2024. 10. 15.>
 
-1. 회원이 관련법규등의 위반 또는 심리·감리의 방해등의 행위로규정제21조제1항제2호부터 제4호까지의 징계 중 어느 하나의 징계를 받고 1년 이내에 관련 임원·직원 또는 위탁자 등이 동일 또는 유사한 행위를 반복하는 경우
+1. 회원이 관련법규등의 위반 또는 심리·감리의 방해등의 행위로 규정 제21조제1항제2호부터 제4호까지의 징계 중 어느 하나의 징계를 받고 1년 이내에 관련 임원·직원 또는 위탁자 등이 동일 또는 유사한 행위를 반복하는 경우
 
 2. 회원이 관련법규등의 위반 또는 자료제출등 협조의무 위반으로 경고·주의를 받고 1년 이내에 관련 임원·직원 또는 위탁자 등이 경고 또는 주의에 해당하는 동일 또는 유사한 행위를 반복하는 경우
 
-3. 회원이 최근 2년 이내에 심리 또는 감리결과에 따라규정제21조제1항제2호부터 제6호까지의 징계 중 어느 하나를 기준으로 하여 그 이상의 징계를 3회 이상 받게 되는 경우
+3. 회원이 최근 2년 이내에 심리 또는 감리결과에 따라 규정 제21조제1항제2호부터 제6호까지의 징계 중 어느 하나를 기준으로 하여 그 이상의 징계를 3회 이상 받게 되는 경우
 
-②제1항제3호의 징계횟수를 산정할 때에는 제25조의2제2항에 따라 회원의 수개의 행위 각각에 대해 징계를 하더라도 징계횟수는 1회로 산정한다.<개정 2024. 10. 15.>
+②  제1항제3호의 징계횟수를 산정할 때에는 제25조의2제2항에 따라 회원의 수개의 행위 각각에 대해 징계를 하더라도 징계횟수는 1회로 산정한다. <개정 2024. 10. 15.>
 
-③삭제<2024. 10. 15.>
+③ 삭제 <2024. 10. 15.>
 
-④규정제22조제2항에 따라 위원회는 회원의 직원에 대하여 다음 각 호의 어느 하나에 해당하는 공적이 있는 경우에는규정제22조제1항제2호의 징계요구의 종류 및 내용을 한 단계 이내에서 감경할 수 있다.
+④ 규정 제22조제2항에 따라 위원회는 회원의 직원에 대하여 다음 각 호의 어느 하나에 해당하는 공적이 있는 경우에는 규정 제22조제1항제2호의 징계요구의 종류 및 내용을 한 단계 이내에서 감경할 수 있다.
 
 1. 「상훈법」에 따라 훈장 또는 포장을 받은 경우
 
@@ -747,7 +939,7 @@ attachments:
 
 2. 징계요구 대상 직원이 소속 회원 입사 전에 받은 공적
 
-⑥규정제22조제2항에 따라 위원회는 회원의 직원에 대하여규정제22조제1항제2호의 징계요구를 하는 경우에는 다음 각 호의 어느 하나에 해당하면 징계요구를 감경하거나 면제할 수 있다.
+⑥ 규정 제22조제2항에 따라 위원회는 회원의 직원에 대하여 규정 제22조제1항제2호의 징계요구를 하는 경우에는 다음 각 호의 어느 하나에 해당하면 징계요구를 감경하거나 면제할 수 있다.
 
 1. 위법·위규 또는 부당행위를 위원회가 인지하기 전에 자진신고한 자
 
@@ -755,19 +947,19 @@ attachments:
 
 3. 위원회가 인지하기 전에 위법·위규 또는 부당행위를 스스로 시정한 자
 
-**제25조의2(회원의 수개의 위반행위에 대한 징계)**①규정제21조제4항에 따라 회원의 하나의 행위가 수개의 위반유형에 해당하는 경우에는 각각에 대한 징계 중 가장 중한 사항에 해당하는 징계를 할 수 있다.
+**제25조의2(회원의 수개의 위반행위에 대한 징계)**①  규정 제21조제4항에 따라 회원의 하나의 행위가 수개의 위반유형에 해당하는 경우에는 각각에 대한 징계 중 가장 중한 사항에 해당하는 징계를 할 수 있다.
 
-②회원의 수개의 행위가 수개의 위반유형 또는 위반행위에 해당하는 경우에는 각각에 대해 징계할 수 있다.
+②  회원의 수개의 행위가 수개의 위반유형 또는 위반행위에 해당하는 경우에는 각각에 대해 징계할 수 있다.
 
-③회원의 수개의 위반행위에 대한 징계방법 등에 관한 세부적인 사항은 위원장이 따로 정한다.
+③  회원의 수개의 위반행위에 대한 징계방법 등에 관한 세부적인 사항은 위원장이 따로 정한다.
 
 [본조신설 2024. 10. 15.]
 
-**제26조(징계등의 처리결과 통보)**①규정제21조제4항 및규정제22조제2항에 따라 위원회는 징계 또는 징계요구의 결정 내용을 해당 회원에게 통보하여야 한다.
+**제26조(징계등의 처리결과 통보)**① 규정 제21조제4항 및 규정 제22조제2항에 따라 위원회는 징계 또는 징계요구의 결정 내용을 해당 회원에게 통보하여야 한다.
 
 ② 회원의 퇴임한 임원 또는 퇴직한 직원이 재임 또는 재직 중이었다면 제1항의 징계요구의 결정을 받았을 것으로 인정되는 경우에는 그 받았을 것으로 인정되는 징계요구의 내용을 회원에게 통보할 수 있다. 이 경우 통보를 받은 회원은 이를 퇴임·퇴직한 임원·직원에게 통보한 후 3개월 이내에 위원회에 통보결과 및 징계여부 등을 통보하여야 한다.
 
-③ 제1항에 따라 징계 또는 징계요구를 받거나규정제21조제3항에 따라 개선요구 또는 시정요구를 받은 당해 회원의 장은 특별한 사유가 없는 한 그 조치의 통보를 받은 날부터 다음 각 호의 기한 내에 이를 처리하고 그 결과를 지체없이 위원회에 통보하여야 한다. 다만 개선요구 또는 시정요구 사항이 제3호의 기간 내에 처리가 불가능한 경우에는 그 이행확약서를 제출하여야 한다.
+③ 제1항에 따라 징계 또는 징계요구를 받거나 규정 제21조제3항에 따라 개선요구 또는 시정요구를 받은 당해 회원의 장은 특별한 사유가 없는 한 그 조치의 통보를 받은 날부터 다음 각 호의 기한 내에 이를 처리하고 그 결과를 지체없이 위원회에 통보하여야 한다. 다만 개선요구 또는 시정요구 사항이 제3호의 기간 내에 처리가 불가능한 경우에는 그 이행확약서를 제출하여야 한다.
 
 1. 회원제재금의 부과 : 1개월 이내
 
@@ -775,7 +967,7 @@ attachments:
 
 3. 개선·시정요구 : 2개월 이내
 
-**제27조(징계 및 징계요구의 공표)**①규정제23조제3항에 따라 위원회는 징계 또는 징계요구를 결의한 날에 다음 각 호의 사항을 공표한다.
+**제27조(징계 및 징계요구의 공표)**① 규정 제23조제3항에 따라 위원회는 징계 또는 징계요구를 결의한 날에 다음 각 호의 사항을 공표한다.
 
 1. 징계 및 징계요구의 결의일자
 
@@ -783,17 +975,17 @@ attachments:
 
 3. 위반행위의 주요내용
 
-4. 징계 및 징계요구의 종류와 내용. 다만,규정제22조제1항제1호 및 제2호 중 "경고 또는 주의"는 제외한다.
+4. 징계 및 징계요구의 종류와 내용. 다만, 규정 제22조제1항제1호 및 제2호 중 "경고 또는 주의"는 제외한다.
 
-② 위원회는규정제28조제1항 또는규정제29조에 따라 이의신청 또는 직권재심을 한 결과, 징계의 종류 또는 내용이 변경된 때에는 그 사실을 이의신청 등의 결정이 있은 날에 재차 공표하여야 한다.
+② 위원회는 규정 제28조제1항 또는 규정 제29조에 따라 이의신청 또는 직권재심을 한 결과, 징계의 종류 또는 내용이 변경된 때에는 그 사실을 이의신청 등의 결정이 있은 날에 재차 공표하여야 한다.
 
 ③ 제1항에 따라 징계 또는 징계요구하는 경우에는 관련 임원·직원의 실명은 공표하지 아니할 수 있다.
 
 ④ 제1항부터 제3항까지의 규정에도 불구하고 회원주의의 경우에는 당해 회원 및 징계요구대상인 임원·직원은 공표하지 아니할 수 있다.
 
-**제28조(의견진술의 방법)**규정제26조제1항에 따른 서면에 의한 의견진술은 별지 제13호 서식에 의한다.
+**제28조(의견진술의 방법)**규정 제26조제1항에 따른 서면에 의한 의견진술은 별지 제13호 서식에 의한다.
 
-**제29조(이의신청의 방법 및 처리)**①규정제28조제4항에 따라 징계등의 조치를 받은 자가 이의신청을 하는 경우에는 다음 각 호의 사항을 기재한 신청서와 증빙서류 등을 첨부하여 위원회에 제출하여야 한다.
+**제29조(이의신청의 방법 및 처리)**① 규정 제28조제4항에 따라 징계등의 조치를 받은 자가 이의신청을 하는 경우에는 다음 각 호의 사항을 기재한 신청서와 증빙서류 등을 첨부하여 위원회에 제출하여야 한다.
 
 1. 이의신청인
 
@@ -811,9 +1003,9 @@ attachments:
 
 나. 징계당사자가 제출한 문서, 진술 등이 위조·변조, 누락·왜곡 또는 허위인 경우
 
-③규정제28조제4항에 따라 위원회는 이의신청 결과 또는 신청서의 각하 여부를 신청인에게 지체없이 통지하여야 한다.
+③ 규정 제28조제4항에 따라 위원회는 이의신청 결과 또는 신청서의 각하 여부를 신청인에게 지체없이 통지하여야 한다.
 
-**제30조(약식제재금의 부과 및 감면)**① 위원회는규정제30조제3항에 따라 다음 각 호의 어느 하나에 해당하고 위반수준이 경미한 경우에는 회원에게 약식제재금을 부과할 수 있다.
+**제30조(약식제재금의 부과 및 감면)**① 위원회는 규정 제30조제3항에 따라 다음 각 호의 어느 하나에 해당하고 위반수준이 경미한 경우에는 회원에게 약식제재금을 부과할 수 있다.
 
 1. 「KRX금시장 운영규정」·동시행세칙에 따른 호가·주문의 방법과 관련된 사항의 위반
 
@@ -823,9 +1015,9 @@ attachments:
 
 ② 제1항에 따라 약식제재금을 부과하는 경우에는 별지 제14호 서식에 의한다. 이 경우 약식제재금의 납부기한은 해당 회원이 부과통지를 받는 날로부터 1개월 이내로 한다.
 
-③규정제21조제2항은 약식제재금 부과를 받은 회원이 납부기한 내에 이를 이행하지 아니한 경우에 준용한다.
+③ 규정 제21조제2항은 약식제재금 부과를 받은 회원이 납부기한 내에 이를 이행하지 아니한 경우에 준용한다.
 
-④ 위원회는규정제30조제3항에 따라 다음 각 호의 어느 하나에 해당하는 경우에는 약식제재금을 감경 또는 면제할 수 있다.
+④ 위원회는 규정 제30조제3항에 따라 다음 각 호의 어느 하나에 해당하는 경우에는 약식제재금을 감경 또는 면제할 수 있다.
 
 1. 시스템 장애 등 부득이한 사유에 의하여 발생한 경우
 
@@ -835,45 +1027,45 @@ attachments:
 
 4. 그 밖에 위원장이 약식제재금의 부과가 적당하지 아니하다고 인정하는 경우
 
-제5장 분쟁조정
+ 제5장 분쟁조정
 
-제1절 통칙
+ 제1절 통칙
 
-**제31조(조정신청서의 작성등)**①규정제32조제6항에 따른 분쟁조정신청서와 조정신청조서는 각각 별지 제15호 및 제16호 서식으로 하고, 대리인이 있는 경우에 위임장은 별지 제17호 서식으로 한다.
+**제31조(조정신청서의 작성등)**① 규정 제32조제6항에 따른 분쟁조정신청서와 조정신청조서는 각각 별지 제15호 및 제16호 서식으로 하고, 대리인이 있는 경우에 위임장은 별지 제17호 서식으로 한다.
 
-②규정제32조제6항에 따른 조정신청의 방법 및 조정신청조서의 확인은 우편, 인편, 전화, 모사전송, 이메일 그 밖의 이와 유사한 전자통신의 방법에 의한다.
+② 규정 제32조제6항에 따른 조정신청의 방법 및 조정신청조서의 확인은 우편, 인편, 전화, 모사전송, 이메일 그 밖의 이와 유사한 전자통신의 방법에 의한다.
 
-**제32조(조정신청 접수사실의 통지)**규정제32조제6항에 따라 조정신청이 접수된 때에는 위원장은 신청인에게 조정신청의 접수사실, 담당자의 직책·성명, 전화번호 등을 우편, 전화, 모사전송, 이메일 그 밖의 이와 유사한 전자통신의 방법으로 지체없이 통지하여야 한다.
+**제32조(조정신청 접수사실의 통지)**규정 제32조제6항에 따라 조정신청이 접수된 때에는 위원장은 신청인에게 조정신청의 접수사실, 담당자의 직책·성명, 전화번호 등을 우편, 전화, 모사전송, 이메일 그 밖의 이와 유사한 전자통신의 방법으로 지체없이 통지하여야 한다.
 
-**제33조(조정신청의 보완)**①규정제34조에서 "세칙으로 정하는 기간"이란 신청인이 보완의 통지를 받은 날부터 7일을 말한다.
+**제33조(조정신청의 보완)**① 규정 제34조에서 "세칙으로 정하는 기간"이란 신청인이 보완의 통지를 받은 날부터 7일을 말한다.
 
 ② 위원장은 신청인이 제1항에 따른 기간내에 보완하지 아니하는 경우에는 7일 이내의 기간을 정하여 다시 보완을 요구할 수 있다.
 
-**제34조(의견서 제출기간등)**①규정제35조제2항에서 "세칙으로 정하는 기간"이란 14일(「관공서의 공휴일에 관한 규정」에 따른 공휴일 또는 토요일을 제외한다)을 말한다. 다만, 위원장은 피신청인이 정당한 사유로 해당 기간의 연장을 요청할 경우에는 이를 연장할 수 있다.
+**제34조(의견서 제출기간등)**① 규정 제35조제2항에서 "세칙으로 정하는 기간"이란 14일(「관공서의 공휴일에 관한 규정」에 따른 공휴일 또는 토요일을 제외한다)을 말한다. 다만, 위원장은 피신청인이 정당한 사유로 해당 기간의 연장을 요청할 경우에는 이를 연장할 수 있다.
 
-②규정제35조제4항에 따른 조정신청 내용의 통지범위는 분쟁조정신청 접수사실, 신청의 취지 및 이유, 의견서 제출기간 등으로 한다.
+② 규정 제35조제4항에 따른 조정신청 내용의 통지범위는 분쟁조정신청 접수사실, 신청의 취지 및 이유, 의견서 제출기간 등으로 한다.
 
-③규정제35조제4항에 따른 의견서 내용의 통지범위는 피신청인이 제출한 의견서의 취지 및 그 내용으로 한다.
+③ 규정 제35조제4항에 따른 의견서 내용의 통지범위는 피신청인이 제출한 의견서의 취지 및 그 내용으로 한다.
 
 ④ 제2항 및 제3항에 따른 통지의 방법은 제32조를 준용한다.
 
-**제35조(사실조사)**①규정제36조제4항에 따라 위원장이 당사자 그 밖의 관련자의 출석요청, 사실·자료조회의 방법으로 조사하거나, 당사자 그 밖의 관련자에 대한 사실의 확인 또는 자료의 제출 등을 요구하는 경우에 그 사유, 출석일시, 자료의 종류 및 제출기한 등을 기재한 서면으로 하여야 한다. 다만, 신속한 사실의 확인 또는 자료의 징구 등을 위하여 필요하다고 인정하는 경우에는 조사를 행하는 자가 당사자 그 밖의 관련자를 직접 방문하여 요구할 수 있다.
+**제35조(사실조사)**① 규정 제36조제4항에 따라 위원장이 당사자 그 밖의 관련자의 출석요청, 사실·자료조회의 방법으로 조사하거나, 당사자 그 밖의 관련자에 대한 사실의 확인 또는 자료의 제출 등을 요구하는 경우에 그 사유, 출석일시, 자료의 종류 및 제출기한 등을 기재한 서면으로 하여야 한다. 다만, 신속한 사실의 확인 또는 자료의 징구 등을 위하여 필요하다고 인정하는 경우에는 조사를 행하는 자가 당사자 그 밖의 관련자를 직접 방문하여 요구할 수 있다.
 
-②규정제36조제4항에 따라 당사자 그 밖의 관련자의 방문, 현장답사 등으로 조사하는 경우에 조사를 행하는 자는 위원회가 발부한 조사명령서를 휴대하고 이를 관계자에게 제시하여야 한다.
+② 규정 제36조제4항에 따라 당사자 그 밖의 관련자의 방문, 현장답사 등으로 조사하는 경우에 조사를 행하는 자는 위원회가 발부한 조사명령서를 휴대하고 이를 관계자에게 제시하여야 한다.
 
-③규정제36조제4항에 따라 조사를 행하는 자는 사실의 확인이 필요한 경우에는 당사자 그 밖의 관련자로부터 확인서를 징구하거나 직접 진술을 청취하여 문답서를 작성할 수 있다. 이 경우 진술의 임의성이 확보될 수 있도록 진술을 강요하는 일이 있어서는 아니 된다.
+③ 규정 제36조제4항에 따라 조사를 행하는 자는 사실의 확인이 필요한 경우에는 당사자 그 밖의 관련자로부터 확인서를 징구하거나 직접 진술을 청취하여 문답서를 작성할 수 있다. 이 경우 진술의 임의성이 확보될 수 있도록 진술을 강요하는 일이 있어서는 아니 된다.
 
-④규정제36조제3항에서 "전문가 등"이란 다음 각 호의 자를 말한다.
+④ 규정 제36조제3항에서 "전문가 등"이란 다음 각 호의 자를 말한다.
 
-1. 「분쟁조정규정」제13조제2항에 따라 심의위원회의 위원으로 위촉된 자
+1. 「분쟁조정규정」 제13조제2항에 따라 심의위원회의 위원으로 위촉된 자
 
 2. 그 밖에 법률, 금융, 금 제련·정련·수입·유통 관련 사업, 전산 등의 분야에 종사하거나 종사하였던 자로 위원장이 적합하다고 인정하는 자
 
-⑤규정제36조제3항에 따라 자문을 받을 경우 회의, 서면, 전화 등의 방법으로 할 수 있다.
+⑤ 규정 제36조제3항에 따라 자문을 받을 경우 회의, 서면, 전화 등의 방법으로 할 수 있다.
 
-제2절 위원회 회부전 분쟁처리
+ 제2절 위원회 회부전 분쟁처리
 
-**제36조(신청인의 소제기등 통지)**규정제37조제2항에서 "세칙으로 정하는 사항"이란 다음 각 호의 사항을 말한다.
+**제36조(신청인의 소제기등 통지)**규정 제37조제2항에서 "세칙으로 정하는 사항"이란 다음 각 호의 사항을 말한다.
 
 1. 소를 제기한 법원 또는 조정신청을 한 기관
 
@@ -883,43 +1075,43 @@ attachments:
 
 4. 소장 또는 조정신청서의 사본
 
-**제37조(취하서 등)**①규정제38조제3항에 따른 취하서는 별지 제18호 서식으로 한다.
+**제37조(취하서 등)**① 규정 제38조제3항에 따른 취하서는 별지 제18호 서식으로 한다.
 
 ② 신청인이 구술로 취하하는 경우에는 담당 직원은 녹취 등의 방법으로 취하의사를 확인할 수 있다.
 
-제3절 위원회의 분쟁조정
+ 제3절 위원회의 분쟁조정
 
-**제38조(위원회에의 회부 및 통지)**①규정제40조제3항에 따라 위원장이 사건을 위원회에 회부하는 때에는 회부안건 및 관련자료를 첨부하여 위원(심의위원회에 심의를 요청한 경우에는규정제41조에 따른 심의위원회 위원을 포함한다. 이하 이 조에서 같다)에게 통지하여야 한다.
+**제38조(위원회에의 회부 및 통지)**① 규정 제40조제3항에 따라 위원장이 사건을 위원회에 회부하는 때에는 회부안건 및 관련자료를 첨부하여 위원(심의위원회에 심의를 요청한 경우에는 규정 제41조에 따른 심의위원회 위원을 포함한다. 이하 이 조에서 같다)에게 통지하여야 한다.
 
-②규정제40조제3항에 따라 위원장은 당사자에게 위원회에 회부된 사실(심의위원회에 심의를 요청한 경우에는 그 사실을 포함한다), 추가자료를 제출할 수 있다는 사실, 위원의 명단 및 위원에 대한 제척·기피신청을 할 수 있다는 사실 등을 지체없이 통지하여야 한다.
+② 규정 제40조제3항에 따라 위원장은 당사자에게 위원회에 회부된 사실(심의위원회에 심의를 요청한 경우에는 그 사실을 포함한다), 추가자료를 제출할 수 있다는 사실, 위원의 명단 및 위원에 대한 제척·기피신청을 할 수 있다는 사실 등을 지체없이 통지하여야 한다.
 
-**제39조(위원 및 심의위원회 위원의 제척등)**①규정제42조제5항에 따라 당사자가 위원(심의위원회 위원을 포함한다. 이하 이 항에서 같다)의 제척 또는 기피를 신청하고자 하는 경우에는 위원의 명단을 통보받은 날부터 5일 이내에 신청하여야 한다. 이 경우 심의위원회 위원의 제척 또는 기피여부는 위원장이 제척 또는 기피신청을 받은 날부터 3일 이내에 결정하여야 한다.
+**제39조(위원 및 심의위원회 위원의 제척등)**① 규정 제42조제5항에 따라 당사자가 위원(심의위원회 위원을 포함한다. 이하 이 항에서 같다)의 제척 또는 기피를 신청하고자 하는 경우에는 위원의 명단을 통보받은 날부터 5일 이내에 신청하여야 한다. 이 경우 심의위원회 위원의 제척 또는 기피여부는 위원장이 제척 또는 기피신청을 받은 날부터 3일 이내에 결정하여야 한다.
 
-②규정제42조제3항에 따라 심의위원회 위원이 제척·기피·회피의 사유로 심의위원회에서 제외되는 때에는 위원장은 필요하다고 인정하는 경우에는 심의위원회 위원 중 다른 자로 교체할 수 있다. 이 경우 교체된 위원의 명단을 당사자에게 통지하여야 한다.
+② 규정 제42조제3항에 따라 심의위원회 위원이 제척·기피·회피의 사유로 심의위원회에서 제외되는 때에는 위원장은 필요하다고 인정하는 경우에는 심의위원회 위원 중 다른 자로 교체할 수 있다. 이 경우 교체된 위원의 명단을 당사자에게 통지하여야 한다.
 
 ③ 제척·기피신청서, 제척사유 부존재 확인서 및 회피신청서는 각각 별지 제19호, 제20호 및 제21호 서식으로 한다.
 
-**제40조(조정기일의 변경)**①규정제44조제3항에 따라 위원회 또는 당사자의 긴급한 사정으로 조정기일을 변경하고자 할 경우에는 위원장은 당사자의 동의를 얻어 조정기일의 1일전까지 이를 변경할 수 있다.
+**제40조(조정기일의 변경)**① 규정 제44조제3항에 따라 위원회 또는 당사자의 긴급한 사정으로 조정기일을 변경하고자 할 경우에는 위원장은 당사자의 동의를 얻어 조정기일의 1일전까지 이를 변경할 수 있다.
 
 ② 위원장은 당사자가 조정기일의 변경을 신청하는 경우에는 특별한 사유가 없는 한 조정기일을 다시 정하고 이를 당사자에게 통지하여야 한다.
 
-**제41조(당사자등의 불출석)**규정제45조제3항에 따라 당사자가 위원회의 출석요청에도 불구하고 조정기일에 출석하지 아니한 경우에는 위원장이 회의의 계속 진행여부를 결정할 수 있다.
+**제41조(당사자등의 불출석)**규정 제45조제3항에 따라 당사자가 위원회의 출석요청에도 불구하고 조정기일에 출석하지 아니한 경우에는 위원장이 회의의 계속 진행여부를 결정할 수 있다.
 
-**제42조(조정결정서 등의 서식)**규정제46조제5항에 따른 조정결정서, 각하결정서 및 조정결정수락서는 각각 별지 제22호, 제23호 및 제24호 서식에 따른다.
+**제42조(조정결정서 등의 서식)**규정 제46조제5항에 따른 조정결정서, 각하결정서 및 조정결정수락서는 각각 별지 제22호, 제23호 및 제24호 서식에 따른다.
 
-**제43조(조정의 성립 등)**①규정제47조제6항에 따른 조정서는 별지 제25호 서식에 따른다.
+**제43조(조정의 성립 등)**① 규정 제47조제6항에 따른 조정서는 별지 제25호 서식에 따른다.
 
-②규정제47조제6항에 따라 위원장은 사건에 대한 조정이 성립되거나 불성립되어 종결된 때에는 그 결과를 각 위원에게 통지하여야 한다.
+② 규정 제47조제6항에 따라 위원장은 사건에 대한 조정이 성립되거나 불성립되어 종결된 때에는 그 결과를 각 위원에게 통지하여야 한다.
 
-**제44조(회원 또는 보관기관의 후속처리결과 보고)**①규정제49조제1항에 따라 회원 또는 보관기관인 당사자는 조정안에 따른 손실보상, 시스템보완, 제도개선 등 후속처리결과의 진행상황을 조정이 성립한 날부터 20일 이내에 위원회에 서면으로 보고하여야 한다.
+**제44조(회원 또는 보관기관의 후속처리결과 보고)**① 규정 제49조제1항에 따라 회원 또는 보관기관인 당사자는 조정안에 따른 손실보상, 시스템보완, 제도개선 등 후속처리결과의 진행상황을 조정이 성립한 날부터 20일 이내에 위원회에 서면으로 보고하여야 한다.
 
 ② 제1항에 따라 후속처리결과의 보고가 불가피한 사정 등으로 지연되는 경우에는 회원 또는 보관기관은 당해 사유 및 지연사실을 위원회에 서면으로 보고하여야 한다.
 
-**제45조(소송지원)**①규정제50조제2항에 따라 신청인이 소송지원을 받고자 하는 때에는 서면으로 소송지원을 신청하여야 한다.
+**제45조(소송지원)**① 규정 제50조제2항에 따라 신청인이 소송지원을 받고자 하는 때에는 서면으로 소송지원을 신청하여야 한다.
 
 ② 위원장은 신청인이 제1항에 따라 소송지원을 신청하는 경우에 해당 사건의 소송지원 여부를 결정하고 그 결과를 신청인에게 통지하여야 한다.
 
-③ 위원장은 「분쟁조정규정 시행세칙」제20조제3항에 따른 소송지원변호인단 소속 변호사를 통해 소송지원을 할 수 있다.
+③ 위원장은 「분쟁조정규정 시행세칙」 제20조제3항에 따른 소송지원변호인단 소속 변호사를 통해 소송지원을 할 수 있다.
 
 ④ 위원장은 소송지원 결정 이후 다음 각 호의 어느 하나에 해당하는 사유가 발생하는 경우에는 소송지원을 중단할 수 있다.
 
@@ -933,13 +1125,13 @@ attachments:
 
 ⑤ 제1항부터 제4항까지 외에 소송지원과 관련한 세부적 내용은 위원장이 별도로 정하는 바에 의한다.
 
-제6장 보 칙
+ 제6장 보 칙
 
-**제46조(권한의 위임)**①규정제55조제13호에 의하여 위원회가 위원장에게 위임하는 긴급한 사항이라 함은 천재·지변·전시·사변·경제사정의 급격한 변동 그 밖에 이에 준하는 사태로 인하여 상당한 기간 위원회의 개최가 곤란한 경우로서 그 처리에 긴급을 요하는 사항을 말한다.
+**제46조(권한의 위임)**① 규정 제55조제13호에 의하여 위원회가 위원장에게 위임하는 긴급한 사항이라 함은 천재·지변·전시·사변·경제사정의 급격한 변동 그 밖에 이에 준하는 사태로 인하여 상당한 기간 위원회의 개최가 곤란한 경우로서 그 처리에 긴급을 요하는 사항을 말한다.
 
-②규정제55조제13호에 의하여 위원회가 위원장에게 위임하는 경미한 사항은 다음 각 호의 사항을 말한다.
+② 규정 제55조제13호에 의하여 위원회가 위원장에게 위임하는 경미한 사항은 다음 각 호의 사항을 말한다.
 
-1.규정제9조제1항에 의한 회피신청서 제출 및 승인에 관한 사항
+1. 규정 제9조제1항에 의한 회피신청서 제출 및 승인에 관한 사항
 
 2. 제8조에 따른 포상금 및 소액포상금의 지급에 관한 사항
 
@@ -949,7 +1141,7 @@ attachments:
 
 부칙 <제1008호, 2014. 3. 21.>
 
-이 세칙은 KRX금시장의 매매거래개시일부터 시행한다. 다만,규정부칙 단서에서 세칙이 정하는 날은 KRX금시장의 거래상황 및 회원의 전산준비상황 등을 감안하여 위원장이 따로 정하는 날로 한다.
+이 세칙은 KRX금시장의 매매거래개시일부터 시행한다. 다만, 규정 부칙 단서에서 세칙이 정하는 날은 KRX금시장의 거래상황 및 회원의 전산준비상황 등을 감안하여 위원장이 따로 정하는 날로 한다.
 
 부칙 <제2255호, 2024. 10. 15.>
 
@@ -957,7 +1149,7 @@ attachments:
 
 **제2조(회원에 대한 징계 등의 적용례)**제25조 및 제25조의2의 개정규정은 이 세칙 시행 이후 최초로 회원에 대하여 징계를 하는 경우부터 적용한다.
 
-별표 및 서식
+ 별표 및 서식
 
 [별표 1] 회원제재금 부과기준
 

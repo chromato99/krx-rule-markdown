@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "204844930-en"
 title: "코스닥시장공정공시운영기준"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:15:37.498051Z"
+collected_at: "2026-07-12T08:03:13.279551Z"
 content_hash: "a71253a3e73405d7b03b88c42711c788a1817ce90cdd4a5365fd49f48002b216"
+body_hash: "4077b2bf565995ebf9945e1da84cafe2754a47775bc4ca137ef9c820f4a57fc9"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 코스닥시장규정"
 effective_date: "2024-05-27"
 published_date: "2024-05-24"
@@ -14,6 +18,10 @@ file_name: "코스닥시장공정공시운영기준.pdf"
 raw_path: "en/rules/코스닥시장공정공시운영기준/raw/english-full-text.pdf"
 text_path: "en/rules/코스닥시장공정공시운영기준/attachments/english-full-text.md"
 file_content_hash: "b8fbe5f33d8e772de1adf63a0cca0c16a9f03f4468a57b71655431e03c1c4d28"
+raw_file_hash: "b8fbe5f33d8e772de1adf63a0cca0c16a9f03f4468a57b71655431e03c1c4d28"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 KOSDAQ MARKET OPERATIONAL GUIDELINES

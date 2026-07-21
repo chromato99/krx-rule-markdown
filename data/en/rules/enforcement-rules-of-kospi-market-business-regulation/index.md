@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210225129-en"
 title: "Enforcement Rules of KOSPI Market Business Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T20:59:23.906668Z"
+collected_at: "2026-07-12T07:47:14.006340Z"
 content_hash: "342e27996fe603a273f29a9be8d521e263b74a539283d4767306ad34a2ee2545"
+body_hash: "691337aa59664b5f997eef2054b8c65b5aa41be849c9d5ad53be4e403a4a1bd3"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 유가증권시장규정"
 effective_date: "2026-07-02"
 published_date: "2026-07-02"
@@ -14,6 +18,10 @@ file_name: "20260427_Enforcement_Rules_of_KOSPI_Market_Business_Regulation.pdf"
 raw_path: "en/rules/enforcement-rules-of-kospi-market-business-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/enforcement-rules-of-kospi-market-business-regulation/attachments/english-full-text.md"
 file_content_hash: "79cf1faefa8741acefaae9d221856ff5c265e1eccf971aa64d5eb82b5d4f7329"
+raw_file_hash: "79cf1faefa8741acefaae9d221856ff5c265e1eccf971aa64d5eb82b5d4f7329"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Enforcement Rules of

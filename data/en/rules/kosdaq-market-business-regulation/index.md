@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210223407-en"
 title: "KOSDAQ Market Business Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:01:59.419508Z"
+collected_at: "2026-07-12T07:49:47.707944Z"
 content_hash: "b32567131373afb26337c1eb0c7cd038e96084ab002e8a3fb3d81783d31fc3aa"
+body_hash: "09c1ebc74c5372ac6a6883a91a8b1f544e8b8238cfaf50aa7af6f4a6a9e5c1a1"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 코스닥시장규정"
 effective_date: "2026-07-02"
 published_date: "2026-07-01"
@@ -14,6 +18,10 @@ file_name: "20260304_KOSDAQ_Market_Business_Regulation.pdf"
 raw_path: "en/rules/kosdaq-market-business-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/kosdaq-market-business-regulation/attachments/english-full-text.md"
 file_content_hash: "1c80af77c15e2e11e5413f538059dda89ca34bdcc26f98756fb6e1bf3031a955"
+raw_file_hash: "1c80af77c15e2e11e5413f538059dda89ca34bdcc26f98756fb6e1bf3031a955"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 KOSDAQ Market Business Regulation

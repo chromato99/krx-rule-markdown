@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210124215-en"
 title: "Regulations on Operating the New Type Securities Market 20250922"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:12:45.323505Z"
+collected_at: "2026-07-12T08:00:27.214905Z"
 content_hash: "f79d328ad7b35dab88a433a1513cf29d241ce60a58e6864336b8880ea9ff6ec0"
+body_hash: "fd769392901c05b28d194019415e7ecd0987c5e18e8e4c0869cb392022cf9cf2"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 유가증권시장규정"
 effective_date: "2025-09-22"
 published_date: "2025-09-22"
@@ -14,6 +18,10 @@ file_name: "Regulations_on_Operating_the_New-Type_Securities_Market_20250922.pdf
 raw_path: "en/rules/regulations-on-operating-the-new-type-securities-market-20250922/raw/english-full-text.pdf"
 text_path: "en/rules/regulations-on-operating-the-new-type-securities-market-20250922/attachments/english-full-text.md"
 file_content_hash: "070464020cf2622c82faf8ba441e89918498d09d89dcc252152012f946a81737"
+raw_file_hash: "070464020cf2622c82faf8ba441e89918498d09d89dcc252152012f946a81737"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Regulations on Operating the New-Type

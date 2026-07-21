@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210225665-en"
 title: "KOSPI Market Business Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T20:58:20.113123Z"
+collected_at: "2026-07-12T07:46:08.725856Z"
 content_hash: "a92bd144bb8dad39b967f1c0b506dadecc0a33aa426a9b44599ac1bbcabcf015"
+body_hash: "251c2a7e412afb8fd3005d7d941bc9b1460c1e21826811011d4d9815eec6c9d9"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 유가증권시장규정"
 effective_date: "2026-07-02"
 published_date: "2026-07-01"
@@ -14,6 +18,10 @@ file_name: "20260415_KOSPI_Market_Business_Regulation.pdf"
 raw_path: "en/rules/kospi-market-business-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/kospi-market-business-regulation/attachments/english-full-text.md"
 file_content_hash: "08c84c350e9adbeef2c0de491fb6a411b7b2fd31247a2d5acf66a8f96aa2fd70"
+raw_file_hash: "08c84c350e9adbeef2c0de491fb6a411b7b2fd31247a2d5acf66a8f96aa2fd70"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 KOSPI Market Business Regulation

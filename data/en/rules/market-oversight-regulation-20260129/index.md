@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210162282-en"
 title: "Market Oversight Regulation 20260129"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:11:24.985974Z"
+collected_at: "2026-07-12T07:59:07.048719Z"
 content_hash: "64a0b1eaf3062f5bbe69566740e329593e9db461fc9c78afbd939aee9010dd02"
+body_hash: "c03e83ac3c53e727f906db1efcd57d2efad8e82db1539e961525e093a6183415"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 시장감시규정"
 effective_date: "2026-01-29"
 published_date: "2026-01-29"
@@ -14,6 +18,10 @@ file_name: "Market_Oversight_Regulation_20260129.pdf"
 raw_path: "en/rules/market-oversight-regulation-20260129/raw/english-full-text.pdf"
 text_path: "en/rules/market-oversight-regulation-20260129/attachments/english-full-text.md"
 file_content_hash: "cc5a3041824a96a813adbee79f62c4b208bb956f874a2198e3d6447f65ccb24b"
+raw_file_hash: "cc5a3041824a96a813adbee79f62c4b208bb956f874a2198e3d6447f65ccb24b"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Market Oversight Regulation

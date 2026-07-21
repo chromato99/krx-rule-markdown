@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210204739-en"
 title: "Enforcement Rules of Membership Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:10:04.592540Z"
+collected_at: "2026-07-12T07:57:46.572975Z"
 content_hash: "24165385ae552b36b4f0d88e8bbb98ef98c252ca455fff4ed476e2eb49e7d199"
+body_hash: "a8a9c08af206ba8d33d8f56f288680e00e2b46d62fd5b1da2b1b92d4e38567f7"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 회원관리규정"
 effective_date: "2026-05-04"
 published_date: "2026-04-28"
@@ -14,6 +18,10 @@ file_name: "20260428_Enforcement_Rules_of_Membership_Regulation.pdf"
 raw_path: "en/rules/enforcement-rules-of-membership-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/enforcement-rules-of-membership-regulation/attachments/english-full-text.md"
 file_content_hash: "2f26332161311ac4e1736be4bef577dce57b8895c44f83950c6e442873150518"
+raw_file_hash: "2f26332161311ac4e1736be4bef577dce57b8895c44f83950c6e442873150518"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Enforcement Rules of Membership Regulation

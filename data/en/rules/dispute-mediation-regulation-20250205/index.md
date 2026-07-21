@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210015705-en"
 title: "Dispute Mediation Regulation 20250205"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:14:01.392579Z"
+collected_at: "2026-07-12T08:01:37.346832Z"
 content_hash: "76058329e4ea418763d7a2e138794f272d6931d21f5f099faf5abce0f218abe4"
+body_hash: "7caef756bf3dd896750d95bc36ce601db5e9f7f2c8ad1eea159f6994d9f07646"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 시장감시규정"
 effective_date: "2025-03-04"
 published_date: "2025-02-05"
@@ -14,6 +18,10 @@ file_name: "Dispute_Mediation_Regulation_20250205.pdf"
 raw_path: "en/rules/dispute-mediation-regulation-20250205/raw/english-full-text.pdf"
 text_path: "en/rules/dispute-mediation-regulation-20250205/attachments/english-full-text.md"
 file_content_hash: "d11fc0993078f29aa87596d899abef65bd4fc14a1680a7f4c5af5f4bb59e09a5"
+raw_file_hash: "d11fc0993078f29aa87596d899abef65bd4fc14a1680a7f4c5af5f4bb59e09a5"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Dispute Mediation Regulation

@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210136803-en"
 title: "Enforcement Rules of Reg. on Operating the New Type Sec. Market 20251023"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:12:19.284513Z"
+collected_at: "2026-07-12T08:00:01.092457Z"
 content_hash: "162b035a584c41cfc5217c9023ee052ffd73c08f0d3e994d3dc7f465516927a2"
+body_hash: "b58f08a1de25b69e10a10ca69f2816388e2442f0bf3603be2718f43a847b8ef3"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 유가증권시장규정"
 effective_date: "2025-10-23"
 published_date: "2025-10-23"
@@ -14,6 +18,10 @@ file_name: "Enforcement_Rules_of_Reg._on_Operating_the_New-Type_Sec._Market_2025
 raw_path: "en/rules/enforcement-rules-of-reg-on-operating-the-new-type-sec-market-20251023/raw/english-full-text.pdf"
 text_path: "en/rules/enforcement-rules-of-reg-on-operating-the-new-type-sec-market-20251023/attachments/english-full-text.md"
 file_content_hash: "9badc6a393c27eecb48a5889e2b955f290ba2d0ce2510ac776e92cd38f11d2b3"
+raw_file_hash: "9badc6a393c27eecb48a5889e2b955f290ba2d0ce2510ac776e92cd38f11d2b3"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Enforcement Rules of Regulations on

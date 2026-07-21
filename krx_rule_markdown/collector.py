@@ -9,6 +9,8 @@ import re
 import time
 
 from .attachment_policy import is_excluded_current_rule_attachment
+from .assets import MAX_ASSET_BYTES
+from .contracts import CONVERTER_VERSION
 from .html import attr_value, element_by_id, elements_by_class, first_match, html_to_markdown, strip_tags
 from .models import (
     ATTACHMENT_PENDING,
@@ -18,6 +20,7 @@ from .models import (
     Document,
     Item,
     first_non_empty,
+    hash_bytes,
     hash_text,
     now_utc,
     slug,
@@ -25,6 +28,19 @@ from .models import (
 
 DEFAULT_BASE_URL = "https://rule.krx.co.kr"
 MAX_FILE_NAME_BYTES = 180
+MAX_RESPONSE_BYTES = 64 * 1024 * 1024
+
+
+class SameHostRedirectHandler(request.HTTPRedirectHandler):
+    def __init__(self, allowed_host: str, allowed_scheme: str) -> None:
+        self.allowed_host = (allowed_host or "").lower()
+        self.allowed_scheme = (allowed_scheme or "").lower()
+
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        target = parse.urlparse(newurl)
+        if target.scheme.lower() != self.allowed_scheme or (target.hostname or "").lower() != self.allowed_host:
+            raise error.HTTPError(newurl, code, "redirect target is outside the configured KRX host", headers, fp)
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
 
 
 class Client:
@@ -34,7 +50,13 @@ class Client:
         self.last_request = 0.0
         self.csrf = ""
         self.csrf_header = "X-CSRF-TOKEN"
-        opener = request.build_opener(request.HTTPCookieProcessor(CookieJar()))
+        base = parse.urlparse(self.base_url)
+        if base.scheme not in {"http", "https"} or not base.hostname:
+            raise ValueError("base_url must be an absolute HTTP(S) URL")
+        opener = request.build_opener(
+            request.HTTPCookieProcessor(CookieJar()),
+            SameHostRedirectHandler(base.hostname, base.scheme),
+        )
         self.opener = opener
 
     def bootstrap(self) -> None:
@@ -60,24 +82,43 @@ class Client:
 
     def fetch_rule(self, item: Item) -> Document:
         self.ensure_session()
-        body = self.post_form(
+        response = self.post_form(
             "/out/regulation/regulationViewPop.do",
             {
                 "bookid": first_non_empty(item.book_id, item.id),
                 "noformyn": first_non_empty(item.noformyn, "N"),
                 "_csrf": self.csrf,
             },
-        ).decode("utf-8", errors="replace")
+        )
+        body = response.decode("utf-8", errors="replace")
         item.state_history_id = first_non_empty(item.state_history_id, extract_state_history_id(body))
-        return parse_rule_document(body, item, self.base_url)
+        doc = parse_rule_document(body, item, self.base_url)
+        doc.source_response_hash = hash_bytes(response)
+        doc.source_request = {
+            "endpoint": "/out/regulation/regulationViewPop.do",
+            "bookid": first_non_empty(item.book_id, item.id),
+            "noformyn": first_non_empty(item.noformyn, "N"),
+            "statehistoryid": item.state_history_id,
+            "source_content_hash": doc.source_content_hash,
+        }
+        return doc
 
     def fetch_notice(self, item: Item) -> Document:
         self.ensure_session()
-        body = self.post_form(
+        response = self.post_form(
             "/out/pds/pdsViewPop.do",
             {"BBSID": item.id, "Menuid": first_non_empty(item.menu_id, "10000016"), "_csrf": self.csrf},
-        ).decode("utf-8", errors="replace")
-        return parse_notice_document(body, item, self.base_url)
+        )
+        body = response.decode("utf-8", errors="replace")
+        doc = parse_notice_document(body, item, self.base_url)
+        doc.source_response_hash = hash_bytes(response)
+        doc.source_request = {
+            "endpoint": "/out/pds/pdsViewPop.do",
+            "BBSID": item.id,
+            "Menuid": first_non_empty(item.menu_id, "10000016"),
+            "source_content_hash": doc.source_content_hash,
+        }
+        return doc
 
     def download_attachment(self, att: Attachment) -> tuple[Attachment, bytes]:
         self.ensure_session()
@@ -191,10 +232,32 @@ class Client:
     def get(self, path: str) -> bytes:
         return self.do("GET", path, None)
 
+    def download_inline_asset(self, source_url: str) -> tuple[bytes, str]:
+        source = parse.urlparse(source_url)
+        base = parse.urlparse(self.base_url)
+        if source.scheme.lower() != base.scheme.lower() or (source.hostname or "").lower() != (base.hostname or "").lower():
+            raise ValueError("inline asset URL is outside the configured KRX host")
+        if not source.path.startswith("/dataFile/law/img/"):
+            raise ValueError("inline asset URL is outside the allowed KRX image path")
+        target = source.path + (("?" + source.query) if source.query else "")
+        body, content_type = self.do_response("GET", target, None, max_response_bytes=MAX_ASSET_BYTES)
+        return body, content_type
+
     def post_form(self, path: str, values: dict[str, str], referer: str = "") -> bytes:
         return self.do("POST", path, parse.urlencode(values).encode("utf-8"), referer=referer)
 
     def do(self, method: str, path: str, data: bytes | None, referer: str = "") -> bytes:
+        return self.do_response(method, path, data, referer=referer)[0]
+
+    def do_response(
+        self,
+        method: str,
+        path: str,
+        data: bytes | None,
+        referer: str = "",
+        *,
+        max_response_bytes: int = MAX_RESPONSE_BYTES,
+    ) -> tuple[bytes, str]:
         last_error: Exception | None = None
         for attempt in range(4):
             self.throttle()
@@ -208,7 +271,14 @@ class Client:
                 req.add_header("Referer", self.base_url + referer)
             try:
                 with self.opener.open(req, timeout=40) as resp:
-                    return resp.read()
+                    content_length = resp.headers.get("Content-Length")
+                    if content_length and int(content_length) > max_response_bytes:
+                        raise RuntimeError(f"response exceeds {max_response_bytes} bytes")
+                    body = resp.read(max_response_bytes + 1)
+                    if len(body) > max_response_bytes:
+                        raise RuntimeError(f"response exceeds {max_response_bytes} bytes")
+                    content_type = str(resp.headers.get("Content-Type") or "").split(";", 1)[0].strip().lower()
+                    return body, content_type
             except error.HTTPError as exc:
                 if exc.code not in {429, 500, 502, 503, 504}:
                     raise
@@ -274,7 +344,8 @@ def parse_recent_items(body: str) -> list[Item]:
 def parse_rule_document(body: str, item: Item, base_url: str) -> Document:
     title = strip_tags(first_match(r"<p\b[^>]*class=[\"'][^\"']*\btitle\b[^\"']*[\"'][^>]*>(.*?)</p>", body)) or item.title
     inner = element_by_id(body, "innerbody")
-    body_md = html_to_markdown(inner or body, base_url=base_url)
+    source_content = sanitize_source_html(inner or body)
+    body_md = html_to_markdown(source_content, base_url=base_url)
     jang = strip_tags(first_match(r"<p\b[^>]*class=[\"'][^\"']*\bjang\b[^\"']*[\"'][^>]*>(.*?)</p>", body))
     effective = first_non_empty(extract_effective_date(jang), item.effective_date)
     published = first_non_empty(extract_promul_date(jang), item.published_date)
@@ -290,6 +361,9 @@ def parse_rule_document(body: str, item: Item, base_url: str) -> Document:
         attachments=attachments,
         document_type=DOCUMENT_RULE,
         body=body_md,
+        source_content_html=source_content,
+        source_content_hash=hash_text(source_content),
+        converter_version=CONVERTER_VERSION,
     )
     doc.content_hash = hash_text(doc.title + "\n" + doc.body)
     return doc
@@ -311,6 +385,7 @@ def parse_notice_document(body: str, item: Item, base_url: str) -> Document:
         if "내용" in strip_tags(first_match(r"<th\b[^>]*>(.*?)</th>", tr)):
             content = first_match(r"<td\b[^>]*>(.*?)</td>", tr) or tr
             break
+    source_content = sanitize_source_html(content)
     doc = Document(
         id=item.id,
         title=title,
@@ -320,10 +395,31 @@ def parse_notice_document(body: str, item: Item, base_url: str) -> Document:
         collected_at=now_utc(),
         attachments=parse_notice_attachments(body, item),
         document_type=DOCUMENT_NOTICE,
-        body=html_to_markdown(content, base_url=base_url),
+        body=html_to_markdown(source_content, base_url=base_url),
+        source_content_html=source_content,
+        source_content_hash=hash_text(source_content),
+        converter_version=CONVERTER_VERSION,
     )
     doc.content_hash = hash_text(doc.title + "\n" + doc.body)
     return doc
+
+
+def sanitize_source_html(value: str) -> str:
+    text = value or ""
+    text = re.sub(r"<(script|style)\b[^>]*>.*?</\1\s*>", "", text, flags=re.I | re.S)
+    text = re.sub(
+        r"<meta\b(?=[^>]*\bname=[\"']_csrf(?:_header)?[\"'])[^>]*>",
+        "",
+        text,
+        flags=re.I | re.S,
+    )
+    text = re.sub(
+        r"<input\b(?=[^>]*\bname=[\"']_csrf[\"'])[^>]*>",
+        "",
+        text,
+        flags=re.I | re.S,
+    )
+    return text.strip()
 
 
 def parse_rule_attachments(body: str, item: Item) -> list[Attachment]:
@@ -452,8 +548,13 @@ def validate_download(att: Attachment, body: bytes) -> None:
     lower = trimmed[:128].decode("utf-8", errors="ignore").lower()
     if lower.startswith("<script") or lower.startswith("<html") or "alert(" in lower:
         raise RuntimeError("download returned HTML error response")
-    if Path(att.file_name).suffix.lower() == ".pdf" and not trimmed.startswith(b"%PDF-"):
+    suffix = Path(att.file_name).suffix.lower()
+    if suffix == ".pdf" and not trimmed.startswith(b"%PDF-"):
         raise RuntimeError("downloaded file is not a PDF")
+    if suffix == ".hwp" and not trimmed.startswith(b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1"):
+        raise RuntimeError("downloaded file is not an HWP OLE container")
+    if suffix == ".hwpx" and not trimmed.startswith(b"PK\x03\x04"):
+        raise RuntimeError("downloaded file is not an HWPX ZIP container")
 
 
 def normalize_date(raw: str) -> str:

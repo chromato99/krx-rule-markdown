@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "204844585-en"
 title: "유가증권시장공정공시운영기준"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:15:34.398832Z"
+collected_at: "2026-07-12T08:03:10.038572Z"
 content_hash: "7a94596d7b662fdf3fe7133b1ce298316c317beeb94709505021264494c8bbf9"
+body_hash: "7822e49b46b1b398eb379988607b47b58ba45687f6a76ef5c32de1bc3aa96431"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 유가증권시장규정"
 effective_date: "2024-05-27"
 published_date: "2024-05-24"
@@ -14,6 +18,10 @@ file_name: "유가증권시장공정공시운영기준.pdf"
 raw_path: "en/rules/유가증권시장공정공시운영기준/raw/english-full-text.pdf"
 text_path: "en/rules/유가증권시장공정공시운영기준/attachments/english-full-text.md"
 file_content_hash: "01326ea8fbaad1f9e2b61e15eccfd04d153cc75635c3681ffb0ea01c3eabc795"
+raw_file_hash: "01326ea8fbaad1f9e2b61e15eccfd04d153cc75635c3681ffb0ea01c3eabc795"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 KOSPI MARKET OPERATIONAL GUIDELINES

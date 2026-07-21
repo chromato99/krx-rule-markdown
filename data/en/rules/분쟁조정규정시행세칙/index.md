@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "204844636-en"
 title: "분쟁조정규정시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:16:04.198987Z"
+collected_at: "2026-07-12T08:03:39.657673Z"
 content_hash: "d6a46c056cc810ca27619925615d6a400a73f2531aa29a322b6c0301194f65f9"
+body_hash: "7ed648b2e057309fc0b1a8e0600f01cfda47e7418163bd1ba3283590b01eebcc"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 시장감시규정"
 effective_date: "2023-09-01"
 published_date: "2023-08-31"
@@ -14,6 +18,10 @@ file_name: "분쟁조정규정시행세칙.pdf"
 raw_path: "en/rules/분쟁조정규정시행세칙/raw/english-full-text.pdf"
 text_path: "en/rules/분쟁조정규정시행세칙/attachments/english-full-text.md"
 file_content_hash: "06a4767777b5927f73adebdaf90e114160c7968f4f9998a3ce8002ccbd75137f"
+raw_file_hash: "06a4767777b5927f73adebdaf90e114160c7968f4f9998a3ce8002ccbd75137f"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Enforcement Rules of

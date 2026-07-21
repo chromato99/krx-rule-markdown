@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210049902-en"
 title: "Reg. on the Market Operation of Class X Beneficiary Certificates 20250326"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:13:50.790110Z"
+collected_at: "2026-07-12T08:01:27.414073Z"
 content_hash: "5dd535062929afe15b1b15d7fa8fb7d79196e052feb6fc0669bf1c69ba4934f9"
+body_hash: "36fe0d975d034869d0d6f9482492beabb529860a042c07f647a6b60e3989d7c6"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 유가증권시장규정"
 effective_date: "2025-03-26"
 published_date: "2025-03-26"
@@ -14,6 +18,10 @@ file_name: "Reg._on_the_Market_Operation_of_Class_X_Beneficiary_Certificates_202
 raw_path: "en/rules/reg-on-the-market-operation-of-class-x-beneficiary-certificates-20250326/raw/english-full-text.pdf"
 text_path: "en/rules/reg-on-the-market-operation-of-class-x-beneficiary-certificates-20250326/attachments/english-full-text.md"
 file_content_hash: "e1b2907003ffe3686c6405a7dc0566a0970d5f5d6e429eb585de90348bd8620d"
+raw_file_hash: "e1b2907003ffe3686c6405a7dc0566a0970d5f5d6e429eb585de90348bd8620d"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Regulations on the Market Operation of

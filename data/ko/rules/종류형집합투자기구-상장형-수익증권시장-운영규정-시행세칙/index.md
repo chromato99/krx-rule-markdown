@@ -1,25 +1,42 @@
 ---
+schema_version: 2
 id: "210137438"
 title: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:12:22.573914Z"
-content_hash: "00293457101ecf768ed00ce2b5174fc2e394442896210fd67f4cff80bbd303ea"
+collected_at: "2026-07-12T08:00:04.359939Z"
+content_hash: "7c56bdf9f1ab2cbab1bf4d1139fab0e2ab5a82443e55ee98c3cf4638c55bdbde"
+body_hash: "ce2b1a6851b204d2adb16d6c3740cf8753af724451f8472530d0ca5431988322"
 document_type: "rule"
 language: "ko"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 유가증권시장규정"
 effective_date: "2025-10-20"
 published_date: "2025-10-20"
+source_content_hash: "86ea9a31b4adc4361e7b59f5dd55808c147f13e23b4987fad69280336964e761"
+source_content_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/raw/source.html"
+source_request_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/raw/request.json"
+converter_version: "2"
+asset_inspection_version: "1"
+preservation_status: "preserved"
 attachments:
   - id: "210137438-210067529-hwp"
     title: "[별표1] 상장예비심사 신청 서류<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210067529.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/raw/별표1-상장예비심사-신청-서류신설-2025-5-9.hwp"
     text_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/attachments/별표1-상장예비심사-신청-서류신설-2025-5-9.md"
     content_hash: "f4163c3ec0d2ad13d0409bfcba86bcab8504c16fde00a0ac0c385d59edea35ad"
+    raw_file_hash: "f4163c3ec0d2ad13d0409bfcba86bcab8504c16fde00a0ac0c385d59edea35ad"
+    converted_text_hash: "59dda2e7da2ddbf55997773fdd6e5c62e98123ed39429e17a1ec6aa8d1c97104"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 33792
     quality_status: "ok"
     quality_score: 100
@@ -30,12 +47,19 @@ attachments:
     title: "[별표2] 신규상장 신청 서류<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210067531.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/raw/별표2-신규상장-신청-서류신설-2025-5-9.hwp"
     text_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/attachments/별표2-신규상장-신청-서류신설-2025-5-9.md"
     content_hash: "e0e0d2ff6b4242784824f0aa9b892454442b5c400c897217fa3cc2721aa4172e"
+    raw_file_hash: "e0e0d2ff6b4242784824f0aa9b892454442b5c400c897217fa3cc2721aa4172e"
+    converted_text_hash: "6f8d779d069853c72c5c99ae6c38dd211c2ba55d6268170f27ea6af766be5199"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 36864
     quality_status: "ok"
     quality_score: 100
@@ -46,12 +70,19 @@ attachments:
     title: "[별표3] 상장형 수익증권 상장심사기준<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210067532.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/raw/별표3-상장형-수익증권-상장심사기준신설-2025-5-9.hwp"
     text_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/attachments/별표3-상장형-수익증권-상장심사기준신설-2025-5-9.md"
     content_hash: "b0c27ea5ccfb3de590a6bad7617f2cfc79f0acf7ec0e92c1357c287c994c770a"
+    raw_file_hash: "b0c27ea5ccfb3de590a6bad7617f2cfc79f0acf7ec0e92c1357c287c994c770a"
+    converted_text_hash: "1625988dc6ba0b59297ca7fdf218e5f4961d33f9da23034038120f27ef21558a"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 38400
     quality_status: "ok"
     quality_score: 100
@@ -61,12 +92,19 @@ attachments:
     title: "[별표4] 추가상장 신청 서류<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210067544.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/raw/별표4-추가상장-신청-서류신설-2025-5-9.hwp"
     text_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/attachments/별표4-추가상장-신청-서류신설-2025-5-9.md"
     content_hash: "d08ced966e25b75c2590e0971c4ea49c90795c86082111cbf82e63bf5724008a"
+    raw_file_hash: "d08ced966e25b75c2590e0971c4ea49c90795c86082111cbf82e63bf5724008a"
+    converted_text_hash: "4e909610760596fc36aac01c2233ab397fa4724b1224112f6f83b666653ac78b"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 23552
     quality_status: "ok"
     quality_score: 100
@@ -77,12 +115,19 @@ attachments:
     title: "[별표5] 변경상장 신청 서류<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210067546.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/raw/별표5-변경상장-신청-서류신설-2025-5-9.hwp"
     text_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/attachments/별표5-변경상장-신청-서류신설-2025-5-9.md"
     content_hash: "986f55cc5bc4a5f9027d8efd0296e4d021e055d762ad3d07d90d4c7f0245d13e"
+    raw_file_hash: "986f55cc5bc4a5f9027d8efd0296e4d021e055d762ad3d07d90d4c7f0245d13e"
+    converted_text_hash: "9d07604656b234d0557748601b4688aa5eb5c6ae61616e0172effedc196ad397"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 24064
     quality_status: "ok"
     quality_score: 100
@@ -93,12 +138,19 @@ attachments:
     title: "[별표6] 관리종목지정·해제 시기<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210067547.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/raw/별표6-관리종목지정해제-시기신설-2025-5-9.hwp"
     text_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/attachments/별표6-관리종목지정해제-시기신설-2025-5-9.md"
     content_hash: "b92db213e35eb36a40d9788b30de465e4b051d3a0ac68aab55c80df28190a03d"
+    raw_file_hash: "b92db213e35eb36a40d9788b30de465e4b051d3a0ac68aab55c80df28190a03d"
+    converted_text_hash: "ce6d80ce66dea8edd8da8275a0fe5b4f9ba0743fc791942177b98bd66c19635c"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 38400
     quality_status: "ok"
     quality_score: 100
@@ -109,12 +161,19 @@ attachments:
     title: "[별표7] 상장수수료 및 연부과금<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210067556.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/raw/별표7-상장수수료-및-연부과금신설-2025-5-9.hwp"
     text_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/attachments/별표7-상장수수료-및-연부과금신설-2025-5-9.md"
     content_hash: "f0409ed4c9c323d8e1f211d2e9842943dbb033d9896ee5c44a0aa94c0cc53517"
+    raw_file_hash: "f0409ed4c9c323d8e1f211d2e9842943dbb033d9896ee5c44a0aa94c0cc53517"
+    converted_text_hash: "08e85a8b475387cf47e3e6b4f69e8daba7e35800625c512d6e55c4ab4f87b23c"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 72192
     quality_status: "ok"
     quality_score: 100
@@ -125,12 +184,19 @@ attachments:
     title: "[별지 제1호 서식] 상장계약서<신설 2025. 5. 9.,개정 2025. 10. 24.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210137539.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/raw/별지-제1호-서식-상장계약서신설-2025-5-9-개정-2025-10-24.hwp"
     text_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/attachments/별지-제1호-서식-상장계약서신설-2025-5-9-개정-2025-10-24.md"
     content_hash: "0326805406194b72ff587db6ebcf26d3221b10afe6347b12ac6295fa63b29220"
+    raw_file_hash: "0326805406194b72ff587db6ebcf26d3221b10afe6347b12ac6295fa63b29220"
+    converted_text_hash: "5c6d6bc220d4464f13cd0b3b7fb8ab929072c293d9bf1484744fe1d876c3efd1"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 50176
     quality_status: "ok"
     quality_score: 100
@@ -141,12 +207,19 @@ attachments:
     title: "[별지 제2호 서식] 추가·변경상장신청서<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210067580.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/raw/별지-제2호-서식-추가변경상장신청서신설-2025-5-9.hwp"
     text_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/attachments/별지-제2호-서식-추가변경상장신청서신설-2025-5-9.md"
     content_hash: "77a08b4ccec14c977fbf9f45250e2d5d86017e368becd9f17de097460159fd1f"
+    raw_file_hash: "77a08b4ccec14c977fbf9f45250e2d5d86017e368becd9f17de097460159fd1f"
+    converted_text_hash: "01c1348d05a7244fee344f583506f92cd1ffb536304bb66d65b43542d4541513"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 33280
     quality_status: "ok"
     quality_score: 100
@@ -157,12 +230,19 @@ attachments:
     title: "[별지 제3호 서식] 유동성공급계좌 신고서<신설 2025. 5. 9.>"
     file_name: "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙_1차_"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210067582.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/raw/별지-제3호-서식-유동성공급계좌-신고서신설-2025-5-9.hwp"
     text_path: "ko/rules/종류형집합투자기구-상장형-수익증권시장-운영규정-시행세칙/attachments/별지-제3호-서식-유동성공급계좌-신고서신설-2025-5-9.md"
     content_hash: "2592db67903797a59022de932e43b1a75ec9a951120fa9490e418e35be6c8bb0"
+    raw_file_hash: "2592db67903797a59022de932e43b1a75ec9a951120fa9490e418e35be6c8bb0"
+    converted_text_hash: "7ecaba6e69d82b78204932cc957a503fb9ee55382982231309e2c1f72e133c29"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 39424
     quality_status: "ok"
     quality_score: 100
@@ -175,7 +255,7 @@ attachments:
 
 **제1조(목적)**이 세칙은 「종류형집합투자기구 상장형 수익증권시장 운영규정」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.
 
-제2장 종류형집합투자기구 상장형 수익증권의 상장
+ 제2장 종류형집합투자기구 상장형 수익증권의 상장
 
 **제2조(상장계약서)**규정 제4조제2항 전단에서 "세칙으로 정하는 서식"이란 별지 제1호 서식의 상장계약서를 말한다.
 
@@ -197,7 +277,7 @@ attachments:
 
 **제6조(관리종목지정)**규정 제8조제3항에 따른 관리종목 지정 및 해제 시기는 별표 6에 따른다.
 
-제3장 종류형집합투자기구 상장형 수익증권 상장법인의 신고·공시
+ 제3장 종류형집합투자기구 상장형 수익증권 상장법인의 신고·공시
 
 **제7조(신고의무)**① 규정 제14조제1항제2호에서 "세칙으로 정하는 자산구성내역"이란 종류형집합투자기구에서 자산 비중을 기준으로 100분의 70 이상에 해당하는 편입자산별 명칭 및 그 자산의 비중을 말한다. 이 경우 자산 비중이 높은 자산을 우선하여 자산구성내역에 포함한다.
 
@@ -237,7 +317,7 @@ attachments:
 
 7. 그 밖에 거래소가 공익 실현과 투자자 보호를 위하여 필요하다고 인정하는 경우
 
-제4장 시장운영, 매매거래, 청산결제 등
+ 제4장 시장운영, 매매거래, 청산결제 등
 
 **제8조(기준가격)**① 규정 제16조제1항에서 "세칙으로 정하는 기준가격"이란 다음 각 호의 구분에 따른 가격을 말한다.
 
@@ -245,15 +325,15 @@ attachments:
 
 2. 신규상장종목 : 법 제238조제6항에 따라 산정된 기준가격을 10,000좌 단위로 산정한 가격. 이 경우 상장일을 기준으로 가장 최근에 공표된 기준가격으로 하며, 상장일 전일에 공표되는 경우에는 17시까지 공표된 것으로 한정한다.
 
-3. 시가기준가종목 : 「유가증권시장 업무규정」(이하 "업무규정"이라 한다)제37조제1항에 따라 최초로 결정된 가격. 이 경우 최초의 가격이 장종료시까지 결정되지 아니한 경우에는 다음 각 목의 구분에 따른 가격을 다음 매매거래일의 기준가격으로 한다.
+3. 시가기준가종목 : 「유가증권시장 업무규정」(이하 "업무규정"이라 한다) 제37조제1항에 따라 최초로 결정된 가격. 이 경우 최초의 가격이 장종료시까지 결정되지 아니한 경우에는 다음 각 목의 구분에 따른 가격을 다음 매매거래일의 기준가격으로 한다.
 
-가.업무규정시행세칙 별표 1에서 정하는 평가가격(그 가격이 없는 경우에는 최저호가가격으로 한다. 이하 이 조에서 "평가가격"이라 한다)보다 낮은 매도호가가 있는 경우 : 가장 낮은 매도호가의 가격
+가. 업무규정 시행세칙 별표 1에서 정하는 평가가격(그 가격이 없는 경우에는 최저호가가격으로 한다. 이하 이 조에서 "평가가격"이라 한다)보다 낮은 매도호가가 있는 경우 : 가장 낮은 매도호가의 가격
 
 나. 평가가격보다 높은 매수호가가 있는 경우 : 가장 높은 매수호가의 가격
 
 다. 가목 및 나목 외의 경우 : 평가가격
 
-4. 이익금 분배를 거래소에 신고한 종목 :업무규정시행세칙 제132조제1항에 따른 기준일의 2매매거래일 전일의 종가에서 10,000좌당 분배금액(분배금액이 확정되지 아니한 경우에는 법 제238조제6항에 따라 산정된 기준가격 중 17시까지 발표된 가격을 감안하여 산정한 금액으로 한다)을 차감한 가격.
+4. 이익금 분배를 거래소에 신고한 종목 : 업무규정 시행세칙 제132조제1항에 따른 기준일의 2매매거래일 전일의 종가에서 10,000좌당 분배금액(분배금액이 확정되지 아니한 경우에는 법 제238조제6항에 따라 산정된 기준가격 중 17시까지 발표된 가격을 감안하여 산정한 금액으로 한다)을 차감한 가격.
 
 ② 제1항제2호 및 제4호에 따른 가격(1원 미만은 버린다)이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다.
 
@@ -275,11 +355,11 @@ attachments:
 
 2. 최우선호가를 기준으로 한 호가스프레드가 1호가가격단위에 해당되어 호가스프레드비율을 규정 제18조제1항에 따른 범위 이내로 축소할 수 없는 경우
 
-3.업무규정제23조에 의한 단일가격에 의한 개별경쟁매매의 방법에 따라 가격이 결정되는 경우업무규정시행세칙 제35조제1항 각 호에 따른 호가접수시간 및 해당 시간 종료후 5분이 경과하지 아니한 경우
+3. 업무규정 제23조에 의한 단일가격에 의한 개별경쟁매매의 방법에 따라 가격이 결정되는 경우 업무규정 시행세칙 제35조제1항 각 호에 따른 호가접수시간 및 해당 시간 종료후 5분이 경과하지 아니한 경우
 
 4. 호가상황 또는 거래상황의 급격한 변동 그 밖의 사유로 거래소가 시장관리상 필요하다고 인정하는 경우
 
-**제11조(유동성공급호가의 제출방법)**① 유동성공급회원은 규정 제19조제1항에 따른 유동성공급계좌[업무규정제18조제2항제7호 및 「코스닥시장 업무규정」제9조의3제2항제6호의유동성공급호가 제출과 관련된 헤지거래(이하 "헤지거래"라한다)를위한 계좌를 포함한다]를 개설, 변경(해당 계좌를 통한 유동성공급종목이 변경되는 경우를 포함한다) 또는 폐쇄하고자 하는 경우에는 그 계좌에 관한 사항을 해당 계좌를 통해 유동성공급호가 또는 헤지거래호가를 제출하는 날의 2매매거래일 전까지 별지 제3호 서식에 따라 거래소에 신고하여야 한다.<개정 2025. 10. 20.>
+**제11조(유동성공급호가의 제출방법)**① 유동성공급회원은 규정 제19조제1항에 따른 유동성공급계좌[업무규정 제18조제2항제7호 및 「코스닥시장 업무규정」제9조의3제2항제6호의 유동성공급호가 제출과 관련된 헤지거래(이하 "헤지거래"라 한다)를 위한 계좌를 포함한다]를 개설, 변경(해당 계좌를 통한 유동성공급종목이 변경되는 경우를 포함한다) 또는 폐쇄하고자 하는 경우에는 그 계좌에 관한 사항을 해당 계좌를 통해 유동성공급호가 또는 헤지거래호가를 제출하는 날의 2매매거래일 전까지 별지 제3호 서식에 따라 거래소에 신고하여야 한다. <개정 2025. 10. 20.>
 
 ② 규정 제19조제3항에 따라 유동성공급회원은 상장형 수익증권 유동성공급호가를 제출하는 경우에는 상장형 수익증권 매매수량단위의 100배에 해당하는 수량 이상을 제출해야 한다. 다만, 상장수량에서 유동성공급회원이 소유중인 수량을 뺀 수량이 상장형 수익증권 매매수량단위의 100배에 해당하는 수량 미만인 경우에는 유동성공급호가 중 매수호가수량은 상장형 수익증권 매매수량단위의 100배에 해당하는 수량으로 하여야 한다.
 
@@ -295,7 +375,7 @@ attachments:
 
 ⑥ 유동성공급회원은 유동성공급호가를 제출함에 있어 이를 다른 회원에게 위탁하여서는 아니 된다.
 
-⑦유동성공급회원이 헤지거래를 위해 제출하는 기초주권의 차입공매도 호가에 대해서는업무규정제18조제2항제7호 및 「코스닥시장 업무규정」제9조의3제2항제6호의 상장지수집합투자기구 집합투자증권에 관한 사항을 적용한다.<신설 2025. 10. 20.>
+⑦ 유동성공급회원이 헤지거래를 위해 제출하는 기초주권의 차입공매도 호가에 대해서는 업무규정 제18조제2항제7호 및 「코스닥시장 업무규정」 제9조의3제2항제6호의 상장지수집합투자기구 집합투자증권에 관한 사항을 적용한다. <신설 2025. 10. 20.>
 
 **제12조(양방향 호가제출의 예외)**규정 제19조제2항 단서에서 "세칙으로 정하는 경우"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다.
 
@@ -363,9 +443,9 @@ attachments:
 
 ② 규정 제22조제1항제2호에서 "세칙에서 정한 비율"이란 10%를 말한다.
 
-③ 규정 제22조제2항에 따라 종목별 매매계약체결방법 등의 변경 및 변경사실의 공표 등에 관하여는업무규정시행세칙 제41조의2제3항부터 제6항까지 및 제41조의3을 준용한다.
+③ 규정 제22조제2항에 따라 종목별 매매계약체결방법 등의 변경 및 변경사실의 공표 등에 관하여는 업무규정 시행세칙 제41조의2제3항부터 제6항까지 및 제41조의3을 준용한다.
 
-제5장 보칙
+ 제5장 보칙
 
 **제19조(상장수수료와 연부과금)**규정 제23조제2항에 따라 상장수수료 및 연부과금과 관련한 수수료율, 산출·납부방법, 면제범위, 그 밖에 필요한 사항은 별표 7에서 정한다.
 
@@ -373,21 +453,21 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2025년 5월 12일부터 시행한다. 다만, 제4장(제8조부터 제18조까지) 및 제19조는 다음 각 호의 구분에 따른 날부터 시행한다.
 
-1. 제4장(제8조부터 제18조까지) :2025년 10월 27일<개정 2025. 10. 20.>
+1. 제4장(제8조부터 제18조까지) : 2025년 10월 27일 <개정 2025. 10. 20.>
 
-2. 제19조 :2026년 10월 27일<개정 2025. 10. 20.>
+2. 제19조 : 2026년 10월 27일 <개정 2025. 10. 20.>
 
 **제1조의2(상장수수료 납부 적용례)**제19조에 따른 상장수수료의 납부는 부칙 제1조제2호에 따른 날 이후 상장예비심사신청서를 제출하는 상장신청인부터 적용한다.
 
 [신설 2025. 10. 20.]
 
-**제2조(종류형집합투자기구 상장형 수익증권시장 운영규정의 시행일)**규정 제2319호 종류형집합투자기구 상장형 수익증권시장 운영규정 부칙 제1조에서 "세칙으로 정하는 날"이란 2025년 5월 12일을 말한다. 다만, 같은 규정 제4장(제15조부터 제22조까지)의 경우에는 2025년 10월 27일로 한다.<개정 2025. 10. 20.>
+**제2조(종류형집합투자기구 상장형 수익증권시장 운영규정의 시행일)**규정 제2319호 종류형집합투자기구 상장형 수익증권시장 운영규정 부칙 제1조에서 "세칙으로 정하는 날"이란 2025년 5월 12일을 말한다. 다만, 같은 규정 제4장(제15조부터 제22조까지)의 경우에는 2025년 10월 27일로 한다. <개정 2025. 10. 20.>
 
 부칙 <제2368호, 2025.10.20.>
 
 이 세칙은 2025년 10월 27일부터 시행한다.
 
-별표 및 서식
+ 별표 및 서식
 
 [별표1] 상장예비심사 신청 서류<신설 2025. 5. 9.>
 

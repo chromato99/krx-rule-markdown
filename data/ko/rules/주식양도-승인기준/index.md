@@ -1,25 +1,42 @@
 ---
+schema_version: 2
 id: "204846917"
 title: "주식양도 승인기준"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:16:58.095037Z"
-content_hash: "5bd24c41b608f229b8e7ca8c709768be8bf742450e657ca69c97094023a57ec4"
+collected_at: "2026-07-12T08:04:33.714257Z"
+content_hash: "8f31f01e9d89ffb75c4502deb5b719c0f31fa5acdcefaf789fd370834cf6a42f"
+body_hash: "abdb70d129b1461895176d7a20fb9ad325b86b8a78c6739f4d0d4d1b0efd0e5f"
 document_type: "rule"
 language: "ko"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 회원관리규정"
 effective_date: "2014-05-30"
 published_date: "2014-05-30"
+source_content_hash: "72c8e7994b8ac97dc9550dcfe0cdf7d87d251922fe4c8064e41f42e981f70594"
+source_content_path: "ko/rules/주식양도-승인기준/raw/source.html"
+source_request_path: "ko/rules/주식양도-승인기준/raw/request.json"
+converter_version: "2"
+asset_inspection_version: "1"
+preservation_status: "preserved"
 attachments:
   - id: "204846917-201405300000003970000135001-byl-hwp"
     title: "[별지 1] 거래소 주식양도 승인 청구서<개정 2009.12.8>"
     file_name: "주식양도 승인기준_2차_거래소주식양도승인청구서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "201405300000003970000135001_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/주식양도-승인기준/raw/별지-1-거래소-주식양도-승인-청구서개정-2009-12-8.hwp"
     text_path: "ko/rules/주식양도-승인기준/attachments/별지-1-거래소-주식양도-승인-청구서개정-2009-12-8.md"
     content_hash: "b12b850b83bfb816c992865f43e1d45e4c5a639154cbb5b22161ceaec694ae56"
+    raw_file_hash: "b12b850b83bfb816c992865f43e1d45e4c5a639154cbb5b22161ceaec694ae56"
+    converted_text_hash: "5bb50aa919d9008999d734ed3686784f8d375e7a938a4eedb49ae73ed417c474"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 11264
     quality_status: "ok"
     quality_score: 100
@@ -27,7 +44,7 @@ attachments:
     converted_non_space_chars: 244
 ---
 
-**제1조(목적)**이 기준은 한국거래소(이하 "거래소"라 한다)의 주주가 거래소 「정관」제58조의 규정에 의하여 거래소 주식의 상장 전에 그 보유주식을 양도하고자 하는 경우에 적용함을 목적으로 한다.<개정 2009. 12. 8.>
+**제1조(목적)**이 기준은 한국거래소(이하 "거래소"라 한다)의 주주가 거래소 「정관」 제58조의 규정에 의하여 거래소 주식의 상장 전에 그 보유주식을 양도하고자 하는 경우에 적용함을 목적으로 한다. <개정 2009. 12. 8.>
 
 **제2조(적용시한)**이 기준은 거래소 주식이 상장되기 전까지 적용한다.
 
@@ -37,13 +54,13 @@ attachments:
 
 2. 회원
 
-②제1항에도 불구하고 거래소 주주간 합병 등으로 인해 거래소의 의결권 있는 발행주식총수의 100분의 5를 초과하여 소유하게 된 경우에는 그 초과분을 다음 각호의 1에 해당하는 자에게 양도할 수 있다.<신설 2014. 5. 30.>
+②  제1항에도 불구하고 거래소 주주간 합병 등으로 인해 거래소의 의결권 있는 발행주식총수의 100분의 5를 초과하여 소유하게 된 경우에는 그 초과분을 다음 각호의 1에 해당하는 자에게 양도할 수 있다. <신설 2014. 5. 30.>
 
-1.「자본시장과 금융투자업에 관한 법률」제9조제5항의 전문투자자(다만, 개인은 제외한다)
+1. 「자본시장과 금융투자업에 관한 법률」 제9조제5항의 전문투자자(다만, 개인은 제외한다)
 
-2.기타 거래소의 경영안정성에 영향을 미치지 않는다고 이사회가 판단한 자
+2. 기타 거래소의 경영안정성에 영향을 미치지 않는다고 이사회가 판단한 자
 
-**제4조(양도수량의 제한)**거래소는 당해 주식의 양도로 인하여 양수인이거래소의 의결권 있는 발행주식총수의 100분의 5를초과하여 소유하게 되는 때에는 당해 양도주식의 수량을 제한하여 승인하거나 승인을 거부할 수 있다.<개정 2014. 5. 30.>
+**제4조(양도수량의 제한)**거래소는 당해 주식의 양도로 인하여 양수인이 거래소의 의결권 있는 발행주식총수의 100분의 5를 초과하여 소유하게 되는 때에는 당해 양도주식의 수량을 제한하여 승인하거나 승인을 거부할 수 있다. <개정 2014. 5. 30.>
 
 **제5조(양도의 승인청구)**거래소 주식을 양도하고자 하는 주주는 양도계약을 체결하기 3주전에 거래소에 대하여 양도의 상대방 및 양도하고자 하는 주식의 종류와 수를 기재한 별지 1의 양도승인 청구서 2부를 작성하여 거래소에 제출하여야 한다.
 
@@ -71,6 +88,6 @@ attachments:
 
 이 기준은 2014년 5월 30일부터 시행한다.
 
-별표 및 서식
+ 별표 및 서식
 
 [별지 1] 거래소 주식양도 승인 청구서<개정 2009.12.8>

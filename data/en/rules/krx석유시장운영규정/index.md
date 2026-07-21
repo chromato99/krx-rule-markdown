@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "204847392-en"
 title: "KRX석유시장운영규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:16:16.241101Z"
+collected_at: "2026-07-12T08:03:51.612779Z"
 content_hash: "1aee0abd7ed1aa9f4cb6555913a57e9df4c4d80caa6a9ebcaa15a44ed4ea3401"
+body_hash: "7c95cd75564e3f925d73bac792023a2d41cdd1d0c3b587b40eeb83199ce83d95"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 일반상품시장규정"
 effective_date: "2022-01-03"
 published_date: "2021-12-20"
@@ -14,6 +18,10 @@ file_name: "KRX석유시장운영규정.pdf"
 raw_path: "en/rules/krx석유시장운영규정/raw/english-full-text.pdf"
 text_path: "en/rules/krx석유시장운영규정/attachments/english-full-text.md"
 file_content_hash: "89ea4fe118ce55ade4ff4e29cb0757f1527ef083937a0ad1559faca6b8d0b661"
+raw_file_hash: "89ea4fe118ce55ade4ff4e29cb0757f1527ef083937a0ad1559faca6b8d0b661"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Petroleum E-Trading Business Regulation

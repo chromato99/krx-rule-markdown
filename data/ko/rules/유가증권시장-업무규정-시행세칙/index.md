@@ -1,25 +1,42 @@
 ---
+schema_version: 2
 id: "210225129"
 title: "유가증권시장 업무규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T20:58:32.525007Z"
-content_hash: "32b2be77204d5a1d26811e3dd2a378335c3cf053b6e3be41e69656613345aaf7"
+collected_at: "2026-07-12T07:46:21.549787Z"
+content_hash: "8d71d54b98802117d63ef7133aacb98e719058a129b8269adf95e9bd4c42760d"
+body_hash: "baabd7075a99b016e96d81627e3e0d047ec5818671fb9653b8a22919580a0ab2"
 document_type: "rule"
 language: "ko"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 유가증권시장규정"
 effective_date: "2026-07-02"
 published_date: "2026-07-02"
+source_content_hash: "8466c6b50d9ea82ba4087e446720fdb82de9061fd4d47f2b01935add877bf096"
+source_content_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/source.html"
+source_request_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/request.json"
+converter_version: "2"
+asset_inspection_version: "1"
+preservation_status: "preserved"
 attachments:
   - id: "210225129-210032775-hwp"
     title: "[별표 1] 시가기준가종목의 최초의 가격을 결정하기 위한 최저호가가격 및 최고호가가격 산정기준<개정 2005.5.13, 2005.8.26, 2007.8.28, 2009.2.3, 2009.8.3, 2011.1.27, 2012.4.20, 2014.5.12, 2014.12.10, 2016.4.22, 2018.12.28, 2020.6.23, 2020.7.23, 2023.4.12, 2023.8.8, 2025. 2. 27.>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_시가기준가종목의최초의가격을결정하기위한최저호가가격및최고호가가격산정기준.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210032775.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별표-1-시가기준가종목의-최초의-가격을-결정하기-위한-최저호가가격-및-최고호가가격-산정기준개정-2005-5-13-2005-8-26-2007-8-28-2009-2-3-20.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별표-1-시가기준가종목의-최초의-가격을-결정하기-위한-최저호가가격-및-최고호가가격-산정기준개정-2005-5-13-2005-8-26-20.md"
     content_hash: "5b181becec628a9ba343074e61ff7fe4359c09475701e3df4fd0aebe7770a354"
+    raw_file_hash: "5b181becec628a9ba343074e61ff7fe4359c09475701e3df4fd0aebe7770a354"
+    converted_text_hash: "2c690cb92d2bb8a9f7f49a9cb174302c220ca767cef8d4cc32f1c5517d78c404"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 58368
     quality_status: "ok"
     quality_score: 100
@@ -31,12 +48,19 @@ attachments:
     title: "[별표 1의2] 호가수량한도 산정을 위한 해당거래일 기준가격 산정기준<신설 2018.9.13>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_호가수량한도산정을위한해당거래일기준가격산정기준.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111003_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별표-1의2-호가수량한도-산정을-위한-해당거래일-기준가격-산정기준신설-2018-9-13.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별표-1의2-호가수량한도-산정을-위한-해당거래일-기준가격-산정기준신설-2018-9-13.md"
     content_hash: "c2c3072fce2799c6ca9c95c9c566a32c8a848a393d8379b62604767d423c3c05"
+    raw_file_hash: "c2c3072fce2799c6ca9c95c9c566a32c8a848a393d8379b62604767d423c3c05"
+    converted_text_hash: "9df62b77061661c960a88047979a68392432da8456ec1619accc9eeed9413f12"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 44544
     quality_status: "ok"
     quality_score: 100
@@ -46,12 +70,19 @@ attachments:
     title: "[별표 1의3] 일괄호가취소의 신청사항 등<신설 2022.12.22>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_일괄호가취소의신청사항등.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111004_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별표-1의3-일괄호가취소의-신청사항-등신설-2022-12-22.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별표-1의3-일괄호가취소의-신청사항-등신설-2022-12-22.md"
     content_hash: "1e4a7bb3fd99b71add0c44b415cb54b25fac2d76082f2c755ea7227c2695226c"
+    raw_file_hash: "1e4a7bb3fd99b71add0c44b415cb54b25fac2d76082f2c755ea7227c2695226c"
+    converted_text_hash: "c1e239e84b0bb731a14a9bb6e3691891c0c3fcc6527531b4dabe3731d7ebd456"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 40960
     quality_status: "ok"
     quality_score: 100
@@ -62,12 +93,19 @@ attachments:
     title: "[별표 1의4] 주권 및 외국주식예탁증권의 신규상장 시 기준가격<신설 2023.4.12, 개정 2023. 8. 8, 2025. 2. 27.>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_주권및외국주식예탁증권의신규상장시기준가격.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210032783.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별표-1의4-주권-및-외국주식예탁증권의-신규상장-시-기준가격신설-2023-4-12-개정-2023-8-8-2025-2-27.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별표-1의4-주권-및-외국주식예탁증권의-신규상장-시-기준가격신설-2023-4-12-개정-2023-8-8-2025-2-27.md"
     content_hash: "57d1d43c69bf40737c9f431153f13027205cf67e1da28ed332f6728cfed8e56e"
+    raw_file_hash: "57d1d43c69bf40737c9f431153f13027205cf67e1da28ed332f6728cfed8e56e"
+    converted_text_hash: "61c49fdfe87a18927ff7cb7ad4fab6bed721982a2d3e3fa31d390c166e7803f8"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 56832
     quality_status: "ok"
     quality_score: 100
@@ -78,12 +116,19 @@ attachments:
     title: "[별표 2] 배당락 또는 권리락의 기준가격<개정 2005.8.26, 2009.8.3, 2012.4.20>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_배당락또는권리락의기준가격.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111006_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별표-2-배당락-또는-권리락의-기준가격개정-2005-8-26-2009-8-3-2012-4-20.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별표-2-배당락-또는-권리락의-기준가격개정-2005-8-26-2009-8-3-2012-4-20.md"
     content_hash: "0e001be440a9d0ee3024d850683f45eae596cc244c93c70b1780e91f79cd69fb"
+    raw_file_hash: "0e001be440a9d0ee3024d850683f45eae596cc244c93c70b1780e91f79cd69fb"
+    converted_text_hash: "aa7fdac897de847ffe0f514ddbe2f049ae52bcd437cd4a52430bb0907c64b544"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 46080
     quality_status: "ok"
     quality_score: 100
@@ -95,12 +140,19 @@ attachments:
     title: "[별표 2의2] 유동성 평가 및 저유동성종목 선정기준 등<신설 2016.3.25, 2016.6.21, 2017.2.28, 2017.9.7, 2018.9.13, 2018.12.6, 2019.11.28, 2020.11.26, 2021.3.12, 2022.7.15>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_유동성평가및저유동성종목선정기준등.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111007_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별표-2의2-유동성-평가-및-저유동성종목-선정기준-등신설-2016-3-25-2016-6-21-2017-2-28-2017-9-7-2018-9-13-2018-12-6-2019-11-28-2020-11-26-2021-3-12-2022-7-15.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별표-2의2-유동성-평가-및-저유동성종목-선정기준-등신설-2016-3-25-2016-6-21-2017-2-28-2017-9-7-2018-9-13-2018-12-6-2019-11-28-2020-11-26.md"
     content_hash: "1b07806b46635e4867a507d90f8f539b14f8c8ea2781dd9e416ad8dd4f3f8c2f"
+    raw_file_hash: "1b07806b46635e4867a507d90f8f539b14f8c8ea2781dd9e416ad8dd4f3f8c2f"
+    converted_text_hash: "563ef39205890ccef9f1313d32c55fcbb3746a39cd2975e3ea6dfbf685664779"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 45568
     quality_status: "ok"
     quality_score: 100
@@ -112,12 +164,19 @@ attachments:
     title: "[별표 2의3] 시장조성자의 선정 및 종목 선택 기준<신설 2016.3.25, 2017.2.28, 2018.12.6, 2022.7.15>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_시장조성자의선정및종목선택기준.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111008_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별표-2의3-시장조성자의-선정-및-종목-선택-기준신설-2016-3-25-2017-2-28-2018-12-6-2022-7-15.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별표-2의3-시장조성자의-선정-및-종목-선택-기준신설-2016-3-25-2017-2-28-2018-12-6-2022-7-15.md"
     content_hash: "3bbce8d228b0548b0fced4034adbfd8142d5ec0598828f341d435da04681eea2"
+    raw_file_hash: "3bbce8d228b0548b0fced4034adbfd8142d5ec0598828f341d435da04681eea2"
+    converted_text_hash: "76f345242f5062c4e643d58ccea950a7e6d43c630c6bc6e792624c60322b46d5"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 32256
     quality_status: "ok"
     quality_score: 100
@@ -127,12 +186,19 @@ attachments:
     title: "[별표 2의4] 시장조성자 평가 및 시장조성대가 지급기준 등<신설 2016.3.25, 2017.2.28, 2017.9.7, 2018.12.6, 2018.12.28, 2020.3.25, 2021.3.12, 2021.8.4>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_시장조성자평가및시장조성대가지급기준등.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111009_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별표-2의4-시장조성자-평가-및-시장조성대가-지급기준-등신설-2016-3-25-2017-2-28-2017-9-7-2018-12-6-2018-12-28-2020-3-25-2021-3-12-2021-8-4.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별표-2의4-시장조성자-평가-및-시장조성대가-지급기준-등신설-2016-3-25-2017-2-28-2017-9-7-2018-12-6-2018-12-28-2020-3-25-2021-3-12-2021.md"
     content_hash: "29be7bd5ae0342a139da7a77a4a495bcf343f07afbf5839f19137c79128e4672"
+    raw_file_hash: "29be7bd5ae0342a139da7a77a4a495bcf343f07afbf5839f19137c79128e4672"
+    converted_text_hash: "1ab2f21d66f023c82dbf344394dde11823801dd0582fd3377a46cd12c3f34e36"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 52736
     quality_status: "ok"
     quality_score: 100
@@ -144,12 +210,19 @@ attachments:
     title: "[별표2의5] 소액채권전담회원 평가 <개정 2010.5.7, 2011.3.23, 2014.2.28, 2014.7.10, 2015.7.16, 2016.3.24, 2016.3.25, 2020.5.26, 2020.11.20., 2022.6.8., 2023.12.4><개정 2025. 11. 27.>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_소액채권전담회원지정을위한평가및지정방법(개정2010.5.7,2011.3.23,2014.2.28,2014.7.10,2015.7.16,2016.3.24,2016.3.25,2020.5.26,2020.11.20.,2022.6.8.,2023.12.4).hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210145510.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별표2의5-소액채권전담회원-평가-개정-2010-5-7-2011-3-23-2014-2-28-2014-7-10-2015-7-16-2016-3-24-2016-3-25-2020-5-26-2020-11-20-2022-6-8-2023-12-4개정-2025-11-27.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별표2의5-소액채권전담회원-평가-개정-2010-5-7-2011-3-23-2014-2-28-2014-7-10-2015-7-16-2016-3-24-2016-3-25-2020-5-26-2020-11-20-2022-6-8-2023-12.md"
     content_hash: "0692f28c6a664ed15d9146873ef1bf313e1e02632d3a20849363cd665e9a65e7"
+    raw_file_hash: "0692f28c6a664ed15d9146873ef1bf313e1e02632d3a20849363cd665e9a65e7"
+    converted_text_hash: "c4d221f92223069d26b93acbdff7651f8811d15f3af1c7c027f46afd3f0fafb9"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 46592
     quality_status: "ok"
     quality_score: 100
@@ -160,12 +233,19 @@ attachments:
     title: "[별표 2의6] 원금이자분리채권 조성호가 대상종목 지정방법<신설 2024.10.29>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_원금이자분리채권조성호가대상종목지정방법.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111001_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별표-2의6-원금이자분리채권-조성호가-대상종목-지정방법신설-2024-10-29.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별표-2의6-원금이자분리채권-조성호가-대상종목-지정방법신설-2024-10-29.md"
     content_hash: "822c1d685c5d7815d6e3c5e65ab1dd3d0d1ef0f5a83588946583cde16c81d8cb"
+    raw_file_hash: "822c1d685c5d7815d6e3c5e65ab1dd3d0d1ef0f5a83588946583cde16c81d8cb"
+    converted_text_hash: "6a9f1a5ba000979810b0aa238180903376e292aedeba723cb5c0e59b66739e16"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 50176
     quality_status: "ok"
     quality_score: 100
@@ -175,12 +255,19 @@ attachments:
     title: "[별표 3] 금융채<신설 2007.5.18, 2009.2.3>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_금융채.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111011_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별표-3-금융채신설-2007-5-18-2009-2-3.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별표-3-금융채신설-2007-5-18-2009-2-3.md"
     content_hash: "985218c824bec2661c7ad9af255b449ec61280a320353e51a5149924a16d6740"
+    raw_file_hash: "985218c824bec2661c7ad9af255b449ec61280a320353e51a5149924a16d6740"
+    converted_text_hash: "74551f56fea9d579b1ec84d16fb42645116fd4ac4df7f8e12d5db99d5fd0d678"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 26624
     quality_status: "ok"
     quality_score: 100
@@ -190,12 +277,19 @@ attachments:
     title: "[별표 4] 채권시장조성회원 시장조성실적 평가방법<개정 2009.12.31, 2010.7.1, 2011.3.23, 2014.2.28, 2015.7.16, 2015.11.9, 2016.3.24, 2016.6.21, 2016.12.26, 2017.6.9, 2017.8.24, 2018.9.13, 2020.5.26, 2020.5.28, 2021.6.8, 2024.10.29, 2025. 3. 25.,2025. 12. 24.>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_채권시장조성회원시장조성실적평가방법.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210151327.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별표-4-채권시장조성회원-시장조성실적-평가방법개정-2009-12-31-2010-7-1-2011-3-23-2014-2-28-2015-7-16-2015-11-9-2016-3-24-2016-6-21-2016-12-26-2017-6-9-2017.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별표-4-채권시장조성회원-시장조성실적-평가방법개정-2009-12-31-2010-7-1-2011-3-23-2014-2-28-2015-7-16-2015-11-9-2016-3-24-2016-6-21-2016.md"
     content_hash: "83cd6fe34650f7905aeffbf984feaf2d55f84443d65e8841f4ef802ff33604f2"
+    raw_file_hash: "83cd6fe34650f7905aeffbf984feaf2d55f84443d65e8841f4ef802ff33604f2"
+    converted_text_hash: "dc563b4316ea811b0520b04f0306b616781e8f911d4e63ea944b922534559dd8"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 54784
     quality_status: "ok"
     quality_score: 100
@@ -207,12 +301,19 @@ attachments:
     title: "[별지 제1호 서식] 당일결제거래 신청서<개정 2009.2.3, 2011.12.30>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_당일결제거래신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111019_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제1호-서식-당일결제거래-신청서개정-2009-2-3-2011-12-30.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제1호-서식-당일결제거래-신청서개정-2009-2-3-2011-12-30.md"
     content_hash: "ac5aa52565223522d73055de436d6d5f056285466866d8ccefc9f1175cca62d1"
+    raw_file_hash: "ac5aa52565223522d73055de436d6d5f056285466866d8ccefc9f1175cca62d1"
+    converted_text_hash: "2e092aa4310a6a33940916e3cdf7b867a0bfcf9127cb9ee9c9fabc8a94d1c71f"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 34816
     quality_status: "ok"
     quality_score: 100
@@ -224,12 +325,19 @@ attachments:
     title: "[별지 제1호의2 서식] 알고리즘거래계좌 신고서<신설 2016.6.21, 2017.2.28>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_알고리즘거래계좌신고서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111020_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제1호의2-서식-알고리즘거래계좌-신고서신설-2016-6-21-2017-2-28.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제1호의2-서식-알고리즘거래계좌-신고서신설-2016-6-21-2017-2-28.md"
     content_hash: "457f49fa431b16e6ebcdf8f3b50d59698e5364ac4aa8520d7dc66476cc0875cd"
+    raw_file_hash: "457f49fa431b16e6ebcdf8f3b50d59698e5364ac4aa8520d7dc66476cc0875cd"
+    converted_text_hash: "ece33bc0798cf41cf68a86b60a90a0e9c761a3b1284d3367020fb8f8a32a223b"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 34304
     quality_status: "ok"
     quality_score: 100
@@ -240,12 +348,19 @@ attachments:
     title: "[별지 제2호 서식] 호가집계표<개정 2005.8.26, 2009.2.3, 2020.7.23>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_호가집계표.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111021_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제2호-서식-호가집계표개정-2005-8-26-2009-2-3-2020-7-23.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제2호-서식-호가집계표개정-2005-8-26-2009-2-3-2020-7-23.md"
     content_hash: "8dd7b77a5d5f203284d5f0fba811d7ccf777e5948b53714de7d4431b6bcb8fed"
+    raw_file_hash: "8dd7b77a5d5f203284d5f0fba811d7ccf777e5948b53714de7d4431b6bcb8fed"
+    converted_text_hash: "493a33ac178b8c4039894f6b25e57eede921534ed7d8a71967343e161ed444b0"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 36864
     quality_status: "ok"
     quality_score: 100
@@ -256,12 +371,19 @@ attachments:
     title: "[별지 제2호의2 서식] 미결제현황 통지서<신설 2009.3.6, 2012.9.20,개정 2025. 12. 29.>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_미결제현황통지서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "210153110.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제2호의2-서식-미결제현황-통지서신설-2009-3-6-2012-9-20개정-2025-12-29.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제2호의2-서식-미결제현황-통지서신설-2009-3-6-2012-9-20개정-2025-12-29.md"
     content_hash: "74750b9f888c643dd946877023671c2659abb51128a73a4ea01c075bed8fcfb6"
+    raw_file_hash: "74750b9f888c643dd946877023671c2659abb51128a73a4ea01c075bed8fcfb6"
+    converted_text_hash: "9d91845e41ab8dd2adf88563c520cb20627db9f190a42aed59e03e17f340c8f7"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 45568
     quality_status: "ok"
     quality_score: 100
@@ -273,12 +395,19 @@ attachments:
     title: "[별지 제2호의3 서식] 유동성공급계약내용 신고서<신설 2005.12.1, 2008.11.27, 2009.2.3, 2009.3.6>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_유동성공급계약내용신고서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111023_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제2호의3-서식-유동성공급계약내용-신고서신설-2005-12-1-2008-11-27-2009-2-3-2009-3-6.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제2호의3-서식-유동성공급계약내용-신고서신설-2005-12-1-2008-11-27-2009-2-3-2009-3-6.md"
     content_hash: "2b6cb00347a22cdca620d498285bdc59c0d0534206d0b1f311f766c4ea88c2fd"
+    raw_file_hash: "2b6cb00347a22cdca620d498285bdc59c0d0534206d0b1f311f766c4ea88c2fd"
+    converted_text_hash: "13c213f1aa916b74800ec4dcab9fa7dc40e25f4d67a59f2f967e44c6b4a5bd64"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 35328
     quality_status: "ok"
     quality_score: 100
@@ -289,12 +418,19 @@ attachments:
     title: "[별지 제2호의4 서식] 시장조성계좌 신고서<신설 2016.3.25, 2017.9.7, 2021.3.12>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_시장조성계좌신고서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111024_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제2호의4-서식-시장조성계좌-신고서신설-2016-3-25-2017-9-7-2021-3-12.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제2호의4-서식-시장조성계좌-신고서신설-2016-3-25-2017-9-7-2021-3-12.md"
     content_hash: "e1d200fd22e7fc0958ad115073bc07b0d45103a0901210c10dc5869ef93a8023"
+    raw_file_hash: "e1d200fd22e7fc0958ad115073bc07b0d45103a0901210c10dc5869ef93a8023"
+    converted_text_hash: "716adb9ba41ea5ad7e500f48a7b3f00a30f0b4598b2605a469a5425eb40f6d5f"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 32768
     quality_status: "ok"
     quality_score: 100
@@ -305,12 +441,19 @@ attachments:
     title: "[별지 제2호의5 서식] 시장조성담당자 지정(변경) 신고서<신설 2016.3.25, 2021.3.12>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_시장조성담당자지정(변경)신고서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111025_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제2호의5-서식-시장조성담당자-지정변경-신고서신설-2016-3-25-2021-3-12.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제2호의5-서식-시장조성담당자-지정변경-신고서신설-2016-3-25-2021-3-12.md"
     content_hash: "35459551e4afaf762cfa3c31e1bba64ba7d1ed7ac56953a04fe1cc34a5ca956d"
+    raw_file_hash: "35459551e4afaf762cfa3c31e1bba64ba7d1ed7ac56953a04fe1cc34a5ca956d"
+    converted_text_hash: "971932062aee765c2d8df9c05247553e774ae7cbcc816eac84e312f4086257b8"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 28672
     quality_status: "ok"
     quality_score: 100
@@ -321,12 +464,19 @@ attachments:
     title: "[별지 제2호의6 서식] 주식시장 시장조성표준계약서<신설 2016.3.25, 2017.2.28, 2017.9.7, 2021.3.12, 2021.5.7, 2022.7.15, 2022.8.4, 2022.12.22>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_주식시장시장조성표준계약서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111026_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제2호의6-서식-주식시장-시장조성표준계약서신설-2016-3-25-2017-2-28-2017-9-7-2021-3-12-2021-5-7-2022-7-15-2022-8-4-2022-12-22.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제2호의6-서식-주식시장-시장조성표준계약서신설-2016-3-25-2017-2-28-2017-9-7-2021-3-12-2021-5-7-2022-7-15-2022-8-4-2022-12-22.md"
     content_hash: "4722ced2fcdb3572e49e4ced4dcbd74bdce06ba3b5a8680e22c0e515d62a11c3"
+    raw_file_hash: "4722ced2fcdb3572e49e4ced4dcbd74bdce06ba3b5a8680e22c0e515d62a11c3"
+    converted_text_hash: "7c08627d3bc8315633cd0511ee23037857993414321d93fd7dceefae4e279599"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 59904
     quality_status: "ok"
     quality_score: 100
@@ -337,12 +487,19 @@ attachments:
     title: "[별지 제2호의7 서식] 시장조성계좌 보유수량 변동신고서<신설 2016.3.25, 2019.11.28>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_시장조성계좌보유수량변동신고서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111027_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제2호의7-서식-시장조성계좌-보유수량-변동신고서신설-2016-3-25-2019-11-28.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제2호의7-서식-시장조성계좌-보유수량-변동신고서신설-2016-3-25-2019-11-28.md"
     content_hash: "0a528ecf978f23a8dc79bd20bd2c47d32590da3dceb5cdd7adc10b14d1e0108a"
+    raw_file_hash: "0a528ecf978f23a8dc79bd20bd2c47d32590da3dceb5cdd7adc10b14d1e0108a"
+    converted_text_hash: "66ba496cb1e32aca6fa9578bd6d057e54316b7b4845d726443bce86b544ddfc9"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 38400
     quality_status: "ok"
     quality_score: 100
@@ -353,12 +510,19 @@ attachments:
     title: "[별지 제2호의8 서식] 유동성공급계좌 신고서<신설 2021.7.20>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_유동성공급계좌신고서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111028_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제2호의8-서식-유동성공급계좌-신고서신설-2021-7-20.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제2호의8-서식-유동성공급계좌-신고서신설-2021-7-20.md"
     content_hash: "58100e7ac6ef86b81c3864873a27ca4adf8f025222510612ebae9730f55d365c"
+    raw_file_hash: "58100e7ac6ef86b81c3864873a27ca4adf8f025222510612ebae9730f55d365c"
+    converted_text_hash: "17e39490d282daae295162b90d0ca00335ba0ee4ad7daa3bd8991e2b9d1e46c2"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 40448
     quality_status: "ok"
     quality_score: 100
@@ -369,12 +533,19 @@ attachments:
     title: "[별지 제3호 서식] 착오매매정정신청서<개정 2009.2.3>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_착오매매정정신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111029_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제3호-서식-착오매매정정신청서개정-2009-2-3.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제3호-서식-착오매매정정신청서개정-2009-2-3.md"
     content_hash: "eea37df42f6f155b257ec81109ac2afe6bdfc6f1f939e509f8ef3f9fe105262e"
+    raw_file_hash: "eea37df42f6f155b257ec81109ac2afe6bdfc6f1f939e509f8ef3f9fe105262e"
+    converted_text_hash: "d1b4a3e43f94efaa8b27c37641085f1f8e9c30a412da266fb2f9e6916108719f"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 24064
     quality_status: "ok"
     quality_score: 100
@@ -386,12 +557,19 @@ attachments:
     title: "[별지 제4호 서식] 착오매매처리약정서<개정 2009.2.3>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_착오매매처리약정서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111030_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제4호-서식-착오매매처리약정서개정-2009-2-3.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제4호-서식-착오매매처리약정서개정-2009-2-3.md"
     content_hash: "07b820bb2afaf38b356c90a62f7c79b7c0aaf0b52624b2bc42dfb0d893b14d5a"
+    raw_file_hash: "07b820bb2afaf38b356c90a62f7c79b7c0aaf0b52624b2bc42dfb0d893b14d5a"
+    converted_text_hash: "d61434a772800e0a829bf7aac8512e2d466eb88f7787ef23847afbd2f51b7fed"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 56320
     quality_status: "ok"
     quality_score: 100
@@ -403,12 +581,19 @@ attachments:
     title: "[별지 제5호 서식] 대규모착오매매 구제 신청서<신설 2016.6.21, 2017.2.28>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_대규모착오매매구제신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111031_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제5호-서식-대규모착오매매-구제-신청서신설-2016-6-21-2017-2-28.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제5호-서식-대규모착오매매-구제-신청서신설-2016-6-21-2017-2-28.md"
     content_hash: "92624a22c09c657580125b206da6168f04045dd92cab108160c421339635c988"
+    raw_file_hash: "92624a22c09c657580125b206da6168f04045dd92cab108160c421339635c988"
+    converted_text_hash: "3a0d48d1f74aceeb6db767a0f74aac552f3d2140484a7b664e718d2b2aa4c618"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 27136
     quality_status: "ok"
     quality_score: 100
@@ -419,12 +604,19 @@ attachments:
     title: "[별지 제5호의2 서식] 대규모착오매매 구제가격 조정신청서<신설 2016.6.21>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_대규모착오매매구제가격조정신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111032_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제5호의2-서식-대규모착오매매-구제가격-조정신청서신설-2016-6-21.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제5호의2-서식-대규모착오매매-구제가격-조정신청서신설-2016-6-21.md"
     content_hash: "7276e1f0db06dc67c9e04fc54b9a8d473017d7063d54d88b09297f6a8201343b"
+    raw_file_hash: "7276e1f0db06dc67c9e04fc54b9a8d473017d7063d54d88b09297f6a8201343b"
+    converted_text_hash: "18d9fc1ee7acb6167c9bbfcdcf5da961fce1857542b8337293a1c7875c22720a"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 28160
     quality_status: "ok"
     quality_score: 100
@@ -435,12 +627,19 @@ attachments:
     title: "[별지 제6호 서식] 유가증권시장상장법인 자기주식매매신청서<개정 2006.9.8, 2009.2.3>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_유가증권시장상장법인자기주식매매신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111033_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제6호-서식-유가증권시장상장법인-자기주식매매신청서개정-2006-9-8-2009-2-3.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제6호-서식-유가증권시장상장법인-자기주식매매신청서개정-2006-9-8-2009-2-3.md"
     content_hash: "5ad1e97a86d0f38b434e0c81575f2a216522ab282a70de9b90031d4c8c2c2d5d"
+    raw_file_hash: "5ad1e97a86d0f38b434e0c81575f2a216522ab282a70de9b90031d4c8c2c2d5d"
+    converted_text_hash: "ae4795afb9b006c06f171bf5b8b06b5b9283d89d6a541afe2da13be23f8f48a8"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 40448
     quality_status: "ok"
     quality_score: 100
@@ -452,12 +651,19 @@ attachments:
     title: "[별지 제7호 서식] 소액채권전담회원 지정신청서<개정 2009.2.3>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_소액채권전담회원지정신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111034_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제7호-서식-소액채권전담회원-지정신청서개정-2009-2-3.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제7호-서식-소액채권전담회원-지정신청서개정-2009-2-3.md"
     content_hash: "2dbe78b56c27c8a48ec1c7ea5fdce284fc4cd3bd4e85d3440b792e6320e23f20"
+    raw_file_hash: "2dbe78b56c27c8a48ec1c7ea5fdce284fc4cd3bd4e85d3440b792e6320e23f20"
+    converted_text_hash: "084e5d668e51a0a8ddbb7b81620b2b6dd2c58730c1b7fb93a47c338adfb71837"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 27648
     quality_status: "ok"
     quality_score: 100
@@ -468,12 +674,19 @@ attachments:
     title: "[별지 제7호의2 서식] 차입공매도 호가 통보서<신설 2009.2.3>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_차입공매도호가통보서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111035_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제7호의2-서식-차입공매도-호가-통보서신설-2009-2-3.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제7호의2-서식-차입공매도-호가-통보서신설-2009-2-3.md"
     content_hash: "d959e42d2b98a0f0982ace1b39321406de4a306e0905d7d77e0c3b1829ffe0d2"
+    raw_file_hash: "d959e42d2b98a0f0982ace1b39321406de4a306e0905d7d77e0c3b1829ffe0d2"
+    converted_text_hash: "47ece4f9d6bec07b8b2a3c5fc346c0d03ccee46caddf681ad21fc0c6389f9566"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 29696
     quality_status: "ok"
     quality_score: 100
@@ -484,12 +697,19 @@ attachments:
     title: "[별지 제7호의3 서식] 채권시장조성회원 지정신청서<개정 2009.12.31, 2014.2.28, 2015.7.16>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_채권시장조성회원지정신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111036_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제7호의3-서식-채권시장조성회원-지정신청서개정-2009-12-31-2014-2-28-2015-7-16.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제7호의3-서식-채권시장조성회원-지정신청서개정-2009-12-31-2014-2-28-2015-7-16.md"
     content_hash: "87d47dd4f3fda8fa3e05516d1e814bc024cf90478dded75b7179584023e146b1"
+    raw_file_hash: "87d47dd4f3fda8fa3e05516d1e814bc024cf90478dded75b7179584023e146b1"
+    converted_text_hash: "7535a29660862f2e88392e7dc003dbd2b2e710472ae5067834ddca918a0dc84b"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 32256
     quality_status: "ok"
     quality_score: 100
@@ -500,12 +720,19 @@ attachments:
     title: "[별지 제7호의4 서식] 채권시장조성거래원 지정 및 지정취소 신청서<신설 2015.7.16, 2024.5.23>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_채권시장조성거래원지정및지정취소신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111037_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제7호의4-서식-채권시장조성거래원-지정-및-지정취소-신청서신설-2015-7-16-2024-5-23.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제7호의4-서식-채권시장조성거래원-지정-및-지정취소-신청서신설-2015-7-16-2024-5-23.md"
     content_hash: "f7de720638b1a2392924c39110f48b17fe65263c37740d4ae0859c7be9dbda5c"
+    raw_file_hash: "f7de720638b1a2392924c39110f48b17fe65263c37740d4ae0859c7be9dbda5c"
+    converted_text_hash: "3206deb76f7c139e9b41624862a23c1c4f58f6c26c44a3ae637e45e033a6ff49"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 40448
     quality_status: "ok"
     quality_score: 100
@@ -516,12 +743,19 @@ attachments:
     title: "[별지 제7호의5 서식] 호가일괄취소처리 적용계좌 신고서<신설 2024.5.23>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_호가일괄취소처리적용계좌신고서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111038_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제7호의5-서식-호가일괄취소처리-적용계좌-신고서신설-2024-5-23.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제7호의5-서식-호가일괄취소처리-적용계좌-신고서신설-2024-5-23.md"
     content_hash: "90f81d719efcadbb54c0c6e4d76c75799dc4e97c03331cb3e775dd382b79ba9c"
+    raw_file_hash: "90f81d719efcadbb54c0c6e4d76c75799dc4e97c03331cb3e775dd382b79ba9c"
+    converted_text_hash: "d5310831ee3c3270c2810104617c0cef9077ab1233f4733bbe7c52f183235065"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 31744
     quality_status: "ok"
     quality_score: 100
@@ -532,12 +766,19 @@ attachments:
     title: "[별지 제7호의6 서식] 채권시장조성계좌 신고서<신설 2024.5.23>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_채권시장조성계좌신고서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111039_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제7호의6-서식-채권시장조성계좌-신고서신설-2024-5-23.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제7호의6-서식-채권시장조성계좌-신고서신설-2024-5-23.md"
     content_hash: "3c2e13fc9deef5e79ae0d2a3822a0163c0cbe5b84d065aeb9d7a4f65ecfdffe4"
+    raw_file_hash: "3c2e13fc9deef5e79ae0d2a3822a0163c0cbe5b84d065aeb9d7a4f65ecfdffe4"
+    converted_text_hash: "e5eef422dea072b031917c09ff2a33e190da020e67a1fbd7868fd6ea3b41100b"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 31744
     quality_status: "ok"
     quality_score: 100
@@ -548,12 +789,19 @@ attachments:
     title: "[별지 제20호 서식] 고속 알고리즘거래자 등록신청(신고)서<신설 2022.12.22>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_고속알고리즘거래자등록신청(신고)서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111051_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제20호-서식-고속-알고리즘거래자-등록신청신고서신설-2022-12-22.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제20호-서식-고속-알고리즘거래자-등록신청신고서신설-2022-12-22.md"
     content_hash: "5833dfd1179fb4c0894445c2c09d843cfa3436a5d7f17a3ae296e23fd62f7a7b"
+    raw_file_hash: "5833dfd1179fb4c0894445c2c09d843cfa3436a5d7f17a3ae296e23fd62f7a7b"
+    converted_text_hash: "08c673139158ca1031dc5fad3e42f587425d3cb65b3058b297359ca97cdc5c21"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 41984
     quality_status: "ok"
     quality_score: 100
@@ -564,12 +812,19 @@ attachments:
     title: "[별지 제21호 서식] 고속 알고리즘거래자 등록정보 점검 확인서 등<신설 2022.12.22>"
     file_name: "유가증권시장 업무규정 시행세칙_173차_고속알고리즘거래자등록정보점검확인서등.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202410290000022560000111052_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/유가증권시장-업무규정-시행세칙/raw/별지-제21호-서식-고속-알고리즘거래자-등록정보-점검-확인서-등신설-2022-12-22.hwp"
     text_path: "ko/rules/유가증권시장-업무규정-시행세칙/attachments/별지-제21호-서식-고속-알고리즘거래자-등록정보-점검-확인서-등신설-2022-12-22.md"
     content_hash: "087a4a09864d77b888bcf13e7197f86a53583e7ec02b736b08b4cbbffe86581c"
+    raw_file_hash: "087a4a09864d77b888bcf13e7197f86a53583e7ec02b736b08b4cbbffe86581c"
+    converted_text_hash: "071f4dba00201178c74587128d5c2241ae03670c9b377f842f1690f61b6f57a1"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 36864
     quality_status: "ok"
     quality_score: 100
@@ -580,97 +835,97 @@ attachments:
 
 제1장 총칙
 
-**제1조(목적)**이 세칙은 「유가증권시장 업무규정」(이하 "규정"이라 한다)의 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.<개정 2009. 7. 16.>
+**제1조(목적)**이 세칙은 「유가증권시장 업무규정」(이하 "규정"이라 한다)의 시행에 관하여 필요한 사항을 규정함을 목적으로 한다. <개정 2009. 7. 16.>
 
-**제2조(정의)**이 세칙에서 사용하는 용어의 뜻은 다음과 같다.<개정 2023. 4. 12.>
+**제2조(정의)**이 세칙에서 사용하는 용어의 뜻은 다음과 같다. <개정 2023. 4. 12.>
 
 1. "코스피200"이란 유가증권시장에 상장된 주권 중 200종목에 대하여 기준일인 1990년 1월 3일의 지수를 100포인트로 하여 거래소가 산출하는 시가총액방식의 주가지수를 말한다.
 
 2. "섹터지수"란 유가증권시장에 상장된 주권을 대상으로 산업군별 또는 유형별로 구분하여 산출하는 지수를 말한다.
 
-3. "시가기준가종목"이란 별표 1에 따른 최저호가가격 및 최고호가가격 이내의 호가 범위에서규정제37조제1항에 따라 결정되는 최초의 가격을 그 날의 기준가격으로 하는 종목을 말하며, 다음 각 목과 같이 구분한다.
+3. "시가기준가종목"이란 별표 1에 따른 최저호가가격 및 최고호가가격 이내의 호가 범위에서 규정 제37조제1항에 따라 결정되는 최초의 가격을 그 날의 기준가격으로 하는 종목을 말하며, 다음 각 목과 같이 구분한다.
 
 가. 재상장종목 및 변경상장종목
 
-나. 「자본시장과 금융투자업에 관한 법률」(이하 "법"이라 한다)제9조제18항제2호의 투자회사가 발행한 주권(이하 "투자회사주권"이라 한다), 「부동산투자회사법」에 따른 부동산투자회사주권 및 「선박투자회사법」에 따른 선박투자회사주권으로서 거래소에 신고한 주당 분배 또는 배당금액이 제132조제1항에 따른 기준일의 2매매거래일 전일의 가격제한폭을 초과하는 종목
+나. 「자본시장과 금융투자업에 관한 법률」(이하 "법"이라 한다) 제9조제18항제2호의 투자회사가 발행한 주권(이하 "투자회사주권"이라 한다), 「부동산투자회사법」에 따른 부동산투자회사주권 및 「선박투자회사법」에 따른 선박투자회사주권으로서 거래소에 신고한 주당 분배 또는 배당금액이 제132조제1항에 따른 기준일의 2매매거래일 전일의 가격제한폭을 초과하는 종목
 
-다. 자본금감소[소액주주(「유가증권시장 공시규정」제2조제19항에 따른 소액주주를 말한다. 이하 같다)를 대상으로 하는 주식병합 또는 주식소각에 따라 자본금이 감소하는 경우를 말한다. 이하 같다] 종목
+다. 자본금감소[소액주주(「유가증권시장 공시규정」 제2조제19항에 따른 소액주주를 말한다. 이하 같다)를 대상으로 하는 주식병합 또는 주식소각에 따라 자본금이 감소하는 경우를 말한다. 이하 같다] 종목
 
 라. 병합 또는 분할된 상장지수증권
 
 마. 30매매거래일이상 매매거래가 중단 또는 정지된 후 매매거래를 재개하는 종목
 
-4. "재상장종목"이란 상장폐지된 법인·주권상장법인의 분할 또는 분할합병에 따라 설립된 법인·주권상장법인간의 합병에 따라 설립된 법인이 발행한 주권으로서 「유가증권시장 상장규정」제42조에 따라 재상장되는 주권(종류주식을 포함한다)을 말한다.
+4. "재상장종목"이란 상장폐지된 법인·주권상장법인의 분할 또는 분할합병에 따라 설립된 법인·주권상장법인간의 합병에 따라 설립된 법인이 발행한 주권으로서 「유가증권시장 상장규정」 제42조에 따라 재상장되는 주권(종류주식을 포함한다)을 말한다.
 
-5. "변경상장종목"이란 주권상장법인의 분할 또는 분할합병 후 존속하는 법인(「상법」제530조의12에 따른 물적분할 후 존속하는 법인을 제외한다)이 발행한 주권을 말한다.
+5. "변경상장종목"이란 주권상장법인의 분할 또는 분할합병 후 존속하는 법인(「상법」 제530조의12에 따른 물적분할 후 존속하는 법인을 제외한다)이 발행한 주권을 말한다.
 
-6. "합병상장종목"이란 「유가증권시장 상장규정」제2조제1항제25호에 따른 기업인수목적회사와 주권상장법인이 아닌 법인이 「유가증권시장 상장규정」제76조의2에 따라 합병상장한 종목을 말한다.
+6. "합병상장종목"이란 「유가증권시장 상장규정」 제2조제1항제25호에 따른 기업인수목적회사와 주권상장법인이 아닌 법인이 「유가증권시장 상장규정」 제76조의2에 따라 합병상장한 종목을 말한다.
 
 [전문개정 2021. 3. 12.]
 
-**제3조(최유리지정가호가의 가격)**규정제2조제4항제4호에서 "세칙이 정하는 가격"이라 함은 다음 각 호의 가격을 말한다.<개정 2025. 2. 27.>
+**제3조(최유리지정가호가의 가격)**규정 제2조제4항제4호에서 "세칙이 정하는 가격"이라 함은 다음 각 호의 가격을 말한다. <개정 2025. 2. 27.>
 
 1. 매도의 최유리지정가호가의 경우
-해당 호가의 접수시점에서 가장 높은 매수호가(중간가호가로 제출된 매수호가를 제외한다. 이하 이 조에서 같다)의 가격. 다만, 매수호가가 없는 때에는 가장 낮은 매도호가(중간가호가로 제출된 매도호가를 제외한다. 이하 이 조에서 같다)의 가격보다 1호가가격단위 낮은 가격(하한가를 한도로 한다)으로 하고, 매도호가와 매수호가가 없는 때에는 직전의 가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 낮고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다)으로 한다.<개정 2025. 2. 27.>
+ 해당 호가의 접수시점에서 가장 높은 매수호가(중간가호가로 제출된 매수호가를 제외한다. 이하 이 조에서 같다)의 가격. 다만, 매수호가가 없는 때에는 가장 낮은 매도호가(중간가호가로 제출된 매도호가를 제외한다. 이하 이 조에서 같다)의 가격보다 1호가가격단위 낮은 가격(하한가를 한도로 한다)으로 하고, 매도호가와 매수호가가 없는 때에는 직전의 가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 낮고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다)으로 한다. <개정 2025. 2. 27.>
 
 2. 매수의 최유리지정가호가의 경우
-해당 호가의 접수시점에서 가장 낮은 매도호가의 가격. 다만, 매도호가가 없는 때에는 가장 높은 매수호가의 가격보다 1호가가격단위 높은 가격(상한가를 한도로 한다)으로 하고, 매도호가와 매수호가가 없는 때에는 직전의 가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다)으로 한다.<개정 2025. 2. 27.>
+ 해당 호가의 접수시점에서 가장 낮은 매도호가의 가격. 다만, 매도호가가 없는 때에는 가장 높은 매수호가의 가격보다 1호가가격단위 높은 가격(상한가를 한도로 한다)으로 하고, 매도호가와 매수호가가 없는 때에는 직전의 가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다)으로 한다. <개정 2025. 2. 27.>
 
-**제4조(최우선지정가호가의 가격)**규정제2조제4항제5호에서 "세칙이 정하는 가격"이라 함은 다음 각 호의 가격을 말한다.<개정 2025. 2. 27.>
+**제4조(최우선지정가호가의 가격)**규정 제2조제4항제5호에서 "세칙이 정하는 가격"이라 함은 다음 각 호의 가격을 말한다. <개정 2025. 2. 27.>
 
 1. 매도의 최우선지정가호가의 경우
-해당 호가의 접수시점에서 가장 낮은 매도호가(중간가호가로 제출된 매도호가를 제외한다. 이하 이 호에서 같다)의 가격. 다만, 매도호가가 없는 때에는 직전의 가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다)으로 한다.<개정 2025. 2. 27.>
+ 해당 호가의 접수시점에서 가장 낮은 매도호가(중간가호가로 제출된 매도호가를 제외한다. 이하 이 호에서 같다)의 가격. 다만, 매도호가가 없는 때에는 직전의 가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다)으로 한다. <개정 2025. 2. 27.>
 
 2. 매수의 최우선지정가호가의 경우
-해당 호가의 접수시점에서 가장 높은 매수호가(중간가호가로 제출된 매수호가를 제외한다. 이하 이 호에서 같다)의 가격. 다만, 매수호가가 없는 때에는 직전의 가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 낮고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다)으로 한다.<개정 2025. 2. 27.>
+ 해당 호가의 접수시점에서 가장 높은 매수호가(중간가호가로 제출된 매수호가를 제외한다. 이하 이 호에서 같다)의 가격. 다만, 매수호가가 없는 때에는 직전의 가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 낮고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다)으로 한다. <개정 2025. 2. 27.>
 
-**제4조의2(중간가호가의 가격)**규정제2조제4항제7호에서 "세칙으로 정하는 가격"이란 복수가격에 의한 개별경쟁매매를 하는 시간의 최우선매도호가의 가격과 최우선매수호가의 가격을 단순산술평균한 가격(1원 미만은 절사한다. 이하 "중간가격"이라 한다)을 말한다.
+**제4조의2(중간가호가의 가격)**규정 제2조제4항제7호에서 "세칙으로 정하는 가격"이란 복수가격에 의한 개별경쟁매매를 하는 시간의 최우선매도호가의 가격과 최우선매수호가의 가격을 단순산술평균한 가격(1원 미만은 절사한다. 이하 "중간가격"이라 한다)을 말한다.
 
 [신설 2025. 2. 27.]
 
-**제4조의3(스톱지정가호가의 지정가호가로의 효력 발생 요건)**규정제2조제4항제8호에서 "세칙으로 정하는 요건"이란 다음 각 호의 구분에 따른 요건을 말한다.
+**제4조의3(스톱지정가호가의 지정가호가로의 효력 발생 요건)**규정 제2조제4항제8호에서 "세칙으로 정하는 요건"이란 다음 각 호의 구분에 따른 요건을 말한다.
 
 1. 매도 스톱지정가호가의 경우
-직전의 체결가격(직전의 체결가격이 없는 경우에는 기준가격으로 한다. 이하 이 조에서 같다)이규정제2조제4항제8호에 따른 스톱가격(이하 "스톱가격"이라 한다)과 같거나 낮을 것
+ 직전의 체결가격(직전의 체결가격이 없는 경우에는 기준가격으로 한다. 이하 이 조에서 같다)이 규정 제2조제4항제8호에 따른 스톱가격(이하 "스톱가격"이라 한다)과 같거나 낮을 것
 
 2. 매수 스톱지정가호가의 경우
-직전의 체결가격이 스톱가격과 같거나 높을 것
+ 직전의 체결가격이 스톱가격과 같거나 높을 것
 
 [신설 2025. 2. 27.]
 
-**제5조**삭제<2019. 7. 11.>
+**제5조**삭제 <2019. 7. 11.>
 
-**제6조**삭제<2019. 7. 11.>
+**제6조**삭제 <2019. 7. 11.>
 
-**제6조의2**삭제<2010. 7. 29.>
+**제6조의2**삭제 <2010. 7. 29.>
 
-**제6조의3(기세 불인정 종목)**규정제2조제9항에서 "세칙으로 정하는 기준"이란 당일의 종류주식의 기준가격이 해당 보통주식의 기준가격을 1. 5배 초과하는 것을 말한다.<개정 2012. 4. 20., 2020. 9. 22.>
+**제6조의3(기세 불인정 종목)**규정 제2조제9항에서 "세칙으로 정하는 기준"이란 당일의 종류주식의 기준가격이 해당 보통주식의 기준가격을 1. 5배 초과하는 것을 말한다. <개정 2012. 4. 20., 2020. 9. 22.>
 
 [본조신설 2009. 12. 30.]
 
-**제6조의4(지수차익거래의 정의 및 형태<개정 2021. 3. 12.>)**①규정제2조제21항제1호에서 "세칙으로 정하는 지수"란 다음 각호의 어느 하나에 해당하는 지수(이하 "지수차익거래대상지수"라 한다)를 말한다.<개정 2019. 7. 11., 2021. 3. 12.>
+**제6조의4(지수차익거래의 정의 및 형태<개정 2021. 3. 12.>)**① 규정 제2조제21항제1호에서 "세칙으로 정하는 지수"란 다음 각호의 어느 하나에 해당하는 지수(이하 "지수차익거래대상지수"라 한다)를 말한다. <개정 2019. 7. 11., 2021. 3. 12.>
 
 1. 코스피200
 
 2. KRX300(유가증권시장 및 코스닥시장에 상장된 주권 중 300종목에 대하여 기준일인 2010년 1월 4일의 지수를 1천포인트로 하여 거래소가 산출하는 시가총액 방식의 주가지수를 말한다. 이하 같다)
 
-②규정제2조제21항제1호에서 "세칙으로 정하는 형태"란 다음 각호의 어느 하나에 해당하는 것을 말한다.
+② 규정 제2조제21항제1호에서 "세칙으로 정하는 형태"란 다음 각호의 어느 하나에 해당하는 것을 말한다.
 
 1. 지수차익거래대상지수에 연동되는 주식집단(이하 이 조에서 "주식집단"이라 한다)의 매수와 동시에 또는 매수의 전·후에 같은 지수에 대한 선물거래종목(주가지수합성선물을 포함한다)의 매도(매수계약의 최종결제를 포함한다)를 하는 거래
 
 2. 주식집단의 매도와 동시에 또는 매도의 전·후에 같은 지수에 대한 선물거래종목(주가지수 합성선물을 포함한다)의 매수(매도계약의 최종결제를 포함한다)를 하는 거래
 
-③ 제2항에서 "주가지수합성선물의 매도"란 「파생상품시장 업무규정」제3조제2항제1호에 따른 지수옵션시장의 지수차익거래대상지수 옵션거래(이하 "주가지수옵션거래"라 한다)의 콜옵션을 매도하고 풋옵션을 매수하는 것을 말하며, "주가지수합성선물의 매수"란 주가지수옵션거래의 콜옵션을 매수하고 풋옵션을 매도하는 것을 말한다.
+③ 제2항에서 "주가지수합성선물의 매도"란 「파생상품시장 업무규정」 제3조제2항제1호에 따른 지수옵션시장의 지수차익거래대상지수 옵션거래(이하 "주가지수옵션거래"라 한다)의 콜옵션을 매도하고 풋옵션을 매수하는 것을 말하며, "주가지수합성선물의 매수"란 주가지수옵션거래의 콜옵션을 매수하고 풋옵션을 매도하는 것을 말한다.
 
 ④ 제2항에 따른 매수 또는 매도는 2회 이상 분할하여 매수 또는 매도하는 경우를 포함한다.
 
 [본조신설 2018. 12. 6.]
 
-**제6조의5(비차익거래)**①규정제2조제21항제2호에서 "세칙으로 정하는 범위의 동일인"은 신탁재산(펀드별)과 고유재산을 기준으로 구분한다.
+**제6조의5(비차익거래)**① 규정 제2조제21항제2호에서 "세칙으로 정하는 범위의 동일인"은 신탁재산(펀드별)과 고유재산을 기준으로 구분한다.
 
-②규정제2조제21항제2호에서 "세칙으로 정하는 수 이상의 종목"이라 함은 15이상[법 제8조의2제5항에 따른 다자간매매체결회사(이하 "다자간매매체결회사"라 한다)에서 거래하는 경우를 포함하여 계산한다]의 종목을 말한다. 이 경우 종목 수는 매수와 매도를 따로 산정한다.<개정 2019. 1. 24.,2025. 2. 27.>
+② 규정 제2조제21항제2호에서 "세칙으로 정하는 수 이상의 종목"이라 함은 15이상[법 제8조의2제5항에 따른 다자간매매체결회사(이하 "다자간매매체결회사"라 한다)에서 거래하는 경우를 포함하여 계산한다]의 종목을 말한다. 이 경우 종목 수는 매수와 매도를 따로 산정한다. <개정 2019. 1. 24.,2025. 2. 27.>
 
-③ 제1항 및 제2항에도 불구하고 다음 각 호의 호가는 비차익거래를 위한 호가로 보지 않는다.<신설 2019. 1. 24.>
+③ 제1항 및 제2항에도 불구하고 다음 각 호의 호가는 비차익거래를 위한 호가로 보지 않는다. <신설 2019. 1. 24.>
 
 1. 제12조제1항제23호의 유동성공급호가
 
@@ -680,21 +935,21 @@ attachments:
 
 [본조신설 2018. 12. 6.]
 
-**제6조의6(알고리즘거래 특례)**규정제2조제22항에서 "세칙으로 정하는 증권"이란 채무증권을 말한다.
+**제6조의6(알고리즘거래 특례)**규정 제2조제22항에서 "세칙으로 정하는 증권"이란 채무증권을 말한다.
 
 [본조신설 2022. 12. 22.]
 
-**제7조(적용상 의제)**① 삭제<2019. 9. 10.>
+**제7조(적용상 의제)**① 삭제 <2019. 9. 10.>
 
-② 이 세칙을 적용함에 있어 「유가증권시장 상장규정」제111조가 적용되는 수익증권은 채무증권에 관한 규정을 준용한다.<개정 2009. 2. 3., 2012. 9. 20., 2013. 5. 13.>
+② 이 세칙을 적용함에 있어 「유가증권시장 상장규정」 제111조가 적용되는 수익증권은 채무증권에 관한 규정을 준용한다. <개정 2009. 2. 3., 2012. 9. 20., 2013. 5. 13.>
 
-③ 삭제<2014. 9. 2.>
+③ 삭제 <2014. 9. 2.>
 
-제2장 시장의 운영
+ 제2장 시장의 운영
 
-제1절 시장의 구분 및 개폐
+ 제1절 시장의 구분 및 개폐
 
-**제8조(매매거래시간의 변경)**① 거래소는규정제4조제3항 단서에 따라 다음 각호의 어느 하나에 해당하는 경우에는 매매거래시간을 임시 변경할 수 있다.<개정 2009. 2. 3.>
+**제8조(매매거래시간의 변경)**① 거래소는 규정 제4조제3항 단서에 따라 다음 각호의 어느 하나에 해당하는 경우에는 매매거래시간을 임시 변경할 수 있다. <개정 2009. 2. 3.>
 
 1. 회원시스템, 거래소시스템 그 밖에 이에 준하는 업무를 수행한다고 인정되는 전산시스템의 장애(전산시스템이 일정시간 이상 정상적으로 가동되지 못함으로써 정상적인 매매거래에 지장을 초래한다고 인정되는 상태를 말한다. 이하 "전산장애"라 한다)가 발생한 경우
 
@@ -704,7 +959,7 @@ attachments:
 
 4. 그 밖에 매매거래시간의 변경이 필요한 경우
 
-② 제1항제1호에서 회원시스템의 장애란 다음 각호의 어느 하나에 해당하는 것으로 확인된 경우를 말한다.<개정 2009. 2. 3., 2013. 12. 18., 2017. 8. 24.>
+② 제1항제1호에서 회원시스템의 장애란 다음 각호의 어느 하나에 해당하는 것으로 확인된 경우를 말한다. <개정 2009. 2. 3., 2013. 12. 18., 2017. 8. 24.>
 
 1. 채무증권외의 경우에는 회원별 시스템장애(회원시스템을 통하여 모든 호가를 시장으로 전달할 수 없는 경우로서, 본점·지점 그 밖의 영업소중 일부영업소 또는 일부지역에 장애가 발생한 경우는 제외한다. 이하 같다)가 발생한 회원의 주식거래량(회원시스템의 장애가 발생한 날이 속하는 월의 전월의 말일을 기산일로 하여 소급한 1년간의 거래량을 기준으로 하며, 회원가입·탈퇴가 있는 경우에는 이를 감안하여 계산한다. 이하 이 항에서 같다)의 합계가 전체주식거래량의 75%이상인 경우. 다만, 회원별 시스템 장애가 발생한 회원의 주식거래량의 합계가 전체주식거래량의 75%에 미달하는 경우에도 거래소는 다음 각 목의 시장상황 등을 고려하여 필요하다고 인정하는 경우 제1항제1호에 따른 회원시스템의 장애로 볼 수 있다.
 
@@ -712,71 +967,71 @@ attachments:
 
 나. 회원별 시스템의 장애 발생으로 정상적인 시장운영이 어려운 경우
 
-2. 채무증권의 경우에는규정제71조의3제2항 각 호의 매매거래별로 회원별 시스템장애가 발생한 회원의 거래량 합계가 전체 회원 거래량 합계의 75% 이상인 경우. 다만, 거래소가 각 회원별 시스템장애로 정상적인 시장운영이 어렵다고 판단하는 경우에는 제1항제1호의 전산장애로 볼 수 있다.
+2. 채무증권의 경우에는 규정 제71조의3제2항 각 호의 매매거래별로 회원별 시스템장애가 발생한 회원의 거래량 합계가 전체 회원 거래량 합계의 75% 이상인 경우. 다만, 거래소가 각 회원별 시스템장애로 정상적인 시장운영이 어렵다고 판단하는 경우에는 제1항제1호의 전산장애로 볼 수 있다.
 
-③ 제1항제1호에 따른 매매거래시간의 변경은 장애복구시점으로부터 장애시간만큼 순연하는 것을 원칙으로 한다. 다만, 정규시장의 매매거래시간종료(이하 "장종료"라 한다)시점의 연장은 거래소가 필요하다고 인정하는 시간까지 할 수 있다.<개정 2009. 2. 3.>
+③ 제1항제1호에 따른 매매거래시간의 변경은 장애복구시점으로부터 장애시간만큼 순연하는 것을 원칙으로 한다. 다만, 정규시장의 매매거래시간종료(이하 "장종료"라 한다)시점의 연장은 거래소가 필요하다고 인정하는 시간까지 할 수 있다. <개정 2009. 2. 3.>
 
-④ 제3항에 불구하고 채무증권의 경우에는 제1항에 따라 매매거래시간을 변경하는 경우에도 장종료시점은 변경하지 아니할 수 있다.<개정 2009. 2. 3.>
+④ 제3항에 불구하고 채무증권의 경우에는 제1항에 따라 매매거래시간을 변경하는 경우에도 장종료시점은 변경하지 아니할 수 있다. <개정 2009. 2. 3.>
 
 ⑤ 전산장애복구후 정규시장의 매매거래시간은 회원시스템 또는 거래소시스템 등의 가동상황, 호가상황 등을 고려하여 전산장애복구시간으로부터 일정시간이 경과한 이후로 변경할 수 있다.
 
-⑥규정제6조에 따른 시장의 임시정지후 재개시점이 장종료 10분전 이후인 경우에는 재개후 매매거래시간을 10분이상으로 한다. 다만, 채무증권의 경우에는 그러하지 아니할 수 있다.<개정 2009. 2. 3.>
+⑥ 규정 제6조에 따른 시장의 임시정지후 재개시점이 장종료 10분전 이후인 경우에는 재개후 매매거래시간을 10분이상으로 한다. 다만, 채무증권의 경우에는 그러하지 아니할 수 있다. <개정 2009. 2. 3.>
 
-제2절 매매거래의 종류
+ 제2절 매매거래의 종류
 
-**제9조(매매거래종류의 지정)**①규정제7조제1항제2호에서 "세칙으로 정하는 경우"란 제2항제1호의 결제일이 한국은행이 정하는 지급준비금적립마감일(휴장일인 경우에는 그 직전 매매거래일을 말한다. 이하 "지급준비금적립마감일"이라 한다)인 경우를 말한다.<개정 2011. 12. 30., 2024. 10. 29.>
+**제9조(매매거래종류의 지정)**① 규정 제7조제1항제2호에서 "세칙으로 정하는 경우"란 제2항제1호의 결제일이 한국은행이 정하는 지급준비금적립마감일(휴장일인 경우에는 그 직전 매매거래일을 말한다. 이하 "지급준비금적립마감일"이라 한다)인 경우를 말한다. <개정 2011. 12. 30., 2024. 10. 29.>
 
-②규정제7조제4항에 따라 채무증권의 매매거래의 종류는 다음 각 호와 같다.<개정 2009. 2. 3., 2011. 12. 30.>
+② 규정 제7조제4항에 따라 채무증권의 매매거래의 종류는 다음 각 호와 같다. <개정 2009. 2. 3., 2011. 12. 30.>
 
-1.규정제55조제3호에 따른 국채전문유통시장의 매매거래 : 익일결제거래
+1. 규정 제55조제3호에 따른 국채전문유통시장의 매매거래 : 익일결제거래
 
 2. 제1호외의 채무증권의 매매거래 : 당일결제거래
 
-③규정제7조제4항의 규정에 의하여규정제39조제4항제1호 및 제2호의 규정에 의한 주권의 매매거래로서 매도호가와 매수호가가 단일회원의 호가(제12조제3항에 따라 복수로 회원번호를 부여받은 회원의 경우 회원번호가 같은 호가에 한한다. 이하 제52조제2항 및 제53조제2항에서 같다)이고 당해 회원이 호가를 하기 3일 전에 별지 제1호 서식에 의한 당일결제거래신청서를 거래소에 제출하여 거래소가 필요하다고 인정하는 매매거래는 당일결제거래로 지정한다.<개정 2006. 7. 7., 2009. 3. 19.>
+③ 규정 제7조제4항의 규정에 의하여 규정 제39조제4항제1호 및 제2호의 규정에 의한 주권의 매매거래로서 매도호가와 매수호가가 단일회원의 호가(제12조제3항에 따라 복수로 회원번호를 부여받은 회원의 경우 회원번호가 같은 호가에 한한다. 이하 제52조제2항 및 제53조제2항에서 같다)이고 당해 회원이 호가를 하기 3일 전에 별지 제1호 서식에 의한 당일결제거래신청서를 거래소에 제출하여 거래소가 필요하다고 인정하는 매매거래는 당일결제거래로 지정한다. <개정 2006. 7. 7., 2009. 3. 19.>
 
-④규정제7조제4항에 따라 「증권시장 청산결제 업무규정」제22조에 따른 거래소의 매입인도에 따른 매매거래는 당일결제거래로 지정한다.<신설 2011. 12. 30.,개정 2025. 2. 27.>
+④ 규정 제7조제4항에 따라 「증권시장 청산결제 업무규정」제22조에 따른 거래소의 매입인도에 따른 매매거래는 당일결제거래로 지정한다. <신설 2011. 12. 30.,개정 2025. 2. 27.>
 
-**제9조의2(회원시스템 접속 등에 관한 기준)**①규정제8조의2제1항에서 "세칙이 정하는 사항"이란 다음 각 호를 말한다.<개정 2014. 2. 28.>
+**제9조의2(회원시스템 접속 등에 관한 기준)**① 규정 제8조의2제1항에서 "세칙이 정하는 사항"이란 다음 각 호를 말한다. <개정 2014. 2. 28.>
 
 1. 회원과 거래소간 네트워크의 연결방법
 
 2. 회원과 거래소간 통신회선 및 세션의 신청·배정방법
 
-3.규정제82조제2항의 보안장치 요건
+3. 규정 제82조제2항의 보안장치 요건
 
 4. 회원의 세션 배정·운영 기준
 
 5. 그 밖에 거래소가 시스템의 효율적·안정적 운영을 위하여 필요하다고 인정하는 사항
 
-② 제1항에서 "통신회선"이란 회원과 거래소 간의 호가 및 매매계약체결내용 등을 송·수신하는 물리적 회선을 말하며, "세션"이란 회원과 거래소 간의 호가 및 매매계약체결내용 등을 전자적으로 송·수신하는 논리적 회선을 말한다.<개정 2014. 2. 28.>
+② 제1항에서 "통신회선"이란 회원과 거래소 간의 호가 및 매매계약체결내용 등을 송·수신하는 물리적 회선을 말하며, "세션"이란 회원과 거래소 간의 호가 및 매매계약체결내용 등을 전자적으로 송·수신하는 논리적 회선을 말한다. <개정 2014. 2. 28.>
 
 [본조신설 2011. 12. 28.]
 
-제3절 호가
+ 제3절 호가
 
-**제9조의3(다수계좌와 관련된 주문내용의 일괄호가)**①규정제9조제1항 단서에서 "세칙에서 정하는 경우"란 다음 각호의 어느 하나에 해당하는 경우를 말한다.<개정 2009. 2. 3., 2012. 9. 20., 2019. 9. 10., 2023. 11. 23., 2023. 12. 4.>
+**제9조의3(다수계좌와 관련된 주문내용의 일괄호가)**① 규정 제9조제1항 단서에서 "세칙에서 정하는 경우"란 다음 각호의 어느 하나에 해당하는 경우를 말한다. <개정 2009. 2. 3., 2012. 9. 20., 2019. 9. 10., 2023. 11. 23., 2023. 12. 4.>
 
-1. 투자일임업을영위하는 회원이 「자본시장과 금융투자업에 관한 법률 시행령」(이하 "법시행령"이라 한다)제99조제2항제4호에 따라 개별 투자일임재산을 효율적으로 운용하기 위하여 자기 명의의 계좌로 주문내용을 호가하는 경우. 이 경우 투자일임업무를 담당하는 자를 구분할 수 있어야 한다.
+1. 투자일임업을 영위하는 회원이 「자본시장과 금융투자업에 관한 법률 시행령」(이하 "법시행령"이라 한다) 제99조제2항제4호에 따라 개별 투자일임재산을 효율적으로 운용하기 위하여 자기 명의의 계좌로 주문내용을 호가하는 경우. 이 경우 투자일임업무를 담당하는 자를 구분할 수 있어야 한다.
 
-1의2. 신탁업을영위하는 회원이법시행령제109조제1항제5호에 따라 개별 신탁재산(자기주식 취득을 위한 신탁재산은 제외한다)을 효율적으로 운용하기 위하여 자기 명의의 계좌로 주문내용을 호가하는 경우. 이 경우 신탁업무를 담당하는 자를 구분할 수 있어야 하고, 채무증권에 대하여 호가를 제출하려는 회원은 이를 사전에 거래소에 신고하여야 한다.<개정 2026. 7. 2.>
+1의2. 신탁업을 영위하는 회원이 법시행령 제109조제1항제5호에 따라 개별 신탁재산(자기주식 취득을 위한 신탁재산은 제외한다)을 효율적으로 운용하기 위하여 자기 명의의 계좌로 주문내용을 호가하는 경우. 이 경우 신탁업무를 담당하는 자를 구분할 수 있어야 하고, 채무증권에 대하여 호가를 제출하려는 회원은 이를 사전에 거래소에 신고하여야 한다. <개정 2026. 7. 2.>
 
 2. 「금융투자업규정」에 따른 외국인투자자집단의 투자운용을 위하여 외국 금융투자업자·대표투자자 명의의 계좌 또는 투자중개업자 명의의 계좌로 주문내용을 호가하는 경우
 
 3. 그 밖에 관련법규에 의하여 투자중개업자 명의의 계좌 등으로 주문내용을 호가하는 것이 필요하다고 인정되는 경우
 
-② 회원이 제1항에 따라 다수의 계좌와 관련된 주문내용을 호가하는 경우 별도의 계좌로 하여야 한다.<개정 2009. 2. 3.>
+② 회원이 제1항에 따라 다수의 계좌와 관련된 주문내용을 호가하는 경우 별도의 계좌로 하여야 한다. <개정 2009. 2. 3.>
 
 [본조신설 2007. 8. 28.]
 
-**제10조(호가의 종류)**①규정제9조제2항에 따라 회원이 증권의 종류별로 할 수 있는 호가의 종류는 다음 각 호와 같다.<개정 2005. 8. 26., 2009. 2. 3., 2009. 7. 16., 2010. 7. 29., 2014. 9. 2.,2025. 2. 27.>
+**제10조(호가의 종류)**① 규정 제9조제2항에 따라 회원이 증권의 종류별로 할 수 있는 호가의 종류는 다음 각 호와 같다. <개정 2005. 8. 26., 2009. 2. 3., 2009. 7. 16., 2010. 7. 29., 2014. 9. 2.,2025. 2. 27.>
 
-1. 주권(상장지수집합투자기구 투자회사 주권을 제외한다. 이하 같다), 외국주식예탁증권, 상장지수집합투자기구 집합투자증권 및 상장지수증권 : 지정가호가, 시장가호가, 조건부지정가호가, 최유리지정가호가, 최우선지정가호가, 경쟁대량매매호가, 중간가호가 및 스톱지정가호가<개정 2025. 2. 27.>
+1. 주권(상장지수집합투자기구 투자회사 주권을 제외한다. 이하 같다), 외국주식예탁증권, 상장지수집합투자기구 집합투자증권 및 상장지수증권 : 지정가호가, 시장가호가, 조건부지정가호가, 최유리지정가호가, 최우선지정가호가, 경쟁대량매매호가, 중간가호가 및 스톱지정가호가 <개정 2025. 2. 27.>
 
 2. 신주인수권증서, 신주인수권증권, 주식워런트증권, 수익증권(상장지수집합투자기구 투자신탁 수익증권을 제외한다. 이하 같다) 및 채무증권 : 지정가호가
 
-②규정제9조제3항에 따라 제61조제2호부터 제4호까지의 소액채권중 매매거래일을 기준으로 발행월이 동일한 소액채권에 대한 매수호가는 종류별호가로 할 수 있다.<개정 2009. 2. 3.>
+② 규정 제9조제3항에 따라 제61조제2호부터 제4호까지의 소액채권중 매매거래일을 기준으로 발행월이 동일한 소액채권에 대한 매수호가는 종류별호가로 할 수 있다. <개정 2009. 2. 3.>
 
-**제11조(호가접수시간)**①규정제10조제2항에 따라 호가접수시간은 다음 각 호와 같이 한다.<개정 2005. 5. 13., 2009. 3. 19., 2010. 7. 29., 2010. 12. 6., 2015. 5. 19., 2016. 6. 21., 2019. 4. 3.>
+**제11조(호가접수시간)**① 규정 제10조제2항에 따라 호가접수시간은 다음 각 호와 같이 한다. <개정 2005. 5. 13., 2009. 3. 19., 2010. 7. 29., 2010. 12. 6., 2015. 5. 19., 2016. 6. 21., 2019. 4. 3.>
 
 1. 정규시장 : 정규시장의 매매거래시간개시(이하 "장개시"라 한다) 30분전부터 장종료시까지. 다만, 장중경쟁대량매매를 위한 호가의 경우는 장개시시부터 장종료 30분전까지로 한다.
 
@@ -788,7 +1043,7 @@ attachments:
 
 (2) 시간외대량매매, 시간외바스켓매매 및 시간외경쟁대량매매: 8시부터 9시까지
 
-(3) 삭제<2019. 4. 3.>
+(3) 삭제 <2019. 4. 3.>
 
 나. 장종료후 시간외시장 : 매매거래의 유형별로 다음의 구분에 따른 시간
 
@@ -804,13 +1059,13 @@ attachments:
 
 2. 그 밖에 시장관리상 필요하다고 인정한 때
 
-**제12조(호가의 입력내용)**①규정제11조에 따라 회원은 다음 각 호의 호가내용을 거래소시스템에 입력하여야 한다.
+**제12조(호가의 입력내용)**① 규정 제11조에 따라 회원은 다음 각 호의 호가내용을 거래소시스템에 입력하여야 한다.
 
 1. 정규시장, 장개시전 시간외시장 또는 장종료후 시간외시장의 구분
 
 1의2. 장중경쟁대량매매를 위한 호가인 경우 그 구분
 
-2. 시간외시장에서의 매매거래를 위한 호가인 경우규정제33조각 호에 따른 매매거래유형의 구분
+2. 시간외시장에서의 매매거래를 위한 호가인 경우 규정 제33조 각 호에 따른 매매거래유형의 구분
 
 3. 종목 또는 종류
 
@@ -832,9 +1087,9 @@ attachments:
 
 8. 매도호가의 경우 다음 각 목의 구분
 
-가.규정제17조제1항 각 호의 어느 하나 또는 제44조의2제1항 각 호의 어느 하나에 해당하는 매도호가
+가. 규정 제17조제1항 각 호의 어느 하나 또는 제44조의2제1항 각 호의 어느 하나에 해당하는 매도호가
 
-나.규정제17조제2항 또는 제44조의2제2항에 따른 차입공매도 호가
+나. 규정 제17조제2항 또는 제44조의2제2항에 따른 차입공매도 호가
 
 다. 그 밖의 매도호가
 
@@ -878,9 +1133,9 @@ attachments:
 
 나. 매매방법에 따른 다음의 구분
 
-(1)규정제35조제4항이 적용되는 매매
+(1) 규정 제35조제4항이 적용되는 매매
 
-(2)규정제39조제4항제1호 및 제2호에 따른 자기주식매수 중규정제35조제2항이 적용되는 매매
+(2) 규정 제39조제4항제1호 및 제2호에 따른 자기주식매수 중 규정 제35조제2항이 적용되는 매매
 
 (3) (1) 및 (2) 외의 매매
 
@@ -888,11 +1143,11 @@ attachments:
 
 가. 제9조의3제1항 각 호에 따라 호가하는 경우(투자일임계약을 체결한 투자자 명의의 계좌 또는 개별 신탁재산별로 설정된 회원 명의의 계좌로 호가하는 경우를 포함한다) 그 각각의 구분
 
-나. 「조세특례제한법 시행령」제115조제2항에 따른 위험회피거래 대상주권만을 거래하는 계좌를 통하여 호가하는 경우 그 계좌의 구분
+나. 「조세특례제한법 시행령」 제115조제2항에 따른 위험회피거래 대상주권만을 거래하는 계좌를 통하여 호가하는 경우 그 계좌의 구분
 
-다. 「조세특례제한법」제91조의17제1항에 따른 해외주식투자전용집합투자증권저축 계좌를 통하여 해외주식투자전용집합투자기구의 집합투자증권에 호가하는 경우 그 계좌의 구분
+다. 「조세특례제한법」 제91조의17제1항에 따른 해외주식투자전용집합투자증권저축 계좌를 통하여 해외주식투자전용집합투자기구의 집합투자증권에 호가하는 경우 그 계좌의 구분
 
-라. 「조세특례제한법 시행령」제115조제5항에 따라 시장조성계약의 대상이 되는 주권만을 거래하는 계좌(이하 "시장조성계좌"라 한다)를 통하여 호가하는 경우 그 계좌의 구분
+라. 「조세특례제한법 시행령」 제115조제5항에 따라 시장조성계약의 대상이 되는 주권만을 거래하는 계좌(이하 "시장조성계좌"라 한다)를 통하여 호가하는 경우 그 계좌의 구분
 
 마. 「금융투자업규정」제6-7조제7항에 따른 외국인 통합계좌를 통하여 호가하는 경우 그 계좌의 구분
 
@@ -900,7 +1155,7 @@ attachments:
 
 사. 제99조의9제5항 전단에 따른 채권시장조성계좌를 통하여 호가하는 경우 그 계좌의 구분
 
-17.규정제89조제1항에 따라 위탁증거금을 징수하는 위탁자의 경우 그 구분
+17. 규정 제89조제1항에 따라 위탁증거금을 징수하는 위탁자의 경우 그 구분
 
 18. 「금융투자업규정」에 따른 신용거래의 경우 그 구분
 
@@ -926,13 +1181,13 @@ attachments:
 
 자. 외국주식예탁증권차익거래
 
-차.규정제18조제2항제6호의 헤지거래 및 같은 목적의 매수 헤지거래
+차. 규정 제18조제2항제6호의 헤지거래 및 같은 목적의 매수 헤지거래
 
-카.규정제18조제2항제7호의 헤지거래 및 같은 목적의 매수 헤지거래
+카. 규정 제18조제2항제7호의 헤지거래 및 같은 목적의 매수 헤지거래
 
-타.규정제18조제2항제7호의2의 헤지거래 및 같은 목적의 매수 헤지거래
+타. 규정 제18조제2항제7호의2의 헤지거래 및 같은 목적의 매수 헤지거래
 
-파.규정제18조제2항제8호의 헤지거래 및 같은 목적의 매수 헤지거래
+파. 규정 제18조제2항제8호의 헤지거래 및 같은 목적의 매수 헤지거래
 
 20. 주식집단을 매매하기 위한 호가의 경우 다음 각 목의 구분
 
@@ -948,11 +1203,11 @@ attachments:
 
 22. 환매조건부채권매매거래(이하 "환매채거래"라 한다)의 경우 거래기간
 
-23.규정제20조의2제1항에 따른 유동성공급호가(이하 "유동성공급호가"라 한다)의 경우 그 구분
+23. 규정 제20조의2제1항에 따른 유동성공급호가(이하 "유동성공급호가"라 한다)의 경우 그 구분
 
-23의2.규정제20조의9제1항에 따른 시장조성호가(이하 "시장조성호가"라 한다)인 경우 그 구분
+23의2. 규정 제20조의9제1항에 따른 시장조성호가(이하 "시장조성호가"라 한다)인 경우 그 구분
 
-23의3.규정제55조제4호 또는규정제71조의2제2호에 따른 조성호가(이하 "채권시장 조성호가"라 한다)인 경우 그 구분
+23의3. 규정 제55조제4호 또는 규정 제71조의2제2호에 따른 조성호가(이하 "채권시장 조성호가"라 한다)인 경우 그 구분
 
 24. 국가 구분
 
@@ -974,7 +1229,7 @@ attachments:
 
 27의2. 거래시장[법 제8조의2제4항제1호의 증권시장 및 다자간매매체결회사를 말한다] 지정 여부 구분. 다만, 채무증권의 경우에는 예외로 한다.
 
-27의3. 위탁자나 회원이 「금융투자업규정」 제6-37조제2항에 따른 공매도 등록번호(이하 ‘공매도 등록번호’라 한다)를 발급받은 경우 공매도 등록번호(주권의 경우에 한정한다)<신설 2025. 3. 26.>
+27의3. 위탁자나 회원이 「금융투자업규정」 제6-37조제2항에 따른 공매도 등록번호(이하 ‘공매도 등록번호’라 한다)를 발급받은 경우 공매도 등록번호(주권의 경우에 한정한다) <신설 2025. 3. 26.>
 
 28. 다른 투자매매업자 또는 투자중개업자로부터 위탁을 받은 경우 위탁한 투자매매업자 또는 투자중개업자를 식별할 수 있는 번호
 
@@ -992,14 +1247,14 @@ attachments:
 
 ⑤ 회원은 다른 투자중개업자로부터 위탁의 주선을 받아 이를 호가하는 때에는 그 다른 투자중개업자에 위탁한 자를 기준으로 계좌번호 및 투자자분류코드 등을 입력하여야 한다.
 
-⑥규정제59조의2에 따른 발행일전거래(이하 "발행일전거래"라 한다)의 경우 수익률로 입력할 수 있다. 이 경우 다음 산식에 따라 가격으로 호가한 것으로 본다.
-가격=10,000-(수익률×1,000)
+⑥ 규정 제59조의2에 따른 발행일전거래(이하 "발행일전거래"라 한다)의 경우 수익률로 입력할 수 있다. 이 경우 다음 산식에 따라 가격으로 호가한 것으로 본다.
+ 가격=10,000-(수익률×1,000)
 
 ⑦ 제1항부터 제6항까지 외에 거래소는 호가의 입력내용에 관하여 필요한 사항이 있는 경우 이를 회원에게 통보하여야 한다.
 
 [전문개정 2009. 3. 19.]
 
-**제12조의2(호가의 적합성 등 점검항목)**규정제11조의2제1항에서 "세칙에서 정하는 사항"이란 다음 각 호를 말한다. 다만, 회원채무증권단말기(채무증권 매매와 관련한 업무를 위하여 회원이 거래소의 승인을 얻어 거래소가 제공하는 프로그램을 이용하여 거래소시스템과 연결한 단말기를 말한다. 이하 같다)를 이용하여 호가를 제출하는 경우에는 거래소가 필요하다고 인정하는 사항만 적용할 수 있다.
+**제12조의2(호가의 적합성 등 점검항목)**규정 제11조의2제1항에서 "세칙에서 정하는 사항"이란 다음 각 호를 말한다. 다만, 회원채무증권단말기(채무증권 매매와 관련한 업무를 위하여 회원이 거래소의 승인을 얻어 거래소가 제공하는 프로그램을 이용하여 거래소시스템과 연결한 단말기를 말한다. 이하 같다)를 이용하여 호가를 제출하는 경우에는 거래소가 필요하다고 인정하는 사항만 적용할 수 있다.
 
 1. 계좌에 관하여 다음 각 목의 사항
 
@@ -1011,7 +1266,7 @@ attachments:
 
 가. 종목코드
 
-나.규정제26조·제49조, 「유가증권시장 상장규정」 및 「유가증권시장 공시규정」 등에 따른 매매거래정지 종목 여부
+나. 규정 제26조·제49조, 「유가증권시장 상장규정」 및 「유가증권시장 공시규정」 등에 따른 매매거래정지 종목 여부
 
 3. 호가수량에 관하여 다음 각 목의 사항
 
@@ -1029,37 +1284,37 @@ attachments:
 
 가. 제32조제2항에 따른 호가가격단위
 
-나.규정제20조에 따른 호가의 가격제한
+나. 규정 제20조에 따른 호가의 가격제한
 
 다. 제14조제1항 제1호 및 제2호의3에 따른 호가의 가격제한
 
-라.규정제20조의5제1항에 따른 유동성공급호가의 가격제한
+라. 규정 제20조의5제1항에 따른 유동성공급호가의 가격제한
 
-마.규정제35조제5항 및제39조제1항에 따른 자기주식매매를 위하여 제출하는 호가의 가격제한
+마. 규정 제35조제5항 및 제39조제1항에 따른 자기주식매매를 위하여 제출하는 호가의 가격제한
 
 바. 채무증권의 경우 제14조제1항제4호라목의 가격제한
 
-4의2. 스톱가격에 관하여 다음 각 목의 사항<신설 2025. 2. 27.>
+4의2. 스톱가격에 관하여 다음 각 목의 사항 <신설 2025. 2. 27.>
 
-가. 제14조제1항제2호의4가목에 따른 스톱가격제한<신설 2025. 2. 27.>
+가. 제14조제1항제2호의4가목에 따른 스톱가격제한 <신설 2025. 2. 27.>
 
-나. 제14조제1항제2호의4나목에 따른 스톱가격 호가가격단위제한<신설 2025. 2. 27.>
+나. 제14조제1항제2호의4나목에 따른 스톱가격 호가가격단위제한 <신설 2025. 2. 27.>
 
-5. 호가 종류에 관하여 다음 각 목의 사항<개정 2025. 2. 27.>
+5. 호가 종류에 관하여 다음 각 목의 사항 <개정 2025. 2. 27.>
 
-가. 제10조제1항 각 호에 따른 호가의 종류제한<개정 2025. 2. 27.>
+가. 제10조제1항 각 호에 따른 호가의 종류제한 <개정 2025. 2. 27.>
 
 나. 제14조제2항(같은 항 제2호나목은 제외한다)에 따른 호가의 종류별 입력제한
 
 6. 위탁증거금 등에 관하여 다음 각 목의 사항
 
-가.규정제89조제1항, 제4항 및 제5항에 따른 위탁증거금의 징수 여부
+가. 규정 제89조제1항, 제4항 및 제5항에 따른 위탁증거금의 징수 여부
 
-나. 주식워런트증권 또는규정제87조의2제1항제2호에 따른 증권의 경우규정제87조의2에 따른 기본예탁금의 징수 여부
+나. 주식워런트증권 또는 규정 제87조의2제1항제2호에 따른 증권의 경우 규정 제87조의2에 따른 기본예탁금의 징수 여부
 
 7. 제12조제14호의3가목에 따라 고속 알고리즘거래번호를 입력하는 경우 다음 각 목의 사항
 
-가.규정제104조의3제3항에 따라 신고한 고속 알고리즘거래계좌를 통한 호가 제출 여부
+가. 규정 제104조의3제3항에 따라 신고한 고속 알고리즘거래계좌를 통한 호가 제출 여부
 
 나. 가목의 계좌에 연결된 고속 알고리즘거래번호와 제12조제14호의3가목에 따라 입력한 고속 알고리즘거래번호의 일치 여부
 
@@ -1073,23 +1328,23 @@ attachments:
 
 [본조신설 2011. 12. 28.]
 
-**제13조(호가의 효력)**①규정제12조제1항 단서에 따라 다음 각 호의 어느 하나에 해당하는 호가의 경우에는 그 효력을 인정하지 아니한다.
+**제13조(호가의 효력)**① 규정 제12조제1항 단서에 따라 다음 각 호의 어느 하나에 해당하는 호가의 경우에는 그 효력을 인정하지 아니한다.
 
-1.규정제25조제1항,제26조제1항,제27조,제49조,제50조및제107조의 규정에 의한 매매거래의 중단 또는 정지(규정 제6조의 규정에 의한 시장의 임시정지 및 「유가증권시장 상장규정」·「유가증권시장 공시규정」에 의한 매매거래정지를 포함한다. 이하 이 조에서 "매매거래중단등"이라 한다)가 이루어진 경우 당해 중단 또는 정지 기간 중 입력된 호가. 다만, 해당 중단 또는 정지 기간 중 입력된 취소호가(제17조의2에 따른 일괄호가취소가 적용된 호가를 포함한다)는 그 효력을 인정한다.
+1. 규정 제25조제1항, 제26조제1항, 제27조, 제49조, 제50조 및 제107조의 규정에 의한 매매거래의 중단 또는 정지(규정 제6조의 규정에 의한 시장의 임시정지 및 「유가증권시장 상장규정」·「유가증권시장 공시규정」에 의한 매매거래정지를 포함한다. 이하 이 조에서 "매매거래중단등"이라 한다)가 이루어진 경우 당해 중단 또는 정지 기간 중 입력된 호가. 다만, 해당 중단 또는 정지 기간 중 입력된 취소호가(제17조의2에 따른 일괄호가취소가 적용된 호가를 포함한다)는 그 효력을 인정한다.
 
 2. 정규시장의 경우 다음 각 목의 호가
 
 가. 장개시전 시간외시장에서 접수된 호가
 
-나.규정제23조와제24조에 따른 개별경쟁매매의 경우 경쟁대량매매호가
+나. 규정 제23조와 제24조에 따른 개별경쟁매매의 경우 경쟁대량매매호가
 
-다. 장중경쟁대량매매의 경우규정제23조와제24조에 따른 개별경쟁매매를 위한 호가
+다. 장중경쟁대량매매의 경우 규정 제23조와 제24조에 따른 개별경쟁매매를 위한 호가
 
 3. 시간외시장의 경우 다음 각 목의 호가
 
 가. 장개시전 시간외시장의 경우 정규시장에서 접수된 호가
-가의2. 시간외종가매매의 경우 경쟁대량매매호가
-가의3. 시간외경쟁대량매매의 경우 시간외종가매매를 위한 호가
+ 가의2. 시간외종가매매의 경우 경쟁대량매매호가
+ 가의3. 시간외경쟁대량매매의 경우 시간외종가매매를 위한 호가
 
 나. 장종료후 시간외시장의 경우 장개시전 시간외시장 및 정규시장에서 접수된 호가
 
@@ -1097,17 +1352,17 @@ attachments:
 
 4. 시가기준가종목의 최초의 가격결정에 참여한 호가중 최초의 가격결정 후 상한가를 초과하거나 하한가에 미달하는 호가
 
-4의2.규정제23조제1항제4호에 따른 장종료시의 가격을 결정하기 위한 단일가격에 의한 개별경쟁매매 호가접수시간 이전에 접수되어 해당 호가접수시간까지 매매거래가 성립되지 않고 남아 있는 중간가호가<신설 2025. 2. 27.>
+4의2. 규정 제23조제1항제4호에 따른 장종료시의 가격을 결정하기 위한 단일가격에 의한 개별경쟁매매 호가접수시간 이전에 접수되어 해당 호가접수시간까지 매매거래가 성립되지 않고 남아 있는 중간가호가 <신설 2025. 2. 27.>
 
 5. 그 밖에 호가의 효력을 인정하는 것이 불합리하다고 거래소가 인정하는 호가
 
-② 다음 각 호의 어느 하나에 해당하는 호가는 해당 호에서 정하는 재개 시점까지 그 효력을 정지한다.<개정 2009. 3. 19.,2025. 2. 27.>
+② 다음 각 호의 어느 하나에 해당하는 호가는 해당 호에서 정하는 재개 시점까지 그 효력을 정지한다. <개정 2009. 3. 19.,2025. 2. 27.>
 
-1. 단일가격에 의한 개별경쟁매매를 위한 호가접수시간 중 매매거래중단 등이 이루어지거나규정제50조에 따라 호가접수정지가 이루어진 때 해당 조치 전에 접수된 호가 : 매매거래 재개시<신설 2025. 2. 27.>
+1. 단일가격에 의한 개별경쟁매매를 위한 호가접수시간 중 매매거래중단 등이 이루어지거나 규정 제50조에 따라 호가접수정지가 이루어진 때 해당 조치 전에 접수된 호가 : 매매거래 재개시 <신설 2025. 2. 27.>
 
-2. 복수가격에 의한 개별경쟁매매의 방법으로 매매거래를 하는 시간 중 매도 또는 매수 어느 일방에 중간가호가 외의 호가의 수량이 없는 경우 중간가호가 : 매도 및 매수 양방 모두에 중간가호가 외의 호가의 수량이 있는 때<신설 2025. 2. 27.>
+2. 복수가격에 의한 개별경쟁매매의 방법으로 매매거래를 하는 시간 중 매도 또는 매수 어느 일방에 중간가호가 외의 호가의 수량이 없는 경우 중간가호가 : 매도 및 매수 양방 모두에 중간가호가 외의 호가의 수량이 있는 때 <신설 2025. 2. 27.>
 
-3. 단일가격에 의한 개별경쟁매매를 위한 호가접수시간 중 매매거래가 성립되지 않고 남아 있는 중간가호가 : 매매계약 체결방법이 복수가격에 의한 개별경쟁매매로 변경되고 매도 및 매수 양방 모두에 중간가호가 외의 호가의 수량이 있는 때<신설 2025. 2. 27.>
+3. 단일가격에 의한 개별경쟁매매를 위한 호가접수시간 중 매매거래가 성립되지 않고 남아 있는 중간가호가 : 매매계약 체결방법이 복수가격에 의한 개별경쟁매매로 변경되고 매도 및 매수 양방 모두에 중간가호가 외의 호가의 수량이 있는 때 <신설 2025. 2. 27.>
 
 ③ 제108조제12호가목에 따른 조건이 부여된 호가의 경우 해당 호가의 수량 중 다음 각 호에서 정한 수량은 취소한 것으로 본다.
 
@@ -1115,7 +1370,7 @@ attachments:
 
 2. 에프오케이(FOK) 조건이 부여된 경우 호가한 수량의 전부에 대하여 매매계약을 체결할 수 없는 때에 해당 수량의 전부
 
-**제13조의2(자전거래방지조건 호가의 효력)**①규정제12조제1항 단서에 따라 고속 알고리즘거래자의 호가 중 고속 알고리즘거래번호가 동일하고 다음의 조건이 부여된 양방향 호가 간에 매매체결이 가능한 경우 나중에 접수된 호가에 부여된 조건을 기준으로 다음 각 호에 따라 해당 호가의 수량을 취소한 것으로 본다.
+**제13조의2(자전거래방지조건 호가의 효력)**① 규정 제12조제1항 단서에 따라 고속 알고리즘거래자의 호가 중 고속 알고리즘거래번호가 동일하고 다음의 조건이 부여된 양방향 호가 간에 매매체결이 가능한 경우 나중에 접수된 호가에 부여된 조건을 기준으로 다음 각 호에 따라 해당 호가의 수량을 취소한 것으로 본다.
 
 1. 먼저 접수된 호가잔량의 전수량을 취소하는 조건
 
@@ -1123,19 +1378,19 @@ attachments:
 
 3. 양방향 호가 간 체결이 가능한 수량을 각각 취소하는 조건
 
-② 제1항은 정규시장 중규정제24조에 따른 복수가격에 의한 매매인 경우에만 적용한다. 다만, 해당 호가가 제34조제3항제1호에 따른 동시호가의 우선순위를 적용받는 경우에는 적용하지 아니한다.
+② 제1항은 정규시장 중 규정 제24조에 따른 복수가격에 의한 매매인 경우에만 적용한다. 다만, 해당 호가가 제34조제3항제1호에 따른 동시호가의 우선순위를 적용받는 경우에는 적용하지 아니한다.
 
-③ 제1항에 따른 자전거래방지조건과 제108조제12호가목(1)에 따른 아이오씨(IOC) 조건이 동시에 부여된 호가의 경우 자전거래방지조건을 아이오씨(IOC) 조건에 우선하여 적용한다.<개정 2025. 2. 27.>
+③ 제1항에 따른 자전거래방지조건과 제108조제12호가목(1)에 따른 아이오씨(IOC) 조건이 동시에 부여된 호가의 경우 자전거래방지조건을 아이오씨(IOC) 조건에 우선하여 적용한다. <개정 2025. 2. 27.>
 
 [본조신설 2022. 12. 22.]
 
-**제14조(호가입력의 제한)**①규정제12조제2항에 따라 회원은 다음 각 호의 어느 하나에 해당하는 호가를 입력하여서는 아니 된다.
+**제14조(호가입력의 제한)**① 규정 제12조제2항에 따라 회원은 다음 각 호의 어느 하나에 해당하는 호가를 입력하여서는 아니 된다.
 
 1. 시가기준가종목의 최초의 가격을 결정하고자 하는 경우 별표 1에서 정하는 최고호가가격을 초과하거나 최저호가가격에 미달하는 호가
 
 2. 삭제
 
-2의2.규정제18조에 따라 가격이 제한되는 차입공매도 호가의 경우 다음 각 목의 어느 하나에 해당하는 경우
+2의2. 규정 제18조에 따라 가격이 제한되는 차입공매도 호가의 경우 다음 각 목의 어느 하나에 해당하는 경우
 
 가. 시가기준가종목 및 제30조제1항제2호가목의 신규상장종목의 최초의 가격을 결정하고자 하는 경우
 
@@ -1149,13 +1404,13 @@ attachments:
 
 다. 삭제
 
-2의4. 스톱지정가호가의 경우 다음 각 목의 어느 하나에 해당하는 호가<신설 2025. 2. 27.>
+2의4. 스톱지정가호가의 경우 다음 각 목의 어느 하나에 해당하는 호가 <신설 2025. 2. 27.>
 
-가. 스톱가격이 상한가를 초과하거나 하한가에 미달하는 호가<신설 2025. 2. 27.>
+가. 스톱가격이 상한가를 초과하거나 하한가에 미달하는 호가 <신설 2025. 2. 27.>
 
-나. 스톱가격이 제32조제2항에 따른 호가가격단위와 일치하지 아니하는 호가<신설 2025. 2. 27.>
+나. 스톱가격이 제32조제2항에 따른 호가가격단위와 일치하지 아니하는 호가 <신설 2025. 2. 27.>
 
-3. 주권등의 경우 호가수량이 다음 각 목에서 정하는 수량을 초과하는 호가(장중경쟁대량매매, 장중대량매매, 장중바스켓매매, 시간외경쟁대량매매, 시간외대량매매, 시간외바스켓매매 또는 「증권시장 청산결제 업무규정」제22조에 따른 호가는 제외한다)<개정 2025. 2. 27.>
+3. 주권등의 경우 호가수량이 다음 각 목에서 정하는 수량을 초과하는 호가(장중경쟁대량매매, 장중대량매매, 장중바스켓매매, 시간외경쟁대량매매, 시간외대량매매, 시간외바스켓매매 또는 「증권시장 청산결제 업무규정」 제22조에 따른 호가는 제외한다) <개정 2025. 2. 27.>
 
 가. 별표 1의2에서 정하는 기준가격(이하 이 호에서 "해당거래일 기준가격"이라 한다.)에 상장증권수를 곱한 금액으로 매매거래일마다 거래소가 산출한 금액(이하 이 호에서 "해당거래일 시가총액"이라 한다.)이 10조원 이상 : 1,000억원을 해당거래일 기준가격으로 나눈 수량(정규시장의 매매수량단위 미만의 수량은 절상한다. 이하 이 호에서 같다)
 
@@ -1169,43 +1424,43 @@ attachments:
 
 가. 종목별호가의 경우 호가수량이 상장잔액을 초과하는 호가. 다만, 제104조제1항제6호아목의 개인으로부터 주문을 수탁하는 경우에는 200억원(외화표시채무증권은 200억 포인트로 한다)과 상장잔액 중 적은 수량을 초과하는 호가로 한다.
 
-나. 제61조에 따른 1인당 호가수량이 5,000만원을 초과하는 호가. 다만,규정제95조의 매도주문대행계약에 따른 매도호가 및 제99조의4제1항제2호에 따른 조성호가에 대하여는 이를 적용하지 아니한다.
+나. 제61조에 따른 1인당 호가수량이 5,000만원을 초과하는 호가. 다만, 규정 제95조의 매도주문대행계약에 따른 매도호가 및 제99조의4제1항제2호에 따른 조성호가에 대하여는 이를 적용하지 아니한다.
 
-다. 제74조에 따른 소액채권전담회원의 종류별매수호가(제61조제1호의 소액채권은 종목별매수호가)의 경우 호가수량이 150억원(제62조의3제1항에 따른 우수소액채권전담회원의 경우에는 225억원 이내에서 거래소가 별도로 정하는 호가수량)을 초과하는 호가<개정 2025. 11. 27.>
+다. 제74조에 따른 소액채권전담회원의 종류별매수호가(제61조제1호의 소액채권은 종목별매수호가)의 경우 호가수량이 150억원(제62조의3제1항에 따른 우수소액채권전담회원의 경우에는 225억원 이내에서 거래소가 별도로 정하는 호가수량)을 초과하는 호가 <개정 2025. 11. 27.>
 
-라. 호가가격이 전일종가(전일종가가 없는 경우에는규정제65조제2항의 시가평가가격으로 하되, 시가평가가격이 없는 경우에는 신규상장종목은 상장일 당일에 한정하여 액면 1만원으로 하고, 외화표시채무증권은 1만포인트로 한다)를 기준으로 다음의 비율을 초과하는 매수호가 또는 다음의 비율에 미달하는 매도호가. 다만, 「유가증권시장 상장규정」제9조에 따라 매매거래를 허용하는 기간 중에는 이를 적용하지 아니하며, 거래소가 시장관리상 필요하다고 인정하는 경우에는 그 비율을 달리 정할 수 있다.<개정 2025. 12. 24.>
+라. 호가가격이 전일종가(전일종가가 없는 경우에는 규정 제65조제2항의 시가평가가격으로 하되, 시가평가가격이 없는 경우에는 신규상장종목은 상장일 당일에 한정하여 액면 1만원으로 하고, 외화표시채무증권은 1만포인트로 한다)를 기준으로 다음의 비율을 초과하는 매수호가 또는 다음의 비율에 미달하는 매도호가. 다만, 「유가증권시장 상장규정」 제9조에 따라 매매거래를 허용하는 기간 중에는 이를 적용하지 아니하며, 거래소가 시장관리상 필요하다고 인정하는 경우에는 그 비율을 달리 정할 수 있다. <개정 2025. 12. 24.>
 
 (1) 주식관련사채권을 제외한 채무증권 : 30%
 
 (2) 주식관련사채권 : 50%
 
-마. 주식관련사채권(제7조제2항의 수익증권을 포함한다)으로서 신규상장된 종목의 최초의 가격을 결정하고자 하는 경우규정제44조의3에 따라 가격이 제한되는 차입공매도 호가
+마. 주식관련사채권(제7조제2항의 수익증권을 포함한다)으로서 신규상장된 종목의 최초의 가격을 결정하고자 하는 경우 규정 제44조의3에 따라 가격이 제한되는 차입공매도 호가
 
 바. 라목 본문에도 불구하고 전일종가 및 시가평가가격이 없는 종목은 15,000원을 초과하는 호가
 
 5. 다음 각 목의 종목에 해당하는 경우 제13조의2에 따른 자전거래방지조건이 부여된 호가
 
-가. 「유가증권시장 상장규정」제9조에 따라 일정기간 매매거래를 허용하는 종목(이하 "정리매매종목"이라 한다)<개정 2025. 2. 27.>
+가. 「유가증권시장 상장규정」 제9조에 따라 일정기간 매매거래를 허용하는 종목(이하 "정리매매종목"이라 한다) <개정 2025. 2. 27.>
 
-나.규정제38조의2제2호에 따라 매매계약체결방법이 변경된 종목(이하 "이상급등 단일가매매종목"이라 한다)<개정 2025. 2. 27.>
+나. 규정 제38조의2제2호에 따라 매매계약체결방법이 변경된 종목(이하 "이상급등 단일가매매종목"이라 한다) <개정 2025. 2. 27.>
 
-다.규정제106조의2제1항에 따른 단기과열종목(이하 "단기과열종목"이라 한다)<개정 2025. 2. 27.>
+다. 규정 제106조의2제1항에 따른 단기과열종목(이하 "단기과열종목"이라 한다) <개정 2025. 2. 27.>
 
-라.규정제106조의4제1항에 따른 투자유의종목(이하 "투자유의종목"이라 한다)<개정 2025. 2. 27.>
+라. 규정 제106조의4제1항에 따른 투자유의종목(이하 "투자유의종목"이라 한다) <개정 2025. 2. 27.>
 
-마. 제56조의3제1항에 따른 단일가매매대상 저유동성종목 및 제56조의4제1항에 따른 단일가매매대상 종류주식종목<개정 2025. 2. 27.>
+마. 제56조의3제1항에 따른 단일가매매대상 저유동성종목 및 제56조의4제1항에 따른 단일가매매대상 종류주식종목 <개정 2025. 2. 27.>
 
 ② 회원은 호가의 종류 및 조건별로 다음 각 호의 어느 하나에 해당하는 호가를 입력하여서는 아니 된다.
 
 1. 다음 각 목의 어느 하나에 해당하는 시장가호가 또는 조건부지정가호가
 
-가.규정제18조에 따라 가격이 제한되는 차입공매도 호가
+가. 규정 제18조에 따라 가격이 제한되는 차입공매도 호가
 
 나. 유동성공급호가
 
 다. 시장조성호가
 
-라.자기주식 취득을 위한 호가<개정 2026. 7. 2.>
+라. 자기주식 취득을 위한 호가 <개정 2026. 7. 2.>
 
 마. 시간외종가매매 또는 시간외단일가매매를 위한 호가
 
@@ -1213,9 +1468,9 @@ attachments:
 
 사. 시가기준가종목 및 제30조제1항제2호가목의 신규상장종목의 최초의 가격을 결정하고자 하는 경우
 
-아. 정리매매종목의 경우<개정 2025. 2. 27.>
+아. 정리매매종목의 경우 <개정 2025. 2. 27.>
 
-자. 단기과열종목 및 투자유의종목의 경우(조건부지정가호가에 한한다)<개정 2025. 2. 27.>
+자. 단기과열종목 및 투자유의종목의 경우(조건부지정가호가에 한한다) <개정 2025. 2. 27.>
 
 차. 경쟁대량매매를 위한 호가
 
@@ -1223,9 +1478,9 @@ attachments:
 
 타. 제13조의2에 따른 자전거래방지조건을 부여한 호가
 
-파. 이상급등 단일가매매종목, 제56조의3제1항에 따른 단일가매매대상 저유동성종목 및 제56조의4제1항에 따른 단일가매매대상 종류주식종목의 경우(조건부지정가호가에 한한다)<개정 2025. 2. 27.>
+파. 이상급등 단일가매매종목, 제56조의3제1항에 따른 단일가매매대상 저유동성종목 및 제56조의4제1항에 따른 단일가매매대상 종류주식종목의 경우(조건부지정가호가에 한한다) <개정 2025. 2. 27.>
 
-하. 제108조제12호가목에 따른 조건이 부여된 호가(조건부지정가호가에 한한다)<신설 2025. 2. 27.>
+하. 제108조제12호가목에 따른 조건이 부여된 호가(조건부지정가호가에 한한다) <신설 2025. 2. 27.>
 
 거. 그 밖에 거래소가 시장관리상 필요하다고 인정하는 경우
 
@@ -1235,19 +1490,19 @@ attachments:
 
 (1) 제1호 다목의 경우: 최우선지정가호가
 
-(2) 제1호 차목의 경우: 제108조제12호가목에 따른 조건이 부여된 호가<개정 2025. 2. 27.>
+(2) 제1호 차목의 경우: 제108조제12호가목에 따른 조건이 부여된 호가 <개정 2025. 2. 27.>
 
-(3) 제1호 타목의 경우: 최유리지정가호가, 최우선지정가호가 및 제108조제12호가목(1)에 따른 아이오씨(IOC) 조건이 부여된 호가<개정 2025. 2. 27.>
+(3) 제1호 타목의 경우: 최유리지정가호가, 최우선지정가호가 및 제108조제12호가목(1)에 따른 아이오씨(IOC) 조건이 부여된 호가 <개정 2025. 2. 27.>
 
 나. 제35조제1항에 따른 단일가매매 참여호가의 접수시간의 경우
 
-다. 제108조제12호가목에 따른 조건이 부여된 최우선지정가호가<신설 2025. 2. 27.>
+다. 제108조제12호가목에 따른 조건이 부여된 최우선지정가호가 <신설 2025. 2. 27.>
 
 라. 그 밖에 거래소가 시장관리상 필요하다고 인정하는 경우
 
 3. 다음 각 목의 어느 하나에 해당하는 경쟁대량매매호가
 
-가.규정제23조및제24조에 따른 개별경쟁매매를 위한 호가
+가. 규정 제23조 및 제24조에 따른 개별경쟁매매를 위한 호가
 
 나. 제1호마목, 바목 및 아목에 해당하는 경우
 
@@ -1255,25 +1510,25 @@ attachments:
 
 4. 경쟁대량매매를 위한 호가에 해당하는 지정가호가
 
-4의2. 다음 각 목의 어느 하나에 해당하는 중간가호가<신설 2025. 2. 27.>
+4의2. 다음 각 목의 어느 하나에 해당하는 중간가호가 <신설 2025. 2. 27.>
 
-가. 제1호가목부터 파목까지에 해당하는 경우<신설 2025. 2. 27.>
+가. 제1호가목부터 파목까지에 해당하는 경우 <신설 2025. 2. 27.>
 
-나. 제2호나목에 해당하는 경우<신설 2025. 2. 27.>
+나. 제2호나목에 해당하는 경우 <신설 2025. 2. 27.>
 
-다. 「시장감시규정」제5조의3제1항에 따른 투자경고종목 또는 같은 조 제2항에 따른 투자위험종목이 제135조제1항제1호의 조치를 받은 경우<신설 2025. 2. 27.>
+다. 「시장감시규정」 제5조의3제1항에 따른 투자경고종목 또는 같은 조 제2항에 따른 투자위험종목이 제135조제1항제1호의 조치를 받은 경우 <신설 2025. 2. 27.>
 
-라. 복수가격에 의한 개별경쟁매매 시간 중에 매도 및 매수 어느 일방 또는 양방에 중간가호가 외의 호가의 호가수량이 없는 경우<신설 2025. 2. 27.>
+라. 복수가격에 의한 개별경쟁매매 시간 중에 매도 및 매수 어느 일방 또는 양방에 중간가호가 외의 호가의 호가수량이 없는 경우 <신설 2025. 2. 27.>
 
-마. 그 밖에 거래소가 시장관리상 필요하다고 인정하는 경우<신설 2025. 2. 27.>
+마. 그 밖에 거래소가 시장관리상 필요하다고 인정하는 경우 <신설 2025. 2. 27.>
 
-4의3. 다음 각 목의 어느 하나에 해당하는 스톱지정가호가<신설 2025. 2. 27.>
+4의3. 다음 각 목의 어느 하나에 해당하는 스톱지정가호가 <신설 2025. 2. 27.>
 
-가. 제1호가목부터 차목까지 및 타목부터 하목까지에 해당하는 경우<신설 2025. 2. 27.>
+가. 제1호가목부터 차목까지 및 타목부터 하목까지에 해당하는 경우 <신설 2025. 2. 27.>
 
-나. 「시장감시규정」제5조의3제1항에 따른 투자경고종목 또는 같은 조 제2항에 따른 투자위험종목이 제135조제1항제1호의 조치를 받은 경우<신설 2025. 2. 27.>
+나. 「시장감시규정」 제5조의3제1항에 따른 투자경고종목 또는 같은 조 제2항에 따른 투자위험종목이 제135조제1항제1호의 조치를 받은 경우 <신설 2025. 2. 27.>
 
-다. 그 밖에 거래소가 시장관리상 필요하다고 인정하는 경우<신설 2025. 2. 27.>
+다. 그 밖에 거래소가 시장관리상 필요하다고 인정하는 경우 <신설 2025. 2. 27.>
 
 5. 채권시장 조성호가의 경우에는 제108조제12호가목에 따른 조건이 부여된 호가
 
@@ -1281,15 +1536,15 @@ attachments:
 
 ④ 제1항제1호, 제2호의2가목, 제2항제1호사목 및 제2호가목(같은 항 제1호사목에 해당하는 경우를 말한다)의 경우 최초의 가격이 결정되어 통지받기 전까지 해당 호가를 입력하여서는 아니 된다.
 
-**제15조(조건부지정가호가의 전환)**①규정제12조제2항의 규정에 의하여 조건부지정가호가는 다음 각호의 우선순위에 따라 시장가호가로 전환된 것으로 본다.
+**제15조(조건부지정가호가의 전환)**① 규정 제12조제2항의 규정에 의하여 조건부지정가호가는 다음 각호의 우선순위에 따라 시장가호가로 전환된 것으로 본다.
 
 1. 낮은 가격의 매도호가는 높은 가격의 매도호가에, 높은 가격의 매수호가는 낮은 가격의 매수호가에 각각 우선한다.
 
 2. 동일한 가격호가의 경우 호가가 행하여진 시간의 선후에 따라 먼저 접수된 호가가 뒤에 접수된 호가에 우선한다.
 
-② 제1항에 따라 조건부지정가호가가 시장가호가로 전환되는 경우 전환된 시장가호가는 제35조제1항제3호 본문 전단에 따른 호가접수시간의 개시시점에 접수된 것으로 본다. 다만, 제35조제1항제3호 본문 후단의 경우에는 당해 재개시점에 접수된 것으로 보며, 제35조제1항제4호 단서의 경우에는 장종료 10분전에 접수된 것으로 본다.<개정 2015. 5. 19., 2022. 12. 22.>
+② 제1항에 따라 조건부지정가호가가 시장가호가로 전환되는 경우 전환된 시장가호가는 제35조제1항제3호 본문 전단에 따른 호가접수시간의 개시시점에 접수된 것으로 본다. 다만, 제35조제1항제3호 본문 후단의 경우에는 당해 재개시점에 접수된 것으로 보며, 제35조제1항제4호 단서의 경우에는 장종료 10분전에 접수된 것으로 본다. <개정 2015. 5. 19., 2022. 12. 22.>
 
-**제15조의2(스톱지정가호가의 지정가호가로의 효력 발생 우선순위)**①규정제12조제2항에 따라 스톱지정가호가의 지정가호가로의 효력 발생 우선순위는 다음과 같다.
+**제15조의2(스톱지정가호가의 지정가호가로의 효력 발생 우선순위)**① 규정 제12조제2항에 따라 스톱지정가호가의 지정가호가로의 효력 발생 우선순위는 다음과 같다.
 
 1. 매도 스톱지정가호가는 스톱가격이 높은 스톱지정가호가가 스톱가격이 낮은 스톱지정가호가에 우선한다.
 
@@ -1297,11 +1552,11 @@ attachments:
 
 3. 스톱가격이 동일한 경우에는 스톱지정가호가가 접수된 시간을 기준으로 먼저 접수된 스톱지정가호가가 뒤에 접수된 스톱지정가호가에 우선한다.
 
-② 제1항에 따라 지정가호가로 효력이 발생된 스톱지정가호가는규정제22조제2항제2호를 적용함에 있어서 스톱지정가호가의 지정가호가로의 효력 발생 시간을 스톱지정가호가의 접수시간으로 본다.
+② 제1항에 따라 지정가호가로 효력이 발생된 스톱지정가호가는 규정 제22조제2항제2호를 적용함에 있어서 스톱지정가호가의 지정가호가로의 효력 발생 시간을 스톱지정가호가의 접수시간으로 본다.
 
 [신설 2025. 2. 27.]
 
-**제16조(채무증권의 호가가격과 수익률간 환산방법<개정 2009. 2. 3.>)**규정제12조제2항에 따라 거래소는 채무증권의 호가가격과 수익률을 다음 각 호의 방법으로 환산하여 공시할 수 있다. 이 경우 소수점 넷째자리 이하는 절사한다.<개정 2009. 2. 3., 2014. 2. 28.>
+**제16조(채무증권의 호가가격과 수익률간 환산방법<개정 2009. 2. 3.>)**규정 제12조제2항에 따라 거래소는 채무증권의 호가가격과 수익률을 다음 각 호의 방법으로 환산하여 공시할 수 있다. 이 경우 소수점 넷째자리 이하는 절사한다. <개정 2009. 2. 3., 2014. 2. 28.>
 
 1. 할인채 및 복리채
 
@@ -1315,19 +1570,19 @@ attachments:
 
 나. 이자지급단위기간 : 복리할인방법
 
-**제17조(호가의 취소 및 정정)**①규정제13조제2항에 따라 회원은 호가한 수량의 전부 또는 일부를 취소할 수 있다. 다만, 경쟁대량매매호가의 일부 취소는 취소 후 잔량이 제48조의2제3항 및 제51조의3제3항에 따른 수량요건을 충족하는 경우에 한한다.
+**제17조(호가의 취소 및 정정)**① 규정 제13조제2항에 따라 회원은 호가한 수량의 전부 또는 일부를 취소할 수 있다. 다만, 경쟁대량매매호가의 일부 취소는 취소 후 잔량이 제48조의2제3항 및 제51조의3제3항에 따른 수량요건을 충족하는 경우에 한한다.
 
-②규정제13조제2항에 따라 회원은 다음 각 호의 어느 하나의 방법으로 호가를 정정할 수 있다.
+② 규정 제13조제2항에 따라 회원은 다음 각 호의 어느 하나의 방법으로 호가를 정정할 수 있다.
 
 1. 지정가호가, 조건부지정가호가, 최유리지정가호가 및 최우선지정가호가를 각각 동일한 종류의 호가로 정정하는 경우에는 호가한 수량의 전부 또는 일부를 다른 가격으로 정정한다. 이 경우 최유리지정가호가 및 최우선지정가호가의 경우 정정전 호가의 가격과 정정후 호가의 가격이 다른 경우를 말한다.
 
-1의2. 스톱지정가호가를 동일한 종류의 호가로 정정하는 경우에는 호가한 수량의 전부 또는 일부를 다음 각 목의 어느 하나의 방법으로 정정한다.<신설 2025. 2. 27.>
+1의2. 스톱지정가호가를 동일한 종류의 호가로 정정하는 경우에는 호가한 수량의 전부 또는 일부를 다음 각 목의 어느 하나의 방법으로 정정한다. <신설 2025. 2. 27.>
 
-가. 지정가호가로의 효력이 발생되기 전에 정정하는 경우에는 정정 전 호가의 가격이 정정 후 호가의 가격과 다르거나 정정 전 스톱가격이 정정 후 스톱가격과 달라야 한다.<신설 2025. 2. 27.>
+가. 지정가호가로의 효력이 발생되기 전에 정정하는 경우에는 정정 전 호가의 가격이 정정 후 호가의 가격과 다르거나 정정 전 스톱가격이 정정 후 스톱가격과 달라야 한다. <신설 2025. 2. 27.>
 
-나. 지정가호가로의 효력이 발생된 후에 정정하는 경우에는 호가의 가격이 달라야 한다.<신설 2025. 2. 27.>
+나. 지정가호가로의 효력이 발생된 후에 정정하는 경우에는 호가의 가격이 달라야 한다. <신설 2025. 2. 27.>
 
-2. 지정가호가, 시장가호가, 조건부지정가호가, 최유리지정가호가 및 최우선지정가호가를 각각 다른 종류의 호가(중간가호가 및 스톱지정가호가를 제외한다. 이하 이 호에서 같다)로 정정하는 경우에는 호가한 수량의 전부 또는 일부를 다른 종류의 호가로 정정한다. 다만, 다음 각 목의 어느 하나에 해당하는 경우로서 정정 전 호가의 가격과 정정 후 호가의 가격이 같은 경우에는 제외한다.<개정 2025. 2. 27.>
+2. 지정가호가, 시장가호가, 조건부지정가호가, 최유리지정가호가 및 최우선지정가호가를 각각 다른 종류의 호가(중간가호가 및 스톱지정가호가를 제외한다. 이하 이 호에서 같다)로 정정하는 경우에는 호가한 수량의 전부 또는 일부를 다른 종류의 호가로 정정한다. 다만, 다음 각 목의 어느 하나에 해당하는 경우로서 정정 전 호가의 가격과 정정 후 호가의 가격이 같은 경우에는 제외한다. <개정 2025. 2. 27.>
 
 가. 지정가호가를 최유리지정가호가 또는 최우선지정가호가로 정정하는 경우
 
@@ -1341,7 +1596,7 @@ attachments:
 
 1. 위험관리를 위한 목적인 경우
 
-2.규정제104조의3제3항에 따라 신고한 고속 알고리즘거래계좌를 통하여 호가를 제출하는 경우
+2. 규정 제104조의3제3항에 따라 신고한 고속 알고리즘거래계좌를 통하여 호가를 제출하는 경우
 
 ② 제1항에도 불구하고, 거래소는 시스템 장애, 그 밖에 시장관리상 필요하다고 인정하는 경우에는 일괄호가취소를 처리하지 아니할 수 있다.
 
@@ -1349,59 +1604,59 @@ attachments:
 
 [전문개정 2022. 12. 22.]
 
-**제17조의3(접속해제 호가취소의 신청방법 등)**①규정제13조의2제1항에서 "세칙으로 정하는 경우"란 정규거래시간 중 회원시스템과 거래소시스템의 연결이 해제되어 전자적 송·수신이 발생하지 않은 경우로서 접속해제 호가취소를 신청하는 회원과 거래소간 사전에 정한 경우를 말한다.
+**제17조의3(접속해제 호가취소의 신청방법 등)**① 규정 제13조의2제1항에서 "세칙으로 정하는 경우"란 정규거래시간 중 회원시스템과 거래소시스템의 연결이 해제되어 전자적 송·수신이 발생하지 않은 경우로서 접속해제 호가취소를 신청하는 회원과 거래소간 사전에 정한 경우를 말한다.
 
-②규정제13조의2제1항에 따라 접속해제 호가취소의 범위는 제4항에 따라 사전에 신청된 세션을 통해서 제출된 호가 중 체결되지 아니한 수량(다른 세션을 통해서 정정 또는 취소된 수량은 제외한다)으로 한다.
+② 규정 제13조의2제1항에 따라 접속해제 호가취소의 범위는 제4항에 따라 사전에 신청된 세션을 통해서 제출된 호가 중 체결되지 아니한 수량(다른 세션을 통해서 정정 또는 취소된 수량은 제외한다)으로 한다.
 
-③규정제13조의2제2항에 따라 접속해제 호가취소의 대상에서 채무증권의 매매거래는 제외한다.
+③ 규정 제13조의2제2항에 따라 접속해제 호가취소의 대상에서 채무증권의 매매거래는 제외한다.
 
-④규정제13조의2제2항에 따라 회원의 접속해제 호가취소 신청 및 해제 신청방법은 「회원시스템 접속 등에 관한 지침」제8조제5항에서 정하는 바에 따른다.
+④ 규정 제13조의2제2항에 따라 회원의 접속해제 호가취소 신청 및 해제 신청방법은 「회원시스템 접속 등에 관한 지침」 제8조제5항에서 정하는 바에 따른다.
 
 ⑤ 거래소는 시스템 장애, 그 밖에 시장관리상 필요하다고 인정하는 경우에는 접속해제 호가취소를 적용하지 않을 수 있다.
 
 [전문개정 2022. 12. 22.]
 
-**제18조(호가의 기록)**①규정제14조제2항의 규정에 의하여 호가의 기록은 별지 제2호 서식에 의한 호가집계표에 의한다.
+**제18조(호가의 기록)**① 규정 제14조제2항의 규정에 의하여 호가의 기록은 별지 제2호 서식에 의한 호가집계표에 의한다.
 
 ② 제1항의 규정에 의한 호가집계표에는 매도·매수를 구분한 가격별 합계수량을 기재한다.
 
-제3장 주권등의 매매거래
+ 제3장 주권등의 매매거래
 
-제1절 통칙
+ 제1절 통칙
 
-**제19조(적용범위)**이 장은 주권, 외국주식예탁증권, 상장지수집합투자기구 집합투자증권, 상장지수증권, 신주인수권증서, 신주인수권증권, 주식워런트증권 및 수익증권의 매매거래에 적용한다.<개정 2005. 8. 26., 2009. 2. 3., 2009. 7. 16., 2014. 9. 2.>
+**제19조(적용범위)**이 장은 주권, 외국주식예탁증권, 상장지수집합투자기구 집합투자증권, 상장지수증권, 신주인수권증서, 신주인수권증권, 주식워런트증권 및 수익증권의 매매거래에 적용한다. <개정 2005. 8. 26., 2009. 2. 3., 2009. 7. 16., 2014. 9. 2.>
 
-제2절 호가의 관리 및 가격제한
+ 제2절 호가의 관리 및 가격제한
 
-**제20조(프로그램매매호가의 효력정지예고 등)**①규정제16조제1항에 따른 거래량이 가장 많은 종목(이하 이 조에서 "기준종목"이라 한다)의 가격이 기준가격 대비 100분의 5이상 상승(또는 하락)하는 경우 프로그램매매 매수호가(또는 매도호가)의 효력이 정지될 수 있다는 사실을 예고할 수 있다.<개정 2009. 2. 3.>
+**제20조(프로그램매매호가의 효력정지예고 등)**① 규정 제16조제1항에 따른 거래량이 가장 많은 종목(이하 이 조에서 "기준종목"이라 한다)의 가격이 기준가격 대비 100분의 5이상 상승(또는 하락)하는 경우 프로그램매매 매수호가(또는 매도호가)의 효력이 정지될 수 있다는 사실을 예고할 수 있다. <개정 2009. 2. 3.>
 
-② 제1항에 따른 프로그램매매호가의 효력정지예고후 기준종목의 가격이 기준가격 대비 100분의 5내로 회복되거나 「파생상품시장 업무규정」제76조에 따라 기준종목의 매매거래가 중단되는 경우에는 효력정지예고를 해제할 수 있다.<개정 2009. 2. 3.>
+② 제1항에 따른 프로그램매매호가의 효력정지예고후 기준종목의 가격이 기준가격 대비 100분의 5내로 회복되거나 「파생상품시장 업무규정」 제76조에 따라 기준종목의 매매거래가 중단되는 경우에는 효력정지예고를 해제할 수 있다. <개정 2009. 2. 3.>
 
-③ 제1항 및 제2항에 불구하고 거래소시스템에 일시적인 장애가 발생한 경우에는 프로그램매매호가의 효력정지예고 및 효력정지예고해제를 하지 아니할 수 있다.<개정 2009. 2. 3.>
+③ 제1항 및 제2항에 불구하고 거래소시스템에 일시적인 장애가 발생한 경우에는 프로그램매매호가의 효력정지예고 및 효력정지예고해제를 하지 아니할 수 있다. <개정 2009. 2. 3.>
 
-**제21조**삭제<2018. 12. 6.>
+**제21조**삭제 <2018. 12. 6.>
 
-**제22조**삭제<2018. 12. 6.>
+**제22조**삭제 <2018. 12. 6.>
 
-**제23조**삭제<2009. 2. 3.>
+**제23조**삭제 <2009. 2. 3.>
 
-**제24조**삭제<2009. 2. 3.>
+**제24조**삭제 <2009. 2. 3.>
 
-**제24조의2(차입공매도 확인방법)**①규정제17조제3항제3호에서 "세칙에서 정하는 방법"이란 회원이 위탁자로부터 통보받은 내용을 확인할 수 있는 문서, 음성 또는 전자기록 등을 위탁자가 통보한 일시와 함께 3년 이상으로서 회원이 정한 기간 동안 보관하는 것을 말한다.
+**제24조의2(차입공매도 확인방법)**① 규정 제17조제3항제3호에서 "세칙에서 정하는 방법"이란 회원이 위탁자로부터 통보받은 내용을 확인할 수 있는 문서, 음성 또는 전자기록 등을 위탁자가 통보한 일시와 함께 3년 이상으로서 회원이 정한 기간 동안 보관하는 것을 말한다.
 
-② 삭제<2017. 2. 28.>
+② 삭제 <2017. 2. 28.>
 
 [본조신설 2009. 3. 6.]
 
-**제24조의3(차입공매도 호가의 제한)**①규정제17조제6항 각 호 외의 부분 단서에서 "세칙으로 정하는 매매거래를 위한 차입공매도 호가"란 다음 각 호의 어느 하나를 말한다.
+**제24조의3(차입공매도 호가의 제한)**① 규정 제17조제6항 각 호 외의 부분 단서에서 "세칙으로 정하는 매매거래를 위한 차입공매도 호가"란 다음 각 호의 어느 하나를 말한다.
 
-1.규정제18조제2항제6호부터 제8호까지 중 어느 하나에 해당하는 호가
+1. 규정 제18조제2항제6호부터 제8호까지 중 어느 하나에 해당하는 호가
 
-2.규정제20조의2제1항에 따른 유동성공급호가 및규정제20조의9제1항에 따른 시장조성호가
+2. 규정 제20조의2제1항에 따른 유동성공급호가 및 규정 제20조의9제1항에 따른 시장조성호가
 
 3. 그 밖에 거래소가 필요하다고 인정하는 매매거래를 위한 호가
 
-②규정제17조제6항제1호에서 "세칙으로 정하는 기준에 해당하는 종목"이란 다음 각 호의 어느 하나에 해당하는 종목(주권 및 외국주식예탁증권에 한한다. 이하 "공매도 과열종목"이라 한다)을 말한다.<개정 2017. 9. 7., 2022. 8. 26., 2023. 4. 12.,2025. 2. 27.>
+② 규정 제17조제6항제1호에서 "세칙으로 정하는 기준에 해당하는 종목"이란 다음 각 호의 어느 하나에 해당하는 종목(주권 및 외국주식예탁증권에 한한다. 이하 "공매도 과열종목"이라 한다)을 말한다. <개정 2017. 9. 7., 2022. 8. 26., 2023. 4. 12.,2025. 2. 27.>
 
 1. 주가 하락률, 차입공매도 거래대금의 시장대비 비중 및 증가배율이 다음 각 목을 모두 충족하는 종목
 
@@ -1421,43 +1676,43 @@ attachments:
 
 가. 당일 종가가 당일의 기준가격 대비 100분의 97 이하일 것
 
-나. 당일 거래대금 대비 차입공매도 거래대금의 비중이 100분의 30 이상일 것<개정 2025. 2. 27.>
+나. 당일 거래대금 대비 차입공매도 거래대금의 비중이 100분의 30 이상일 것 <개정 2025. 2. 27.>
 
 다. 당일 차입공매도 거래대금이 직전 40매매거래일간 차입공매도 거래대금의 평균 대비 2배 이상일 것
 
-③ 제2항 각 호의 "차입공매도 거래대금", "당일 거래대금" 및 "전체 상장종목(주권 및 외국주식예탁증권에 한한다)의 거래대금"은 다자간매매체결회사의 각 거래대금(차입공매도가 가능한 매매거래시간의 각 거래대금에 한한다. 이하 이 항에서 같다)을 각각 포함하여 산출한다. 다만, 거래소는 전산 장애 등으로 다자간매매체결회사의 각 거래대금 정보를 받지 못하는 경우 등에는 이를 제외하고 산출할 수 있다.<신설 2025. 2. 27.>
+③ 제2항 각 호의 "차입공매도 거래대금", "당일 거래대금" 및 "전체 상장종목(주권 및 외국주식예탁증권에 한한다)의 거래대금"은 다자간매매체결회사의 각 거래대금(차입공매도가 가능한 매매거래시간의 각 거래대금에 한한다. 이하 이 항에서 같다)을 각각 포함하여 산출한다. 다만, 거래소는 전산 장애 등으로 다자간매매체결회사의 각 거래대금 정보를 받지 못하는 경우 등에는 이를 제외하고 산출할 수 있다. <신설 2025. 2. 27.>
 
-④ 제2항 및 제3항에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 공매도 과열종목에서 제외한다.<신설 2025. 2. 27.>
+④ 제2항 및 제3항에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 공매도 과열종목에서 제외한다. <신설 2025. 2. 27.>
 
-1. 시가기준가종목<신설 2025. 2. 27.>
+1. 시가기준가종목 <신설 2025. 2. 27.>
 
-2. 제30조제1항제2호가목의 신규상장종목<신설 2025. 2. 27.>
+2. 제30조제1항제2호가목의 신규상장종목 <신설 2025. 2. 27.>
 
-3. 당일 정규시장 및 다자간매매체결회사의 거래시간 중 거래소의 정규시장에 해당하는 거래시간에 매매거래가 성립되지 않은 종목. 이 경우 전산 장애 등으로 다자간매매체결회사의 거래 정보를 받지 못하는 경우 등에는 다자간매매체결회사에서의 매매거래 성립 여부는 고려하지 아니할 수 있다.<신설 2025. 2. 27.>
+3. 당일 정규시장 및 다자간매매체결회사의 거래시간 중 거래소의 정규시장에 해당하는 거래시간에 매매거래가 성립되지 않은 종목. 이 경우 전산 장애 등으로 다자간매매체결회사의 거래 정보를 받지 못하는 경우 등에는 다자간매매체결회사에서의 매매거래 성립 여부는 고려하지 아니할 수 있다. <신설 2025. 2. 27.>
 
-4. 정리매매종목<신설 2025. 2. 27.>
+4. 정리매매종목 <신설 2025. 2. 27.>
 
-5. 직전 40매매거래일동안 거래소 및 다자간매매체결회사의 거래시간 중 차입공매도가 가능한 각 거래시간에 매매거래가 성립된 날이 20일 미만인 종목. 이 경우 전산 장애 등으로 다자간매매체결회사의 거래 정보를 받지 못하는 경우 등에는 다자간매매체결회사에서 매매거래가 성립된 날은 고려하지 아니할 수 있다.<신설 2025. 2. 27.>
+5. 직전 40매매거래일동안 거래소 및 다자간매매체결회사의 거래시간 중 차입공매도가 가능한 각 거래시간에 매매거래가 성립된 날이 20일 미만인 종목. 이 경우 전산 장애 등으로 다자간매매체결회사의 거래 정보를 받지 못하는 경우 등에는 다자간매매체결회사에서 매매거래가 성립된 날은 고려하지 아니할 수 있다. <신설 2025. 2. 27.>
 
 ⑤ 거래소는 제2항에 따른 공매도 과열종목을 공표하고 다음 매매거래일 1일간 차입공매도 호가를 제한할 수 있다. 다만, 차입공매도 호가제한이 종료하는 날의 해당 종목의 종가가 당일의 기준가격 대비 100분의 95 이하인 경우에는 호가제한을 다음 매매거래일까지 연장하고, 이를 연장기간 종료 시마다 반복하여 적용한다.
 
-⑥ 제2항부터 제5항까지의 규정에도 불구하고 시장상황급변 등의 사유로 거래소가 시장관리를 위하여 필요하다고 인정하는 경우에는 제2항의 공매도 과열종목 기준 및 제5항의 호가제한 기간을 달리 정할 수 있다.<신설 2020. 3. 9., 2022. 8. 26.,개정 2025. 2. 27.>
+⑥ 제2항부터 제5항까지의 규정에도 불구하고 시장상황급변 등의 사유로 거래소가 시장관리를 위하여 필요하다고 인정하는 경우에는 제2항의 공매도 과열종목 기준 및 제5항의 호가제한 기간을 달리 정할 수 있다. <신설 2020. 3. 9., 2022. 8. 26.,개정 2025. 2. 27.>
 
 [전문개정 2017. 2. 28.]
 
-**제25조(차입공매도 호가의 가격제한<개정 2009. 2. 3.>)**①규정제18조제3항에 따라 다음 각호의 어느 하나에 해당하는 경우에는규정제18조제1항 단서를 적용하지 아니한다.<개정 2007. 8. 28., 2009. 2. 3.>
+**제25조(차입공매도 호가의 가격제한<개정 2009. 2. 3.>)**① 규정 제18조제3항에 따라 다음 각호의 어느 하나에 해당하는 경우에는 규정 제18조제1항 단서를 적용하지 아니한다. <개정 2007. 8. 28., 2009. 2. 3.>
 
 1. 시가가 결정되지 아니한 경우
 
 2. 시가가 그 직전의 가격(최근 매매거래일의 종가로 하되, 기준가격이 있는 경우에는 기준가격으로 한다)과 같은 가격인 경우 당해 가격과 다른 가격이 결정되지 아니한 경우
 
-② 삭제<2007. 8. 28.>
+② 삭제 <2007. 8. 28.>
 
-③규정제18조제1항은 장중경쟁대량매매, 장중대량매매, 장중바스켓매매, 시간외시장의 매매거래(시간외단일가매매를 제외한다)에는 이를 적용하지 아니한다.<개정 2005. 5. 13., 2009. 2. 3., 2010. 7. 29., 2018. 12. 28.>
+③ 규정 제18조제1항은 장중경쟁대량매매, 장중대량매매, 장중바스켓매매, 시간외시장의 매매거래(시간외단일가매매를 제외한다)에는 이를 적용하지 아니한다. <개정 2005. 5. 13., 2009. 2. 3., 2010. 7. 29., 2018. 12. 28.>
 
-**제25조의2(지수차익거래 등<개정 2021. 3. 12.>)**①규정제18조제2항제1호에서 "세칙으로 정하는 거래"라 함은 다음 각 호의 어느 하나에 해당하는 거래를 말한다.<개정 2021. 3. 12.>
+**제25조의2(지수차익거래 등<개정 2021. 3. 12.>)**① 규정 제18조제2항제1호에서 "세칙으로 정하는 거래"라 함은 다음 각 호의 어느 하나에 해당하는 거래를 말한다. <개정 2021. 3. 12.>
 
-1.규정제2조제21항제1호의 지수차익거래
+1. 규정 제2조제21항제1호의 지수차익거래
 
 2. 섹터지수에 연동되는 주식집단의 매수와 동시에 또는 매수의 전·후에 섹터지수에 대한 선물거래종목의 매도(매수계약의 최종결제를 포함한다)를 하는 거래
 
@@ -1467,43 +1722,43 @@ attachments:
 
 [본조신설 2014. 12. 10.]
 
-**제26조(주식차익거래)**①규정제18조제2항제2호에서 "세칙으로 정하는 거래"라 함은 다음 각 호의 어느 하나에 해당하는 거래를 말한다.<개정 2007. 12. 27., 2018. 12. 28.>
+**제26조(주식차익거래)**① 규정 제18조제2항제2호에서 "세칙으로 정하는 거래"라 함은 다음 각 호의 어느 하나에 해당하는 거래를 말한다. <개정 2007. 12. 27., 2018. 12. 28.>
 
 1. 기초주권의 매수와 동시에 또는 매수의 전·후에 당해 기초주권에 대한 주식선물거래종목(주식합성선물을 포함한다)의 매도(매수계약의 최종결제를 포함한다)를 하는 거래
 
 2. 기초주권의 매도와 동시에 또는 매도의 전·후에 당해 기초주권에 대한 주식선물거래종목(주식합성선물을 포함한다)의 매수(매도계약의 최종결제를 포함한다)를 하는 거래
 
-② 제1항에서 "주식합성선물의 매도"라 함은 주식옵션거래의 콜옵션을 매도하고 풋옵션을 매수하는 것을 말하며, "주식합성선물의 매수"라 함은 주식옵션거래의 콜옵션을 매수하고 풋옵션을 매도하는 것을 말한다.<개정 2018. 12. 28.>
+② 제1항에서 "주식합성선물의 매도"라 함은 주식옵션거래의 콜옵션을 매도하고 풋옵션을 매수하는 것을 말하며, "주식합성선물의 매수"라 함은 주식옵션거래의 콜옵션을 매수하고 풋옵션을 매도하는 것을 말한다. <개정 2018. 12. 28.>
 
-③ 제6조의4제4항의 규정은 제1항의 규정에 의한 매도 또는 매수의 경우에 이를 준용한다.<개정 2018. 12. 28.>
+③ 제6조의4제4항의 규정은 제1항의 규정에 의한 매도 또는 매수의 경우에 이를 준용한다. <개정 2018. 12. 28.>
 
-**제27조**삭제<2021. 3. 12.>
+**제27조**삭제 <2021. 3. 12.>
 
-**제27조의2**삭제<2021. 3. 12.>
+**제27조의2**삭제 <2021. 3. 12.>
 
-**제28조(주식예탁증권차익거래<개정 2009. 2. 3.>)**①규정제18조제2항제4호에서 "세칙으로 정하는 거래"란 다음 각호의 어느 하나에 해당하는 거래를 말한다.<개정 2009. 2. 3.>
+**제28조(주식예탁증권차익거래<개정 2009. 2. 3.>)**① 규정 제18조제2항제4호에서 "세칙으로 정하는 거래"란 다음 각호의 어느 하나에 해당하는 거래를 말한다. <개정 2009. 2. 3.>
 
 1. 주식예탁증권(외국주식예탁증권을 포함한다. 이하 이 조에서 같다)의 매수와 동시에 또는 매수의 전·후에 원주의 매도를 하는 거래
 
 2. 주식예탁증권의 매도와 동시에 또는 매도의 전·후에 원주의 매수를 하는 거래
 
-② 제6조의4제4항은 제1항에 따른 매도 또는 매수의 경우에 이를 준용한다.<개정 2009. 2. 3., 2018. 12. 28.>
+② 제6조의4제4항은 제1항에 따른 매도 또는 매수의 경우에 이를 준용한다. <개정 2009. 2. 3., 2018. 12. 28.>
 
-**제28조의2(공매도호가의 사후관리)**①규정제18조의2제1항에 따른 기록 및 관련 자료 등은 3년 이상으로서 회원이 정한 기간 동안 보관하여야 한다.
+**제28조의2(공매도호가의 사후관리)**① 규정 제18조의2제1항에 따른 기록 및 관련 자료 등은 3년 이상으로서 회원이 정한 기간 동안 보관하여야 한다.
 
-②규정제18조의2제1항에 따라 회원이 위탁자의 증권보유잔고와 결제해야 하는 증권의 수량을 확인함에 있어 위탁자가 해당 증권을 신탁업자 또는 보관기관을 통하여 전자등록하고 있는 경우에는 결제일 12시까지 신탁업자 또는 보관기관으로부터 결제부족 현황을 별지 제2호의2 서식으로 통보받아야 한다. 이 경우 신탁업자 또는 보관기관이 한국예탁결제원(이하 "예탁결제원"이라 한다)의 예탁결제정보통신망을 이용하여 결제부족 현황을 통보하는 경우(미결제사유를 별지 제2호의2 서식의 구분에 따라 기재한 경우에 한한다)에는 별지 제2호의2 서식에 따른 통보가 있는 것으로 본다.<개정 2012. 9. 20., 2013. 12. 18., 2019. 9. 10.>
+② 규정 제18조의2제1항에 따라 회원이 위탁자의 증권보유잔고와 결제해야 하는 증권의 수량을 확인함에 있어 위탁자가 해당 증권을 신탁업자 또는 보관기관을 통하여 전자등록하고 있는 경우에는 결제일 12시까지 신탁업자 또는 보관기관으로부터 결제부족 현황을 별지 제2호의2 서식으로 통보받아야 한다. 이 경우 신탁업자 또는 보관기관이 한국예탁결제원(이하 "예탁결제원"이라 한다)의 예탁결제정보통신망을 이용하여 결제부족 현황을 통보하는 경우(미결제사유를 별지 제2호의2 서식의 구분에 따라 기재한 경우에 한한다)에는 별지 제2호의2 서식에 따른 통보가 있는 것으로 본다. <개정 2012. 9. 20., 2013. 12. 18., 2019. 9. 10.>
 
-③규정제18조의2제3항 각 호 외의 부분 중 "최근 6개월"의 기산일은 위탁자가 소유하지 아니한 증권 또는 결제일까지 결제가 가능하지 아니한 증권을 매도하였음을 거래소가 확인한 날로 한다.<개정 2012. 9. 20.>
+③ 규정 제18조의2제3항 각 호 외의 부분 중 "최근 6개월"의 기산일은 위탁자가 소유하지 아니한 증권 또는 결제일까지 결제가 가능하지 아니한 증권을 매도하였음을 거래소가 확인한 날로 한다. <개정 2012. 9. 20.>
 
-④규정제89조제1항제2호에 따라 결제일의 다음 매매거래일부터 120일간 위탁증권 전부를 위탁증거금으로 징수하는 경우에는규정제18조의2제3항 각 호를 적용하지 아니한다.<신설 2013. 12. 18., 2018. 12. 28.>
+④ 규정 제89조제1항제2호에 따라 결제일의 다음 매매거래일부터 120일간 위탁증권 전부를 위탁증거금으로 징수하는 경우에는 규정 제18조의2제3항 각 호를 적용하지 아니한다. <신설 2013. 12. 18., 2018. 12. 28.>
 
 [본조신설 2009. 3. 6.]
 
-**제29조**삭제<2005. 12. 1.>
+**제29조**삭제 <2005. 12. 1.>
 
-**제30조(기준가격)**①규정제20조제1항에 따른 주권, 외국주식예탁증권, 상장지수집합투자기구 집합투자증권, 상장지수증권 및 수익증권의 기준가격은 다음 각 호와 같이 한다.<개정 2005. 8. 26., 2009. 2. 3., 2009. 7. 16., 2011. 1. 27., 2011. 12. 28., 2012. 4. 20., 2014. 5. 12., 2014. 9. 2., 2014. 12. 10., 2019. 9. 10., 2020. 6. 23., 2020. 7. 23., 2022. 2. 14., 2023. 4. 12.>
+**제30조(기준가격)**① 규정 제20조제1항에 따른 주권, 외국주식예탁증권, 상장지수집합투자기구 집합투자증권, 상장지수증권 및 수익증권의 기준가격은 다음 각 호와 같이 한다. <개정 2005. 8. 26., 2009. 2. 3., 2009. 7. 16., 2011. 1. 27., 2011. 12. 28., 2012. 4. 20., 2014. 5. 12., 2014. 9. 2., 2014. 12. 10., 2019. 9. 10., 2020. 6. 23., 2020. 7. 23., 2022. 2. 14., 2023. 4. 12.>
 
-1. 제2호부터 제6호까지 이외의 종목은 전일종가(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 하고, 전일종가가 없는 경우에는 전일의 기준가격으로 한다. 이하 같다)로 한다.<개정 2025. 2. 27.>
+1. 제2호부터 제6호까지 이외의 종목은 전일종가(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 하고, 전일종가가 없는 경우에는 전일의 기준가격으로 한다. 이하 같다)로 한다. <개정 2025. 2. 27.>
 
 2. 신규상장종목은 다음 각 목과 같이 한다.
 
@@ -1511,21 +1766,21 @@ attachments:
 
 나. 코스닥시장에서 이전상장하는 종목: 코스닥시장에서의 최종 매매거래일의 종가. 다만, 종가가 없는 경우에는 해당 매매거래일의 기준가격으로 한다.
 
-다. 상장지수집합투자기구 집합투자증권 및법제189조의 수익증권:법제238조제6항에 따라 산정된 기준가격. 이 경우 상장일을 기준으로 가장 최근에 공표된 기준가격으로 하며, 상장일 전일에 공표되는 경우에는 17시까지 공표된 것으로 한정한다.
+다. 상장지수집합투자기구 집합투자증권 및 법 제189조의 수익증권: 법 제238조제6항에 따라 산정된 기준가격. 이 경우 상장일을 기준으로 가장 최근에 공표된 기준가격으로 하며, 상장일 전일에 공표되는 경우에는 17시까지 공표된 것으로 한정한다.
 
 라. 상장지수증권: 「유가증권시장 상장규정」제149조의3제2항제4호에 따라 산정된 증권당 지표가치
 
-마. 다목 외의 수익증권: 최근 모집(법시행령제11조제2항에 따라 모집으로 보는 경우를 제외한다. 이하 같다) 또는 매출 시의 발행가액
+마. 다목 외의 수익증권: 최근 모집(법시행령 제11조제2항에 따라 모집으로 보는 경우를 제외한다. 이하 같다) 또는 매출 시의 발행가액
 
-3. 시가기준가종목은규정제37조제1항에 따라 최초로 결정된 가격으로 한다. 이 경우 최초의 가격이 장종료시까지 결정되지 아니한 경우에는 별표 1에서 정하는 평가가격[평가가격이 없는 경우에는 최저호가가격을 평가가격으로 보고, 제2조제3호나목의 시가기준가종목의 경우에는 제132조제1항에 따른 기준일의 2매매거래일 전일의 종가에서 주당 분배 또는 배당금액을 차감한 가격(해당 가격이 "양"이 아닌 경우에는 호가가격단위 중 가장 낮은 가격)을 평가가격으로 본다. 이하 이 조 및 제36조에서 같다]에 비하여 낮은 매도호가가 있는 경우에는 가장 낮은 매도호가의 가격을, 높은 매수호가가 있는 경우에는 가장 높은 매수호가의 가격을, 그 밖의 경우에는 평가가격을 각각 다음 매매거래일의 기준가격으로 한다.
+3. 시가기준가종목은 규정 제37조제1항에 따라 최초로 결정된 가격으로 한다. 이 경우 최초의 가격이 장종료시까지 결정되지 아니한 경우에는 별표 1에서 정하는 평가가격[평가가격이 없는 경우에는 최저호가가격을 평가가격으로 보고, 제2조제3호나목의 시가기준가종목의 경우에는 제132조제1항에 따른 기준일의 2매매거래일 전일의 종가에서 주당 분배 또는 배당금액을 차감한 가격(해당 가격이 "양"이 아닌 경우에는 호가가격단위 중 가장 낮은 가격)을 평가가격으로 본다. 이하 이 조 및 제36조에서 같다]에 비하여 낮은 매도호가가 있는 경우에는 가장 낮은 매도호가의 가격을, 높은 매수호가가 있는 경우에는 가장 높은 매수호가의 가격을, 그 밖의 경우에는 평가가격을 각각 다음 매매거래일의 기준가격으로 한다.
 
 3의2. 합병상장종목은 다음 각 목과 같이 한다.
 
-가. 「유가증권시장 상장규정」제2조제1항제1호라목(1)에 따라 기업인수목적회사가 합병 후 존속하는 경우
-존속하는 해당 기업인수목적회사주권의 제1호에 따른 가격
+가. 「유가증권시장 상장규정」 제2조제1항제1호라목(1)에 따라 기업인수목적회사가 합병 후 존속하는 경우
+ 존속하는 해당 기업인수목적회사주권의 제1호에 따른 가격
 
-나. 「유가증권시장 상장규정」제2조제1항제1호라목(2)에 따라 기업인수목적회사가 합병 후 존속하지 아니하는 경우
-소멸하는 해당 기업인수목적회사주권의 제1호에 따른 가격을 합병과 관련하여 제출된 합병등종료보고서 또는 증권발행실적보고서상 합병의 상대방이 되는 법인의 합병비율(소멸하는 기업인수목적회사 1주당 교부하는 합병신주의 주식수)로 나눈 가격
+나. 「유가증권시장 상장규정」 제2조제1항제1호라목(2)에 따라 기업인수목적회사가 합병 후 존속하지 아니하는 경우
+ 소멸하는 해당 기업인수목적회사주권의 제1호에 따른 가격을 합병과 관련하여 제출된 합병등종료보고서 또는 증권발행실적보고서상 합병의 상대방이 되는 법인의 합병비율(소멸하는 기업인수목적회사 1주당 교부하는 합병신주의 주식수)로 나눈 가격
 
 4. 배당락 또는 권리락된 종목중 다음 각목의 어느 하나에 해당하는 종목은 별표2의 산식에 따라 산출된 가격으로 하며, 별표2의 산식을 적용할 수 없는 경우에는 별표2의 산식중에서 당해 종목과 가장 유사한 조건을 가진 종목에 적용되는 산식을 준용한다.
 
@@ -1537,7 +1792,7 @@ attachments:
 
 4의2. 삭제
 
-5. 상장지수집합투자기구 집합투자증권 또는 상장지수증권으로서 금전의 분배를 거래소에 신고한 종목은 제132조제1항에 따른 기준일의 2매매거래일 전일의 종가에서 주당(또는 좌당) 분배금액(분배금액이 확정되지 아니한 때에는법제238조제6항에 따라 산정된 기준가격중 17시까지 발표된 가격을 감안하여 산정된 분배예정금액)을 차감한 가격으로 한다.
+5. 상장지수집합투자기구 집합투자증권 또는 상장지수증권으로서 금전의 분배를 거래소에 신고한 종목은 제132조제1항에 따른 기준일의 2매매거래일 전일의 종가에서 주당(또는 좌당) 분배금액(분배금액이 확정되지 아니한 때에는 법 제238조제6항에 따라 산정된 기준가격중 17시까지 발표된 가격을 감안하여 산정된 분배예정금액)을 차감한 가격으로 한다.
 
 5의2. 삭제
 
@@ -1551,13 +1806,13 @@ attachments:
 
 9. 삭제
 
-② 삭제<2023. 4. 12.>
+② 삭제 <2023. 4. 12.>
 
-③ 제1항제2호나목부터 마목까지, 제1항제3호의2나목, 제4호부터 제6호까지 및 제4항에 따른 가격(원미만의 금액은 절사한다. 이하 별표 1 및 별표 1의4에서 같다)이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다.<개정 2005. 8. 26., 2009. 2. 3., 2011. 1. 27., 2014. 9. 2., 2014. 12. 10., 2022. 2. 14., 2023. 4. 12.,2025. 2. 27.>
+③ 제1항제2호나목부터 마목까지, 제1항제3호의2나목, 제4호부터 제6호까지 및 제4항에 따른 가격(원미만의 금액은 절사한다. 이하 별표 1 및 별표 1의4에서 같다)이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다. <개정 2005. 8. 26., 2009. 2. 3., 2011. 1. 27., 2014. 9. 2., 2014. 12. 10., 2022. 2. 14., 2023. 4. 12.,2025. 2. 27.>
 
-④ 제1항제1호에 불구하고 투자회사주권이 전월 초일부터 당월 둘째 월요일 전일까지 매매거래가 이루어지지 아니하는 경우에는법제238조제6항에 따라 산정된 기준가격중 최근에 공표된 가격을 당월 둘째 월요일(휴장일인 경우에는 그 이후 최초 매매거래일로 한다. 이하 같다)의 기준가격으로 한다.<개정 2009. 2. 3., 2011. 1. 27.>
+④ 제1항제1호에 불구하고 투자회사주권이 전월 초일부터 당월 둘째 월요일 전일까지 매매거래가 이루어지지 아니하는 경우에는 법 제238조제6항에 따라 산정된 기준가격중 최근에 공표된 가격을 당월 둘째 월요일(휴장일인 경우에는 그 이후 최초 매매거래일로 한다. 이하 같다)의 기준가격으로 한다. <개정 2009. 2. 3., 2011. 1. 27.>
 
-⑤ 제1항부터 제4항까지의 규정에 불구하고 다음 각호의 어느 하나에 해당하는 경우에는 그 때마다 기준가격을 달리 정할 수 있다.<개정 2009. 2. 3., 2014. 5. 12.>
+⑤ 제1항부터 제4항까지의 규정에 불구하고 다음 각호의 어느 하나에 해당하는 경우에는 그 때마다 기준가격을 달리 정할 수 있다. <개정 2009. 2. 3., 2014. 5. 12.>
 
 1. 장기휴장이후 최초로 매매거래를 재개하는 경우
 
@@ -1565,35 +1820,35 @@ attachments:
 
 3. 장기간 매매거래가 이루어지지 아니하거나 권리내용의 중대한 변경 또는 시장상황급변 등의 사유로 제1항부터 제4항까지의 규정에 따른 기준가격을 적용하는 것이 현저하게 곤란하다고 인정되는 경우
 
-**제31조(가격제한폭)**①규정제20조제1항 후단의 규정에 따라 기준가격에 가격제한폭을 더한 가격이 호가가격단위와 일치하지 아니하는 경우에는 그 가격보다 낮고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격을 상한가로 하고, 기준가격에 가격제한폭을 뺀 가격이 호가가격단위와 일치하지 아니하는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격을 하한가로 하며, 기준가격이 호가가격단위 중 가장 낮은 가격인 경우에는 당해 가격을 하한가로 한다.<개정 2025. 2. 27.>
+**제31조(가격제한폭)**① 규정 제20조제1항 후단의 규정에 따라 기준가격에 가격제한폭을 더한 가격이 호가가격단위와 일치하지 아니하는 경우에는 그 가격보다 낮고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격을 상한가로 하고, 기준가격에 가격제한폭을 뺀 가격이 호가가격단위와 일치하지 아니하는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격을 하한가로 하며, 기준가격이 호가가격단위 중 가장 낮은 가격인 경우에는 당해 가격을 하한가로 한다. <개정 2025. 2. 27.>
 
-②규정제20조제3항에 따라 가격제한폭을 달리 정할 수 있는 경우는 다음 각 호와 같다.<개정 2022. 10. 13., 2023. 4. 12.>
+② 규정 제20조제3항에 따라 가격제한폭을 달리 정할 수 있는 경우는 다음 각 호와 같다. <개정 2022. 10. 13., 2023. 4. 12.>
 
 1. 시장상황이 다음 각 목의 어느 하나에 해당하는 경우에는 그 때마다 가격제한폭을 달리 정할 수 있다.
 
 가. 장기휴장 이후 최초로 매매거래를 재개하는 경우
 
-나. 그 밖에 시장상황급변 등의 사유로규정제20조제2항의 규정에 의한 가격제한폭을 적용하는 것이 현저하게 곤란하다고 인정되는 경우
+나. 그 밖에 시장상황급변 등의 사유로 규정 제20조제2항의 규정에 의한 가격제한폭을 적용하는 것이 현저하게 곤란하다고 인정되는 경우
 
-2.규정제20조제2항 전단에서 연동하는 배율의 절대값이 1미만인 경우에는 가격제한폭 산출 시 당해 배율을 곱하지 아니한다.
+2. 규정 제20조제2항 전단에서 연동하는 배율의 절대값이 1미만인 경우에는 가격제한폭 산출 시 당해 배율을 곱하지 아니한다.
 
-③규정제20조제3항에 따라 제30조제1항제2호가목의 신규상장종목의 경우 신규상장일의 상한가 및 하한가는 다음 각 호에 따른다.<신설 2023. 4. 12.>
+③ 규정 제20조제3항에 따라 제30조제1항제2호가목의 신규상장종목의 경우 신규상장일의 상한가 및 하한가는 다음 각 호에 따른다. <신설 2023. 4. 12.>
 
 1. 상한가의 경우: 기준가격에 3을 곱하여 산출한 금액(해당 금액 중 기준가격의 호가가격단위 미만의 금액은 절사한다. 이하 이 항에서 같다)인 가격제한폭을 기준가격에 더한 가격
 
 2. 하한가의 경우: 기준가격에 0. 4를 곱하여 산출한 금액인 가격제한폭을 기준가격에서 뺀 가격
 
-제2절의2 유동성공급호가<신설 2005. 12. 1.>
+ 제2절의2 유동성공급호가<신설 2005. 12. 1.>
 
-**제31조의2**삭제<2016. 6. 21.>
+**제31조의2**삭제 <2016. 6. 21.>
 
-**제31조의3(유동성공급회원<개정 2012. 4. 20.>)**① 회원은규정제20조의2제2항제1호나목·제2호나목·제2호의2다목·제3호라목의 규정에 따라 유동성공급업무를 담당하는 직원을 정한 경우 책임자를 지정하여 거래소에 통보하여야 한다. 책임자가 변경된 경우에도 또한 같다.<개정 2007. 12. 27., 2009. 4. 16., 2012. 4. 20., 2014. 9. 2.>
+**제31조의3(유동성공급회원<개정 2012. 4. 20.>)**① 회원은 규정 제20조의2제2항제1호나목·제2호나목·제2호의2다목·제3호라목의 규정에 따라 유동성공급업무를 담당하는 직원을 정한 경우 책임자를 지정하여 거래소에 통보하여야 한다. 책임자가 변경된 경우에도 또한 같다. <개정 2007. 12. 27., 2009. 4. 16., 2012. 4. 20., 2014. 9. 2.>
 
-②규정제20조의2제4항에 따라 상장지수집합투자기구 집합투자증권, 상장지수증권 또는 주식워런트증권의 유동성공급회원은 거래소와 유동성공급에 관한 계약을 체결하여야 한다.<신설 2021. 8. 20., 2022. 12. 22.>
+② 규정 제20조의2제4항에 따라 상장지수집합투자기구 집합투자증권, 상장지수증권 또는 주식워런트증권의 유동성공급회원은 거래소와 유동성공급에 관한 계약을 체결하여야 한다. <신설 2021. 8. 20., 2022. 12. 22.>
 
-③규정제20조의2제4항에 따라 상장지수증권 또는 주식워런트증권에 대하여 유동성공급계약을 체결한 회원은 계약기간 중 거래소가 인정하는 경우 외에는 임의로 유동성공급업무를 중단하여서는 아니 된다.<신설 2012. 4. 20., 2014. 9. 2.>
+③ 규정 제20조의2제4항에 따라 상장지수증권 또는 주식워런트증권에 대하여 유동성공급계약을 체결한 회원은 계약기간 중 거래소가 인정하는 경우 외에는 임의로 유동성공급업무를 중단하여서는 아니 된다. <신설 2012. 4. 20., 2014. 9. 2.>
 
-④ 제3항에서 "거래소가 인정하는 경우"란 다음 각 호의 서류를 제출하여 투자자보호에 우려가 없는 경우를 말한다.<신설 2012. 4. 20., 2014. 9. 2., 2021. 8. 20.>
+④ 제3항에서 "거래소가 인정하는 경우"란 다음 각 호의 서류를 제출하여 투자자보호에 우려가 없는 경우를 말한다. <신설 2012. 4. 20., 2014. 9. 2., 2021. 8. 20.>
 
 1. 해당 상장지수증권 또는 주식워런트증권 유동성공급계약서상의 정당한 사유로 인한 유동성공급계약 해지 관련 서류
 
@@ -1603,11 +1858,11 @@ attachments:
 
 4. 그 밖에 투자자보호를 위하여 거래소가 필요하다고 인정하는 서류
 
-⑤ 유동성공급회원은 제4항 각 호와 관련하여 사전에 거래소와 협의를 하여야 한다.<신설 2012. 4. 20., 2021. 8. 20.>
+⑤ 유동성공급회원은 제4항 각 호와 관련하여 사전에 거래소와 협의를 하여야 한다. <신설 2012. 4. 20., 2021. 8. 20.>
 
 [본조신설 2005. 12. 1.]
 
-**제31조의4(유동성공급계약)**①규정제20조의3제1항에서 "세칙이 정하는 내용"이라 함은 다음 각호의 내용을 말한다.<개정 2008. 11. 27.>
+**제31조의4(유동성공급계약)**① 규정 제20조의3제1항에서 "세칙이 정하는 내용"이라 함은 다음 각호의 내용을 말한다. <개정 2008. 11. 27.>
 
 1. 회원 및 주권 상장법인의 명칭
 
@@ -1629,13 +1884,13 @@ attachments:
 
 7. 유동성공급과 관련하여 증권관련법규 및 거래소의 업무관련규정을 준수한다는 내용
 
-②규정제20조의3제2항의 규정에 의하여 유동성공급계약의 체결, 당해 계약의 해지 그 밖에 계약내용의 중요한 변경이 있는 때에는 당해 계약체결 등의 효력이 발생하기 3매매거래일 전일까지 별지 제2호의3 서식에 따라 거래소에 통보하여야 한다. 다만, 지체없이 유동성공급계약을 해지하여야 하는 등의 불가피한 사유가 있는 경우에는 당해 사실이 발생한 시점에 거래소에 통보할 수 있다.<개정 2009. 3. 6.>
+② 규정 제20조의3제2항의 규정에 의하여 유동성공급계약의 체결, 당해 계약의 해지 그 밖에 계약내용의 중요한 변경이 있는 때에는 당해 계약체결 등의 효력이 발생하기 3매매거래일 전일까지 별지 제2호의3 서식에 따라 거래소에 통보하여야 한다. 다만, 지체없이 유동성공급계약을 해지하여야 하는 등의 불가피한 사유가 있는 경우에는 당해 사실이 발생한 시점에 거래소에 통보할 수 있다. <개정 2009. 3. 6.>
 
 ③ 서로 다른 회원이 동일한 주권상장법인과 유동성공급계약을 체결하는 경우 제1항제2호 및 제3호의 내용은 동일하여야 한다.
 
 [본조신설 2005. 12. 1.]
 
-**제31조의5(유동성공급호가 제출의무<개정 2020. 7. 23.>)**①규정제20조의4제1항 후단에서 "세칙으로 정하는 수량"이란 다음 각 호의 구분에 따른 수량을 말한다.<신설 2020. 7. 23.>
+**제31조의5(유동성공급호가 제출의무<개정 2020. 7. 23.>)**① 규정 제20조의4제1항 후단에서 "세칙으로 정하는 수량"이란 다음 각 호의 구분에 따른 수량을 말한다. <신설 2020. 7. 23.>
 
 1. 상장증권총수가 1,000만 증권 이하인 경우: 상장증권총수의 100분의 20에 해당하는 수량
 
@@ -1645,17 +1900,17 @@ attachments:
 
 4. 상장증권총수가 2억 증권을 초과하는 경우: 2,000만 증권
 
-②규정제20조의4제5항에서 "세칙으로 정하는 경우"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다.<개정 2006. 5. 29., 2007. 8. 28., 2007. 12. 27., 2008. 11. 27., 2009. 7. 16., 2020. 7. 23., 2022. 12. 22.>
+② 규정 제20조의4제5항에서 "세칙으로 정하는 경우"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다. <개정 2006. 5. 29., 2007. 8. 28., 2007. 12. 27., 2008. 11. 27., 2009. 7. 16., 2020. 7. 23., 2022. 12. 22.>
 
-1. 호가스프레드비율이규정제20조의4제1항 각호의 규정에 의한 범위 이내인 경우. 이 경우 매도호가(매수호가)만 제출되어 있는 때에는 하한가(상한가)를 최우선매수호가(최우선매도호가)로 본다.
+1. 호가스프레드비율이 규정 제20조의4제1항 각호의 규정에 의한 범위 이내인 경우. 이 경우 매도호가(매수호가)만 제출되어 있는 때에는 하한가(상한가)를 최우선매수호가(최우선매도호가)로 본다.
 
-1의2. 최우선호가를 기준으로 한 호가스프레드가 1호가가격단위에 해당되어 호가스프레드비율을규정제20조의4제1항 각호의 규정에 의한 범위 이내로 축소할 수 없는 경우
+1의2. 최우선호가를 기준으로 한 호가스프레드가 1호가가격단위에 해당되어 호가스프레드비율을 규정 제20조의4제1항 각호의 규정에 의한 범위 이내로 축소할 수 없는 경우
 
-2.규정제23조의 규정에 의한 단일가격에 의한 개별경쟁매매의 방법에 의하여 가격이 결정되는 경우 제35조제1항 각 호의 규정에 의한 호가접수시간 및 당해시간 종료후 5분이 경과하지 아니한 경우
+2. 규정 제23조의 규정에 의한 단일가격에 의한 개별경쟁매매의 방법에 의하여 가격이 결정되는 경우 제35조제1항 각 호의 규정에 의한 호가접수시간 및 당해시간 종료후 5분이 경과하지 아니한 경우
 
-3. 삭제<2007. 12. 27.>
+3. 삭제 <2007. 12. 27.>
 
-3의2. 삭제<2007. 12. 27.>
+3의2. 삭제 <2007. 12. 27.>
 
 4. 주권으로서 유동성공급계약에 제31조의4제1항제6호의 내용을 정한 경우 회원이 제출한 유동성공급호가에 의하여 매매거래가 성립된 수량이 당해 수량 이상인 경우
 
@@ -1665,7 +1920,7 @@ attachments:
 
 가. 기초자산인 주권의 직전의 가격이 상한가 또는 하한가인 경우
 
-나.규정제23조(「코스닥시장 업무규정」 제18조를 포함한다)의 규정에 의한 단일가격에 의한 개별경쟁매매의 방법에 의하여 기초자산의 가격이 결정되는 경우 제35조제1항 각 호(「코스닥시장 업무규정 시행세칙」제20조제1항 각호를 포함한다)의 규정에 의한 호가접수시간 및 당해가격이 결정된 후 5분이 경과하지 아니한 경우
+나. 규정 제23조(「코스닥시장 업무규정」 제18조를 포함한다)의 규정에 의한 단일가격에 의한 개별경쟁매매의 방법에 의하여 기초자산의 가격이 결정되는 경우 제35조제1항 각 호(「코스닥시장 업무규정 시행세칙」 제20조제1항 각호를 포함한다)의 규정에 의한 호가접수시간 및 당해가격이 결정된 후 5분이 경과하지 아니한 경우
 
 다. 행사가격(권리행사로 성립되는 거래에 있어서 미리 정하여진 가격 또는 주가지수의 수치를 말한다)과 기초자산의 가격 차이가 현저하여 호가가격단위중 가장 낮은 가격 이상의 가격으로 유동성공급호가를 제출하는 것이 곤란하다고 인정되는 경우
 
@@ -1673,21 +1928,21 @@ attachments:
 
 [본조신설 2005. 12. 1.]
 
-**제31조의6(유동성공급호가의 제출방법)**①규정제20조의5제1항 단서에 따라 최우선호가의 가격을 기준으로 유동성공급호가의 가격 범위를 적용하기 곤란한 경우에는 다음 각호와 같이 적용한다.<개정 2011. 3. 3.>
+**제31조의6(유동성공급호가의 제출방법)**① 규정 제20조의5제1항 단서에 따라 최우선호가의 가격을 기준으로 유동성공급호가의 가격 범위를 적용하기 곤란한 경우에는 다음 각호와 같이 적용한다. <개정 2011. 3. 3.>
 
-1. 단일가격에 의한 개별경쟁매매를 위한 호가접수시간의 경우에는 예상최우선호가의 가격을 최우선호가의 가격으로 보고규정제20조의5제1항 각 호(각 호의 단서는 제외한다)에 따라 산출한 가격 범위를 적용한다.
+1. 단일가격에 의한 개별경쟁매매를 위한 호가접수시간의 경우에는 예상최우선호가의 가격을 최우선호가의 가격으로 보고 규정 제20조의5제1항 각 호(각 호의 단서는 제외한다)에 따라 산출한 가격 범위를 적용한다.
 
-2. 매도호가 및 매수호가 양방에 호가가 없는 경우 매도호가(매수호가)의 가격의 범위는 직전의 가격을 최우선매수호가(최우선매도호가)의 가격으로 보고규정제20조의5제1항의규정을 적용한다. 이 경우 시가결정을 위한 호가접수시간으로서 직전의 가격과 기준가격이 다른 경우에는 기준가격을 직전의 가격으로 본다.
+2. 매도호가 및 매수호가 양방에 호가가 없는 경우 매도호가(매수호가)의 가격의 범위는 직전의 가격을 최우선매수호가(최우선매도호가)의 가격으로 보고 규정 제20조의5제1항의 규정을 적용한다. 이 경우 시가결정을 위한 호가접수시간으로서 직전의 가격과 기준가격이 다른 경우에는 기준가격을 직전의 가격으로 본다.
 
-②규정제20조의5제5항에 따라 당해 회원의 유동성공급호가가 제출되어 있지 아니한 경우로서 어느 일방에 상장지수집합투자기구 집합투자증권, 상장지수증권 또는 주식워런트증권에 대한 유동성공급호가를 제출하는 때에는 회원이 순자산가치, 지표가치 또는 이론가격 등을 감안하여 적정하다고 인정하는 가격으로 할 수 있다.<신설 2007. 8. 28., 2009. 7. 16., 2014. 9. 2., 2021. 7. 20.>
+② 규정 제20조의5제5항에 따라 당해 회원의 유동성공급호가가 제출되어 있지 아니한 경우로서 어느 일방에 상장지수집합투자기구 집합투자증권, 상장지수증권 또는 주식워런트증권에 대한 유동성공급호가를 제출하는 때에는 회원이 순자산가치, 지표가치 또는 이론가격 등을 감안하여 적정하다고 인정하는 가격으로 할 수 있다. <신설 2007. 8. 28., 2009. 7. 16., 2014. 9. 2., 2021. 7. 20.>
 
-③규정제20조의5제5항에 따라 매도호가 또는 매수호가의 어느 일방에 당해 회원의 유동성공급호가가 제출되어 있는 경우로서 타방에 유동성공급호가를 제출하는 때에는 다음 각호에서 정하는 방법으로 산출한 호가스프레드비율이규정제20조의4제1항 각호의 규정에 의한 범위 이내가 되는 가격으로 하여야 한다. 이 경우 1호가가격단위의 호가스프레드비율이규정제20조의4제1항 각호의 규정에 의한 범위를 초과하는 경우에는 1호가가격단위에 해당하는 가격으로 한다.<개정 2007. 8. 28., 2007. 12. 27., 2009. 7. 16., 2014. 9. 2., 2021. 7. 20.>
+③ 규정 제20조의5제5항에 따라 매도호가 또는 매수호가의 어느 일방에 당해 회원의 유동성공급호가가 제출되어 있는 경우로서 타방에 유동성공급호가를 제출하는 때에는 다음 각호에서 정하는 방법으로 산출한 호가스프레드비율이 규정 제20조의4제1항 각호의 규정에 의한 범위 이내가 되는 가격으로 하여야 한다. 이 경우 1호가가격단위의 호가스프레드비율이 규정 제20조의4제1항 각호의 규정에 의한 범위를 초과하는 경우에는 1호가가격단위에 해당하는 가격으로 한다. <개정 2007. 8. 28., 2007. 12. 27., 2009. 7. 16., 2014. 9. 2., 2021. 7. 20.>
 
 1. 주권, 상장지수집합투자기구 집합투자증권 및 상장지수증권의 경우 당해 회원의 유동성공급호가가 제출되어 있는 방향의 최우선호가를 기준으로 산출한 호가스프레드비율
 
 2. 주식워런트증권의 경우 당해 회원이 제출한 유동성공급호가를 기준으로 산출한 호가스프레드비율. 이 경우 당해 회원이 제출한 유동성공급호가가 두 개 이상인 경우에는 가격적으로 가장 우선하는 호가를 기준으로 한다.
 
-④ 회원이규정제20조의5제3항에 따라 유동성공급호가를 제출하는 경우에는 다음 각 호에서 정하는 수량 이상으로 하여야 한다. 다만, 상장수량에서 회원이 소유중인 수량을 뺀 수량이 다음 각 호에서 정하는 수량 미만인 경우에는 유동성공급호가 중 매수호가수량은 다음 각 호에서 정하는 수량으로 하여야 하고, 주권에 대한 유동성공급호가를 타방 최우선호가의 가격으로 제출하는 경우에는 제1호에서 정하는 수량 이상과 타방 최우선호가의 호가수량 미만(매도호가 및 매수호가 양방에 호가가 없는 경우 이를 적용하지 아니한다)으로 하여야 한다.<개정 2009. 4. 16., 2009. 7. 16., 2011. 3. 3., 2014. 2. 28., 2014. 9. 2., 2015. 10. 1., 2021. 7. 20.>
+④ 회원이 규정 제20조의5제3항에 따라 유동성공급호가를 제출하는 경우에는 다음 각 호에서 정하는 수량 이상으로 하여야 한다. 다만, 상장수량에서 회원이 소유중인 수량을 뺀 수량이 다음 각 호에서 정하는 수량 미만인 경우에는 유동성공급호가 중 매수호가수량은 다음 각 호에서 정하는 수량으로 하여야 하고, 주권에 대한 유동성공급호가를 타방 최우선호가의 가격으로 제출하는 경우에는 제1호에서 정하는 수량 이상과 타방 최우선호가의 호가수량 미만(매도호가 및 매수호가 양방에 호가가 없는 경우 이를 적용하지 아니한다)으로 하여야 한다. <개정 2009. 4. 16., 2009. 7. 16., 2011. 3. 3., 2014. 2. 28., 2014. 9. 2., 2015. 10. 1., 2021. 7. 20.>
 
 1. 주권의 경우 매매수량단위의 10배 이상으로서 당해 주권 상장법인과 유동성공급계약을 체결한 회원이 거래소에 신고한 수량
 
@@ -1695,29 +1950,29 @@ attachments:
 
 3. 주식워런트증권의 경우 매도는 매매수량단위의 10배, 매수는 매매수량단위의 10배 및 5,000원에 해당하는 수량. 다만, 매수의 경우로서 회원이 소유중인 수량(매매거래의 성립 또는 차입 등으로 소유하게 될 수량을 포함한다. 이하 제31조의8에서 같다)이 상장수량에서 5,000원에 해당하는 수량을 뺀 수량을 초과한 경우에는 매매수량단위의 10배에 해당하는 수량으로 한다.
 
-⑤ 회원이 매매거래가 성립되지 아니한 유동성공급호가에 대한 가격을 정정하는 경우에는 다음 각 호의 수량중 적은 수량 이상으로 하여야 한다. 다만, 주권에 대한 유동성공급호가를 타방 최우선호가의 가격으로 정정하는 경우에는 다음 각 호의 수량중 적은 수량 이상과 타방 최우선호가의 호가수량 미만으로 하여야 한다.<개정 2007. 8. 28., 2011. 3. 3.>
+⑤ 회원이 매매거래가 성립되지 아니한 유동성공급호가에 대한 가격을 정정하는 경우에는 다음 각 호의 수량중 적은 수량 이상으로 하여야 한다. 다만, 주권에 대한 유동성공급호가를 타방 최우선호가의 가격으로 정정하는 경우에는 다음 각 호의 수량중 적은 수량 이상과 타방 최우선호가의 호가수량 미만으로 하여야 한다. <개정 2007. 8. 28., 2011. 3. 3.>
 
 1. 매매거래가 성립되지 아니한 수량 전량
 
 2. 제4항 각호에서 정하는 수량
 
-⑥ 제2항 및 제3항의 규정에 의하여 주식워런트증권에 대한 유동성공급호가를 제출하고자 하는 회원은 사전에 내부절차에 따라 공정한 가격의 산정을 위한 내재변동성의 산출 및 변경에 관한 기준을 마련하여 그 기준의 시행일부터 5매매거래일 이내에 거래소에 통보하여야 한다.<신설 2007. 12. 27.>
+⑥ 제2항 및 제3항의 규정에 의하여 주식워런트증권에 대한 유동성공급호가를 제출하고자 하는 회원은 사전에 내부절차에 따라 공정한 가격의 산정을 위한 내재변동성의 산출 및 변경에 관한 기준을 마련하여 그 기준의 시행일부터 5매매거래일 이내에 거래소에 통보하여야 한다. <신설 2007. 12. 27.>
 
-⑦ 거래소는 제2항 및 제3항의 규정에 의하여 주식워런트증권에 대한 유동성을 공급하는 회원이 제출한 매도호가와 매수호가를 기준으로 내재변동성을 산출하여 일별로 내재변동성의 변동현황을 공표할 수 있다.<신설 2007. 12. 27.>
+⑦ 거래소는 제2항 및 제3항의 규정에 의하여 주식워런트증권에 대한 유동성을 공급하는 회원이 제출한 매도호가와 매수호가를 기준으로 내재변동성을 산출하여 일별로 내재변동성의 변동현황을 공표할 수 있다. <신설 2007. 12. 27.>
 
-⑧ 유동성공급회원은 유동성공급호가를 제출함에 있어 이를 다른 회원에게 위탁하여서는 아니 된다.<신설 2021. 5. 7.>
+⑧ 유동성공급회원은 유동성공급호가를 제출함에 있어 이를 다른 회원에게 위탁하여서는 아니 된다. <신설 2021. 5. 7.>
 
-⑨ 유동성공급회원은규정제20조의5제2항에 따른 유동성공급계좌(규정 제18조제2항제6호부터 제7의2호까지의 유동성공급호가 제출과 관련된 헤지거래를 위한 계좌를 포함한다)를 개설, 변경(해당 계좌를 통한 유동성공급종목이 변경되는 경우를 포함한다) 또는 폐쇄하고자 하는 경우 그 계좌에 관한 사항을 해당 계좌를 통해 유동성공급(또는 헤지거래) 호가를 제출하는 날의 2매매거래일 전까지 별지 제2호의8 서식에 따라 거래소에 신고하여야 한다.<신설 2021. 7. 20.>
+⑨ 유동성공급회원은 규정 제20조의5제2항에 따른 유동성공급계좌(규정 제18조제2항제6호부터 제7의2호까지의 유동성공급호가 제출과 관련된 헤지거래를 위한 계좌를 포함한다)를 개설, 변경(해당 계좌를 통한 유동성공급종목이 변경되는 경우를 포함한다) 또는 폐쇄하고자 하는 경우 그 계좌에 관한 사항을 해당 계좌를 통해 유동성공급(또는 헤지거래) 호가를 제출하는 날의 2매매거래일 전까지 별지 제2호의8 서식에 따라 거래소에 신고하여야 한다. <신설 2021. 7. 20.>
 
 [본조신설 2005. 12. 1.]
 
-**제31조의7(양방향호가제출의 예외)**규정제20조의5제4항 단서에 따라 다음 각호의 어느 하나에 해당하는 유동성공급호가는 제출하지 아니할 수 있다.<개정 2006. 5. 29., 2007. 8. 28., 2007. 12. 27., 2009. 2. 3., 2009. 7. 16., 2011. 4. 7., 2011. 12. 28., 2014. 9. 2., 2021. 7. 20.>
+**제31조의7(양방향호가제출의 예외)**규정 제20조의5제4항 단서에 따라 다음 각호의 어느 하나에 해당하는 유동성공급호가는 제출하지 아니할 수 있다. <개정 2006. 5. 29., 2007. 8. 28., 2007. 12. 27., 2009. 2. 3., 2009. 7. 16., 2011. 4. 7., 2011. 12. 28., 2014. 9. 2., 2021. 7. 20.>
 
 1. 주권의 경우 매도호가 또는 매수호가의 어느 일방에 당해 회원이 제출한 유동성공급호가가 있는 경우 당해 방향에 대한 호가
 
-2. 삭제<2011. 4. 7.>
+2. 삭제 <2011. 4. 7.>
 
-3. 상장지수집합투자기구 집합투자증권, 상장지수증권 및 주식워런트증권의 경우 회원이 매도호가 또는 매수호가의 어느 일방에 유동성공급호가를 제출함으로써 당해 회원이 이미 제출한 타방의 유동성공급호가와의 호가스프레드비율이규정제20조의4제1항에 따른 비율(제31조의6제3항 각호외의 부분 후단에 해당하는 경우에는 1호가가격단위에 해당하는 비율로 한다) 이내가 되는 경우 당해 타방에 대한 호가
+3. 상장지수집합투자기구 집합투자증권, 상장지수증권 및 주식워런트증권의 경우 회원이 매도호가 또는 매수호가의 어느 일방에 유동성공급호가를 제출함으로써 당해 회원이 이미 제출한 타방의 유동성공급호가와의 호가스프레드비율이 규정 제20조의4제1항에 따른 비율(제31조의6제3항 각호외의 부분 후단에 해당하는 경우에는 1호가가격단위에 해당하는 비율로 한다) 이내가 되는 경우 당해 타방에 대한 호가
 
 4. 제31조의8제1호의2에 해당하는 매도호가 또는 제31조의8제1호의3에 해당하는 매수호가. 이 경우 매도 또는 매수의 어느 일방호가의 제출이 제한되는 경우에도 타방에는 유동성공급호가를 제출하여야 한다.
 
@@ -1725,9 +1980,9 @@ attachments:
 
 [본조신설 2005. 12. 1.]
 
-**제31조의8(유동성공급호가 제출의 제한)**규정제20조의5제5항에 따라 회원은 다음 각호의 어느 하나에 해당하는 경우에는 유동성공급호가를 제출하여서는 아니된다.<개정 2007. 12. 27., 2009. 2. 3., 2009. 4. 16., 2010. 12. 6., 2011. 12. 28., 2015. 10. 1., 2021. 7. 20.>
+**제31조의8(유동성공급호가 제출의 제한)**규정 제20조의5제5항에 따라 회원은 다음 각호의 어느 하나에 해당하는 경우에는 유동성공급호가를 제출하여서는 아니된다. <개정 2007. 12. 27., 2009. 2. 3., 2009. 4. 16., 2010. 12. 6., 2011. 12. 28., 2015. 10. 1., 2021. 7. 20.>
 
-1.법제71조제2호의 사유에 해당하는 경우
+1. 법 제71조제2호의 사유에 해당하는 경우
 
 1의2. 회원이 소유중인 수량이 제31조의6제4항 각호에서 정하는 수량 미만인 경우 매도호가
 
@@ -1737,13 +1992,13 @@ attachments:
 
 3. 주식워런트증권의 경우 권리행사기간 만료일 전 최종 5거래일 동안. 다만, 주가지수를 기초자산으로 하는 주식워런트증권의 경우에는 그러하지 아니하다.
 
-4. 주식워런트증권의 경우 정규시장의 매매거래시간중 최우선호가를 기준으로 호가스프레드비율이규정제20조의4제1항제3호에 따른 비율 이내인 경우. 다만, 회원의 유동성공급호가가 제출되어 있지 아니한 상태에서 최우선매도호가 미만으로 매도호가를 제출하는 경우는 그러하지 아니하다.
+4. 주식워런트증권의 경우 정규시장의 매매거래시간중 최우선호가를 기준으로 호가스프레드비율이 규정 제20조의4제1항제3호에 따른 비율 이내인 경우. 다만, 회원의 유동성공급호가가 제출되어 있지 아니한 상태에서 최우선매도호가 미만으로 매도호가를 제출하는 경우는 그러하지 아니하다.
 
 5. 주식워런트증권의 경우 회원이 매도호가 또는 매수호가의 어느 일방에 유동성공급호가를 제출함으로써 해당회원이 이미 제출한 타방의 유동성공급호가와의 호가스프레드비율이 거래소가 정하는 최저비율 미만이 되는 경우
 
 [본조신설 2005. 12. 1.]
 
-**제31조의9(유동성공급회원에 대한 평가)**① 거래소는규정제20조의6제1항 전단의 규정에 의하여 유동성을 공급하는 회원을 대상으로 다음 각 호에서 정하는 사항을 매 분기(상장지수증권의 경우에는 월로 한다. 이하 이 조부터 제31조의11까지에서 같다)마다 평가하여 이를 공표할 수 있다.<개정 2007. 12. 27., 2009. 7. 16., 2014. 9. 2., 2015. 12. 16., 2018. 12. 28., 2019. 1. 24., 2020. 7. 23.>
+**제31조의9(유동성공급회원에 대한 평가)**① 거래소는 규정 제20조의6제1항 전단의 규정에 의하여 유동성을 공급하는 회원을 대상으로 다음 각 호에서 정하는 사항을 매 분기(상장지수증권의 경우에는 월로 한다. 이하 이 조부터 제31조의11까지에서 같다)마다 평가하여 이를 공표할 수 있다. <개정 2007. 12. 27., 2009. 7. 16., 2014. 9. 2., 2015. 12. 16., 2018. 12. 28., 2019. 1. 24., 2020. 7. 23.>
 
 1. 주권의 경우
 
@@ -1765,31 +2020,31 @@ attachments:
 
 라. 유동성공급업무와 관련한 증권관계법규 및 거래소 업무관련규정의 준수 여부
 
-② 제1항에 따른 평가를 함에 있어 다음 각 호의 어느 하나에 해당하는 경우 당해 회원이 유동성을 공급하는 다른 종목의 실적에 관계없이 당해 회원에 대하여 가장 낮은 등급을 부여한다.<개정 2009. 7. 16., 2014. 9. 2., 2022. 6. 30.>
+② 제1항에 따른 평가를 함에 있어 다음 각 호의 어느 하나에 해당하는 경우 당해 회원이 유동성을 공급하는 다른 종목의 실적에 관계없이 당해 회원에 대하여 가장 낮은 등급을 부여한다. <개정 2009. 7. 16., 2014. 9. 2., 2022. 6. 30.>
 
 1. 주권 및 주식워런트증권인 경우 회원이 유동성공급호가를 제출하고 있는 종목 중 일평균 30분 이상 유동성공급호가 제출의무를 이행하지 아니한 종목이 있는 경우
 
 2. 상장지수집합투자기구 집합투자증권 및 상장지수증권의 경우 회원이 유동성공급호가를 제출하고 있는 종목 중 2분기 연속 제31조의10제1항제1호가목에 해당하는 종목이 있는 경우. 다만, 시장상황의 급변 등의 사유로 거래소가 필요하다고 인정하는 경우에는 그러하지 아니한다.
 
-③ 회원은규정제20조의6제2항에 따라 제31조의5제2항제4호·제4호의2·제6호 또는 제31조의8제1호부터 제1호의3까지의 규정에 해당하여 해당 분기에 유동성공급호가를 제출하지 아니한 내용 등 거래소가 평가를 위하여 요구하는 내용을 해당 분기말까지 거래소에 통보하여야 한다.<개정 2007. 8. 28., 2007. 12. 27., 2008. 11. 27., 2018. 12. 28., 2020. 7. 23.>
+③ 회원은 규정 제20조의6제2항에 따라 제31조의5제2항제4호·제4호의2·제6호 또는 제31조의8제1호부터 제1호의3까지의 규정에 해당하여 해당 분기에 유동성공급호가를 제출하지 아니한 내용 등 거래소가 평가를 위하여 요구하는 내용을 해당 분기말까지 거래소에 통보하여야 한다. <개정 2007. 8. 28., 2007. 12. 27., 2008. 11. 27., 2018. 12. 28., 2020. 7. 23.>
 
-④ 제1항부터 제3항까지의규정외에 평가기준, 공표방법 그 밖에 유동성공급회원에 대한 평가에 관하여 필요한 사항은 거래소가 별도로 정하는 바에 의한다.<개정 2018. 12. 28.>
+④ 제1항부터 제3항까지의 규정 외에 평가기준, 공표방법 그 밖에 유동성공급회원에 대한 평가에 관하여 필요한 사항은 거래소가 별도로 정하는 바에 의한다. <개정 2018. 12. 28.>
 
 [본조신설 2006. 5. 29.]
 
-**제31조의10(유동성공급회원의 교체기준)**①규정제20조의6제1항 후단에서 "세칙이 정하는 기준"이라 함은 다음 각 호에 해당하는 경우를 말한다.<개정 2009. 7. 16., 2014. 9. 2., 2020. 7. 23.>
+**제31조의10(유동성공급회원의 교체기준)**① 규정 제20조의6제1항 후단에서 "세칙이 정하는 기준"이라 함은 다음 각 호에 해당하는 경우를 말한다. <개정 2009. 7. 16., 2014. 9. 2., 2020. 7. 23.>
 
 1. 상장지수집합투자기구 집합투자증권 및 상장지수증권의 경우에는 다음 각 목의 모두에 해당하는 경우
 
-가.규정제20조의4제1항제2호에 따른 유동성공급호가의 제출의무를 1시간 이상 위반한 매매거래일 또는규정제20조의4제2항·제3항에 따른 괴리율을 위반한 매매거래일이 매분기별로 20일(상장지수증권의 경우에는 매월별로 7일) 이상인 경우
+가. 규정 제20조의4제1항제2호에 따른 유동성공급호가의 제출의무를 1시간 이상 위반한 매매거래일 또는 규정 제20조의4제2항·제3항에 따른 괴리율을 위반한 매매거래일이 매분기별로 20일(상장지수증권의 경우에는 매월별로 7일) 이상인 경우
 
 나. 제31조의9제1항제2호에 따른 평가(상장지수집합투자기구 집합투자증권의 경우에는 신규상장일이 속하는 분기의 평가를, 상장지수증권의 경우에는 신규상장일이 속하는 월의 평가를 제외한다) 결과 가장 낮은 등급(상장지수증권의 경우에는 2회 연속 가장 낮은 등급)을 부여받은 유동성공급회원이 있는 경우
 
-2. 주식워런트증권의 경우에는 매월(신규상장일이 속하는 월은 제외한다)별로규정제20조의4제1항제3호의 규정에 의한 유동성공급호가의 제출의무를 1시간 이상 위반한 매매거래일이 5일 이상인 경우
+2. 주식워런트증권의 경우에는 매월(신규상장일이 속하는 월은 제외한다)별로 규정 제20조의4제1항제3호의 규정에 의한 유동성공급호가의 제출의무를 1시간 이상 위반한 매매거래일이 5일 이상인 경우
 
-② 제1항의 규정에 불구하고 다음 각호의 어느 하나에 해당하여 거래소가 필요하다고 인정하는 경우에는 제1항 각호의규정을 적용하지 아니할 수 있다.
+② 제1항의 규정에 불구하고 다음 각호의 어느 하나에 해당하여 거래소가 필요하다고 인정하는 경우에는 제1항 각호의 규정을 적용하지 아니할 수 있다.
 
-1. 거래소 또는 유동성을 공급하는 회원의 시스템 장애가 발생하여 제1항제1호의규정을 적용할 수 없는 경우
+1. 거래소 또는 유동성을 공급하는 회원의 시스템 장애가 발생하여 제1항제1호의 규정을 적용할 수 없는 경우
 
 2. 기초자산의 급격한 가격변동이 있는 경우
 
@@ -1797,11 +2052,11 @@ attachments:
 
 [본조신설 2007. 12. 27.]
 
-**제31조의11**삭제<2021. 8. 20.>
+**제31조의11**삭제 <2021. 8. 20.>
 
-제2절의3 시장조성자<신설 2016. 3. 25.>
+ 제2절의3 시장조성자<신설 2016. 3. 25.>
 
-**제31조의12(시장조성호가 제출방법 등)**①규정제20조의9제1항 본문에서 "세칙으로 정하는 바에 따라 시장을 조성하는 호가"란 시장조성계좌를 통하여 다음 각 호의 요건을 모두 충족하는 방법으로 제출하는 호가를 말한다.
+**제31조의12(시장조성호가 제출방법 등)**① 규정 제20조의9제1항 본문에서 "세칙으로 정하는 바에 따라 시장을 조성하는 호가"란 시장조성계좌를 통하여 다음 각 호의 요건을 모두 충족하는 방법으로 제출하는 호가를 말한다.
 
 1. 지정가호가 또는 최우선지정가호가로 제출할 것
 
@@ -1809,9 +2064,9 @@ attachments:
 
 3. 매수호가의 경우 호가제출시점의 최우선매도호가 가격 보다 낮은 가격으로, 매도호가의 경우 호가제출시점의 최우선매수호가 가격 보다 높은 가격으로 각각 제출할 것. 다만, 제출하고자 하는 호가의 다른 쪽에 호가잔량이 없는 경우에는 그러하지 아니하다.
 
-②규정제23조에 따른 단일가격에 의한 개별경쟁매매에서 제1항의 호가를 제출하는 경우 같은 항 제3호의 "최우선매도호가"와 "최우선매수호가"를 제126조제1항제1호에 따라 공표되는 "예상최우선매도호가"와 "예상최우선매수호가"로 한다.<개정 2018. 12. 6.>
+② 규정 제23조에 따른 단일가격에 의한 개별경쟁매매에서 제1항의 호가를 제출하는 경우 같은 항 제3호의 "최우선매도호가"와 "최우선매수호가"를 제126조제1항제1호에 따라 공표되는 "예상최우선매도호가"와 "예상최우선매수호가"로 한다. <개정 2018. 12. 6.>
 
-③ 제1항제3호에도 불구하고 시장조성자가 매도호가를 호가제출시점의 최우선매수호가 가격 이하의 가격으로 제출하거나 매수호가를 호가제출시점의 최우선매도호가 가격 이상의 가격으로 제출하는 경우 다음 각 호의 어느 하나에 해당하는 호가만을 시장조성호가로 본다.<개정 2019. 11. 28.>
+③ 제1항제3호에도 불구하고 시장조성자가 매도호가를 호가제출시점의 최우선매수호가 가격 이하의 가격으로 제출하거나 매수호가를 호가제출시점의 최우선매도호가 가격 이상의 가격으로 제출하는 경우 다음 각 호의 어느 하나에 해당하는 호가만을 시장조성호가로 본다. <개정 2019. 11. 28.>
 
 1. 호가 제출 이후 매매거래가 성립되지 않은 호가
 
@@ -1823,13 +2078,13 @@ attachments:
 
 ④ 시장조성자는 시장조성계좌를 개설, 변경 또는 폐쇄하고자 하는 경우 그 계좌에 관한 사항을 2매매거래일 전 까지 별지 제2호의4 서식에 따라 거래소에 신고하여야 한다.
 
-⑤규정제20조의9제1항 본문 단서에서 "세칙으로 정하는 종목"이란 별표 2의2에서 정하는 종목을 말한다.
+⑤ 규정 제20조의9제1항 본문 단서에서 "세칙으로 정하는 종목"이란 별표 2의2에서 정하는 종목을 말한다.
 
-⑥ 시장조성자는 제1항부터 제3항까지의 시장조성호가를 제출함에 있어 이를 다른 회원에게 위탁하여서는 아니 된다.<신설 2021. 5. 7.>
+⑥ 시장조성자는 제1항부터 제3항까지의 시장조성호가를 제출함에 있어 이를 다른 회원에게 위탁하여서는 아니 된다. <신설 2021. 5. 7.>
 
 [본조신설 2016. 3. 25.]
 
-**제31조의13(시장조성자의 자격요건)**①규정제20조의9제2항제3호에서 "세칙으로 정하는 요건"이란 다음 각 호의 요건을 말한다.<개정 2021. 3. 12., 2022. 7. 15.>
+**제31조의13(시장조성자의 자격요건)**① 규정 제20조의9제2항제3호에서 "세칙으로 정하는 요건"이란 다음 각 호의 요건을 말한다. <개정 2021. 3. 12., 2022. 7. 15.>
 
 1. 다음 각 목의 어느 하나에 해당하는 경우 그 때로부터 1년 이상 경과할 것
 
@@ -1841,19 +2096,19 @@ attachments:
 
 3. 시장조성업무를 수행할 시장조성 담당자를 2인 이상 지정할 것
 
-4.규정제17조제2항의 차입공매도 호가는 해당 상장증권을 차입한 경우에만 제출할 수 있도록 하는 내부통제장치를 갖출 것
+4. 규정 제17조제2항의 차입공매도 호가는 해당 상장증권을 차입한 경우에만 제출할 수 있도록 하는 내부통제장치를 갖출 것
 
 ② 시장조성자는 시장조성 담당자를 지정하거나 변경하는 경우 사전에 별지 제2호의5 서식에 따라 거래소에 통보하여야 한다.
 
 [본조신설 2016. 3. 25.]
 
-**제31조의14(시장조성대상종목의 선정)**①규정제20조의9제3항에 따라 거래소는 별표 2의2의 기준에 따라 대상종목의 유동성을 평가하고 시장조성계약의 대상이 되는 저유동성종목(이하 "시장조성대상종목"이라 한다)을 선정하여 공표한다.
+**제31조의14(시장조성대상종목의 선정)**① 규정 제20조의9제3항에 따라 거래소는 별표 2의2의 기준에 따라 대상종목의 유동성을 평가하고 시장조성계약의 대상이 되는 저유동성종목(이하 "시장조성대상종목"이라 한다)을 선정하여 공표한다.
 
-② 삭제<2017. 9. 7.>
+② 삭제 <2017. 9. 7.>
 
 [본조신설 2016. 3. 25.]
 
-**제31조의15(시장조성자의 선정 및 시장조성대상종목의 배분 등)**①규정제20조의9제3항에 따라 회원은 거래소에서 시장조성대상종목을 공표한 이후 시장조성신청을 할 수 있다.
+**제31조의15(시장조성자의 선정 및 시장조성대상종목의 배분 등)**① 규정 제20조의9제3항에 따라 회원은 거래소에서 시장조성대상종목을 공표한 이후 시장조성신청을 할 수 있다.
 
 ② 거래소는 제1항에 따라 신청한 회원의 수 및 시장조성대상종목의 수를 감안하여 시장조성자의 수를 정할 수 있다.
 
@@ -1867,23 +2122,23 @@ attachments:
 
 ② 거래소는 시장조성자와 시장조성계약에서 정하는 바에 따라 시장조성계약을 해지할 수 있다.
 
-③ 거래소는 다음 각 호의 어느 하나에 해당하는 사유가 발생하는 경우 해당 종목에 대한 시장조성계약을 종료한다.<신설 2021. 3. 12.>
+③ 거래소는 다음 각 호의 어느 하나에 해당하는 사유가 발생하는 경우 해당 종목에 대한 시장조성계약을 종료한다. <신설 2021. 3. 12.>
 
 1. 별표 2의4에 따라 매분기별로 일평균 회전율(각 분기의 마지막 7매매거래일 제외)을 평가한 결과 2분기 연속으로 15%를 넘는 경우. 이 경우 해당 종목에 대한 시장조성은 해당 분기 말일에 종료한다.
 
 2. 상장폐지되는 경우
 
-3.규정제20조의3에 따른 유동성공급계약이 체결되어 시행되는 경우
+3. 규정 제20조의3에 따른 유동성공급계약이 체결되어 시행되는 경우
 
 4. 그 밖에 거래소가 시장관리상 필요하다고 인정하는 경우
 
-④ 시장조성계약에 따라 시장조성종목의 시장조성이 종료되는 경우 시장조성자는 종료일 후에는 시장조성계좌를 통해 해당 종목의 호가를 제출할 수 없다. 다만, 시장조성계약이 종료되기 전 동일한 종목에 대하여 신규로 시장조성계약을 체결한 경우는 제외한다.<개정 2019. 11. 28.>
+④ 시장조성계약에 따라 시장조성종목의 시장조성이 종료되는 경우 시장조성자는 종료일 후에는 시장조성계좌를 통해 해당 종목의 호가를 제출할 수 없다. 다만, 시장조성계약이 종료되기 전 동일한 종목에 대하여 신규로 시장조성계약을 체결한 경우는 제외한다. <개정 2019. 11. 28.>
 
-⑤ 제2항에 따라 시장조성계약이 해지된 종목 또는 제31조의15제4항에 따라 시장조성종목으로 배분되지 않은 종목에 대하여 거래소가 별도로 정하는 바에 따라 거래소는 다른 시장조성자와 신규로 시장조성계약을 체결할 수 있다. 다만, 시장조성계약 해지의 효력발생일부터 종전 시장조성계약의 종료일까지 남은 기간이 2개월 미만인 경우에는 그러하지 아니하다.<개정 2017. 2. 28.>
+⑤ 제2항에 따라 시장조성계약이 해지된 종목 또는 제31조의15제4항에 따라 시장조성종목으로 배분되지 않은 종목에 대하여 거래소가 별도로 정하는 바에 따라 거래소는 다른 시장조성자와 신규로 시장조성계약을 체결할 수 있다. 다만, 시장조성계약 해지의 효력발생일부터 종전 시장조성계약의 종료일까지 남은 기간이 2개월 미만인 경우에는 그러하지 아니하다. <개정 2017. 2. 28.>
 
 [본조신설 2016. 3. 25.]
 
-**제31조의17(시장조성호가의 유지의무)**①규정제20조의10에 따라 시장조성자는 다음 각 호의 요건을 모두 충족하는 방법으로 시장조성호가를 유지하여야 한다. 이 경우규정제24조에 따른 복수가격에 의한 개별경쟁매매의 방법으로 거래하는 시간 동안 제출된 호가의 경우 제31조의12제2항에도 불구하고 호가유지 의무를 이행하기 위해 제출한 것으로 본다.
+**제31조의17(시장조성호가의 유지의무)**① 규정 제20조의10에 따라 시장조성자는 다음 각 호의 요건을 모두 충족하는 방법으로 시장조성호가를 유지하여야 한다. 이 경우 규정 제24조에 따른 복수가격에 의한 개별경쟁매매의 방법으로 거래하는 시간 동안 제출된 호가의 경우 제31조의12제2항에도 불구하고 호가유지 의무를 이행하기 위해 제출한 것으로 본다.
 
 1. 매도호가 및 매수호가 양쪽에 호가를 유지할 것
 
@@ -1895,17 +2150,17 @@ attachments:
 
 3. 매도호가의 시장조성호가 합산금액 및 매수호가의 시장조성호가 합산금액이 각각 시장조성계약에서 정하는 최소호가유지금액 이상일 것
 
-②규정제20조의10제1항 단서에서 "세칙으로 정하는 경우"란 다음 각 호의 경우를 말한다.<개정 2019. 11. 28.>
+② 규정 제20조의10제1항 단서에서 "세칙으로 정하는 경우"란 다음 각 호의 경우를 말한다. <개정 2019. 11. 28.>
 
 1. 장개시 이후 3분 이내인 경우
 
-2.규정제23조에 따른 단일가격에 의한 개별경쟁매매의 방법으로 가격이 결정되는 때의 호가접수시간인 경우
+2. 규정 제23조에 따른 단일가격에 의한 개별경쟁매매의 방법으로 가격이 결정되는 때의 호가접수시간인 경우
 
 3. 해당 시장조성종목의 상한가에 매수호가만 있거나 하한가에 매도호가만 있는 경우
 
-4. 해당 시장조성종목에 대한 시장조성호가를 통한 일중 거래금액이 별표 2의2에 따른 평가대상기간의 일평균거래대금(정규시장의 매매거래시간 중규정제23조제1항제2호·제3호·제5호 및규정제24조에 따른 개별경쟁매매의 방법에 의한 거래대금에 한한다)의 100분의 50을 초과하는 때에는 그 시점부터 당일의 장종료시점까지의 경우
+4. 해당 시장조성종목에 대한 시장조성호가를 통한 일중 거래금액이 별표 2의2에 따른 평가대상기간의 일평균거래대금(정규시장의 매매거래시간 중 규정 제23조제1항제2호·제3호·제5호 및 규정 제24조에 따른 개별경쟁매매의 방법에 의한 거래대금에 한한다)의 100분의 50을 초과하는 때에는 그 시점부터 당일의 장종료시점까지의 경우
 
-5. 해당 시장조성종목이 「시장감시규정」제5조의2에 따른 투자주의종목, 같은규정제5조의3에 따른 투자경고종목 또는 투자위험종목으로 지정된 경우
+5. 해당 시장조성종목이 「시장감시규정」 제5조의2에 따른 투자주의종목, 같은 규정 제5조의3에 따른 투자경고종목 또는 투자위험종목으로 지정된 경우
 
 6. 해당 시장조성종목이 관리종목으로 지정된 경우
 
@@ -1913,11 +2168,11 @@ attachments:
 
 8. 그 밖에 시스템 장애 등 시장조성호가를 제출하는 것이 곤란하다고 거래소가 인정하는 경우
 
-③ 제1항에도 불구하고 시장상황급변 등의 사유로 거래소가 필요하다고 인정하는 경우에는 같은 항 제2호에 따른 의무스프레드를 확대하거나 같은 항 제3호에 따른 최소호가유지금액을 줄일 수 있다.<신설 2020. 3. 25.>
+③ 제1항에도 불구하고 시장상황급변 등의 사유로 거래소가 필요하다고 인정하는 경우에는 같은 항 제2호에 따른 의무스프레드를 확대하거나 같은 항 제3호에 따른 최소호가유지금액을 줄일 수 있다. <신설 2020. 3. 25.>
 
 [본조신설 2016. 3. 25.]
 
-**제31조의18(양방향 시장조성호가 유지의무의 예외)**규정제20조의10제2항에 따라 시장조성자는 다음 각 호에 해당하는 경우 해당 각 호에서 정하는 바에 따라 매수호가 또는 매도호가 어느 한 쪽의 시장조성호가를 유지하지 아니할 수 있다.<개정 2019. 11. 28.>
+**제31조의18(양방향 시장조성호가 유지의무의 예외)**규정 제20조의10제2항에 따라 시장조성자는 다음 각 호에 해당하는 경우 해당 각 호에서 정하는 바에 따라 매수호가 또는 매도호가 어느 한 쪽의 시장조성호가를 유지하지 아니할 수 있다. <개정 2019. 11. 28.>
 
 1. 다음 각 목의 어느 하나에 해당하는 매수호가의 경우
 
@@ -1929,7 +2184,7 @@ attachments:
 
 2. 다음 각 목의 어느 하나에 해당하는 매도호가의 경우
 
-가. 삭제<2019. 11. 28.>
+가. 삭제 <2019. 11. 28.>
 
 나. 시장조성자의 해당 시장조성종목에 대한 보유잔고가 최소호가수량에 미달하는 경우
 
@@ -1937,23 +2192,23 @@ attachments:
 
 [본조신설 2016. 3. 25.]
 
-**제31조의19(시장조성계좌의 잔고 관리)**①규정제20조의10제2항에 따라 시장조성자는 시장조성계약에서 정하는 시장조성개시일의 전일을 기준으로 시장조성계좌에 보유한 각 시장조성종목별 수량을 시장조성개시일에 별지 제2호의7 서식에 따라 거래소에 신고해야 한다. 다만, 최초로 시장조성계약을 체결한 종목의 경우에는 그러하지 아니하다.
+**제31조의19(시장조성계좌의 잔고 관리)**① 규정 제20조의10제2항에 따라 시장조성자는 시장조성계약에서 정하는 시장조성개시일의 전일을 기준으로 시장조성계좌에 보유한 각 시장조성종목별 수량을 시장조성개시일에 별지 제2호의7 서식에 따라 거래소에 신고해야 한다. 다만, 최초로 시장조성계약을 체결한 종목의 경우에는 그러하지 아니하다.
 
-② 시장조성자는 시장조성개시일부터 시장조성종목별로 시장조성계좌의 변동수량 및 보유수량을 별지 제2호의7 서식에 따라 다음 매매거래일 장개시시점까지 거래소에 신고하여야 한다.<개정 2019. 11. 28.>
+② 시장조성자는 시장조성개시일부터 시장조성종목별로 시장조성계좌의 변동수량 및 보유수량을 별지 제2호의7 서식에 따라 다음 매매거래일 장개시시점까지 거래소에 신고하여야 한다. <개정 2019. 11. 28.>
 
-③ 시장조성자는 제2항에 따른 신고내용의 정정이 필요한 경우 신고시한이 속하는 날의 12시까지 정정신고를 하여야 한다.<개정 2019. 11. 28.>
+③ 시장조성자는 제2항에 따른 신고내용의 정정이 필요한 경우 신고시한이 속하는 날의 12시까지 정정신고를 하여야 한다. <개정 2019. 11. 28.>
 
-④ 거래소는 시장조성자가 시장조성종목별로 제1항부터 제3항까지의 규정에 따라 신고한 수량을 해당 시장조성종목의 일별 보유잔고로 관리한다.<신설 2019. 11. 28.>
+④ 거래소는 시장조성자가 시장조성종목별로 제1항부터 제3항까지의 규정에 따라 신고한 수량을 해당 시장조성종목의 일별 보유잔고로 관리한다. <신설 2019. 11. 28.>
 
 [본조신설 2016. 3. 25.]
 
-**제31조의20(시장조성자에 대한 평가 등)**①규정제20조의11제2항에 따라 거래소는 시장조성자를 대상으로 각 시장조성종목별로 시장조성호가 유지의무의 이행 정도, 시장조성활동의 적극성 등에 대한 별표 2의4의 기준에 따른 평가(이하 "시장조성 실적평가"라 한다)를 분기단위로 할 수 있다. 다만, 해당 분기 중 시장조성의무일수가 5일 미만인 시장조성종목은 제외한다.
+**제31조의20(시장조성자에 대한 평가 등)**① 규정 제20조의11제2항에 따라 거래소는 시장조성자를 대상으로 각 시장조성종목별로 시장조성호가 유지의무의 이행 정도, 시장조성활동의 적극성 등에 대한 별표 2의4의 기준에 따른 평가(이하 "시장조성 실적평가"라 한다)를 분기단위로 할 수 있다. 다만, 해당 분기 중 시장조성의무일수가 5일 미만인 시장조성종목은 제외한다.
 
 ② 거래소는 시장조성 실적평가의 결과를 해당 시장조성자에게 통보할 수 있다.
 
 ③ 거래소는 시장조성 실적평가를 위하여 필요하다고 인정하는 자료를 시장조성자에게 요구할 수 있다. 이 경우 시장조성자는 지체 없이 이에 응하여야 한다.
 
-④ 제1항에도 불구하고 다음 각 호의 경우 시장조성 실적평가를 하지 아니할 수 있다.<신설 2018. 12. 6., 2022. 12. 22.>
+④ 제1항에도 불구하고 다음 각 호의 경우 시장조성 실적평가를 하지 아니할 수 있다. <신설 2018. 12. 6., 2022. 12. 22.>
 
 1. 시장조성자로 참여하기 위한 예비시험기간을 확보하기 위해 일정기간 시장조성 실적평가 제외가 필요한 경우로서 시장조성계약서에 그 기간을 명시한 경우
 
@@ -1961,21 +2216,21 @@ attachments:
 
 [본조신설 2016. 3. 25.]
 
-**제31조의21(시장조성자의 자격정지)**①규정제20조의11제2항에 따라 거래소는 시장조성 실적 평가의 결과가 별표 2의4에 따른 자격정지기준에 해당하는 경우 해당 시장조성자의 자격을 정지할 수 있다.
+**제31조의21(시장조성자의 자격정지)**① 규정 제20조의11제2항에 따라 거래소는 시장조성 실적 평가의 결과가 별표 2의4에 따른 자격정지기준에 해당하는 경우 해당 시장조성자의 자격을 정지할 수 있다.
 
 ② 거래소는 제1항에 따라 시장조성자의 자격이 정지된 자에 대하여는 그 자격이 정지된 날이 속한 월의 다음 월부터 1년 동안 시장조성자로 지정하지 아니한다.
 
 [본조신설 2016. 3. 25.]
 
-**제31조의22(시장조성자에 대한 대가지급)**① 거래소는규정제20조의11제2항에 따라 거래소는 시장조성자에게 시장조성계약기간 동안의 시장조성 실적평가를 반영하여 별표 2의4에서 정하는 바에 따른 대가(이하 "시장조성대가"라 한다)를 차등하여 지급할 수 있다. 다만, 거래소가 필요하다고 인정하는 경우에는 시장조성대가의 지급기준을 달리 정할 수 있다.<개정 2017. 9. 7.>
+**제31조의22(시장조성자에 대한 대가지급)**① 거래소는 규정 제20조의11제2항에 따라 거래소는 시장조성자에게 시장조성계약기간 동안의 시장조성 실적평가를 반영하여 별표 2의4에서 정하는 바에 따른 대가(이하 "시장조성대가"라 한다)를 차등하여 지급할 수 있다. 다만, 거래소가 필요하다고 인정하는 경우에는 시장조성대가의 지급기준을 달리 정할 수 있다. <개정 2017. 9. 7.>
 
-② 거래소는 시장조성 실적평가를 한 분기의 종료 후 별표 2의4에서 정하는 지급시기에 따라 시장조성대가를 지급한다.<개정 2017. 2. 28.>
+② 거래소는 시장조성 실적평가를 한 분기의 종료 후 별표 2의4에서 정하는 지급시기에 따라 시장조성대가를 지급한다. <개정 2017. 2. 28.>
 
 [본조신설 2016. 3. 25.]
 
-제3절 호가 및 매매수량단위
+ 제3절 호가 및 매매수량단위
 
-**제32조(호가단위)**①규정제21조에 따른 호가수량단위는 다음 각 호와 같다.<개정 2005. 8. 26., 2009. 2. 3., 2009. 7. 16., 2014. 9. 2., 2022. 12. 22.>
+**제32조(호가단위)**① 규정 제21조에 따른 호가수량단위는 다음 각 호와 같다. <개정 2005. 8. 26., 2009. 2. 3., 2009. 7. 16., 2014. 9. 2., 2022. 12. 22.>
 
 1. 주권 : 1주
 
@@ -1993,7 +2248,7 @@ attachments:
 
 6. 수익증권 : 1좌
 
-②규정제21조에 따른 호가가격단위는 다음 각 호와 같다.<개정 2005. 5. 13., 2009. 2. 3., 2009. 7. 16., 2010. 7. 29., 2014. 9. 2., 2022. 12. 22., 2023. 10. 17.>
+② 규정 제21조에 따른 호가가격단위는 다음 각 호와 같다. <개정 2005. 5. 13., 2009. 2. 3., 2009. 7. 16., 2010. 7. 29., 2014. 9. 2., 2022. 12. 22., 2023. 10. 17.>
 
 1. 주권, 외국주식예탁증권, 신주인수권증서, 신주인수권증권, 수익증권의 경우 : 다음 각 목의 구분에 따른 가격
 
@@ -2019,15 +2274,15 @@ attachments:
 
 3. 주식워런트증권의 경우 : 5원
 
-4. 삭제<2023. 10. 17.>
+4. 삭제 <2023. 10. 17.>
 
-5. 삭제<2023. 10. 17.>
+5. 삭제 <2023. 10. 17.>
 
-6. 삭제<2023. 10. 17.>
+6. 삭제 <2023. 10. 17.>
 
-7. 삭제<2023. 10. 17.>
+7. 삭제 <2023. 10. 17.>
 
-**제33조(매매수량단위)**①규정제21조에 따른 매매수량단위는 다음 각호와 같다.<개정 2005. 8. 26., 2005. 12. 1., 2006. 2. 8., 2006. 5. 29., 2009. 2. 3., 2009. 7. 16., 2009. 8. 3., 2013. 12. 5., 2014. 2. 28., 2014. 9. 2.>
+**제33조(매매수량단위)**① 규정 제21조에 따른 매매수량단위는 다음 각호와 같다. <개정 2005. 8. 26., 2005. 12. 1., 2006. 2. 8., 2006. 5. 29., 2009. 2. 3., 2009. 7. 16., 2009. 8. 3., 2013. 12. 5., 2014. 2. 28., 2014. 9. 2.>
 
 1. 주권 : 1주
 
@@ -2045,23 +2300,23 @@ attachments:
 
 6. 수익증권 : 1좌
 
-② 삭제<2006. 2. 8.>
+② 삭제 <2006. 2. 8.>
 
-③ 제1항 각 호에 불구하고 호가폭주로 전산장애가 발생할 우려가 있거나 거래소가 시장관리상 필요하다고 인정하는 경우에는 거래소가 정하는 날부터 매매수량단위를 조정할 수 있다.<개정 2007. 7. 25., 2008. 1. 30., 2009. 2. 3., 2014. 2. 28.>
+③ 제1항 각 호에 불구하고 호가폭주로 전산장애가 발생할 우려가 있거나 거래소가 시장관리상 필요하다고 인정하는 경우에는 거래소가 정하는 날부터 매매수량단위를 조정할 수 있다. <개정 2007. 7. 25., 2008. 1. 30., 2009. 2. 3., 2014. 2. 28.>
 
-1. 삭제<2014. 2. 28.>
+1. 삭제 <2014. 2. 28.>
 
-2. 삭제<2014. 2. 28.>
+2. 삭제 <2014. 2. 28.>
 
-3. 삭제<2014. 2. 28.>
+3. 삭제 <2014. 2. 28.>
 
-④ 삭제<2014. 2. 28.>
+④ 삭제 <2014. 2. 28.>
 
-⑤ 제3항에 따라 매매수량단위를 조정하는 경우에는 그 사실을 예고하여야 한다.<신설 2008. 1. 30., 2009. 2. 3., 2014. 2. 28.>
+⑤ 제3항에 따라 매매수량단위를 조정하는 경우에는 그 사실을 예고하여야 한다. <신설 2008. 1. 30., 2009. 2. 3., 2014. 2. 28.>
 
-제4절 매매계약의 체결
+ 제4절 매매계약의 체결
 
-**제34조(동시호가의 우선순위)**①규정제22조제3항 각 호 외의 부분에 따라 동시호가의 우선순위는 수량이 많은 호가가 수량이 적은 호가(수량이 동일한 때에는 거래소시스템상의 기록순위로 한다)보다 다음 제1호의 수량에 달할 때까지 우선하는 것으로 한다. 이 경우 제1호의 수량을 초과하는 호가는 전단과 같은 방법으로 제2호부터 순차적으로 적용한다.<개정 2022. 12. 22.>
+**제34조(동시호가의 우선순위)**① 규정 제22조제3항 각 호 외의 부분에 따라 동시호가의 우선순위는 수량이 많은 호가가 수량이 적은 호가(수량이 동일한 때에는 거래소시스템상의 기록순위로 한다)보다 다음 제1호의 수량에 달할 때까지 우선하는 것으로 한다. 이 경우 제1호의 수량을 초과하는 호가는 전단과 같은 방법으로 제2호부터 순차적으로 적용한다. <개정 2022. 12. 22.>
 
 1. 매매수량단위의 100배
 
@@ -2069,86 +2324,86 @@ attachments:
 
 3. 잔량
 
-② 제1항에도 불구하고, 상장지수집합투자기기구 집합투자증권, 상장지수증권 및 주식워런트증권은 위탁매매호가가 자기매매호가에 우선한다. 이 경우 제1항의 적용에 있어 위탁매매호가간, 자기매매호가간에 우선순위를 적용한다.<개정 2022. 12. 22.>
+② 제1항에도 불구하고, 상장지수집합투자기기구 집합투자증권, 상장지수증권 및 주식워런트증권은 위탁매매호가가 자기매매호가에 우선한다. 이 경우 제1항의 적용에 있어 위탁매매호가간, 자기매매호가간에 우선순위를 적용한다. <개정 2022. 12. 22.>
 
-③ 제1항 및 제2항에 따른 동시호가의 우선순위는 다음 각호의 시점까지 적용한다.<개정 2009. 3. 19., 2023. 4. 12.>
+③ 제1항 및 제2항에 따른 동시호가의 우선순위는 다음 각호의 시점까지 적용한다. <개정 2009. 3. 19., 2023. 4. 12.>
 
-1.규정제22조제3항에 따른 상한가 매수호가 또는 하한가 매도호가의 경우 그 수량이 전량매매될 때까지
+1. 규정 제22조제3항에 따른 상한가 매수호가 또는 하한가 매도호가의 경우 그 수량이 전량매매될 때까지
 
-2.규정제22조제3항에 따른 시장가호가의 경우 상한가 또는 하한가외의 가격으로 간주되기 전까지
+2. 규정 제22조제3항에 따른 시장가호가의 경우 상한가 또는 하한가외의 가격으로 간주되기 전까지
 
-3.규정제22조제3항에 따른 시가기준가종목의 최고호가가격 또는 최저호가가격의 호가의 경우규정제37조제1항에 따른 최초의 가격결정시까지. 다만, 그 최초의 가격이 호가가격단위 중 가장 낮은 가격인 경우에는 최저호가가격 매도호가의 수량이 전량 매매될 때까지로 한다.
+3. 규정 제22조제3항에 따른 시가기준가종목의 최고호가가격 또는 최저호가가격의 호가의 경우 규정 제37조제1항에 따른 최초의 가격결정시까지. 다만, 그 최초의 가격이 호가가격단위 중 가장 낮은 가격인 경우에는 최저호가가격 매도호가의 수량이 전량 매매될 때까지로 한다.
 
-**제35조(단일가매매 참여호가의 범위 등<개정 2022. 12. 22.>)**①규정제23조제2항에 따라 단일가격에 의한 개별경쟁매매에 참여하는 호가의 범위는 다음 각 호에서 정하는 시간동안 접수된 호가 및 이후 30초 이내에서 거래소가 무작위로 정하는 시간동안 접수된 호가로 하며, 그 이전에 접수한 호가중 매매거래가 성립되지 아니한 호가가 있는 경우에는 이를 포함한다.<개정 2007. 7. 25., 2014. 6. 24., 2015. 5. 19., 2022. 12. 22.>
+**제35조(단일가매매 참여호가의 범위 등<개정 2022. 12. 22.>)**① 규정 제23조제2항에 따라 단일가격에 의한 개별경쟁매매에 참여하는 호가의 범위는 다음 각 호에서 정하는 시간동안 접수된 호가 및 이후 30초 이내에서 거래소가 무작위로 정하는 시간동안 접수된 호가로 하며, 그 이전에 접수한 호가중 매매거래가 성립되지 아니한 호가가 있는 경우에는 이를 포함한다. <개정 2007. 7. 25., 2014. 6. 24., 2015. 5. 19., 2022. 12. 22.>
 
-1.규정제23조제1항제1호에 따른 가격결정의 경우에는 제11조에 따른 정규시장의 호가접수시간의 개시시점부터 장개시시점까지로 한다. 다만,규정제26조의2제1항제2호를 적용받는 경우에는 장개시 시점부터 2분을 연장한 시점까지로 한다.
+1. 규정 제23조제1항제1호에 따른 가격결정의 경우에는 제11조에 따른 정규시장의 호가접수시간의 개시시점부터 장개시시점까지로 한다. 다만, 규정 제26조의2제1항제2호를 적용받는 경우에는 장개시 시점부터 2분을 연장한 시점까지로 한다.
 
-2.규정제23조제1항제2호 및 제3호에 따른 가격결정의 경우에는 시장 또는 매매거래의 재개시점부터 10분간으로 한다. 다만, 호가상황등을 감안하여 당해 시간을 연장할 필요가 있다고 인정되는 경우에는 거래소가 정하는 시간으로 할 수 있다.
+2. 규정 제23조제1항제2호 및 제3호에 따른 가격결정의 경우에는 시장 또는 매매거래의 재개시점부터 10분간으로 한다. 다만, 호가상황등을 감안하여 당해 시간을 연장할 필요가 있다고 인정되는 경우에는 거래소가 정하는 시간으로 할 수 있다.
 
-3.규정제23조제1항제4호에 따른 가격결정의 경우에는 장종료 10분전부터 장종료시까지로 하며, 제2호에 따른 시장 또는 매매거래의 재개시점이 장종료 20분전 이후인 경우에는 당해 재개시점부터 장종료시까지로 한다. 다만,규정제26조의2제1항을 적용받는 경우에는 장종료시점부터 2분을 연장한 시점까지로 한다.
+3. 규정 제23조제1항제4호에 따른 가격결정의 경우에는 장종료 10분전부터 장종료시까지로 하며, 제2호에 따른 시장 또는 매매거래의 재개시점이 장종료 20분전 이후인 경우에는 당해 재개시점부터 장종료시까지로 한다. 다만, 규정 제26조의2제1항을 적용받는 경우에는 장종료시점부터 2분을 연장한 시점까지로 한다.
 
-4.규정제23조제1항제5호에 따른 가격(그 가격이규정제23조제1항제1호 및 제4호에 해당하는 경우를 제외한다) 결정의 경우에는 매매계약체결방법이 변경된 시점부터 2분간으로 한다. 다만, 매매계약체결방법의 변경시점부터 2분이 경과하기 전에 제3호에 따른 장종료시의 가격을 결정하기 위한 단일가격에 의한 개별경쟁매매가 개시된 경우에는 장종료 10분전까지로 하되, 그 시간동안 접수된 호가는규정제23조제1항제4호에 따른 가격결정에 참여한 호가로 본다.
+4. 규정 제23조제1항제5호에 따른 가격(그 가격이 규정 제23조제1항제1호 및 제4호에 해당하는 경우를 제외한다) 결정의 경우에는 매매계약체결방법이 변경된 시점부터 2분간으로 한다. 다만, 매매계약체결방법의 변경시점부터 2분이 경과하기 전에 제3호에 따른 장종료시의 가격을 결정하기 위한 단일가격에 의한 개별경쟁매매가 개시된 경우에는 장종료 10분전까지로 하되, 그 시간동안 접수된 호가는 규정 제23조제1항제4호에 따른 가격결정에 참여한 호가로 본다.
 
-②규정제23조제1항 단서에 따라 같은 항 각 호(제4호를 제외한다)의 가격을 제1항에 따른 호가로 결정하지 못한 경우에는규정제24조에 따른 복수가격에 의한 개별경쟁매매로 전환하여 결정한다.<신설 2022. 12. 22.,개정 2025. 2. 27.>
+② 규정 제23조제1항 단서에 따라 같은 항 각 호(제4호를 제외한다)의 가격을 제1항에 따른 호가로 결정하지 못한 경우에는 규정 제24조에 따른 복수가격에 의한 개별경쟁매매로 전환하여 결정한다. <신설 2022. 12. 22.,개정 2025. 2. 27.>
 
-**제36조(단일가격 결정시 기준이 되는 가격)**규정제23조제5항 각 호 외의 부분 단서에서 "세칙으로 정하는 가격"이란 다음 각 호의 구분에 따른 가격을 말한다.<개정 2005. 8. 26., 2011. 1. 27., 2014. 9. 2., 2014. 12. 10., 2020. 11. 26., 2023. 4. 12.,2025. 2. 27.>
+**제36조(단일가격 결정시 기준이 되는 가격)**규정 제23조제5항 각 호 외의 부분 단서에서 "세칙으로 정하는 가격"이란 다음 각 호의 구분에 따른 가격을 말한다. <개정 2005. 8. 26., 2011. 1. 27., 2014. 9. 2., 2014. 12. 10., 2020. 11. 26., 2023. 4. 12.,2025. 2. 27.>
 
 1. 시가기준가종목의 최초의 가격을 결정하는 경우에는 제30조제1항제3호 및 별표 1에서 정하는 평가가격과 동일한 가격이 있는 때에는 그 가격, 평가가격과 동일한 가격이 없는 때에는 평가가격에 가장 가까운 가격
 
 2. 제30조제1항제2호, 제4호부터 제6호까지 및 제4항에 해당하는 종목의 최초의 가격을 결정하는 경우에는 기준가격과 동일한 가격이 있는 때에는 그 가격, 기준가격과 동일한 가격이 없는 때에는 기준가격에 가장 가까운 가격
 
-3. 신주인수권증서, 신주인수권증권 및 주식워런트증권으로서 신규상장된 종목의 최초의 가격을 결정하는 경우에는 가장 높은 가격과 가장 낮은 가격을 단순산술평균한 가격. 이 경우 그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다.<개정 2025. 2. 27.>
+3. 신주인수권증서, 신주인수권증권 및 주식워런트증권으로서 신규상장된 종목의 최초의 가격을 결정하는 경우에는 가장 높은 가격과 가장 낮은 가격을 단순산술평균한 가격. 이 경우 그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다. <개정 2025. 2. 27.>
 
-**제37조(기세결정시 참여가 제한되는 호가의 범위)**규정제23조제7항에 따라 제35조제1항 각 호의 호가접수시간 중에 매매거래가 중단 또는 정지되어 당일중 매매거래가 재개되지 아니한 경우 당일중 접수된 호가는 기세결정에 참여할 수 없다.<개정 2022. 12. 22.>
+**제37조(기세결정시 참여가 제한되는 호가의 범위)**규정 제23조제7항에 따라 제35조제1항 각 호의 호가접수시간 중에 매매거래가 중단 또는 정지되어 당일중 매매거래가 재개되지 아니한 경우 당일중 접수된 호가는 기세결정에 참여할 수 없다. <개정 2022. 12. 22.>
 
 [전문개정 2009. 3. 19.]
 
-**제38조**삭제<2015. 5. 19.>
+**제38조**삭제 <2015. 5. 19.>
 
-**제39조(주식시장 등의 매매거래중단 등)**①규정제25조제1항 각 호 외의 부분 단서에서 "세칙으로 정하는 경우"란 다음 각 호의 어느 하나에 해당하는 경우를 말하며, 이 경우 주식시장 등의 매매거래를 중단하지 아니한다.<신설 2015. 5. 19.>
+**제39조(주식시장 등의 매매거래중단 등)**① 규정 제25조제1항 각 호 외의 부분 단서에서 "세칙으로 정하는 경우"란 다음 각 호의 어느 하나에 해당하는 경우를 말하며, 이 경우 주식시장 등의 매매거래를 중단하지 아니한다. <신설 2015. 5. 19.>
 
-1.규정제25조제1항제2호를 적용함에 있어 같은 항 제1호에 따른 매매거래중단 시점의 코스피 수치보다 1% 이상 하락하지 아니하거나, 1% 이상 하락하였으나 1분간 지속되지 아니한 경우
+1. 규정 제25조제1항제2호를 적용함에 있어 같은 항 제1호에 따른 매매거래중단 시점의 코스피 수치보다 1% 이상 하락하지 아니하거나, 1% 이상 하락하였으나 1분간 지속되지 아니한 경우
 
-2.규정제25조제1항제3호를 적용함에 있어 같은 항 제2호에 따른 매매거래중단 시점의 코스피 수치보다 1% 이상 하락하지 아니하거나, 1% 이상 하락하였으나 1분간 지속되지 아니한 경우
+2. 규정 제25조제1항제3호를 적용함에 있어 같은 항 제2호에 따른 매매거래중단 시점의 코스피 수치보다 1% 이상 하락하지 아니하거나, 1% 이상 하락하였으나 1분간 지속되지 아니한 경우
 
-②규정제25조제1항제1호 및 제2호에 따른 매매거래중단은 당일 중 최초로 그 중단요건에 해당하는 경우에만 적용하며, 장종료 40분전 이후에는 중단하지 아니한다. 다만,규정제25조제1항제3호에 따른 매매거래중단 및 종결은 장종료 40분전 이후에도 이를 적용한다.<개정 2015. 5. 19.>
+② 규정 제25조제1항제1호 및 제2호에 따른 매매거래중단은 당일 중 최초로 그 중단요건에 해당하는 경우에만 적용하며, 장종료 40분전 이후에는 중단하지 아니한다. 다만, 규정 제25조제1항제3호에 따른 매매거래중단 및 종결은 장종료 40분전 이후에도 이를 적용한다. <개정 2015. 5. 19.>
 
 ③ 매매거래의 재개전에 전산장애가 발생하여 매매거래를 재개할 수 없는 경우에는 전산장애가 복구된 시점에 매매거래를 재개한다.
 
-④규정제25조제1항제1호의 1분간 지속여부는 장개시후 1분이 경과한 때부터 시작하여 계산한다.<신설 2020. 11. 26.>
+④ 규정 제25조제1항제1호의 1분간 지속여부는 장개시후 1분이 경과한 때부터 시작하여 계산한다. <신설 2020. 11. 26.>
 
-**제40조(종목별 매매거래정지후 매매거래 재개등)**① 삭제<2014. 2. 28.>
+**제40조(종목별 매매거래정지후 매매거래 재개등)**① 삭제 <2014. 2. 28.>
 
-②규정제26조제1항에 따라 매매거래를 정지한 후 매매거래를 재개하는 시기는 다음 각 호와 같다.<개정 2005. 8. 26., 2009. 2. 3., 2010. 12. 6., 2012. 10. 22., 2015. 12. 10., 2016. 11. 23., 2020. 7. 23.>
+② 규정 제26조제1항에 따라 매매거래를 정지한 후 매매거래를 재개하는 시기는 다음 각 호와 같다. <개정 2005. 8. 26., 2009. 2. 3., 2010. 12. 6., 2012. 10. 22., 2015. 12. 10., 2016. 11. 23., 2020. 7. 23.>
 
-1. 삭제<2015. 12. 10.>
+1. 삭제 <2015. 12. 10.>
 
-2.규정제26조제1항제2호에 따라 정지된 경우
-호가상황 및 매매거래상황을 감안하여 매매거래의 재개시기를 정한다.
+2. 규정 제26조제1항제2호에 따라 정지된 경우
+ 호가상황 및 매매거래상황을 감안하여 매매거래의 재개시기를 정한다.
 
-2의2. 삭제<2020. 7. 23.>
+2의2. 삭제 <2020. 7. 23.>
 
-2의3.규정제26조제1항제2호의3에 따라 정지된 경우
-그 다음 매매거래일. 다만, 시장상황 등을 감안하여 거래소가 투자자 보호를 위하여 필요하다고 인정하는 경우에는 매매거래의 재개시기를 달리 정할 수 있다.
+2의3. 규정 제26조제1항제2호의3에 따라 정지된 경우
+ 그 다음 매매거래일. 다만, 시장상황 등을 감안하여 거래소가 투자자 보호를 위하여 필요하다고 인정하는 경우에는 매매거래의 재개시기를 달리 정할 수 있다.
 
-3.규정제26조제1항제3호에 따라 정지된 경우
-시장상황 및 매매거래상황을 감안하여 매매거래의 재개시기를 정한다.
+3. 규정 제26조제1항제3호에 따라 정지된 경우
+ 시장상황 및 매매거래상황을 감안하여 매매거래의 재개시기를 정한다.
 
-③ 삭제<2010. 12. 6.>
+③ 삭제 <2010. 12. 6.>
 
-④규정제26조제3항에 따라 신주인수권증서, 신주인수권증권, 주식워런트증권, 「유가증권시장 상장규정」제113조제2항제4호다목(5)에 따른 단일종목상장지수펀드증권 및 같은규정제149조의3제2항제2호다목에 따른 단일종목상장지수증권의 매매거래를 정지한 후 매매거래를 재개하는 방법은 제2항 및 제42조에 따른 매매거래재개방법을 준용한다.<신설 2005. 8. 26., 2009. 2. 3., 2010. 12. 6.,개정 2026. 4. 27.>
+④ 규정 제26조제3항에 따라 신주인수권증서, 신주인수권증권, 주식워런트증권, 「유가증권시장 상장규정」제113조제2항제4호다목(5)에 따른 단일종목상장지수펀드증권 및 같은 규정 제149조의3제2항제2호다목에 따른 단일종목상장지수증권의 매매거래를 정지한 후 매매거래를 재개하는 방법은 제2항 및 제42조에 따른 매매거래재개방법을 준용한다. <신설 2005. 8. 26., 2009. 2. 3., 2010. 12. 6.,개정 2026. 4. 27.>
 
-⑤규정제26조제1항제2호의3에서 "세칙으로 정하는 기준"이란 다음 각 호의 어느 하나에 해당하는 경우를 말한다.<신설 2020. 7. 23.>
+⑤ 규정 제26조제1항제2호의3에서 "세칙으로 정하는 기준"이란 다음 각 호의 어느 하나에 해당하는 경우를 말한다. <신설 2020. 7. 23.>
 
-1. 제134조의7제1항에 따른 지정단위기간이 종료하는 날의 장종료시 실시간으로 산출한 상장지수집합투자기구 집합투자증권 또는 상장지수증권의 증권당 순자산가치 또는 지표가치와 해당 증권의 종가 사이의규정제20조의4제2항 또는 제3항의 산식에 따라 산출한 괴리율(이하 "장종료시 실시간 괴리율"이라 한다)이규정제20조의4제2항 또는 제3항에서 정한 비율의 3배 이상인 경우
+1. 제134조의7제1항에 따른 지정단위기간이 종료하는 날의 장종료시 실시간으로 산출한 상장지수집합투자기구 집합투자증권 또는 상장지수증권의 증권당 순자산가치 또는 지표가치와 해당 증권의 종가 사이의 규정 제20조의4제2항 또는 제3항의 산식에 따라 산출한 괴리율(이하 "장종료시 실시간 괴리율"이라 한다)이 규정 제20조의4제2항 또는 제3항에서 정한 비율의 3배 이상인 경우
 
 2. 그 밖에 시장상황급변 등으로 투자자보호 및 시장안정을 위하여 매매거래정지가 필요하다고 인정되는 경우
 
-**제41조(매매거래의 중단·정지 및 재개의 공표<개정 2014. 2. 28.>)**①규정제25조및제26조의 규정에 의하여 매매거래를 중단·정지 또는 재개한 경우에는 즉시 그 사실을 공표한다.
+**제41조(매매거래의 중단·정지 및 재개의 공표<개정 2014. 2. 28.>)**① 규정 제25조 및 제26조의 규정에 의하여 매매거래를 중단·정지 또는 재개한 경우에는 즉시 그 사실을 공표한다.
 
-② 삭제<2014. 2. 28.>
+② 삭제 <2014. 2. 28.>
 
-**제41조의2(종목별 매매계약체결방법 등의 변경)**①규정제26조의2제1항제1호에서 "세칙에서 정한 비율"이란 다음 각 호와 같다. 다만, 제1호부터 제3호까지를 적용함에 있어 장종료시의 가격을 결정하기 위한 호가접수시간의 경우에는 "3%" 및 "6%"를 각각 "2%" 및 "4%"로 하여 적용하며,「파생상품시장 업무규정」제3조제2항제1호에 따른 주식상품시장의 선물거래종목 또는 옵션거래종목의 최종거래일에 기초자산(주가지수인 경우 해당 주가지수의 구성종목을 말한다. 이하 이 조에서 같다)의 장종료시의 가격을 결정하기 위한 호가접수시간의 경우 해당 기초자산은 "2%" 및 "4%"를 각각 "1%"로 하여 적용한다.<개정 2014. 9. 2., 2015. 5. 19., 2017. 9. 7., 2019. 7. 11., 2022. 10. 13.>
+**제41조의2(종목별 매매계약체결방법 등의 변경)**① 규정 제26조의2제1항제1호에서 "세칙에서 정한 비율"이란 다음 각 호와 같다. 다만, 제1호부터 제3호까지를 적용함에 있어 장종료시의 가격을 결정하기 위한 호가접수시간의 경우에는 "3%" 및 "6%"를 각각 "2%" 및 "4%"로 하여 적용하며,「파생상품시장 업무규정」제3조제2항제1호에 따른 주식상품시장의 선물거래종목 또는 옵션거래종목의 최종거래일에 기초자산(주가지수인 경우 해당 주가지수의 구성종목을 말한다. 이하 이 조에서 같다)의 장종료시의 가격을 결정하기 위한 호가접수시간의 경우 해당 기초자산은 "2%" 및 "4%"를 각각 "1%"로 하여 적용한다. <개정 2014. 9. 2., 2015. 5. 19., 2017. 9. 7., 2019. 7. 11., 2022. 10. 13.>
 
 1. 주권
 
@@ -2158,25 +2413,25 @@ attachments:
 
 2. 상장지수집합투자기구 집합투자증권 및 상장지수증권
 
-가. 코스피200, 코스피100(코스피200 구성종목 중 시가총액이 큰 종목부터 100종목에 대하여 기준일인 2000년 1월 4일의 지수를 1천포인트로 하여 거래소가 산출하는 시가총액방식의 주가지수를 말한다. 이하 같다), 코스피50(코스피200 구성종목 중 시가총액이 큰 종목부터 50종목에 대하여 기준일인 2000년 1월 4일의 지수를 1천포인트로 하여 거래소가 산출하는 시가총액방식의 주가지수를 말한다. 이하 같다), KRX100(유가증권시장 및 코스닥시장에 상장된 주권 중 100종목에 대하여 기준일인 2001년 1월 2일의 지수를 1천포인트로 하여 거래소가 산출하는 시가총액방식의 주가지수를 말한다. 이하 같다), 채무증권으로만 이루어진 지수(이와 유사하다고 거래소가 판단하는 지수를 포함한다) 및 「금융투자업규정」제4-52조제1항에 따른 증권 및 해당 증권을 기초자산으로 하는 파생상품의 가격의 변화를 1배 이하로 연동(음의 방향으로 연동하는 경우를 포함한다)하는 경우 : 3%<개정 2026. 4. 27.>
+가. 코스피200, 코스피100(코스피200 구성종목 중 시가총액이 큰 종목부터 100종목에 대하여 기준일인 2000년 1월 4일의 지수를 1천포인트로 하여 거래소가 산출하는 시가총액방식의 주가지수를 말한다. 이하 같다), 코스피50(코스피200 구성종목 중 시가총액이 큰 종목부터 50종목에 대하여 기준일인 2000년 1월 4일의 지수를 1천포인트로 하여 거래소가 산출하는 시가총액방식의 주가지수를 말한다. 이하 같다), KRX100(유가증권시장 및 코스닥시장에 상장된 주권 중 100종목에 대하여 기준일인 2001년 1월 2일의 지수를 1천포인트로 하여 거래소가 산출하는 시가총액방식의 주가지수를 말한다. 이하 같다), 채무증권으로만 이루어진 지수(이와 유사하다고 거래소가 판단하는 지수를 포함한다) 및 「금융투자업규정」제4-52조제1항에 따른 증권 및 해당 증권을 기초자산으로 하는 파생상품의 가격의 변화를 1배 이하로 연동(음의 방향으로 연동하는 경우를 포함한다)하는 경우 : 3% <개정 2026. 4. 27.>
 
 나. 그 밖의 가격 또는 지수를 연동하는 경우 : 6%
 
 3. 외국주식예탁증권 및 수익증권 : 6%
 
-②규정제26조의2제1항제2호에서 "세칙에서 정한 비율"이란 주권, 상장지수집합투자기구 집합투자증권, 상장지수증권, 외국주식예탁증권 및 수익증권에 대하여 각각 10%를 말한다.<신설 2015. 5. 19.>
+② 규정 제26조의2제1항제2호에서 "세칙에서 정한 비율"이란 주권, 상장지수집합투자기구 집합투자증권, 상장지수증권, 외국주식예탁증권 및 수익증권에 대하여 각각 10%를 말한다. <신설 2015. 5. 19.>
 
-③규정제26조의2제1항에 따른 매매계약체결방법 등의 변경은 제35조제1항제4호의 시간동안 다음 각 호의 어느 하나에 해당하는 조치를 하는 것을 말한다.<개정 2022. 12. 22.>
+③ 규정 제26조의2제1항에 따른 매매계약체결방법 등의 변경은 제35조제1항제4호의 시간동안 다음 각 호의 어느 하나에 해당하는 조치를 하는 것을 말한다. <개정 2022. 12. 22.>
 
 1. 복수가격에 의한 개별경쟁매매의 경우 : 단일가격에 의한 개별경쟁매매로의 전환
 
 2. 단일가격에 의한 개별경쟁매매의 경우 : 참여호가의 범위 연장
 
-④규정제26조의2제1항에 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 매매계약체결방법 등의 변경을 하지 아니한다.<개정 2015. 5. 19., 2016. 3. 25., 2017. 2. 28., 2018. 9. 13., 2019. 7. 11., 2020. 7. 23., 2020. 9. 22., 2020. 11. 26., 2021. 9. 29., 2022. 12. 22.>
+④ 규정 제26조의2제1항에 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 매매계약체결방법 등의 변경을 하지 아니한다. <개정 2015. 5. 19., 2016. 3. 25., 2017. 2. 28., 2018. 9. 13., 2019. 7. 11., 2020. 7. 23., 2020. 9. 22., 2020. 11. 26., 2021. 9. 29., 2022. 12. 22.>
 
 1. 정리매매종목
 
-2. 단기과열종목<개정 2025. 2. 27.>
+2. 단기과열종목 <개정 2025. 2. 27.>
 
 2의2. 이상급등 단일가매매종목
 
@@ -2186,9 +2441,9 @@ attachments:
 
 2의5. 신규상장종목(주권 또는 주식예탁증권의 상장일 당일에 한하며, 코스닥시장 상장법인이 유가증권시장에 신규상장하는 종목의 경우는 제외한다)
 
-3. 매매거래가 중단 또는 정지된 후 당일 장종료전 재개시규정제23조제1항제2호 및 제3호의 가격을 결정하기 위해 단일가격에 의한 개별경쟁매매를 실시하는 경우. 다만, 제56조의3제2항에 따라 매매계약체결방법을규정제23조에 따른 단일가격에 의한 개별경쟁매매로 변경한 경우에는 그러하지 아니하다.
+3. 매매거래가 중단 또는 정지된 후 당일 장종료전 재개시 규정 제23조제1항제2호 및 제3호의 가격을 결정하기 위해 단일가격에 의한 개별경쟁매매를 실시하는 경우. 다만, 제56조의3제2항에 따라 매매계약체결방법을 규정 제23조에 따른 단일가격에 의한 개별경쟁매매로 변경한 경우에는 그러하지 아니하다.
 
-4. 제1항 각 호의 어느 하나 또는 제2항에 해당하여 매매계약체결방법 등의 변경을 하는 경우에규정제23조제1항제5호에 따라 결정되는 최초의 가격이 다시 제1항 각 호의 어느 하나 또는 제2항에 해당하는 경우
+4. 제1항 각 호의 어느 하나 또는 제2항에 해당하여 매매계약체결방법 등의 변경을 하는 경우에 규정 제23조제1항제5호에 따라 결정되는 최초의 가격이 다시 제1항 각 호의 어느 하나 또는 제2항에 해당하는 경우
 
 5. 삭제
 
@@ -2196,69 +2451,69 @@ attachments:
 
 7. 그 밖에 시장상황 등을 고려하여 거래소가 필요하다고 인정하는 경우
 
-⑤규정제26조의2제3항에 따라 거래소는 호가 및 시장상황 등을 고려하여 제1항 및 제2항의 비율기준을 적용하는 것이 현저하게 곤란하다고 인정되는 경우에는 제1항 및 제2항의 비율기준을 달리 정할 수 있다.<개정 2015. 5. 19.>
+⑤ 규정 제26조의2제3항에 따라 거래소는 호가 및 시장상황 등을 고려하여 제1항 및 제2항의 비율기준을 적용하는 것이 현저하게 곤란하다고 인정되는 경우에는 제1항 및 제2항의 비율기준을 달리 정할 수 있다. <개정 2015. 5. 19.>
 
-⑥규정제26조의2제1항에 따른 종목별 매매계약체결방법의 변경은 제13조의2에 따른 자전거래방지조건을 적용한 이후에 적용한다.<신설 2022. 12. 22.>
+⑥ 규정 제26조의2제1항에 따른 종목별 매매계약체결방법의 변경은 제13조의2에 따른 자전거래방지조건을 적용한 이후에 적용한다. <신설 2022. 12. 22.>
 
 [본조신설 2014. 6. 24.]
 
-**제41조의3(종목별 매매계약체결방법 등의 변경사실의 공표)**① 거래소는규정제26조의2제1항 및 제3항에 따라 매매계약체결방법 등의 변경을 한 경우에는 즉시 그 사실을 공표한다.<개정 2015. 5. 19.>
+**제41조의3(종목별 매매계약체결방법 등의 변경사실의 공표)**① 거래소는 규정 제26조의2제1항 및 제3항에 따라 매매계약체결방법 등의 변경을 한 경우에는 즉시 그 사실을 공표한다. <개정 2015. 5. 19.>
 
 ② 거래소는 제1항에 따라 공표를 함에 있어 종목명, 변경·해제시점 및 매매계약체결방법 등의 변경내용을 포함하여야 한다.
 
 [본조신설 2014. 6. 24.]
 
-**제42조(전산장애시의 매매계약체결방법)**①규정제27조에 따라 거래소는 전산장애가 발생한 사실이 확인되고 전산장애가 계속될 것으로 예상되는 경우에는 다음 각 호의 어느 하나에 해당하는 조치를 할 수 있다.<개정 2014. 2. 28.,2026. 1. 15.>
+**제42조(전산장애시의 매매계약체결방법)**① 규정 제27조에 따라 거래소는 전산장애가 발생한 사실이 확인되고 전산장애가 계속될 것으로 예상되는 경우에는 다음 각 호의 어느 하나에 해당하는 조치를 할 수 있다. <개정 2014. 2. 28.,2026. 1. 15.>
 
-1. 전산장애를 초래한 호가의 취소<신설 2026. 1. 15.>
+1. 전산장애를 초래한 호가의 취소 <신설 2026. 1. 15.>
 
-2. 호가접수의 정지(신규호가, 정정호가 및 취소호가의 접수를 정지하는 것을 말한다. 이하 같다) 또는 매매거래의 중단. 이 경우 호가 내용의 복구가 불가능하거나 전산장애의 조속한 복구를 위하여 필요한 경우 등에는 호가접수의 정지 또는 매매거래의 중단시까지 체결되지 않은 호가를 취소할 수 있다.<신설 2026. 1. 15.>
+2. 호가접수의 정지(신규호가, 정정호가 및 취소호가의 접수를 정지하는 것을 말한다. 이하 같다) 또는 매매거래의 중단. 이 경우 호가 내용의 복구가 불가능하거나 전산장애의 조속한 복구를 위하여 필요한 경우 등에는 호가접수의 정지 또는 매매거래의 중단시까지 체결되지 않은 호가를 취소할 수 있다. <신설 2026. 1. 15.>
 
-② 제1항제2호에 따른 호가접수의 정지 또는 매매거래의 중단 이후 전산장애를 복구한 경우에는 거래소가 정하는 때부터 호가접수 또는 매매거래를 재개한다. 이 경우 천재지변 그 밖에 이에 준하는 불가피한 사유로 인하여 호가·매매계약체결내용 등의 복구가 불가능한 경우에는 이를 제외하고 복구할 수 있다.<신설 2014. 2. 28.,개정 2026. 1. 15.>
+② 제1항제2호에 따른 호가접수의 정지 또는 매매거래의 중단 이후 전산장애를 복구한 경우에는 거래소가 정하는 때부터 호가접수 또는 매매거래를 재개한다. 이 경우 천재지변 그 밖에 이에 준하는 불가피한 사유로 인하여 호가·매매계약체결내용 등의 복구가 불가능한 경우에는 이를 제외하고 복구할 수 있다. <신설 2014. 2. 28.,개정 2026. 1. 15.>
 
 ③ 회원시스템의 장애가 장시간 계속되어 장종료후 일정시간까지 복구되지 아니할 것으로 예상되거나 장애가 장종료 30분전 이후에 발생하여 장종료시까지 복구가 불가능하다고 인정되는 경우에는 장애발생시점에서 당일의 매매거래를 종결할 수 있다.
 
 ④ 거래소시스템의 장애가 장시간 복구되지 아니한 때에는 예비시스템을 이용하여 호가접수 또는 매매거래를 재개할 수 있다. 다만, 예비시스템의 장애등으로 예비시스템을 이용하여 매매계약을 체결하는 것이 곤란하다고 인정되는 경우에는 장애발생시점에서 당일의 매매거래를 종결할 수 있다.
 
-⑤ 제2항 전단 및 제4항 전단의 규정에 의하여 매매거래를 재개하는 경우의 최초의 가격의 결정은규정제23조의 규정에 의한 단일가격에 의한 개별경쟁매매방법에 의한다. 이 경우 당해 가격을 결정하기 위하여 참여하는 호가의 범위는 거래소가 그 때마다 정하는 바에 의한다.<개정 2014. 2. 28.>
+⑤ 제2항 전단 및 제4항 전단의 규정에 의하여 매매거래를 재개하는 경우의 최초의 가격의 결정은 규정 제23조의 규정에 의한 단일가격에 의한 개별경쟁매매방법에 의한다. 이 경우 당해 가격을 결정하기 위하여 참여하는 호가의 범위는 거래소가 그 때마다 정하는 바에 의한다. <개정 2014. 2. 28.>
 
-⑥ 제1항부터 제5항까지의규정외의 전산장애시 매매계약체결방법은 거래소가 그 때마다 정하는 바에 의한다.<개정 2014. 2. 28.>
+⑥ 제1항부터 제5항까지의 규정 외의 전산장애시 매매계약체결방법은 거래소가 그 때마다 정하는 바에 의한다. <개정 2014. 2. 28.>
 
-**제43조(호가폭주종목의 매매계약체결방법)**① 삭제<2014. 2. 28.>
+**제43조(호가폭주종목의 매매계약체결방법)**① 삭제 <2014. 2. 28.>
 
-② 삭제<2014. 2. 28.>
+② 삭제 <2014. 2. 28.>
 
-③규정제27조에 따라 거래소는 호가폭주로 전산장애가 발생할 우려가 있는 경우에는 다음 각 호의 어느 하나에 해당하는 조치를 할 수 있다.<개정 2014. 2. 28.,2026. 1. 15.>
+③ 규정 제27조에 따라 거래소는 호가폭주로 전산장애가 발생할 우려가 있는 경우에는 다음 각 호의 어느 하나에 해당하는 조치를 할 수 있다. <개정 2014. 2. 28.,2026. 1. 15.>
 
-1. 호가접수의 정지 또는 매매거래의 중단. 이 경우 호가 내용의 복구가 불가능하거나 복구시 전산장애 발생의 우려가 있는 경우 등에는 호가접수의 정지 또는 매매거래의 중단시까지 체결되지 않은 호가를 취소할 수 있다.<신설 2026. 1. 15.>
+1. 호가접수의 정지 또는 매매거래의 중단. 이 경우 호가 내용의 복구가 불가능하거나 복구시 전산장애 발생의 우려가 있는 경우 등에는 호가접수의 정지 또는 매매거래의 중단시까지 체결되지 않은 호가를 취소할 수 있다. <신설 2026. 1. 15.>
 
-2. 당일 매매거래의 종결<신설 2026. 1. 15.>
+2. 당일 매매거래의 종결 <신설 2026. 1. 15.>
 
-④ 제3항제1호에 따른 호가접수의 정지 또는 매매거래의 중단 이후 호가폭주로 인한 전산장애 발생의 우려가 소멸하였다고 거래소가 판단하는 경우에는 거래소가 정하는 때부터 호가접수 또는 매매거래를 재개한다.<2014. 2. 28.,개정 2026. 1. 15.>
+④ 제3항제1호에 따른 호가접수의 정지 또는 매매거래의 중단 이후 호가폭주로 인한 전산장애 발생의 우려가 소멸하였다고 거래소가 판단하는 경우에는 거래소가 정하는 때부터 호가접수 또는 매매거래를 재개한다. <2014. 2. 28.,개정 2026. 1. 15.>
 
-⑤ 제4항에 따라 매매거래를 재개하는 경우의 최초의 가격 결정에 관하여는 제42조제5항을 준용한다.<2014. 2. 28.,개정 2026. 1. 15.>
+⑤ 제4항에 따라 매매거래를 재개하는 경우의 최초의 가격 결정에 관하여는 제42조제5항을 준용한다. <2014. 2. 28.,개정 2026. 1. 15.>
 
 ⑥ 단일가격에 의한 개별경쟁매매를 위한 호가접수시간중에 호가폭주로 인하여 매매거래를 종결하는 때에는 호가상황등을 감안하여 당해 종결시점까지 접수된 호가로써 매매계약을 체결할 수 있다.
 
-⑦ 제42조제6항의 규정은 호가폭주종목의 매매계약체결방법에 이를 준용한다.<개정 2014. 2. 28.>
+⑦ 제42조제6항의 규정은 호가폭주종목의 매매계약체결방법에 이를 준용한다. <개정 2014. 2. 28.>
 
-**제44조(착오매매의 정정범위)**규정제28조에 따른 착오매매는 거래소착오매매와 회원착오로 구분하고, 그 정정범위는 다음 각 호와 같이 한다.<개정 2022. 12. 22.>
+**제44조(착오매매의 정정범위)**규정 제28조에 따른 착오매매는 거래소착오매매와 회원착오로 구분하고, 그 정정범위는 다음 각 호와 같이 한다. <개정 2022. 12. 22.>
 
 1. 거래소착오매매 : 매매계약체결과정에서 거래소시스템의 장애 또는 프로그램운영상의 장애로 인하거나 매매계약체결내용을 입력하는 과정에서 매매계약체결내용이 호가내용에 맞지 아니한 매매계약체결
 
 2. 회원착오 : 거래소시스템에 접수된 호가로서 회원이 위탁자의 주문을 접수하여 처리하는 과정, 동주문을 회원시스템에 입력하는 과정 또는 호가를 거래소시스템에 입력하는 과정에서 주문내용에 맞지 아니한 매매계약체결. 이 경우 회원이 회원의 해외 계열회사 등으로부터 위탁자의 주문을 전달받는 과정에서 해당 계열회사 등의 착오가 있는 경우에는 이를 회원의 착오로 본다.
 
-**제45조(착오매매의 정정방법)**① 거래소는 매매계약체결내용을 다음 각호와 같이 정정한다.<개정 2016. 6. 21.>
+**제45조(착오매매의 정정방법)**① 거래소는 매매계약체결내용을 다음 각호와 같이 정정한다. <개정 2016. 6. 21.>
 
 1. 거래소착오매매의 경우
-착오매매가 발생한 경우 정정이 가능한 것은 원래의 호가내용에 맞도록 정정하고, 그 외의 경우에는 회원에게 상품으로 인수시킨 후 정정한다.
+ 착오매매가 발생한 경우 정정이 가능한 것은 원래의 호가내용에 맞도록 정정하고, 그 외의 경우에는 회원에게 상품으로 인수시킨 후 정정한다.
 
 2. 회원착오의 경우. 다만, 제47조의2에 따른 대규모착오매매의 경우에는 적용하지 아니한다.
-종목, 수량, 가격 및 매도·매수 등에 대한 착오매매의 경우 착오분을 당해 회원의 상품으로 인수하여 정정하고, 회원시스템의 프로그램운영상의 장애 등의 사유로 인한 위탁매매와 자기매매의 구분에 대한 착오매매의 경우 그 구분에 맞도록 정정한다.
+ 종목, 수량, 가격 및 매도·매수 등에 대한 착오매매의 경우 착오분을 당해 회원의 상품으로 인수하여 정정하고, 회원시스템의 프로그램운영상의 장애 등의 사유로 인한 위탁매매와 자기매매의 구분에 대한 착오매매의 경우 그 구분에 맞도록 정정한다.
 
-② 제1항에 따른 상품인수의 경우 투자매매업 인가를 받지 아니한 회원의 경우에는 해당 회원이 자기계산으로 다른 회원에게 매매거래를 위탁하여 매매하는 방법에 따른다.<개정 2009. 2. 3.>
+② 제1항에 따른 상품인수의 경우 투자매매업 인가를 받지 아니한 회원의 경우에는 해당 회원이 자기계산으로 다른 회원에게 매매거래를 위탁하여 매매하는 방법에 따른다. <개정 2009. 2. 3.>
 
-③ 회원착오의 경우 정정은 회원이 착오가 발생한 때부터 그 다음 매매거래일 장종료시까지 별지 제3호 서식에 의하여 신청하거나 당해 내용을 거래소가 별도로 정하는 전자전달매체를 이용하여 신청하는 경우에 한한다.<개정 2006. 7. 7., 2009. 8. 3., 2016. 6. 21., 2019. 11. 28.>
+③ 회원착오의 경우 정정은 회원이 착오가 발생한 때부터 그 다음 매매거래일 장종료시까지 별지 제3호 서식에 의하여 신청하거나 당해 내용을 거래소가 별도로 정하는 전자전달매체를 이용하여 신청하는 경우에 한한다. <개정 2006. 7. 7., 2009. 8. 3., 2016. 6. 21., 2019. 11. 28.>
 
 **제46조(착오매매처리약정)**거래소는 거래소착오매매를 정정함에 있어 거래소착오매매분을 회원의 상품으로 처리하기 위하여 회원과 별지 제4호 서식에 의하여 착오매매처리약정을 체결한다.
 
@@ -2268,9 +2523,9 @@ attachments:
 
 ③ 거래소는 착오매매처리약정에 따라 착오매매 정산청구서를 접수한 때에 지체없이 정산한다. 다만, 거래소착오매매분중 거래소시스템운용회사의 과실에 의한 착오매매분은 별도로 정산한다.
 
-**제47조의2(대규모착오매매의 구제요건)**규정제28조의2제1항 본문에서 "세칙으로 정하는 요건을 충족하는 거래"란 계좌별로 다음 각 호의 요건을 모두 충족하는 매매거래(이하 "대규모착오매매"라 한다)를 말한다.<개정 2017. 2. 28.>
+**제47조의2(대규모착오매매의 구제요건)**규정 제28조의2제1항 본문에서 "세칙으로 정하는 요건을 충족하는 거래"란 계좌별로 다음 각 호의 요건을 모두 충족하는 매매거래(이하 "대규모착오매매"라 한다)를 말한다. <개정 2017. 2. 28.>
 
-1.규정제23조에 따른 단일가격에 의한 개별경쟁매매의 방법으로 체결된 매매거래가 아닐 것
+1. 규정 제23조에 따른 단일가격에 의한 개별경쟁매매의 방법으로 체결된 매매거래가 아닐 것
 
 2. 시장조성호가로 성립된 매매거래가 아닐 것
 
@@ -2290,7 +2545,7 @@ attachments:
 
 [본조신설 2016. 6. 21.]
 
-**제47조의3(대규모착오매매의 구제신청)**①규정제28조의2제2항에 따라 대규모착오매매의 구제신청(이하 "구제신청"이라 한다)을 하려는 회원(대규모착오매매를 초래한 위탁자로부터 구제신청을 요청받은 경우를 포함한다)은 회원시스템 또는 회원증권단말기를 통하여 거래소시스템에 해당 대규모착오매매의 내용을 입력하는 방법으로 구제신청을 하여야 한다. 다만, 시스템 장애 등 비상시의 경우 별지 제5호 서식에 따른 신청서를 거래소에 제출하는 방법으로 구제신청을 할 수 있다.
+**제47조의3(대규모착오매매의 구제신청)**① 규정 제28조의2제2항에 따라 대규모착오매매의 구제신청(이하 "구제신청"이라 한다)을 하려는 회원(대규모착오매매를 초래한 위탁자로부터 구제신청을 요청받은 경우를 포함한다)은 회원시스템 또는 회원증권단말기를 통하여 거래소시스템에 해당 대규모착오매매의 내용을 입력하는 방법으로 구제신청을 하여야 한다. 다만, 시스템 장애 등 비상시의 경우 별지 제5호 서식에 따른 신청서를 거래소에 제출하는 방법으로 구제신청을 할 수 있다.
 
 ② 구제신청은 해당 대규모착오매매가 발생한 때부터 30분 이내에 하여야 한다. 다만, 거래소는 회원시스템의 장애 발생 등 불가피하다고 인정하는 경우에는 신청시한을 연장할 수 있다.
 
@@ -2302,15 +2557,15 @@ attachments:
 
 [본조신설 2016. 6. 21.]
 
-**제47조의4(대규모착오매매의 구제방법)**①규정제28조의2제2항에 따라 거래소는 구제신청 내용과 소명자료를 검토한 후 제47조의2 각 호의 요건을 모두 충족하는 경우에는 해당 대규모착오매매를 구제할 수 있다.
+**제47조의4(대규모착오매매의 구제방법)**① 규정 제28조의2제2항에 따라 거래소는 구제신청 내용과 소명자료를 검토한 후 제47조의2 각 호의 요건을 모두 충족하는 경우에는 해당 대규모착오매매를 구제할 수 있다.
 
 ② 거래소는 구제신청을 받은 날(이하 "구제신청일"이라 한다)의 다음 매매거래일 17시까지 구제 여부를 결정하여 지체 없이 공표하고, 구제신청을 한 회원 및 상대방 회원에게 통지하며, 해당 회원은 해당 대규모착오매매가 위탁매매에 따른 것인 경우에는 이를 지체 없이 해당 위탁자에게 통보하여야 한다.
 
 ③ 거래소는 대규모착오매매 구제를 결정한 경우에는 거래소와 결제회원간 구제대상종목의 결제가격을 다음 각 호의 가격으로 변경할 수 있다.
 
-1. 착오로 매수한 경우: 착오매매구제 기준가격 대비 10% 높은 가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다)<개정 2025. 2. 27.>
+1. 착오로 매수한 경우: 착오매매구제 기준가격 대비 10% 높은 가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다) <개정 2025. 2. 27.>
 
-2. 착오로 매도한 경우: 착오매매구제 기준가격 대비 10% 낮은 가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 낮고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다)<개정 2025. 2. 27.>
+2. 착오로 매도한 경우: 착오매매구제 기준가격 대비 10% 낮은 가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 낮고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다) <개정 2025. 2. 27.>
 
 ④ 제3항에도 불구하고 거래소는 제47조의3제5항에 따른 회원의 구제신청의 접수 사실의 공표 전에 상대방 회원이 구제대상종목을 거래한 경우로서 해당 거래가 다음 각 호의 요건을 모두 충족하는 경우에는 결제가격을 달리 정할 수 있다.
 
@@ -2322,21 +2577,21 @@ attachments:
 
 나. 매도한 종목을 매수한 경우
 
-3. 정규시장의 매매거래시간 중규정제24조에 따른 복수가격에 의한 개별경쟁매매의 방법으로 체결된 매매거래일 것
+3. 정규시장의 매매거래시간 중 규정 제24조에 따른 복수가격에 의한 개별경쟁매매의 방법으로 체결된 매매거래일 것
 
 ⑤ 거래소는 제4항에 따른 결제가격을 정하는 경우에는 체결순서에 따른 거래량가중평균방식, 다음 각 호에서 정하는 가격 등을 고려하여 결제가격을 정한다.
 
 1. 제4항제2호가목의 경우 다음 각 목에서 정하는 가격
 
-가. 체결가격이 제3항제2호의 가격보다 낮고 대규모착오매매의 체결가격보다 높은 경우 : 체결가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 낮고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다)<개정 2025. 2. 27.>
+가. 체결가격이 제3항제2호의 가격보다 낮고 대규모착오매매의 체결가격보다 높은 경우 : 체결가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 낮고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다) <개정 2025. 2. 27.>
 
-나. 체결가격이 대규모착오매매의 체결가격과 같거나 낮은 경우 : 대규모착오매매의 체결가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다)<개정 2025. 2. 27.>
+나. 체결가격이 대규모착오매매의 체결가격과 같거나 낮은 경우 : 대규모착오매매의 체결가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다) <개정 2025. 2. 27.>
 
 2. 제4항제2호나목의 경우 다음 각 목에서 정하는 가격
 
-가. 체결가격이 제3항제1호의 가격보다 높고 대규모착오매매의 체결가격보다 낮은 경우 : 체결가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다)<개정 2025. 2. 27.>
+가. 체결가격이 제3항제1호의 가격보다 높고 대규모착오매매의 체결가격보다 낮은 경우 : 체결가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다) <개정 2025. 2. 27.>
 
-나. 체결가격이 대규모착오매매의 체결가격과 같거나 높은 경우 : 대규모착오매매의 체결가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 낮고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다)<개정 2025. 2. 27.>
+나. 체결가격이 대규모착오매매의 체결가격과 같거나 높은 경우 : 대규모착오매매의 체결가격(그 가격이 호가가격단위와 일치하지 않는 경우에는 그 가격보다 낮고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로 한다) <개정 2025. 2. 27.>
 
 ⑥ 제47조의3제5항에 따라 거래소로부터 구제신청의 접수사실 등을 통지받은 상대방 회원은 위탁자 중 제4항제2호 및 제3호에 해당하는 위탁자가 있는 경우에는 구제신청일 중 해당 위탁자에게 제4항제1호의 내용을 통지하여야 한다.
 
@@ -2348,11 +2603,11 @@ attachments:
 
 [본조신설 2016. 6. 21.]
 
-제5절 매매계약체결의 특례
+ 제5절 매매계약체결의 특례
 
-**제48조**삭제<2006. 7. 7.>
+**제48조**삭제 <2006. 7. 7.>
 
-**제48조의2(장중경쟁대량매매)**①규정제30조의2제1항제1호 후단에 따라 거래량가중평균가격의 산출기준은 다음 각 호와 같다.
+**제48조의2(장중경쟁대량매매)**① 규정 제30조의2제1항제1호 후단에 따라 거래량가중평균가격의 산출기준은 다음 각 호와 같다.
 
 1. 해당 경쟁대량매매거래의 성립 후부터 장종료시까지 정규시장에서 성립된 해당 종목의 총거래대금을 총거래량으로 나누어 산출한다.
 
@@ -2360,97 +2615,97 @@ attachments:
 
 3. 제1호에 따라 산출한 금액 중 원 미만은 절사하되, 거래량가중평균가격이 종가보다 낮은 경우에는 원 미만의 금액을 절상한다.
 
-②규정제30조의2제1항제2호 단서 중 "세칙에서 정하는 가격"이란 기준가격(평가가격을 포함한다)을 말한다.
+② 규정 제30조의2제1항제2호 단서 중 "세칙에서 정하는 가격"이란 기준가격(평가가격을 포함한다)을 말한다.
 
-③규정제30조의2제3항에 따라 장중경쟁대량매매에 참여하는 호가는 호가수량에 해당 종목의 기준가격(기준가격이 없는 경우는 평가가격을 말한다)을 곱한 금액이 5억원에 해당하는 수량 이상이어야 한다.
+③ 규정 제30조의2제3항에 따라 장중경쟁대량매매에 참여하는 호가는 호가수량에 해당 종목의 기준가격(기준가격이 없는 경우는 평가가격을 말한다)을 곱한 금액이 5억원에 해당하는 수량 이상이어야 한다.
 
-④규정제30조의2제3항에 따라 장중경쟁대량매매의 매매수량단위는 100주로 한다.
+④ 규정 제30조의2제3항에 따라 장중경쟁대량매매의 매매수량단위는 100주로 한다.
 
-⑤규정제30조의2제3항에 따라 장중경쟁대량매매는 관리종목 및 정리매매종목에 대해서는 매매거래를 성립시키지 아니 한다.
+⑤ 규정 제30조의2제3항에 따라 장중경쟁대량매매는 관리종목 및 정리매매종목에 대해서는 매매거래를 성립시키지 아니 한다.
 
 [본조신설 2010. 7. 29.]
 
-**제49조(장중대량매매)**①규정제31조제1항에 따른 장중대량매매는 정규시장의 매매거래시간동안 매도 및 매수 쌍방당사자간의 협의에 의하여 결정된 종목, 수량 및 가격 등의 협상내용을 다음 각 호의 어느 하나에 따라 입력하는 방법으로 신청하여야 한다.<개정 2022. 12. 22.>
+**제49조(장중대량매매)**① 규정 제31조제1항에 따른 장중대량매매는 정규시장의 매매거래시간동안 매도 및 매수 쌍방당사자간의 협의에 의하여 결정된 종목, 수량 및 가격 등의 협상내용을 다음 각 호의 어느 하나에 따라 입력하는 방법으로 신청하여야 한다. <개정 2022. 12. 22.>
 
 1. 대량매매등네트워크(대량매매 및 바스켓매매의 협의, 협상내용의 통보 및 확인 등을 위하여 거래소가 별도로 운영하는 전산시스템을 말한다. 이하 같다)를 통하여 협상내용을 회원시스템 및 거래소시스템에 통보하고 회원은 그 내용대로 호가하는 방법
 
 2. 회원이 협상내용을 회원시스템 또는 회원증권단말기를 통하여 거래소시스템에 입력하여 호가하는 방법
 
-② 장중대량매매에 관하여는 제52조제2항부터 제7항까지를 준용한다.<개정 2022. 12. 22.>
+② 장중대량매매에 관하여는 제52조제2항부터 제7항까지를 준용한다. <개정 2022. 12. 22.>
 
-**제50조(장중바스켓매매)**①규정제32조제1항의 규정에 의한 장중바스켓매매의 신청은 정규시장의 매매거래시간동안 대량매매등네트워크를 통하여 매도 및 매수 쌍방당사자간의 협의에 의하여 결정된 종목, 수량 및 가격등의 협상내용을 회원시스템 및 거래소시스템에 통보하고 회원은 그 내용대로 호가하는 방법에 의한다.
+**제50조(장중바스켓매매)**① 규정 제32조제1항의 규정에 의한 장중바스켓매매의 신청은 정규시장의 매매거래시간동안 대량매매등네트워크를 통하여 매도 및 매수 쌍방당사자간의 협의에 의하여 결정된 종목, 수량 및 가격등의 협상내용을 회원시스템 및 거래소시스템에 통보하고 회원은 그 내용대로 호가하는 방법에 의한다.
 
-② 제1항의 장중바스켓매매를 신청하는 경우에 해당 호가의 접수 직전까지 정규시장에서규정제23조및제24조의 개별경쟁매매방법에 따른 거래가 성립하지 않은 때에는 당일의 기준가격으로 호가한다.<신설 2019. 7. 11.>
+② 제1항의 장중바스켓매매를 신청하는 경우에 해당 호가의 접수 직전까지 정규시장에서 규정 제23조 및 제24조의 개별경쟁매매방법에 따른 거래가 성립하지 않은 때에는 당일의 기준가격으로 호가한다. <신설 2019. 7. 11.>
 
-③ 제52조제3항부터 제7항까지 및 제53조제2항부터 제4항까지의 규정은 장중바스켓매매에 이를 준용한다.<개정 2006. 7. 7., 2019. 7. 11.>
+③ 제52조제3항부터 제7항까지 및 제53조제2항부터 제4항까지의 규정은 장중바스켓매매에 이를 준용한다. <개정 2006. 7. 7., 2019. 7. 11.>
 
-**제51조(시간외종가매매)**①규정제34조제1항을 적용함에 있어 호가를 하는 날에 전일 종가가 호가가격단위와 일치하지 않는 종목, 배당락·권리락·분배락되는 종목 등의 장개시전 시간외시장의 경우에는 전일 종가는 "당일의 기준가격"으로 한다.<개정 2009. 2. 3.,2025. 2. 27.>
+**제51조(시간외종가매매)**① 규정 제34조제1항을 적용함에 있어 호가를 하는 날에 전일 종가가 호가가격단위와 일치하지 않는 종목, 배당락·권리락·분배락되는 종목 등의 장개시전 시간외시장의 경우에는 전일 종가는 "당일의 기준가격"으로 한다. <개정 2009. 2. 3.,2025. 2. 27.>
 
-② 삭제<2014. 2. 28.>
+② 삭제 <2014. 2. 28.>
 
-③규정제34조제2항에 따라 시간외종가매매의 호가우선순위는 먼저 접수된 호가가 뒤에 접수된 호가에 우선한다.<개정 2009. 2. 3.>
+③ 규정 제34조제2항에 따라 시간외종가매매의 호가우선순위는 먼저 접수된 호가가 뒤에 접수된 호가에 우선한다. <개정 2009. 2. 3.>
 
-**제51조의2(시간외단일가매매)**①규정제34조의2제1항 단서에서 "세칙으로 정하는 경우"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다.<신설 2025. 2. 27.>
+**제51조의2(시간외단일가매매)**① 규정 제34조의2제1항 단서에서 "세칙으로 정하는 경우"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다. <신설 2025. 2. 27.>
 
-1. 당일 정규시장의 매매거래시간 중에 매매거래가 성립하지 아니한 종목<신설 2025. 2. 27.>
+1. 당일 정규시장의 매매거래시간 중에 매매거래가 성립하지 아니한 종목 <신설 2025. 2. 27.>
 
-2. 다자간매매체결회사가 당일의 매매거래 대상 종목으로 통보한 종목. 이 경우 전산 장애 등으로 다자간매매체결회사의 거래 대상 종목을 통보받지 못하거나 확정할 수 없는 경우 등에는 이를 제외할 수 있다.<신설 2025. 2. 27.>
+2. 다자간매매체결회사가 당일의 매매거래 대상 종목으로 통보한 종목. 이 경우 전산 장애 등으로 다자간매매체결회사의 거래 대상 종목을 통보받지 못하거나 확정할 수 없는 경우 등에는 이를 제외할 수 있다. <신설 2025. 2. 27.>
 
-②규정제34조의2제2항에 따라 시간외단일가매매의 가격을 결정하기 위하여 참여하는 호가의 범위는 시간외단일가매매의 호가접수시간 개시시점부터 10분씩 경과한 시점(이하 이 조에서 "단위매매체결시점"이라 하며,규정제26조의2제1항제1호를 적용받는 경우에는 단위매매체결시점으로부터 2분을 연장한 시점을 말한다) 이후 30초 이내에서 거래소가 무작위로 정하는 시점까지 접수된 호가로 하며, 그 이전에 접수된 호가중 매매거래가 성립되지 아니한 호가가 있는 경우에는 이를 포함한다.
+② 규정 제34조의2제2항에 따라 시간외단일가매매의 가격을 결정하기 위하여 참여하는 호가의 범위는 시간외단일가매매의 호가접수시간 개시시점부터 10분씩 경과한 시점(이하 이 조에서 "단위매매체결시점"이라 하며, 규정 제26조의2제1항제1호를 적용받는 경우에는 단위매매체결시점으로부터 2분을 연장한 시점을 말한다) 이후 30초 이내에서 거래소가 무작위로 정하는 시점까지 접수된 호가로 하며, 그 이전에 접수된 호가중 매매거래가 성립되지 아니한 호가가 있는 경우에는 이를 포함한다.
 
 ③ 삭제
 
 ④ 삭제
 
-⑤규정34조의2제4항의 규정에 의하여 시간외단일가매매의 호가우선순위는규정제22조제2항의규정을 준용한다.
+⑤ 규정 34조의2제4항의 규정에 의하여 시간외단일가매매의 호가우선순위는 규정 제22조제2항의 규정을 준용한다.
 
 [본조신설 2005. 5. 13.]
 
-**제51조의3(시간외경쟁대량매매)**①규정제34조의3제1항제1호 후단에 따라 거래량가중평균가격의 산출기준은 다음 각 호와 같다.
+**제51조의3(시간외경쟁대량매매)**① 규정 제34조의3제1항제1호 후단에 따라 거래량가중평균가격의 산출기준은 다음 각 호와 같다.
 
 1. 장개시시부터 장종료시까지 정규시장에서 성립된 해당 종목의 총거래대금을 총거래량으로 나누어 산출한다.
 
 2. 제48조의2제1항제2호와 제3호는 시간외경쟁대량매매에 이를 준용한다.
 
-②규정제34조의3제1항제2호 단서 중 "세칙에서 정하는 가격"이란 기준가격을 말한다.
+② 규정 제34조의3제1항제2호 단서 중 "세칙에서 정하는 가격"이란 기준가격을 말한다.
 
 ③ 제48조의2제3항부터 제5항까지는 시간외경쟁대량매매에 이를 준용한다.
 
 [본조신설 2010. 7. 29.]
 
-**제52조(시간외대량매매)**①규정제35조제1항에 따른 시간외대량매매는 시간외시장의 호가접수시간동안 매도 및 매수 쌍방당사자간의 협의에 의하여 결정된 종목, 수량 및 가격 등의 협상내용을 제49조제1항 각 호의 어느 하나에 따라 입력하는 방법으로 신청하여야 한다. 이 경우규정제39조제4항제2호에 따라 금융위원회의 승인을 받아 시간외대량매매의 방법으로 자기주식을매수하고자 하는 주권상장법인으로부터 매매거래를 위탁받은 경우에 회원은 호가를 하기 전에 당해 사실을 증빙할 수 있는 자료를 제출하여야 한다.<개정 2009. 2. 3., 2022. 12. 22.,2026. 7. 2.>
+**제52조(시간외대량매매)**① 규정 제35조제1항에 따른 시간외대량매매는 시간외시장의 호가접수시간동안 매도 및 매수 쌍방당사자간의 협의에 의하여 결정된 종목, 수량 및 가격 등의 협상내용을 제49조제1항 각 호의 어느 하나에 따라 입력하는 방법으로 신청하여야 한다. 이 경우 규정 제39조제4항제2호에 따라 금융위원회의 승인을 받아 시간외대량매매의 방법으로 자기주식을 매수하고자 하는 주권상장법인으로부터 매매거래를 위탁받은 경우에 회원은 호가를 하기 전에 당해 사실을 증빙할 수 있는 자료를 제출하여야 한다. <개정 2009. 2. 3., 2022. 12. 22.,2026. 7. 2.>
 
-② 제1항에 따라 신청하는 경우 매도호가와 매수호가중 어느 일방은 단일회원의 호가로서 호가수량은 정규시장의 매매수량단위의 5,000배(상장지수집합투자기구 집합투자증권 및 상장지수증권의 경우에는 500배) 이상 또는 호가수량에 가격을 곱한 금액이 5천만원에 해당하는 수량이상으로 하여야 한다. 이 경우 금융위원회의 금융투자업규정 제6-7조제1항제6호에 따른 외국인간 매매거래의 경우에는 매도 및 매수 위탁자가 모두 외국인이어야 한다.<개정 2007. 8. 28., 2009. 2. 3., 2009. 12. 30., 2014. 2. 28., 2014. 5. 12., 2014. 9. 2.,2026. 1. 27.>
+② 제1항에 따라 신청하는 경우 매도호가와 매수호가중 어느 일방은 단일회원의 호가로서 호가수량은 정규시장의 매매수량단위의 5,000배(상장지수집합투자기구 집합투자증권 및 상장지수증권의 경우에는 500배) 이상 또는 호가수량에 가격을 곱한 금액이 5천만원에 해당하는 수량이상으로 하여야 한다. 이 경우 금융위원회의 금융투자업규정 제6-7조제1항제6호에 따른 외국인간 매매거래의 경우에는 매도 및 매수 위탁자가 모두 외국인이어야 한다. <개정 2007. 8. 28., 2009. 2. 3., 2009. 12. 30., 2014. 2. 28., 2014. 5. 12., 2014. 9. 2.,2026. 1. 27.>
 
-③ 제1항에 따라 매도 및 매수 쌍방당사자의 협의에 의하여 결정된 협상내용은 회원이 그 내용에 따라 호가를 하기 전까지 쌍방당사자의 동의가 있는 경우에 한하여 이를 변경할 수 있다.<신설 2006. 7. 7., 2009. 2. 3.>
+③ 제1항에 따라 매도 및 매수 쌍방당사자의 협의에 의하여 결정된 협상내용은 회원이 그 내용에 따라 호가를 하기 전까지 쌍방당사자의 동의가 있는 경우에 한하여 이를 변경할 수 있다. <신설 2006. 7. 7., 2009. 2. 3.>
 
 ④ 시간외대량매매의 호가가격단위는 1원으로 한다.
 
-⑤ 삭제<2014. 2. 28.>
+⑤ 삭제 <2014. 2. 28.>
 
-⑥ 접속장애 등으로 대량매매등네트워크를 이용하여 시간외대량매매를 신청하기 곤란하다고 인정되는 때에는 회원이 전자우편 등의 방법으로 시간외대량매매를 위한 협상내용을 거래소에 통보하고 그 내용대로 호가하는 방법으로 시간외대량매매를 성립시킬 수 있다.<개정 2009. 3. 19.>
+⑥ 접속장애 등으로 대량매매등네트워크를 이용하여 시간외대량매매를 신청하기 곤란하다고 인정되는 때에는 회원이 전자우편 등의 방법으로 시간외대량매매를 위한 협상내용을 거래소에 통보하고 그 내용대로 호가하는 방법으로 시간외대량매매를 성립시킬 수 있다. <개정 2009. 3. 19.>
 
-⑦ 제1항 및 제6항에도 불구하고 대량매매등네트워크를 통하여 시간외대량매매를 위한 협상내용을 거래소시스템에 통보할 수 없는 장애가 발생한 경우에는 시간외대량매매를 성립시키지 아니한다.<개정 2009. 3. 19.>
+⑦ 제1항 및 제6항에도 불구하고 대량매매등네트워크를 통하여 시간외대량매매를 위한 협상내용을 거래소시스템에 통보할 수 없는 장애가 발생한 경우에는 시간외대량매매를 성립시키지 아니한다. <개정 2009. 3. 19.>
 
-⑧규정제35조제5항 후단에 따라 호가를 하는 날에 전일 종가가 호가가격단위와 일치하지 않는 종목, 배당락·권리락·주식분할·주식병합되는 종목의 경우에는 기준가격을 기준으로 적용한다.<신설 2006. 9. 8., 2009. 2. 3., 2012. 4. 20., 2017. 2. 28.,개정 2025. 2. 27.>
+⑧ 규정 제35조제5항 후단에 따라 호가를 하는 날에 전일 종가가 호가가격단위와 일치하지 않는 종목, 배당락·권리락·주식분할·주식병합되는 종목의 경우에는 기준가격을 기준으로 적용한다. <신설 2006. 9. 8., 2009. 2. 3., 2012. 4. 20., 2017. 2. 28.,개정 2025. 2. 27.>
 
-⑨ 제57조제1항제1호는 회원이 시간외대량매매의 방법으로 자기주식을매매하고자 하는 주권상장법인등으로부터 당해 매매거래를 위탁받은 경우에 이를 준용한다.<신설 2006. 9. 8., 2009. 2. 3.,개정 2026. 7. 2.>
+⑨ 제57조제1항제1호는 회원이 시간외대량매매의 방법으로 자기주식을 매매하고자 하는 주권상장법인등으로부터 당해 매매거래를 위탁받은 경우에 이를 준용한다. <신설 2006. 9. 8., 2009. 2. 3.,개정 2026. 7. 2.>
 
-**제53조(시간외바스켓매매)**①규정제36조제1항에 따른 시간외바스켓매매의 신청은 시간외시장의 호가접수시간동안 대량매매등네트워크를 통하여 매도 및 매수 쌍방당사자간의 협의에 의하여 결정된 종목, 수량 및 가격등의 협상내용을 회원시스템 및 거래소시스템에 통보하고 회원은 그 내용대로 호가하는 방법에 의한다.<개정 2009. 2. 3.>
+**제53조(시간외바스켓매매)**① 규정 제36조제1항에 따른 시간외바스켓매매의 신청은 시간외시장의 호가접수시간동안 대량매매등네트워크를 통하여 매도 및 매수 쌍방당사자간의 협의에 의하여 결정된 종목, 수량 및 가격등의 협상내용을 회원시스템 및 거래소시스템에 통보하고 회원은 그 내용대로 호가하는 방법에 의한다. <개정 2009. 2. 3.>
 
-② 제1항에 따라 신청하는 경우 매도호가와 매수호가중 어느 일방은 단일회원의 호가이어야 하고 타방의 경우 바스켓을 구성하는 종목별로 각각 단일회원의 호가이어야 한다. 이 경우 금융위원회의 금융투자업규정 제6-7조제1항제6호에 따른 외국인간 매매거래의 경우에는 매도 및 매수 위탁자가 모두 외국인이어야 한다.<개정 2007. 8. 28., 2009. 2. 3.>
+② 제1항에 따라 신청하는 경우 매도호가와 매수호가중 어느 일방은 단일회원의 호가이어야 하고 타방의 경우 바스켓을 구성하는 종목별로 각각 단일회원의 호가이어야 한다. 이 경우 금융위원회의 금융투자업규정 제6-7조제1항제6호에 따른 외국인간 매매거래의 경우에는 매도 및 매수 위탁자가 모두 외국인이어야 한다. <개정 2007. 8. 28., 2009. 2. 3.>
 
 ③ 동일한 바스켓을 구성하는 종목에 대하여는 동일한 바스켓번호를 부여하고, 한 회원이 2이상의 시간외바스켓매매호가를 할 때에는 바스켓별로 번호를 달리하여야 한다.
 
-④규정제36조제3항에 따라 바스켓 구성종목수 및 수량요건은 다음 각호와 같이 한다.<개정 2009. 2. 3.>
+④ 규정 제36조제3항에 따라 바스켓 구성종목수 및 수량요건은 다음 각호와 같이 한다. <개정 2009. 2. 3.>
 
 1. 바스켓 구성종목수는 5이상의 종목으로 한다.
 
-2. 바스켓 수량요건은 바스켓을 구성하는 각각의 종목에 대하여 호가수량에 가격을 곱한 금액의 합이 2억원에 해당하는 수량이상으로 한다.<개정 2026. 1. 27.>
+2. 바스켓 수량요건은 바스켓을 구성하는 각각의 종목에 대하여 호가수량에 가격을 곱한 금액의 합이 2억원에 해당하는 수량이상으로 한다. <개정 2026. 1. 27.>
 
-⑤ 제52조제3항부터 제7항까지의 규정은 시간외바스켓매매에 이를 준용한다.<개정 2006. 7. 7., 2009. 2. 3.>
+⑤ 제52조제3항부터 제7항까지의 규정은 시간외바스켓매매에 이를 준용한다. <개정 2006. 7. 7., 2009. 2. 3.>
 
-**제54조(시간외매매의 적용예외)**규정제33조에 의한 시간외종가매매, 시간외단일가매매, 시간외경쟁대량매매, 시간외대량매매 및 시간외바스켓매매는 다음 각호의 어느 하나에 해당하는 경우에는 성립시키지 아니할 수 있다.<개정 2005. 5. 13., 2008. 5. 13., 2010. 7. 29., 2011. 1. 27., 2014. 2. 28., 2014. 9. 2., 2020. 11. 26., 2023. 4. 12.>
+**제54조(시간외매매의 적용예외)**규정 제33조에 의한 시간외종가매매, 시간외단일가매매, 시간외경쟁대량매매, 시간외대량매매 및 시간외바스켓매매는 다음 각호의 어느 하나에 해당하는 경우에는 성립시키지 아니할 수 있다. <개정 2005. 5. 13., 2008. 5. 13., 2010. 7. 29., 2011. 1. 27., 2014. 2. 28., 2014. 9. 2., 2020. 11. 26., 2023. 4. 12.>
 
 1. 제8조제1항제1호 및 제2호에 따라 정규시장의 매매거래시간이 변경되는 경우
 
@@ -2470,11 +2725,11 @@ attachments:
 
 5. 그 밖에 시장관리상 필요하다고 인정하는 경우
 
-**제55조(신규상장종목등의 최초의 가격결정방법)**①규정제37조제1항에서 "세칙이 정하는 종목"이란 시가기준가종목을 말한다.<개정 2005. 8. 26., 2009. 2. 3., 2011. 1. 27., 2012. 4. 20., 2014. 5. 12., 2014. 12. 10., 2020. 7. 23.>
+**제55조(신규상장종목등의 최초의 가격결정방법)**① 규정 제37조제1항에서 "세칙이 정하는 종목"이란 시가기준가종목을 말한다. <개정 2005. 8. 26., 2009. 2. 3., 2011. 1. 27., 2012. 4. 20., 2014. 5. 12., 2014. 12. 10., 2020. 7. 23.>
 
-②규정제37조제2항에 따른 호가의 범위는 정규시장의 호가접수시간의 개시시점부터 장개시시점까지 및 이후 30초 이내에서 거래소가 무작위로 정하는 시간동안 접수된 호가로 한다.<개정 2009. 2. 3., 2022. 12. 22.>
+② 규정 제37조제2항에 따른 호가의 범위는 정규시장의 호가접수시간의 개시시점부터 장개시시점까지 및 이후 30초 이내에서 거래소가 무작위로 정하는 시간동안 접수된 호가로 한다. <개정 2009. 2. 3., 2022. 12. 22.>
 
-③ 제2항에 따른 호가는 다음 각 호의 가격 이내로 접수된 호가로 한다.<개정 2009. 2. 3.>
+③ 제2항에 따른 호가는 다음 각 호의 가격 이내로 접수된 호가로 한다. <개정 2009. 2. 3.>
 
 1. 시가기준가종목(정리매매종목을 제외한다) : 별표 1에 따른 최저호가가격과 최고호가가격
 
@@ -2482,39 +2737,39 @@ attachments:
 
 [전문개정 2023. 4. 12.]
 
-**제56조(정리매매종목의 매매계약체결방법)**①규정제38조에 따라 정리매매종목의 매매계약체결방법은 단일가격에 의한 개별경쟁매매방법에 의한다. 이 경우규정제23조제4항부터 제6항까지를 준용한다.<개정 2012. 10. 22., 2015. 5. 19.>
+**제56조(정리매매종목의 매매계약체결방법)**① 규정 제38조에 따라 정리매매종목의 매매계약체결방법은 단일가격에 의한 개별경쟁매매방법에 의한다. 이 경우 규정 제23조제4항부터 제6항까지를 준용한다. <개정 2012. 10. 22., 2015. 5. 19.>
 
-② 제1항의 가격을 결정하기 위하여 참여하는 호가의 범위는 다음 각 호의 시점 이후 30초 이내에서 거래소가 무작위로 정하는 시점까지 접수된 호가로 한다.<개정 2009. 3. 19., 2012. 10. 22., 2014. 2. 28., 2015. 5. 19.,2025. 2. 27.>
+② 제1항의 가격을 결정하기 위하여 참여하는 호가의 범위는 다음 각 호의 시점 이후 30초 이내에서 거래소가 무작위로 정하는 시점까지 접수된 호가로 한다. <개정 2009. 3. 19., 2012. 10. 22., 2014. 2. 28., 2015. 5. 19.,2025. 2. 27.>
 
 1. 장개시시점
 
 2. 다음 각 목에 따른 단위매매체결시점
 
-가. 장개시시점부터 30분씩 경과한 시점. 다만, 제40조제2항 및 「유가증권시장 공시규정」제40조제5항에 따라 매매거래가 재개된 경우로서 재개시점부터 단위매매체결시점까지의 시간이 10분 미만인 경우에는 다음 단위매매체결시점까지로 한다.
+가. 장개시시점부터 30분씩 경과한 시점. 다만, 제40조제2항 및 「유가증권시장 공시규정」 제40조제5항에 따라 매매거래가 재개된 경우로서 재개시점부터 단위매매체결시점까지의 시간이 10분 미만인 경우에는 다음 단위매매체결시점까지로 한다.
 
-나.규정제6조제2항,제25조및 이 세칙 제42조제2항에 따라 매매거래가 재개된 경우에는 재개시점부터 30분씩 경과한 시점. 다만, 단위매매체결시점이 장종료 10분전 이후인 경우에는 장종료시점까지로 한다.
+나. 규정 제6조제2항, 제25조 및 이 세칙 제42조제2항에 따라 매매거래가 재개된 경우에는 재개시점부터 30분씩 경과한 시점. 다만, 단위매매체결시점이 장종료 10분전 이후인 경우에는 장종료시점까지로 한다.
 
 3. 장종료시점
 
-③ 제1항 및 제2항에 불구하고 정규시장의 매매거래시간 중에 이루어지는 개별경쟁매매 외의 매매거래는규정제29조,제31조부터제34조의2까지,제35조및제36조를 적용하되, 이 경우 이 세칙 제51조의2제2항 중 "10분"은 "30분"으로 본다. 다만,규정제34조의2제3항,제35조제2항 및제36조제2항은 적용하지 아니한다.<개정 2005. 5. 13., 2010. 7. 29., 2012. 10. 22., 2015. 5. 19.,2025. 2. 27.>
+③ 제1항 및 제2항에 불구하고 정규시장의 매매거래시간 중에 이루어지는 개별경쟁매매 외의 매매거래는 규정 제29조, 제31조부터 제34조의2까지, 제35조 및 제36조를 적용하되, 이 경우 이 세칙 제51조의2제2항 중 "10분"은 "30분"으로 본다. 다만, 규정 제34조의2제3항, 제35조제2항 및 제36조제2항은 적용하지 아니한다. <개정 2005. 5. 13., 2010. 7. 29., 2012. 10. 22., 2015. 5. 19.,2025. 2. 27.>
 
-**제56조의2(단기과열종목 등의 매매계약체결방법 등)**①규정제38조의2에 따른 단기과열종목 및 투자유의종목의 매매계약체결방법은 단일가격에 의한 개별경쟁매매방법에 의한다. 이 경우규정제23조제3항부터 제7항까지를 준용한다.<개정 2015. 5. 19., 2017. 2. 28., 2020. 7. 23.>
+**제56조의2(단기과열종목 등의 매매계약체결방법 등)**① 규정 제38조의2에 따른 단기과열종목 및 투자유의종목의 매매계약체결방법은 단일가격에 의한 개별경쟁매매방법에 의한다. 이 경우 규정 제23조제3항부터 제7항까지를 준용한다. <개정 2015. 5. 19., 2017. 2. 28., 2020. 7. 23.>
 
-② 제56조제2항은 단기과열종목, 투자유의종목 및 이상급등 단일가매매종목에 준용한다.<개정 2020. 7. 23.>
+② 제56조제2항은 단기과열종목, 투자유의종목 및 이상급등 단일가매매종목에 준용한다. <개정 2020. 7. 23.>
 
-③ 제1항 및 제2항에 불구하고 정규시장의 매매거래시간중에 이루어지는 개별경쟁매매 외의 매매거래는규정제29조부터제36조까지를 적용한다. 이 경우 이 세칙 제51조의2제2항 중 "10분"은 "30분"으로 본다.<개정 2015. 5. 19.,2025. 2. 27.>
+③ 제1항 및 제2항에 불구하고 정규시장의 매매거래시간중에 이루어지는 개별경쟁매매 외의 매매거래는 규정 제29조부터 제36조까지를 적용한다. 이 경우 이 세칙 제51조의2제2항 중 "10분"은 "30분"으로 본다. <개정 2015. 5. 19.,2025. 2. 27.>
 
-④ 제1항에 불구하고규정제23조제7항을 적용함에 있어 제2항에 따른 호가접수시간 중에 매매거래가 중단 또는 정지되어 당일 중 매매거래가 재개되지 아니한 경우 기세 결정에 참여가 제한되는 호가는 당일 중 접수된 호가를 말한다.
+④ 제1항에 불구하고 규정 제23조제7항을 적용함에 있어 제2항에 따른 호가접수시간 중에 매매거래가 중단 또는 정지되어 당일 중 매매거래가 재개되지 아니한 경우 기세 결정에 참여가 제한되는 호가는 당일 중 접수된 호가를 말한다.
 
-⑤ 이상급등 단일가매매종목의 매매계약체결방법의 변경 기간은 다음 각 호와 같다. 다만, 거래소가 시장관리상 필요하다고 인정하는 경우 해당 변경 기간을 달리 정할 수 있다.<신설 2017. 2. 28.>
+⑤ 이상급등 단일가매매종목의 매매계약체결방법의 변경 기간은 다음 각 호와 같다. 다만, 거래소가 시장관리상 필요하다고 인정하는 경우 해당 변경 기간을 달리 정할 수 있다. <신설 2017. 2. 28.>
 
-1. 「시장감시규정 시행세칙」제7조의2제1항제1호에 해당하는 경우 : 요청일 익일부터 3매매거래일
+1. 「시장감시규정 시행세칙」 제7조의2제1항제1호에 해당하는 경우 : 요청일 익일부터 3매매거래일
 
-2. 「시장감시규정 시행세칙」제7조의2제1항제2호에 해당하는 경우 : 「시장감시규정 시행세칙」제3조의4에 따른 투자위험종목의 지정일 익일부터 해제일 전일까지
+2. 「시장감시규정 시행세칙」 제7조의2제1항제2호에 해당하는 경우 : 「시장감시규정 시행세칙」 제3조의4에 따른 투자위험종목의 지정일 익일부터 해제일 전일까지
 
-⑥규정제38조의2각 호 외의 부분 단서에 따라 시장상황급변 등으로 투자자보호와 시장안정을 유지하기 위하여 필요하다고 인정되는 경우 다음 각 호의 추가조치를 할 수 있다.<신설 2017. 2. 28.>
+⑥ 규정 제38조의2 각 호 외의 부분 단서에 따라 시장상황급변 등으로 투자자보호와 시장안정을 유지하기 위하여 필요하다고 인정되는 경우 다음 각 호의 추가조치를 할 수 있다. <신설 2017. 2. 28.>
 
-1.규정제20조제2항에 따른 가격제한폭의 변경
+1. 규정 제20조제2항에 따른 가격제한폭의 변경
 
 2. 제41조의2제1항 및 2항의 비율기준의 변경
 
@@ -2524,79 +2779,79 @@ attachments:
 
 [본조신설 2012. 10. 22.]
 
-**제56조의3(저유동성종목의 매매계약체결방법)**①규정제38조의3제1항에서 "세칙으로 정하는 기준에 따라 거래빈도가 현저히 부진하다고 판단되는 종목"이란 별표 2의2의 기준에 따라 선정된 단일가매매대상 저유동성종목(이하 "단일가매매대상 저유동성종목"이라 한다)을 말한다.<개정 2018. 12. 28., 2020. 9. 22.>
+**제56조의3(저유동성종목의 매매계약체결방법)**① 규정 제38조의3제1항에서 "세칙으로 정하는 기준에 따라 거래빈도가 현저히 부진하다고 판단되는 종목"이란 별표 2의2의 기준에 따라 선정된 단일가매매대상 저유동성종목(이하 "단일가매매대상 저유동성종목"이라 한다)을 말한다. <개정 2018. 12. 28., 2020. 9. 22.>
 
-② 단일가매매대상 저유동성종목에 대한 매매계약체결방법은규정제23조에 따른 단일가격에 의한 개별경쟁매매에 의한다. 다만, 별표 2의2에 따른 배제기준에 해당하거나 적용기간 중 단일가매매대상 저유동성종목의 선정에서 해제되는 종목은 그러하지 아니하다.
+② 단일가매매대상 저유동성종목에 대한 매매계약체결방법은 규정 제23조에 따른 단일가격에 의한 개별경쟁매매에 의한다. 다만, 별표 2의2에 따른 배제기준에 해당하거나 적용기간 중 단일가매매대상 저유동성종목의 선정에서 해제되는 종목은 그러하지 아니하다.
 
-③ 삭제<2018. 12. 28.>
+③ 삭제 <2018. 12. 28.>
 
-④규정제23조제3항부터 제7항까지 및 이 세칙 제56조제2항은 단일가매매대상 저유동성종목에 준용한다.<개정 2020. 11. 26.>
+④ 규정 제23조제3항부터 제7항까지 및 이 세칙 제56조제2항은 단일가매매대상 저유동성종목에 준용한다. <개정 2020. 11. 26.>
 
-⑤ 제2항 및 제4항에도 불구하고 정규시장의 매매거래시간 중에 이루어지는 개별경쟁매매 외의 매매거래에 대하여는규정제29조부터제36조까지를 적용한다. 이 경우 제51조의2제2항 중 "10분"은 "30분"으로 본다.<개정 2025. 2. 27.>
+⑤ 제2항 및 제4항에도 불구하고 정규시장의 매매거래시간 중에 이루어지는 개별경쟁매매 외의 매매거래에 대하여는 규정 제29조부터 제36조까지를 적용한다. 이 경우 제51조의2제2항 중 "10분"은 "30분"으로 본다. <개정 2025. 2. 27.>
 
-⑥ 제1항 및 제2항외에 단일가매매대상 저유동성종목의 선정, 추가선정, 적용기간 등 적용을 위해 필요한 사항은 별표 2의2에서 정하는 바에 따른다.<개정 2018. 12. 28.>
+⑥ 제1항 및 제2항외에 단일가매매대상 저유동성종목의 선정, 추가선정, 적용기간 등 적용을 위해 필요한 사항은 별표 2의2에서 정하는 바에 따른다. <개정 2018. 12. 28.>
 
 [본조신설 2016. 3. 25.]
 
-**제56조의4(상장주식수 부족 종류주식 종목의 매매계약체결방법)**①규정제38조의3제2항에서 "상장주식수가 세칙으로 정하는 기준에 미달하는 종목"이란 상장주식수가 50만주 미만인 종류주식 종목(이하 "단일가매매대상 종류주식종목"이라 한다)을 말한다.
+**제56조의4(상장주식수 부족 종류주식 종목의 매매계약체결방법)**① 규정 제38조의3제2항에서 "상장주식수가 세칙으로 정하는 기준에 미달하는 종목"이란 상장주식수가 50만주 미만인 종류주식 종목(이하 "단일가매매대상 종류주식종목"이라 한다)을 말한다.
 
 ② 제1항의 상장주식수는 매분기 마지막 매매거래일을 기준으로 평가하고 제1항의 기준에 해당하는 경우 평가일이 속한 분기의 다음 분기 동안 단일가매매대상 종류주식종목으로 선정한다.
 
-③ 단일가매매대상 종류주식종목에 대한 매매계약체결방법은규정제23조에 따른 단일가격에 의한 개별경쟁매매의 방법으로 한다.
+③ 단일가매매대상 종류주식종목에 대한 매매계약체결방법은 규정 제23조에 따른 단일가격에 의한 개별경쟁매매의 방법으로 한다.
 
-④규정제23조제3항부터 제7항까지 및 이 세칙 제56조제2항은 단일가매매대상 종류주식종목에 준용한다.
+④ 규정 제23조제3항부터 제7항까지 및 이 세칙 제56조제2항은 단일가매매대상 종류주식종목에 준용한다.
 
-⑤ 제3항 및 제4항에도 불구하고 정규시장의 매매거래시간 중에 이루어지는 개별경쟁매매 외의 매매거래에 대하여는규정제29조부터제36조까지를 적용한다. 이 경우 제51조의2제2항 중 "10분"은 "30"분으로 본다.<개정 2025. 2. 27.>
+⑤ 제3항 및 제4항에도 불구하고 정규시장의 매매거래시간 중에 이루어지는 개별경쟁매매 외의 매매거래에 대하여는 규정 제29조부터 제36조까지를 적용한다. 이 경우 제51조의2제2항 중 "10분"은 "30"분으로 본다. <개정 2025. 2. 27.>
 
 ⑥ 제56조의3제1항에 따른 단일가매매대상 저유동성종목이 제1항에 따라 단일가매매대상 종류주식종목으로 선정되는 경우 그 선정된 기간 동안에는 제1항부터 제5항까지를 제56조의3에 우선하여 적용한다.
 
 [본조신설 2020. 9. 22.]
 
-**제57조(주권상장법인 자기주식매매방법)**①규정제39조제3항에 따라 회원이 주권상장법인의 자기주식을 매매하려는 경우의 호가방법은 다음 각 호와 같다.
+**제57조(주권상장법인 자기주식매매방법)**① 규정 제39조제3항에 따라 회원이 주권상장법인의 자기주식을 매매하려는 경우의 호가방법은 다음 각 호와 같다.
 
 1. 호가를 하는 날의 직전 매매거래일(장종료후부터 18시까지로 한다)에 별지 제6호 서식에 의한 주권상장법인 자기주식매매신청서를 거래소에 제출하여야 한다. 이 경우 회원은 거래소가 별도로 정하는 전자전달매체를 이용하여 당해 내용을 거래소에 제출할 수 있다.
 
-2. 호가는규정제39조제1항 각 호에 따른 가격으로 하여야 하고, 다음 각 목의 경우규정제39조제1항 각 호의 "전일종가"는 각 목에서 정하는 가격으로 한다.<개정 2025. 2. 27.>
+2. 호가는 규정 제39조제1항 각 호에 따른 가격으로 하여야 하고, 다음 각 목의 경우 규정 제39조제1항 각 호의 "전일종가"는 각 목에서 정하는 가격으로 한다. <개정 2025. 2. 27.>
 
-가. 시가기준가종목의 경우 : 당일의 평가가격<신설 2025. 2. 27.>
+가. 시가기준가종목의 경우 : 당일의 평가가격 <신설 2025. 2. 27.>
 
-나. 호가를 하는 날에 전일 종가가 호가가격단위와 일치하지 않는 종목, 배당락·권리락·주식분할·주식병합되는 종목 및 제30조제1항제2호가목의 신규상장종목 : 당일의 기준가격<신설 2025. 2. 27.>
+나. 호가를 하는 날에 전일 종가가 호가가격단위와 일치하지 않는 종목, 배당락·권리락·주식분할·주식병합되는 종목 및 제30조제1항제2호가목의 신규상장종목 : 당일의 기준가격 <신설 2025. 2. 27.>
 
 3. 호가수량은 다음 각목의 수량(매매수량단위 미만의 수량은 절사한다. 이하 이 호에서 같다)중 많은 수량 이내로 한다. 다만, 그 수량이 발행주식총수의 100분의 1에 해당하는 수량을 초과하는 경우에는 발행주식총수의 100분의 1에 해당하는 수량 이내로 한다.
 
-가. 주권상장법인이 자기주식취득을 위하여 금융위원회에 신고한취득예정 주식수의 100분의 10에 해당하는 수량<개정 2026. 7. 2.>
+가. 주권상장법인이 자기주식 취득을 위하여 금융위원회에 신고한 취득예정 주식수의 100분의 10에 해당하는 수량 <개정 2026. 7. 2.>
 
-나. 주권상장법인이 자기주식취득을 위하여 이사회에서 결의한 날의 전일을 기산일로 하여 소급한 1개월간의 일평균거래량의 100분의 25에 해당하는 수량<개정 2026. 7. 2.>
+나. 주권상장법인이 자기주식 취득을 위하여 이사회에서 결의한 날의 전일을 기산일로 하여 소급한 1개월간의 일평균거래량의 100분의 25에 해당하는 수량 <개정 2026. 7. 2.>
 
-4.규정제39조제1항제2호의 "직전의 체결가격과 최우선매수호가의 가격 중 높은가격"이"직전의 체결가격"이면서 그 가격이 호가가격단위와 일치하지 않는 경우 같은 호의 "상한"과 "하한"은 다음 각 목에 따라 산출한다.<신설 2025. 2. 27.,개정 2026. 7. 2.>
+4. 규정 제39조제1항제2호의 "직전의 체결가격과 최우선매수호가의 가격 중 높은 가격"이 "직전의 체결가격"이면서 그 가격이 호가가격단위와 일치하지 않는 경우 같은 호의 "상한"과 "하한"은 다음 각 목에 따라 산출한다. <신설 2025. 2. 27.,개정 2026. 7. 2.>
 
 가. 상한의 경우
-직전의 체결가격보다 낮고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로부터 5호가가격단위 높은 가격<신설 2025. 2. 27.>
+ 직전의 체결가격보다 낮고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로부터 5호가가격단위 높은 가격 <신설 2025. 2. 27.>
 
 나. 하한의 경우
-직전의 체결가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로부터 5호가가격단위 낮은 가격<신설 2025. 2. 27.>
+ 직전의 체결가격보다 높고 호가가격단위와 일치하는 가격 중 그 가격에 가장 가까운 가격으로부터 5호가가격단위 낮은 가격 <신설 2025. 2. 27.>
 
 ② 회원이 제1항에 따라 호가를 한 이후에는 이를 취소할 수 없다.
 
-③ 정규시장에서 매매거래가 성립되지 아니한 종목의 경우에는규정제39조제1항제2호의"직전의 체결가격"은"당일의 기준가격"으로 하고, 제126조제1항제1호에 따라 예상최우선호가가 공표되는 경우에는 같은 호의 "최우선매수호가"는"예상최우선매수호가"로 한다.<신설 2006. 9. 8., 2009. 2. 3., 2013. 4. 25., 2015. 5. 19.,개정 2025. 2. 27.,2026. 7. 2.>
+③ 정규시장에서 매매거래가 성립되지 아니한 종목의 경우에는 규정 제39조제1항제2호의 "직전의 체결가격"은 "당일의 기준가격"으로 하고, 제126조제1항제1호에 따라 예상최우선호가가 공표되는 경우에는 같은 호의 "최우선매수호가"는 "예상최우선매수호가"로 한다. <신설 2006. 9. 8., 2009. 2. 3., 2013. 4. 25., 2015. 5. 19.,개정 2025. 2. 27.,2026. 7. 2.>
 
-**제58조(주권상장법인 자기주식매매방법의 특례)**① 회원이규정제40조제1항에 따른 방법으로 주권상장법인의 자기주식을 매수하고자 하는 경우의 호가방법은 다음 각 호와 같다.<개정 2012. 4. 20.,2025. 2. 27.>
+**제58조(주권상장법인 자기주식매매방법의 특례)**① 회원이 규정 제40조제1항에 따른 방법으로 주권상장법인의 자기주식을 매수하고자 하는 경우의 호가방법은 다음 각 호와 같다. <개정 2012. 4. 20.,2025. 2. 27.>
 
-1. 호가는규정제40조제2항 각 호에 따른 가격으로 하여야 한다. 이 경우 제57조제1항제2호를 준용한다.<개정 2025. 2. 27.>
+1. 호가는 규정 제40조제2항 각 호에 따른 가격으로 하여야 한다. 이 경우 제57조제1항제2호를 준용한다. <개정 2025. 2. 27.>
 
 2. 호가수량은 취득예정주식수 이내의 수량으로 하여야 한다.
 
-② 제1항외의 매매거래에 관한 사항은 제57조의규정을 적용한다.
+② 제1항외의 매매거래에 관한 사항은 제57조의 규정을 적용한다.
 
-**제59조(주권상장법인 자기주식신탁매매방법 및 그 특례)**제57조 및 제58조의 규정은 회원이규정제41조의 규정에 의한 방법으로자기주식신탁매수를 위한 매매거래를 하고자 하는 경우에 이를 준용한다. 이 경우 "자기주식매수"는 "자기주식신탁매수"로 보며, 제57조제1항제3호의 호가수량은 발행주식총수의 100분의 1에 해당하는 수량 이내의 수량으로 하고, 제58조제1항제2호의 호가수량은 당해 호가수량에 호가의 가격을 곱한 금액이 당해 신탁재산의 총액을 초과하지 아니하는 범위 이내의 수량으로 한다.<개정 2026. 7. 2.>
+**제59조(주권상장법인 자기주식신탁매매방법 및 그 특례)**제57조 및 제58조의 규정은 회원이 규정 제41조의 규정에 의한 방법으로 자기주식신탁매수를 위한 매매거래를 하고자 하는 경우에 이를 준용한다. 이 경우 "자기주식매수"는 "자기주식신탁매수"로 보며, 제57조제1항제3호의 호가수량은 발행주식총수의 100분의 1에 해당하는 수량 이내의 수량으로 하고, 제58조제1항제2호의 호가수량은 당해 호가수량에 호가의 가격을 곱한 금액이 당해 신탁재산의 총액을 초과하지 아니하는 범위 이내의 수량으로 한다. <개정 2026. 7. 2.>
 
-제4장 채무증권의 매매거래<개정 2009. 2. 3.>
+ 제4장 채무증권의 매매거래<개정 2009. 2. 3.>
 
-제1절 통칙
+ 제1절 통칙
 
-**제60조(적용범위)**이 장은 채무증권의 매매거래에 관하여 적용한다.<개정 2009. 2. 3.>
+**제60조(적용범위)**이 장은 채무증권의 매매거래에 관하여 적용한다. <개정 2009. 2. 3.>
 
-**제61조(소액채권)**규정제43조제2호의 규정에 의한 소액채권은 다음 각호의 채권중 매매거래일을 기준으로 당월 및 전월에 발행된 채권으로서 1인당 호가수량(신규 호가수량과 미체결 호가수량을 합한 것을 말한다. 이하 이 조에서 같다)이 액면 5,000만원 이하인 채권을 말한다. 이 경우 1인당 호가수량은 채권별로 매수호가와 매도호가에 대하여 각각 적용하며,규정제77조제1항의 소액채권전용공동계좌를 통한 호가수량을 합하여 산정한다.<개정 2005. 12. 1., 2006. 7. 21., 2014. 7. 10.>
+**제61조(소액채권)**규정 제43조제2호의 규정에 의한 소액채권은 다음 각호의 채권중 매매거래일을 기준으로 당월 및 전월에 발행된 채권으로서 1인당 호가수량(신규 호가수량과 미체결 호가수량을 합한 것을 말한다. 이하 이 조에서 같다)이 액면 5,000만원 이하인 채권을 말한다. 이 경우 1인당 호가수량은 채권별로 매수호가와 매도호가에 대하여 각각 적용하며, 규정 제77조제1항의 소액채권전용공동계좌를 통한 호가수량을 합하여 산정한다. <개정 2005. 12. 1., 2006. 7. 21., 2014. 7. 10.>
 
 1. 제1종 국민주택채권
 
@@ -2606,33 +2861,33 @@ attachments:
 
 4. 부산도시철도채권, 대구도시철도채권, 인천도시철도채권, 광주도시철도채권 및 대전도시철도채권 (이하"지방도시철도채권"이라 한다)
 
-5. 삭제<2005. 12. 1.>
+5. 삭제 <2005. 12. 1.>
 
-**제62조(소액채권전담회원의 지정)**①규정제44조에 따라 거래소는 신규로 소액채권전담회원이 되기 위해 매년 12월 중 거래소가 정하는 기간(이하 "신청기간"이라 한다)에 별지 제7호 서식의 소액채권전담회원 지정신청서(이하 이 조에서 "신청서"라 한다)를 제출한 자가 다음 각 호의 요건을 모두 충족하는 경우에는 소액채권전담회원으로 신규지정한다.<개정 2007. 12. 18.,2025. 11. 27.>
+**제62조(소액채권전담회원의 지정)**① 규정 제44조에 따라 거래소는 신규로 소액채권전담회원이 되기 위해 매년 12월 중 거래소가 정하는 기간(이하 "신청기간"이라 한다)에 별지 제7호 서식의 소액채권전담회원 지정신청서(이하 이 조에서 "신청서"라 한다)를 제출한 자가 다음 각 호의 요건을 모두 충족하는 경우에는 소액채권전담회원으로 신규지정한다. <개정 2007. 12. 18.,2025. 11. 27.>
 
-1. 신청일이 속한 반기의 직전 반기의「금융투자업규정」제3-6조제3호에 따른 순자본비율이 100% 이상일 것<신설 2025. 11. 27.>
+1. 신청일이 속한 반기의 직전 반기의「금융투자업규정」제3-6조제3호에 따른 순자본비율이 100% 이상일 것 <신설 2025. 11. 27.>
 
-2. 신청일이 속한 반기의 직전 반기의 자기자본이 3,000억원 이상일 것<신설 2025. 11. 27.>
+2. 신청일이 속한 반기의 직전 반기의 자기자본이 3,000억원 이상일 것 <신설 2025. 11. 27.>
 
-3. 신청일이 속한 연도말을 기준으로 3년 이상의 채권매매업무 경력을 가진 직원 3인 이상 및 1년 이상의 증권·자금결제업무 경력을 가진 직원 1인 이상을 보유할 것<신설 2025. 11. 27.>
+3. 신청일이 속한 연도말을 기준으로 3년 이상의 채권매매업무 경력을 가진 직원 3인 이상 및 1년 이상의 증권·자금결제업무 경력을 가진 직원 1인 이상을 보유할 것 <신설 2025. 11. 27.>
 
-4. 신청일이 속한 연도의 전년도 12월부터 신청일이 속한 연도의 11월까지 소액채권의 자기매매 거래실적(규정 제48조에 따른 복수가격에 의한 개별경쟁매매로 체결된 거래실적으로 한정한다)이 4,000억원 이상일 것<신설 2025. 11. 27.>
+4. 신청일이 속한 연도의 전년도 12월부터 신청일이 속한 연도의 11월까지 소액채권의 자기매매 거래실적(규정 제48조에 따른 복수가격에 의한 개별경쟁매매로 체결된 거래실적으로 한정한다)이 4,000억원 이상일 것 <신설 2025. 11. 27.>
 
-② 거래소는 신청기간 종료일 현재 소액채권전담회원인 자가 다음 각 호의 요건을 모두 충족하는 경우에는 소액채권전담회원으로 재지정한다. 다만, 제2호의 요건을 충족하지 못하더라도 소액채권의 발행 급증, 금융시장의 급변 등의 사유로 거래소가 시장관리상 필요하다고 인정하는 경우에는 소액채권전담회원으로 재지정할 수 있다.<개정 2007. 12. 18., 2010. 11. 17., 2016. 3. 25., 2021. 6. 8., 2023. 12. 4.,2025. 11. 27.>
+② 거래소는 신청기간 종료일 현재 소액채권전담회원인 자가 다음 각 호의 요건을 모두 충족하는 경우에는 소액채권전담회원으로 재지정한다. 다만, 제2호의 요건을 충족하지 못하더라도 소액채권의 발행 급증, 금융시장의 급변 등의 사유로 거래소가 시장관리상 필요하다고 인정하는 경우에는 소액채권전담회원으로 재지정할 수 있다. <개정 2007. 12. 18., 2010. 11. 17., 2016. 3. 25., 2021. 6. 8., 2023. 12. 4.,2025. 11. 27.>
 
-1. 제1항 각 호(제4호는 제외한다)의 요건을 모두 충족할 것<신설 2025. 11. 27.>
+1. 제1항 각 호(제4호는 제외한다)의 요건을 모두 충족할 것 <신설 2025. 11. 27.>
 
-2. 제62조의3제1항에 따른 연간평가점수가 150점 이상일 것<신설 2025. 11. 27.>
+2. 제62조의3제1항에 따른 연간평가점수가 150점 이상일 것 <신설 2025. 11. 27.>
 
-③ 거래소는 소액채권전담회원을 매년 12월 중에 지정한다. 이 경우 지정기간은 다음 연도 1월 1일부터 1년간으로 한다.<개정 2025. 11. 27.>
+③ 거래소는 소액채권전담회원을 매년 12월 중에 지정한다. 이 경우 지정기간은 다음 연도 1월 1일부터 1년간으로 한다. <개정 2025. 11. 27.>
 
-④ 거래소는 다음 각 호의 어느 하나에 해당하는 회원에 대해서는 다음 연도부터 3년간 소액채권전담회원으로 지정하지 아니한다.<개정 2023. 12. 4.,2025. 11. 27.>
+④ 거래소는 다음 각 호의 어느 하나에 해당하는 회원에 대해서는 다음 연도부터 3년간 소액채권전담회원으로 지정하지 아니한다. <개정 2023. 12. 4.,2025. 11. 27.>
 
-1. 제2항에 따라 소액채권전담회원으로 재지정되지 못한 회원<신설 2025. 11. 27.>
+1. 제2항에 따라 소액채권전담회원으로 재지정되지 못한 회원 <신설 2025. 11. 27.>
 
-2. 제63조에 따라 소액채권전담회원의 지정이 취소된 회원<신설 2025. 11. 27.>
+2. 제63조에 따라 소액채권전담회원의 지정이 취소된 회원 <신설 2025. 11. 27.>
 
-⑤ 제1항부터 제4항까지 외에 소액채권전담회원의 지정과 관련하여 필요한 사항은 거래소가 별도로 정하는 바에 따른다.<신설 2007. 12. 18.,개정 2025. 11. 27.>
+⑤ 제1항부터 제4항까지 외에 소액채권전담회원의 지정과 관련하여 필요한 사항은 거래소가 별도로 정하는 바에 따른다. <신설 2007. 12. 18.,개정 2025. 11. 27.>
 
 **제62조의2(소액채권전담회원의 평가)**① 거래소는 소액채권전담회원을 대상으로 반기마다 별표 2의5에 따라 평가를 실시하여 반기 평가점수를 산출한다. 이 경우 거래소는 반기 평가점수를 해당 회원에게 통보할 수 있다.
 
@@ -2646,13 +2901,13 @@ attachments:
 
 [신설 2025. 11. 27.]
 
-**제63조(소액채권전담회원의 지정취소)**거래소는 다음 각 호의 어느 하나에 해당하는 경우에는 소액채권전담회원의 지정을 취소할 수 있다. 다만, 제2호에 해당하더라도 소액채권의 발행 급증, 금융시장의 급변 등의 사유로 거래소가 시장관리상 필요하다고 인정하는 경우에는 지정을 취소하지 않을 수 있다.<개정 2007. 12. 18., 2011. 3. 23., 2014. 2. 28., 2016. 3. 25., 2023. 12. 4.,2025. 11. 27.>
+**제63조(소액채권전담회원의 지정취소)**거래소는 다음 각 호의 어느 하나에 해당하는 경우에는 소액채권전담회원의 지정을 취소할 수 있다. 다만, 제2호에 해당하더라도 소액채권의 발행 급증, 금융시장의 급변 등의 사유로 거래소가 시장관리상 필요하다고 인정하는 경우에는 지정을 취소하지 않을 수 있다. <개정 2007. 12. 18., 2011. 3. 23., 2014. 2. 28., 2016. 3. 25., 2023. 12. 4.,2025. 11. 27.>
 
 1. 소액채권전담회원이 지정취소를 신청하는 경우
 
-2. 소액채권전담회원(신규로 지정한 소액채권전담회원은 제외한다)의 전반기평가점수(제62조의2제1항에 따른 평가를 실시한 연도의 상반기 평가점수와 직전 연도 하반기 평가점수를 합산한 점수를 말한다. 이하 같다)가 150점 미만인 경우<개정 2025. 11. 27.>
+2. 소액채권전담회원(신규로 지정한 소액채권전담회원은 제외한다)의 전반기평가점수(제62조의2제1항에 따른 평가를 실시한 연도의 상반기 평가점수와 직전 연도 하반기 평가점수를 합산한 점수를 말한다. 이하 같다)가 150점 미만인 경우 <개정 2025. 11. 27.>
 
-3. 전반기평가점수의 산출대상기간 또는 연간평가점수의 산출대상기간에 채권종류별로 제74조제1항부터 제3항까지의 어느 하나를 위반한 날이 10매매거래일 이상인 경우<개정 2025. 11. 27.>
+3. 전반기평가점수의 산출대상기간 또는 연간평가점수의 산출대상기간에 채권종류별로 제74조제1항부터 제3항까지의 어느 하나를 위반한 날이 10매매거래일 이상인 경우 <개정 2025. 11. 27.>
 
 4. 소액채권의 매매거래와 관련하여 시장운영에 지장을 초래하거나 공정성을 현저히 저해한다고 인정하는 경우
 
@@ -2670,15 +2925,15 @@ attachments:
 
 3. 그 밖에 소액채권의 매매거래와 관련하여 필요한 사항
 
-제1절의2 호가의 관리 및 가격제한<신설 2009. 2. 3.>
+ 제1절의2 호가의 관리 및 가격제한<신설 2009. 2. 3.>
 
-**제64조의2(차입공매도 호가 통보 방법)**①규정제44조의2제6항에 따라 회원은 차입공매도 호가를 제출한 날에 별지 제7호의2 서식에 따른 차입공매도 호가 통보서를 우편, 인편 또는 모사전송의 방법으로 거래소에 제출하여야 한다.
+**제64조의2(차입공매도 호가 통보 방법)**① 규정 제44조의2제6항에 따라 회원은 차입공매도 호가를 제출한 날에 별지 제7호의2 서식에 따른 차입공매도 호가 통보서를 우편, 인편 또는 모사전송의 방법으로 거래소에 제출하여야 한다.
 
-② 회원이 제12조제1항제8호나목에 따라 차입공매도 호가를 입력한 경우에는 제1항의 차입공매도 호가 통보서를 거래소에 제출한 것으로 본다.<개정 2009. 3. 19.>
+② 회원이 제12조제1항제8호나목에 따라 차입공매도 호가를 입력한 경우에는 제1항의 차입공매도 호가 통보서를 거래소에 제출한 것으로 본다. <개정 2009. 3. 19.>
 
 [본조신설 2009. 2. 3.]
 
-**제64조의3(차입공매도 호가의 가격제한등)**규정제44조의3제3항에 따라 다음 각호의 어느 하나에 해당하는 경우에는규정제18조제1항의 단서를 준용하지 아니한다.<개정 2009. 3. 6., 2014. 7. 10.>
+**제64조의3(차입공매도 호가의 가격제한등)**규정 제44조의3제3항에 따라 다음 각호의 어느 하나에 해당하는 경우에는 규정 제18조제1항의 단서를 준용하지 아니한다. <개정 2009. 3. 6., 2014. 7. 10.>
 
 1. 시가가 결정되지 아니한 경우
 
@@ -2686,17 +2941,17 @@ attachments:
 
 [본조신설 2009. 2. 3.]
 
-제2절 호가 및 매매수량단위
+ 제2절 호가 및 매매수량단위
 
-**제65조(호가단위)**①규정제45조에 따른 채무증권의 호가수량단위는 다음 각호와 같이 한다.<개정 2009. 2. 3.>
+**제65조(호가단위)**① 규정 제45조에 따른 채무증권의 호가수량단위는 다음 각호와 같이 한다. <개정 2009. 2. 3.>
 
 1. 외화표시채무증권을 제외한 채무증권 : 액면 1만원
 
 2. 외화표시채무증권 : 1만포인트(최소권종금액을 1만포인트로 본다)
 
-②규정제45조에 따른 채무증권의 호가가격단위는 다음 각 호와 같이 한다.<개정 2009. 2. 3., 2016. 6. 21., 2023. 6. 14.>
+② 규정 제45조에 따른 채무증권의 호가가격단위는 다음 각 호와 같이 한다. <개정 2009. 2. 3., 2016. 6. 21., 2023. 6. 14.>
 
-1. 외화표시채무증권과규정제55조제3호가목에 따른 지표종목(이하 "지표종목"이라 한다)을 제외한 채무증권: 다음 각 목의 구분에 따른 호가가격단위
+1. 외화표시채무증권과 규정 제55조제3호가목에 따른 지표종목(이하 "지표종목"이라 한다)을 제외한 채무증권: 다음 각 목의 구분에 따른 호가가격단위
 
 가. 잔존만기가 2년 미만인 경우: 0. 1원
 
@@ -2718,31 +2973,31 @@ attachments:
 
 나. 만기가 10년 이상인 경우 및 물가연동국고채권인 경우 : 1원
 
-**제66조(매매수량단위)**규정제45조에 따른 채무증권(국채전문유통시장에서 매매거래되는 채무증권은 제외한다)의 매매수량단위는 다음 각 호와 같이 한다.<개정 2006. 10. 12., 2009. 2. 3., 2012. 12. 13., 2014. 2. 28., 2019. 9. 10., 2024. 5. 23.>
+**제66조(매매수량단위)**규정 제45조에 따른 채무증권(국채전문유통시장에서 매매거래되는 채무증권은 제외한다)의 매매수량단위는 다음 각 호와 같이 한다. <개정 2006. 10. 12., 2009. 2. 3., 2012. 12. 13., 2014. 2. 28., 2019. 9. 10., 2024. 5. 23.>
 
 1. 소액채권 : 액면 1,000원
 
 2. 외화표시채무증권 : 1만포인트
 
-3. 삭제<2014. 2. 28.>
+3. 삭제 <2014. 2. 28.>
 
 4. 「주식·사채 등의 전자등록에 관한 법률」 제59조에 따른 단기사채등 : 액면 1억원
 
-5. 제1호부터 제4호까지 외의 채무증권 : 액면 10,000원<개정 2025. 12. 24.>
+5. 제1호부터 제4호까지 외의 채무증권 : 액면 10,000원 <개정 2025. 12. 24.>
 
-제3절 매매계약의 체결
+ 제3절 매매계약의 체결
 
-**제67조(동시호가의 우선순위)**①규정제46조제2항제3호에 따른 동시호가는 소액채권에 한하여 적용하며, 그 우선순위는 다음 각 호에서 정하는 바에 따른다.<개정 2014. 2. 28., 2022. 12. 22.>
+**제67조(동시호가의 우선순위)**① 규정 제46조제2항제3호에 따른 동시호가는 소액채권에 한하여 적용하며, 그 우선순위는 다음 각 호에서 정하는 바에 따른다. <개정 2014. 2. 28., 2022. 12. 22.>
 
 1. 종목별매수호가가 종류별매수호가에 우선한다.
 
-2. 삭제<2022. 12. 22.>
+2. 삭제 <2022. 12. 22.>
 
 3. 매수호가간에는 위탁매수호가와 소액채권전담회원의 자기매수호가가 다른 매수호가에 우선한다.
 
 4. 매도호가간에는 제76조제5항에 따른 매도호가가 다른 매도호가에 우선한다.
 
-② 제1항 각 호에 따른 우선순위를 적용한 이후 서로 우선하지 않는 호가간에는 호가별로 수량이 많은 호가가 수량이 적은 호가(수량이 동일한 때에는 거래소시스템상의 기록순위로 한다)보다 다음 제1호의 수량에 달할 때까지 우선한다. 제1호의 수량을 초과하는 호가는 위와 같은 방법으로 제2호부터 순차적으로 적용한다.<개정 2014. 2. 28., 2022. 12. 22.>
+② 제1항 각 호에 따른 우선순위를 적용한 이후 서로 우선하지 않는 호가간에는 호가별로 수량이 많은 호가가 수량이 적은 호가(수량이 동일한 때에는 거래소시스템상의 기록순위로 한다)보다 다음 제1호의 수량에 달할 때까지 우선한다. 제1호의 수량을 초과하는 호가는 위와 같은 방법으로 제2호부터 순차적으로 적용한다. <개정 2014. 2. 28., 2022. 12. 22.>
 
 1. 1,000만원
 
@@ -2756,81 +3011,81 @@ attachments:
 
 6. 잔량
 
-**제67조의2(단일가격에 의한 개별경쟁매매)**규정제47조제1항제3호 단서에서 "세칙으로 정하는 채무증권"이란 소액채권을 말한다.
+**제67조의2(단일가격에 의한 개별경쟁매매)**규정 제47조제1항제3호 단서에서 "세칙으로 정하는 채무증권"이란 소액채권을 말한다.
 
 [본조신설 2015. 11. 18.]
 
-**제68조(동시호가의 범위 등<개정 2014. 2. 28.>)**규정제47조제2항에 따른 동시호가(소액채권 외의 채무증권의 단일가격에 의한 개별경쟁매매에 참여하는 호가를 포함한다)의 범위는 다음 각 호에서 정하는 시간동안 접수된 호가로 하며, 그 이전에 접수한 호가중 매매거래가 성립되지 아니한 호가가 있는 경우에는 이를 포함한다. 다만, 위의 호가로 매매거래가 성립되지 아니한 경우에는 최초의 가격결정이 있을 때까지의 모든 호가로 한다.<개정 2014. 2. 28.>
+**제68조(동시호가의 범위 등<개정 2014. 2. 28.>)**규정 제47조제2항에 따른 동시호가(소액채권 외의 채무증권의 단일가격에 의한 개별경쟁매매에 참여하는 호가를 포함한다)의 범위는 다음 각 호에서 정하는 시간동안 접수된 호가로 하며, 그 이전에 접수한 호가중 매매거래가 성립되지 아니한 호가가 있는 경우에는 이를 포함한다. 다만, 위의 호가로 매매거래가 성립되지 아니한 경우에는 최초의 가격결정이 있을 때까지의 모든 호가로 한다. <개정 2014. 2. 28.>
 
-1.규정제47조제1항제1호의 규정에 의한 가격결정의 경우에는 제11조의 규정에 의한 정규시장의 호가접수시간의 개시시점부터 장개시시점까지로 한다.
+1. 규정 제47조제1항제1호의 규정에 의한 가격결정의 경우에는 제11조의 규정에 의한 정규시장의 호가접수시간의 개시시점부터 장개시시점까지로 한다.
 
-2.규정제47조제1항제2호 및 제3호의 규정에 의한 가격결정의 경우에는 시장 또는 매매거래의 재개시점부터 10분간으로 한다.
+2. 규정 제47조제1항제2호 및 제3호의 규정에 의한 가격결정의 경우에는 시장 또는 매매거래의 재개시점부터 10분간으로 한다.
 
-**제69조(종목별 매매거래정지 후 매매거래 재개 등)**①규정제49조제1항에 따라 매매거래를 정지한 후 매매거래를 재개하는 시기는 다음 각 호에 따라 정한다.<개정 2020. 7. 23.>
+**제69조(종목별 매매거래정지 후 매매거래 재개 등)**① 규정 제49조제1항에 따라 매매거래를 정지한 후 매매거래를 재개하는 시기는 다음 각 호에 따라 정한다. <개정 2020. 7. 23.>
 
-1.규정제49조제1항제1호에 따라 정지된 경우: 호가상황 및 매매거래상황을 감안하여 매매거래의 재개시기를 정한다.
+1. 규정 제49조제1항제1호에 따라 정지된 경우: 호가상황 및 매매거래상황을 감안하여 매매거래의 재개시기를 정한다.
 
-2.규정제49조제1항제2호에 따라 정지된 경우: 투자유의채권종목으로 지정된 지정일의 그 다음 매매거래일에 재개한다.
+2. 규정 제49조제1항제2호에 따라 정지된 경우: 투자유의채권종목으로 지정된 지정일의 그 다음 매매거래일에 재개한다.
 
-3.규정제49조제1항제3호에 따라 정지된 경우: 시장상황 및 매매거래상황을 감안하여 매매거래의 재개시기를 정한다.
+3. 규정 제49조제1항제3호에 따라 정지된 경우: 시장상황 및 매매거래상황을 감안하여 매매거래의 재개시기를 정한다.
 
-②규정제49조에 따라 매매거래를 정지하거나 재개한 경우에는 즉시 그 사실을 공표한다.
+② 규정 제49조에 따라 매매거래를 정지하거나 재개한 경우에는 즉시 그 사실을 공표한다.
 
 [전문개정 2015. 11. 18.]
 
-**제70조(전산장애시의 조치 및 매매계약체결방법<개정 2026. 1. 15.>)**①규정제50조에 따라 거래소는 전산장애가 발생한 사실이 확인되고 전산장애가 계속될 것으로 예상되는 경우에는 다음 각 호의 어느 하나에 해당하는 조치를 할 수 있다.<개정 2026. 1. 15.>
+**제70조(전산장애시의 조치 및 매매계약체결방법<개정 2026. 1. 15.>)**① 규정 제50조에 따라 거래소는 전산장애가 발생한 사실이 확인되고 전산장애가 계속될 것으로 예상되는 경우에는 다음 각 호의 어느 하나에 해당하는 조치를 할 수 있다. <개정 2026. 1. 15.>
 
-1. 전산장애를 초래한 호가의 취소<신설 2026. 1. 15.>
+1. 전산장애를 초래한 호가의 취소 <신설 2026. 1. 15.>
 
-2. 호가접수의 정지 또는 매매거래의 중단. 이 경우 호가 내용의 복구가 불가능하거나 전산장애의 조속한 복구를 위하여 필요한 경우 등에는 호가접수의 정지 또는 매매거래의 중단시까지 체결되지 않은 호가를 취소할 수 있다.<신설 2026. 1. 15.>
+2. 호가접수의 정지 또는 매매거래의 중단. 이 경우 호가 내용의 복구가 불가능하거나 전산장애의 조속한 복구를 위하여 필요한 경우 등에는 호가접수의 정지 또는 매매거래의 중단시까지 체결되지 않은 호가를 취소할 수 있다. <신설 2026. 1. 15.>
 
-② 제1항제2호에 따른 호가접수의 정지 또는 매매거래의 중단 이후 전산장애를 복구한 경우에는 거래소가 정하는 때부터 호가접수 또는 매매거래를 재개한다.<신설 2026. 1. 15.>
+② 제1항제2호에 따른 호가접수의 정지 또는 매매거래의 중단 이후 전산장애를 복구한 경우에는 거래소가 정하는 때부터 호가접수 또는 매매거래를 재개한다. <신설 2026. 1. 15.>
 
-③ 전산장애가 장시간 계속되는 경우의 매매계약체결방법은 다음 각호와 같이 한다.<개정 2017. 8. 24.>
+③ 전산장애가 장시간 계속되는 경우의 매매계약체결방법은 다음 각호와 같이 한다. <개정 2017. 8. 24.>
 
 1. 회원시스템 장애시 매매계약체결방법
-장애가 장종료전 일정시간까지 복구되지 아니하는 경우에는 장애발생시점에서 당일의 매매거래가 종결된 것으로 본다.
+ 장애가 장종료전 일정시간까지 복구되지 아니하는 경우에는 장애발생시점에서 당일의 매매거래가 종결된 것으로 본다.
 
 2. 거래소시스템 장애시 매매계약체결방법
-장종료시까지 전산장애가 복구되지 아니할 것으로 예상되어 매매계약을 체결하는 것이 불가능하다고 인정되는 경우에는 장애발생시점에서 당일의 매매거래가 종결된 것으로 본다.
+ 장종료시까지 전산장애가 복구되지 아니할 것으로 예상되어 매매계약을 체결하는 것이 불가능하다고 인정되는 경우에는 장애발생시점에서 당일의 매매거래가 종결된 것으로 본다.
 
-④ 제2항에 따라 매매거래를 재개하는 경우의 최초의 가격의 결정은 다음 각 호의 매매계약체결방법에 따른다.<신설 2014. 2. 28., 2017. 8. 24.,개정 2026. 1. 15.>
+④ 제2항에 따라 매매거래를 재개하는 경우의 최초의 가격의 결정은 다음 각 호의 매매계약체결방법에 따른다. <신설 2014. 2. 28., 2017. 8. 24.,개정 2026. 1. 15.>
 
-1.규정제71조의3제2항제4호에 따른 매매거래(이하 "일반채권시장의 매매거래"라 한다)
-규정제47조에 따른 단일가격에 의한 개별경쟁매매방법. 이 경우 해당 가격을 결정하기 위하여 참여하는 호가의 범위는 거래소가 그 때마다 정함<개정 2026. 1. 15.>
+1. 규정 제71조의3제2항제4호에 따른 매매거래(이하 "일반채권시장의 매매거래"라 한다)
+ 규정 제47조에 따른 단일가격에 의한 개별경쟁매매방법. 이 경우 해당 가격을 결정하기 위하여 참여하는 호가의 범위는 거래소가 그 때마다 정함 <개정 2026. 1. 15.>
 
 2. 소액채권의 매매거래
-규정제48조에 따른 복수가격에 의한 개별경쟁매매방법<개정 2026. 1. 15.>
+ 규정 제48조에 따른 복수가격에 의한 개별경쟁매매방법 <개정 2026. 1. 15.>
 
-⑤ 제3항 및 제4항 외에 전산장애시 매매계약체결방법은 거래소가 그 때마다 정하는 바에 따른다.<개정 2014. 2. 28.,2026. 1. 15.>
+⑤ 제3항 및 제4항 외에 전산장애시 매매계약체결방법은 거래소가 그 때마다 정하는 바에 따른다. <개정 2014. 2. 28.,2026. 1. 15.>
 
-**제71조(호가폭주시의 조치 및 매매계약체결방법<개정 2026. 1. 15.>)**① 삭제<2014. 2. 28.>
+**제71조(호가폭주시의 조치 및 매매계약체결방법<개정 2026. 1. 15.>)**① 삭제 <2014. 2. 28.>
 
-② 삭제<2014. 2. 28.>
+② 삭제 <2014. 2. 28.>
 
-③ 거래소는 호가폭주로 전산장애가 발생할 우려가 있는 경우에는 다음 각 호의 어느 하나에 해당하는 조치를 할 수 있다.<개정 2014. 2. 28.,2026. 1. 15.>
+③ 거래소는 호가폭주로 전산장애가 발생할 우려가 있는 경우에는 다음 각 호의 어느 하나에 해당하는 조치를 할 수 있다. <개정 2014. 2. 28.,2026. 1. 15.>
 
-1. 호가접수의 정지 또는 매매거래의 중단. 이 경우 호가 내용의 복구가 불가능하거나 복구시 전산장애 발생의 우려가 있는 경우 등에는 호가접수의 정지 또는 매매거래의 중단시까지 체결되지 않은 호가를 취소할 수 있다.<신설 2026. 1. 15.>
+1. 호가접수의 정지 또는 매매거래의 중단. 이 경우 호가 내용의 복구가 불가능하거나 복구시 전산장애 발생의 우려가 있는 경우 등에는 호가접수의 정지 또는 매매거래의 중단시까지 체결되지 않은 호가를 취소할 수 있다. <신설 2026. 1. 15.>
 
-2. 당일 매매거래의 종결<신설 2026. 1. 15.>
+2. 당일 매매거래의 종결 <신설 2026. 1. 15.>
 
-④ 제3항제1호에 따른 호가접수의 정지 또는 매매거래의 중단 이후 호가폭주로 인한 전산장애 발생의 우려가 소멸하였다고 거래소가 판단하는 경우에는 거래소가 정하는 때부터 호가접수 또는 매매거래를 재개한다.<신설 2026. 1. 15.>
+④ 제3항제1호에 따른 호가접수의 정지 또는 매매거래의 중단 이후 호가폭주로 인한 전산장애 발생의 우려가 소멸하였다고 거래소가 판단하는 경우에는 거래소가 정하는 때부터 호가접수 또는 매매거래를 재개한다. <신설 2026. 1. 15.>
 
-⑤ 제4항에 따라 매매거래를 재개하는 경우의 최초의 가격의 결정방법에 관하여는 제70조제4항을 준용한다.<신설 2026. 1. 15.>
+⑤ 제4항에 따라 매매거래를 재개하는 경우의 최초의 가격의 결정방법에 관하여는 제70조제4항을 준용한다. <신설 2026. 1. 15.>
 
-⑥규정제47조에 따른 단일가격에 의한 개별경쟁매매를 위한 호가접수시간 중에 호가폭주로 인하여 매매거래를 종결하는 경우에는 호가상황 등을 감안하여 해당 종결시점까지 접수된 호가로 매매계약을 체결할 수 있다.<신설 2026. 1. 15.>
+⑥ 규정 제47조에 따른 단일가격에 의한 개별경쟁매매를 위한 호가접수시간 중에 호가폭주로 인하여 매매거래를 종결하는 경우에는 호가상황 등을 감안하여 해당 종결시점까지 접수된 호가로 매매계약을 체결할 수 있다. <신설 2026. 1. 15.>
 
-⑦ 제5항 및 제6항 외에 호가폭주시 매매계약체결방법은 거래소가 그 때마다 정하는 바에 따른다.<개정 2014. 2. 28.,2026. 1. 15.>
+⑦ 제5항 및 제6항 외에 호가폭주시 매매계약체결방법은 거래소가 그 때마다 정하는 바에 따른다. <개정 2014. 2. 28.,2026. 1. 15.>
 
-**제72조(준용규정)**제44조부터 제47조까지의 규정은 채무증권의 착오매매에 관하여 이를 준용한다.<개정 2009. 2. 3.>
+**제72조(준용규정)**제44조부터 제47조까지의 규정은 채무증권의 착오매매에 관하여 이를 준용한다. <개정 2009. 2. 3.>
 
-제4절 매매계약체결의 특례
+ 제4절 매매계약체결의 특례
 
-**제73조(소액채권 자기매매의 신고)**① 회원은규정제52조의 규정에 의하여 시장외에서 소액채권을 자기매매하는 경우에는 종목, 수량, 가격, 매도·매수의 구분 및 매매건별 매매시간에 관한 사항을 지체없이 거래소에 신고하여야 한다. 이 경우 신고는 회원시스템을 통하여 거래소시스템에 입력하는 방법으로 한다.
+**제73조(소액채권 자기매매의 신고)**① 회원은 규정 제52조의 규정에 의하여 시장외에서 소액채권을 자기매매하는 경우에는 종목, 수량, 가격, 매도·매수의 구분 및 매매건별 매매시간에 관한 사항을 지체없이 거래소에 신고하여야 한다. 이 경우 신고는 회원시스템을 통하여 거래소시스템에 입력하는 방법으로 한다.
 
 ② 제1항의 규정에 의한 시장외에서 소액채권의 자기매매시 기준이 되는 시장가격은 신고시장가격으로 한다.
 
-**제74조(소액채권전담회원의 매수호가등)**① 소액채권전담회원은 소액채권의 매매거래를 위하여 발행월별로 매일 장개시전과 장종료 20분전부터 장종료시점까지에 다음 각호에서 정하는 금액이상의 종류별매수호가를 각각 제출하여야 한다. 이 경우 전월발행 채권의 최초 매매거래일에는 제1호를 적용한다.<개정 2005. 12. 1., 2006. 7. 21., 2010. 5. 7., 2023. 12. 4.>
+**제74조(소액채권전담회원의 매수호가등)**① 소액채권전담회원은 소액채권의 매매거래를 위하여 발행월별로 매일 장개시전과 장종료 20분전부터 장종료시점까지에 다음 각호에서 정하는 금액이상의 종류별매수호가를 각각 제출하여야 한다. 이 경우 전월발행 채권의 최초 매매거래일에는 제1호를 적용한다. <개정 2005. 12. 1., 2006. 7. 21., 2010. 5. 7., 2023. 12. 4.>
 
 1. 당월발행 채권
 
@@ -2842,7 +3097,7 @@ attachments:
 
 라. 지방도시철도채권 : 2억원
 
-마. 삭제<2005. 12. 1.>
+마. 삭제 <2005. 12. 1.>
 
 2. 전월발행 채권
 
@@ -2854,27 +3109,27 @@ attachments:
 
 라. 지방도시철도채권 : 1억원
 
-마. 삭제<2005. 12. 1.>
+마. 삭제 <2005. 12. 1.>
 
-② 소액채권전담회원은 제75조제1항제1호의 규정에 의한 위탁매도호가 및 제76조제5항의 규정에 의한 자기매도호가에 대하여 의무적으로 매수호가하여야 한다. 이 경우 거래소는 호가상황을 감안하여 소액채권전담회원에게 필요한 수량의 매수호가를 제출하도록 요구할 수 있다.<개정 2007. 12. 18.>
+② 소액채권전담회원은 제75조제1항제1호의 규정에 의한 위탁매도호가 및 제76조제5항의 규정에 의한 자기매도호가에 대하여 의무적으로 매수호가하여야 한다. 이 경우 거래소는 호가상황을 감안하여 소액채권전담회원에게 필요한 수량의 매수호가를 제출하도록 요구할 수 있다. <개정 2007. 12. 18.>
 
-③ 소액채권전담회원은 신고시장가격 산출을 위한 가격(이하 "소액채권전담회원신고가격"이라 한다)을 장종료후 17시 30분까지 거래소시스템에 입력하는 방법으로 신고하여야 한다.<개정 2016. 6. 21., 2016. 11. 23.>
+③ 소액채권전담회원은 신고시장가격 산출을 위한 가격(이하 "소액채권전담회원신고가격"이라 한다)을 장종료후 17시 30분까지 거래소시스템에 입력하는 방법으로 신고하여야 한다. <개정 2016. 6. 21., 2016. 11. 23.>
 
-**제75조(소액채권의 장종료시 매매거래)**①규정제53조제3항에 따른 호가의 범위는 다음 각 호와 같다. 이 경우 그 호가는 신고시장가격으로 호가한 것으로 본다.<개정 2014. 2. 28.>
+**제75조(소액채권의 장종료시 매매거래)**① 규정 제53조제3항에 따른 호가의 범위는 다음 각 호와 같다. 이 경우 그 호가는 신고시장가격으로 호가한 것으로 본다. <개정 2014. 2. 28.>
 
 1. 매도호가
-장종료 20분전부터 장종료시까지 접수된 신고시장가격 이하의 위탁매도호가(그 이전에 접수된 신고시장가격 이하의 위탁매도호가중 매매거래가 성립되지 아니한 호가를 포함한다)
+ 장종료 20분전부터 장종료시까지 접수된 신고시장가격 이하의 위탁매도호가(그 이전에 접수된 신고시장가격 이하의 위탁매도호가중 매매거래가 성립되지 아니한 호가를 포함한다)
 
 2. 매수호가
-다음 각 목의 호가. 이 경우 제10조에 따른 종류별 매수호가가 가능한 경우에는 종목별 매수호가는 제외한다.
+ 다음 각 목의 호가. 이 경우 제10조에 따른 종류별 매수호가가 가능한 경우에는 종목별 매수호가는 제외한다.
 
 가. 장종료 20분전부터 장종료시까지 접수된 소액채권전담회원의 자기매수호가(그 이전에 접수된 신고시장가격 이상의 소액채권전담회원의 자기매수호가중 매매거래가 성립되지 아니한 호가를 포함한다)
 
 나. 장종료 20분전부터 장종료시까지 접수된 신고시장가격 이상의 호가중 제104조제1항제6호아목 투자자의 위탁매수호가(그 이전에 접수된 신고시장가격 이상의 위탁매수호가중 매매거래가 성립되지 아니한 호가를 포함한다)
 
-② 제1항에 따른 호가의 우선순위는 다음 각 호와 같이 한다. 이 경우 호가시간의 선후는 구분하지 아니하며, 호가수량이 동일한 때에는 거래소시스템상의 기록순위로 한다.<개정 2014. 2. 28., 2015. 11. 18., 2016. 11. 23., 2022. 12. 22.>
+② 제1항에 따른 호가의 우선순위는 다음 각 호와 같이 한다. 이 경우 호가시간의 선후는 구분하지 아니하며, 호가수량이 동일한 때에는 거래소시스템상의 기록순위로 한다. <개정 2014. 2. 28., 2015. 11. 18., 2016. 11. 23., 2022. 12. 22.>
 
-1. 매도호가의 총호가수량이 매수호가의 총호가수량보다 많은 경우:규정제95조에 따라 매도주문대행계약을 체결한 회원(이하 "매도대행사"라 한다)이규정제77조제1항단서의 소액채권전용공동계좌(이하 "공동계좌"라 한다)를 통하여 제출한 매도호가가 다른 매도호가보다 우선하며, 매도호가별로 수량이 적은 매도호가가 수량이 많은 매도호가보다 우선한다.
+1. 매도호가의 총호가수량이 매수호가의 총호가수량보다 많은 경우: 규정 제95조에 따라 매도주문대행계약을 체결한 회원(이하 "매도대행사"라 한다)이 규정 제77조제1항단서의 소액채권전용공동계좌(이하 "공동계좌"라 한다)를 통하여 제출한 매도호가가 다른 매도호가보다 우선하며, 매도호가별로 수량이 적은 매도호가가 수량이 많은 매도호가보다 우선한다.
 
 2. 총 매수호가수량이 총 매도호가수량보다 많은 경우 다음 각 목과 같다.
 
@@ -2882,9 +3137,9 @@ attachments:
 
 나. 가목을 제외한 매도호가 수량의 경우 매수호가 간에는 호가잔량을 기준으로 수량이 많은 매수호가가 수량이 적은 매수호가보다 안분비례로 산출한 수량(매매수량단위 미만의 수량이 있는 경우에는 그 수량을 최초 호가수량이 가장 많은 호가에 합산한다)까지 우선한다.
 
-**제75조의2(협의매매)**①규정제53조의2제2항제3호에서 "세칙으로 정하는 채무증권의 매매거래"란 일반채권시장의 매매거래를 말한다.<개정 2026. 1. 15.>
+**제75조의2(협의매매)**① 규정 제53조의2제2항제3호에서 "세칙으로 정하는 채무증권의 매매거래"란 일반채권시장의 매매거래를 말한다. <개정 2026. 1. 15.>
 
-②규정제53조의2제1항에 따른 협의매매(이하 "협의매매"라 한다)의 호가는 다음 각 호와 같이 구분한다.
+② 규정 제53조의2제1항에 따른 협의매매(이하 "협의매매"라 한다)의 호가는 다음 각 호와 같이 구분한다.
 
 1. 요청호가 : 호가를 요청하는 자(이하 "호가요청자"라 한다)가 수량 또는 가격(환매채거래의 경우에는 환매이자율을 말한다. 이하 이 조에서 같다)을 지정하여 요청하는 호가. 다만, 환매채거래 및 일반채권시장의 매매거래의 경우에는 수량 및 가격을 지정하여야 한다.
 
@@ -2896,13 +3151,13 @@ attachments:
 
 2. 제1호 외의 매매거래 : 액면 1만원
 
-④ 협의매매의 호가가격단위는 다음 각 호와 같다.<개정 2016. 6. 21.>
+④ 협의매매의 호가가격단위는 다음 각 호와 같다. <개정 2016. 6. 21.>
 
 1. 환매채거래 : 제89조제2항의 환매이자율
 
 2. 제1호 외의 매매거래 : 제65조제2항에 따른 호가가격단위
 
-⑤ 협의매매의 매매수량단위는 다음 각 호와 같다.<개정 2024. 5. 23.>
+⑤ 협의매매의 매매수량단위는 다음 각 호와 같다. <개정 2024. 5. 23.>
 
 1. 국채전문유통시장의 매매거래 : 액면 1억원
 
@@ -2927,19 +3182,19 @@ attachments:
 ⑧ 일반채권시장의 매매거래의 경우 외화표시채무증권에 대한 협의매매의 호가 및 외국인투자자가 위탁자인 위탁매매에 따른 협의매매의 호가를 제출할 수 없다.
 
 ⑨ 환매채거래의 경우 거래기간은 365일 이내(거래기간의 계산 시 휴장일을 산입한다)로 하며, 담보로 사용되는 매매채권의 수량은 다음 산식에 따라 산출하는 평가금액이 매매대금을 상회하는 최소 채권수량을 1만원 단위까지로 한다.
-· 평가금액=(담보채권의 액면총액×시장가치/10,000)/(1+보전비율)
+ · 평가금액=(담보채권의 액면총액×시장가치/10,000)/(1+보전비율)
 
 ⑩ 제1항부터 제9항까지 외에 협의매매에 관하여 필요한 사항은 거래소가 정하는 바에 따른다.
 
 [본조신설 2016. 3. 24.]
 
-**제76조(채무증권의 신고매매<개정 2009. 2. 3.>)**①규정제54조에 따른 채무증권의 신고매매는 다음 각호의 어느 하나에 해당하는 경우에 할 수 있다.<개정 2005. 8. 26., 2006. 12. 20., 2009. 2. 3., 2010. 12. 6., 2011. 3. 23., 2015. 11. 18., 2016. 3. 24., 2019. 9. 10., 2022. 12. 22., 2024. 5. 23.>
+**제76조(채무증권의 신고매매<개정 2009. 2. 3.>)**① 규정 제54조에 따른 채무증권의 신고매매는 다음 각호의 어느 하나에 해당하는 경우에 할 수 있다. <개정 2005. 8. 26., 2006. 12. 20., 2009. 2. 3., 2010. 12. 6., 2011. 3. 23., 2015. 11. 18., 2016. 3. 24., 2019. 9. 10., 2022. 12. 22., 2024. 5. 23.>
 
-1.규정제43조제1호의 규정에 의한 전환사채권을 장종료후 매매거래를 성립시키는 경우
+1. 규정 제43조제1호의 규정에 의한 전환사채권을 장종료후 매매거래를 성립시키는 경우
 
 2. 매도대행사가 장종료후 매출대행기관으로부터 접수한 매도주문에 대하여 당일의 신고시장가격으로 매수호가를 하는 경우
 
-3.법제168조에 따른 외국인 또는 외국법인등이 매매거래하고자 하는 채무증권에 대하여 매매거래를 성립시키는 경우
+3. 법 제168조에 따른 외국인 또는 외국법인등이 매매거래하고자 하는 채무증권에 대하여 매매거래를 성립시키는 경우
 
 4. 제61조 각호의 채권중 매매거래일을 기준으로 당월 및 전월에 발행된 채권에 대하여 매매거래를 성립시키는 경우
 
@@ -2947,13 +3202,13 @@ attachments:
 
 4의3. 국채전문유통시장에서 매매거래를 성립시키는 경우
 
-5.규정제55조제2호에 따른 국고채전문딜러(이하 "전문딜러"라 한다)가 「국채법」 제4조제1항제1호가목에 따른 국고채권(이하 "국고채권"이라 한다)의 수급불안을 해소하기 위해 정부 또는 한국은행과 환매채거래를 하는 경우
+5. 규정 제55조제2호에 따른 국고채전문딜러(이하 "전문딜러"라 한다)가 「국채법」 제4조제1항제1호가목에 따른 국고채권(이하 "국고채권"이라 한다)의 수급불안을 해소하기 위해 정부 또는 한국은행과 환매채거래를 하는 경우
 
 6. 기획재정부의 「국고채권의 발행 및 국고채전문딜러 운영에 관한 규정」(이하 "「국고채권 운영규정」"이라 한다)에 따른 국채금융을 위하여 국채금융 대행기관이 전문딜러와 환매채거래를 하는 경우
 
-7. 제5호 및 제6호에 따른 환매채거래 이외에규정제71조에 따른 참가약정서를 제출한 자간에 환매채거래를 하는 경우
+7. 제5호 및 제6호에 따른 환매채거래 이외에 규정 제71조에 따른 참가약정서를 제출한 자간에 환매채거래를 하는 경우
 
-② 채무증권의 신고매매를 위한 매매거래시간은 다음 각 호와 같다.<개정 2005. 8. 26., 2006. 12. 20., 2009. 2. 3., 2015. 11. 18., 2016. 3. 24., 2016. 6. 21., 2019. 2. 21., 2019. 4. 3.>
+② 채무증권의 신고매매를 위한 매매거래시간은 다음 각 호와 같다. <개정 2005. 8. 26., 2006. 12. 20., 2009. 2. 3., 2015. 11. 18., 2016. 3. 24., 2016. 6. 21., 2019. 2. 21., 2019. 4. 3.>
 
 1. 제1항제1호 및 제2호의 경우 장종료시점부터 18시까지
 
@@ -2967,127 +3222,127 @@ attachments:
 
 4. 제1항제7호의 경우 장개시시점부터 15시 40분까지
 
-③ 채무증권의 신고매매를 하고자 하는 경우에는 제2항의 규정에 의한 매매거래시간동안에 종목, 수량, 가격이 동일한 매도호가 및 매수호가를 회원시스템 또는 회원채무증권단말기를 통하여 거래소시스템에 입력하는 방법으로 신청하여야 한다. 다만, 제1항제6호에 따른 신고매매의 경우의 매수호가는 비지정매수호가로 보아 「증권시장 청산결제 업무규정」제25조에 따라 환매일 전일까지 다른 종목의 채권으로 대체하여 신청할 수 있다.<개정 2009. 2. 3., 2009. 4. 27., 2024. 5. 23.,2025. 2. 27.>
+③ 채무증권의 신고매매를 하고자 하는 경우에는 제2항의 규정에 의한 매매거래시간동안에 종목, 수량, 가격이 동일한 매도호가 및 매수호가를 회원시스템 또는 회원채무증권단말기를 통하여 거래소시스템에 입력하는 방법으로 신청하여야 한다. 다만, 제1항제6호에 따른 신고매매의 경우의 매수호가는 비지정매수호가로 보아 「증권시장 청산결제 업무규정」 제25조에 따라 환매일 전일까지 다른 종목의 채권으로 대체하여 신청할 수 있다. <개정 2009. 2. 3., 2009. 4. 27., 2024. 5. 23.,2025. 2. 27.>
 
-④ 거래소는 제3항의 신청이 있는 경우 해당 호가간에 신고매매가 성립되고, 그와 동시에 결제가 이루어진 것으로 본다. 다만, 제1항제4호의2·제4호의3·제6호 및 제7호의 경우에는 그러하지 아니하다.<개정 2005. 8. 26., 2006. 12. 20., 2015. 11. 18., 2016. 3. 24.>
+④ 거래소는 제3항의 신청이 있는 경우 해당 호가간에 신고매매가 성립되고, 그와 동시에 결제가 이루어진 것으로 본다. 다만, 제1항제4호의2·제4호의3·제6호 및 제7호의 경우에는 그러하지 아니하다. <개정 2005. 8. 26., 2006. 12. 20., 2015. 11. 18., 2016. 3. 24.>
 
-⑤ 제1항제2호의 경우에 해당하는 신고매매를 한 회원은 해당 매수수량의 전량에 대하여 다음날 장개시전에 전일의 신고시장가격에 경과일수당 1원을 더한 가격 이하의 가격으로 매도호가를 하여야 한다.<개정 2010. 5. 7., 2016. 6. 21., 2019. 9. 10., 2020. 11. 20., 2023. 12. 4.>
+⑤ 제1항제2호의 경우에 해당하는 신고매매를 한 회원은 해당 매수수량의 전량에 대하여 다음날 장개시전에 전일의 신고시장가격에 경과일수당 1원을 더한 가격 이하의 가격으로 매도호가를 하여야 한다. <개정 2010. 5. 7., 2016. 6. 21., 2019. 9. 10., 2020. 11. 20., 2023. 12. 4.>
 
-⑥ 제1항제5호의 규정에 의한 거래는규정제71조의 규정에 의한 참가약정서가 정하는 바에 따른다.
+⑥ 제1항제5호의 규정에 의한 거래는 규정 제71조의 규정에 의한 참가약정서가 정하는 바에 따른다.
 
-⑦ 제1항제6호 및 제7호에 따른 신고매매의 경우 거래기간은 360일 이내로 한다.<신설 2006. 12. 20., 2009. 4. 27.>
+⑦ 제1항제6호 및 제7호에 따른 신고매매의 경우 거래기간은 360일 이내로 한다. <신설 2006. 12. 20., 2009. 4. 27.>
 
-제5절 국채전문유통시장의 매매거래
+ 제5절 국채전문유통시장의 매매거래
 
 **제77조(정의)**이 절에서 사용하는 용어의 정의는 규정이 정하는 바에 의한다.
 
-**제78조(비지표종목등의 지정)**①규정제55조제3호나목에서 "세칙에서 정하는 종목"이란 다음 각 호의 종목을 말한다.<개정 2024. 5. 23.>
+**제78조(비지표종목등의 지정)**① 규정 제55조제3호나목에서 "세칙에서 정하는 종목"이란 다음 각 호의 종목을 말한다. <개정 2024. 5. 23.>
 
 1. 지표종목이 아닌 국고채권. 이 경우 「국고채권 운영규정」제2조제12호에 따른 원금이자분리채권(이하 "원금이자분리채권"이라 한다)을 포함한다.
 
 2. 「외국환거래법」제13조제7항에 따른 외국환평형기금채권(원화로 표시되는 것으로 한정한다)
 
-②규정제55조제3호다목에서 "세칙에서 정하는 종목"이란 통화안정증권 및 예금보험기금채권을 말한다.<개정 2014. 2. 28.>
+② 규정 제55조제3호다목에서 "세칙에서 정하는 종목"이란 통화안정증권 및 예금보험기금채권을 말한다. <개정 2014. 2. 28.>
 
-**제79조(호가의 접수등)**①규정제57조제1항의 규정에 의한 국채전문유통시장의 매매거래의 호가접수시간은 제11조제1항제1호의 규정에 불구하고 정규시장의 매매거래시간으로 한다.
+**제79조(호가의 접수등)**① 규정 제57조제1항의 규정에 의한 국채전문유통시장의 매매거래의 호가접수시간은 제11조제1항제1호의 규정에 불구하고 정규시장의 매매거래시간으로 한다.
 
-②규정제57조제2항 후단에서 "세칙이 정하는 범위 이내"란 지표종목별로「국고채권 운영규정」제31조제3항 각 호에서 정하는 가격 이내를 말한다.<개정 2024. 5. 23.>
+② 규정 제57조제2항 후단에서 "세칙이 정하는 범위 이내"란 지표종목별로「국고채권 운영규정」제31조제3항 각 호에서 정하는 가격 이내를 말한다. <개정 2024. 5. 23.>
 
-③규정제57조제2항에 따른 양방의 조성호가의 개수 및 수량은 「국고채권 운영규정」제31조제1항 및 제2항에서 정하는 개수 및 수량으로 한다. 이 경우 호가수량이 10억원을 초과하는 경우에는 해당 호가수량을 10억원으로 나눈 개수만큼의 호가를 제출한 것으로 본다.<신설 2024. 5. 23.>
+③ 규정 제57조제2항에 따른 양방의 조성호가의 개수 및 수량은 「국고채권 운영규정」제31조제1항 및 제2항에서 정하는 개수 및 수량으로 한다. 이 경우 호가수량이 10억원을 초과하는 경우에는 해당 호가수량을 10억원으로 나눈 개수만큼의 호가를 제출한 것으로 본다. <신설 2024. 5. 23.>
 
-④ 제2항 및 제3항에도 불구하고 거래소는 시장상황 등을 고려하여 필요한 경우에는 양방의 조성호가의 스프레드, 개수 또는 수량을 달리 정할 수 있다.<신설 2024. 5. 23.>
+④ 제2항 및 제3항에도 불구하고 거래소는 시장상황 등을 고려하여 필요한 경우에는 양방의 조성호가의 스프레드, 개수 또는 수량을 달리 정할 수 있다. <신설 2024. 5. 23.>
 
-⑤규정제57조제4항에 따른 일방의 조성호가는 거래소가 시장상황 등을 고려하여 필요하다고 인정하는 경우에 한하여 제출할 수 있다.<신설 2014. 2. 28.>
+⑤ 규정 제57조제4항에 따른 일방의 조성호가는 거래소가 시장상황 등을 고려하여 필요하다고 인정하는 경우에 한하여 제출할 수 있다. <신설 2014. 2. 28.>
 
-⑥규정제57조제2항에 따라 양방의 조성호가를 한 전문딜러는 당해 양방의 조성호가중 어느 일방이 전량 매매체결된 경우(어느 일방이 제3항에 따른 호가 개수 또는 수량 미만인 경우를 포함한다)에는 10분 이내에 양방의 조성호가를 다시 제출하여야 한다.<개정 2009. 10. 23., 2024. 5. 23.>
+⑥ 규정 제57조제2항에 따라 양방의 조성호가를 한 전문딜러는 당해 양방의 조성호가중 어느 일방이 전량 매매체결된 경우(어느 일방이 제3항에 따른 호가 개수 또는 수량 미만인 경우를 포함한다)에는 10분 이내에 양방의 조성호가를 다시 제출하여야 한다. <개정 2009. 10. 23., 2024. 5. 23.>
 
-⑦규정제57조제4항에 따른 매매호가에 대하여는 다음 각 호의 어느 하나에 해당하는 조건을 부여할 수 있다.<신설 2014. 2. 28.>
+⑦ 규정 제57조제4항에 따른 매매호가에 대하여는 다음 각 호의 어느 하나에 해당하는 조건을 부여할 수 있다. <신설 2014. 2. 28.>
 
 1. 아이오씨(IOC) 조건 : 해당 호가의 접수시점에서 매매계약을 체결할 수 있는 수량에 대하여는 매매거래를 성립시키고, 매매계약이 체결되지 아니한 수량은 취소하는 조건
 
 2. 에프오케이(FOK) 조건 : 해당 호가의 접수시점에서 호가한 수량의 전부에 대하여 매매계약을 체결할 수 있는 경우에는 매매거래를 성립시키고, 그러하지 아니한 경우에는 그 수량의 전부를 취소하는 조건
 
-⑧ 회원은 국채전문유통시장의 매매거래에 있어 다음 각 호에 해당하는 호가를 입력할 수 없다.<신설 2019. 11. 28.>
+⑧ 회원은 국채전문유통시장의 매매거래에 있어 다음 각 호에 해당하는 호가를 입력할 수 없다. <신설 2019. 11. 28.>
 
 1. 개별경쟁매매: 상장잔액을 초과하거나 1천억원 이상인 호가
 
 2. 협의매매 또는 제76조에 따른 신고매매: 상장잔액을 초과하거나 9,990억원을 초과하는 호가
 
-⑨ 회원은 제14조제1항제4호라목 본문에도 불구하고 국채전문유통시장의 매매거래의 경우 호가가격이 전일종가를 기준으로 다음 각 호에 따른 비율을 초과하는 매수호가 또는 미달하는 매도호가를 입력할 수 없다.<신설 2019. 11. 28., 2021. 11. 23.,개정 2025. 12. 24.>
+⑨ 회원은 제14조제1항제4호라목 본문에도 불구하고 국채전문유통시장의 매매거래의 경우 호가가격이 전일종가를 기준으로 다음 각 호에 따른 비율을 초과하는 매수호가 또는 미달하는 매도호가를 입력할 수 없다. <신설 2019. 11. 28., 2021. 11. 23.,개정 2025. 12. 24.>
 
-1. 지표종목(50년 만기 국고채권은 제외한다) 및 「국고채권 운영규정」제2조제14호에 따른 선매출중목: 다음 각 목의 구분에 따른 비율<신설 2025. 12. 24.>
+1. 지표종목(50년 만기 국고채권은 제외한다) 및 「국고채권 운영규정」제2조제14호에 따른 선매출중목: 다음 각 목의 구분에 따른 비율 <신설 2025. 12. 24.>
 
-가. 만기가 10년 이하인 경우: 5%<신설 2025. 12. 24.>
+가. 만기가 10년 이하인 경우: 5% <신설 2025. 12. 24.>
 
-나. 만기가 10년 초과인 경우: 10%<신설 2025. 12. 24.>
+나. 만기가 10년 초과인 경우: 10% <신설 2025. 12. 24.>
 
-2. 제1호 이외의 종목: 다음 각 목의 구분에 따른 비율<신설 2025. 12. 24.>
+2. 제1호 이외의 종목: 다음 각 목의 구분에 따른 비율 <신설 2025. 12. 24.>
 
-가. 잔존만기가 10년 이하인 경우: 10%<신설 2025. 12. 24.>
+가. 잔존만기가 10년 이하인 경우: 10% <신설 2025. 12. 24.>
 
-나. 잔존만기가 10년 초과인 경우: 20%<신설 2025. 12. 24.>
+나. 잔존만기가 10년 초과인 경우: 20% <신설 2025. 12. 24.>
 
-⑩ 전문딜러는규정제57조제2항에 따른 양방의 조성호가를 제출하기 위해 제99조의9제5항에 따른 채권시장조성계좌의 지정을 거래소에 신청할 수 있다.<신설 2024. 5. 23.>
+⑩ 전문딜러는 규정 제57조제2항에 따른 양방의 조성호가를 제출하기 위해 제99조의9제5항에 따른 채권시장조성계좌의 지정을 거래소에 신청할 수 있다. <신설 2024. 5. 23.>
 
-**제79조의2(양방의 조성호가 제출 특례 등<개정 2024. 5. 23.>)**①규정제57조제6항에 따라 전문딜러는 「국고채권 운영규정」제19조의2제1항제1호에 따라 거래소가 지정하는 종목에 대하여 정규시장의 매매거래시간동안 양방의 조성호가를 제출하여야 한다. 이 경우 양방의 조성호가의 스프레드, 개수 및 수량은 다음 각 호와 같이 하고, 양방의 조성호가의 대상종목 지정방법은 별표 2의6에 따르되, 거래소는 시장상황 등을 고려하여 필요한 경우에는 양방의 조성호가의 스프레드, 개수·수량 또는 대상종목 지정방법을 달리 정할 수 있다.<개정 2017. 8. 24., 2024. 5. 23., 2024. 10. 29.,2026. 3. 25.>
+**제79조의2(양방의 조성호가 제출 특례 등<개정 2024. 5. 23.>)**① 규정 제57조제6항에 따라 전문딜러는 「국고채권 운영규정」제19조의2제1항제1호에 따라 거래소가 지정하는 종목에 대하여 정규시장의 매매거래시간동안 양방의 조성호가를 제출하여야 한다. 이 경우 양방의 조성호가의 스프레드, 개수 및 수량은 다음 각 호와 같이 하고, 양방의 조성호가의 대상종목 지정방법은 별표 2의6에 따르되, 거래소는 시장상황 등을 고려하여 필요한 경우에는 양방의 조성호가의 스프레드, 개수·수량 또는 대상종목 지정방법을 달리 정할 수 있다. <개정 2017. 8. 24., 2024. 5. 23., 2024. 10. 29.,2026. 3. 25.>
 
 1. 호가 스프레드 : 「국고채권 운영규정」제19조의2제1항제5호 각 목에서 정하는 가격
 
 2. 호가 개수 및 수량 : 「국고채권 운영규정」제19조의2제1항제2호 및 제4호에서 정하는 개수 및 수량. 이 경우 호가수량이 10억원을 초과하는 경우에는 해당 호가수량을 10억원으로 나눈 개수만큼의 호가를 제출한 것으로 본다.
 
-②규정제57조제6항에 따라 「국고채권 운영규정」 제31조 및 제39조에 따른 호가조성을 담당하는 예비전문딜러(이하 "예비전문딜러"라 한다)는 지표종목에 대하여 정규시장의 매매거래시간동안 양방의 조성호가를 제출하여야 한다. 이 경우 양방의 조성호가의 스프레드, 개수 및 수량에 관하여는 제79조제2항부터 제4항까지를 준용한다.<개정 2024. 5. 23.>
+② 규정 제57조제6항에 따라 「국고채권 운영규정」 제31조 및 제39조에 따른 호가조성을 담당하는 예비전문딜러(이하 "예비전문딜러"라 한다)는 지표종목에 대하여 정규시장의 매매거래시간동안 양방의 조성호가를 제출하여야 한다. 이 경우 양방의 조성호가의 스프레드, 개수 및 수량에 관하여는 제79조제2항부터 제4항까지를 준용한다. <개정 2024. 5. 23.>
 
-③규정제57조제6항에 따라 전문딜러 및 예비전문딜러는 「국고채권 운영규정」 제2조제4호에 따른 경과종목(잔존만기 1년 미만 국고채권, 50년 만기 국고채권 및 물가연동국고채권은 제외)에 대하여 정규시장의 매매거래시간동안 양방의 조성호가를 제출할 수 있다. 이 경우 양방의 조성호가의 스프레드, 개수 및 수량에 관하여는 제99조의6제1항제2호 본문·제2항제2호 본문 및 제3항을 준용한다.<신설 2026. 3. 25.>
+③ 규정 제57조제6항에 따라 전문딜러 및 예비전문딜러는 「국고채권 운영규정」 제2조제4호에 따른 경과종목(잔존만기 1년 미만 국고채권, 50년 만기 국고채권 및 물가연동국고채권은 제외)에 대하여 정규시장의 매매거래시간동안 양방의 조성호가를 제출할 수 있다. 이 경우 양방의 조성호가의 스프레드, 개수 및 수량에 관하여는 제99조의6제1항제2호 본문·제2항제2호 본문 및 제3항을 준용한다. <신설 2026. 3. 25.>
 
-④ 제1항부터 제3항까지에 따른 양방의 조성호가 중 어느 일방이 전량 매매체결된 경우(어느 일방이 제1항제2호, 제79조제3항 또는 제99조의6제2항제2호 본문에 따른 호가 개수 또는 수량 미만인 경우를 포함한다)에는 10분 이내에 양방의 조성호가를 다시 제출하여야 한다.<신설 2024. 5. 23.,개정 2026. 3. 25.>
+④ 제1항부터 제3항까지에 따른 양방의 조성호가 중 어느 일방이 전량 매매체결된 경우(어느 일방이 제1항제2호, 제79조제3항 또는 제99조의6제2항제2호 본문에 따른 호가 개수 또는 수량 미만인 경우를 포함한다)에는 10분 이내에 양방의 조성호가를 다시 제출하여야 한다. <신설 2024. 5. 23.,개정 2026. 3. 25.>
 
-⑤ 전문딜러 또는 예비전문딜러는 제1항부터 제3항까지에 따른 양방의 조성호가를 제출하기 위해 제99조의9제5항에 따른 채권시장조성계좌의 지정을 거래소에 신청할 수 있다.<신설 2024. 5. 23.,개정 2026. 3. 25.>
+⑤ 전문딜러 또는 예비전문딜러는 제1항부터 제3항까지에 따른 양방의 조성호가를 제출하기 위해 제99조의9제5항에 따른 채권시장조성계좌의 지정을 거래소에 신청할 수 있다. <신설 2024. 5. 23.,개정 2026. 3. 25.>
 
 [본조신설 2016. 6. 21.]
 
-**제80조(양방의 조성호가의 효력정지 및 재개)**① 삭제<2014. 2. 28.>
+**제80조(양방의 조성호가의 효력정지 및 재개)**① 삭제 <2014. 2. 28.>
 
-②규정제58조제2항에 따라 전문딜러 또는 예비전문딜러가 제출한 양방의 조성호가의 효력정지는 호가접수시간중에 한하며, 정지회수에는 제한을 두지 아니한다.<개정 2014. 2. 28., 2024. 5. 23.,2026. 3. 25.>
+② 규정 제58조제2항에 따라 전문딜러 또는 예비전문딜러가 제출한 양방의 조성호가의 효력정지는 호가접수시간중에 한하며, 정지회수에는 제한을 두지 아니한다. <개정 2014. 2. 28., 2024. 5. 23.,2026. 3. 25.>
 
-③ 전문딜러 또는 예비전문딜러가 양방의 조성호가의 효력을 정지한 후 효력을 재개하기 전까지는 해당 조성호가의 효력은 정지된 것으로 본다.<개정 2014. 2. 28., 2024. 5. 23.,2026. 3. 25.>
+③ 전문딜러 또는 예비전문딜러가 양방의 조성호가의 효력을 정지한 후 효력을 재개하기 전까지는 해당 조성호가의 효력은 정지된 것으로 본다. <개정 2014. 2. 28., 2024. 5. 23.,2026. 3. 25.>
 
-**제81조(호가의 제한)**국채전문유통시장의 매매거래에 있어 양방의 조성호가가 다음 각 호의 어느 하나에 해당하는 경우에는 그 호가를 입력할 수 없다.<개정 2024. 5. 23.>
+**제81조(호가의 제한)**국채전문유통시장의 매매거래에 있어 양방의 조성호가가 다음 각 호의 어느 하나에 해당하는 경우에는 그 호가를 입력할 수 없다. <개정 2024. 5. 23.>
 
 1. 매도가격이 매수가격보다 낮거나 같은 경우
 
 2. 매도 또는 매수 어느 일방의 가격 또는 수량이 누락된 경우
 
-3. 제79조제2항 또는 제79조의2제1항제1호·제2항 후단·제3항 후단에 따른 호가스프레드를 벗어난 경우. 다만, 양방의 조성호가의 스프레드 가격이 복수인 경우에는 최대 가격기준 스프레드를 벗어난 경우로 한정한다.<개정 2026. 3. 25.>
+3. 제79조제2항 또는 제79조의2제1항제1호·제2항 후단·제3항 후단에 따른 호가스프레드를 벗어난 경우. 다만, 양방의 조성호가의 스프레드 가격이 복수인 경우에는 최대 가격기준 스프레드를 벗어난 경우로 한정한다. <개정 2026. 3. 25.>
 
 [전문개정 2014. 2. 28.]
 
 **제81조의2(양방의 조성호가의 취소 및 정정)**① 국채전문유통시장의 매매거래에 있어 매매거래가 성립되지 아니한 양방의 조성호가를 취소하고자 하는 경우에는 제17조제1항에도 불구하고 그 수량의 전부를 취소해야 한다.
 
-② 국채전문유통시장의 매매거래에 있어 양방의 조성호가를 정정하고자 하는 경우에는 제79조제2항 또는 제79조의2제1항제1호·제2항 후단·제3항 후단에 따른 스프레드 요건을 충족하는 경우에 한하여 조성호가의 가격을 정정할 수 있다. 다만, 양방의 조성호가의 스프레드 가격이 복수인 경우에는 최대 가격기준 스프레드를 충족하는 경우에 한하여 조성호가의 가격을 정정할 수 있다.<개정 2026. 3. 25.>
+② 국채전문유통시장의 매매거래에 있어 양방의 조성호가를 정정하고자 하는 경우에는 제79조제2항 또는 제79조의2제1항제1호·제2항 후단·제3항 후단에 따른 스프레드 요건을 충족하는 경우에 한하여 조성호가의 가격을 정정할 수 있다. 다만, 양방의 조성호가의 스프레드 가격이 복수인 경우에는 최대 가격기준 스프레드를 충족하는 경우에 한하여 조성호가의 가격을 정정할 수 있다. <개정 2026. 3. 25.>
 
 [본조신설 2024. 5. 23.]
 
-**제82조(전산장애시의 조치 및 매매계약체결방법<개정 2026. 1. 15.>)**① 거래소는 국채전문유통시장의 매매거래의 경우 전산장애가 발생한 사실이 확인되고 전산장애가 계속될 것으로 예상되는 경우에는 다음 각 호의 어느 하나에 해당하는 조치를 할 수 있다.<개정 2014. 2. 28.,2026. 1. 15.>
+**제82조(전산장애시의 조치 및 매매계약체결방법<개정 2026. 1. 15.>)**① 거래소는 국채전문유통시장의 매매거래의 경우 전산장애가 발생한 사실이 확인되고 전산장애가 계속될 것으로 예상되는 경우에는 다음 각 호의 어느 하나에 해당하는 조치를 할 수 있다. <개정 2014. 2. 28.,2026. 1. 15.>
 
-1. 전산장애를 초래한 호가의 취소<신설 2026. 1. 15.>
+1. 전산장애를 초래한 호가의 취소 <신설 2026. 1. 15.>
 
-2. 호가접수의 정지 또는 매매거래의 중단. 이 경우 호가접수의 정지 또는 매매거래의 중단 전에 접수한 호가는 그 효력을 인정하지 아니한다.<신설 2026. 1. 15.>
+2. 호가접수의 정지 또는 매매거래의 중단. 이 경우 호가접수의 정지 또는 매매거래의 중단 전에 접수한 호가는 그 효력을 인정하지 아니한다. <신설 2026. 1. 15.>
 
-② 제1항제2호에 따른 호가접수의 정지 또는 매매거래의 중단 이후 전산장애를 복구한 경우에는 거래소가 정하는 때부터 호가접수 또는 매매거래를 재개한다.<신설 2026. 1. 15.>
+② 제1항제2호에 따른 호가접수의 정지 또는 매매거래의 중단 이후 전산장애를 복구한 경우에는 거래소가 정하는 때부터 호가접수 또는 매매거래를 재개한다. <신설 2026. 1. 15.>
 
 ③ 전산장애가 장시간 계속되는 경우의 매매계약체결방법은 다음 각호와 같이 한다.
 
 1. 회원시스템 장애시 매매계약체결방법
-장애가 장종료후 일정시간까지 복구되지 아니하는 경우에는 장애발생시점에서 당일의 매매거래가 종결된 것으로 본다. 다만, 장애가 장종료 30분전 이후에 발생하여 장종료시까지 복구가 불가능하다고 인정되는 경우에는 장애발생시점에서 당일의 매매거래를 종결할 수 있다.
+ 장애가 장종료후 일정시간까지 복구되지 아니하는 경우에는 장애발생시점에서 당일의 매매거래가 종결된 것으로 본다. 다만, 장애가 장종료 30분전 이후에 발생하여 장종료시까지 복구가 불가능하다고 인정되는 경우에는 장애발생시점에서 당일의 매매거래를 종결할 수 있다.
 
 2. 거래소시스템 장애시 매매계약체결방법
-장애로 장종료후 일정시간까지 정상적인 매매계약체결이 곤란한 경우에는 장종료후 일정시간까지의 모든 호가를 접수하여규정제59조의 규정에 의한 복수가격에 의한 개별경쟁매매방법에 의하여 매매계약을 체결한다. 다만, 장종료후 일정시간까지도 전산장애가 복구되지 아니할 것으로 예상되어 매매계약을 체결하는 것이 불가능하다고 인정되는 경우에는 장애발생시점에서 당일의 매매거래가 종결된 것으로 본다.
+ 장애로 장종료후 일정시간까지 정상적인 매매계약체결이 곤란한 경우에는 장종료후 일정시간까지의 모든 호가를 접수하여 규정 제59조의 규정에 의한 복수가격에 의한 개별경쟁매매방법에 의하여 매매계약을 체결한다. 다만, 장종료후 일정시간까지도 전산장애가 복구되지 아니할 것으로 예상되어 매매계약을 체결하는 것이 불가능하다고 인정되는 경우에는 장애발생시점에서 당일의 매매거래가 종결된 것으로 본다.
 
-④ 제2항에 따라 매매거래를 재개하는 경우의 최초의 가격의 결정은규정제59조에 따른 복수가격에 의한 개별경쟁매매방법에 따른다.<신설 2014. 2. 28., 2017. 8. 24.,개정 2026. 1. 15.>
+④ 제2항에 따라 매매거래를 재개하는 경우의 최초의 가격의 결정은 규정 제59조에 따른 복수가격에 의한 개별경쟁매매방법에 따른다. <신설 2014. 2. 28., 2017. 8. 24.,개정 2026. 1. 15.>
 
-⑤ 삭제<2024. 5. 23.>
+⑤ 삭제 <2024. 5. 23.>
 
-⑥ 제3항 및 제4항 외에 전산장애시 매매계약체결방법은 거래소가 그 때마다 정하는 바에 따른다.<신설 2014. 2. 28.,개정 2026. 1. 15.>
+⑥ 제3항 및 제4항 외에 전산장애시 매매계약체결방법은 거래소가 그 때마다 정하는 바에 따른다. <신설 2014. 2. 28.,개정 2026. 1. 15.>
 
 **제82조의2(호가의 일괄취소처리)**① 회원은 국채전문유통시장의 매매거래와 관련하여 시스템 장애, 착오 등 불가피한 상황이 발생하는 경우에는 회원채무증권단말기 또는 회원시스템을 통해 거래소에 호가의 일괄취소처리를 신청할 수 있다.
 
@@ -3119,39 +3374,39 @@ attachments:
 
 [본조신설 2024. 5. 23.]
 
-**제83조(호가폭주시의 조치 및 매매계약체결방법<개정 2026. 1. 15.>)**① 삭제<2014. 2. 28.>
+**제83조(호가폭주시의 조치 및 매매계약체결방법<개정 2026. 1. 15.>)**① 삭제 <2014. 2. 28.>
 
-② 거래소는 호가폭주로 전산장애가 발생할 우려가 있는 경우에는 다음 각 호의 어느 하나에 해당하는 조치를 할 수 있다.<신설 2014. 2. 28.,개정 2026. 1. 15.>
+② 거래소는 호가폭주로 전산장애가 발생할 우려가 있는 경우에는 다음 각 호의 어느 하나에 해당하는 조치를 할 수 있다. <신설 2014. 2. 28.,개정 2026. 1. 15.>
 
-1. 호가접수의 정지 또는 매매거래의 중단. 이 경우 매매거래의 중단 전에 접수한 호가는 그 효력을 인정하지 아니한다.<신설 2026. 1. 15.>
+1. 호가접수의 정지 또는 매매거래의 중단. 이 경우 매매거래의 중단 전에 접수한 호가는 그 효력을 인정하지 아니한다. <신설 2026. 1. 15.>
 
-2. 당일 매매거래의 종결<신설 2026. 1. 15.>
+2. 당일 매매거래의 종결 <신설 2026. 1. 15.>
 
-③ 제2항제1호에 따른 호가접수의 정지 또는 매매거래의 중단 이후 호가폭주로 인한 전산장애 발생의 우려가 소멸하였다고 거래소가 판단하는 경우에는 거래소가 정하는 시간부터 호가접수 또는 매매거래를 재개한다.<신설 2026. 1. 15.>
+③ 제2항제1호에 따른 호가접수의 정지 또는 매매거래의 중단 이후 호가폭주로 인한 전산장애 발생의 우려가 소멸하였다고 거래소가 판단하는 경우에는 거래소가 정하는 시간부터 호가접수 또는 매매거래를 재개한다. <신설 2026. 1. 15.>
 
-④ 제3항에 따라 매매거래를 재개하는 경우의 최초의 가격의 결정방법에 관하여는 제82조제4항을 준용한다.<신설 2026. 1. 15.>
+④ 제3항에 따라 매매거래를 재개하는 경우의 최초의 가격의 결정방법에 관하여는 제82조제4항을 준용한다. <신설 2026. 1. 15.>
 
-⑤ 제4항 외에 호가폭주시 매매계약체결방법은 거래소가 그 때마다 정하는 바에 따른다.<개정 2014. 2. 28., 2019. 11. 28.,2026. 1. 15.>
+⑤ 제4항 외에 호가폭주시 매매계약체결방법은 거래소가 그 때마다 정하는 바에 따른다. <개정 2014. 2. 28., 2019. 11. 28.,2026. 1. 15.>
 
-**제84조(국채전문유통시장의 매매거래의 매매수량단위)**①규정제59조제2항에 따른 국채전문유통시장의 매매거래의 매매수량단위는 액면 10억원으로 한다. 다만, 원금이자분리채권의 경우에는 액면 1억원으로 한다.<개정 2006. 10. 12., 2015. 3. 6., 2016. 6. 21.>
+**제84조(국채전문유통시장의 매매거래의 매매수량단위)**① 규정 제59조제2항에 따른 국채전문유통시장의 매매거래의 매매수량단위는 액면 10억원으로 한다. 다만, 원금이자분리채권의 경우에는 액면 1억원으로 한다. <개정 2006. 10. 12., 2015. 3. 6., 2016. 6. 21.>
 
-② 제1항에도 불구하고 국채전문유통시장에서의 협의매매 및 신고매매의 매매수량단위는 다음 각 호와 같이 한다.<신설 2024. 5. 23.>
+② 제1항에도 불구하고 국채전문유통시장에서의 협의매매 및 신고매매의 매매수량단위는 다음 각 호와 같이 한다. <신설 2024. 5. 23.>
 
 1. 협의매매 : 제75조의2제5항제1호의 액면수량
 
 2. 신고매매 : 액면 1억원
 
-**제84조의2(발행일전거래)**①규정제59조의2제3항에서 "세칙으로 정하는 경우"란 결제일이 지급준비금적립마감일인 경우를 말한다.<개정 2024. 10. 29.>
+**제84조의2(발행일전거래)**① 규정 제59조의2제3항에서 "세칙으로 정하는 경우"란 결제일이 지급준비금적립마감일인 경우를 말한다. <개정 2024. 10. 29.>
 
-②규정제59조의2제5항에 따라 발행일전거래에 참가할 수 있는 자는 국채딜러로 한다.<개정 2016. 3. 24.>
+② 규정 제59조의2제5항에 따라 발행일전거래에 참가할 수 있는 자는 국채딜러로 한다. <개정 2016. 3. 24.>
 
-③ 발행일전거래의 대상종목은 신규발행 국고채권(「국고채권 운영규정」에 따른 물가연동국고채를 제외한다)으로 한다.<개정 2016. 6. 21.>
+③ 발행일전거래의 대상종목은 신규발행 국고채권(「국고채권 운영규정」에 따른 물가연동국고채를 제외한다)으로 한다. <개정 2016. 6. 21.>
 
 ④ 발행일전거래의 호가가격단위는 1원으로 한다.
 
 ⑤ 발행일전거래의 거래대금은 해당 국고채권의 입찰에 따라 결정되는 표면금리를 적용하여 산출한 대금으로 한다.
 
-⑥ 다음 각 호의 어느 하나에 해당하는 경우로서 기획재정부에서 발행일전거래를 취소하여 거래소에 통보하는 경우에는규정제59조의2제4항에 따라 그 거래가 성립되지 아니한 것으로 본다.
+⑥ 다음 각 호의 어느 하나에 해당하는 경우로서 기획재정부에서 발행일전거래를 취소하여 거래소에 통보하는 경우에는 규정 제59조의2제4항에 따라 그 거래가 성립되지 아니한 것으로 본다.
 
 1. 해당 국고채권이 발행되지 않은 경우
 
@@ -3163,67 +3418,67 @@ attachments:
 
 [본조신설 2015. 11. 18.]
 
-**제85조(준용규정)**국채전문유통시장의 매매거래에 관하여 이 절에서 규정하지 아니한 사항에 관하여는 제4장제1절부터 제4절까지(제64조의2 및 제64조의3을 제외한다)의규정을 준용한다.<개정 2009. 2. 3.>
+**제85조(준용규정)**국채전문유통시장의 매매거래에 관하여 이 절에서 규정하지 아니한 사항에 관하여는 제4장제1절부터 제4절까지(제64조의2 및 제64조의3을 제외한다)의 규정을 준용한다. <개정 2009. 2. 3.>
 
-제6절 환매조건부채권매매거래
+ 제6절 환매조건부채권매매거래
 
 **제86조(정의)**이 절에서 사용하는 용어의 정의는 규정이 정하는 바에 의한다.
 
-**제87조(대상채권)**규정제61조제4호에서 "세칙이 정하는 채권"이라 함은 다음 각호에 해당하는 채권(주식관련사채권은 제외한다)을 말한다.<개정 2007. 5. 18., 2010. 12. 6., 2016. 12. 26., 2019. 2. 21.>
+**제87조(대상채권)**규정 제61조제4호에서 "세칙이 정하는 채권"이라 함은 다음 각호에 해당하는 채권(주식관련사채권은 제외한다)을 말한다. <개정 2007. 5. 18., 2010. 12. 6., 2016. 12. 26., 2019. 2. 21.>
 
-1. 삭제<2019. 2. 21.>
+1. 삭제 <2019. 2. 21.>
 
-2.법제335조의3에 따라 신용평가업인가를 받은 신용평가회사(이하 "신용평가회사"라 한다)가 발표하는 신용등급(신용평가회사별 신용등급이 다른 경우에는 가장 낮은 신용등급을 적용한다. 이하 같다)이 AA 이상인 종목
+2. 법 제335조의3에 따라 신용평가업인가를 받은 신용평가회사(이하 "신용평가회사"라 한다)가 발표하는 신용등급(신용평가회사별 신용등급이 다른 경우에는 가장 낮은 신용등급을 적용한다. 이하 같다)이 AA 이상인 종목
 
-**제88조(거래기간 및 환매일)**①규정제62조제1항에 따른 거래기간의 종류는 1일, 2일, 3일, 4일, 7일, 14일, 21일, 30일, 60일, 90일로 한다.<개정 2010. 12. 6.>
+**제88조(거래기간 및 환매일)**① 규정 제62조제1항에 따른 거래기간의 종류는 1일, 2일, 3일, 4일, 7일, 14일, 21일, 30일, 60일, 90일로 한다. <개정 2010. 12. 6.>
 
-②규정제62조제1항에 따른 거래기간별 환매일은 매매대금을 결제한 날부터 기산하여 각각 2일째, 3일째, 4일째, 5일째, 8일째, 15일째, 22일째, 31일째, 61일째, 91일째 되는 날로 한다.<개정 2010. 12. 6.>
+② 규정 제62조제1항에 따른 거래기간별 환매일은 매매대금을 결제한 날부터 기산하여 각각 2일째, 3일째, 4일째, 5일째, 8일째, 15일째, 22일째, 31일째, 61일째, 91일째 되는 날로 한다. <개정 2010. 12. 6.>
 
-**제89조(호가수량단위등)**①규정제63조의 규정에 의한 호가수량단위는 매매대금 1만원으로 한다.
+**제89조(호가수량단위등)**① 규정 제63조의 규정에 의한 호가수량단위는 매매대금 1만원으로 한다.
 
-②규정제63조에 따른 호가가격단위는 소수점 둘째자리의 환매이자율(소수점 셋째자리 이하는 절사한다)로 한다. 다만, 제76조제1항제6호에 따른 환매채거래의 호가가격단위는 소수점 셋째자리의 환매이자율(소수점 넷째자리에서 반올림한다)로 한다.<개정 2014. 2. 28.>
+② 규정 제63조에 따른 호가가격단위는 소수점 둘째자리의 환매이자율(소수점 셋째자리 이하는 절사한다)로 한다. 다만, 제76조제1항제6호에 따른 환매채거래의 호가가격단위는 소수점 셋째자리의 환매이자율(소수점 넷째자리에서 반올림한다)로 한다. <개정 2014. 2. 28.>
 
-③규정제63조에 따른 매매수량단위는 액면 10억원으로 한다.<개정 2014. 2. 28.>
+③ 규정 제63조에 따른 매매수량단위는 액면 10억원으로 한다. <개정 2014. 2. 28.>
 
-④규정제63조에 따른 호가접수시간은 제11조제1항제1호에 불구하고 정규시장의 매매거래시간으로 한다.<신설 2009. 2. 3.>
+④ 규정 제63조에 따른 호가접수시간은 제11조제1항제1호에 불구하고 정규시장의 매매거래시간으로 한다. <신설 2009. 2. 3.>
 
-**제90조(보전비율 및 시장가치의 산출)**①규정제65조제1항의 규정에 의한 보전비율은 2%로 한다.
+**제90조(보전비율 및 시장가치의 산출)**① 규정 제65조제1항의 규정에 의한 보전비율은 2%로 한다.
 
-②규정제65조제2항의 규정에 의한 시장가치는 전일의 시가평가가격으로 한다.
+② 규정 제65조제2항의 규정에 의한 시장가치는 전일의 시가평가가격으로 한다.
 
-③규정제65조제2항에 따른 시가평가가격(이하 "시가평가가격"이라 한다)은 매매거래일별로 채권평가회사가 발표하는 당해 매매채권의 평가가격을 단순산술평균하는 방법으로 산출한다.<개정 2009. 2. 3.>
+③ 규정 제65조제2항에 따른 시가평가가격(이하 "시가평가가격"이라 한다)은 매매거래일별로 채권평가회사가 발표하는 당해 매매채권의 평가가격을 단순산술평균하는 방법으로 산출한다. <개정 2009. 2. 3.>
 
-④ 제3항에 따른 채권평가회사의 지정등에 관한 사항은 해당 회사의 대외적 공신력, 가격평가모형등을 감안하여 거래소가 정한다.<개정 2009. 2. 3.>
+④ 제3항에 따른 채권평가회사의 지정등에 관한 사항은 해당 회사의 대외적 공신력, 가격평가모형등을 감안하여 거래소가 정한다. <개정 2009. 2. 3.>
 
-⑤ 제76조제1항제5호에 따른 환매채거래는 금액의 계산시 10원미만을 절사한다.<신설 2010. 12. 6.>
+⑤ 제76조제1항제5호에 따른 환매채거래는 금액의 계산시 10원미만을 절사한다. <신설 2010. 12. 6.>
 
-**제91조**삭제<2025. 2. 27.>
+**제91조**삭제 <2025. 2. 27.>
 
-**제92조**삭제<2025. 2. 27.>
+**제92조**삭제 <2025. 2. 27.>
 
-**제93조**삭제<2025. 2. 27.>
+**제93조**삭제 <2025. 2. 27.>
 
-**제94조**삭제<2025. 2. 27.>
+**제94조**삭제 <2025. 2. 27.>
 
-**제95조**삭제<2025. 2. 27.>
+**제95조**삭제 <2025. 2. 27.>
 
-**제96조**삭제<2025. 2. 27.>
+**제96조**삭제 <2025. 2. 27.>
 
-**제96조의2(환매채거래의 조기종료 절차)**①규정제70조제1항제7호에 따라 환매채거래의 종료가 필요한 경우 매도자 또는 매수자 일방은 실제 종료가 필요한 날 13시 30분까지 조기종료 의사를 거래소에 신청하여야 한다. 이 경우 거래소는 그 일방의 상대방에게 조기종료 신청사실을 지체없이 통지하여야 하며, 통지를 받은 상대방은 당일 14시 30분까지 동의여부를 거래소에 신고하여야 한다.<개정 2016. 6. 21.>
+**제96조의2(환매채거래의 조기종료 절차)**① 규정 제70조제1항제7호에 따라 환매채거래의 종료가 필요한 경우 매도자 또는 매수자 일방은 실제 종료가 필요한 날 13시 30분까지 조기종료 의사를 거래소에 신청하여야 한다. 이 경우 거래소는 그 일방의 상대방에게 조기종료 신청사실을 지체없이 통지하여야 하며, 통지를 받은 상대방은 당일 14시 30분까지 동의여부를 거래소에 신고하여야 한다. <개정 2016. 6. 21.>
 
 ② 제1항에 따른 환매채거래의 조기종료 신청기간은 매매일, 환매일 및 휴장일을 제외한 환매채거래의 거래기간으로 한다.
 
 [본조신설 2010. 12. 6.]
 
-**제97조(추가증거금의 반환)**규정제70조제3항의 규정에 의한 추가증거금의 반환은 다음 각호의 방법에 의한다.
+**제97조(추가증거금의 반환)**규정 제70조제3항의 규정에 의한 추가증거금의 반환은 다음 각호의 방법에 의한다.
 
 1. 증거금유지채권의 경우
-증거금유지채권, 증거금유지채권의 납부일부터 환매일까지의 기간중 매도자 및 매수자가 지급받은 수익중 실제로 매수자 및 매도자에게 반환되지 아니한 수익 및 그 수익에 수익지급일부터 환매일까지의 기간에 대하여 적용이자율을 사용하여 산정한 이자를 더한 금액을 반환한다.
+ 증거금유지채권, 증거금유지채권의 납부일부터 환매일까지의 기간중 매도자 및 매수자가 지급받은 수익중 실제로 매수자 및 매도자에게 반환되지 아니한 수익 및 그 수익에 수익지급일부터 환매일까지의 기간에 대하여 적용이자율을 사용하여 산정한 이자를 더한 금액을 반환한다.
 
 2. 현금증거금의 경우
-현금증거금과 그 납부일부터 환매일까지의 기간에 대하여 적용이자율을 사용하여 산정한 이자를 더한 금액을 반환한다.
+ 현금증거금과 그 납부일부터 환매일까지의 기간에 대하여 적용이자율을 사용하여 산정한 이자를 더한 금액을 반환한다.
 
-**제98조(참가약정서)**규정제71조제1항의 규정에 의한 참가약정서는 다음 각호의 사항을 포함한다.
+**제98조(참가약정서)**규정 제71조제1항의 규정에 의한 참가약정서는 다음 각호의 사항을 포함한다.
 
 1. 정산요구금액의 산출, 추가증거금의 납부 및 처리등에 관한 사항
 
@@ -3241,23 +3496,23 @@ attachments:
 
 [전문개정 2014. 2. 28.]
 
-제7절 채권시장조성회원<개정 2014. 2. 28., 2015. 7. 16.>
+ 제7절 채권시장조성회원<개정 2014. 2. 28., 2015. 7. 16.>
 
 **제99조의2(정의)**이 절에서 사용하는 용어의 뜻은 규정이 정하는 바에 따른다.
 
 [전문개정 2015. 7. 16.]
 
-**제99조의3(채권시장조성회원의 지정 및 지정취소)**①규정제71조의3에 따라 채권시장조성회원이 되고자 하는 자는 매 분기별로 거래소가 정하는 기간 내에규정제71조의3제2항 각 호의 매매거래(환매채거래는 제외한다. 이하 이 조에서 같다)별로 별지 제7호의3 서식에 따른 채권시장조성회원 지정 신청서(이하 이 조에서 "지정 신청서"라 한다)를 거래소에 제출하여야 한다.<개정 2016. 3. 24.>
+**제99조의3(채권시장조성회원의 지정 및 지정취소)**① 규정 제71조의3에 따라 채권시장조성회원이 되고자 하는 자는 매 분기별로 거래소가 정하는 기간 내에 규정 제71조의3제2항 각 호의 매매거래(환매채거래는 제외한다. 이하 이 조에서 같다)별로 별지 제7호의3 서식에 따른 채권시장조성회원 지정 신청서(이하 이 조에서 "지정 신청서"라 한다)를 거래소에 제출하여야 한다. <개정 2016. 3. 24.>
 
-② 거래소는 제1항에 따라 지정 신청서를 제출한 자에 대하여규정제71조의3제2항 각 호의 매매거래에 대한 참가자격이 있는 경우 해당 매매거래별로 채권시장조성회원으로 지정한다. 다만, 소액채권의 매매거래의 경우에는 다음 각 호의 어느 하나에 해당하는 자에 한하여 채권시장조성회원으로 지정한다.<개정 2022. 12. 22.>
+② 거래소는 제1항에 따라 지정 신청서를 제출한 자에 대하여 규정 제71조의3제2항 각 호의 매매거래에 대한 참가자격이 있는 경우 해당 매매거래별로 채권시장조성회원으로 지정한다. 다만, 소액채권의 매매거래의 경우에는 다음 각 호의 어느 하나에 해당하는 자에 한하여 채권시장조성회원으로 지정한다. <개정 2022. 12. 22.>
 
 1. 소액채권전담회원
 
 2. 매도대행사
 
-③ 제1항 및 제2항에도 불구하고 환매채거래에 대한 참가자격이 있는 자는 환매채거래의 채권시장조성회원으로 보고, 국채전문유통시장의 매매거래 또는 일반채권시장의 매매거래의 채권시장조성회원이 아닌 자가 해당 매매거래의 협의매매에 참가하는 경우에 한정하여 해당 매매거래의 채권시장조성회원으로 본다.<신설 2016. 3. 25.>
+③ 제1항 및 제2항에도 불구하고 환매채거래에 대한 참가자격이 있는 자는 환매채거래의 채권시장조성회원으로 보고, 국채전문유통시장의 매매거래 또는 일반채권시장의 매매거래의 채권시장조성회원이 아닌 자가 해당 매매거래의 협의매매에 참가하는 경우에 한정하여 해당 매매거래의 채권시장조성회원으로 본다. <신설 2016. 3. 25.>
 
-④ 거래소는 채권시장조성회원이 다음 각 호의 어느 하나에 해당하는 경우에는 그 지정을 취소할 수 있다.<개정 2016. 12. 26., 2021. 5. 7., 2022. 8. 4., 2024. 10. 29.>
+④ 거래소는 채권시장조성회원이 다음 각 호의 어느 하나에 해당하는 경우에는 그 지정을 취소할 수 있다. <개정 2016. 12. 26., 2021. 5. 7., 2022. 8. 4., 2024. 10. 29.>
 
 1. 해당 회원이 지정취소를 신청하는 경우
 
@@ -3269,23 +3524,23 @@ attachments:
 
 5. 제99조의4제4항을 위반하는 경우
 
-⑤ 거래소는 제4항제1호·제2호·제4호 및 제5호에 따라 채권시장조성회원의 지정이 취소된 자에 대하여는 그 지정이 취소된 날이 속한 분기의 다음 분기부터 4개 분기동안(이하 이 조에서 "재지정제한기간"이라 한다) 채권시장조성회원으로 지정하지 아니한다.<개정 2016. 3. 24., 2016. 12. 26., 2021. 5. 7.>
+⑤ 거래소는 제4항제1호·제2호·제4호 및 제5호에 따라 채권시장조성회원의 지정이 취소된 자에 대하여는 그 지정이 취소된 날이 속한 분기의 다음 분기부터 4개 분기동안(이하 이 조에서 "재지정제한기간"이라 한다) 채권시장조성회원으로 지정하지 아니한다. <개정 2016. 3. 24., 2016. 12. 26., 2021. 5. 7.>
 
-⑥ 제4항제2호 및 제5항에도 불구하고 거래소는 다음 각 호의 어느 하나에 해당하는 경우에는 지정취소를 하지 않거나 재지정제한기간을 달리 정할 수 있다.<개정 2016. 12. 26., 2024. 10. 29.>
+⑥ 제4항제2호 및 제5항에도 불구하고 거래소는 다음 각 호의 어느 하나에 해당하는 경우에는 지정취소를 하지 않거나 재지정제한기간을 달리 정할 수 있다. <개정 2016. 12. 26., 2024. 10. 29.>
 
 1. 급격한 유동성 하락 등이 우려되어 채권시장조성회원으로 계속 지정할 필요가 있는 경우
 
 2. 금융시장의 급변, 중대한 전산장애 등으로 조성호가 제출의무를 이행하기 곤란한 경우
 
-3. 채권시장조성회원이 전문딜러 또는 예비전문딜러인 경우로서 해당 회원을 채권시장조성회원으로 계속 지정할 필요가 있는 경우<개정 2026. 3. 25.>
+3. 채권시장조성회원이 전문딜러 또는 예비전문딜러인 경우로서 해당 회원을 채권시장조성회원으로 계속 지정할 필요가 있는 경우 <개정 2026. 3. 25.>
 
 4. 그 밖에 거래소가 시장관리상 필요하다고 인정하는 경우
 
-⑦ 제1항부터 제6항까지 외에 채권시장조성회원의 지정 및 지정취소와 관련하여 필요한 사항은 거래소가 정한다.<개정 2016. 3. 24., 2016. 12. 26.>
+⑦ 제1항부터 제6항까지 외에 채권시장조성회원의 지정 및 지정취소와 관련하여 필요한 사항은 거래소가 정한다. <개정 2016. 3. 24., 2016. 12. 26.>
 
 [전문개정 2015. 7. 16.]
 
-**제99조의4(조성호가의 제출방법 등)**①규정제71조의4제1항에 따라 채권시장조성회원이 제출할 수 있는 조성호가는 다음 각 호와 같다. 다만, 협의매매의 조성호가의 경우에는 일방의 조성호가(제75조의2제2항제1호의 요청호가를 말한다)만을 제출할 수 있다.<개정 2016. 3. 24.>
+**제99조의4(조성호가의 제출방법 등)**① 규정 제71조의4제1항에 따라 채권시장조성회원이 제출할 수 있는 조성호가는 다음 각 호와 같다. 다만, 협의매매의 조성호가의 경우에는 일방의 조성호가(제75조의2제2항제1호의 요청호가를 말한다)만을 제출할 수 있다. <개정 2016. 3. 24.>
 
 1. 국채전문유통시장의 매매거래의 경우에는 양방의 조성호가
 
@@ -3295,7 +3550,7 @@ attachments:
 
 3. 일반채권시장의 매매거래의 경우에는 양방의 조성호가
 
-② 제1항제1호 및 제3호에 따라 양방의 조성호가를 제출하는 경우에는 다음 각 호의 어느 하나에 해당하는 호가를 제출할 수 없다.<개정 2024. 5. 23.>
+② 제1항제1호 및 제3호에 따라 양방의 조성호가를 제출하는 경우에는 다음 각 호의 어느 하나에 해당하는 호가를 제출할 수 없다. <개정 2024. 5. 23.>
 
 1. 매도가격이 매수가격보다 낮거나 같은 경우
 
@@ -3305,7 +3560,7 @@ attachments:
 
 4. 제99조의6제2항제3호에 따른 조성호가의 수량에 미달하는 경우
 
-③ 제1항제2호에 따라 일방의 조성호가를 제출하는 경우에는 다음 각 호의 어느 하나에 해당하는 호가를 제출할 수 없다.<개정 2024. 5. 23.>
+③ 제1항제2호에 따라 일방의 조성호가를 제출하는 경우에는 다음 각 호의 어느 하나에 해당하는 호가를 제출할 수 없다. <개정 2024. 5. 23.>
 
 1. 매도 또는 매수의 가격 또는 수량이 누락된 경우
 
@@ -3317,11 +3572,11 @@ attachments:
 
 5. 제75조에 따른 소액채권의 장종료시 매매거래의 경우
 
-④ 채권시장조성회원은 제1항의 조성호가를 제출함에 있어 이를 제3자에게 위탁하여서는 아니 된다.<신설 2021. 5. 7.>
+④ 채권시장조성회원은 제1항의 조성호가를 제출함에 있어 이를 제3자에게 위탁하여서는 아니 된다. <신설 2021. 5. 7.>
 
 [전문개정 2015. 7. 16.]
 
-**제99조의5(조성호가 제출 대상 채무증권)**채권시장조성회원은 다음 각 호에서 정한 채무증권에 대하여 조성호가를 제출할 수 있다.<개정 2016. 3. 24., 2016. 6. 21., 2016. 12. 26., 2017. 8. 24., 2019. 9. 10., 2024. 5. 23., 2024. 10. 29.>
+**제99조의5(조성호가 제출 대상 채무증권)**채권시장조성회원은 다음 각 호에서 정한 채무증권에 대하여 조성호가를 제출할 수 있다. <개정 2016. 3. 24., 2016. 6. 21., 2016. 12. 26., 2017. 8. 24., 2019. 9. 10., 2024. 5. 23., 2024. 10. 29.>
 
 1. 국채전문유통시장의 매매거래의 경우에는 다음 각 목의 종목
 
@@ -3329,11 +3584,11 @@ attachments:
 
 나. 제78조제1항제1호의 비지표종목(원금이자분리채권은 제외한다)
 
-다. 전문딜러인 채권시장조성회원의 경우 원금이자분리채권중「국고채권 운영규정」제19조의2제1항제1호에 따라 거래소가 지정하는 종목. 이 경우 해당 종목의 지정방법은 별표 2의6에 따르되, 거래소는 시장상황 등을 고려하여 필요한 경우에는 해당 종목을 달리 정할 수 있다.<개정 2026. 3. 25.>
+다. 전문딜러인 채권시장조성회원의 경우 원금이자분리채권중「국고채권 운영규정」제19조의2제1항제1호에 따라 거래소가 지정하는 종목. 이 경우 해당 종목의 지정방법은 별표 2의6에 따르되, 거래소는 시장상황 등을 고려하여 필요한 경우에는 해당 종목을 달리 정할 수 있다. <개정 2026. 3. 25.>
 
-2. 소액채권의 매매거래의 경우에는규정제43조제2호에 따른 소액채권
+2. 소액채권의 매매거래의 경우에는 규정 제43조제2호에 따른 소액채권
 
-2의2. 환매채거래의 경우에는규정제61조의 채권
+2의2. 환매채거래의 경우에는 규정 제61조의 채권
 
 3. 일반채권시장의 매매거래의 경우에는 다음 각 목의 어느 하나에 해당하는 것을 제외한 채무증권
 
@@ -3353,13 +3608,13 @@ attachments:
 
 [본조신설 2015. 7. 16.]
 
-**제99조의6(조성호가의 스프레드 및 수량)**① 채권시장조성회원이규정제71조의4제2항에 따라 조성호가를 제출하는 경우 호가의 스프레드는 다음 각 호와 같다.<개정 2016. 3. 24., 2016. 6. 21., 2016. 12. 26., 2017. 8. 24., 2023. 12. 4., 2024. 5. 23.>
+**제99조의6(조성호가의 스프레드 및 수량)**① 채권시장조성회원이 규정 제71조의4제2항에 따라 조성호가를 제출하는 경우 호가의 스프레드는 다음 각 호와 같다. <개정 2016. 3. 24., 2016. 6. 21., 2016. 12. 26., 2017. 8. 24., 2023. 12. 4., 2024. 5. 23.>
 
 1. 국채전문유통시장의 매매거래 중 지표종목의 경우에는 「국고채권 운영규정」 제31조제3항 각 호에서 정하는 가격
 
 2. 국채전문유통시장의 매매거래 중 비지표종목의 경우에는 수익률을 기준으로 0. 08%포인트 이내에 해당하는 가격. 다만, 원금이자분리채권의 경우에는 「국고채권 운영규정」 제19조의2제1항제5호 각 목에서 정하는 가격으로 한다.
 
-3. 소액채권의 매매거래의 경우에는규정제65조제2항의 시가평가가격에 해당하는 수익률을 기준으로 다음 각 목의 구분에 따른 호가 스프레드 이내에 해당하는 가격
+3. 소액채권의 매매거래의 경우에는 규정 제65조제2항의 시가평가가격에 해당하는 수익률을 기준으로 다음 각 목의 구분에 따른 호가 스프레드 이내에 해당하는 가격
 
 가. 제1종 국민주택채권 : ±0. 1%포인트
 
@@ -3373,7 +3628,7 @@ attachments:
 
 다. 가목 및 나목 이외의 채무증권의 경우 : 0. 15%포인트
 
-② 채권시장조성회원이규정제71조의4제3항에 따라 조성호가를 제출하는 경우 호가의 수량 등은 다음 각 호와 같다.<개정 2016. 3. 24., 2016. 6. 21., 2024. 5. 23.>
+② 채권시장조성회원이 규정 제71조의4제3항에 따라 조성호가를 제출하는 경우 호가의 수량 등은 다음 각 호와 같다. <개정 2016. 3. 24., 2016. 6. 21., 2024. 5. 23.>
 
 1. 국채전문유통시장의 매매거래 중 지표종목의 경우에는 「국고채권 운영규정」 제31조제1항 및 제2항에서 정하는 개수 및 수량. 이 경우 호가 수량이 10억원을 초과하는 경우에는 해당 호가수량을 10억원으로 나눈 개수만큼의 호가를 제출한 것으로 본다.
 
@@ -3381,53 +3636,53 @@ attachments:
 
 3. 소액채권의 매매거래 및 일반채권시장의 매매거래의 경우에는 액면금액을 기준으로 1억원 이상 100억원 이하
 
-③ 제1항 및 제2항에도 불구하고 호가상황 또는 거래상황의 급격한 변동, 그 밖에 거래소가 시장 관리상 필요하다고 인정하는 경우에는 조성호가의 스프레드, 수량 등을 변경할 수 있다.<개정 2024. 5. 23.>
+③ 제1항 및 제2항에도 불구하고 호가상황 또는 거래상황의 급격한 변동, 그 밖에 거래소가 시장 관리상 필요하다고 인정하는 경우에는 조성호가의 스프레드, 수량 등을 변경할 수 있다. <개정 2024. 5. 23.>
 
 [본조신설 2015. 7. 16.]
 
 **제99조의7(조성호가 제출의 특례 등)**① 국채전문유통시장의 매매거래의 경우에는 이미 제출된 조성호가를 취소한 후 3분 이내에 다시 제출하여야 지속적으로 호가한 것으로 본다.
 
-② 국채전문유통시장의 매매거래에 관하여는 제79조제6항, 제79조의2제4항 및 제80조를 준용한다.<개정 2024. 5. 23.,2026. 3. 25.>
+② 국채전문유통시장의 매매거래에 관하여는 제79조제6항, 제79조의2제4항 및 제80조를 준용한다. <개정 2024. 5. 23.,2026. 3. 25.>
 
-③ 소액채권의 매매거래 및 일반채권시장의 매매거래의 경우에는 조성호가의 수량 중 매매체결된 수량에 대해서는 해당 수량만큼 당일 해당 종목에 대하여 지속적으로 호가한 것으로 본다.<개정 2016. 3. 24.>
+③ 소액채권의 매매거래 및 일반채권시장의 매매거래의 경우에는 조성호가의 수량 중 매매체결된 수량에 대해서는 해당 수량만큼 당일 해당 종목에 대하여 지속적으로 호가한 것으로 본다. <개정 2016. 3. 24.>
 
 ④ 호가상황 또는 거래상황의 급격한 변동, 그 밖에 거래소가 시장 관리상 필요하다고 인정하는 경우에는 조성호가 제출을 면제할 수 있다.
 
 [본조신설 2015. 7. 16.]
 
-**제99조의8(조성호가의 취소 및 정정)**① 채권시장조성회원은 매매거래가 성립되지 아니한 조성호가를 취소하고자 하는 경우에는 제17조제1항에도 불구하고 그 수량의 전부를 취소해야 한다.<개정 2024. 5. 23.>
+**제99조의8(조성호가의 취소 및 정정)**① 채권시장조성회원은 매매거래가 성립되지 아니한 조성호가를 취소하고자 하는 경우에는 제17조제1항에도 불구하고 그 수량의 전부를 취소해야 한다. <개정 2024. 5. 23.>
 
-② 채권시장조성회원은 제99조의6제1항에 따른 스프레드 요건을 충족하는 경우에 한하여 조성호가의 가격을 정정할 수 있다. 다만, 양방의 조성호가의 스프레드 가격이 복수인 경우에는 최대 가격기준 스프레드를 충족하는 경우에 한하여 조성호가의 가격을 정정할 수 있다.<개정 2024. 5. 23.>
+② 채권시장조성회원은 제99조의6제1항에 따른 스프레드 요건을 충족하는 경우에 한하여 조성호가의 가격을 정정할 수 있다. 다만, 양방의 조성호가의 스프레드 가격이 복수인 경우에는 최대 가격기준 스프레드를 충족하는 경우에 한하여 조성호가의 가격을 정정할 수 있다. <개정 2024. 5. 23.>
 
-③ 소액채권시장의 채권시장조성회원은 제99조의6제2항제3호에 따른 수량 요건을 충족하는 경우에 한하여 조성호가의 수량을 정정할 수 있다.<개정 2016. 3. 24., 2024. 5. 23.>
+③ 소액채권시장의 채권시장조성회원은 제99조의6제2항제3호에 따른 수량 요건을 충족하는 경우에 한하여 조성호가의 수량을 정정할 수 있다. <개정 2016. 3. 24., 2024. 5. 23.>
 
 [전문개정 2015. 7. 16.]
 
-**제99조의9(채권시장조성거래원 또는 채권시장조성계좌의 지정 및 지정취소 등<개정 2024. 5. 23.>)**① 거래소는 채권시장조성회원에 대하여 해당 회원의 신청을 받아규정제71조의3제2항제1호 및 제4호의 매매거래별로 회원채무증권단말기를 통해 조성호가를 제출할 수 있는 자(이하 "채권시장조성거래원"이라 한다)를 지정할 수 있다.<개정 2024. 5. 23.>
+**제99조의9(채권시장조성거래원 또는 채권시장조성계좌의 지정 및 지정취소 등<개정 2024. 5. 23.>)**① 거래소는 채권시장조성회원에 대하여 해당 회원의 신청을 받아 규정 제71조의3제2항제1호 및 제4호의 매매거래별로 회원채무증권단말기를 통해 조성호가를 제출할 수 있는 자(이하 "채권시장조성거래원"이라 한다)를 지정할 수 있다. <개정 2024. 5. 23.>
 
-② 채권시장조성거래원의 수는 다음 각 호와 같다.<개정 2016. 3. 24., 2024. 5. 23.>
+② 채권시장조성거래원의 수는 다음 각 호와 같다. <개정 2016. 3. 24., 2024. 5. 23.>
 
 1. 국채전문유통시장의 매매거래의 경우에는 6명
 
 2. 일반채권시장의 매매거래의 경우에는 2명
 
-③ 채권시장조성회원이 채권시장조성거래원의 지정 및 지정취소를 신청하는 경우에는규정제71조의3제2항제1호 및 제4호의 매매거래별로 별지 제7호의4 서식에 따른 채권시장조성거래원 지정 및 지정취소 신청서를 거래소에 제출해야 한다.<개정 2024. 5. 23.>
+③ 채권시장조성회원이 채권시장조성거래원의 지정 및 지정취소를 신청하는 경우에는 규정 제71조의3제2항제1호 및 제4호의 매매거래별로 별지 제7호의4 서식에 따른 채권시장조성거래원 지정 및 지정취소 신청서를 거래소에 제출해야 한다. <개정 2024. 5. 23.>
 
-④ 제1항에 따라 채권시장조성거래원의 지정을 신청하는 경우에는 책임자를 정하여 거래소에 통보하여야 한다. 책임자가 변경된 경우에도 또한 같다.<개정 2024. 5. 23.>
+④ 제1항에 따라 채권시장조성거래원의 지정을 신청하는 경우에는 책임자를 정하여 거래소에 통보하여야 한다. 책임자가 변경된 경우에도 또한 같다. <개정 2024. 5. 23.>
 
-⑤ 거래소는 국채전문유통시장의 매매거래 또는 소액채권매매거래의 경우에는 조성호가를 제출할 수 있는 계좌(이하 "채권시장조성계좌"라 한다)를 지정할 수 있다. 이 경우 채권시장조성계좌는 채권시장조성회원당 매매거래별로 최대 10개로 한다.<신설 2024. 5. 23.>
+⑤ 거래소는 국채전문유통시장의 매매거래 또는 소액채권매매거래의 경우에는 조성호가를 제출할 수 있는 계좌(이하 "채권시장조성계좌"라 한다)를 지정할 수 있다. 이 경우 채권시장조성계좌는 채권시장조성회원당 매매거래별로 최대 10개로 한다. <신설 2024. 5. 23.>
 
-⑥ 제5항에 따라 채권시장조성계좌의 지정을 받으려는 회원은 해당 계좌 및 그 계좌의 관리자를 매매거래일 전일 18시까지 별지 제7호의6 서식에 따라 거래소에 신고하여야 한다.<신설 2024. 5. 23.>
+⑥ 제5항에 따라 채권시장조성계좌의 지정을 받으려는 회원은 해당 계좌 및 그 계좌의 관리자를 매매거래일 전일 18시까지 별지 제7호의6 서식에 따라 거래소에 신고하여야 한다. <신설 2024. 5. 23.>
 
-⑦ 채권시장조성계좌의 폐쇄 또는 변경, 해당 계좌의 관리자 변경에 관하여는 제6항을 준용한다.<신설 2024. 5. 23.>
+⑦ 채권시장조성계좌의 폐쇄 또는 변경, 해당 계좌의 관리자 변경에 관하여는 제6항을 준용한다. <신설 2024. 5. 23.>
 
 [전문개정 2015. 7. 16.]
 
-**제99조의10(채권시장조성회원에 대한 평가)**① 거래소는규정제71조의5에 따라규정제71조의3제2항 각 호의 매매거래(환매채거래는 제외한다)별 채권시장조성회원을 대상으로 다음 각 호에서 정하는 항목에 대하여 분기별로 평가한다.<개정 2016. 3. 24., 2024. 10. 29.>
+**제99조의10(채권시장조성회원에 대한 평가)**① 거래소는 규정 제71조의5에 따라 규정 제71조의3제2항 각 호의 매매거래(환매채거래는 제외한다)별 채권시장조성회원을 대상으로 다음 각 호에서 정하는 항목에 대하여 분기별로 평가한다. <개정 2016. 3. 24., 2024. 10. 29.>
 
-1. 조성호가 제출실적(국채전문유통시장 및 일반채권시장의 매매거래 중 협의매매의 조성호가 제출실적을 제외한다)<개정 2025. 12. 24.>
+1. 조성호가 제출실적(국채전문유통시장 및 일반채권시장의 매매거래 중 협의매매의 조성호가 제출실적을 제외한다) <개정 2025. 12. 24.>
 
-2. 조성호가에 의한 매매거래실적(국채전문유통시장 및 일반채권시장의 매매거래 중 협의매매의 거래실적을 제외한다). 다만, 상대호가가 동일회원의 조성호가인 경우의 매매거래실적은 제외한다.<개정 2025. 12. 24.>
+2. 조성호가에 의한 매매거래실적(국채전문유통시장 및 일반채권시장의 매매거래 중 협의매매의 거래실적을 제외한다). 다만, 상대호가가 동일회원의 조성호가인 경우의 매매거래실적은 제외한다. <개정 2025. 12. 24.>
 
 3. 조성호가 유효도(국채전문유통시장에서의 조성호가에 한정한다)
 
@@ -3437,21 +3692,21 @@ attachments:
 
 [본조신설 2015. 7. 16.]
 
-**제99조의11(채권시장조성회원에 대한 대가 지급)**①규정제71조의5제1항에 따라 거래소는 별도로 정하는 기준에 따라 채권시장조성회원에게 대가를 지급한다.
+**제99조의11(채권시장조성회원에 대한 대가 지급)**① 규정 제71조의5제1항에 따라 거래소는 별도로 정하는 기준에 따라 채권시장조성회원에게 대가를 지급한다.
 
 ② 거래소는 매 분기 종료 후 1개월 이내에 대가를 지급한다.
 
-③ 채권시장조성회원이 다음 각 호의 어느 하나에 해당하는 경우 해당 회원에 대한 대가의 지급을 제한할 수 있다.<개정 2016. 3. 24., 2016. 12. 26., 2024. 10. 29.>
+③ 채권시장조성회원이 다음 각 호의 어느 하나에 해당하는 경우 해당 회원에 대한 대가의 지급을 제한할 수 있다. <개정 2016. 3. 24., 2016. 12. 26., 2024. 10. 29.>
 
 1. 제99조의10제1항제1호에 따른 조성호가 제출실적이 별표 4 제1호라목에 따른 기본 조성점수에 미달하는 경우
 
-2. 제99조의10제1항제2호에 따른 조성호가에 의한 매매거래실적이규정제71조의3제2항 각 호의 매매거래(환매채거래는 제외한다)별 전체 채권시장조성회원의 조성호가에 따른 매매거래실적 대비 다음 각 목의 구분에 따른 비율에 미달하는 경우<개정 2025. 12. 24.>
+2. 제99조의10제1항제2호에 따른 조성호가에 의한 매매거래실적이 규정 제71조의3제2항 각 호의 매매거래(환매채거래는 제외한다)별 전체 채권시장조성회원의 조성호가에 따른 매매거래실적 대비 다음 각 목의 구분에 따른 비율에 미달하는 경우 <개정 2025. 12. 24.>
 
-가. 국채전문유통시장의 매매거래: 0.5%<신설 2025. 12. 24.>
+가. 국채전문유통시장의 매매거래: 0.5% <신설 2025. 12. 24.>
 
-나. 소액채권의 매매거래: 0.5%<신설 2025. 12. 24.>
+나. 소액채권의 매매거래: 0.5% <신설 2025. 12. 24.>
 
-다. 일반채권시장의 매매거래: 1.0%<신설 2025. 12. 24.>
+다. 일반채권시장의 매매거래: 1.0% <신설 2025. 12. 24.>
 
 3. 제99조의10제1항제3호에 따른 조성호가 유효도 실적이 1점에 미달하는 경우
 
@@ -3461,97 +3716,97 @@ attachments:
 
 [본조신설 2015. 7. 16.]
 
-제5장[삭제 2025. 2. 27.]
+ 제5장 [삭제 2025. 2. 27.]
 
-제1절[삭제 2025. 2. 27.]
+ 제1절 [삭제 2025. 2. 27.]
 
-**제99조의12**삭제<2025. 2. 27.>
+**제99조의12**삭제 <2025. 2. 27.>
 
-**제99조의13**삭제<2025. 2. 27.>
+**제99조의13**삭제 <2025. 2. 27.>
 
-제2절[삭제 2025. 2. 27.]
+ 제2절 [삭제 2025. 2. 27.]
 
-**제99조의14**삭제<2025. 2. 27.>
+**제99조의14**삭제 <2025. 2. 27.>
 
-**제99조의15**삭제<2025. 2. 27.>
+**제99조의15**삭제 <2025. 2. 27.>
 
-**제99조의16**삭제<2025. 2. 27.>
+**제99조의16**삭제 <2025. 2. 27.>
 
-**제99조의17**삭제<2025. 2. 27.>
+**제99조의17**삭제 <2025. 2. 27.>
 
-**제99조의18**삭제<2025. 2. 27.>
+**제99조의18**삭제 <2025. 2. 27.>
 
-**제99조의19**삭제<2025. 2. 27.>
+**제99조의19**삭제 <2025. 2. 27.>
 
-**제99조의20**삭제<2025. 2. 27.>
+**제99조의20**삭제 <2025. 2. 27.>
 
-**제99조의21**삭제<2025. 2. 27.>
+**제99조의21**삭제 <2025. 2. 27.>
 
-**제99조의22**삭제<2025. 2. 27.>
+**제99조의22**삭제 <2025. 2. 27.>
 
-**제99조의23**삭제<2025. 2. 27.>
+**제99조의23**삭제 <2025. 2. 27.>
 
-**제99조의24**삭제<2025. 2. 27.>
+**제99조의24**삭제 <2025. 2. 27.>
 
-**제99조의25**삭제<2025. 2. 27.>
+**제99조의25**삭제 <2025. 2. 27.>
 
-**제99조의26**삭제<2025. 2. 27.>
+**제99조의26**삭제 <2025. 2. 27.>
 
-**제99조의27**삭제<2025. 2. 27.>
+**제99조의27**삭제 <2025. 2. 27.>
 
-제3절[삭제 2025. 2. 27.]
+ 제3절 [삭제 2025. 2. 27.]
 
-**제99조의28**삭제<2025. 2. 27.>
+**제99조의28**삭제 <2025. 2. 27.>
 
-**제100조**삭제<2025. 2. 27.>
+**제100조**삭제 <2025. 2. 27.>
 
-**제100조의2**삭제<2025. 2. 27.>
+**제100조의2**삭제 <2025. 2. 27.>
 
-**제100조의3**삭제<2025. 2. 27.>
+**제100조의3**삭제 <2025. 2. 27.>
 
-**제100조의4**삭제<2025. 2. 27.>
+**제100조의4**삭제 <2025. 2. 27.>
 
-**제101조**삭제<2025. 2. 27.>
+**제101조**삭제 <2025. 2. 27.>
 
-**제101조의2**삭제<2025. 2. 27.>
+**제101조의2**삭제 <2025. 2. 27.>
 
-**제101조의3**삭제<2025. 2. 27.>
+**제101조의3**삭제 <2025. 2. 27.>
 
-**제101조의4**삭제<2025. 2. 27.>
+**제101조의4**삭제 <2025. 2. 27.>
 
-**제101조의5**삭제<2025. 2. 27.>
+**제101조의5**삭제 <2025. 2. 27.>
 
-**제101조의6**삭제<2025. 2. 27.>
+**제101조의6**삭제 <2025. 2. 27.>
 
-**제101조의7**삭제<2025. 2. 27.>
+**제101조의7**삭제 <2025. 2. 27.>
 
-**제101조의8**삭제<2025. 2. 27.>
+**제101조의8**삭제 <2025. 2. 27.>
 
-**제101조의9**삭제<2025. 2. 27.>
+**제101조의9**삭제 <2025. 2. 27.>
 
-**제101조의10**삭제<2025. 2. 27.>
+**제101조의10**삭제 <2025. 2. 27.>
 
-**제101조의11**삭제<2025. 2. 27.>
+**제101조의11**삭제 <2025. 2. 27.>
 
-**제101조의12**삭제<2025. 2. 27.>
+**제101조의12**삭제 <2025. 2. 27.>
 
-**제101조의13**삭제<2025. 2. 27.>
+**제101조의13**삭제 <2025. 2. 27.>
 
-**제101조의14**삭제<2025. 2. 27.>
+**제101조의14**삭제 <2025. 2. 27.>
 
-**제101조의15**삭제<2025. 2. 27.>
+**제101조의15**삭제 <2025. 2. 27.>
 
-**제101조의16**삭제<2025. 2. 27.>
+**제101조의16**삭제 <2025. 2. 27.>
 
-**제101조의17**삭제<2025. 2. 27.>
+**제101조의17**삭제 <2025. 2. 27.>
 
-**제101조의18**삭제<2025. 2. 27.>
+**제101조의18**삭제 <2025. 2. 27.>
 
-제6장 매매거래의 수탁
+ 제6장 매매거래의 수탁
 
-제1절 통칙
+ 제1절 통칙
 
-**제102조(정의)**이 장에서 사용하는 용어의 정의는 다음 각호와 같다.<개정 2006. 2. 8., 2009. 2. 3., 2013. 9. 13., 2014. 6. 24., 2017. 9. 19.>
+**제102조(정의)**이 장에서 사용하는 용어의 정의는 다음 각호와 같다. <개정 2006. 2. 8., 2009. 2. 3., 2013. 9. 13., 2014. 6. 24., 2017. 9. 19.>
 
 1. "코스닥시장상장증권"이란 거래소가 개설한 코스닥시장에 상장된 증권을 말한다.
 
@@ -3559,23 +3814,23 @@ attachments:
 
 2. "산출기준일"이란 수익증권 및 비상장투자회사주권(투자회사주권으로서 상장되지 아니한 주권을 말한다. 이하 같다)의 대용가격의 산출을 위한 기준이 되는 날로서, 적용초일의 5매매거래일 전일을 말한다.
 
-가. 삭제<2014. 6. 24.>
+가. 삭제 <2014. 6. 24.>
 
-나. 삭제<2014. 6. 24.>
+나. 삭제 <2014. 6. 24.>
 
 3. "적용초일"이란 수익증권 및 비상장투자회사주권의 대용가격을 산출하여 최초로 적용하는 날로서, 매월 첫째 매매거래일을 말한다.
 
-가. 삭제<2014. 6. 24.>
+가. 삭제 <2014. 6. 24.>
 
-나. 삭제<2014. 6. 24.>
+나. 삭제 <2014. 6. 24.>
 
-제2절 수탁의 방법 및 조건
+ 제2절 수탁의 방법 및 조건
 
-**제103조(소액채권전용공동계좌의 설정)**① 회원이규정제77조제1항 단서의 공동계좌를 설정하여 처리하는 경우에는 공동계좌를 이용한다는 약정사항을 기재한 주문표에 위탁자가 기명날인하여야 한다.<개정 2014. 2. 28.>
+**제103조(소액채권전용공동계좌의 설정)**① 회원이 규정 제77조제1항 단서의 공동계좌를 설정하여 처리하는 경우에는 공동계좌를 이용한다는 약정사항을 기재한 주문표에 위탁자가 기명날인하여야 한다. <개정 2014. 2. 28.>
 
 ② 제1항의 규정에 의한 공동계좌는 위탁자별 거래내역을 명확히 구분할 수 있어야 한다.
 
-**제104조(매매거래계좌설정시 위탁자 확인사항)**①규정제77조제3항에서 "세칙이 정하는 사항"이란 다음 각호의 사항을 말한다.<개정 2008. 5. 13., 2009. 2. 3., 2009. 3. 19., 2012. 6. 20., 2023. 8. 8., 2023. 11. 23.>
+**제104조(매매거래계좌설정시 위탁자 확인사항)**① 규정 제77조제3항에서 "세칙이 정하는 사항"이란 다음 각호의 사항을 말한다. <개정 2008. 5. 13., 2009. 2. 3., 2009. 3. 19., 2012. 6. 20., 2023. 8. 8., 2023. 11. 23.>
 
 1. 성명 또는 명칭 및 주민등록번호, 사업자등록번호, 납세번호, 외국인의 경우 외국인 식별수단의 번호(내국민대우 외국인의 경우에는 여권번호, 사업자등록번호 또는 납세번호를 말한다)등 실지명의를 확인할 수 있는 번호
 
@@ -3587,9 +3842,9 @@ attachments:
 
 5. 외국인의 경우 다음 각 목에서 정하는 사항
 
-가. 국적 또는영주권
+가. 국적 또는 영주권
 
-나. 삭제<2023. 11. 23.>
+나. 삭제 <2023. 11. 23.>
 
 다. 국내 거주 여부
 
@@ -3612,17 +3867,17 @@ attachments:
 바. 연금, 기금 및 공제회 : 6000
 
 사. 국가, 지방자치단체, 국제기구 및 공익기관 : 7000
-사의2. 가목부터 사목까지 외의 법인 : 7100
+ 사의2. 가목부터 사목까지 외의 법인 : 7100
 
 아. 개인 : 8000
 
-자. 삭제<2009. 3. 19.>
+자. 삭제 <2009. 3. 19.>
 
 7. 대리인을 선임한 때에는 대리인의 성명 또는 명칭, 주민등록번호 또는 사업자등록번호등 실지명의를 확인할 수 있는 번호, 본인과의 관계, 주소 및 대리권의 범위
 
-② 회원은 위탁자가 매매거래계좌설정시의 제1항제6호에 따른 투자자분류코드와 다른 투자자분류코드에 해당하게 되는 경우 지체없이 이를 확인하여 기록·유지하여야 한다.<개정 2009. 2. 3.>
+② 회원은 위탁자가 매매거래계좌설정시의 제1항제6호에 따른 투자자분류코드와 다른 투자자분류코드에 해당하게 되는 경우 지체없이 이를 확인하여 기록·유지하여야 한다. <개정 2009. 2. 3.>
 
-**제104조의2(주문방법등의 공표)**①규정제77조의2제4항에 따라 회원이 주문방법등에 관한 내용을 정하는 경우에는 다음 각 호의 사항을 포함하여야 한다.<개정 2014. 2. 28., 2022. 12. 22.>
+**제104조의2(주문방법등의 공표)**① 규정 제77조의2제4항에 따라 회원이 주문방법등에 관한 내용을 정하는 경우에는 다음 각 호의 사항을 포함하여야 한다. <개정 2014. 2. 28., 2022. 12. 22.>
 
 1. 주문의 수탁방법에 관하여 다음 각 목의 사항
 
@@ -3638,7 +3893,7 @@ attachments:
 
 2. 주문의 처리방법에 관하여 다음 각 목의 사항
 
-가.규정제11조의2에 따른 호가 적합성 등 점검 방법 및 점검시스템의 지리적 위치
+가. 규정 제11조의2에 따른 호가 적합성 등 점검 방법 및 점검시스템의 지리적 위치
 
 나. 「회원시스템 접속 등에 관한 지침」에서 정하는 세션 유형
 
@@ -3646,11 +3901,11 @@ attachments:
 
 4. 그 밖에 회원이 각 주문방법등의 차이점을 설명하기 위하여 필요하다고 인정하는 사항
 
-②규정제77조의2제4항에 따라 회원이 주문방법등을 정하거나 변경하는 경우에는 사전에 회원 인터넷 홈페이지 등에 공표하고 즉시 이를 거래소에 통보하여야 한다.
+② 규정 제77조의2제4항에 따라 회원이 주문방법등을 정하거나 변경하는 경우에는 사전에 회원 인터넷 홈페이지 등에 공표하고 즉시 이를 거래소에 통보하여야 한다.
 
 [본조신설 2011. 12. 28.]
 
-**제104조의3(고속 알고리즘거래 약관)**규정제78조제1항제8호나목에 따라 회원은 위탁자가 고속 알고리즘거래자로 등록을 하여야 하는 자인 경우 다음 각 호의 사항을 약관에 포함하여야 한다.
+**제104조의3(고속 알고리즘거래 약관)**규정 제78조제1항제8호나목에 따라 회원은 위탁자가 고속 알고리즘거래자로 등록을 하여야 하는 자인 경우 다음 각 호의 사항을 약관에 포함하여야 한다.
 
 1. 고속 알고리즘거래에서 발생할 수 있는 위험을 파악하고 체계적으로 관리하여야 한다는 사항
 
@@ -3662,37 +3917,37 @@ attachments:
 
 5. 주문시스템 등 전산시스템의 오류 등 긴급상황 발생 시 즉시 대처할 수 있도록 회원과 상호 연락체계를 유지하여야 한다는 사항
 
-6. 제131조의3에 따라 복수 회원을 통하여 고속 알고리즘거래를 하는 위탁자가규정제104조의3제5항의 고속 알고리즘거래 수탁중단 조치를 받은 경우에 해당 사실 및 사유를 다른 모든 회원에게 통보하여야 한다는 사항
+6. 제131조의3에 따라 복수 회원을 통하여 고속 알고리즘거래를 하는 위탁자가 규정 제104조의3제5항의 고속 알고리즘거래 수탁중단 조치를 받은 경우에 해당 사실 및 사유를 다른 모든 회원에게 통보하여야 한다는 사항
 
 [본조신설 2022. 12. 22.]
 
-**제105조(매매거래수탁약관의 통보시한)**규정제78조제3항에서 "세칙이 정하는 기간"이라 함은 당해 약관의 시행일부터 5매매거래일을 말한다.
+**제105조(매매거래수탁약관의 통보시한)**규정 제78조제3항에서 "세칙이 정하는 기간"이라 함은 당해 약관의 시행일부터 5매매거래일을 말한다.
 
-**제106조(주권상장법인 자기주식매매거래의 수탁방법)**①규정제79조제3항의 규정에 의하여 회원이 주권상장법인으로부터자기주식매수를 위한 매매거래의 위탁을 받을 경우에는 다음 각호의 방법에 의하여야 한다.<개정 2026. 7. 2.>
+**제106조(주권상장법인 자기주식매매거래의 수탁방법)**① 규정 제79조제3항의 규정에 의하여 회원이 주권상장법인으로부터 자기주식매수를 위한 매매거래의 위탁을 받을 경우에는 다음 각호의 방법에 의하여야 한다. <개정 2026. 7. 2.>
 
 1. 회원은 주문을 접수하는 당일의 정규시장의 호가접수시간중에 주권상장법인으로부터 주문을 접수하여야 한다.
 
-2. 주문가격은규정제39조제1항 각호의 규정에 의한 가격으로 하여야 한다. 이 경우 매매거래시간중에 당해 주문을 정정하는 경우에는규정제39조제2항의 규정에 의한 가격으로 하여야 한다.
+2. 주문가격은 규정 제39조제1항 각호의 규정에 의한 가격으로 하여야 한다. 이 경우 매매거래시간중에 당해 주문을 정정하는 경우에는 규정 제39조제2항의 규정에 의한 가격으로 하여야 한다.
 
 3. 주문수량은 제57조제1항제3호의 규정에 의한 수량으로 하여야 한다.
 
-② 제1항의 규정에 불구하고 회원이규정제40조제1항의 규정에 의하여 주권상장법인으로부터 자기주식매수의 위탁을 받을 경우에는 다음 각호의 방법에 의하여야 한다.
+② 제1항의 규정에 불구하고 회원이 규정 제40조제1항의 규정에 의하여 주권상장법인으로부터 자기주식매수의 위탁을 받을 경우에는 다음 각호의 방법에 의하여야 한다.
 
 1. 회원은 주문을 접수하는 당일의 정규시장의 호가접수시간중에 주권상장법인으로부터 주문을 접수하여야 한다.
 
-2. 주문가격은규정제40조제2항 각호의 규정에 의한 가격으로 하여야 한다. 이 경우 매매거래시간중에 당해 주문을 정정하는 경우에는같은 항 제2호의 규정에 의한 가격으로 하여야 한다.<개정 2026. 7. 2.>
+2. 주문가격은 규정 제40조제2항 각호의 규정에 의한 가격으로 하여야 한다. 이 경우 매매거래시간중에 당해 주문을 정정하는 경우에는 같은 항 제2호의 규정에 의한 가격으로 하여야 한다. <개정 2026. 7. 2.>
 
 3. 주문수량은 취득예정주식수 이내의 수량으로 하여야 한다.
 
-③ 회원이 주권상장법인으로부터규정제39조제4항의 규정에 의한 시간외대량매매의 방법으로 자기주식매매거래의 위탁을 받은 경우에는 제1항 및 제2항의 규정은 이를 적용하지 아니한다.<신설 2006. 9. 8.>
+③ 회원이 주권상장법인으로부터 규정 제39조제4항의 규정에 의한 시간외대량매매의 방법으로 자기주식매매거래의 위탁을 받은 경우에는 제1항 및 제2항의 규정은 이를 적용하지 아니한다. <신설 2006. 9. 8.>
 
-**제107조(주권상장법인 자기주식신탁매매거래의 수탁방법)**규정제80조제4항에 따라 회원이 신탁업자로부터자기주식신탁매수를 위한 매매거래의 위탁을 받을 경우에는 제106조를 준용한다. 이 경우 "주권상장법인"은 "신탁업자"로, "자기주식매수"는 "자기주식신탁매수"로 보며, 제106조제1항제3호의 주문수량은 발행주식총수의 100분의 1에 해당하는 수량 이내의 수량으로 하고,같은 조 제2항제3호의 주문수량은 당해 주문수량에 주문의 가격을 곱한 금액이 당해 신탁재산의 총액을 초과하지 아니하는 범위 이내의 수량으로 한다.<개정 2009. 2. 3.,2026. 7. 2.>
+**제107조(주권상장법인 자기주식신탁매매거래의 수탁방법)**규정 제80조제4항에 따라 회원이 신탁업자로부터 자기주식신탁매수를 위한 매매거래의 위탁을 받을 경우에는 제106조를 준용한다. 이 경우 "주권상장법인"은 "신탁업자"로, "자기주식매수"는 "자기주식신탁매수"로 보며, 제106조제1항제3호의 주문수량은 발행주식총수의 100분의 1에 해당하는 수량 이내의 수량으로 하고, 같은 조 제2항제3호의 주문수량은 당해 주문수량에 주문의 가격을 곱한 금액이 당해 신탁재산의 총액을 초과하지 아니하는 범위 이내의 수량으로 한다. <개정 2009. 2. 3.,2026. 7. 2.>
 
-**제108조(수탁의 내용)**규정제81조에서 "세칙이 정하는 내용"이란 다음 각 호의 내용을 말한다.
+**제108조(수탁의 내용)**규정 제81조에서 "세칙이 정하는 내용"이란 다음 각 호의 내용을 말한다.
 
 1. 정규시장, 장개시전 시간외시장 또는 장종료후 시간외시장의 구분
 
-1의2. 시간외시장에서의 매매거래를 위한 주문인 경우규정제33조각 호에 따른 매매거래유형의 구분
+1의2. 시간외시장에서의 매매거래를 위한 주문인 경우 규정 제33조 각 호에 따른 매매거래유형의 구분
 
 1의3. 장중경쟁대량매매, 장중대량매매 또는 장중바스켓매매를 위한 주문인 경우 그 구분
 
@@ -3704,7 +3959,7 @@ attachments:
 
 4. 매도 또는 매수의 구분
 
-5.규정제2조제5항에 따른 주문의 종류
+5. 규정 제2조제5항에 따른 주문의 종류
 
 6. 가격. 다만, 시장가주문, 최유리지정가주문, 최우선지정가주문, 목표가주문, 중간가주문, 경쟁대량매매주문, 시간외종가매매를 위한 주문 또는 기 제출한 주문을 취소하는 주문의 경우에는 그러하지 아니하다.
 
@@ -3719,7 +3974,7 @@ attachments:
 다. 주식차익거래
 
 라. 상장지수집합투자기구 집합투자증권차익거래이면서 비차익거래
-라의2. 상장지수집합투자기구 집합투자증권차익거래이면서 비차익거래가 아닌 거래
+ 라의2. 상장지수집합투자기구 집합투자증권차익거래이면서 비차익거래가 아닌 거래
 
 마. 주식예탁증권차익거래
 
@@ -3741,9 +3996,9 @@ attachments:
 
 9. 매도주문의 경우 다음 각목의 구분
 
-가.규정제17조제1항 각호의 어느 하나 또는 제44조의2제1항 각호의 어느 하나에 해당하는 매도호가를 위한 주문
+가. 규정 제17조제1항 각호의 어느 하나 또는 제44조의2제1항 각호의 어느 하나에 해당하는 매도호가를 위한 주문
 
-나.규정제17조제2항 또는 제44조의2제2항에 따른 차입공매도 호가를 위한 주문
+나. 규정 제17조제2항 또는 제44조의2제2항에 따른 차입공매도 호가를 위한 주문
 
 다. 그 밖의 매도호가를 위한 주문
 
@@ -3759,9 +4014,9 @@ attachments:
 
 나. 매매방법에 따른 다음의 구분
 
-(1)규정제35조제4항이 적용되는 매매
+(1) 규정 제35조제4항이 적용되는 매매
 
-(2)규정제39조제4항제1호 및 제2호에 따른 자기주식매수 중규정제35조제2항이 적용되는 매매
+(2) 규정 제39조제4항제1호 및 제2호에 따른 자기주식매수 중 규정 제35조제2항이 적용되는 매매
 
 (3) (1) 및 (2) 외의 매매
 
@@ -3791,17 +4046,17 @@ attachments:
 
 16. 거래시장 지정 여부 구분. 다만, 채무증권의 경우에는 예외로 한다.
 
-17. 위탁자가 공매도 등록번호를 발급받은 경우 공매도 등록번호(주권의 경우에 한정한다)<신설 2025. 3. 26.>
+17. 위탁자가 공매도 등록번호를 발급받은 경우 공매도 등록번호(주권의 경우에 한정한다) <신설 2025. 3. 26.>
 
-**제109조(수탁의 방법)**① 삭제<2011. 12. 28.>
+**제109조(수탁의 방법)**① 삭제 <2011. 12. 28.>
 
-② 회원이 문서에 의한 방법으로 매매거래의 위탁을 받을 때에는 위탁자가규정제81조에 따른 수탁의 내용을 기재하고 기명날인 또는 서명한 주문표에 의하여야 한다.<개정 2009. 2. 3.>
+② 회원이 문서에 의한 방법으로 매매거래의 위탁을 받을 때에는 위탁자가 규정 제81조에 따른 수탁의 내용을 기재하고 기명날인 또는 서명한 주문표에 의하여야 한다. <개정 2009. 2. 3.>
 
-③ 회원이 전화등방법으로 매매거래의 위탁을 받을 때에는 주문의 접수자는 위탁자 본인임을 확인한 후 다음 각호의 어느 하나의 방법으로 주문표를 작성하여야 하며, 녹음 등의 방법을 이용하여 주문사항을 입증할 수 있는 자료를 일정기간 보관하여야 한다.<개정 2009. 2. 3., 2011. 12. 28.>
+③ 회원이 전화등방법으로 매매거래의 위탁을 받을 때에는 주문의 접수자는 위탁자 본인임을 확인한 후 다음 각호의 어느 하나의 방법으로 주문표를 작성하여야 하며, 녹음 등의 방법을 이용하여 주문사항을 입증할 수 있는 자료를 일정기간 보관하여야 한다. <개정 2009. 2. 3., 2011. 12. 28.>
 
-1. 주문의 접수자가규정제81조에 따른 수탁의 내용을 수기로 주문표에 기재하고 기명날인 또는 서명할 것
+1. 주문의 접수자가 규정 제81조에 따른 수탁의 내용을 수기로 주문표에 기재하고 기명날인 또는 서명할 것
 
-2. 주문의 접수자가 회원시스템에규정제81조에 따른 수탁의 내용을 입력하고 동사항을 출력한 주문표(이하 "전산주문표"라 한다)에 기명날인 또는 서명할 것. 다만, 주문내용등을 전산매체를 이용하여 서명(전자서명 그 밖에 이에 준하는 행위를 포함한다)후 전자적으로 보관하는 경우에는 그러하지 아니하다.
+2. 주문의 접수자가 회원시스템에 규정 제81조에 따른 수탁의 내용을 입력하고 동사항을 출력한 주문표(이하 "전산주문표"라 한다)에 기명날인 또는 서명할 것. 다만, 주문내용등을 전산매체를 이용하여 서명(전자서명 그 밖에 이에 준하는 행위를 포함한다)후 전자적으로 보관하는 경우에는 그러하지 아니하다.
 
 ④ 회원이 전산주문표를 이용하고자 하는 경우에는 다음 각호의 사항을 준수하여야 한다.
 
@@ -3815,7 +4070,7 @@ attachments:
 
 5. 위탁자 또는 거래소 등이 주문내용등을 요청하는 경우 쉽게 알 수 있는 방식으로 제공할 수 있을 것
 
-⑤ 회원이 전자통신방법으로 매매거래의 위탁을 받을 때에는 다음 각호의 요건을 갖춘 시스템에 의하여야 하며, 위탁자와 미리 전자통신방법에 의한 수탁에 관한 계약을 체결하여야 한다.<개정 2009. 2. 3., 2016. 6. 21.>
+⑤ 회원이 전자통신방법으로 매매거래의 위탁을 받을 때에는 다음 각호의 요건을 갖춘 시스템에 의하여야 하며, 위탁자와 미리 전자통신방법에 의한 수탁에 관한 계약을 체결하여야 한다. <개정 2009. 2. 3., 2016. 6. 21.>
 
 1. 회원이 시스템의 이용자가 정당한 이용자인지 확인할 수 있을 것
 
@@ -3833,7 +4088,7 @@ attachments:
 
 7. 회원 또는 거래소가 필요하다고 인정하는 사항을 회원이 위탁자에게 알릴 수 있을 것
 
-⑥규정제82조제3항에 따라 회원은 위탁자의 주문에 의하여 당해 매매거래가 성립된 때에는 다음 각호의 내용을 지체없이 당해 위탁자에게 통지(전화등방법 및 전자통신방법에 의한 통지를 포함한다)하여야 한다.<개정 2009. 2. 3., 2010. 7. 29., 2011. 12. 28.>
+⑥ 규정 제82조제3항에 따라 회원은 위탁자의 주문에 의하여 당해 매매거래가 성립된 때에는 다음 각호의 내용을 지체없이 당해 위탁자에게 통지(전화등방법 및 전자통신방법에 의한 통지를 포함한다)하여야 한다. <개정 2009. 2. 3., 2010. 7. 29., 2011. 12. 28.>
 
 1. 종목명
 
@@ -3843,9 +4098,9 @@ attachments:
 
 4. 그 밖에 회원이 필요하다고 인정하는 사항
 
-⑦규정제82조제2항 단서에서 "세칙으로 정하는 경우"란 회원이 국채전문유통시장에서 회원채무증권단말기를 이용하여 주문을 수탁 또는 처리하는 경우를 말한다.<신설 2019. 11. 28.>
+⑦ 규정 제82조제2항 단서에서 "세칙으로 정하는 경우"란 회원이 국채전문유통시장에서 회원채무증권단말기를 이용하여 주문을 수탁 또는 처리하는 경우를 말한다. <신설 2019. 11. 28.>
 
-**제110조(투자위험고지등)**규정제83조제1항에 따라 회원은 다음 각 호의 어느 하나에 해당하는 경우 위탁자가 당해 사실을 알 수 있도록 전자통신방법으로 투자위험을 고지하거나 투자주의를 촉구하여야 한다.<개정 2012. 4. 20., 2020. 7. 23., 2020. 9. 22.>
+**제110조(투자위험고지등)**규정 제83조제1항에 따라 회원은 다음 각 호의 어느 하나에 해당하는 경우 위탁자가 당해 사실을 알 수 있도록 전자통신방법으로 투자위험을 고지하거나 투자주의를 촉구하여야 한다. <개정 2012. 4. 20., 2020. 7. 23., 2020. 9. 22.>
 
 1. 특정종목에 이상매매징후 또는 현상(이하 이 조에서 "이상매매징후등"이라 한다)이 발생하여 투자자보호 또는 시장거래질서의 안정을 위하여 필요하다고 인정하는 경우
 
@@ -3853,23 +4108,23 @@ attachments:
 
 3. 투자유의종목으로 지정된 종목의 경우
 
-4. 단기과열종목<개정 2025. 2. 27.>
+4. 단기과열종목 <개정 2025. 2. 27.>
 
 5. 정리매매종목으로 지정된 종목의 경우
 
-제3절 위탁증거금
+ 제3절 위탁증거금
 
-**제111조(위탁증거금징수기준의 통보시한)**규정제87조제3항에서 "세칙이 정하는 기간"이라 함은 당해 위탁증거금징수기준의 시행일부터 5매매거래일을 말한다.
+**제111조(위탁증거금징수기준의 통보시한)**규정 제87조제3항에서 "세칙이 정하는 기간"이라 함은 당해 위탁증거금징수기준의 시행일부터 5매매거래일을 말한다.
 
-**제111조의2(위탁증거금의 구분관리 및 거래증거금으로 사용제한)**①규정제87조제5항의 "회원의 재산과 구분하여 관리"와 관련하여 회원은 현금위탁증거금액을 위탁자예수금액과 회계상으로 구분하여 기재하여야 한다.
+**제111조의2(위탁증거금의 구분관리 및 거래증거금으로 사용제한)**① 규정 제87조제5항의 "회원의 재산과 구분하여 관리"와 관련하여 회원은 현금위탁증거금액을 위탁자예수금액과 회계상으로 구분하여 기재하여야 한다.
 
-②규정제87조제5항의 "위탁증거금을 거래증거금으로 사용할 수 없다."와 관련하여 회원은 「금융투자업규정시행세칙」 별표 10 및 붙임 1에 따른 회원의 유동성자산이 유동성부채 이상이 되도록 유지하여야 한다.
+② 규정 제87조제5항의 "위탁증거금을 거래증거금으로 사용할 수 없다."와 관련하여 회원은 「금융투자업규정시행세칙」 별표 10 및 붙임 1에 따른 회원의 유동성자산이 유동성부채 이상이 되도록 유지하여야 한다.
 
-③ 삭제<2025. 2. 27.>
+③ 삭제 <2025. 2. 27.>
 
 [본조신설 2017. 9. 19.]
 
-**제111조의3(기본예탁금액)**①규정제87조의2제1항에서 "세칙으로 정하는 금액"이란 다음 각 호에 해당하는 금액의 범위내에서 회원이 위탁자의 투자목적, 투자경험, 신용상태 및 위탁자 파악에 필요하다고 인정하는 사항 등을 감안하여 위탁자별로 구분하여 정하는 금액을 말한다.<개정 2020. 7. 23.>
+**제111조의3(기본예탁금액)**① 규정 제87조의2제1항에서 "세칙으로 정하는 금액"이란 다음 각 호에 해당하는 금액의 범위내에서 회원이 위탁자의 투자목적, 투자경험, 신용상태 및 위탁자 파악에 필요하다고 인정하는 사항 등을 감안하여 위탁자별로 구분하여 정하는 금액을 말한다. <개정 2020. 7. 23.>
 
 1. 주식워런트증권: 다음 각 목의 구분에 따른 금액. 다만, 개인인 위탁자가 주식워런트증권을 거래하기 위한 계좌를 최초로 설정하는 경우에는 나목 또는 다목을 적용하여야 한다.
 
@@ -3879,7 +4134,7 @@ attachments:
 
 다. 제3단계 : 3천만원 이상
 
-2.규정제87조의2제1항제2호에 따른 증권: 다음 각 목의 구분에 따른 금액. 다만, 개인인 위탁자가규정제87조의2제1항제2호에 따른 증권을 거래하기 위한 계좌를 최초로 설정하는 경우에는 나목 또는 다목을 적용하여야 한다.
+2. 규정 제87조의2제1항제2호에 따른 증권: 다음 각 목의 구분에 따른 금액. 다만, 개인인 위탁자가 규정 제87조의2제1항제2호에 따른 증권을 거래하기 위한 계좌를 최초로 설정하는 경우에는 나목 또는 다목을 적용하여야 한다.
 
 가. 제1단계 : 1천만원 미만(면제를 포함한다)
 
@@ -3887,69 +4142,69 @@ attachments:
 
 다. 제3단계 : 1천만원 초과 3천만원 이하
 
-3. 삭제<2020. 7. 23.>
+3. 삭제 <2020. 7. 23.>
 
 ② 회원은 제1항에 따른 위탁자별 적용단계, 단계별 적용금액 및 적용기간, 그 밖에 필요한 사항(이하 "기본예탁금적용기준"이라 한다)을 정하여야 한다.
 
-③ 회원은 기본예탁금적용기준을 정하거나 변경하는 경우에는 사전에 이를 공표하고, 그 적용일부터 7매매거래일 이내에 거래소에 통지하여야 한다.<신설 2020. 7. 23.>
+③ 회원은 기본예탁금적용기준을 정하거나 변경하는 경우에는 사전에 이를 공표하고, 그 적용일부터 7매매거래일 이내에 거래소에 통지하여야 한다. <신설 2020. 7. 23.>
 
 ④ 거래소는 제1항에도 불구하고 거래의 상황 등을 감안하여 시장관리상 필요하다고 인정하는 경우에는 제1항 각 호의 금액을 변경할 수 있다.
 
 [본조신설 2011. 7. 12.]
 
-**제112조(대용증권)**①규정제88조제2항제2호다목에서 "그 밖에 세칙으로 정하는 종목"이란 「유가증권시장 상장규정」제149조의7제3호다목에 따른 상장지수증권 중 조기상환조건이 있는 종목을 말한다.<신설 2017. 2. 28., 2020. 7. 23.>
+**제112조(대용증권)**① 규정 제88조제2항제2호다목에서 "그 밖에 세칙으로 정하는 종목"이란 「유가증권시장 상장규정」 제149조의7제3호다목에 따른 상장지수증권 중 조기상환조건이 있는 종목을 말한다. <신설 2017. 2. 28., 2020. 7. 23.>
 
-②규정제88조제2항제4호에서 "그 밖에 세칙으로 정하는 증권"이란 다음 각 호의 어느 하나에 해당하는 증권을 말한다.<개정 2005. 8. 26., 2009. 2. 3., 2013. 9. 13., 2017. 2. 28., 2017. 9. 7., 2017. 9. 19., 2020. 7. 23.>
+② 규정 제88조제2항제4호에서 "그 밖에 세칙으로 정하는 증권"이란 다음 각 호의 어느 하나에 해당하는 증권을 말한다. <개정 2005. 8. 26., 2009. 2. 3., 2013. 9. 13., 2017. 2. 28., 2017. 9. 7., 2017. 9. 19., 2020. 7. 23.>
 
 1. 「코스닥시장 업무규정」에서 대용증권으로 지정한 코스닥시장상장증권
 
 1의2. 「코넥스시장 업무규정」에서 대용증권으로 지정한 코넥스시장상장증권
 
-2.법제189조에 따른 수익증권 및 비상장투자회사주권. 다만,법제9조제19항의 사모집합투자기구의 주권 및 수익증권은 제외한다.
+2. 법 제189조에 따른 수익증권 및 비상장투자회사주권. 다만, 법 제9조제19항의 사모집합투자기구의 주권 및 수익증권은 제외한다.
 
-3.법제189조의 수익증권 외의 상장수익증권
+3. 법 제189조의 수익증권 외의 상장수익증권
 
-**제112조의2**삭제<2025. 2. 27.>
+**제112조의2**삭제 <2025. 2. 27.>
 
-**제113조**삭제<2025. 2. 27.>
+**제113조**삭제 <2025. 2. 27.>
 
-**제114조**삭제<2025. 2. 27.>
+**제114조**삭제 <2025. 2. 27.>
 
-**제115조**삭제<2025. 2. 27.>
+**제115조**삭제 <2025. 2. 27.>
 
-**제115조의2**삭제<2017. 9. 19.>
+**제115조의2**삭제 <2017. 9. 19.>
 
-**제115조의3**삭제<2025. 2. 27.>
+**제115조의3**삭제 <2025. 2. 27.>
 
-**제115조의4**삭제<2025. 2. 27.>
+**제115조의4**삭제 <2025. 2. 27.>
 
-**제116조**삭제<2025. 2. 27.>
+**제116조**삭제 <2025. 2. 27.>
 
-**제117조**삭제<2025. 2. 27.>
+**제117조**삭제 <2025. 2. 27.>
 
-**제118조**삭제<2025. 2. 27.>
+**제118조**삭제 <2025. 2. 27.>
 
-**제119조**삭제<2025. 2. 27.>
+**제119조**삭제 <2025. 2. 27.>
 
-**제120조**삭제<2025. 2. 27.>
+**제120조**삭제 <2025. 2. 27.>
 
-**제121조**삭제<2025. 2. 27.>
+**제121조**삭제 <2025. 2. 27.>
 
-**제122조(위탁증거금 징수의 특례)**규정제89조제2항제2호에서 "세칙에서 정하는 경우"란 최근 6개월 동안 결제일까지 매도증권을 납부하지 아니한 날이 5일 이상이고 결제부족금액의 합계액이 10억원 초과인 경우를 말한다.
+**제122조(위탁증거금 징수의 특례)**규정 제89조제2항제2호에서 "세칙에서 정하는 경우"란 최근 6개월 동안 결제일까지 매도증권을 납부하지 아니한 날이 5일 이상이고 결제부족금액의 합계액이 10억원 초과인 경우를 말한다.
 
 [본조신설 2013. 12. 18.]
 
-제4절 주문의 처리
+ 제4절 주문의 처리
 
-**제123조(주문의 처리)**①규정제91조의 규정에 의하여 회원은 위탁자로부터 문서에 의한 방법 또는 전화등방법으로 매매거래의 위탁을 받은 경우에는 주문내용을 접수순에 따라 회원시스템의 주문단말기(이하 "주문단말기"라 한다)에 신속·정확하게 입력하여야 한다.
+**제123조(주문의 처리)**① 규정 제91조의 규정에 의하여 회원은 위탁자로부터 문서에 의한 방법 또는 전화등방법으로 매매거래의 위탁을 받은 경우에는 주문내용을 접수순에 따라 회원시스템의 주문단말기(이하 "주문단말기"라 한다)에 신속·정확하게 입력하여야 한다.
 
 ② 일부 영업소의 주문단말기에 장애가 발생한 때에는 본점 또는 다른 영업소의 주문단말기를 이용하여 주문을 처리하여야 한다.
 
 ③ 회원이 주문단말기에 장애가 발생하여 제1항 및 제2항의 규정에 의한 방법으로 주문을 처리할 수 없는 경우에는 거래소가 별도로 정하는 방법으로 주문을 처리할 수 있다.
 
-④ 삭제<2011. 12. 28.>
+④ 삭제 <2011. 12. 28.>
 
-**제124조(매도주문대행계약에 의한 주문등)**① 회원은규정제95조제2항의 규정에 의하여 매출대행기관과 소액채권에 대하여 매도주문대행계약을 체결하는 경우에는 다음 각호의 사항을 정하여야 한다. 이 경우 회원은 지체없이 그 내용을 거래소에 신고하여야 한다.
+**제124조(매도주문대행계약에 의한 주문등)**① 회원은 규정 제95조제2항의 규정에 의하여 매출대행기관과 소액채권에 대하여 매도주문대행계약을 체결하는 경우에는 다음 각호의 사항을 정하여야 한다. 이 경우 회원은 지체없이 그 내용을 거래소에 신고하여야 한다.
 
 1. 주문대행방법에 관한 사항
 
@@ -3961,25 +4216,25 @@ attachments:
 
 5. 기타 주문대행에 필요한 사항
 
-② 제1항에 따라 매출대행기관이 매도주문대행을 할 수 있는 소액채권은 해당 매출대행기관에서 매출된 채권에 한하며, 이 경우 회원은 장 종료 시 신고시장가격으로 매도호가를 하여야 한다.<개정 2015. 7. 16.>
+② 제1항에 따라 매출대행기관이 매도주문대행을 할 수 있는 소액채권은 해당 매출대행기관에서 매출된 채권에 한하며, 이 경우 회원은 장 종료 시 신고시장가격으로 매도호가를 하여야 한다. <개정 2015. 7. 16.>
 
 ③ 회원은 매출대행기관이 공동계좌를 이용하여 제출한 주문을 합산하여 호가를 제출한 경우에는 거래소가 시장관리상 필요하다고 인정하여 합산하기 전의 주문내역을 요청한 때에는 그 내역을 직접 또는 모사전송의 방법으로 통보하여야 한다.
 
 ④ 그 밖에 매도주문대행에 관하여 필요한 사항은 계약당사자간 합의에 의하여 결정한다.
 
-제5절 위탁수수료
+ 제5절 위탁수수료
 
-**제125조(위탁수수료징수기준의 통보시한)**규정제100조제2항에서 "세칙이 정하는 기한"이라 함은 당해 위탁수수료징수기준의 시행일부터 5매매거래일을 말한다.
+**제125조(위탁수수료징수기준의 통보시한)**규정 제100조제2항에서 "세칙이 정하는 기한"이라 함은 당해 위탁수수료징수기준의 시행일부터 5매매거래일을 말한다.
 
-제7장 시장의 관리
+ 제7장 시장의 관리
 
-**제126조(호가정보의 공표등<개정 2006. 5. 29.>)**①규정제101조제1항제5호에 따라 거래소는 다음 각 호에서 정하는 호가정보에 관한 내용을 공표한다.<개정 2006. 5. 29., 2009. 2. 3., 2010. 7. 29., 2014. 9. 2.,2025. 2. 27.>
+**제126조(호가정보의 공표등<개정 2006. 5. 29.>)**① 규정 제101조제1항제5호에 따라 거래소는 다음 각 호에서 정하는 호가정보에 관한 내용을 공표한다. <개정 2006. 5. 29., 2009. 2. 3., 2010. 7. 29., 2014. 9. 2.,2025. 2. 27.>
 
-1. 단일가격에 의한 개별경쟁매매를 위한 호가접수시간 중에는 예상체결가격·예상체결수량, 매도·매수별 예상최우선호가의 가격을 포함하는 연속 3개의 예상우선호가의 가격 및 그 가격의 호가수량. 다만, 시가결정을 위한 호가접수시간 중에는 호가접수시간의 개시시점부터 20분이 경과한 때부터 이를 공표한다.<개정 2025. 2. 27.>
+1. 단일가격에 의한 개별경쟁매매를 위한 호가접수시간 중에는 예상체결가격·예상체결수량, 매도·매수별 예상최우선호가의 가격을 포함하는 연속 3개의 예상우선호가의 가격 및 그 가격의 호가수량. 다만, 시가결정을 위한 호가접수시간 중에는 호가접수시간의 개시시점부터 20분이 경과한 때부터 이를 공표한다. <개정 2025. 2. 27.>
 
-2. 복수가격에 의한 개별경쟁매매를 위한 호가접수시간 중에는 매도·매수별 최우선호가의 가격을 포함하는 연속 10개의 우선호가의 가격, 그 가격의 호가수량 및 당해 호가수량의 합계수량. 다만, 상장지수집합투자기구 집합투자증권, 상장지수증권 또는 주식워런트증권으로서 연속 10개의 우선호가 중에 유동성공급호가가 제출되어 있는 경우에는 이를 구분하여 공표할 수 있다.<개정 2025. 2. 27.>
+2. 복수가격에 의한 개별경쟁매매를 위한 호가접수시간 중에는 매도·매수별 최우선호가의 가격을 포함하는 연속 10개의 우선호가의 가격, 그 가격의 호가수량 및 당해 호가수량의 합계수량. 다만, 상장지수집합투자기구 집합투자증권, 상장지수증권 또는 주식워런트증권으로서 연속 10개의 우선호가 중에 유동성공급호가가 제출되어 있는 경우에는 이를 구분하여 공표할 수 있다. <개정 2025. 2. 27.>
 
-2의2. 복수가격에 의한 개별경쟁매매를 위한 호가접수시간 중 중간가격 및 중간가호가의 호가수량. 이 경우 제2호 본문에 따라 공표하는 가격 및 수량과 구분하여 공표하되, 중간가호가의 입력이 제한되는 경우에는 공표하지 아니한다.<신설 2025. 2. 27.>
+2의2. 복수가격에 의한 개별경쟁매매를 위한 호가접수시간 중 중간가격 및 중간가호가의 호가수량. 이 경우 제2호 본문에 따라 공표하는 가격 및 수량과 구분하여 공표하되, 중간가호가의 입력이 제한되는 경우에는 공표하지 아니한다. <신설 2025. 2. 27.>
 
 3. 시간외종가매매를 위한 호가접수시간중에는 매도·매수별 총호가수량
 
@@ -3987,7 +4242,7 @@ attachments:
 
 ② 제1항에 따라 공표하는 예상체결가격등의 산출방법은 다음 각호의 방법에 따른다.
 
-1. 예상체결가격 및 예상체결수량 : 당해 시점까지 접수된 호가로써규정제23조제3항부터 제6항까지의 규정에서 정하는 방법으로 매매거래가 성립될 것으로 예상되는 가격 및 수량
+1. 예상체결가격 및 예상체결수량 : 당해 시점까지 접수된 호가로써 규정 제23조제3항부터 제6항까지의 규정에서 정하는 방법으로 매매거래가 성립될 것으로 예상되는 가격 및 수량
 
 2. 예상최우선호가의 가격을 포함하는 연속 3개의 예상우선호가의 가격 및 호가수량 : 매도·매수별 최우선호가의 가격을 포함하는 연속 3개의 예상우선호가의 가격 및 그 가격의 호가수량. 이 경우 제1호에 따른 예상체결가격의 형성이 가능한 경우에는 해당 매매계약체결이 성립되었을 경우의 최우선호가를 기준으로 한다.
 
@@ -4001,7 +4256,7 @@ attachments:
 
 ④ 삭제
 
-**제127조(투자참고사항의 공표)**거래소는규정제101조제2항의 규정에 의하여 다음 각호의 어느 하나를 투자참고사항으로 공표한다.<개정 2006. 7. 7., 2007. 8. 28., 2008. 5. 13., 2010. 7. 29., 2016. 6. 21.>
+**제127조(투자참고사항의 공표)**거래소는 규정 제101조제2항의 규정에 의하여 다음 각호의 어느 하나를 투자참고사항으로 공표한다. <개정 2006. 7. 7., 2007. 8. 28., 2008. 5. 13., 2010. 7. 29., 2016. 6. 21.>
 
 1. 장중대량매매, 장중바스켓매매, 시간외대량매매 또는 시간외바스켓매매가 이루어진 종목
 
@@ -4009,17 +4264,17 @@ attachments:
 
 2. 주권상장법인의 자기주식매매(자기주식신탁매매를 포함한다)가 이루어진 종목
 
-3. 삭제<2007. 8. 28.>
+3. 삭제 <2007. 8. 28.>
 
 4. 일일 상장주식회전율이 상위 20위 이내인 종목
 
-5.법제180조의3에 따른 순보유잔고의 공시사항
+5. 법 제180조의3에 따른 순보유잔고의 공시사항
 
-6.법제180조의2에 따라 거래소에 보고한 순보유잔고의 종목별 합산 내역
+6. 법 제180조의2에 따라 거래소에 보고한 순보유잔고의 종목별 합산 내역
 
 7. 그 밖에 투자판단에 참고가 된다고 인정되는 사항
 
-**제128조(시세등의 공표방법)**규정제101조제3항의 규정에 의한 시세등의 공표는 다음 각호의 1의 방법에 의한다.
+**제128조(시세등의 공표방법)**규정 제101조제3항의 규정에 의한 시세등의 공표는 다음 각호의 1의 방법에 의한다.
 
 1. 증권정보단말기에 표시
 
@@ -4027,7 +4282,7 @@ attachments:
 
 3. 거래소가 운영하는 전자전달매체에 표시
 
-**제129조(회원통보)**①규정제103조에 따라 거래소는 다음 각 호의 어느 하나에 해당하는 사항을 회원에게 통보하여야 한다.<개정 2007. 8. 28., 2012. 10. 22., 2017. 2. 28., 2020. 7. 23., 2020. 11. 26., 2023. 4. 12.>
+**제129조(회원통보)**① 규정 제103조에 따라 거래소는 다음 각 호의 어느 하나에 해당하는 사항을 회원에게 통보하여야 한다. <개정 2007. 8. 28., 2012. 10. 22., 2017. 2. 28., 2020. 7. 23., 2020. 11. 26., 2023. 4. 12.>
 
 1. 「회원관리규정」, 「유가증권시장 업무규정」, 「유가증권시장 상장규정」 및 「유가증권시장 공시규정」의 개정
 
@@ -4045,7 +4300,7 @@ attachments:
 
 8. 그 밖에 시장공시가 필요하다고 인정되는 사항
 
-② 제1항에 따른 회원통보는 다음 각 호의 어느 하나의 방법으로 한다.<개정 2017. 2. 28., 2020. 7. 23.>
+② 제1항에 따른 회원통보는 다음 각 호의 어느 하나의 방법으로 한다. <개정 2017. 2. 28., 2020. 7. 23.>
 
 1. 거래소가 운영하는 전자전달매체에 표시
 
@@ -4055,21 +4310,21 @@ attachments:
 
 4. 문서에 의한 통보
 
-**제130조(알고리즘거래계좌의 신고방법)**규정제104조의2제2항에 따른 알고리즘거래계좌의 신고 방법은 회원이 별지 제1호의2 서식에 따른 신고서를 18시까지 회원시스템을 통하여 거래소시스템에 입력하는 방법으로 한다.
+**제130조(알고리즘거래계좌의 신고방법)**규정 제104조의2제2항에 따른 알고리즘거래계좌의 신고 방법은 회원이 별지 제1호의2 서식에 따른 신고서를 18시까지 회원시스템을 통하여 거래소시스템에 입력하는 방법으로 한다.
 
 [본조신설 2022. 12. 22.]
 
-**제130조의2(계좌단위호가처리의 신청 대상 및 방법 등)**①규정제104조의2제3항 단서에서 "세칙으로 정하는 경우"란 경쟁대량매매 및 바스켓매매를 말한다.
+**제130조의2(계좌단위호가처리의 신청 대상 및 방법 등)**① 규정 제104조의2제3항 단서에서 "세칙으로 정하는 경우"란 경쟁대량매매 및 바스켓매매를 말한다.
 
-②규정제104조의2제3항에 따른 계좌단위호가처리의 신청방법은 회원이 다음 각 호의 사항을 회원시스템이나 회원증권단말기를 통하여 거래소시스템에 입력하는 방법으로 한다.
+② 규정 제104조의2제3항에 따른 계좌단위호가처리의 신청방법은 회원이 다음 각 호의 사항을 회원시스템이나 회원증권단말기를 통하여 거래소시스템에 입력하는 방법으로 한다.
 
 1. 알고리즘거래계좌번호(신청 전일까지 알고리즘거래계좌로 신고한 계좌에 한한다)
 
 2. 계좌단위호가처리의 유형 및 그 내용. 이 경우 그 내용은 다음 각 목의 구분에 따른다.
 
-가.규정제104조의2제3항제1호에 따른 계좌단위호가처리의 경우: 정규시장에서 접수된 호가 모두의 취소
+가. 규정 제104조의2제3항제1호에 따른 계좌단위호가처리의 경우: 정규시장에서 접수된 호가 모두의 취소
 
-나.규정제104조의2제3항제2호에 따른 계좌단위호가처리의 경우: 추가적인 신규호가, 정정호가 및 취소호가(시간외시장의 경우에는 취소호가를 제외한다)의 접수 차단
+나. 규정 제104조의2제3항제2호에 따른 계좌단위호가처리의 경우: 추가적인 신규호가, 정정호가 및 취소호가(시간외시장의 경우에는 취소호가를 제외한다)의 접수 차단
 
 3. 그 밖에 거래소가 필요하다고 인정하는 사항
 
@@ -4083,9 +4338,9 @@ attachments:
 
 [본조신설 2022. 12. 22.]
 
-**제131조(고속 알고리즘거래자 등록 등)**①규정제104조의3제1항 및 제2항에 따른 등록 또는 신고는 회원이 회원증권단말기를 통하여 다음 각 호의 사항을 모두 입력하는 방법으로 한다. 다만, 회원이 고속 알고리즘거래자로 신고하는 경우에는 제1호 및 제4호의 사항을 제외한다.
+**제131조(고속 알고리즘거래자 등록 등)**① 규정 제104조의3제1항 및 제2항에 따른 등록 또는 신고는 회원이 회원증권단말기를 통하여 다음 각 호의 사항을 모두 입력하는 방법으로 한다. 다만, 회원이 고속 알고리즘거래자로 신고하는 경우에는 제1호 및 제4호의 사항을 제외한다.
 
-1.규정제104조의3제1항 각 호의 요건 충족에 관한 사항
+1. 규정 제104조의3제1항 각 호의 요건 충족에 관한 사항
 
 2. 성명 또는 명칭 등 등록대상을 식별할 수 있는 정보로서 위탁자 또는 회원에 관한 사항
 
@@ -4097,7 +4352,7 @@ attachments:
 
 ② 제1항에 따라 등록 또는 신고하는 사항에 변경 내용이 있는 경우 회원은 지체없이 회원증권단말기를 통해 그 변경된 내용을 입력하여야 한다.
 
-③규정제104조의3제1항제3호에서 "세칙으로 정하는 요건"은 다음 각 호의 모두를 말한다.
+③ 규정 제104조의3제1항제3호에서 "세칙으로 정하는 요건"은 다음 각 호의 모두를 말한다.
 
 1. 위탁자가 고속 알고리즘거래에서 발생할 수 있는 위험을 효율적으로 관리하기 위한 내부통제 조직 및 2인 이상의 전문 인력 등 관리체계를 갖출 것. 다만, 고속 알고리즘거래에서 발생하는 제반 위험에 대하여 다음 각 목의 어느 하나에 해당하는 경우에는 해당 요건을 충족한 것으로 본다.
 
@@ -4111,15 +4366,15 @@ attachments:
 
 ⑤ 거래소는 등록·신고를 완료한 고속 알고리즘거래자별로 유가증권시장, 코스닥시장, 코넥스시장, 파생상품시장에서 공통으로 사용가능한 거래자 등록번호를 발급한다. 이 경우 고속 알고리즘거래자는 해당 등록번호에 위험관리번호(제13조의2에 따른 자전거래방지조건 및 제17조의2에 따른 일괄호가취소의 적용 범위를 구분하기 위하여 고속 알고리즘거래자가 설정한 두 자리의 번호를 말한다. 이하 같다)를 설정할 수 있다.
 
-⑥규정제104조의3제3항에 따라 회원은 회원시스템을 통하여 고속 알고리즘거래번호와 고속 알고리즘거래계좌를 연결하여 거래소에 신고하여야 한다.
+⑥ 규정 제104조의3제3항에 따라 회원은 회원시스템을 통하여 고속 알고리즘거래번호와 고속 알고리즘거래계좌를 연결하여 거래소에 신고하여야 한다.
 
-⑦규정제104조의3제5항제3호에서 "세칙으로 정하는 경우"는 다음 각 호를 말한다.
+⑦ 규정 제104조의3제5항제3호에서 "세칙으로 정하는 경우"는 다음 각 호를 말한다.
 
 1. 위탁자가 회원전산센터등에서 매매주문시스템을 반출하는 경우
 
 2. 투자자보호 또는 시장에서의 거래질서의 안정을 위하여 거래소가 필요하다고 인정하여 회원에게 통보하는 경우
 
-⑧ 거래소는규정제104조의3제5항에 따라 고속 알고리즘거래자로부터 고속 알고리즘거래를 수탁 중인 모든 회원이 수탁을 중단하는 경우에 해당 위탁자의 고속 알고리즘거래자 등록을 말소할 수 있다.
+⑧ 거래소는 규정 제104조의3제5항에 따라 고속 알고리즘거래자로부터 고속 알고리즘거래를 수탁 중인 모든 회원이 수탁을 중단하는 경우에 해당 위탁자의 고속 알고리즘거래자 등록을 말소할 수 있다.
 
 [본조신설 2022. 12. 22.]
 
@@ -4127,25 +4382,25 @@ attachments:
 
 ② 회원은 다수의 위탁자가 다음 각 호를 모두 충족하는 경우 해당 위탁자들을 일괄하여 고속 알고리즘거래자로 등록할 수 있다. 이 경우 거래소는 해당 위탁자들이 공동으로 사용할 수 있는 하나의 거래자 등록번호를 그 중 특정 위탁자에게 발급할 수 있다.
 
-1. 위탁자가 특정 위탁자의 관계회사(외국법령에 따라 설립된 외국 기업을 포함한다)일 것
+1. 위탁자가 특정 위탁자의 관계회사(외국 법령에 따라 설립된 외국 기업을 포함한다)일 것
 
 2. 위탁자와 관계회사가 하나의 매매주문시스템을 사용할 것
 
-3. 회원이 다수의 위탁자 모두에 대하여규정제104조의3제1항에 따른 등록요건의 충족 여부를 확인할 것
+3. 회원이 다수의 위탁자 모두에 대하여 규정 제104조의3제1항에 따른 등록요건의 충족 여부를 확인할 것
 
-**제131조의3(복수 회원을 통한 고속 알고리즘거래)**회원이 이미 다른 회원을 통해 고속 알고리즘거래자 등록을 완료한 위탁자로부터 고속 알고리즘거래를 수탁하려는 경우 거래소에 해당 위탁자의 거래자 등록번호에 대하여 사용권한을 신청하여야 한다. 이 경우 해당 신청에 관하여는규정제104조의3제1항 후단 및 이 세칙 제131조제1항(제3호를 제외한다)부터 제4항까지를 준용한다.
+**제131조의3(복수 회원을 통한 고속 알고리즘거래)**회원이 이미 다른 회원을 통해 고속 알고리즘거래자 등록을 완료한 위탁자로부터 고속 알고리즘거래를 수탁하려는 경우 거래소에 해당 위탁자의 거래자 등록번호에 대하여 사용권한을 신청하여야 한다. 이 경우 해당 신청에 관하여는 규정 제104조의3제1항 후단 및 이 세칙 제131조제1항(제3호를 제외한다)부터 제4항까지를 준용한다.
 
 [본조신설 2022. 12. 22.]
 
-**제131조의4(회원의 고속 알고리즘거래 관리의무)**①규정제104조의4제1항에 따라 회원은 위탁자가 이용하는 주문시스템 등 전산시스템이 고속 알고리즘거래를 수행하기에 충분한 안정성 및 적정성 등을 갖추었는지를 확인하기 위하여 다음 각 호와 같이 점검하여야 한다.
+**제131조의4(회원의 고속 알고리즘거래 관리의무)**① 규정 제104조의4제1항에 따라 회원은 위탁자가 이용하는 주문시스템 등 전산시스템이 고속 알고리즘거래를 수행하기에 충분한 안정성 및 적정성 등을 갖추었는지를 확인하기 위하여 다음 각 호와 같이 점검하여야 한다.
 
-1.규정제104조의3의 등록과 관련한 전산시스템등의 점검에 관한 사항: 전산시스템 점검 기준 및 절차를 마련하여 등록 신청 전 위탁자가 설치한 매매주문시스템과의 연계테스트 등을 통해 전산시스템을 충분히 점검하고, 그 결과를 거래소에 제출하여야 한다.
+1. 규정 제104조의3의 등록과 관련한 전산시스템등의 점검에 관한 사항: 전산시스템 점검 기준 및 절차를 마련하여 등록 신청 전 위탁자가 설치한 매매주문시스템과의 연계테스트 등을 통해 전산시스템을 충분히 점검하고, 그 결과를 거래소에 제출하여야 한다.
 
 2. 정기적 점검에 관한 사항: 매년 정기적으로 위탁자의 전산시스템과의 연계 등을 점검하여야 한다. 다만, 전산시스템의 변경 등으로 해당 연도에 수시 점검을 한 경우에는 본문에 따른 점검을 완료한 것으로 본다.
 
 3. 그 밖에 거래소가 전산시스템의 안정적 운영 등을 위하여 필요하다고 인정하는 사항
 
-②규정제104조의4제1항에 따라 회원은 위탁자의 고속 알고리즘거래와 관련된 위험관리 및 금융사고 예방을 위하여 적절한 내부통제장치를 다음 각 호와 같이 구축하여야 한다.
+② 규정 제104조의4제1항에 따라 회원은 위탁자의 고속 알고리즘거래와 관련된 위험관리 및 금융사고 예방을 위하여 적절한 내부통제장치를 다음 각 호와 같이 구축하여야 한다.
 
 1. 주문한도 부여에 관한 사항: 회원은 위탁자의 재무건전성, 신용도 등을 평가하여 적절한 주문한도를 부여하고 해당 한도의 적절성을 정기적으로 점검하여야 한다.
 
@@ -4153,7 +4408,7 @@ attachments:
 
 3. 사고 또는 장애 대응에 관한 사항: 회원은 위탁자의 고속 알고리즘거래 관련 사고 또는 장애가 발생하는 경우에 효과적으로 대처하고 피해를 최소화할 수 있도록 매뉴얼 등 적절한 통제 및 대응 체계를 마련하여야 한다.
 
-③규정제104조의4제2항의 자료제출 요구와 관련하여 회원은 다음 각 호의 자료를 10년간 기록·유지하고 시장관리 등을 위하여 거래소에서 요구하는 경우 이를 제출하여야 한다.
+③ 규정 제104조의4제2항의 자료제출 요구와 관련하여 회원은 다음 각 호의 자료를 10년간 기록·유지하고 시장관리 등을 위하여 거래소에서 요구하는 경우 이를 제출하여야 한다.
 
 1. 고속 알고리즘거래자의 등록 및 거래에 관한 자료
 
@@ -4161,15 +4416,15 @@ attachments:
 
 [본조신설 2022. 12. 22.]
 
-**제132조(배당락등의 조치일)**①규정제105조에 의한 배당락, 권리락 또는 분배락의 조치일은 다음 각호와 같이 한다.
+**제132조(배당락등의 조치일)**① 규정 제105조에 의한 배당락, 권리락 또는 분배락의 조치일은 다음 각호와 같이 한다.
 
 1. 제2호 외에는 권리를 행사할 자를 확정하기 위한 기준이 되는 날(이하 "기준일"이라 한다)의 직전일로 한다. 이 경우 기준일이 휴장일 또는 명의개서정지기간중인 경우에는 그 최초휴장일 또는 명의개서정지개시일의 직전일을 기준일로 본다.
 
 2. 기준일이 매매거래정지기간중(최초정지일을 제외한다)인 경우에는 매매거래정지 해제일로 한다.
 
-②규정제105조에 따른 이자락의 조치일은 다음 각 호와 같이 한다.<개정 2011. 12. 30., 2019. 9. 10., 2024. 10. 29.>
+② 규정 제105조에 따른 이자락의 조치일은 다음 각 호와 같이 한다. <개정 2011. 12. 30., 2019. 9. 10., 2024. 10. 29.>
 
-1. 당일결제거래 : 이자지급일(「국채법」에 따른 등록채권의 경우에는 등록정지개시일을 말한다. 이하 같다)의 당일. 다만, 해당일이규정제5조제4호의 휴장일인 경우에는 그 다음 날로 한다.
+1. 당일결제거래 : 이자지급일(「국채법」에 따른 등록채권의 경우에는 등록정지개시일을 말한다. 이하 같다)의 당일. 다만, 해당일이 규정 제5조제4호의 휴장일인 경우에는 그 다음 날로 한다.
 
 2. 익일결제거래 : 이자지급일의 직전일. 다만, 해당일이 지급준비금적립마감일인 경우에는 해당일의 전일로 한다.
 
@@ -4177,15 +4432,15 @@ attachments:
 
 ④ 제1항 내지 제3항에서 정하는 조치일의 계산은 매매거래일을 기준으로 한다.
 
-⑤ 제1항 내지 제4항의규정을 적용할 수 없는 경우의 조치일은 거래소가 그 때마다 정한다.
+⑤ 제1항 내지 제4항의 규정을 적용할 수 없는 경우의 조치일은 거래소가 그 때마다 정한다.
 
-**제133조(단기과열종목의 지정)**①규정제106조의2제1항 각 호에서 "세칙으로 정하는 기준"이란 제133조의2제1항에 따라 단기과열종목으로 지정될 수 있다는 사실이 예고된 날부터 10매매거래일 이내에 다음 각 호의 어느 하나에 해당하는 것(제56조의4제1항의 단일가매매대상 종류주식종목은 제외한다)을 말한다.<개정 2013. 4. 25., 2016. 4. 1., 2020. 9. 22.>
+**제133조(단기과열종목의 지정)**① 규정 제106조의2제1항 각 호에서 "세칙으로 정하는 기준"이란 제133조의2제1항에 따라 단기과열종목으로 지정될 수 있다는 사실이 예고된 날부터 10매매거래일 이내에 다음 각 호의 어느 하나에 해당하는 것(제56조의4제1항의 단일가매매대상 종류주식종목은 제외한다)을 말한다. <개정 2013. 4. 25., 2016. 4. 1., 2020. 9. 22.>
 
 1. 제133조의2제3항제1호부터 제3호까지의 요건을 모두 충족하는 경우(해당 여부를 판단하는 날의 종가가 직전 매매거래일의 종가 및 지정예고일의 직전 매매거래일의 종가보다 높은 경우에 한한다)
 
 2. 종류주식으로서 제133조의2제3항제4호의 요건을 충족하는 경우
 
-② 거래소는규정제106조의2제1항 각 호의 어느 하나에 해당하는 종목을 다음 매매거래일에 단기과열종목으로 지정할 수 있다. 다만, 유가증권시장과 코스닥시장 전체 상장종목 중 전일 종가에 상장증권수를 곱한 금액의 순위가 상위 100위 이내 종목인 경우 등 단기과열종목으로 지정하는 것이 현저히 부적절한 경우에는 그러하지 아니하다.<개정 2026. 1. 7.>
+② 거래소는 규정 제106조의2제1항 각 호의 어느 하나에 해당하는 종목을 다음 매매거래일에 단기과열종목으로 지정할 수 있다. 다만, 유가증권시장과 코스닥시장 전체 상장종목 중 전일 종가에 상장증권수를 곱한 금액의 순위가 상위 100위 이내 종목인 경우 등 단기과열종목으로 지정하는 것이 현저히 부적절한 경우에는 그러하지 아니하다. <개정 2026. 1. 7.>
 
 [본조신설 2012. 10. 22.]
 
@@ -4204,19 +4459,19 @@ attachments:
 ③ 거래소는 다음 각 호의 요건을 종목(주권 및 외국주식예탁증권에 한한다)별로 매일 산출한다. 이 경우 소수점 이하 넷째자리에서 반올림한다.
 
 1. 주가상승률
-당일 종가가 직전 40매매거래일 종가 평균의 100분의 130 이상일 것
+ 당일 종가가 직전 40매매거래일 종가 평균의 100분의 130 이상일 것
 
 2. 거래회전율
-당일을 포함한 최근 2일(종목의 매매거래일을 기준으로 한다) 일별 거래회전율(아래 산식으로 계산한다) 평균이 직전 40매매거래일 일별 거래회전율 평균의 100분의 600 이상일 것
-·일별 거래회전율 = {당일 정규시장의 매매거래시간중 개별경쟁매매방법에 의하여 형성된 매매거래의 총거래대금 / (당일 종가 × 상장증권총수)}
+ 당일을 포함한 최근 2일(종목의 매매거래일을 기준으로 한다) 일별 거래회전율(아래 산식으로 계산한다) 평균이 직전 40매매거래일 일별 거래회전율 평균의 100분의 600 이상일 것
+ ·일별 거래회전율 = {당일 정규시장의 매매거래시간중 개별경쟁매매방법에 의하여 형성된 매매거래의 총거래대금 / (당일 종가 × 상장증권총수)}
 
 3. 주가변동성
-당일을 포함한 최근 2일(종목의 매매거래일을 기준으로 한다) 일별 주가변동성(아래 산식으로 계산한다) 평균이 직전 40매매거래일 일별 주가변동성 평균의 100분의 150 이상일 것
-·일별 주가변동성 = {{최고가격(당일 정규시장 매매거래시간중 개별경쟁매매방법에 의하여 형성된 가격을 말한다. 이하 이 항에서 같다) - 최저가격} / {(최고가격 + 최저가격) / 2}}
+ 당일을 포함한 최근 2일(종목의 매매거래일을 기준으로 한다) 일별 주가변동성(아래 산식으로 계산한다) 평균이 직전 40매매거래일 일별 주가변동성 평균의 100분의 150 이상일 것
+ ·일별 주가변동성 = {{최고가격(당일 정규시장 매매거래시간중 개별경쟁매매방법에 의하여 형성된 가격을 말한다. 이하 이 항에서 같다) - 최저가격} / {(최고가격 + 최저가격) / 2}}
 
 4. 괴리율
-당일 종가를 기준으로 종류주식의 가격과 해당 보통주식의 가격간 괴리율(아래 산식으로 계산한다)이 0.5를 초과할 것
-·괴리율 = (종류주식가격-해당 보통주식가격) / 해당 보통주식가격
+ 당일 종가를 기준으로 종류주식의 가격과 해당 보통주식의 가격간 괴리율(아래 산식으로 계산한다)이 0.5를 초과할 것
+ ·괴리율 = (종류주식가격-해당 보통주식가격) / 해당 보통주식가격
 
 ④ 제3항에 불구하고 다음 각 호의 어느 하나에 해당하는 종목은 제3항 각 호의 요건을 산출하지 아니한다.
 
@@ -4226,33 +4481,33 @@ attachments:
 
 3. 매매거래정지종목
 
-4. 직전 40매매거래일 동안 정규시장의 매매거래시간(다자간매매체결회사의 거래시간 중 거래소의 정규시장에 해당하는 거래시간을 포함한다) 중 개별경쟁매매방법에 의해 매매거래가 성립된 날이 20일 이하인 경우<개정 2025. 2. 27.>
+4. 직전 40매매거래일 동안 정규시장의 매매거래시간(다자간매매체결회사의 거래시간 중 거래소의 정규시장에 해당하는 거래시간을 포함한다) 중 개별경쟁매매방법에 의해 매매거래가 성립된 날이 20일 이하인 경우 <개정 2025. 2. 27.>
 
-5. 「시장감시규정」제5조의3에 따른 투자경고종목 또는 투자위험종목(익일 투자경고종목·투자위험종목으로 지정예정인 종목 포함).
+5. 「시장감시규정」 제5조의3에 따른 투자경고종목 또는 투자위험종목(익일 투자경고종목·투자위험종목으로 지정예정인 종목 포함).
 
 ⑤ 제134조에 따라 단기과열종목 지정이 해제된 종목은 해제일부터 기준일(제1항제2호의 종목이 제3항 제4호의 요건을 최초로 충족하는 날을 포함한다)을 다시 정할 수 있다.
 
 ⑥ 제3항제1호의 "종가 평균", 같은 항 제2호의 "일별 거래회전율 평균" 및 같은 항 제3호의 "일별 주가변동성 평균"은 각각 해당 종목의 매매거래일을 기준으로 계산한다.
 
-⑦ 제3항제2호의 "당일 정규시장의 매매거래시간중 개별경쟁매매방법에 의하여 형성된 매매거래의 총거래대금"은 다자간매매체결회사의 거래대금(거래소의 정규시장에 해당하는 거래시간의 거래대금에 한한다. 이하 이 항에서 같다)을 포함하여 산출하되, 전산 장애 등으로 다자간매매체결회사의 거래대금 정보를 받지 못하는 경우 등에는 이를 제외하고 산출할 수 있다.<신설 2025. 2. 27.>
+⑦ 제3항제2호의 "당일 정규시장의 매매거래시간중 개별경쟁매매방법에 의하여 형성된 매매거래의 총거래대금"은 다자간매매체결회사의 거래대금(거래소의 정규시장에 해당하는 거래시간의 거래대금에 한한다. 이하 이 항에서 같다)을 포함하여 산출하되, 전산 장애 등으로 다자간매매체결회사의 거래대금 정보를 받지 못하는 경우 등에는 이를 제외하고 산출할 수 있다. <신설 2025. 2. 27.>
 
 [본조신설 2012. 10. 22.]
 
-**제134조(단기과열종목의 지정해제 등)**① 거래소는 단기과열종목 지정일부터 3매매거래일이 종료하는 날의 다음 매매거래일에 그 지정을 해제한다.<개정 2013. 4. 25., 2015. 12. 10., 2016. 4. 1., 2020. 9. 22.>
+**제134조(단기과열종목의 지정해제 등)**① 거래소는 단기과열종목 지정일부터 3매매거래일이 종료하는 날의 다음 매매거래일에 그 지정을 해제한다. <개정 2013. 4. 25., 2015. 12. 10., 2016. 4. 1., 2020. 9. 22.>
 
-1. 삭제<2020. 9. 22.>
+1. 삭제 <2020. 9. 22.>
 
-2. 삭제<2020. 9. 22.>
+2. 삭제 <2020. 9. 22.>
 
-② 제1항에 불구하고 지정일부터 제1항에서 정하는 기간이 종료하는 날의 종가가 지정일 직전 매매거래일의 종가의 100분의 120 이상인 경우(제133조제1항제2호 사유에만 해당되어 단기과열종목으로 지정된 종목은 제외한다)에는 그 날의 다음 매매거래일부터 제1항에서 정하는 기간이 종료하는 날의 다음 매매거래일에 그 지정을 해제한다.<개정 2013. 4. 25., 2015. 12. 10., 2016. 4. 1., 2020. 9. 22.>
+② 제1항에 불구하고 지정일부터 제1항에서 정하는 기간이 종료하는 날의 종가가 지정일 직전 매매거래일의 종가의 100분의 120 이상인 경우(제133조제1항제2호 사유에만 해당되어 단기과열종목으로 지정된 종목은 제외한다)에는 그 날의 다음 매매거래일부터 제1항에서 정하는 기간이 종료하는 날의 다음 매매거래일에 그 지정을 해제한다. <개정 2013. 4. 25., 2015. 12. 10., 2016. 4. 1., 2020. 9. 22.>
 
-③ 제1항에도 불구하고 제133조제1항제2호에 의해 단기과열종목으로 지정된 종목(제133조제1항제1호와 제133조제1항제2호에 모두 해당되어 단기과열종목이 된 종목을 포함한다)의 제1항에서 정하는 기간이 종료하는 날의 종가가 제133조의2제3항제4호의 기준을 총족하는 경우 제1항에서 정하는 기간 동안 그 지정을 연장한다. 이 경우, 연장기간 종료일의 종가가 제133조의2제3항제4호의 요건을 충족하면 제1항의 기간 동안 그 지정을 연장하고 연장기간 종료시마다 이를 반복하여 적용한다.<신설 2020. 9. 22.>
+③ 제1항에도 불구하고 제133조제1항제2호에 의해 단기과열종목으로 지정된 종목(제133조제1항제1호와 제133조제1항제2호에 모두 해당되어 단기과열종목이 된 종목을 포함한다)의 제1항에서 정하는 기간이 종료하는 날의 종가가 제133조의2제3항제4호의 기준을 총족하는 경우 제1항에서 정하는 기간 동안 그 지정을 연장한다. 이 경우, 연장기간 종료일의 종가가 제133조의2제3항제4호의 요건을 충족하면 제1항의 기간 동안 그 지정을 연장하고 연장기간 종료시마다 이를 반복하여 적용한다. <신설 2020. 9. 22.>
 
-④ 제133조제1항, 제133조의2제1항·제3항, 제2항 및 제3항의 "종가"는 각각 배당락, 권리락, 주식분할 또는 주식병합 등이 있는 경우에는 이를 감안하여 계산한다.<개정 2020. 9. 22.>
+④ 제133조제1항, 제133조의2제1항·제3항, 제2항 및 제3항의 "종가"는 각각 배당락, 권리락, 주식분할 또는 주식병합 등이 있는 경우에는 이를 감안하여 계산한다. <개정 2020. 9. 22.>
 
 [본조신설 2012. 10. 22.]
 
-**제134조의2(투자유의채권종목의 지정예고)**①규정제106조의3제2항에 따라 거래소는 다음 각 호의 어느 하나에 해당하는 경우 그 법인이 발행한 상장채무증권의 종목이 투자유의채권종목으로 지정될 수 있다는 사실을 해당 사유가 발생한 날의 다음 매매거래일까지 예고할 수 있다.<개정 2017. 3. 17., 2018. 11. 29., 2021. 9. 7.>
+**제134조의2(투자유의채권종목의 지정예고)**① 규정 제106조의3제2항에 따라 거래소는 다음 각 호의 어느 하나에 해당하는 경우 그 법인이 발행한 상장채무증권의 종목이 투자유의채권종목으로 지정될 수 있다는 사실을 해당 사유가 발생한 날의 다음 매매거래일까지 예고할 수 있다. <개정 2017. 3. 17., 2018. 11. 29., 2021. 9. 7.>
 
 1. 채권상장법인이 다음 각 목의 어느 하나에 해당하는 사실 또는 결정을 공시한 경우
 
@@ -4260,7 +4515,7 @@ attachments:
 
 나. 상장채무증권의 기한의 이익 상실
 
-다. 삭제<2021. 9. 7.>
+다. 삭제 <2021. 9. 7.>
 
 라. 사채권자집회 결의
 
@@ -4270,13 +4525,13 @@ attachments:
 
 나. 직전 매매거래일의 종가 대비 100분의 15 이상 상승하거나 하락한 경우
 
-3. 삭제<2017. 3. 17.>
+3. 삭제 <2017. 3. 17.>
 
-4. 삭제<2017. 3. 17.>
+4. 삭제 <2017. 3. 17.>
 
-② 제1항에도 불구하고 거래소는 해당 공시사항이 상장채무증권의 권리, 이익 또는 취급에 관련한 사항이라 보기 부적절하다고 인정되는 경우 또는 정리매매 종목에 해당하는 경우에는 투자유의채권종목의 지정예고를 하지 않을 수 있다.<개정 2018. 11. 29.>
+② 제1항에도 불구하고 거래소는 해당 공시사항이 상장채무증권의 권리, 이익 또는 취급에 관련한 사항이라 보기 부적절하다고 인정되는 경우 또는 정리매매 종목에 해당하는 경우에는 투자유의채권종목의 지정예고를 하지 않을 수 있다. <개정 2018. 11. 29.>
 
-③ 거래소는 다음 각 호의 어느 하나에 해당하는 경우에는 지정예고를 해제할 수 있다.<개정 2017. 3. 17., 2018. 11. 29., 2021. 9. 7.>
+③ 거래소는 다음 각 호의 어느 하나에 해당하는 경우에는 지정예고를 해제할 수 있다. <개정 2017. 3. 17., 2018. 11. 29., 2021. 9. 7.>
 
 1. 제1항제1호에 따라 투자유의채권종목으로 지정예고된 경우로서 다음 각 목의 어느 하나에 해당하는 경우. 다만, 거래소가 공익과 투자자보호 또는 시장에서의 거래질서의 안정을 위하여 필요하다고 인정하는 경우에는 지정예고를 해제하지 않을 수 있다.
 
@@ -4294,17 +4549,17 @@ attachments:
 
 [본조신설 2016. 11. 23.]
 
-**제134조의3(투자유의채권종목의 지정)**규정제106조의3제1항에서 "세칙으로 정하는 기준"이란 제134조의2에 따른 투자유의채권종목으로 지정예고된 종목의 종가가 직전 매매거래일의 종가(규정 제49조제1항제2호에 따라 매매거래가 정지되어 직전 매매거래일의 종가가 없는 경우에 한하여 2매매거래일 전일의 종가로 한다) 대비 100분의 15 이상 상승하거나 하락한 경우(당일 거래량이 1억원 미만인 경우 또는 정리매매 종목은 제외한다)를 말한다. 이 경우 그 다음 매매거래일을 지정일로 한다.<개정 2017. 3. 17., 2018. 11. 29., 2020. 7. 23.>
+**제134조의3(투자유의채권종목의 지정)**규정 제106조의3제1항에서 "세칙으로 정하는 기준"이란 제134조의2에 따른 투자유의채권종목으로 지정예고된 종목의 종가가 직전 매매거래일의 종가(규정 제49조제1항제2호에 따라 매매거래가 정지되어 직전 매매거래일의 종가가 없는 경우에 한하여 2매매거래일 전일의 종가로 한다) 대비 100분의 15 이상 상승하거나 하락한 경우(당일 거래량이 1억원 미만인 경우 또는 정리매매 종목은 제외한다)를 말한다. 이 경우 그 다음 매매거래일을 지정일로 한다. <개정 2017. 3. 17., 2018. 11. 29., 2020. 7. 23.>
 
 [본조신설 2016. 11. 23.]
 
-**제134조의4(투자유의채권종목의 지정해제)**규정제106조의3제2항에 따라 거래소는 투자유의채권종목의 지정일의 그 다음 매매거래일에 그 지정을 해제한다.
+**제134조의4(투자유의채권종목의 지정해제)**규정 제106조의3제2항에 따라 거래소는 투자유의채권종목의 지정일의 그 다음 매매거래일에 그 지정을 해제한다.
 
 [본조신설 2016. 11. 23.]
 
-**제134조의5(투자유의종목의 지정예고)**①규정제106조의4제2항에 따라 거래소는 다음 각 호의 요건을 모두 충족하는 경우 해당 종목이 투자유의종목으로 지정될 수 있다는 사실을 그 다음 매매거래일에 예고할 수 있다.
+**제134조의5(투자유의종목의 지정예고)**① 규정 제106조의4제2항에 따라 거래소는 다음 각 호의 요건을 모두 충족하는 경우 해당 종목이 투자유의종목으로 지정될 수 있다는 사실을 그 다음 매매거래일에 예고할 수 있다.
 
-1. 장종료시 실시간 괴리율이규정제20조의4제2항 또는 제3항에서 정한 비율의 2배 이상일 것
+1. 장종료시 실시간 괴리율이 규정 제20조의4제2항 또는 제3항에서 정한 비율의 2배 이상일 것
 
 2. 제1호에 해당한 날의 다음날부터 10매매거래일 이내에 제1호에 해당할 것
 
@@ -4320,7 +4575,7 @@ attachments:
 
 [본조신설 2020. 7. 23.]
 
-**제134조의6(투자유의종목의 지정)**①규정제106조의4제1항에서 "세칙으로 정하는 기준"이란 다음 각 호의 어느 하나에 해당하는 경우를 말한다. 이 경우 그 다음 매매거래일을 지정일로 한다.
+**제134조의6(투자유의종목의 지정)**① 규정 제106조의4제1항에서 "세칙으로 정하는 기준"이란 다음 각 호의 어느 하나에 해당하는 경우를 말한다. 이 경우 그 다음 매매거래일을 지정일로 한다.
 
 1. 제134조의5제1항에 따라 투자유의종목으로 지정예고된 날부터 10매매거래일 이내에 제134조의5제1항제1호에 해당하는 경우
 
@@ -4332,31 +4587,31 @@ attachments:
 
 **제134조의7(투자유의종목의 지정해제)**① 제134조의6제1항제1호에 따라 투자유의종목으로 지정된 종목은 그 지정일부터 3매매거래일(이하 이 조에서 "지정단위기간"이라 한다)이 종료하는 날의 다음 매매거래일에 그 지정을 해제한다. 다만, 다음 각 호의 어느 하나에 해당하는 경우에는 해당 호에서 정하는 날을 그 지정일로 하여 새로운 지정단위기간이 시작되는 것으로 한다.
 
-1. 지정단위기간 중 장종료시 실시간 괴리율이규정제20조의4제2항 또는 제3항에서 정한 비율을 1일 이상 초과하는 경우: 지정단위기간이 종료하는 날의 다음 매매거래일
+1. 지정단위기간 중 장종료시 실시간 괴리율이 규정 제20조의4제2항 또는 제3항에서 정한 비율을 1일 이상 초과하는 경우: 지정단위기간이 종료하는 날의 다음 매매거래일
 
-2.규정제26조제1항제2호의3에 따라 매매거래가 정지되는 경우: 매매거래를 재개하는 날
+2. 규정 제26조제1항제2호의3에 따라 매매거래가 정지되는 경우: 매매거래를 재개하는 날
 
 ② 제134조의6제1항제2호에 따라 투자유의종목으로 지정된 종목은 호가상황 및 매매상황 등을 감안하여 거래소가 지정해제 시기를 정한다.
 
 [본조신설 2020. 7. 23.]
 
-**제135조(투자위험종목등의 매매거래정지)**①규정제107조제2항에 따라 거래소는 「시장감시규정」제5조의3에 따른 매매거래정지 요청이 있는 경우 요청받은 기간에 대하여 당해 종목의 매매거래를 정지할 수 있다. 다만 시장상황급변 등으로 투자자보호와 시장안정을 유지하기 위하여 필요하다고 인정되는 경우 매매거래정지 기간을 달리 정하거나 매매거래정지가 해제된 날부터 다음 각 호의 추가조치를 할 수 있다.<개정 2008. 1. 30., 2012. 3. 8., 2017. 2. 28.>
+**제135조(투자위험종목등의 매매거래정지)**① 규정 제107조제2항에 따라 거래소는 「시장감시규정」 제5조의3에 따른 매매거래정지 요청이 있는 경우 요청받은 기간에 대하여 당해 종목의 매매거래를 정지할 수 있다. 다만 시장상황급변 등으로 투자자보호와 시장안정을 유지하기 위하여 필요하다고 인정되는 경우 매매거래정지 기간을 달리 정하거나 매매거래정지가 해제된 날부터 다음 각 호의 추가조치를 할 수 있다. <개정 2008. 1. 30., 2012. 3. 8., 2017. 2. 28.>
 
 1. 제56조의2제1항부터 제4항까지에 따른 매매계약체결방법으로 변경
 
-2.규정제20조제2항에 따른 가격제한폭의 변경
+2. 규정 제20조제2항에 따른 가격제한폭의 변경
 
 3. 제41조의2제1항 및 2항의 비율기준의 변경
 
 4. 그 밖에 시장관리상 필요하다고 인정되는 조치
 
-② 거래소는 제1항에 따른 매매거래정지 또는 추가조치를 하는 경우 즉시 그 사실을 공표한다.<신설 2017. 2. 28.>
+② 거래소는 제1항에 따른 매매거래정지 또는 추가조치를 하는 경우 즉시 그 사실을 공표한다. <신설 2017. 2. 28.>
 
 [전문개정 2007. 8. 28.]
 
-제8장 보칙
+ 제8장 보칙
 
-**제136조(매매거래내용의 통지)**①규정제110조제1항에 따라 거래소는 매매거래가 성립된 때에는 즉시 다음 각호의 매매거래내용을 회원에게 통지하여야 한다.<개정 2009. 2. 3., 2010. 7. 29.>
+**제136조(매매거래내용의 통지)**① 규정 제110조제1항에 따라 거래소는 매매거래가 성립된 때에는 즉시 다음 각호의 매매거래내용을 회원에게 통지하여야 한다. <개정 2009. 2. 3., 2010. 7. 29.>
 
 1. 회원번호
 
@@ -4370,7 +4625,7 @@ attachments:
 
 6. 그 밖에 거래소가 필요하다고 인정하는 내용
 
-②규정제110조제2항에 따라 거래소는 매매전문회원의 명의로 성립된 매매거래에 대하여 장종료후에 다음 각호의 매매거래내용을 지정결제회원에게 통지하여야 한다.<개정 2006. 7. 7., 2009. 2. 3.>
+② 규정 제110조제2항에 따라 거래소는 매매전문회원의 명의로 성립된 매매거래에 대하여 장종료후에 다음 각호의 매매거래내용을 지정결제회원에게 통지하여야 한다. <개정 2006. 7. 7., 2009. 2. 3.>
 
 1. 매매전문회원의 회원번호
 
@@ -4382,21 +4637,21 @@ attachments:
 
 4. 그 밖에 거래소가 필요하다고 인정하는 내용. 다만, 사전에 매매전문회원의 동의를 얻은 내용에 한한다.
 
-③ 제1항 및 제2항에 따른 매매거래내용의 통지는 회원시스템에 전달하는 방법에 의한다. 이 경우 회원이 매매거래내용을 통보받은 때에 그 내용을 확인한 것으로 본다.<개정 2009. 2. 3.>
+③ 제1항 및 제2항에 따른 매매거래내용의 통지는 회원시스템에 전달하는 방법에 의한다. 이 경우 회원이 매매거래내용을 통보받은 때에 그 내용을 확인한 것으로 본다. <개정 2009. 2. 3.>
 
-**제137조(경매의 신청 등)**①규정제112조제1항에 따른 경매의 신청은 유가증권시장·코스닥시장·코넥스시장에 상장되어 있지 아니한 증권에 한한다. 다만, 거래소가 필요하다고 인정하는 때에는 상장증권에 대하여도 경매를 실시할 수 있다.<개정 2009. 2. 3., 2013. 9. 13.>
+**제137조(경매의 신청 등)**① 규정 제112조제1항에 따른 경매의 신청은 유가증권시장·코스닥시장·코넥스시장에 상장되어 있지 아니한 증권에 한한다. 다만, 거래소가 필요하다고 인정하는 때에는 상장증권에 대하여도 경매를 실시할 수 있다. <개정 2009. 2. 3., 2013. 9. 13.>
 
-② 거래소의 증권회원이 아닌 자는 경매의 청약을 하지 못한다. 다만, 거래소가 필요하다고 인정하는 때에는 일반매수희망자도 참가시킬 수 있다.<개정 2009. 2. 3.>
+② 거래소의 증권회원이 아닌 자는 경매의 청약을 하지 못한다. 다만, 거래소가 필요하다고 인정하는 때에는 일반매수희망자도 참가시킬 수 있다. <개정 2009. 2. 3.>
 
 ③ 거래소가 경매의 위탁을 받을 때에는 사전에 경매에 부칠 증권의 종목, 수량, 예정가격, 경매의 시기, 위탁수수료 그 밖에 필요한 사항을 서면에 의하여 결정하여야 한다.
 
-④ 경매위탁자는 경매에 부칠 증권을 권리이전에 필요한 조치를 하여 사전에 거래소에 임치하여야 한다. 다만, 경매에 부칠 증권이 전자증권법에 따라 전자등록된 증권인 경우 임치를 대신하여 경매에 따른 권리이전시까지 전자등록기관에 계좌간 대체 제한의 전자등록을 하여야 한다.<개정 2019. 9. 10.>
+④ 경매위탁자는 경매에 부칠 증권을 권리이전에 필요한 조치를 하여 사전에 거래소에 임치하여야 한다. 다만, 경매에 부칠 증권이 전자증권법에 따라 전자등록된 증권인 경우 임치를 대신하여 경매에 따른 권리이전시까지 전자등록기관에 계좌간 대체 제한의 전자등록을 하여야 한다. <개정 2019. 9. 10.>
 
-⑤ 경매에 있어서 수량단위, 호가단위 그 밖에 필요한 사항은 거래소가 정하는 바에 따른다.<개정 2009. 2. 3.>
+⑤ 경매에 있어서 수량단위, 호가단위 그 밖에 필요한 사항은 거래소가 정하는 바에 따른다. <개정 2009. 2. 3.>
 
-⑥ 경매위탁자가 정부로서 위탁조건이 이 규정과 다를 때에는 제141조를 제외하고는 정부의 경매위탁조건이 우선한다.<개정 2009. 2. 3.>
+⑥ 경매위탁자가 정부로서 위탁조건이 이 규정과 다를 때에는 제141조를 제외하고는 정부의 경매위탁조건이 우선한다. <개정 2009. 2. 3.>
 
-**제138조(경매자 결정방법 등)**①규정제112조제4항의 규정에 의한 입찰매매방법의 경우로서 동일단가의 입찰자가 경합할 때 그 잔여수량이 부족한 경우에는 안분비례에 의하여 경매자를 정한다.
+**제138조(경매자 결정방법 등)**① 규정 제112조제4항의 규정에 의한 입찰매매방법의 경우로서 동일단가의 입찰자가 경합할 때 그 잔여수량이 부족한 경우에는 안분비례에 의하여 경매자를 정한다.
 
 ② 경락자는 거래소가 지정하는 날까지 거래소가 별도로 정한 소정의 약정서에 의하여 경매약정을 체결하여야 한다.
 
@@ -4414,16 +4669,16 @@ attachments:
 
 ④ 거래소는 경락되지 아니한 경우의 경매보증금을 지체없이 반환한다.
 
-**제140조(경락대금)**① 경락자는 경락된 날부터 5일 이내에 거래소가 지정하는 일시까지 경락대금으로부터 제139조의 규정에 의하여 납부한 보증금을 공제한 금액을 거래소에 납부하고 당해 증권의 인도(전자증권법에 따라 전자등록된 증권인 경우 경락자의 고객계좌부로 계좌간 대체의 전자등록으로 한다)를 받아야 한다.<개정 2019. 9. 10.>
+**제140조(경락대금)**① 경락자는 경락된 날부터 5일 이내에 거래소가 지정하는 일시까지 경락대금으로부터 제139조의 규정에 의하여 납부한 보증금을 공제한 금액을 거래소에 납부하고 당해 증권의 인도(전자증권법에 따라 전자등록된 증권인 경우 경락자의 고객계좌부로 계좌간 대체의 전자등록으로 한다)를 받아야 한다. <개정 2019. 9. 10.>
 
 ② 경락자가 제1항의 소정기일까지 경락대금잔액을 납부하지 아니할 경우에는 그 경락은 무효로 하며, 경매보증금은 이를 반환하지 아니한다.
 
 **제141조(경매위탁수수료)**경매위탁자는 종목별 경매대금에 다음의 각 단계별 요율을 체차로 적용하여 계산한 금액의 합계액을 경매위탁수수료로 경매대금 수령과 동시에 거래소에 납부한다. 다만, 경매위탁자가 정부 또는 이에 준하는 기관으로서 거래소가 필요하다고 인정하는 법인일 때에는 각 요율을 2분의 1로 한다.
-1억원 이하의 금액 1,000분의 3
-1억원 초과 5억원 이하의 금액 1,000분의 2
-5억원을 초과하는 금액 1,000분의 1<개정 2019. 9. 10.>
+ 1억원 이하의 금액 1,000분의 3
+ 1억원 초과 5억원 이하의 금액 1,000분의 2
+ 5억원을 초과하는 금액 1,000분의 1 <개정 2019. 9. 10.>
 
-**제142조(의견수렴)**규정제112조의2에 따른 의견수렴은 「내규관리규정」제5조및 「규제관리규정」제6조에서 정하는 바에 따른다.
+**제142조(의견수렴)**규정 제112조의2에 따른 의견수렴은 「내규관리규정」 제5조 및 「규제관리규정」 제6조에서 정하는 바에 따른다.
 
 [본조신설 2020. 5. 7.]
 
@@ -4431,7 +4686,7 @@ attachments:
 
 **제1조(시행일)**이 규정은 거래소의 설립일부터 시행한다. 다만, 제12조제1항제6호·제13호·제15호·제17호, 제14조제1항제1호·제3호, 제23조 내지 제25조, 제27조제1항제3호, 제28조, 제48조제1항제2호, 제49조, 제50조, 제52조제2항, 제108조제6호·제7호라목·제9호, 제127조제1호, 제131조의 규정은 2005년 3월 28일부터 시행한다.
 
-**제2조(종전 규정의 폐지)**이규정시행일부터 종전의 한국증권거래소 업무규정시행세칙은 이를 폐지한다. 다만, 부칙 제1조 단서의 규정에 의한 시행일까지 종전의 한국증권거래소 업무규정시행세칙의 관련규정을 적용한다.
+**제2조(종전 규정의 폐지)**이 규정 시행일부터 종전의 한국증권거래소 업무규정시행세칙은 이를 폐지한다. 다만, 부칙 제1조 단서의 규정에 의한 시행일까지 종전의 한국증권거래소 업무규정시행세칙의 관련규정을 적용한다.
 
 **제3조(착오매매처리약정에 대한 경과조치)**이 세칙 시행 당시 종전의 한국증권거래소와 회원이 체결한 착오매매처리약정은 이 세칙에 의하여 거래소와 체결한 것으로 본다.
 
@@ -4497,7 +4752,7 @@ attachments:
 
 ① (시행일) 이 세칙은 전산프로그램 개발 소요기간 등을 감안하여 거래소가 따로 정하는 날부터 시행한다.
 
-② (유가증권시장업무규정의 시행일)규정제256호유가증권시장업무규정(2007년 5월 11일 개정) 부칙에서 "세칙에서 정하는 날"이라 함은 제1항의 규정에 의한 시행일을 말한다.
+② (유가증권시장업무규정의 시행일) 규정 제256호 유가증권시장업무규정(2007년 5월 11일 개정) 부칙에서 "세칙에서 정하는 날"이라 함은 제1항의 규정에 의한 시행일을 말한다.
 
 ③ (최초 소매전문딜러 지정에 관한 특례) 최초 소매전문딜러의 지정은 제1항의 규정에 의한 시행일부터 3월간의 조성호가 제출실적 및 매매거래실적을 평가하여 지정하며, 그 지정기간은 지정시점부터 2008년 12월 31일까지로 한다.
 
@@ -4509,7 +4764,7 @@ attachments:
 
 ① (시행일) 이 세칙은 2007년 7월 26일부터 시행한다.
 
-② (매매수량단위 상향조정에 대한 적용례) 제33조제3항의 개정세칙은 이 세칙 시행일 전에유가증권시장업무규정제26조제1항제2호 또는 제3호의 규정에 의하여 매매거래가 정지된 종목이 있는 경우 이를 포함하여 적용한다.
+② (매매수량단위 상향조정에 대한 적용례) 제33조제3항의 개정세칙은 이 세칙 시행일 전에 유가증권시장업무규정 제26조제1항제2호 또는 제3호의 규정에 의하여 매매거래가 정지된 종목이 있는 경우 이를 포함하여 적용한다.
 
 부칙 <제282호, 2007. 8. 28.>
 
@@ -4527,17 +4782,17 @@ attachments:
 
 2. 제31조의5제5호나목 및 제135조제2항의 경우 : 2008년 5월 6일
 
-3. 제26조제1항의 경우 :선물시장업무규정에 의한 주식선물시장의 개설일
+3. 제26조제1항의 경우 : 선물시장업무규정에 의한 주식선물시장의 개설일
 
 4. 제31조의8제3호 단서의 경우 : 2008년 2월 4일
 
 5. 제57조제1항제1호의 경우 : 2008년 1월 14일
 
-② (유가증권시장업무규정의 시행일)규정제302호유가증권시장업무규정(2007년 12월 21일 개정) 부칙 단서에서 "세칙이 정하는 날"이라 함은 다음 각호의 구분에 의한 날을 말한다.
+② (유가증권시장업무규정의 시행일) 규정 제302호 유가증권시장업무규정(2007년 12월 21일 개정) 부칙 단서에서 "세칙이 정하는 날"이라 함은 다음 각호의 구분에 의한 날을 말한다.
 
-1.유가증권시장업무규정제18조제2항제2호의 경우 :선물시장업무규정에 의한 주식선물시장의 개설일
+1. 유가증권시장업무규정 제18조제2항제2호의 경우 : 선물시장업무규정에 의한 주식선물시장의 개설일
 
-2.유가증권시장업무규정제26조제3항의 경우 : 2008년 5월 6일
+2. 유가증권시장업무규정 제26조제3항의 경우 : 2008년 5월 6일
 
 ③ (유동성공급호가 제출의 제한에 관한 적용례) 주가지수를 기초자산으로 하는 주식워런트증권으로서 부칙 제1항제4호의 규정에 의한 날 이전에 종전의 제31조의8제3호의 규정에 의하여 유동성공급호가의 제출이 제한되는 종목의 경우에도 제31조의8제3호 단서의 개정규정을 적용한다.
 
@@ -4577,9 +4832,9 @@ attachments:
 
 ① (시행일) 이 세칙은 2009년 2월 4일부터 시행한다. 다만, 제12조제1항제15호(규정 제44조의2에 따라 구분하는 경우에 한한다), 제28조 및 제64조의2제2항의 개정규정은 2009년 3월 23일부터 시행한다.
 
-② (유가증권시장업무규정의 시행일)규정제399호유가증권시장업무규정(2009년 1월 28일 개정) 부칙 제1항 단서에서 "세칙이 정하는 날"은 2009년 3월 23일을 말한다.
+② (유가증권시장업무규정의 시행일) 규정 제399호 유가증권시장업무규정(2009년 1월 28일 개정) 부칙 제1항 단서에서 "세칙이 정하는 날"은 2009년 3월 23일을 말한다.
 
-③ (차입공매도 제한에 관한 적용례) 제24조의2의 개정규정에 불구하고 종전유가증권시장업무규정제17조제4항제2호에 따른 차입공매도 제한조치가 종전 규정에 따라 종료될 때까지는 종전의 제24조의2 제3항부터 제5항까지의규정을 적용한다.
+③ (차입공매도 제한에 관한 적용례) 제24조의2의 개정규정에 불구하고 종전 유가증권시장업무규정 제17조제4항제2호에 따른 차입공매도 제한조치가 종전 규정에 따라 종료될 때까지는 종전의 제24조의2 제3항부터 제5항까지의 규정을 적용한다.
 
 ④ (상장채무증권의 대용가격에 대한 경과조치) 이 세칙 시행 당시 제116조제3항제1호라목의 사채권에 대하여 종전 세칙에 따라 산출된 대용가격은 개정된 세칙에 따라 산출된 것으로 본다.
 
@@ -4719,13 +4974,13 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2012년 4월 2일부터 시행한다. 다만, 제12조의2, 제30조, 제131조 및 [별지 제11호 서식]의 개정규정은 2011년 12월 29일부터 시행하고, 제31조의7 및 제31조의8의 개정규정은 2012년 3월 12일부터 시행한다.
 
-**제2조(유가증권시장 업무규정 시행일)**규정제749호「유가증권시장 업무규정」부칙 단서에서 "세칙이 정하는 날"이란 2012년 4월 2일을 말한다. 다만,규정제11조의2의 경우 2011년 12월 29일을 말한다.
+**제2조(유가증권시장 업무규정 시행일)**규정 제749호「유가증권시장 업무규정」부칙 단서에서 "세칙이 정하는 날"이란 2012년 4월 2일을 말한다. 다만, 규정 제11조의2의 경우 2011년 12월 29일을 말한다.
 
 부칙 <제803호, 2011. 12. 30.>
 
-**제1조(시행일)**이 세칙은 2012년 1월 16일부터 시행한다. 다만, 제100조제2항제2호 단서, 제100조의2, 제100조의4제1항제3호 단서·제3항제2호나목, 제101조의4제2호, 제101조의7제4항부터 제6항까지, 제101조의9, 제101조의10 및 제101조의16제1항제3호의 개정규정은 2012년 2월 20일부터 시행한다.<개정 2012. 2. 3.>
+**제1조(시행일)**이 세칙은 2012년 1월 16일부터 시행한다. 다만, 제100조제2항제2호 단서, 제100조의2, 제100조의4제1항제3호 단서·제3항제2호나목, 제101조의4제2호, 제101조의7제4항부터 제6항까지, 제101조의9, 제101조의10 및 제101조의16제1항제3호의 개정규정은 2012년 2월 20일부터 시행한다. <개정 2012. 2. 3.>
 
-**제2조(유가증권시장 업무규정의 시행일)**규정제797호 「유가증권시장 업무규정」(2011년 12월 28일 개정)의 부칙 제1조 단서에서 "세칙으로 정하는 날"이란 2012년 2월 20일을 말한다.<개정 2012. 2. 3.>
+**제2조(유가증권시장 업무규정의 시행일)**규정 제797호 「유가증권시장 업무규정」(2011년 12월 28일 개정)의 부칙 제1조 단서에서 "세칙으로 정하는 날"이란 2012년 2월 20일을 말한다. <개정 2012. 2. 3.>
 
 **제3조(결제지연손해금의 납부에 관한 적용례)**제101조의16제6항제1호의 개정규정은 이 세칙 시행일이 속하는 달에 발생한 결제지연손해금에 대하여는 그 다음 달에 발생한 결제지연손해금과 합산하여 적용한다.
 
@@ -4755,7 +5010,7 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2012년 11월 5일부터 시행한다.
 
-**제2조(유가증권시장 업무규정 시행일)**규정제871호「유가증권시장 업무규정」(2012년 10월 17일 개정) 부칙에서 "세칙이 정하는 날"이란 2012년 11월 5일을 말한다.
+**제2조(유가증권시장 업무규정 시행일)**규정 제871호「유가증권시장 업무규정」(2012년 10월 17일 개정) 부칙에서 "세칙이 정하는 날"이란 2012년 11월 5일을 말한다.
 
 부칙 <제881호, 2012. 12. 13.>
 
@@ -4778,13 +5033,13 @@ attachments:
 **제2조**·제3조 < 생 략 >
 
 **제4조(다른 규정의 개정)**① 유가증권시장 업무규정 시행세칙 일부를 다음과 같이 개정한다.
-제7조제2항 중 "유가증권시장상장규정제2조제9항 단서"를 "「유가증권시장 상장규정」제111조"로 한다.
-제14조제1항제4호다목 단서 중 "「유가증권시장 상장규정」제94조제2항"을 "「유가증권시장 상장규정」제9조"로 하고, 같은 조 제2항제1호사목 중 "유가증권시장상장규정제94조제2항"을 "「유가증권시장 상장규정」제9조"로 한다.
-제30조제1항제2호라목 중 "유가증권시장상장규정제2조제35항"을 "「유가증권시장 공시규정」제2조제19항"으로 하고, 같은 조 제2항 중 "유가증권시장상장규정제36조"를 "「유가증권시장 상장규정」제42조"로 한다.
-별표 1 제2호가목(1) 중 "유가증권시장상장규정제9조의 규정에 의한 상장예비심사청구일"을 "「유가증권시장 상장규정」에 따른 상장예비심사 신청일"로 하고, 같은 목 (3) 중 "유가증권시장상장규정제2조제24항 각호의 규정에 의한"을 "「유가증권시장 상장규정」제2조제1항제20호 각 목에 따른"으로 한다.
+ 제7조제2항 중 "유가증권시장상장규정 제2조제9항 단서"를 "「유가증권시장 상장규정」 제111조"로 한다.
+ 제14조제1항제4호다목 단서 중 "「유가증권시장 상장규정」 제94조제2항"을 "「유가증권시장 상장규정」 제9조"로 하고, 같은 조 제2항제1호사목 중 "유가증권시장상장규정 제94조제2항"을 "「유가증권시장 상장규정」 제9조"로 한다.
+ 제30조제1항제2호라목 중 "유가증권시장상장규정 제2조제35항"을 "「유가증권시장 공시규정」 제2조제19항"으로 하고, 같은 조 제2항 중 "유가증권시장상장규정 제36조"를 "「유가증권시장 상장규정」 제42조"로 한다.
+ 별표 1 제2호가목(1) 중 "유가증권시장상장규정 제9조의 규정에 의한 상장예비심사청구일"을 "「유가증권시장 상장규정」에 따른 상장예비심사 신청일"로 하고, 같은 목 (3) 중 "유가증권시장상장규정 제2조제24항 각호의 규정에 의한"을 "「유가증권시장 상장규정」 제2조제1항제20호 각 목에 따른"으로 한다.
 
 ② 유가증권시장 공시규정 시행세칙 일부를 다음과 같이 개정한다.
-제16조제3항제4호 본문 중 "상장규정 제66조의2"를 "상장규정 제145조"로 한다.
+ 제16조제3항제4호 본문 중 "상장규정 제66조의2"를 "상장규정 제145조"로 한다.
 
 부칙 <제975호, 2013. 12. 5.>
 
@@ -4798,11 +5053,11 @@ attachments:
 
 부칙 <제996호, 2014. 2. 28.>
 
-**제1조(시행일)**이 세칙은 2014년 3월 3일부터 시행한다. 다만, 제16조 후단의 소액채권에 대한 신고시장가격과 수익률의 환산에 관한 개정규정, 제31조의6제4항제1호,제33조제1항제1호·제2호 및 제6호, 제34조제2항, 제51조, 제51조의2, 제52조 및 제101조의13의 개정규정은 전산프로그램 개발 소요기간 등을 감안하여 거래소가 따로 정하는 날부터 시행한다.
+**제1조(시행일)**이 세칙은 2014년 3월 3일부터 시행한다. 다만, 제16조 후단의 소액채권에 대한 신고시장가격과 수익률의 환산에 관한 개정규정, 제31조의6제4항제1호, 제33조제1항제1호·제2호 및 제6호, 제34조제2항, 제51조, 제51조의2, 제52조 및 제101조의13의 개정규정은 전산프로그램 개발 소요기간 등을 감안하여 거래소가 따로 정하는 날부터 시행한다.
 
-**제2조(유가증권시장 업무규정의 시행일)**규정제994호 「유가증권시장 업무규정」(2014년 2월 19일 개정)의 부칙 제1조에서 "세칙으로 정하는 날"이란 2014년 3월 3일을 말한다.
+**제2조(유가증권시장 업무규정의 시행일)**규정 제994호 「유가증권시장 업무규정」(2014년 2월 19일 개정)의 부칙 제1조에서 "세칙으로 정하는 날"이란 2014년 3월 3일을 말한다.
 
-**제3조(채권시장조성회원의 지정취소에 대한 적용례 등)**① 이 세칙 시행이후 최초로 실시하는 채권시장조성회원이 지정취소에 한해 제99조의9제1항제1호 및 제2항의 개정규정에도 불구하고 종전의규정을 따른다.
+**제3조(채권시장조성회원의 지정취소에 대한 적용례 등)**① 이 세칙 시행이후 최초로 실시하는 채권시장조성회원이 지정취소에 한해 제99조의9제1항제1호 및 제2항의 개정규정에도 불구하고 종전의 규정을 따른다.
 
 ② 제99조의9제1항제1호 및 제2항의 개정규정에 따라 실시하는 반기별 평가는 2014년 하반기 평가부터 적용한다.
 
@@ -4824,7 +5079,7 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2014년 6월 30일부터 시행한다. 다만, 제35조, 제38조, 제41조의2, 제41조의3 및 제51조의2의 개정규정은 전산프로그램 개발 소요기간 등을 감안하여 거래소가 따로 정하는 날부터 시행한다.
 
-**제2조(유가증권시장 업무규정의 시행일)**규정제1031호 유가증권시장 업무규정(2014년 6월 18일 개정) 부칙에서 "세칙으로 정하는 날"이란 제1조 단서에 따른 시행일을 말한다.
+**제2조(유가증권시장 업무규정의 시행일)**규정 제1031호 유가증권시장 업무규정(2014년 6월 18일 개정) 부칙에서 "세칙으로 정하는 날"이란 제1조 단서에 따른 시행일을 말한다.
 
 부칙 <제1053호, 2014. 7. 10.>
 
@@ -4846,7 +5101,7 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2014년 12월 15일부터 시행한다. 다만, 제30조, 제36조, 제55조 및 [별표 1]의 개정규정은 2015년 4월 1일부터 시행한다.
 
-**제2조(유가증권시장 업무규정 시행일)**규정제1115호 「유가증권시장 업무규정」(2014년 11월 26일 개정) 부칙에서 "세칙으로 정하는 날"이란 2014년 12월 15일을 말한다.
+**제2조(유가증권시장 업무규정 시행일)**규정 제1115호 「유가증권시장 업무규정」(2014년 11월 26일 개정) 부칙에서 "세칙으로 정하는 날"이란 2014년 12월 15일을 말한다.
 
 부칙 <제1149호, 2015. 3. 6.>
 
@@ -4858,15 +5113,15 @@ attachments:
 
 ② 제1항에도 불구하고 제57조의 개정규정은 금융위원회의 「증권의 발행 및 공시 등에 관한 규정」 제5-5조제1항제1호 가목 및 나목의 매수주문시의 가격범위에 관한 개정규정 시행일부터 시행한다.
 
-**제2조(유가증권시장 업무규정의 시행일 등)**①규정제1168호 유가증권시장 업무규정(2015년 4월 29일 개정) 부칙에서 "세칙으로 정하는 날"이란 부칙 제1조제1항에 따른 시행일을 말한다. 다만,규정제1168호 유가증권시장 업무규정(2015년 4월 29일 개정) 제39조의 개정규정의 시행일은 부칙 제1조제2항에 따른 시행일을 말한다.
+**제2조(유가증권시장 업무규정의 시행일 등)**① 규정 제1168호 유가증권시장 업무규정(2015년 4월 29일 개정) 부칙에서 "세칙으로 정하는 날"이란 부칙 제1조제1항에 따른 시행일을 말한다. 다만, 규정 제1168호 유가증권시장 업무규정(2015년 4월 29일 개정) 제39조의 개정규정의 시행일은 부칙 제1조제2항에 따른 시행일을 말한다.
 
-②규정제1168호 유가증권시장 업무규정(2015년 4월 29일 개정) 제88조의 개정규정은 이규정시행일 이후 최초로 지정되는 투자경고종목부터 적용한다.
+② 규정 제1168호 유가증권시장 업무규정(2015년 4월 29일 개정) 제88조의 개정규정은 이 규정 시행일 이후 최초로 지정되는 투자경고종목부터 적용한다.
 
 부칙 <제1213호, 2015. 7. 16.>
 
 **제1조(시행일)**이 세칙은 2015년 7월 27일부터 시행한다. 다만, 제99조의3제1항, 제99조의9, 별지 제7호의3 및 별지 제7호의4의 개정규정은 2015년 7월 20일부터 시행하고, [별표2의2] 제2호가목2) 중 순자본비율에 관한 사항 및 같은 목 4)의 개정규정은 2016년 1월 1일부터 시행한다.
 
-**제2조(유가증권시장 업무규정 시행일)**규정제1138호 「유가증권시장 업무규정」(2015년 2월 11일 개정) 부칙 단서에서 "세칙으로 정하는 날"이란 2015년 7월 27일을 말한다. 다만, 같은규정제31조제1항의 개정규정은 2015년 7월 20일부터 시행한다.
+**제2조(유가증권시장 업무규정 시행일)**규정 제1138호 「유가증권시장 업무규정」(2015년 2월 11일 개정) 부칙 단서에서 "세칙으로 정하는 날"이란 2015년 7월 27일을 말한다. 다만, 같은 규정 제31조제1항의 개정규정은 2015년 7월 20일부터 시행한다.
 
 **제3조(소액채권전담회원의 지정에 관한 경과조치)**① 이 세칙 시행 당시 소액채권전담회원의 지정이 취소된 자에 관하여는 제62조제6항의 개정규정에도 불구하고 종전의 규정에 따른다.
 
@@ -4900,19 +5155,19 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2015년 11월 23일부터 시행한다.
 
-**제2조(유가증권시장 업무규정의 시행일)**규정제1246호 「유가증권시장 업무규정」(2015년 11월 4일 개정) 부칙에서 "세칙으로 정하는 날"이란 제47조, 제49조, 제59조의2 및 제104조의 개정규정의 경우 2015년 11월 23일을 말한다.
+**제2조(유가증권시장 업무규정의 시행일)**규정 제1246호 「유가증권시장 업무규정」(2015년 11월 4일 개정) 부칙에서 "세칙으로 정하는 날"이란 제47조, 제49조, 제59조의2 및 제104조의 개정규정의 경우 2015년 11월 23일을 말한다.
 
 부칙 <제1261호, 2015. 12. 10.>
 
 **제1조(시행일)**이 세칙은 2015년 12월 14일부터 시행한다.
 
-**제2조(유가증권시장 업무규정 시행일 등)**규정제1246호 「유가증권시장 업무규정」(2015년 11월 4일 개정) 부칙에서 "세칙으로 정하는 날"이란 제26조, 제106조의2 및 제107조의 개정규정의 경우 2015년 12월 14일을 말한다.
+**제2조(유가증권시장 업무규정 시행일 등)**규정 제1246호 「유가증권시장 업무규정」(2015년 11월 4일 개정) 부칙에서 "세칙으로 정하는 날"이란 제26조, 제106조의2 및 제107조의 개정규정의 경우 2015년 12월 14일을 말한다.
 
-**제3조(단기과열종목 지정해제에 대한 적용례)**① 부칙 제2조에 따른 시행일 직전 매매거래일에 시장감시위원회가 매매거래정지를 요청한 종목의 경우에는 종전 「유가증권시장 업무규정」제106조의2제1항제2호에도 불구하고 단기과열종목으로 지정하지 아니한다.
+**제3조(단기과열종목 지정해제에 대한 적용례)**① 부칙 제2조에 따른 시행일 직전 매매거래일에 시장감시위원회가 매매거래정지를 요청한 종목의 경우에는 종전 「유가증권시장 업무규정」 제106조의2제1항제2호에도 불구하고 단기과열종목으로 지정하지 아니한다.
 
 ② 제134조의 개정규정은 이 세칙 시행 이후 최초로 지정되는 단기과열종목부터 적용한다.
 
-**제4조(투자위험종목 등의 매매거래정지에 관한 경과조치)**부칙 제2조에 따른 시행일 직전 매매거래일 현재 단기과열종목으로 지정되어 있는 종목의 경우에는 종전 「유가증권시장 업무규정」제107조제3항에 따라 매매거래정지를 하지 않을 수 있다.
+**제4조(투자위험종목 등의 매매거래정지에 관한 경과조치)**부칙 제2조에 따른 시행일 직전 매매거래일 현재 단기과열종목으로 지정되어 있는 종목의 경우에는 종전 「유가증권시장 업무규정」 제107조제3항에 따라 매매거래정지를 하지 않을 수 있다.
 
 부칙 <제1270호, 2015. 12. 16.>
 
@@ -4932,7 +5187,7 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2016년 3월 28일부터 시행한다. 다만, 별표 2의5의 개정규정은 2016년 4월 1일부터 시행한다.
 
-**제2조(유가증권시장 업무규정의 시행일)**규정제1246호 「유가증권시장 업무규정」(2015년 11월 4일 개정) 부칙에서 "세칙으로 정하는 날"이란 제2조제16항, 제44조의2 및 제53조의2의 개정규정의 경우 2015년 11월 23일을 말한다.
+**제2조(유가증권시장 업무규정의 시행일)**규정 제1246호 「유가증권시장 업무규정」(2015년 11월 4일 개정) 부칙에서 "세칙으로 정하는 날"이란 제2조제16항, 제44조의2 및 제53조의2의 개정규정의 경우 2015년 11월 23일을 말한다.
 
 **제3조(채권시장조성회원에 대한 평가에 관한 적용례)**제99조의10제1항제2호 및 별표4의 개정규정은 2016년도 2분기 평가부터 적용한다.
 
@@ -4944,11 +5199,11 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2016년 3월 28일부터 시행한다. 다만, 제41조의2, 제56조의3 및 별표 2의2 제3호의 개정규정은 전산프로그램 개발 소요기간 등을 감안하여 거래소가 따로 정하는 날부터 시행한다.
 
-**제2조(유가증권시장 업무규정 시행일 등)**규정제1246호 「유가증권시장 업무규정」(2015년 11월 4일 개정) 부칙에서 "세칙이 정하는 날"이란 다음 각 호의 구분에 따른 날을 말한다.
+**제2조(유가증권시장 업무규정 시행일 등)**규정 제1246호 「유가증권시장 업무규정」(2015년 11월 4일 개정) 부칙에서 "세칙이 정하는 날"이란 다음 각 호의 구분에 따른 날을 말한다.
 
-1.규정제18조,제20조의9부터제20조의11까지의 개정규정: 2016년 3월 28일
+1. 규정 제18조, 제20조의9부터 제20조의11까지의 개정규정: 2016년 3월 28일
 
-2.규정제38조의3의 개정규정: 부칙 제1조 단서에 따른 시행일
+2. 규정 제38조의3의 개정규정: 부칙 제1조 단서에 따른 시행일
 
 **제3조(시장조성계약의 계약기간에 관한 특례)**제31조의16제3항의 개정규정에도 불구하고 이 세칙 시행 이후 최초로 체결하는 시장조성자계약의 적용기간은 부칙 제1조 본문에 따른 시행일부터 시행일이 속한 연도의 최종 매매거래일까지로 한다.
 
@@ -4972,7 +5227,7 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2016년 6월 21일부터 시행한다. 다만, 제17조의2, 제17조의3, 제45조제1항, 제47조의2부터 제47조의4까지, 제65조, 제75조의2, 제76조제5항, 제100조의2, 제109조 및 별표 2의2의 개정규정은 2016년 6월 27일부터 시행하고, 제127조의 개정규정은 2016년 6월 30일부터 시행하며, 제78조, 제79조의2, 제84조, 제84조의2, 제99조의5, 제99조의6 및 별표4 제1호가목의 개정규정은 2016년 7월 1일부터 시행하고, 제11조, 제45조제3항, 제74조, 제76조제2항, 제94조, 제95조, 제96조, 제96조의2 및 별표4 제1호나목의 개정규정은 2016년 8월 1일부터 시행한다.
 
-**제2조(유가증권시장 업무규정 시행일 등)**규정제1246호 「유가증권시장 업무규정」(2015년 11월 4일 개정) 부칙에서 "세칙으로 정하는 날"이란 제13조의2, 제28조의2, 제38조의3 및 제78조의 개정규정의 경우 2016년 6월 27일을 말한다. 다만,규정제9조의 개정규정은 전산프로그램 개발 소요기간 등을 감안하여 거래소가 따로 정하는 날부터 시행한다.
+**제2조(유가증권시장 업무규정 시행일 등)**규정 제1246호 「유가증권시장 업무규정」(2015년 11월 4일 개정) 부칙에서 "세칙으로 정하는 날"이란 제13조의2, 제28조의2, 제38조의3 및 제78조의 개정규정의 경우 2016년 6월 27일을 말한다. 다만, 규정 제9조의 개정규정은 전산프로그램 개발 소요기간 등을 감안하여 거래소가 따로 정하는 날부터 시행한다.
 
 **제3조(원금이자분리채권의 시장조성에 관한 적용례)**별표4 제1호나목(1)의 개정규정에도 불구하고 원금이자분리채권에 대한 기본 조성시간은 2016년 7월 1일부터 적용한다. 이 경우 2016년 7월 1일부터 2016년 7월 31일까지는 조성시간을 10시~11시 30분 중 1시간 이상 및 13시 10분~15시 중 1시간 이상으로 한다.
 
@@ -4984,23 +5239,23 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2016년 11월 28일부터 시행한다.
 
-**제2조(유가증권시장 업무규정 시행일)**규정제1367호 「유가증권시장 업무규정」(2016년 10월 5일 개정) 부칙에서 "세칙으로 정하는 날"이란 제26조 및 제106조의3의 개정규정의 경우 2016년 11월 28일을 말한다.
+**제2조(유가증권시장 업무규정 시행일)**규정 제1367호 「유가증권시장 업무규정」(2016년 10월 5일 개정) 부칙에서 "세칙으로 정하는 날"이란 제26조 및 제106조의3의 개정규정의 경우 2016년 11월 28일을 말한다.
 
 부칙 <제1387호, 2016. 12. 26.>
 
-**제1조(시행일)**이 세칙은 2016년 12월 26일부터 시행한다. 다만, 제99조의3제4항제2호의개정규정은 2017년 1월 2일부터 시행하고, 제99조의6 및 별표4의 개정규정은 2017년 3월 27일부터 시행한다.<개정 2017. 3. 21.>
+**제1조(시행일)**이 세칙은 2016년 12월 26일부터 시행한다. 다만, 제99조의3제4항제2호의개정규정은 2017년 1월 2일부터 시행하고, 제99조의6 및 별표4의 개정규정은 2017년 3월 27일부터 시행한다. <개정 2017. 3. 21.>
 
-**제2조(채권시장조성회원 평가에 관한 경과조치)**제99조의6 및 별표4의 개정규정에도 불구하고 일반채권시장의 채권시장조성회원에 대한 평가대상기간은 2017년 1분기의 경우 분기 초일부터 이 세칙 시행일 전일까지로 하고, 2017년 2분기의 경우 이 세칙 시행일부터 분기 말일까지로 한다.<본조신설 2017. 3. 21.>
+**제2조(채권시장조성회원 평가에 관한 경과조치)**제99조의6 및 별표4의 개정규정에도 불구하고 일반채권시장의 채권시장조성회원에 대한 평가대상기간은 2017년 1분기의 경우 분기 초일부터 이 세칙 시행일 전일까지로 하고, 2017년 2분기의 경우 이 세칙 시행일부터 분기 말일까지로 한다. <본조신설 2017. 3. 21.>
 
 부칙 <제1422호, 2017. 2. 28.>
 
 **제1조(시행일)**이 세칙은 2017년 3월 6일부터 시행한다. 다만, 제14조, 제41조의2, 제56조의2 및 제129조제1항제2호(이상급등 단일가매매종목에 한한다)의 개정규정은 2017년 3월 13일에 시행하고, 제21조, 제24조의2, 제24조의3, 제31조의16, 제31조의22, 제112조, 제117조, 제120조, 제129조제1항제2호(공매도 과열종목에 한한다), 제135조, 별표 2의2부터 별표 2의4까지 및 별지 제2호의6 서식의 개정규정은 2017년 3월 27일에 시행하며, 제12조제1항제16호바목의 개정규정은 전산프로그램 개발 소요기간 등을 감안하여 거래소가 따로 정하는 날부터 시행한다.
 
-**제2조(유가증권시장 업무규정 시행일 등)**규정제1412호 「유가증권시장 업무규정」 부칙에서 "세칙으로 정하는 날"이란 다음 각 호의 구분에 따른 날을 말한다.
+**제2조(유가증권시장 업무규정 시행일 등)**규정 제1412호 「유가증권시장 업무규정」 부칙에서 "세칙으로 정하는 날"이란 다음 각 호의 구분에 따른 날을 말한다.
 
-1.규정제38조의2및제107조의 개정규정 : 2017년 3월 13일
+1. 규정 제38조의2 및 제107조의 개정규정 : 2017년 3월 13일
 
-2.규정제17조및제18조2의 개정규정 : 2017년 3월 27일
+2. 규정 제17조 및 제18조2의 개정규정 : 2017년 3월 27일
 
 부칙 <제1435호, 2017. 3. 17.>
 
@@ -5014,7 +5269,7 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2017년 6월 26일부터 시행한다.
 
-**제2조(시장조성실적 평가에 관한 적용례)**[별표4] 제1호나목(1) 단서의 개정규정은 2017년도 2분기 채권시장조성회원 시장조성실적 평가를 하는 경우 평가대상기간 중 6월 25일까지는 종전규정을 적용한다.
+**제2조(시장조성실적 평가에 관한 적용례)**[별표4] 제1호나목(1) 단서의 개정규정은 2017년도 2분기 채권시장조성회원 시장조성실적 평가를 하는 경우 평가대상기간 중 6월 25일까지는 종전 규정을 적용한다.
 
 부칙 <제1481호, 2017. 9. 7.>
 
@@ -5030,7 +5285,7 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2017년 9월 25일부터 시행한다.
 
-**제2조(사정비율 산출 및 적용시기의 특례)**이 세칙 제115조제5항,제115조의3제1항 및제115조의4제2항의 개정규정에도 불구하고 시행일이 속한 분기의 사정비율은 시행일 전일에 산출하여 시행일부터 시행일이 속한 분기의 다음 분기말까지 적용한다.
+**제2조(사정비율 산출 및 적용시기의 특례)**이 세칙 제115조제5항, 제115조의3제1항 및 제115조의4제2항의 개정규정에도 불구하고 시행일이 속한 분기의 사정비율은 시행일 전일에 산출하여 시행일부터 시행일이 속한 분기의 다음 분기말까지 적용한다.
 
 **제3조(거래증거금 부적격 대용증권의 효력 불인정에 관한 특례)**이 세칙 제99조의20제1항의 개정규정에도 불구하고 거래증거금 부적격 대용증권에 대한 대용가격은 다음 각 호에 따라 조정한다.
 
@@ -5066,9 +5321,9 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2018년 12월 10일부터 시행한다.
 
-**제2조(유가증권시장 업무규정의 시행일)**규정제1601호「유가증권시장 업무규정」(2018.12.5. 개정) 부칙에서 정하는 "세칙으로 정하는 날"이란 부칙 제1조에 따른 시행일을 말한다. 다만,규정제17조,제18조의2,제89조의 개정규정의 시행일은 한국신용정보원의 일반신용정보관리규약 <별표1>의 관련 내용이 개정되어 효력이 발생하는 날의 다음 매매거래일부터 시행한다.
+**제2조(유가증권시장 업무규정의 시행일)**규정 제1601호「유가증권시장 업무규정」(2018.12.5. 개정) 부칙에서 정하는 "세칙으로 정하는 날"이란 부칙 제1조에 따른 시행일을 말한다. 다만, 규정 제17조, 제18조의2, 제89조의 개정규정의 시행일은 한국신용정보원의 일반신용정보관리규약 <별표1>의 관련 내용이 개정되어 효력이 발생하는 날의 다음 매매거래일부터 시행한다.
 
-**제3조(시장조성자에 관한 적용례)**부칙 제1조에도 불구하고 이 세칙 제31조의12,제31조의20, [별표2의2], [별표2의3] 및 [별표2의4]의 시장조성자에 관한 개정세칙은 이 세칙 시행 이후 최초로 체결하는 시장조성자계약부터 적용한다. 다만, 이 세칙 시행 이후 새로운 시장조성자계약의 체결을 위하여 사전에 거래소가 행한 시장조성 대상종목 선정, 시장조성자 신청 접수, 그 밖에 시장조성자에 관한 행위는 개정규정에 따른 것으로 본다.
+**제3조(시장조성자에 관한 적용례)**부칙 제1조에도 불구하고 이 세칙 제31조의12, 제31조의20, [별표2의2], [별표2의3] 및 [별표2의4]의 시장조성자에 관한 개정세칙은 이 세칙 시행 이후 최초로 체결하는 시장조성자계약부터 적용한다. 다만, 이 세칙 시행 이후 새로운 시장조성자계약의 체결을 위하여 사전에 거래소가 행한 시장조성 대상종목 선정, 시장조성자 신청 접수, 그 밖에 시장조성자에 관한 행위는 개정규정에 따른 것으로 본다.
 
 **제4조(단일가매매대상 저유동성종목의 선정 등에 관한 적용례)**부칙 제1조에도 불구하고 이 세칙 [별표2의2]의 단일가매매대상 저유동성종목에 관한 개정세칙은 2019년 1월 2일부터 적용한다. 다만, 이 세칙을 2019년 1월 2일부터 적용하기 위해 사전에 거래소가 행하는 단일가매매대상 저유동성종목 선정, 그 밖의 행위는 개정규정에 따른 것으로 본다.
 
@@ -5076,11 +5331,11 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2019년 1월 2일부터 시행한다. 다만, 세칙 제28조의2제4항의 개정규정은 한국신용정보원의 일반신용정보관리규약 <별표 1>의 관련 내용이 개정되어 효력이 발생하는 날의 다음 매매거래일부터 시행한다.
 
-**제2조(유가증권시장 업무규정 등의 적용례)**①규정제1601호「유가증권시장 업무규정」(2018년 12월 5일 개정, 이하 이 부칙에서 "규정"이라 한다)제17조제4항의 개정규정은 부칙 제1조 단서에 따른 시행일 이후 위탁자가 해당계좌에서 공매도를 한 사실을 알게 된 경우부터 적용한다.
+**제2조(유가증권시장 업무규정 등의 적용례)**① 규정 제1601호「유가증권시장 업무규정」(2018년 12월 5일 개정, 이하 이 부칙에서 "규정"이라 한다) 제17조제4항의 개정규정은 부칙 제1조 단서에 따른 시행일 이후 위탁자가 해당계좌에서 공매도를 한 사실을 알게 된 경우부터 적용한다.
 
-②규정제18조의2제3항의 개정규정은 부칙 제1조 단서에 따른 시행일 이후 거래소로부터 위탁자 정보를 통보받은 경우부터 적용한다.
+② 규정 제18조의2제3항의 개정규정은 부칙 제1조 단서에 따른 시행일 이후 거래소로부터 위탁자 정보를 통보받은 경우부터 적용한다.
 
-③규정제89조제1항제2호 및 세칙 제28조의2제4항의 개정규정은 결제일이 부칙 제1조 단서에 따른 시행일 이후인 경우로 위탁자가 결제일까지 매도증권을 납부하지 아니한 경우부터 적용한다.
+③ 규정 제89조제1항제2호 및 세칙 제28조의2제4항의 개정규정은 결제일이 부칙 제1조 단서에 따른 시행일 이후인 경우로 위탁자가 결제일까지 매도증권을 납부하지 아니한 경우부터 적용한다.
 
 **제3조(신규상장종목등의 최초가격 결정을 위한 적용례)**부칙 제1조에도 불구하고 별표1의 개정규정은 이 세칙 시행 이후 상장예비심사를 신청하는 법인부터 적용한다.
 
@@ -5100,13 +5355,13 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2019년 7월 15일부터 시행한다. 다만, 제12조, 제12조의2제7호, 제14조제1항, 제14조제2항제1호, 제108조, 제130조의 개정규정은 2019년 9월 23일부터 시행한다.
 
-**제2조(유가증권시장 업무규정의 시행일)**규정제1697호 「유가증권시장 업무규정」(2019년 7월 10일 개정) 부칙 단서에서 정하는 "세칙으로 정하는 날"이란 프로그램매매 보고제도 폐지와 관련한 규정 제104조의 개정규정의 경우 2019년 9월 23일을 말한다.
+**제2조(유가증권시장 업무규정의 시행일)**규정 제1697호 「유가증권시장 업무규정」(2019년 7월 10일 개정) 부칙 단서에서 정하는 "세칙으로 정하는 날"이란 프로그램매매 보고제도 폐지와 관련한 규정 제104조의 개정규정의 경우 2019년 9월 23일을 말한다.
 
 부칙 <제1704호, 2019. 7. 22.>
 
 **제1조(시행일)**이 세칙은 2019년 7월 29일부터 시행한다.
 
-**제2조(유가증권시장 업무규정의 시행일)**규정제1697호「유가증권시장 업무규정」(2019년 7월 10일 개정) 부칙 단서에서 "세칙으로 정하는 날"이란 회원 관계회사 발행증권의 거래증거금 예탁제한과 관련한 규정 제72조의3의 개정규정의 경우 2019년 7월 29일을 말한다.
+**제2조(유가증권시장 업무규정의 시행일)**규정 제1697호「유가증권시장 업무규정」(2019년 7월 10일 개정) 부칙 단서에서 "세칙으로 정하는 날"이란 회원 관계회사 발행증권의 거래증거금 예탁제한과 관련한 규정 제72조의3의 개정규정의 경우 2019년 7월 29일을 말한다.
 
 부칙 <제1726호, 2019. 9. 10.>
 
@@ -5114,9 +5369,9 @@ attachments:
 
 부칙 <제1749호, 2019. 11. 27.>
 
-**제1조(시행일)**이 세칙은 2019년 12월 2일부터 시행한다. 다만, 제99조의17의 개정규정은 2020년 7월 1일부터 시행한다.<개정 2020. 3. 17.,2020. 6. 15.>
+**제1조(시행일)**이 세칙은 2019년 12월 2일부터 시행한다. 다만, 제99조의17의 개정규정은 2020년 7월 1일부터 시행한다. <개정 2020. 3. 17.,2020. 6. 15.>
 
-**제2조(유가증권시장 업무규정의 시행일)**규정제1697호「유가증권시장 업무규정」(2019년 7월 10일 개정) 부칙 단서에서 정하는 "세칙으로 정하는 날"이란 장중추가증거금 부과 및 부과해제와 관련한 규정 제72조의8 및제72조의9의 개정규정의 경우 2019년 12월 2일을 말한다.
+**제2조(유가증권시장 업무규정의 시행일)**규정 제1697호「유가증권시장 업무규정」(2019년 7월 10일 개정) 부칙 단서에서 정하는 "세칙으로 정하는 날"이란 장중추가증거금 부과 및 부과해제와 관련한 규정 제72조의8 및 제72조의9의 개정규정의 경우 2019년 12월 2일을 말한다.
 
 부칙 <제1753호, 2019. 11. 28.>
 
@@ -5147,24 +5402,24 @@ attachments:
 **제1조(시행일)**이 세칙은 2020년 5월 8일부터 시행한다.
 
 **제2조(다른 규정의 개정)**① 「유가증권시장 상장규정 시행세칙」 일부를 다음과 같이 개정한다.
-제134조를 다음과 같이 신설한다.
-제134조(의견수렴)규정제166조의2에 따른 의견수렴은 「내규관리규정」제5조및 「규제관리규정」제6조에서 정하는 바에 따른다.
+ 제134조를 다음과 같이 신설한다.
+ 제134조(의견수렴) 규정 제166조의2에 따른 의견수렴은 「내규관리규정」 제5조 및 「규제관리규정」 제6조에서 정하는 바에 따른다.
 
 ② 「유가증권시장 공시규정 시행세칙」 일부를 다음과 같이 개정한다.
-제26조를 다음과 같이 신설한다.
-제26조(의견수렴)규정제91조의2에 따른 의견수렴은 「내규관리규정」제5조및 「규제관리규정」제6조에서 정하는 바에 따른다.
+ 제26조를 다음과 같이 신설한다.
+ 제26조(의견수렴) 규정 제91조의2에 따른 의견수렴은 「내규관리규정」 제5조 및 「규제관리규정」 제6조에서 정하는 바에 따른다.
 
 부칙 <제1831호, 2020. 5. 26.>
 
 **제1조(시행일)**이 세칙은 2020년 5월 27일부터 시행한다.
 
-**제2조(채권시장조성회원 시장조성실적 평가에 대한 경과조치)**2020년도 2분기 채권시장조성회원 시장조성실적 평가에 대하여는 별표 4의 개정규정에 불구하고 종전의규정을 적용한다.
+**제2조(채권시장조성회원 시장조성실적 평가에 대한 경과조치)**2020년도 2분기 채권시장조성회원 시장조성실적 평가에 대하여는 별표 4의 개정규정에 불구하고 종전의 규정을 적용한다.
 
 부칙 <제1832호, 2020. 5. 28.>
 
 **제1조(시행일)**이 세칙은 2020년 6월 1일부터 시행한다.
 
-**제2조(채권시장조성회원의 시장조성실적 평가에 관한 경과조치)**2020년도 2분기 국채전문유통시장 채권시장조성회원의 시장조성실적 평가에 관하여 시행일 이전의 실적에 대하여는 별표4 제1호나목(1)(가)의 개정규정에도 불구하고 종전의규정을 적용한다.
+**제2조(채권시장조성회원의 시장조성실적 평가에 관한 경과조치)**2020년도 2분기 국채전문유통시장 채권시장조성회원의 시장조성실적 평가에 관하여 시행일 이전의 실적에 대하여는 별표4 제1호나목(1)(가)의 개정규정에도 불구하고 종전의 규정을 적용한다.
 
 부칙 <제1837호, 2020. 6. 15.>
 
@@ -5176,23 +5431,23 @@ attachments:
 
 부칙 <제1856호, 2020. 7. 23.>
 
-**제1조(시행일)**이 세칙은 2020년 9월 7일부터 시행한다. 다만, 제112조 및 별지 제2호 서식(1)의 개정규정은 2020년 7월 27일부터 시행하고, 제31조의5제1항, 제31조의9 및 제31조의10의 개정규정은 2020년 10월 5일부터 시행하며, 제12조의2제6호나목 및 제111조의3의 개정규정(이 세칙 시행 전에규정제87조의2제1항제2호에 따른 증권의 매매거래를 위해 개인인 위탁자가 설정한 계좌의 주문에 한정한다)은 2021년 1월 4일부터 시행한다.
+**제1조(시행일)**이 세칙은 2020년 9월 7일부터 시행한다. 다만, 제112조 및 별지 제2호 서식(1)의 개정규정은 2020년 7월 27일부터 시행하고, 제31조의5제1항, 제31조의9 및 제31조의10의 개정규정은 2020년 10월 5일부터 시행하며, 제12조의2제6호나목 및 제111조의3의 개정규정(이 세칙 시행 전에 규정 제87조의2제1항제2호에 따른 증권의 매매거래를 위해 개인인 위탁자가 설정한 계좌의 주문에 한정한다)은 2021년 1월 4일부터 시행한다.
 
 **제2조(상장지수증권 유동성공급회원의 평가 및 교체기준에 대한 적용례)**제31조의9 및 제31조의10의 개정규정은 부칙 제1조 단서에 따른 해당 개정규정의 시행일이 속하는 월에 대한 유동성공급회원 평가 및 그 결과부터 적용한다.
 
-**제3조(상장지수증권 유동성공급회원의 교체기준에 대한 경과조치)**이 세칙 시행 후 상장지수증권 유동성공급회원 평가결과에 따른 유동성공급회원 교체기준과 관련하여 이규정시행일이 속하는 분기까지의 평가결과에 대하여는 제31조의10의 개정규정에도 불구하고 종전의규정을 적용한다.
+**제3조(상장지수증권 유동성공급회원의 교체기준에 대한 경과조치)**이 세칙 시행 후 상장지수증권 유동성공급회원 평가결과에 따른 유동성공급회원 교체기준과 관련하여 이 규정 시행일이 속하는 분기까지의 평가결과에 대하여는 제31조의10의 개정규정에도 불구하고 종전의 규정을 적용한다.
 
 부칙 <제1869호, 2020. 9. 22.>
 
 **제1조(시행일)**이 세칙은 2020년 9월 28일부터 시행한다. 다만, 제6조의3, 제110조, 제133조, 제133조의2, 제134조의 개정규정은 2020년 12월 7일부터 시행한다.
 
-**제2조(유가증권시장 업무규정의 시행일)**규정제1850호「유가증권시장 업무규정」(2020년 7월 22일 개정) 부칙 제1조 단서에서 정하는 "세칙으로 정하는 날"이란 다음 각 호의 구분에 따른 날을 말한다.
+**제2조(유가증권시장 업무규정의 시행일)**규정 제1850호「유가증권시장 업무규정」(2020년 7월 22일 개정) 부칙 제1조 단서에서 정하는 "세칙으로 정하는 날"이란 다음 각 호의 구분에 따른 날을 말한다.
 
 1. 제38조의3의 개정규정은 2020년 9월 28일
 
 2. 제106조의2의 개정규정은 2020년 12월 7일
 
-**제3조(단일가매매대상 종류주식종목의 선정에 관한 특례)**제56조의4제2항의 개정규정에도 불구하고 이규정시행일이 속하는 분기의 종류주식종목 상장주식수는 2020년 9월 25일을 기준으로 평가하고, 그 결과 상장주식수가 50만주 미만인 경우 이규정시행일부터 그 다음 분기까지 단일가매매대상 종류주식종목으로 선정한다. 이 경우 이규정시행일이 속하는 분기의 마지막 매매거래일의 상장주식수 평가는 2020년 9월 25일에 한 것으로 본다.
+**제3조(단일가매매대상 종류주식종목의 선정에 관한 특례)**제56조의4제2항의 개정규정에도 불구하고 이 규정 시행일이 속하는 분기의 종류주식종목 상장주식수는 2020년 9월 25일을 기준으로 평가하고, 그 결과 상장주식수가 50만주 미만인 경우 이 규정 시행일부터 그 다음 분기까지 단일가매매대상 종류주식종목으로 선정한다. 이 경우 이 규정 시행일이 속하는 분기의 마지막 매매거래일의 상장주식수 평가는 2020년 9월 25일에 한 것으로 본다.
 
 부칙 <제1883호, 2020. 11. 20.>
 
@@ -5211,7 +5466,7 @@ attachments:
 **제1조(시행일)**이 세칙은 2021년 3월 15일부터 시행한다.
 
 **제2조(시장조성자의 자격요건, 시장조성계약의 종료 및 시장조성대상종목 선정기준 등에 대한 경과조치)**이 세칙 시행 당시 종전 규정에 따라 시장조성계약을 체결한 자는 제31조의13제1항제3호 및 제4호, 제31조의16, 별표2의2제2호 및 별표2의4의 개정규정에도 불구하고 종전의 규정에 따른다.
-제3조(단일가매매대상 저유동성종목 선정기준 등에 대한 경과조치) 별표2의2 제1호의 개정규정에도 불구하고 같은 별표 제3호의 단일가매매대상 저유동성종목 선정기준 등의 경우에는 2021년 12월 31일까지 종전의 규정에 따른다.
+ 제3조(단일가매매대상 저유동성종목 선정기준 등에 대한 경과조치) 별표2의2 제1호의 개정규정에도 불구하고 같은 별표 제3호의 단일가매매대상 저유동성종목 선정기준 등의 경우에는 2021년 12월 31일까지 종전의 규정에 따른다.
 
 부칙 <제1954호, 2021. 5. 6.>
 
@@ -5299,7 +5554,7 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2023년 1월 25일부터 시행한다.
 
-**제2조(유가증권시장 업무규정의 시행일)**규정제2082호 유가증권시장 업무규정(2022년 12월 7일 개정) 부칙 제1조의 "세칙으로 정하는 날"이란 2023년 1월 25일을 말한다.
+**제2조(유가증권시장 업무규정의 시행일)**규정 제2082호 유가증권시장 업무규정(2022년 12월 7일 개정) 부칙 제1조의 "세칙으로 정하는 날"이란 2023년 1월 25일을 말한다.
 
 부칙 <제2123호, 2023. 4. 12.>
 
@@ -5343,7 +5598,7 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2024년 11월 4일부터 시행한다. 다만, 제99조의10제1항제3호, 제99조의11제3항제3호 및 별표 4(제1호나목 및 제2호나목(2)의 개정규정은 제외한다)의 개정규정은 2025년 1월 2일부터 시행한다.
 
-**제2조(원금이자분리채권 조성호가 대상종목 지정 등에 대한 특례)**별표 2의6 제1호 및 제2호의 개정규정에도 불구하고2025년 3월 31일까지원금이자분리채권 조성호가 대상종목 지정일, 지정예고는 다음 각 호에 따른다.<개정 2025. 3. 25.>
+**제2조(원금이자분리채권 조성호가 대상종목 지정 등에 대한 특례)**별표 2의6 제1호 및 제2호의 개정규정에도 불구하고 2025년 3월 31일까지 원금이자분리채권 조성호가 대상종목 지정일, 지정예고는 다음 각 호에 따른다. <개정 2025. 3. 25.>
 
 1. 지정일 : 매년 3월 9일, 6월 9일, 9월 9일, 12월 9일. 다만, 휴장일, 원금이자분리채권의 상환일정, 지급준비금적립마감일 등을 고려하여 시장관리상 필요한 경우에는 지정일을 달리 정할 수 있다.
 
@@ -5365,7 +5620,7 @@ attachments:
 
 **제1조(시행일)**이 세칙은 2025년 3월 4일부터 시행한다.
 
-**제2조(유가증권시장 업무규정의 시행일)**규정제2285호 유가증권시장 업무규정(2025년 2월 5일 개정) 부칙의 "세칙으로 정하는 날"이란 2025년 3월 4일을 말한다.
+**제2조(유가증권시장 업무규정의 시행일)**규정 제2285호 유가증권시장 업무규정(2025년 2월 5일 개정) 부칙의 "세칙으로 정하는 날"이란 2025년 3월 4일을 말한다.
 
 부칙 <제2315호, 2025. 3. 25.>
 
@@ -5428,8 +5683,8 @@ attachments:
 **제1조(시행일)**이 세칙은 2026년 4월 28일부터 시행한다.
 
 **제2조(다른 규정의 개정)**유가증권시장 업무규정 시행세칙 일부를 다음과 같이 개정한다.
-제40조제4항 중 "신주인수권증권 및 주식워런트증권의"를 "신주인수권증권, 주식워런트증권, 「유가증권시장 상장규정」제113조제2항제4호다목(5)에 따른 단일종목상장지수펀드증권 및 같은규정제149조의3제2항제2호다목에 따른 단일종목상장지수증권의"로 한다.
-제41조의2제1항제2호가목 중 "지수 및 이와 유사하다고 거래소가 판단하는 지수의"를 "지수(이와 유사하다고 거래소가 판단하는 지수를 포함한다) 및 「금융투자업규정」제4-52조제1항에 따른 증권 및 해당 증권을 기초자산으로 하는 파생상품의 가격의"로 한다.
+ 제40조제4항 중 "신주인수권증권 및 주식워런트증권의"를 "신주인수권증권, 주식워런트증권, 「유가증권시장 상장규정」제113조제2항제4호다목(5)에 따른 단일종목상장지수펀드증권 및 같은 규정 제149조의3제2항제2호다목에 따른 단일종목상장지수증권의"로 한다.
+ 제41조의2제1항제2호가목 중 "지수 및 이와 유사하다고 거래소가 판단하는 지수의"를 "지수(이와 유사하다고 거래소가 판단하는 지수를 포함한다) 및 「금융투자업규정」제4-52조제1항에 따른 증권 및 해당 증권을 기초자산으로 하는 파생상품의 가격의"로 한다.
 
 [신설 2026. 4. 27.]
 
@@ -5437,7 +5692,7 @@ attachments:
 
 이 세칙은 2026년 7월 2일부터 시행한다.
 
-별표 및 서식
+ 별표 및 서식
 
 [별표 1] 시가기준가종목의 최초의 가격을 결정하기 위한 최저호가가격 및 최고호가가격 산정기준<개정 2005.5.13, 2005.8.26, 2007.8.28, 2009.2.3, 2009.8.3, 2011.1.27, 2012.4.20, 2014.5.12, 2014.12.10, 2016.4.22, 2018.12.28, 2020.6.23, 2020.7.23, 2023.4.12, 2023.8.8, 2025. 2. 27.>
 

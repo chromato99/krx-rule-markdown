@@ -1,12 +1,33 @@
 from __future__ import annotations
 
 from pathlib import Path
+from dataclasses import dataclass, field
 from html import unescape
 import re
 
 
 class ConversionError(Exception):
     pass
+
+
+@dataclass(frozen=True)
+class ConversionDiagnostic:
+    code: str
+    message: str
+    severity: str = "warn"
+
+
+@dataclass
+class ConversionOutcome:
+    text: str
+    raw_file_hash: str = ""
+    diagnostics: list[ConversionDiagnostic] = field(default_factory=list)
+    assets: list[dict[str, object]] = field(default_factory=list)
+    searchable: bool = True
+
+    @property
+    def quality_codes(self) -> list[str]:
+        return list(dict.fromkeys(item.code for item in self.diagnostics if item.code))
 
 
 def infer_extension(path: Path, data: bytes) -> str:

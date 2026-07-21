@@ -1,25 +1,42 @@
 ---
+schema_version: 2
 id: "204847848"
 title: "전문가회의 및 기술평가제도 운영지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:16:24.810833Z"
-content_hash: "0f7c00d5ef46d2d84ef5b02218fa498da55dd6a23a5664073c462010d04ae4ee"
+collected_at: "2026-07-12T08:04:00.292557Z"
+content_hash: "f00c55b72a8174f714dd81a7c2765076ef4ef154e1f33e9b95ddd5e184277ea1"
+body_hash: "12a9c50f73d19fddf46357231bab7d71469f89fad68761fa8c19957439dd0307"
 document_type: "rule"
 language: "ko"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 코넥스시장규정"
 effective_date: "2021-04-16"
 published_date: "2021-04-16"
+source_content_hash: "47e63290083e7f698247889e6ac50f3542aca9c5c8277771edce6e21abd94f65"
+source_content_path: "ko/rules/전문가회의-및-기술평가제도-운영지침/raw/source.html"
+source_request_path: "ko/rules/전문가회의-및-기술평가제도-운영지침/raw/request.json"
+converter_version: "2"
+asset_inspection_version: "1"
+preservation_status: "preserved"
 attachments:
   - id: "204847848-202104160000007280000250001-byl-hwp"
     title: "[별표] 기술평가의 평가항목"
     file_name: "전문가회의 및 기술평가제도 운영지침_3차_기술평가의평가항목.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202104160000007280000250001_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/전문가회의-및-기술평가제도-운영지침/raw/별표-기술평가의-평가항목.hwp"
     text_path: "ko/rules/전문가회의-및-기술평가제도-운영지침/attachments/별표-기술평가의-평가항목.md"
     content_hash: "c5ae36b21506e560681059a63c82ddd8a525850c4d9690b8e53dc60577d1e529"
+    raw_file_hash: "c5ae36b21506e560681059a63c82ddd8a525850c4d9690b8e53dc60577d1e529"
+    converted_text_hash: "b2b4ebe26c654e7529c2953cd1969837976b66357d71065ef449dff0dc58b565"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 15360
     quality_status: "ok"
     quality_score: 100
@@ -30,12 +47,19 @@ attachments:
     title: "[서식 1] 전문가회의 참석 동의 및 보안각서"
     file_name: "전문가회의 및 기술평가제도 운영지침_3차_전문가회의참석동의및보안각서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202104160000007280000250002_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/전문가회의-및-기술평가제도-운영지침/raw/서식-1-전문가회의-참석-동의-및-보안각서.hwp"
     text_path: "ko/rules/전문가회의-및-기술평가제도-운영지침/attachments/서식-1-전문가회의-참석-동의-및-보안각서.md"
     content_hash: "733d01165aac4a51297ef9c9d2175424c8ea460cfd191edb50563dc960d4cd91"
+    raw_file_hash: "733d01165aac4a51297ef9c9d2175424c8ea460cfd191edb50563dc960d4cd91"
+    converted_text_hash: "bf4ea97c3b0f53f827b96f475b487367bc3edd13c86c45f574422b64c49cfc54"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 15872
     quality_status: "ok"
     quality_score: 100
@@ -46,28 +70,47 @@ attachments:
     title: "[서식 2] 기술평가신청서"
     file_name: "전문가회의 및 기술평가제도 운영지침_3차_기술평가신청서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202104160000007280000250003_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/전문가회의-및-기술평가제도-운영지침/raw/서식-2-기술평가신청서.hwp"
     text_path: "ko/rules/전문가회의-및-기술평가제도-운영지침/attachments/서식-2-기술평가신청서.md"
     content_hash: "00ba6558e2d826c0694a14c63fdcc7a7a293a27f7a6b7dacfcaa3366173b41e7"
+    raw_file_hash: "00ba6558e2d826c0694a14c63fdcc7a7a293a27f7a6b7dacfcaa3366173b41e7"
+    converted_text_hash: "70e7603966f37b6d87eee62d7c0e2525b5eb3d395cb9b5e84c4a25f83b0ba9f6"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 400896
-    quality_status: "ok"
+    quality_status: "warn"
     quality_score: 100
-    converted_text_chars: 1711
-    converted_non_space_chars: 1264
+    quality_flags: "image_content_unindexed"
+    quality_codes: ["image_content_unindexed"]
+    diagnostics: [{"code":"image_content_unindexed","message":"HWP picture content is not text searchable","severity":"warn"}]
+    assets: [{"id":"asset-204847848-202104160000007280000250003-byl-hwp-hwp-bindata-bin0001-jpg","source_kind":"hwp_bindata","source_anchor":"hwp:BinData/BIN0001.jpg","path":"ko/rules/전문가회의-및-기술평가제도-운영지침/assets/204847848-202104160000007280000250003-byl-hwp/bin0001.jpg","mime_type":"image/jpeg","raw_file_hash":"82080a2498cc7478a3571ec2556eb46372a689b7d0b32d9151c87e04155f1f1b","size":415459,"width":1400,"height":834,"preservation_status":"preserved","searchable":false,"quality_codes":["image_content_unindexed"]}]
+    converted_text_chars: 1937
+    converted_non_space_chars: 1471
     table_row_count: 18
+    formula_hint_count: 1
   - id: "204847848-202104160000007280000250004-byl-hwp"
     title: "[서식 3] 기술평가서"
     file_name: "전문가회의 및 기술평가제도 운영지침_3차_기술평가서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202104160000007280000250004_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/전문가회의-및-기술평가제도-운영지침/raw/서식-3-기술평가서.hwp"
     text_path: "ko/rules/전문가회의-및-기술평가제도-운영지침/attachments/서식-3-기술평가서.md"
     content_hash: "555d74ea5f84f9ccc121facf1127adb7d291569a548003f2a3f82e8208fc662a"
+    raw_file_hash: "555d74ea5f84f9ccc121facf1127adb7d291569a548003f2a3f82e8208fc662a"
+    converted_text_hash: "f6e3df4532c33d926e6a9bacddbb578b3fd089a9e58a8185f39577d0b8b68037"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 13824
     quality_status: "ok"
     quality_score: 100
@@ -78,12 +121,19 @@ attachments:
     title: "[서식 4] 이해관계 부존재 확인서<개정 2016.12.29>"
     file_name: "전문가회의 및 기술평가제도 운영지침_3차_이해관계부존재확인서.hwp"
     status: "converted"
+    conversion_status: "converted"
     source_url: "/Download.do"
     server_file: "202104160000007280000250005_byl.hwp"
     folder: "ATTACH"
     raw_path: "ko/rules/전문가회의-및-기술평가제도-운영지침/raw/서식-4-이해관계-부존재-확인서개정-2016-12-29.hwp"
     text_path: "ko/rules/전문가회의-및-기술평가제도-운영지침/attachments/서식-4-이해관계-부존재-확인서개정-2016-12-29.md"
     content_hash: "16682af4402d13e88ea01632b26c0bd88087da263681b632e47b5db043e12f74"
+    raw_file_hash: "16682af4402d13e88ea01632b26c0bd88087da263681b632e47b5db043e12f74"
+    converted_text_hash: "fddb7cafd57b169d7a988f65e91b714e9c808174786d0e2997f7e5879cf50da0"
+    converter_version: "2"
+    asset_inspection_version: "1"
+    preservation_status: "preserved"
+    searchable: true
     size: 16384
     quality_status: "ok"
     quality_score: 100
@@ -94,13 +144,13 @@ attachments:
 
 제1장 총칙
 
-**제1조(목적)**이 기준은 코넥스시장 상장심사와 관련하여 「코넥스시장 상장규정」(이하 "규정"이라 한다)제13조의2제7항에 따라 전문가집단의 구성과 운영에 필요한 사항과 「코넥스시장 상장규정 시행세칙」(이하 "시행세칙"이라 한다)제2조제3항에 따라 기술성 등에 대한 기술신용평가기관 또는 기술전문평가기관의 평가에 필요한 사항을 규정함을 목적으로 한다.<개정 2016. 12. 29.>
+**제1조(목적)**이 기준은 코넥스시장 상장심사와 관련하여 「코넥스시장 상장규정」(이하 "규정"이라 한다) 제13조의2 제7항에 따라 전문가집단의 구성과 운영에 필요한 사항과 「코넥스시장 상장규정 시행세칙」(이하 "시행세칙"이라 한다) 제2조제3항에 따라 기술성 등에 대한 기술신용평가기관 또는 기술전문평가기관의 평가에 필요한 사항을 규정함을 목적으로 한다. <개정 2016. 12. 29.>
 
-**제2조(정의)**① 이 기준에서 "전문가집단"이란규정제13조의2제6항에 따른 기술성 등의 평가를 위하여 제5조에 따라 거래소가 선정한 전문가를 말한다.<개정 2016. 12. 29.>
+**제2조(정의)**① 이 기준에서 "전문가집단"이란 규정 제13조의2 제6항에 따른 기술성 등의 평가를 위하여 제5조에 따라 거래소가 선정한 전문가를 말한다. <개정 2016. 12. 29.>
 
-② 이 기준에서 "전문가회의"란규정제13조의2제1항에 따라 코넥스시장에 신규상장신청을 한 법인(이하 "특례상장신청법인"이라 한다)의 상장심사와 관련하여 기술성 등에 대한 심의를 위한 회의를 말한다.<개정 2016. 12. 29.>
+② 이 기준에서 "전문가회의"란 규정 제13조의2 제1항에 따라 코넥스시장에 신규상장신청을 한 법인(이하 "특례상장신청법인"이라 한다)의 상장심사와 관련하여 기술성 등에 대한 심의를 위한 회의를 말한다. <개정 2016. 12. 29.>
 
-③ 기술전문평가기관은 다음 각 호의 기관으로 한다.<신설 2016. 12. 29., 2020. 11. 26.>
+③ 기술전문평가기관은 다음 각 호의 기관으로 한다. <신설 2016. 12. 29., 2020. 11. 26.>
 
 1. 한국과학기술연구원
 
@@ -144,11 +194,11 @@ attachments:
 
 21. 한국산업기술시험원
 
-④ 이 기준에서 "기술평가"란규정제13조의2제1항에 따라 코넥스시장에 신규상장신청을 하고자 하는 법인에 대해 기술신용평가기관 또는 기술전문평가기관이 수행하는 기술성 등에 대한 평가를 말한다.<개정 2016. 12. 29.>
+④ 이 기준에서 "기술평가"란 규정 제13조의2 제1항에 따라 코넥스시장에 신규상장신청을 하고자 하는 법인에 대해 기술신용평가기관 또는 기술전문평가기관이 수행하는 기술성 등에 대한 평가를 말한다. <개정 2016. 12. 29.>
 
-⑤ 그 밖에 이 기준에서 사용하는 용어의 뜻은규정및시행세칙에서 정하는 바에 따른다.
+⑤ 그 밖에 이 기준에서 사용하는 용어의 뜻은 규정 및 시행세칙에서 정하는 바에 따른다.
 
-제2장 전문가회의
+ 제2장 전문가회의
 
 **제3조(소관사항)**전문가회의는 다음 각 호의 사항을 심의한다.
 
@@ -188,7 +238,7 @@ attachments:
 
 ② 회의를 소집하고자 하는 때에는 회의일시, 장소 및 목적사항 등을 기재한 서면 또는 전자문서를 회의 3일전까지 각 위원에게 발송하여야 한다. 다만, 서면심의 또는 긴급을 요하는 경우에는 그러하지 아니하다.
 
-③ 거래소는 전문가회의를 개최하여 특례상장신청법인의 기술성 등을 심의함에 있어서 다음 각 호에 해당하는 자에 대해 의견진술 기회를 부여할 수 있다.<개정 2016. 12. 29.>
+③ 거래소는 전문가회의를 개최하여 특례상장신청법인의 기술성 등을 심의함에 있어서 다음 각 호에 해당하는 자에 대해 의견진술 기회를 부여할 수 있다. <개정 2016. 12. 29.>
 
 1. 특례상장신청법인 대표자
 
@@ -202,13 +252,13 @@ attachments:
 
 **제11조(경비지급 등)**① 전문가회의에 참석한 위원(코스닥시장본부 담당 본부장보는 제외한다)에 대하여는 경비를 지급한다.
 
-② 제1항의 경비지급기준은「위원회 위원 등에 대한 경비지급지침」중 코넥스시장 상장공시위원회 위원에게 적용되는 기준을 준용한다.<개정 2021. 4. 16.>
+② 제1항의 경비지급기준은 「위원회 위원 등에 대한 경비지급지침」 중 코넥스시장 상장공시위원회 위원에게 적용되는 기준을 준용한다. <개정 2021. 4. 16.>
 
-제3장 기술평가제도
+ 제3장 기술평가제도
 
-**제12조(기술평가절차)**①규정제13조의2제1항에 따라 코넥스시장에 신규상장신청을 하고자 하는 법인은 [서식 2]의 기술평가신청서를 기술신용평가기관 또는 기술전문평가기관에 제출하는 방법으로 기술평가를 신청하여야 한다.<개정 2016. 12. 29.>
+**제12조(기술평가절차)**① 규정 제13조의2제1항에 따라 코넥스시장에 신규상장신청을 하고자 하는 법인은 [서식 2]의 기술평가신청서를 기술신용평가기관 또는 기술전문평가기관에 제출하는 방법으로 기술평가를 신청하여야 한다. <개정 2016. 12. 29.>
 
-② 제1항에 따라 기술평가를 신청한 법인은 신규상장신청일부터 6개월이내 발행된 [서식 3] 의 기술평가서와 기술신용평가기관 또는 기술전문평가기관의 공정한 평가를 저해할 사유가 없음을 확인하는 [서식 4]의 이해관계부존재확인서를 기술신용평가기관 또는 기술전문평가기관의 확인을 거쳐 거래소에 제출하여야 한다.<개정 2016. 12. 29.>
+② 제1항에 따라 기술평가를 신청한 법인은 신규상장신청일부터 6개월이내 발행된 [서식 3] 의 기술평가서와 기술신용평가기관 또는 기술전문평가기관의 공정한 평가를 저해할 사유가 없음을 확인하는 [서식 4]의 이해관계부존재확인서를 기술신용평가기관 또는 기술전문평가기관의 확인을 거쳐 거래소에 제출하여야 한다. <개정 2016. 12. 29.>
 
 ③ 거래소는 제2항에 따른 기술평가서를 해당 기업으로부터 동의를 받은 자 및 법률에 따른 소관업무를 수행하는 행정기관 또는 감독기관 등에게 공개할 수 있다.
 
@@ -235,11 +285,11 @@ attachments:
 **제2조(다른 규정의 개정)**① 부터 ④까지 생략
 
 ⑤ 「전문가회의 및 기술평가제도 운영지침」 일부를 다음과 같이 개정한다.
-제11조제2항 중 "「위원회 위원 등에 대한 경비지급기준」"을 "「위원회 위원 등에 대한 경비지급지침」"으로 한다.
+ 제11조제2항 중 "「위원회 위원 등에 대한 경비지급기준」"을 "「위원회 위원 등에 대한 경비지급지침」"으로 한다.
 
 ⑥ 및 ⑦ 생략
 
-별표 및 서식
+ 별표 및 서식
 
 [별표] 기술평가의 평가항목
 

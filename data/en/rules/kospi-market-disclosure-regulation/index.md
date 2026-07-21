@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210227471-en"
 title: "KOSPI Market Disclosure Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T20:59:55.706118Z"
+collected_at: "2026-07-12T07:47:45.734407Z"
 content_hash: "629c403f9ee84ed00dcb264d7e5c570253a8405c664514044b8e6d6825d31fa9"
+body_hash: "b7a8fb077a72bcf74ecbd003b2281a8e6b4259e88768fb2c92d467ca984ac18d"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 유가증권시장규정"
 effective_date: "2026-07-02"
 published_date: "2026-07-01"
@@ -14,6 +18,10 @@ file_name: "20260415_KOSPI_Market_Disclosure_Regulation.pdf"
 raw_path: "en/rules/kospi-market-disclosure-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/kospi-market-disclosure-regulation/attachments/english-full-text.md"
 file_content_hash: "7d92bf52a9744e27d53c7ce3ff904768dc00260900d14068cbffaa942fd3d40b"
+raw_file_hash: "7d92bf52a9744e27d53c7ce3ff904768dc00260900d14068cbffaa942fd3d40b"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 KOSPI Market Disclosure Regulation

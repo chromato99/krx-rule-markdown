@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210215757-en"
 title: "Enforcement Rules of OTC Derivatives Clearing Business Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:09:23.648276Z"
+collected_at: "2026-07-12T07:57:04.408135Z"
 content_hash: "9f75aa1362d21a4a062ccf5e4a48d793a19edbd1aa8b3ab9593a2dc69f4cfdb9"
+body_hash: "589d5ab0fafb5a2ea7862f9a088a6d8b80f7cca555b9ce457be95fa75cb0e1c6"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 장외파생상품청산업무규정"
 effective_date: "2026-06-01"
 published_date: "2026-05-28"
@@ -14,6 +18,10 @@ file_name: "20260528_Enforcement_Rules_of_OTC_Derivatives_Clearing_Business_Regu
 raw_path: "en/rules/enforcement-rules-of-otc-derivatives-clearing-business-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/enforcement-rules-of-otc-derivatives-clearing-business-regulation/attachments/english-full-text.md"
 file_content_hash: "ecfebe22d9773ff33e5d1bebbc6eac955ca7295f46ade49e125adefe4cde9dbe"
+raw_file_hash: "ecfebe22d9773ff33e5d1bebbc6eac955ca7295f46ade49e125adefe4cde9dbe"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Enforcement Rules of OTC Derivatives

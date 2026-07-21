@@ -203,6 +203,14 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Corpus writer advisory-lock diagnostics (the kernel lock, not this payload,
+# determines ownership and is released automatically on process exit).
+.*.writer.lock
+
+# Volatile sync observations and failures are intentionally outside the
+# immutable corpus release.
+.krx-rule-runs/
+
 # Ruff stuff:
 .ruff_cache/
 

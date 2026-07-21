@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "210199976-en"
 title: "Derivatives Market Business Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:07:24.956189Z"
+collected_at: "2026-07-12T07:55:04.598153Z"
 content_hash: "a7c62448bd6815ad5f412f0f9a0a0d064684bbe16b463aae81c4bb93e0e9c081"
+body_hash: "a363da1ce29e27e028509569df7021dbb2e1486abfdb91dbe7b0cc4d2cf4054b"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 파생상품시장규정"
 effective_date: "2026-06-29"
 published_date: "2026-04-15"
@@ -14,6 +18,10 @@ file_name: "20260415_Derivatives_Market_Business_Regulation.pdf"
 raw_path: "en/rules/derivatives-market-business-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/derivatives-market-business-regulation/attachments/english-full-text.md"
 file_content_hash: "57d28df0b0739df137eb8fad6db5f7b0a0652443204c1a6b534ed81098d9c39b"
+raw_file_hash: "57d28df0b0739df137eb8fad6db5f7b0a0652443204c1a6b534ed81098d9c39b"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Derivatives Market Business Regulation

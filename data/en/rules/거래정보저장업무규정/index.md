@@ -1,11 +1,15 @@
 ---
+schema_version: 2
 id: "204847960-en"
 title: "거래정보저장업무규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-03T21:16:35.578832Z"
+collected_at: "2026-07-12T08:04:11.068138Z"
 content_hash: "d3858e08530802bc357715137b7c941caee32cb12766a4f83cbb081ae3363287"
+body_hash: "8fa8f8dba7fbca9ea8b21b4647338e7e27a2d1c5a8b4842f126c07d9071c0e84"
 document_type: "rule"
 language: "en"
+conversion_status: "converted"
+searchable: true
 category: "업무규정 / 거래정보저장업무규정"
 effective_date: "2021-04-01"
 published_date: "2021-03-08"
@@ -14,6 +18,10 @@ file_name: "거래정보저장업무규정.pdf"
 raw_path: "en/rules/거래정보저장업무규정/raw/english-full-text.pdf"
 text_path: "en/rules/거래정보저장업무규정/attachments/english-full-text.md"
 file_content_hash: "293a60bf9ad5666941c940db35a0dc7e0e39176a15fc67ded5214732aad0c8ff"
+raw_file_hash: "293a60bf9ad5666941c940db35a0dc7e0e39176a15fc67ded5214732aad0c8ff"
+converter_version: "2"
+preservation_status: "preserved"
+quality_status: "ok"
 ---
 
 Trade Repository Business Regulation
