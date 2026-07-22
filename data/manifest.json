@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "version": "0.1.0",
-  "generated_at": "2026-07-20T20:28:37.708821Z",
+  "generated_at": "2026-07-21T20:22:41.641478Z",
   "source": "https://rule.krx.co.kr",
   "documents": [
     {
@@ -9870,7 +9870,7 @@
           "text_path": "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별표-1-장외파생공동기금총적립액-산출방법개정-2017-3-17-2017-12-18-2021-6-3-2024-9-262025-10-23.md",
           "content_hash": "034c278bed442b35ee8df23f20eb21ac60cdae2808e6e44b488fb8cf0c8588dd",
           "raw_file_hash": "034c278bed442b35ee8df23f20eb21ac60cdae2808e6e44b488fb8cf0c8588dd",
-          "converted_text_hash": "7b39de575fd34cb63513f4c6863d2fb8b2cdecba6a78a314d13066cee4ae8b47",
+          "converted_text_hash": "e8f915ccc72e096c674eeedae0b4f52ba09a48017278628a58595ecc30c903bf",
           "converter_version": "2",
           "asset_inspection_version": "1",
           "preservation_status": "preserved",
@@ -9878,7 +9878,7 @@
           "size": 53248,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 12145,
+          "converted_text_chars": 12144,
           "converted_non_space_chars": 9973,
           "table_row_count": 13,
           "formula_block_count": 62,
@@ -9905,7 +9905,7 @@
           "size": 109056,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2906,
+          "converted_text_chars": 2905,
           "converted_non_space_chars": 2280,
           "table_row_count": 13
         },
@@ -9922,7 +9922,7 @@
           "text_path": "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별표-2-순현재가치의-평가개정-2016-12-16-2021-1-22-2023-06-262025-10-23.md",
           "content_hash": "5b610ef53d70aadcfde54571141d984dc13abede7144f2d64c8dff385006de5d",
           "raw_file_hash": "5b610ef53d70aadcfde54571141d984dc13abede7144f2d64c8dff385006de5d",
-          "converted_text_hash": "769f1f97a770eaee9f9a4f434b2d806a1fac4fb3ed94f1c3ce0f3867fa50aa0b",
+          "converted_text_hash": "8bad2336f69620348c9d0b48ed9934378223798a2a8d5528f5833dcd9cddd4d0",
           "converter_version": "2",
           "asset_inspection_version": "1",
           "preservation_status": "preserved",
@@ -9930,7 +9930,7 @@
           "size": 82944,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 62829,
+          "converted_text_chars": 62828,
           "converted_non_space_chars": 52011,
           "table_row_count": 4,
           "formula_block_count": 285,
@@ -9957,7 +9957,7 @@
           "size": 55808,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 11018,
+          "converted_text_chars": 11017,
           "converted_non_space_chars": 7825,
           "table_row_count": 62,
           "formula_block_count": 10,
@@ -9984,7 +9984,7 @@
           "size": 48128,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 8880,
+          "converted_text_chars": 8879,
           "converted_non_space_chars": 7333,
           "table_row_count": 1,
           "formula_block_count": 44,
@@ -10011,7 +10011,7 @@
           "size": 13312,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1423,
+          "converted_text_chars": 1422,
           "converted_non_space_chars": 1171,
           "formula_block_count": 7,
           "formula_hint_count": 18
@@ -10037,7 +10037,7 @@
           "size": 50688,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2059,
+          "converted_text_chars": 2058,
           "converted_non_space_chars": 1697,
           "table_row_count": 1,
           "formula_block_count": 7,
@@ -10064,7 +10064,7 @@
           "size": 44032,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3608,
+          "converted_text_chars": 3607,
           "converted_non_space_chars": 2848
         },
         {
@@ -10088,7 +10088,7 @@
           "size": 43520,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1801,
+          "converted_text_chars": 1800,
           "converted_non_space_chars": 1351,
           "table_row_count": 3
         },
@@ -10113,7 +10113,7 @@
           "size": 17408,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2117,
+          "converted_text_chars": 2116,
           "converted_non_space_chars": 1552,
           "table_row_count": 17,
           "formula_hint_count": 6
@@ -10139,7 +10139,7 @@
           "size": 15872,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 940,
+          "converted_text_chars": 939,
           "converted_non_space_chars": 747,
           "formula_hint_count": 6
         },
@@ -10164,7 +10164,7 @@
           "size": 15872,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 924,
+          "converted_text_chars": 923,
           "converted_non_space_chars": 723,
           "formula_hint_count": 6
         },
@@ -10189,7 +10189,7 @@
           "size": 14336,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 545,
+          "converted_text_chars": 544,
           "converted_non_space_chars": 433,
           "table_row_count": 3
         },
@@ -10214,7 +10214,7 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 684,
+          "converted_text_chars": 683,
           "converted_non_space_chars": 545,
           "table_row_count": 3
         },
@@ -10239,7 +10239,7 @@
           "size": 17408,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1764,
+          "converted_text_chars": 1763,
           "converted_non_space_chars": 1293,
           "table_row_count": 22
         },
@@ -10264,7 +10264,7 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 684,
+          "converted_text_chars": 683,
           "converted_non_space_chars": 523,
           "formula_hint_count": 6
         },
@@ -10289,7 +10289,7 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 923,
+          "converted_text_chars": 922,
           "converted_non_space_chars": 650,
           "table_row_count": 12
         },
@@ -10314,7 +10314,7 @@
           "size": 15872,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 990,
+          "converted_text_chars": 989,
           "converted_non_space_chars": 707,
           "table_row_count": 12
         },
@@ -10339,7 +10339,7 @@
           "size": 17920,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2129,
+          "converted_text_chars": 2128,
           "converted_non_space_chars": 1539,
           "table_row_count": 19
         },
@@ -10364,7 +10364,7 @@
           "size": 16384,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1254,
+          "converted_text_chars": 1253,
           "converted_non_space_chars": 915,
           "table_row_count": 11
         }
@@ -16805,7 +16805,7 @@
           "size": 52224,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1832,
+          "converted_text_chars": 1831,
           "converted_non_space_chars": 1507
         },
         {
@@ -16829,7 +16829,7 @@
           "size": 52736,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6384,
+          "converted_text_chars": 6383,
           "converted_non_space_chars": 4800,
           "table_row_count": 93
         },
@@ -16854,7 +16854,7 @@
           "size": 43008,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1302,
+          "converted_text_chars": 1301,
           "converted_non_space_chars": 973,
           "table_row_count": 18
         },
@@ -16879,7 +16879,7 @@
           "size": 56320,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1737,
+          "converted_text_chars": 1736,
           "converted_non_space_chars": 1394,
           "table_row_count": 11
         },
@@ -16904,7 +16904,7 @@
           "size": 12800,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 252,
+          "converted_text_chars": 251,
           "converted_non_space_chars": 200,
           "formula_hint_count": 1
         },
@@ -16929,7 +16929,7 @@
           "size": 70656,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6169,
+          "converted_text_chars": 6168,
           "converted_non_space_chars": 4817,
           "table_row_count": 30
         },
@@ -16954,7 +16954,7 @@
           "size": 51200,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3130,
+          "converted_text_chars": 3129,
           "converted_non_space_chars": 2299,
           "table_row_count": 40
         },
@@ -16979,7 +16979,7 @@
           "size": 54272,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3502,
+          "converted_text_chars": 3501,
           "converted_non_space_chars": 2916,
           "formula_block_count": 15,
           "formula_hint_count": 37
@@ -17005,7 +17005,7 @@
           "size": 44544,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2478,
+          "converted_text_chars": 2477,
           "converted_non_space_chars": 2052,
           "formula_block_count": 13,
           "formula_hint_count": 30
@@ -17031,7 +17031,7 @@
           "size": 41984,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2436,
+          "converted_text_chars": 2435,
           "converted_non_space_chars": 2013,
           "formula_block_count": 13,
           "formula_hint_count": 30
@@ -17057,7 +17057,7 @@
           "size": 48640,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 6163,
+          "converted_text_chars": 6162,
           "converted_non_space_chars": 5140,
           "formula_block_count": 18,
           "formula_hint_count": 95
@@ -17083,7 +17083,7 @@
           "size": 44032,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4388,
+          "converted_text_chars": 4387,
           "converted_non_space_chars": 3570,
           "table_row_count": 5,
           "formula_block_count": 19,
@@ -17110,7 +17110,7 @@
           "size": 55808,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2866,
+          "converted_text_chars": 2865,
           "converted_non_space_chars": 2347,
           "formula_block_count": 6,
           "formula_hint_count": 18
@@ -17136,7 +17136,7 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1365,
+          "converted_text_chars": 1364,
           "converted_non_space_chars": 1110,
           "formula_block_count": 6,
           "formula_hint_count": 14
@@ -17162,7 +17162,7 @@
           "size": 44544,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2315,
+          "converted_text_chars": 2314,
           "converted_non_space_chars": 1785,
           "table_row_count": 28
         },
@@ -17187,7 +17187,7 @@
           "size": 52224,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 8492,
+          "converted_text_chars": 8491,
           "converted_non_space_chars": 7045,
           "formula_block_count": 33,
           "formula_hint_count": 116
@@ -17213,7 +17213,7 @@
           "size": 46592,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 7040,
+          "converted_text_chars": 7039,
           "converted_non_space_chars": 5845,
           "formula_block_count": 31,
           "formula_hint_count": 109
@@ -17239,7 +17239,7 @@
           "size": 16896,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4029,
+          "converted_text_chars": 4028,
           "converted_non_space_chars": 3346,
           "formula_block_count": 14,
           "formula_hint_count": 51
@@ -17265,7 +17265,7 @@
           "size": 61952,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 3978,
+          "converted_text_chars": 3977,
           "converted_non_space_chars": 3237,
           "table_row_count": 26,
           "formula_hint_count": 16
@@ -17283,7 +17283,7 @@
           "text_path": "ko/rules/파생상품시장-업무규정-시행세칙/attachments/별표18-순위험증거금액-산출기준개정-2009-10-26-2011-10-20-2011-11-17-2013-7-8-2015-7-3-2016-3-8-2016-3-21-2016-6-20-2019-10-14-2025-5-29-개정.md",
           "content_hash": "b45218cf3d32ddedcf443ad91c007e9077c8fdf53f1feb95519ee5070ef4202d",
           "raw_file_hash": "b45218cf3d32ddedcf443ad91c007e9077c8fdf53f1feb95519ee5070ef4202d",
-          "converted_text_hash": "124b5c12a9ccc3c8fc15e4379230a8cbbd319f9ec6985b54acd27a2dd7463e78",
+          "converted_text_hash": "78ceeef703c04614317d34a8c8c88d87c4e882d4d11b23ae3ffab723704240de",
           "converter_version": "2",
           "asset_inspection_version": "1",
           "preservation_status": "preserved",
@@ -17291,7 +17291,7 @@
           "size": 57344,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 12658,
+          "converted_text_chars": 12657,
           "converted_non_space_chars": 10110,
           "table_row_count": 39,
           "formula_block_count": 7,
@@ -17318,7 +17318,7 @@
           "size": 49664,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 8519,
+          "converted_text_chars": 8518,
           "converted_non_space_chars": 6771,
           "table_row_count": 29,
           "formula_hint_count": 8
@@ -17344,7 +17344,7 @@
           "size": 50176,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1591,
+          "converted_text_chars": 1590,
           "converted_non_space_chars": 1315,
           "table_row_count": 14,
           "formula_hint_count": 6
@@ -17370,7 +17370,7 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 656,
+          "converted_text_chars": 655,
           "converted_non_space_chars": 511,
           "table_row_count": 6
         },
@@ -17395,7 +17395,7 @@
           "size": 17408,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1689,
+          "converted_text_chars": 1688,
           "converted_non_space_chars": 1296,
           "table_row_count": 5,
           "formula_hint_count": 2
@@ -17421,7 +17421,7 @@
           "size": 43008,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1118,
+          "converted_text_chars": 1117,
           "converted_non_space_chars": 880,
           "table_row_count": 2
         },
@@ -17446,7 +17446,7 @@
           "size": 15872,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 992,
+          "converted_text_chars": 991,
           "converted_non_space_chars": 803
         },
         {
@@ -17470,7 +17470,7 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 966,
+          "converted_text_chars": 965,
           "converted_non_space_chars": 689,
           "table_row_count": 7
         },
@@ -17495,7 +17495,7 @@
           "size": 54272,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1965,
+          "converted_text_chars": 1964,
           "converted_non_space_chars": 1564,
           "table_row_count": 4
         },
@@ -17520,7 +17520,7 @@
           "size": 14336,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 534,
+          "converted_text_chars": 533,
           "converted_non_space_chars": 438,
           "table_row_count": 2,
           "formula_hint_count": 6
@@ -17546,7 +17546,7 @@
           "size": 48640,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2622,
+          "converted_text_chars": 2621,
           "converted_non_space_chars": 2067,
           "table_row_count": 32
         },
@@ -17571,7 +17571,7 @@
           "size": 51712,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2515,
+          "converted_text_chars": 2514,
           "converted_non_space_chars": 1962,
           "table_row_count": 24,
           "formula_hint_count": 12
@@ -17597,7 +17597,7 @@
           "size": 55296,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2453,
+          "converted_text_chars": 2452,
           "converted_non_space_chars": 1969,
           "table_row_count": 19
         },
@@ -17622,7 +17622,7 @@
           "size": 48128,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1562,
+          "converted_text_chars": 1561,
           "converted_non_space_chars": 1241,
           "formula_block_count": 2,
           "formula_hint_count": 4
@@ -17648,7 +17648,7 @@
           "size": 48128,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1881,
+          "converted_text_chars": 1880,
           "converted_non_space_chars": 1465,
           "table_row_count": 9,
           "formula_hint_count": 12
@@ -17674,7 +17674,7 @@
           "size": 15872,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1293,
+          "converted_text_chars": 1292,
           "converted_non_space_chars": 891,
           "table_row_count": 13
         },
@@ -17699,7 +17699,7 @@
           "size": 16384,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1219,
+          "converted_text_chars": 1218,
           "converted_non_space_chars": 874,
           "table_row_count": 14
         },
@@ -17724,7 +17724,7 @@
           "size": 16896,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1688,
+          "converted_text_chars": 1687,
           "converted_non_space_chars": 1232,
           "table_row_count": 15
         },
@@ -17749,7 +17749,7 @@
           "size": 17920,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2243,
+          "converted_text_chars": 2242,
           "converted_non_space_chars": 1653,
           "table_row_count": 15
         },
@@ -17774,7 +17774,7 @@
           "size": 17920,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2440,
+          "converted_text_chars": 2439,
           "converted_non_space_chars": 1767,
           "table_row_count": 22
         },
@@ -17799,7 +17799,7 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2576,
+          "converted_text_chars": 2575,
           "converted_non_space_chars": 1682,
           "table_row_count": 22
         },
@@ -17824,7 +17824,7 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 910,
+          "converted_text_chars": 909,
           "converted_non_space_chars": 648,
           "table_row_count": 8
         },
@@ -17849,7 +17849,7 @@
           "size": 13824,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 780,
+          "converted_text_chars": 779,
           "converted_non_space_chars": 543,
           "table_row_count": 8
         },
@@ -17874,7 +17874,7 @@
           "size": 18432,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 4469,
+          "converted_text_chars": 4468,
           "converted_non_space_chars": 3464,
           "table_row_count": 30
         },
@@ -17899,7 +17899,7 @@
           "size": 16896,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 2732,
+          "converted_text_chars": 2731,
           "converted_non_space_chars": 2119,
           "table_row_count": 13
         },
@@ -17924,7 +17924,7 @@
           "size": 48640,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1560,
+          "converted_text_chars": 1559,
           "converted_non_space_chars": 1211,
           "table_row_count": 10
         },
@@ -17949,7 +17949,7 @@
           "size": 14848,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 593,
+          "converted_text_chars": 592,
           "converted_non_space_chars": 421,
           "table_row_count": 8
         },
@@ -17974,7 +17974,7 @@
           "size": 16384,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1623,
+          "converted_text_chars": 1622,
           "converted_non_space_chars": 1208,
           "table_row_count": 11
         },
@@ -17999,7 +17999,7 @@
           "size": 15360,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1374,
+          "converted_text_chars": 1373,
           "converted_non_space_chars": 988,
           "table_row_count": 17
         },
@@ -18024,7 +18024,7 @@
           "size": 17920,
           "quality_status": "ok",
           "quality_score": 100,
-          "converted_text_chars": 1916,
+          "converted_text_chars": 1915,
           "converted_non_space_chars": 1397,
           "table_row_count": 12
         }
@@ -26029,7 +26029,7 @@
       "text_path": "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별표-1-장외파생공동기금총적립액-산출방법개정-2017-3-17-2017-12-18-2021-6-3-2024-9-262025-10-23.md",
       "content_hash": "034c278bed442b35ee8df23f20eb21ac60cdae2808e6e44b488fb8cf0c8588dd",
       "raw_file_hash": "034c278bed442b35ee8df23f20eb21ac60cdae2808e6e44b488fb8cf0c8588dd",
-      "converted_text_hash": "7b39de575fd34cb63513f4c6863d2fb8b2cdecba6a78a314d13066cee4ae8b47",
+      "converted_text_hash": "e8f915ccc72e096c674eeedae0b4f52ba09a48017278628a58595ecc30c903bf",
       "converter_version": "2",
       "asset_inspection_version": "1",
       "preservation_status": "preserved",
@@ -26037,7 +26037,7 @@
       "size": 53248,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 12145,
+      "converted_text_chars": 12144,
       "converted_non_space_chars": 9973,
       "table_row_count": 13,
       "formula_block_count": 62,
@@ -26064,7 +26064,7 @@
       "size": 109056,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2906,
+      "converted_text_chars": 2905,
       "converted_non_space_chars": 2280,
       "table_row_count": 13
     },
@@ -26081,7 +26081,7 @@
       "text_path": "ko/rules/장외파생상품-청산업무규정-시행세칙/attachments/별표-2-순현재가치의-평가개정-2016-12-16-2021-1-22-2023-06-262025-10-23.md",
       "content_hash": "5b610ef53d70aadcfde54571141d984dc13abede7144f2d64c8dff385006de5d",
       "raw_file_hash": "5b610ef53d70aadcfde54571141d984dc13abede7144f2d64c8dff385006de5d",
-      "converted_text_hash": "769f1f97a770eaee9f9a4f434b2d806a1fac4fb3ed94f1c3ce0f3867fa50aa0b",
+      "converted_text_hash": "8bad2336f69620348c9d0b48ed9934378223798a2a8d5528f5833dcd9cddd4d0",
       "converter_version": "2",
       "asset_inspection_version": "1",
       "preservation_status": "preserved",
@@ -26089,7 +26089,7 @@
       "size": 82944,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 62829,
+      "converted_text_chars": 62828,
       "converted_non_space_chars": 52011,
       "table_row_count": 4,
       "formula_block_count": 285,
@@ -26116,7 +26116,7 @@
       "size": 55808,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 11018,
+      "converted_text_chars": 11017,
       "converted_non_space_chars": 7825,
       "table_row_count": 62,
       "formula_block_count": 10,
@@ -26143,7 +26143,7 @@
       "size": 48128,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 8880,
+      "converted_text_chars": 8879,
       "converted_non_space_chars": 7333,
       "table_row_count": 1,
       "formula_block_count": 44,
@@ -26170,7 +26170,7 @@
       "size": 13312,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1423,
+      "converted_text_chars": 1422,
       "converted_non_space_chars": 1171,
       "formula_block_count": 7,
       "formula_hint_count": 18
@@ -26196,7 +26196,7 @@
       "size": 50688,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2059,
+      "converted_text_chars": 2058,
       "converted_non_space_chars": 1697,
       "table_row_count": 1,
       "formula_block_count": 7,
@@ -26223,7 +26223,7 @@
       "size": 44032,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3608,
+      "converted_text_chars": 3607,
       "converted_non_space_chars": 2848
     },
     {
@@ -26247,7 +26247,7 @@
       "size": 43520,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1801,
+      "converted_text_chars": 1800,
       "converted_non_space_chars": 1351,
       "table_row_count": 3
     },
@@ -26272,7 +26272,7 @@
       "size": 17408,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2117,
+      "converted_text_chars": 2116,
       "converted_non_space_chars": 1552,
       "table_row_count": 17,
       "formula_hint_count": 6
@@ -26298,7 +26298,7 @@
       "size": 15872,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 940,
+      "converted_text_chars": 939,
       "converted_non_space_chars": 747,
       "formula_hint_count": 6
     },
@@ -26323,7 +26323,7 @@
       "size": 15872,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 924,
+      "converted_text_chars": 923,
       "converted_non_space_chars": 723,
       "formula_hint_count": 6
     },
@@ -26348,7 +26348,7 @@
       "size": 14336,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 545,
+      "converted_text_chars": 544,
       "converted_non_space_chars": 433,
       "table_row_count": 3
     },
@@ -26373,7 +26373,7 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 684,
+      "converted_text_chars": 683,
       "converted_non_space_chars": 545,
       "table_row_count": 3
     },
@@ -26398,7 +26398,7 @@
       "size": 17408,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1764,
+      "converted_text_chars": 1763,
       "converted_non_space_chars": 1293,
       "table_row_count": 22
     },
@@ -26423,7 +26423,7 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 684,
+      "converted_text_chars": 683,
       "converted_non_space_chars": 523,
       "formula_hint_count": 6
     },
@@ -26448,7 +26448,7 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 923,
+      "converted_text_chars": 922,
       "converted_non_space_chars": 650,
       "table_row_count": 12
     },
@@ -26473,7 +26473,7 @@
       "size": 15872,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 990,
+      "converted_text_chars": 989,
       "converted_non_space_chars": 707,
       "table_row_count": 12
     },
@@ -26498,7 +26498,7 @@
       "size": 17920,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2129,
+      "converted_text_chars": 2128,
       "converted_non_space_chars": 1539,
       "table_row_count": 19
     },
@@ -26523,7 +26523,7 @@
       "size": 16384,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1254,
+      "converted_text_chars": 1253,
       "converted_non_space_chars": 915,
       "table_row_count": 11
     },
@@ -32043,7 +32043,7 @@
       "size": 52224,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1832,
+      "converted_text_chars": 1831,
       "converted_non_space_chars": 1507
     },
     {
@@ -32067,7 +32067,7 @@
       "size": 52736,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6384,
+      "converted_text_chars": 6383,
       "converted_non_space_chars": 4800,
       "table_row_count": 93
     },
@@ -32092,7 +32092,7 @@
       "size": 43008,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1302,
+      "converted_text_chars": 1301,
       "converted_non_space_chars": 973,
       "table_row_count": 18
     },
@@ -32117,7 +32117,7 @@
       "size": 56320,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1737,
+      "converted_text_chars": 1736,
       "converted_non_space_chars": 1394,
       "table_row_count": 11
     },
@@ -32142,7 +32142,7 @@
       "size": 12800,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 252,
+      "converted_text_chars": 251,
       "converted_non_space_chars": 200,
       "formula_hint_count": 1
     },
@@ -32167,7 +32167,7 @@
       "size": 70656,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6169,
+      "converted_text_chars": 6168,
       "converted_non_space_chars": 4817,
       "table_row_count": 30
     },
@@ -32192,7 +32192,7 @@
       "size": 51200,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3130,
+      "converted_text_chars": 3129,
       "converted_non_space_chars": 2299,
       "table_row_count": 40
     },
@@ -32217,7 +32217,7 @@
       "size": 54272,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3502,
+      "converted_text_chars": 3501,
       "converted_non_space_chars": 2916,
       "formula_block_count": 15,
       "formula_hint_count": 37
@@ -32243,7 +32243,7 @@
       "size": 44544,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2478,
+      "converted_text_chars": 2477,
       "converted_non_space_chars": 2052,
       "formula_block_count": 13,
       "formula_hint_count": 30
@@ -32269,7 +32269,7 @@
       "size": 41984,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2436,
+      "converted_text_chars": 2435,
       "converted_non_space_chars": 2013,
       "formula_block_count": 13,
       "formula_hint_count": 30
@@ -32295,7 +32295,7 @@
       "size": 48640,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 6163,
+      "converted_text_chars": 6162,
       "converted_non_space_chars": 5140,
       "formula_block_count": 18,
       "formula_hint_count": 95
@@ -32321,7 +32321,7 @@
       "size": 44032,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4388,
+      "converted_text_chars": 4387,
       "converted_non_space_chars": 3570,
       "table_row_count": 5,
       "formula_block_count": 19,
@@ -32348,7 +32348,7 @@
       "size": 55808,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2866,
+      "converted_text_chars": 2865,
       "converted_non_space_chars": 2347,
       "formula_block_count": 6,
       "formula_hint_count": 18
@@ -32374,7 +32374,7 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1365,
+      "converted_text_chars": 1364,
       "converted_non_space_chars": 1110,
       "formula_block_count": 6,
       "formula_hint_count": 14
@@ -32400,7 +32400,7 @@
       "size": 44544,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2315,
+      "converted_text_chars": 2314,
       "converted_non_space_chars": 1785,
       "table_row_count": 28
     },
@@ -32425,7 +32425,7 @@
       "size": 52224,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 8492,
+      "converted_text_chars": 8491,
       "converted_non_space_chars": 7045,
       "formula_block_count": 33,
       "formula_hint_count": 116
@@ -32451,7 +32451,7 @@
       "size": 46592,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 7040,
+      "converted_text_chars": 7039,
       "converted_non_space_chars": 5845,
       "formula_block_count": 31,
       "formula_hint_count": 109
@@ -32477,7 +32477,7 @@
       "size": 16896,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4029,
+      "converted_text_chars": 4028,
       "converted_non_space_chars": 3346,
       "formula_block_count": 14,
       "formula_hint_count": 51
@@ -32503,7 +32503,7 @@
       "size": 61952,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 3978,
+      "converted_text_chars": 3977,
       "converted_non_space_chars": 3237,
       "table_row_count": 26,
       "formula_hint_count": 16
@@ -32521,7 +32521,7 @@
       "text_path": "ko/rules/파생상품시장-업무규정-시행세칙/attachments/별표18-순위험증거금액-산출기준개정-2009-10-26-2011-10-20-2011-11-17-2013-7-8-2015-7-3-2016-3-8-2016-3-21-2016-6-20-2019-10-14-2025-5-29-개정.md",
       "content_hash": "b45218cf3d32ddedcf443ad91c007e9077c8fdf53f1feb95519ee5070ef4202d",
       "raw_file_hash": "b45218cf3d32ddedcf443ad91c007e9077c8fdf53f1feb95519ee5070ef4202d",
-      "converted_text_hash": "124b5c12a9ccc3c8fc15e4379230a8cbbd319f9ec6985b54acd27a2dd7463e78",
+      "converted_text_hash": "78ceeef703c04614317d34a8c8c88d87c4e882d4d11b23ae3ffab723704240de",
       "converter_version": "2",
       "asset_inspection_version": "1",
       "preservation_status": "preserved",
@@ -32529,7 +32529,7 @@
       "size": 57344,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 12658,
+      "converted_text_chars": 12657,
       "converted_non_space_chars": 10110,
       "table_row_count": 39,
       "formula_block_count": 7,
@@ -32556,7 +32556,7 @@
       "size": 49664,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 8519,
+      "converted_text_chars": 8518,
       "converted_non_space_chars": 6771,
       "table_row_count": 29,
       "formula_hint_count": 8
@@ -32582,7 +32582,7 @@
       "size": 50176,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1591,
+      "converted_text_chars": 1590,
       "converted_non_space_chars": 1315,
       "table_row_count": 14,
       "formula_hint_count": 6
@@ -32608,7 +32608,7 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 656,
+      "converted_text_chars": 655,
       "converted_non_space_chars": 511,
       "table_row_count": 6
     },
@@ -32633,7 +32633,7 @@
       "size": 17408,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1689,
+      "converted_text_chars": 1688,
       "converted_non_space_chars": 1296,
       "table_row_count": 5,
       "formula_hint_count": 2
@@ -32659,7 +32659,7 @@
       "size": 43008,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1118,
+      "converted_text_chars": 1117,
       "converted_non_space_chars": 880,
       "table_row_count": 2
     },
@@ -32684,7 +32684,7 @@
       "size": 15872,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 992,
+      "converted_text_chars": 991,
       "converted_non_space_chars": 803
     },
     {
@@ -32708,7 +32708,7 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 966,
+      "converted_text_chars": 965,
       "converted_non_space_chars": 689,
       "table_row_count": 7
     },
@@ -32733,7 +32733,7 @@
       "size": 54272,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1965,
+      "converted_text_chars": 1964,
       "converted_non_space_chars": 1564,
       "table_row_count": 4
     },
@@ -32758,7 +32758,7 @@
       "size": 14336,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 534,
+      "converted_text_chars": 533,
       "converted_non_space_chars": 438,
       "table_row_count": 2,
       "formula_hint_count": 6
@@ -32784,7 +32784,7 @@
       "size": 48640,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2622,
+      "converted_text_chars": 2621,
       "converted_non_space_chars": 2067,
       "table_row_count": 32
     },
@@ -32809,7 +32809,7 @@
       "size": 51712,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2515,
+      "converted_text_chars": 2514,
       "converted_non_space_chars": 1962,
       "table_row_count": 24,
       "formula_hint_count": 12
@@ -32835,7 +32835,7 @@
       "size": 55296,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2453,
+      "converted_text_chars": 2452,
       "converted_non_space_chars": 1969,
       "table_row_count": 19
     },
@@ -32860,7 +32860,7 @@
       "size": 48128,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1562,
+      "converted_text_chars": 1561,
       "converted_non_space_chars": 1241,
       "formula_block_count": 2,
       "formula_hint_count": 4
@@ -32886,7 +32886,7 @@
       "size": 48128,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1881,
+      "converted_text_chars": 1880,
       "converted_non_space_chars": 1465,
       "table_row_count": 9,
       "formula_hint_count": 12
@@ -32912,7 +32912,7 @@
       "size": 15872,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1293,
+      "converted_text_chars": 1292,
       "converted_non_space_chars": 891,
       "table_row_count": 13
     },
@@ -32937,7 +32937,7 @@
       "size": 16384,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1219,
+      "converted_text_chars": 1218,
       "converted_non_space_chars": 874,
       "table_row_count": 14
     },
@@ -32962,7 +32962,7 @@
       "size": 16896,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1688,
+      "converted_text_chars": 1687,
       "converted_non_space_chars": 1232,
       "table_row_count": 15
     },
@@ -32987,7 +32987,7 @@
       "size": 17920,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2243,
+      "converted_text_chars": 2242,
       "converted_non_space_chars": 1653,
       "table_row_count": 15
     },
@@ -33012,7 +33012,7 @@
       "size": 17920,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2440,
+      "converted_text_chars": 2439,
       "converted_non_space_chars": 1767,
       "table_row_count": 22
     },
@@ -33037,7 +33037,7 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2576,
+      "converted_text_chars": 2575,
       "converted_non_space_chars": 1682,
       "table_row_count": 22
     },
@@ -33062,7 +33062,7 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 910,
+      "converted_text_chars": 909,
       "converted_non_space_chars": 648,
       "table_row_count": 8
     },
@@ -33087,7 +33087,7 @@
       "size": 13824,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 780,
+      "converted_text_chars": 779,
       "converted_non_space_chars": 543,
       "table_row_count": 8
     },
@@ -33112,7 +33112,7 @@
       "size": 18432,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 4469,
+      "converted_text_chars": 4468,
       "converted_non_space_chars": 3464,
       "table_row_count": 30
     },
@@ -33137,7 +33137,7 @@
       "size": 16896,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 2732,
+      "converted_text_chars": 2731,
       "converted_non_space_chars": 2119,
       "table_row_count": 13
     },
@@ -33162,7 +33162,7 @@
       "size": 48640,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1560,
+      "converted_text_chars": 1559,
       "converted_non_space_chars": 1211,
       "table_row_count": 10
     },
@@ -33187,7 +33187,7 @@
       "size": 14848,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 593,
+      "converted_text_chars": 592,
       "converted_non_space_chars": 421,
       "table_row_count": 8
     },
@@ -33212,7 +33212,7 @@
       "size": 16384,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1623,
+      "converted_text_chars": 1622,
       "converted_non_space_chars": 1208,
       "table_row_count": 11
     },
@@ -33237,7 +33237,7 @@
       "size": 15360,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1374,
+      "converted_text_chars": 1373,
       "converted_non_space_chars": 988,
       "table_row_count": 17
     },
@@ -33262,7 +33262,7 @@
       "size": 17920,
       "quality_status": "ok",
       "quality_score": 100,
-      "converted_text_chars": 1916,
+      "converted_text_chars": 1915,
       "converted_non_space_chars": 1397,
       "table_row_count": 12
     },
@@ -33492,11 +33492,11 @@
       "table_row_count": 7
     }
   ],
-  "index_source_hash": "59f22662dd59b4a1791c23bbdf4861a94dc4422c795a5a54be9b34336f26973e",
+  "index_source_hash": "97ffb13c1ec9625b4269301e2bcd3f900e610813f3977d0cd68532383c4560ae",
   "release_profile": {
     "version": 1,
     "default": "strict",
     "allowed_failure_ids": []
   },
-  "release_hash": "08cac8d34b17bdf42d7a15b5806532332202ed94d70887e0b15a6a37af8fd33c"
+  "release_hash": "cb9c80f4717b63afd9cde0eecea8064a1dab789d622f8158a110513bf9d4b7af"
 }
