@@ -9,7 +9,7 @@ import sys
 import tempfile
 
 from .collector import Client, guess_mime_type
-from .convert import convert_attachment
+from .converters.core import convert_attachment
 from .assets import preserve_hwp_attachment_assets, preserve_inline_document_assets
 from .contracts import (
     CONVERTER_VERSION,

@@ -134,7 +134,7 @@ class ReconvertMergeBlockerTests(unittest.TestCase):
             self.assertEqual(snapshot_tree(root), before)
             self.assertEqual(result.documents, 1)
             self.assertEqual(result.attachments, 2)
-            self.assertEqual((result.converted, result.skipped, result.failed), (1, 1, 0))
+            self.assertEqual((result.converted, result.skipped, result.blocking_failed), (1, 1, 0))
             self.assertEqual(result.metadata_updates, 1)
             self.assertFalse((root.parent / ".krx-rule-runs").exists())
 
@@ -169,7 +169,7 @@ class ReconvertMergeBlockerTests(unittest.TestCase):
                 result = reconvert_data(root, dry_run=True)
 
             self.assertEqual(snapshot_tree(root), before)
-            self.assertEqual((result.converted, result.skipped, result.failed), (1, 0, 0))
+            self.assertEqual((result.converted, result.skipped, result.blocking_failed), (1, 0, 0))
             self.assertFalse((root.parent / ".krx-rule-runs").exists())
 
     def test_reconvert_dry_run_reports_rawless_pending_attachment_as_required(self) -> None:
@@ -187,7 +187,7 @@ class ReconvertMergeBlockerTests(unittest.TestCase):
 
             self.assertEqual(root.stat().st_ino, active_inode)
             self.assertEqual(snapshot_tree(root), before)
-            self.assertEqual((result.required_failed, result.failed, result.skipped), (1, 1, 0))
+            self.assertEqual((result.required_failed, result.blocking_failed, result.skipped), (1, 1, 0))
             self.assertFalse((root.parent / ".krx-rule-runs").exists())
 
     def test_reconvert_conversion_failure_does_not_publish_staging_generation(self) -> None:
@@ -232,7 +232,7 @@ class ReconvertMergeBlockerTests(unittest.TestCase):
             self.assertEqual(root.stat().st_ino, active_inode)
             self.assertEqual(snapshot_tree(root), before)
             result = getattr(caught.exception, "reconvert_result")
-            self.assertEqual((result.required_failed, result.failed), (1, 1))
+            self.assertEqual((result.required_failed, result.blocking_failed), (1, 1))
             self.assertEqual(result.failure_events[0]["attachment_id"], "fresh-failure")
             self.assertEqual(result.failure_events[0]["outcome"], "failed")
             run_report = json.loads(
@@ -279,7 +279,7 @@ class ReconvertMergeBlockerTests(unittest.TestCase):
             self.assertEqual(root.stat().st_ino, active_inode)
             self.assertEqual(snapshot_tree(root), before)
             result = getattr(caught.exception, "reconvert_result")
-            self.assertEqual((result.stale_retained, result.failed, result.converted), (1, 1, 0))
+            self.assertEqual((result.stale_retained, result.blocking_failed, result.converted), (1, 1, 0))
             self.assertEqual(result.failure_events[0]["outcome"], "stale")
 
     def test_reconvert_allowlisted_failure_is_untouched_unless_forced(self) -> None:
@@ -314,7 +314,7 @@ class ReconvertMergeBlockerTests(unittest.TestCase):
                 result = reconvert_data(root)
             loaded = load_documents(root)[0].attachments[0]
             self.assertEqual(result.allowed_failed, 1)
-            self.assertEqual(result.failed, 0)
+            self.assertEqual(result.blocking_failed, 0)
             self.assertEqual(loaded.error, "reviewed historical failure")
             self.assertEqual(snapshot_tree(root), before)
 
@@ -368,7 +368,7 @@ class ReconvertMergeBlockerTests(unittest.TestCase):
             self.assertEqual(root.stat().st_ino, active_inode)
             self.assertEqual(snapshot_tree(root), before)
             result = getattr(caught.exception, "reconvert_result")
-            self.assertEqual((result.inspection_failed, result.failed), (1, 1))
+            self.assertEqual((result.inspection_failed, result.blocking_failed), (1, 1))
             self.assertEqual(result.failure_events[0]["outcome"], "inspection_failed")
 
     def test_reconvert_release_quality_error_does_not_publish(self) -> None:
@@ -418,7 +418,7 @@ class ReconvertMergeBlockerTests(unittest.TestCase):
             self.assertEqual(root.stat().st_ino, active_inode)
             self.assertEqual(snapshot_tree(root), before)
             result = getattr(caught.exception, "reconvert_result")
-            self.assertEqual((result.quality_failed, result.failed), (1, 1))
+            self.assertEqual((result.quality_failed, result.blocking_failed), (1, 1))
             self.assertEqual(result.failure_events[0]["outcome"], "quality_failed")
 
 

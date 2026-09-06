@@ -13,14 +13,10 @@ import zipfile
 from unittest import mock
 from urllib import error as urlerror, request as urlrequest
 
-from krx_rule_markdown.convert import (
-    append_hwp_equations,
-    convert_attachment,
-    convert_bytes,
-    hwp_equation_to_latex,
-    infer_extension,
-    parse_eqedit_payload,
-)
+from krx_rule_markdown.converters.core import convert_attachment, convert_bytes
+from krx_rule_markdown.converters.base import infer_extension
+from krx_rule_markdown.converters.equation_latex import append_hwp_equations, hwp_equation_to_latex
+from krx_rule_markdown.converters.hwp import parse_eqedit_payload
 from krx_rule_markdown.collector import (
     SameHostRedirectHandler,
     extract_state_history_id,

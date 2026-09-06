@@ -72,6 +72,8 @@ krx-rule-markdown reconvert --data-dir data --document-id 210217137
 
 `sync`, 실제 변경을 수행하는 `reconvert`·`clean`, `quality --update-metadata`는 활성 corpus를 직접 고치지 않습니다. 같은 파일시스템의 sibling staging generation을 만든 뒤 release 검증을 통과한 경우에만 Linux `renameat2(RENAME_EXCHANGE)`로 전체 디렉터리를 교체합니다. 동시에 두 writer를 실행하면 두 번째 작업은 즉시 실패합니다. `sync` 중 일부 refresh가 실패하면 기존 정상 raw/text를 유지하고 실행 리포트와 deterministic `stale_due_to_refresh_failure` 진단을 남길 수 있습니다. `reconvert` 중 새 실패가 발생하면 staging generation 전체를 폐기하므로 active release에는 새 stale 진단이 기록되지 않고, 상세 실패 정보만 release 밖 실행 리포트에 남습니다.
 
+`reconvert`의 `blocking_failed`는 required/stale/inspection/quality 실패의 합계이며 allowlist 항목은 제외합니다.
+
 `--dry-run`은 corpus, manifest, 품질 리포트와 실행 리포트를 변경하지 않습니다. 정기 release에서는 `validate --release --quality`를 사용하고, 원본은 보존되었지만 의도적으로 검색에서 제외할 실패 항목만 검토된 ID를 `--allow-failure-id`로 명시하세요.
 
 `assets`는 HWP의 실제 JPEG/BMP/PNG/GIF BinData만 검사해 bundle의 `assets/`에 보존합니다. `--download-inline`을 주면 본문의 KRX `/dataFile/law/img/` URL도 같은 host·redirect, MIME/signature, byte·pixel 제한 아래 다운로드합니다. 본문에는 로컬 경로 대신 `krx-asset:<id>`만 남고 실제 경로와 bytes hash는 frontmatter metadata에만 기록됩니다. `pdf-comparisons`는 코드에 이름이 고정된 현재 7개 PDF만 분류하며, 좌표 grid와 header가 모두 확인된 template만 `--apply`로 복원합니다. 신뢰도 기준을 통과하지 못한 PDF는 원문을 추측해 재배열하지 않고 degraded로 남깁니다.

@@ -14,7 +14,7 @@ from .contracts import (
     sha256_file,
 )
 from .assets import preserve_hwp_attachment_assets
-from .convert import convert_attachment
+from .converters.core import convert_attachment
 from .converters.cache import SourceInspectionCache
 from .converters.core import convert_bytes_outcome
 from .converters.base import normalize_converted_text
@@ -32,9 +32,6 @@ class ReconvertResult:
     documents: int = 0
     attachments: int = 0
     converted: int = 0
-    # Backward-compatible total of blocking failures; allowlisted failures are
-    # tracked separately and are not included.
-    failed: int = 0
     skipped: int = 0
     metadata_updates: int = 0
     stale_retained: int = 0
@@ -45,13 +42,12 @@ class ReconvertResult:
     failure_events: list[dict[str, str]] = field(default_factory=list, repr=False)
 
     @property
+    def blocking_failed(self) -> int:
+        return self.required_failed + self.stale_retained + self.inspection_failed + self.quality_failed
+
+    @property
     def has_blocking_failures(self) -> bool:
-        return bool(
-            self.required_failed
-            or self.stale_retained
-            or self.inspection_failed
-            or self.quality_failed
-        )
+        return self.blocking_failed > 0
 
 
 def reconvert_data(
@@ -82,7 +78,7 @@ def reconvert_data(
         if result.has_blocking_failures:
             raise result_error(
                 result,
-                f"reconvert aborted after {result.failed} blocking failure(s)",
+                f"reconvert aborted after {result.blocking_failed} blocking failure(s)",
             )
         quality_report = audit_data_quality(
             staging,
@@ -92,7 +88,6 @@ def reconvert_data(
         quality_errors = report_failures(quality_report, "error")
         if quality_errors:
             result.quality_failed += len(quality_errors)
-            result.failed += len(quality_errors)
             for issue in quality_report.get("issues", []):
                 if issue.get("severity") != "error":
                     continue
@@ -422,7 +417,6 @@ def record_failure(
     *,
     dry_run: bool,
 ) -> None:
-    result.failed += 1
     outcome = "failed"
     if category == "stale":
         result.stale_retained += 1
