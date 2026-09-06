@@ -5802,6 +5802,21 @@ Review items
 
 Focal points for review
 
+Business
+situations
+
+Financial
+conditions
+
+Technology
+
+Growth
+potential
+
+Other
+management
+environments
+
  Industrial growth potential and trend such as industrial growth cycle, market
 size, competitive situation, entry barrier, etc.
  Regulatory environment of industries at home and abroad, and effects of the
@@ -5831,21 +5846,6 @@ etc., if any, may have on corporate management
  Impact that management’s expertise such as level of experience and capital
 participation by management may have on corporate growth
 
-Business
-situations
-
-Financial
-conditions
-
-Technology
-
-Growth
-potential
-
-Other
-management
-environments
-
 (b) Companies with no realized profit
 
 Review items
@@ -5859,8 +5859,14 @@ government policy
  Size and trend of loss, and validity* of the cause of the loss
 * Losses caused by structural problems such as overall decrease in sales, or
 
+Business
+situations
+
 incurred in the process of growth for R&D, expansion of production facilities,
 etc.
+
+Financial
+conditions
 
  Possibility of expansion of transactions with main customers, and possibility
 to turn profitable through securing new customers, etc.
@@ -5879,8 +5885,15 @@ distribution, etc.)
 
 rights, etc.
 
+Growth
+potential
+
  Status of outside investors’ assessment of corporate growth potential and the
 basis for the assessment
+
+Other
+management
+environments
 
 *Including status of financing from external investors
   Possibility  of  expanding  business  by  strengthening  competitiveness  of  main
@@ -5894,19 +5907,6 @@ growth
  Whether the system for investor protection such as granting of put-back
 options is sufficient
 
-Business
-situations
-
-Financial
-conditions
-
-Growth
-potential
-
-Other
-management
-environments
-
 ※  If the Exchange deems it necessary given the business structure of the companies-with-no-profit, it
 
 may be possible to apply both the qualitative criteria for standard companies and those for companies
@@ -5917,6 +5917,20 @@ with no realized profit simultaneously.
 Review items
 
 Focal points for review
+
+Business
+situations
+
+Technology/
+Business
+feasibility
+
+Growth
+potential
+
+Other
+management
+environments
 
  Industrial growth potential and trend such as industrial growth cycle, market
 size, competitive situation, entry barrier, etc.
@@ -5952,20 +5966,6 @@ certain period after listing
 etc. may have on corporate management
  Impact that the contingent liabilities arising from the terms of major contracts
 related to business operation, etc. may have on management
-
-Business
-situations
-
-Technology/
-Business
-feasibility
-
-Growth
-potential
-
-Other
-management
-environments
 
 Notes:
 
@@ -6118,8 +6118,6 @@ Growth potential
 Other business
 environments
 
-Notes:
-
 Focal points for review
 The importance of national economic aspects of main technologies, such as
 their impact on related industries and contribution to the creation of new
@@ -6145,6 +6143,8 @@ to patents, management rights, etc.
 · Effect  of contingent liabilities on management according to the terms and
 conditions of major contracts related to business.
 
+Notes:
+
 (1)  Subparagraph  1  applies  to  corporations  that  possess  national  strategic  technology  under  the
 Special Act on Fostering of National Strategic Technology or national high-tech strategic technology
 under  the  Act  on  Special  Measures  for  Strengthening  and  Protecting  Competitiveness  of  National
@@ -6164,6 +6164,8 @@ and regulations. .
 
 (b) Bio industry(1)
 
+Focal points for review
+
 Review items
 Technology
 
@@ -6176,8 +6178,6 @@ potential
 Other
 management
 environments
-
-Focal points for review
 
 Competitive advantage of technology
  Whether it possesses the original technology to sustain and expand
@@ -6249,107 +6249,107 @@ Criteria(1)
 
 Weights
 
+-
+
 ①  Dependency on short-term borrowings
 
+0.569
+
+-
+
 ②  Ratio of operating cash flow to total assets
+
+-2.332
+
+loss
+
+1.078
 
 ③  Profit from ongoing business before tax
 
 Financial
 
-Variables
-
-④  Interest coverage ratio
-
-⑤  Impairment of capital
-
--
-
--
-
-loss
-
 less than 1
-
-30% or more
-
-⑥  Amount of sales
-
-less than KRW 5 bil.
-
-0.569
-
--2.332
-
-1.078
 
 0.426
 
+④  Interest coverage ratio
+
+Variables
+
+30% or more
+
 0.940
+
+⑤  Impairment of capital
+
+less than KRW 5 bil.
 
 0.415
 
-⑦  Turnover of total assets
+⑥  Amount of sales
 
 -
 
 -0.211
 
-⑧  Change of the largest shareholder (times)
+⑦  Turnover of total assets
 
 twice or more for three years
 
 0.282
 
-⑨  Change of the representative director (times)
+⑧  Change of the largest shareholder (times)
 
 three times or more for three years
 
 0.577
 
-⑩  Paid-in  capital  increase  through  third  party
+⑨  Change of the representative director (times)
 
-allotment (times)
+⑩  Paid-in  capital  increase  through  third  party
 
 twice or more for three years
 
 0.093
 
+allotment (times)
+
 Qualitative
+
+⑪  Issuance  of  convertible  bonds,  bonds  with
 
 Variables
 
-⑪  Issuance  of  convertible  bonds,  bonds  with
+twice or more for three years
+
+0.511
 
 warrants,  exchangeable  bonds  via  third  party
 allotment (times)
 
 twice or more for three years
 
-0.511
+0.327
 
 ⑫  Unfaithful disclosures (times)
 
-twice or more for three years
-
-0.327
-
 ⑬  Shareholding  ratio  of  the  largest  shareholder,
-
-etc.
 
 less than 25%
 
 0.751
 
-⑭  Occurrence of the causes for uncertainty about
+etc.
 
-survival  as  a  going  concern  based  on  the  audit
-report(2)
+⑭  Occurrence of the causes for uncertainty about
 
 occurrence of uncertainty
 
 0.737
+
+survival  as  a  going  concern  based  on  the  audit
+report(2)
 
 Notes:
 (1) Criteria refer to the standard value for judging whether each variable has a significant effect on the
@@ -6367,19 +6367,19 @@ Lower Limit
 
 Dependency on short-term borrowings
 
-Ratio of operating cash flow to total assets
-
-Turnover of total assets
-
 2.653
-
-0.318
-
-2.808
 
 0.000
 
+Ratio of operating cash flow to total assets
+
+0.318
+
 -0.323
+
+Turnover of total assets
+
+2.808
 
 0.000
 
@@ -6423,44 +6423,6 @@ Release Time
 
 1) Falling under the criteria
 
-for identification of
-corporate insolvency risks
-in [Annex No. 8]
-{[§52(1)1] and[§66(1)] of
-
-2. Timely Designation
-
-1) Result of review and audit
-
-on the operation of
-internal accounting
-management system
-
-{[§52(1)2(a)] and[§66(1)]
-
-2) De facto sale of stocks, etc.
-to  mandatory
-
-subject
-holding
-
-{[§52(1)2(b)] and[§66(1)] of
-
-3) Prepayment, etc. for those
-who acquired the new
-shares via third party
-allotment
-
-{[§52(1)2(c)] and[§66(1)]
-
-4) Qualified audit opinion
-due to the uncertainty of
-sustainability as a going
-concern
-
-{[§52(1)2(d)] and,
-[§66(1)] of the
-
 On  the  first  trading  day  of  May
 of the relevant year
 
@@ -6470,10 +6432,23 @@ attention  issue  pursuant  to  criteria  for
 identification of corporate insolvency risks,
 the first trading of May of the relevant year.
 
+for identification of
+corporate insolvency risks
+in [Annex No. 8]
+{[§52(1)1] and[§66(1)] of
+
+2. Timely Designation
+
+1) Result of review and audit
+
 The  day  following  the  day  on
 the  relevant  fact  was
 which
 confirmed  in  accordance  with
+
+on the operation of
+internal accounting
+management system
 
 [§6(1)2(e)(i)d)] of the Disclosure
 
@@ -6482,8 +6457,27 @@ resolution  of  the  cause  of  designation  has
 been  confirmed  by  the  audit  report  of  the
 following business year
 
+{[§52(1)2(a)] and[§66(1)]
+
+2) De facto sale of stocks, etc.
+to  mandatory
+
+holding
+
+subject
+holding
+
+The day following the expiration date of the
+relevant  mandatory
+period
+{including the period extended pursuant to
+
 The  day  following  the  date  of
 confirming the relevant fact.
+
+{[§52(1)2(b)] and[§66(1)] of
+
+[§17(2)]}.
 
 The  day  following  the  day  on
 the  relevant  fact  was
@@ -6491,19 +6485,22 @@ which
 
 confirmed by [§6(1)2(b)(vi)] and
 
-[§6(1)2(c)(v)]  of  the  Disclosure
-
-The day following the expiration date of the
-relevant  mandatory
-period
-{including the period extended pursuant to
-
-holding
-
-[§17(2)]}.
-
 The day when one (1) year has elapsed since
 the designation date
+
+3) Prepayment, etc. for those
+who acquired the new
+shares via third party
+allotment
+
+[§6(1)2(c)(v)]  of  the  Disclosure
+
+{[§52(1)2(c)] and[§66(1)]
+
+4) Qualified audit opinion
+due to the uncertainty of
+sustainability as a going
+concern
 
 The  day  following  the  day  on
 which  it  was  confirmed  by  the
@@ -6516,6 +6513,9 @@ the audit report as at the end of the first half
 year or business year arriving after the date
 of designation.
 
+{[§52(1)2(d)] and,
+[§66(1)] of the
+
 5) Cases where it is not
 
 confirmed whether the
@@ -6524,6 +6524,28 @@ change is subject to
 mandatory holding
 
 {[§52(1)2(e)] and[§66(1)]
+
+three
+
+The day following the day on which it was
+confirmed that the largest shareholder after
+
+the  change  does  not  fall  under  [§47(2)].
+
+The  day  when
+(3)
+business  days  have  elapsed
+since  the  day  following  the
+under
+disclosure
+
+date
+
+[§6(1)3(a)(i)] of the Disclosure
+
+However, if one (1) year has elapsed from
+the date  of designation, it shall be  the  day
+when one (1) year has elapsed.
 
 (1) Cases where it is not
 confirmed whether or not
@@ -6537,33 +6559,11 @@ to the former part other than
 each subparagraph of
 [§47(5)]
 
-(2) Cases where it is not
-confirmed whether or not
-the    mandatory holding
-pursuant to the proviso to
-the former part other than
-each subparagraph of
-[§47(5)] is applicable
-
-6) Violation of mandatory
-
-holding requirement by the
-changed largest shareholder
-
-{[§52(1)2(f)] of the
-
-three
-
-The  day  when
-(3)
-business  days  have  elapsed
-since  the  day  following  the
-under
-disclosure
-
 date
 
-[§6(1)3(a)(i)] of the Disclosure
+In cases where the largest shareholder after
+
+the  change  falls  under  [§47(2)],  the  day
 
 The day when three (3) weeks
 have  elapsed  after  the  day
@@ -6574,64 +6574,23 @@ submission  of  the  concerned
 agreement under the proviso to
 the former part other than each
 
-date
-
 subparagraph
 
 of
 
 [§47(5)].
 
+from
+
 deadline
 
-However,  in  cases  where  the
-Exchange  has  extended  the
-by
-submission
-the
-acknowledging
-unavoidable reasons, it shall be
-the day following the extended
-submission deadline.
-
-the
-
-The day when it was confirmed
-that
-of
-mandatory  holding  was  not
-fulfilled
-
-obligation
-
-7) Violation of appointment,
-change, dismissal, etc. of
-auditor of a KOSDAQ-
-listed foreign company
-
-{[§66(2)] of the
-
-The  day  following  the  day
-when  the  relevant  fact  was
-to
-confirmed
-
-pursuant
-
-[§20(1)9]  of  the  Disclosure
-
-The day following the day on which it was
-confirmed that the largest shareholder after
-
-the  change  does  not  fall  under  [§47(2)].
-
-However, if one (1) year has elapsed from
-the date  of designation, it shall be  the  day
-when one (1) year has elapsed.
-
-In cases where the largest shareholder after
-
-the  change  falls  under  [§47(2)],  the  day
+(2) Cases where it is not
+confirmed whether or not
+the    mandatory holding
+pursuant to the proviso to
+the former part other than
+each subparagraph of
+[§47(5)] is applicable
 
 following
 it  was
@@ -6643,7 +6602,34 @@ the  date  of
 designation, it shall be the day when one (1)
 year has elapsed.
 
+However,  in  cases  where  the
+Exchange  has  extended  the
+by
+submission
+the
+acknowledging
+unavoidable reasons, it shall be
+the day following the extended
+submission deadline.
+
+6) Violation of mandatory
+
+the
+
+obligation
+
+holding requirement by the
+changed largest shareholder
+
 from
+
+{[§52(1)2(f)] of the
+
+The day when it was confirmed
+that
+of
+mandatory  holding  was  not
+fulfilled
 
 The  day  following  the  day  when  it  was
 confirmed that the obligation of mandatory
@@ -6653,14 +6639,28 @@ year  has  elapsed
 designation, it shall be the day when one (1)
 year has elapsed
 
-from
-
 The  day  following  the  day  when  it  was
 confirmed that the cause has been resolved
 
+The  day  following  the  day
+when  the  relevant  fact  was
+to
+confirmed
+
+pursuant
+
 pursuant  to  [§20(1)9]  of  the  Disclosure
 
+7) Violation of appointment,
+change, dismissal, etc. of
+auditor of a KOSDAQ-
+listed foreign company
+
+[§20(1)9]  of  the  Disclosure
+
 Regulation after the date of designation
+
+{[§66(2)] of the
 
 8) Operating loss
 {[§52(1)2(g)] of the
@@ -6674,6 +6674,8 @@ confirmed that the cause has been resolved
 by an audit report at the end of business year
 that arrives after the date of designation
 
+that
+
 9) Capital impairment
 {[§52(1)2(h)] of the
 
@@ -6682,6 +6684,16 @@ when  the  relevant  fact  was
 confirmed  by  a  semi-annual
 review  report  (including  an
 audit report)
+
+The  day  following  the  day  when  it  was
+rate  of  capital
+the
+confirmed
+impairment is less than 50/100 by a review
+report (including an audit report) at the end
+of a half-year period or an audit report at the
+end of the business year that arrives after the
+date of designation
 
 10) Equity capital not up to
 
@@ -6695,18 +6707,6 @@ confirmed  by  a  semi-annual
 review  report  (including  an
 audit report)
 
-that
-
-The  day  following  the  day  when  it  was
-rate  of  capital
-the
-confirmed
-impairment is less than 50/100 by a review
-report (including an audit report) at the end
-of a half-year period or an audit report at the
-end of the business year that arrives after the
-date of designation
-
 The  day  following  the  day  when  it  was
 confirmed that the equity capital is KRW 1
 billion  or  more  by  a  review  report
@@ -6715,16 +6715,16 @@ half-year period or an audit report at the end
 of  the  business  year  that  arrives  after  the
 date of designation
 
-11) Auditor’s opinion not up
-to standards in half-year
-period
-{[§52(1)2(j)] of the
-
 The  day  following  the  day
 when  the  relevant  fact  was
 confirmed  by  a  semi-annual
 review  report  (including  an
 audit report)
+
+11) Auditor’s opinion not up
+to standards in half-year
+period
+{[§52(1)2(j)] of the
 
 The  day  following  the  day  when  it  was
 confirmed that the cause has been resolved
@@ -6757,27 +6757,34 @@ Designation Time
 
 Release Time
 
-1) Sales not up to standards
-
-{[§53(1)1] and[§67(1)] of the
-
-The  day  following  the  day
-when it was confirmed through
-the audit report
-
 The  day  following  the  day  when  it  was
 confirmed  through  the  audit  report  of  the
 following  business  year  that  the  sales
 amount  of  the  latest  business  year  is  sales
 
+1) Sales not up to standards
+
 criterion under [§53(1)1] or more. However,
 
+The  day  following  the  day
+when it was confirmed through
+the audit report
+
 in cases where it was confirmed that it falls
+
+{[§53(1)1] and[§67(1)] of the
 
 under  any  of  the  [§53(1)1(c))  of  the
 
 Regulation, it shall be the day following the
 date of such confirmation.
+
+2) Loss from continuing
+operation before corporate tax
+
+The  day  following  the  day
+when it was confirmed through
+the audit report
 
 The  day  following  the  day  when  it  was
 confirmed  by  the  audit  report  that  the
@@ -6785,24 +6792,9 @@ amount of equity capital is KRW 1 billion
 or more as of the end of the latest business
 year.
 
-2) Loss from continuing
-operation before corporate tax
-
 {[§53(1)2] and[§67(1)] of the
 
 3) Capital impairment
-
-{[§53(1)3] and [§67(1)1] of
-
-4) Equity capital not up to
-standards
-
-{[§53(1)4], [§67(1)1] and
-[§72(1)] of the Regulation}
-
-The  day  following  the  day
-when it was confirmed through
-the audit report
 
 The  day  following  the  day
 when it was confirmed through
@@ -6813,6 +6805,11 @@ confirmed by the audit report that the rate of
 capital impairment is less than 50/100 as of
 the end of the latest business year.
 
+{[§53(1)3] and [§67(1)1] of
+
+4) Equity capital not up to
+standards
+
 The  day  following  the  day
 when it was confirmed through
 the audit report
@@ -6822,14 +6819,8 @@ confirmed by the audit report that the equity
 capital  as  of  the  end of  the  latest  business
 year is KRW 1 billion or more
 
-5) Failure to meet the market
-capitalization requirements
-
-{[§53(1)5] and [§67(1)2]    of
-
-The  day  following  the  day  on
-which  the  concerned  fact  was
-confirmed
+{[§53(1)4], [§67(1)1] and
+[§72(1)] of the Regulation}
 
 The day following the day when all of the
 following requirements were met:
@@ -6838,8 +6829,17 @@ following requirements were met:
 days of the concerned issue) during which
 the  market  capitalization  remains  at  the
 
+5) Failure to meet the market
+capitalization requirements
+
 criterion stipulated in [§54(1)12(a)] or more
 must be at least 10 consecutive days; and
+
+The  day  following  the  day  on
+which  the  concerned  fact  was
+confirmed
+
+{[§53(1)5] and [§67(1)2]    of
 
 (ii)  The  number  of  days  (based  on  the
 trading days of the concerned issue) during
@@ -6860,16 +6860,11 @@ as
 
 administrative  issue  pursuant  to  [§53(1)6]
 
-6) Failure to submit periodic
-reports
-
-{[§53(1)6, §67(1) and §72(1)]
-
-as
-
 it  was
 
 designated
+
+as
 
 of  the  Regulation  within  two  (2)  years
 an
@@ -6880,11 +6875,16 @@ resolved by submitting all the unsubmitted
 regular  reports  :within  the  improvement
 period though the cause for delisting under
 
-The day following the statutory
-submission deadline.
+6) Failure to submit periodic
+reports
 
 [§54(1)7] of the Regulation was occurred, it
 shall not apply.
+
+The day following the statutory
+submission deadline.
+
+{[§53(1)6, §67(1) and §72(1)]
 
 (i)  When  the  concerned  annual  report,
 semiannual  report  or  quarterly  report  is
@@ -6906,7 +6906,18 @@ deadline  for  submission  of
 
 annual  reports  under  [§19(1)]
 
+7) Failure to meet the
+corporate governance
+requirements
+
 meeting
+
+The  day  following  the  day  on  which  the
+concerned cause was confirmed as resolved.
+
+deadline
+
+{[§53(1)7, §67(1), §72(1)] of
 
 of  the  Disclosure  Regulation.
 However,  in  cases  where  a
@@ -6920,10 +6931,8 @@ shall  be  the  day  following  the
 date  of the general meeting of
 shareholders
 
-deadline
-
-The  day  following  the  day  on  which  the
-concerned cause was confirmed as resolved.
+8) Failure to meet trading
+volume requirements
 
 The day following the last day
 of a quarter
@@ -6932,35 +6941,26 @@ The day following the last day of the quarter
 for  which  the  trading  volume  requirement
 was met.
 
-7) Failure to meet the
-corporate governance
-requirements
-
-{[§53(1)7, §67(1), §72(1)] of
-
-8) Failure to meet trading
-volume requirements
-
 {[§53(1)8] and[§67(1)3] of
 
 9) Failure to meet the stock
 distribution requirement
-
-{[§53(1)9] and [§67(1)4] of
 
 The  day  when  15  days  have
 elapsed  since
 the  statutory
 deadline  for  submission  of
 
-annual  reports  under  [§19(1)]
-of the Disclosure Regulation
-
 The day following the day when the stock
 distribution was confirmed by the summary
 table  of  shareholders  and  the  register  of
 holders, etc. noted in [Annex Form No. 30].
 However,  when  the  fact  prescribed  in
+
+annual  reports  under  [§19(1)]
+of the Disclosure Regulation
+
+{[§53(1)9] and [§67(1)4] of
 
 [§55(2)]  is  confirmed  by  such  means  as
 corporate  disclosure,  it  shall  be  the  day
@@ -6971,16 +6971,6 @@ commencement of
 
 rehabilitation procedures
 
-{[§53(1)10], [§67(1)5] and
-
-[§72(1)] of the Regulation}
-
-11) Application for
-
-bankruptcy
-
-{[§53(1)11, §67(1)5, §72(1)]
-
 The  day  following  the  day  on
 which the fact was confirmed
 
@@ -6989,21 +6979,24 @@ has  made  the  decision  on  the  closing  of
 rehabilitation  procedures  (including  any
 other reason equivalent thereto).
 
+{[§53(1)10], [§67(1)5] and
+
+[§72(1)] of the Regulation}
+
+11) Application for
+
 The day following the day when the cause
+
+bankruptcy
+
+was  resolved  through  a  court’s  decision  to
 
 The  day  following  the  day  on
 which the fact was confirmed
 
-was  resolved  through  a  court’s  decision  to
-
 reject the application for bankruptcy, etc.
 
-12) Occurrence of a cause for
-delisting
-
-{[§53(1)12], [§67(1)]
-
-and[§72(1)] of the
+{[§53(1)11, §67(1)5, §72(1)]
 
 (1)  Occurrence  of  a  formality
 cause for delisting pursuant to
@@ -7019,6 +7012,9 @@ the  causes
 for
 
 delisting  pursuant  to  [§54(1)3
+
+The  day  following  the  day  on  which  the
+concerned cause was confirmed as resolved.
 
 (limited  to  a  case  where  a
 KOSDAQ-  or  KOSPI-listed
@@ -7041,7 +7037,23 @@ fact was confirmed
 
 (ii) When it falls under any of
 
+12) Occurrence of a cause for
+delisting
+
 the  subparagraphs  of  [§56(1)]
+
+the
+
+{[§53(1)12], [§67(1)]
+
+and[§72(1)] of the
+
+The day following the day when the
+decision to maintain listing status was
+made pursuant to [§57(3) to§57(7)] or
+[§58(2) to §58(4)] of the Regulation
+
+to
 
 the
 
@@ -7053,10 +7065,6 @@ day when it was decided to be
 subject
 listing
 maintenance  review  pursuant
-
-the
-
-to
 
 to [§57(1)] of the Regulation
 
@@ -7070,7 +7078,12 @@ maintenance
 for
 review
 
+The  day  following  the  day  when  the
+decision to maintain listing status was made
+
 [§56(1)] of the Regulation and
+
+pursuant  to  [§58(2)  to  §58(4)]  of  the
 
 is  decided  to  be  delisted:  The
 day following the day when the
@@ -7078,44 +7091,31 @@ delisting was decided pursuant
 
 to  [§57(3)  to  §57(7)]  of  the
 
-The  day  following  the  day  on  which  the
-concerned cause was confirmed as resolved.
-
-The day following the day when the
-decision to maintain listing status was
-made pursuant to [§57(3) to§57(7)] or
-[§58(2) to §58(4)] of the Regulation
-
-The  day  following  the  day  when  the
-decision to maintain listing status was made
-
-pursuant  to  [§58(2)  to  §58(4)]  of  the
-
 13) Violation of financial
 
 management standards
 
-{[§53(1)13], [§67(1)]
-
-and[§72(1)] of the
-
 The day following the day on
 which the fact was confirmed
+
+{[§53(1)13], [§67(1)]
 
 The day when six (6) months have elapsed
 from  the  day  of  the  designation  as  an
 administrative issue
 
+and[§72(1)] of the
+
 14) Change of accounting
 standards in the case of
 foreign stocks, etc.
-
-{[§67(2)1] of the Regulation}
 
 The day following the day on
 which the fact was confirmed
 by the annual (semiannual)
 report
+
+{[§67(2)1] of the Regulation}
 
 The day following the day when it was
 confirmed that there was a change of
@@ -7130,12 +7130,12 @@ as an administrative issue
 auditor in the case of foreign
 stocks, etc.
 
-{[§67(2)2] of the Regulation}
-
 The day following the day on
 which the fact was confirmed
 by the annual (semiannual)
 report
+
+{[§67(2)2] of the Regulation}
 
 The day following the day when it was
 confirmed that the cause was resolved via
@@ -7154,26 +7154,6 @@ qualification requirements of
 an officer in the case of SPAC
 shares
 
-{[§72(2)1] of the Regulation}
-
-17) Failure to meet the share
-distribution requirement in the
-case of SPAC shares
-
-{[§72(2)2] of the Regulation}
-
-18) Violation, etc. of funds
-deposit/trust obligation in the
-case of SPAC shares
-
-{[§72(2)3] of the Regulation}
-
-19) Violation of restriction of
-financial activities in the case
-of SPAC shares
-
-{[§72(2)4] of the Regulation}
-
 The day following the day on
 which the fact was confirmed
 
@@ -7182,11 +7162,34 @@ appointment of an officer who meets the
 qualification pursuant to [§70(1)7] of the
 Regulation was confirmed
 
+{[§72(2)1] of the Regulation}
+
+17) Failure to meet the share
+distribution requirement in the
+case of SPAC shares
+
+The day following the day on which the
+distribution is confirmed by the summary
+table of shareholders and the register of
+holders, etc. in [Annex Form No. 30].
+
+{[§72(2)2] of the Regulation}
+
 The day when 15 days have
 elapsed from the statutory
 deadline of the submission of
 annual report pursuant to
 [§19(1)] of the Disclosure
+
+18) Violation, etc. of funds
+deposit/trust obligation in the
+case of SPAC shares
+
+The  day  following  the  day  on  which  the
+concerned  cause  was  confirmed  to  have
+been resolved.
+
+{[§72(2)3] of the Regulation}
 
 The day following the day on
 which the fact of violation of
@@ -7196,10 +7199,9 @@ collateral of the funds
 deposited or entrusted was
 confirmed
 
-The day following the day on which the
-distribution is confirmed by the summary
-table of shareholders and the register of
-holders, etc. in [Annex Form No. 30].
+19) Violation of restriction of
+financial activities in the case
+of SPAC shares
 
 The  day  following  the  day  on  which  the
 concerned  cause  was  confirmed  to  have
@@ -7210,13 +7212,15 @@ which the fact of violating the
 restriction of financial
 activities was confirmed
 
-The  day  following  the  day  on  which  the
-concerned  cause  was  confirmed  to  have
-been resolved.
+{[§72(2)4] of the Regulation}
 
 20) In the case of SPAC
 shares, failure to apply for
 preliminary listing review
+
+The  day  following  the  day  on  which  the
+concerned  cause  was  confirmed  to  have
+been resolved.
 
 {[§72(2)5] of the Regulation}
 
@@ -7235,10 +7239,6 @@ when it was confirmed of a
 withdrawal of the application
 of preliminary listing review, a
 
-The  day  following  the  day  on  which  the
-concerned  cause  was  confirmed  to  have
-been resolved.
-
 failure to get an approval of
 the preliminary listing review,
 a cancellation of a
@@ -7247,13 +7247,15 @@ merger, etc. as for a SPAC
 with a maturity less than six
 months
 
+The  day  following  the  day  on  which  the
+concerned  cause  was  confirmed  to  have
+been resolved.
+
 21) In the case of SPAC
 shares, failure to meet the
 issuance amount requirement
 for shares, etc. owned by
 financial investment company
-
-{[§72(2)6] of the Regulation}
 
 The day following the day on
 which the failure to meet the
@@ -7262,24 +7264,22 @@ for shares, etc. owned by
 financial investment company
 was confirmed
 
-The  day  following  the  day  on  which  the
-concerned  cause  was  confirmed  to  have
-been resolved.
+{[§72(2)6] of the Regulation}
+
+-
 
 22) Cause for release from
 designation as an
 administrative issue in the case
 of SPAC shares
 
--
-
-{[§72(3)] of the Regulation}
-
 The day following the day on which the
 fact was confirmed that the SPAC which
 had been designated as an administrative
 issue entered into a merger with another
 corporation
+
+{[§72(3)] of the Regulation}
 
 Notes:
 (1)  The  audit  report  or  review  report  in  [1)  to  4)]  refers  to  the  audit  report  or  review  report  filed
@@ -7309,16 +7309,6 @@ Designation Time
 
 Release Time
 
-The  day  of  the  designation  as
-issue  for
-an  administrative
-common  stocks  or  the  foreign
-stock
-
-The day of the release from the designation
-as an administrative issue for common stock
-or the foreign stock
-
 as
 issue
 
@@ -7328,6 +7318,16 @@ administrative
 for
 common  stocks  or  foreign
 stocks, etc.
+
+The day of the release from the designation
+as an administrative issue for common stock
+or the foreign stock
+
+The  day  of  the  designation  as
+issue  for
+an  administrative
+common  stocks  or  the  foreign
+stock
 
 {[§81(1)1] of the Regulation}
 
@@ -7341,6 +7341,12 @@ deadline  for  submission  of
 
 annual  reports  under  [§19(1)]
 
+The day following the day when the number
+of  shareholders  was  confirmed  by  the
+summary  table  of  shareholders  and  the
+register of holders, etc. in [Annex Form No.
+30].
+
 {[§81(1)2] of the Regulation}
 
 of the Disclosure Regulation
@@ -7348,24 +7354,16 @@ of the Disclosure Regulation
 3)  Failure  to meet  the  number
 of listed shares requirement
 
+The  day  following  the  day  on
+which the fact was confirmed
+
 {[§81(1)3] of the Regulation}
 
-The  day  following  the  day  on
-which the fact was confirmed
+the
 
-4)  Failure  to  meet  the  market
-capitalization requirements
+date
 
-{[§81(1)4] of the Regulation}
-
-The  day  following  the  day  on
-which the fact was confirmed
-
-The day following the day when the number
-of  shareholders  was  confirmed  by  the
-summary  table  of  shareholders  and  the
-register of holders, etc. in [Annex Form No.
-30].
+designation
 
 The day following the day when the number
 of  shares  listed  was  confirmed  to  be
@@ -7378,14 +7376,14 @@ as
 of
 administrative issue)
 
-designation
-
-date
-
-the
-
 The day following the day when all of the
 following requirements were met:
+
+4)  Failure  to  meet  the  market
+capitalization requirements
+
+The  day  following  the  day  on
+which the fact was confirmed
 
 (i) The number of days (based on the trading
 days of the concerned issue) during which
@@ -7393,13 +7391,13 @@ the  market  capitalization  was  KRW  2
 billion  or  more  shall  be  at  least  10
 consecutive days; and
 
+{[§81(1)4] of the Regulation}
+
 (ii)  The  number  of  days  during  which  the
 market capitalization was KRW 2 billion or
 more shall be at least thirty (30) days.
 
 5) Poor trading performance
-
-{[§81(1)5] of the Regulation}
 
 The day following the last day
 of a quarter
@@ -7407,6 +7405,8 @@ of a quarter
 The day following the last day of the quarter
 for  which  the  trading  volume  requirement
 was met.
+
+{[§81(1)5] of the Regulation}
 
 3.  Business  development  investment  company  stocks  and  business  development  investment  trust
 
@@ -7420,30 +7420,6 @@ Release Time
 
 1) Size not up to standards
 
-{[§85-9(1)1] and[§85(16)1] of
-
-2) Violation of disclosure
-obligation
-
-{[§85-9(1)2] and[§85-16(1)2]
-
-3) Investment ratios not up to
-standards
-
-{[§85-9(1)3] and [§85-16(1)3]
-
-4) Auditor’s opinion not up to
-standards
-
-{[§85-9(1)4] and [§85-
-16(1)4] of the Regulation}
-
-5) Violation of mandatory
-holdings
-
-{[§85-9(1)5] and [§85-
-16(1)5] of the Regulation}
-
 The  day  following  the  day
 when  the  size  was  confirmed
 through the audit report
@@ -7453,6 +7429,11 @@ confirmed  through  the  audit  report  of  the
 following  business  year  that  the  cause  of
 designation is resolved.
 
+{[§85-9(1)1] and[§85(16)1] of
+
+2) Violation of disclosure
+obligation
+
 The  day  following  the  day
 when  the  relevant  fact  was
 confirmed
@@ -7461,6 +7442,11 @@ The  day  following  the  day  when  it  was
 confirmed  that  the  cause  of  designation  is
 resolved.
 
+{[§85-9(1)2] and[§85-16(1)2]
+
+3) Investment ratios not up to
+standards
+
 The  day  following  the  day
 when it was confirmed through
 the audit report
@@ -7468,6 +7454,11 @@ the audit report
 The  day  following  the  day  when  it  was
 confirmed  that  the  cause  of  designation  is
 resolved.
+
+{[§85-9(1)3] and [§85-16(1)3]
+
+4) Auditor’s opinion not up to
+standards
 
 The  day  following  the  day
 when it was confirmed through
@@ -7477,11 +7468,22 @@ The  day  following  the  day  when  it  was
 confirmed by the audit report that the cause
 of designation is resolved.
 
+{[§85-9(1)4] and [§85-
+16(1)4] of the Regulation}
+
+holding
+
+5) Violation of mandatory
+holdings
+
+the  extended  period
+
 The  day  following  the  day
 when it was confirmed through
 the audit report
 
-holding
+{[§85-9(1)5] and [§85-
+16(1)5] of the Regulation}
 
 The day following the expiration date of the
 period
@@ -7493,8 +7495,6 @@ mandatory  holding  period  has  been
 extended  by  applying  [§17(2)]  of  the
 Regulations mutatis mutandis).
 
-the  extended  period
-
 [Annex No. 11] Industry Classification
 
 (Amended on June 14, 2024)
@@ -7504,11 +7504,11 @@ Industry Classification
 
 Sector
 
+Subsector
+
 Name
 
 Code
-
-Subsector
 
 Name
 
@@ -7517,13 +7517,15 @@ Code
 Industry Group
 Name
 
-Agriculture,
-forestry
-fishing industry
+Code
+
+Agriculture
 
 and
 
-Agriculture
+Agriculture,
+forestry
+fishing industry
 
 Forestry
 
@@ -7532,62 +7534,27 @@ Fisheries
 Coal,  crude  oil  and
 natural gas extraction
 
+Metal ores mining
+
 Mining industry
 
-Metal ores mining
+mining
 
 Nonmetal
 (excluding those used as fuel)
 Mining support services
 
-mining
-
 Food manufacturing
 
 10
 
-Manufacturing
-industry
+cake,
 
-Beverage manufacturing
+bread
 
-Tobacco manufacturing
-
-Textile  manufacturing
-(excluding
-ready-to-
-wear apparel)
-
-Ready-to-wear  apparel,
-accessories&  fur  goods
-manufacturing
-
-Leather,  bag,  handbag
 and
-footwear
-manufacturing
 
-Lumber
-and  wood
-products  manufacturing
-(excluding furniture)
-
-Pulp,  paper  and  paper
-products manufacturing
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-17
+confectionery
 
 Growing of crops
 Livestock production
@@ -7620,23 +7587,60 @@ manufacturing
 Lunch  boxes  and  prepared  food  for  meals
 manufacturing
 
-confectionery
-
-bread
-
-cake,
-
 and
-
-and
-
-food
-
-goods
 
 processed
 
+food
+
+Beverage manufacturing
+
+11
+
+Tobacco manufacturing
+
+12
+
+Manufacturing
+industry
+
 and  woven
+
+goods
+
+13
+
+Textile  manufacturing
+(excluding
+ready-to-
+wear apparel)
+
+finishing
+
+14
+
+Ready-to-wear  apparel,
+accessories&  fur  goods
+manufacturing
+
+15
+
+Leather,  bag,  handbag
+and
+footwear
+manufacturing
+
+16
+
+Lumber
+and  wood
+products  manufacturing
+(excluding furniture)
+
+17
+
+Pulp,  paper  and  paper
+products manufacturing
 
 Other food manufacturing
 feeds
@@ -7666,9 +7670,21 @@ manufacturing
 Pulp, paper & paperboard manufacturing
 Corrugated  paperboard,  cardboard  box  &
 
-finishing
+paper container manufacturing
+Other  paper  products  &  cardboard  products
+manufacturing
+Printing & printing related business
 
-Code
+18
+
+Recorded media reproduction business
+
+Coke and briquette manufacturing
+
+and
+petroleum
+
+19
 
 Printing
 and
@@ -7678,33 +7694,68 @@ Coke,  briquette
 refined
 manufacturing
 
+rubber  and  plastic
+
+substance
+
+20
+
+pesticides,
+
+germicides
+
 and
-petroleum
 
 Chemical  and  chemical
 products  manufacturing
 (excluding
 pharmaceuticals)
 
+of
+
+21
+
 Manufacturing
 pharmaceuticals,
 medical  supplies  and
 botanical products
 
-of
+22
 
 Manufacturing of rubber
 and plastic products
+
+and
+
+non-refractory
+
+ceramic
+
+23
 
 Manufacturing  of  non-
 mineral
 metallic
 products
 
+non-metallic  mineral
+
+product
+
+metals
+
+24
+
 Basic
 manufacturing
 
-metals
+25
+
+fabricated
+
+metal
+
+products
 
 of
 Manufacturing
@@ -7714,9 +7765,19 @@ products,
 except
 machinery and furniture
 
+periphery
+
 parts,
 imaging,
 and
+
+26
+
+and
+
+sounding
+
+equipment
 
 Electronics
 computer,
@@ -7725,6 +7786,12 @@ communication
 equipment
 manufacturing
 
+and  dental
+
+of  measuring,
+
+27
+
 Manufacturing
 of
 medical,  precision  and
@@ -7732,74 +7799,30 @@ optical
 instruments,
 watches and clocks
 
-18
+and
 
-19
+optical
 
-20
+distributor  &
 
-21
+battery  &
 
-22
+secondary
 
-23
-
-24
-
-25
-
-26
-
-27
-
-Electric
-manufacturing
+battery
 
 equipment
 
 28
 
-Other  machineries  and
+Electric
+manufacturing
+
+bulb  &
+
+lighting
+
 equipment
-manufacturing
-
-Motor  vehicles,  trailers
-and
-semitrailers
-manufacturing
-
-29
-
-30
-
-paper container manufacturing
-Other  paper  products  &  cardboard  products
-manufacturing
-Printing & printing related business
-
-Recorded media reproduction business
-
-Coke and briquette manufacturing
-
-and
-
-and
-
-product
-
-ceramic
-
-substance
-
-pesticides,
-
-germicides
-
-non-refractory
-
-rubber  and  plastic
-
-non-metallic  mineral
 
 Refined petroleum manufacturing
 Basic chemicals manufacturing
@@ -7864,43 +7887,20 @@ Household appliances manufacturing
 Other electric equipment manufacturing
 General purpose machinery manufacturing
 
-of  measuring,
-
-distributor  &
-
-and  dental
-
-battery  &
-
-equipment
-
-equipment
-
-bulb  &
-
-secondary
-
-fabricated
-
-periphery
-
-sounding
-
-products
-
-lighting
-
-battery
-
-optical
-
-metal
-
-and
-
-and
+29
 
 Special purpose machinery manufacturing
+
+Other  machineries  and
+equipment
+manufacturing
+
+30
+
+Motor  vehicles,  trailers
+and
+semitrailers
+manufacturing
 
 Motor vehicles and engines for motor vehicles
 manufacturing
@@ -7908,21 +7908,27 @@ Motor vehicle bodies or trailers manufacturing
 Manufacturing  of  parts  and  accessories  for
 motor vehicles (new products)
 
-transportation
+vehicle
 
-Other
-equipment
-manufacturing
+parts
+
+and
+
+accessories
+
+transportation
 
 31
 
 and
 
+their
+
 parts
 
-vehicle
-
-accessories
+Other
+equipment
+manufacturing
 
 Motor
 manufacturing (remanufacturing products)
@@ -7933,25 +7939,27 @@ spaceships
 manufacturing
 Other transportation equipment manufacturing
 
-parts
-
-their
-
-and
-
-Furniture
-other
-products manufacturing
-
 and
 
 32
 
 Furniture manufacturing
 
+Furniture
+other
+products manufacturing
+
 Other manufacturing
 
 33
+
+toys
+
+and
+
+recreational
+
+apparatus
 
 Precious metals & ornament manufacturing
 Musical instrument manufacturing
@@ -7960,13 +7968,10 @@ Dolls,
 manufacturing
 pursuant to other products manufacturing
 
-recreational
+34
 
-toys
-
-and
-
-apparatus
+Maintenance  and  repair  services  of  industrial
+machinery and equipment
 
 Maintenance  and  repair
 industrial
@@ -7975,25 +7980,20 @@ machinery
 and
 equipment
 
-34
-
-Maintenance  and  repair  services  of  industrial
-machinery and equipment
-
 gas,
 air
+
+35
+
+Electricity,  gas,  steam
+and  air  conditioning
+supply industry
 
 Electricity,
 and
 steam
 conditioning
 supply industry
-
-Electricity,  gas,  steam
-and  air  conditioning
-supply industry
-
-35
 
 Electric  power  generation,  transmission  and
 distribution
@@ -8006,8 +8006,20 @@ Water supply
 
 36  Water supply
 
+37
+
+Sewage, wastewater, human and animal waste
+treatment
+
+Sewage,
+wastewater,
+human and animal waste
+treatment services
+
 supply;
 waste
+
+38
 
 Water
 sewage,
@@ -8015,37 +8027,25 @@ management,
 materials
 recovery industry
 
-Sewage,
-wastewater,
-human and animal waste
-treatment services
-
 Wastes
 collection,
 transport,  treatment  and
 materials recovery
-
-37
-
-38
-
-Sewage, wastewater, human and animal waste
-treatment
 
 Waste collection and transport
 Waste treatment and disposal services
 Dismantling and sorting recoverable materials
 and materials recovery
 
-Environmental
-sanitation
-reclamation
-
 and
 
 39
 
 Environmental sanitation and reclamation
+
+Environmental
+sanitation
+reclamation
 
 General construction
 
@@ -8058,40 +8058,40 @@ Specialized construction
 
 42
 
+and  maintenance  works
+
+and
+
+for
+supplementary
+
+and
+
+equipment
+
+45
+
 Sale  of  motor  vehicles
 and parts
 
-45
+and
+
+46
 
 Wholesales
 merchandise brokers
 
 and
 
-46
-
 Wholesale
 Retail industry
 
-and
+47
 
 Retails,  except  motor
 vehicles
 and
 motorcycles
-
-47
-
-and
-
-and
-
-equipment
-
-and  maintenance  works
-
-for
-supplementary
 
 Building construction
 Civil engineering construction
@@ -8130,187 +8130,29 @@ Retails of other household goods
 Retails  of  cultural,  recreational  and  leisure
 goods
 
-Land
-transport via pipelines
+land
+
+transport,  except  railway
 
 transport
 
 and
+
+49
+
+Land
+transport via pipelines
 
 Transportation  &
 storage industry
 
 Water transport
 
-Accommodation
-and  food  services
-industry
-
-Information  and
-communication
-industry
-
-10
+50
 
 Air transport
 
-Warehousing
-transport
-services
-
-Accommodation
-
-and
-related
-
-Food
-services
-
-and
-
-beverage
-
-Publishing activities
-
-Video & audio recording
-and distribution
-
-Broadcasting
-
-and
-
-services
-
-Postal
-telecommunications
-Computer
-programming,
-integration
-management
-
-system
-and
-
-and
-
-Financial
-insurance
-industry
-
-Real
-industry
-
-estate
-
-Information services
-
-Financial
-except
-pension funding
-
-services,
-insurance  and
-
-11
-
-Insurance  and  pension
-funding
-
-Services
-finance and insurance
-
-related
-
-to
-
-12
-
-Real estate services
-
-Research
-development
-
-and
-
-49
-
-50
-
 51
-
-52
-
-55
-
-56
-
-58
-
-59
-
-60
-
-61
-
-62
-
-63
-
-64
-
-65
-
-66
-
-68
-
-70
-
-Professional services
-
-71
-
-Professional,
-scientific
-and
-technical  service
-industry
-
-13
-
-Architectural,
-engineering  and  other
-technical
-scientific  &
-services
-
-Other
-professional,
-scientific  and  technical
-services
-
-Business facilities
-management,
-business  support
-
-14
-
-Business
-management
-landscaping services
-
-facilities
-and
-
-72
-
-73
-
-74
-
-transport,  except  railway
-
-land
 
 Fuel retailing
 Other goods specialized retailing
@@ -8327,7 +8169,46 @@ Passenger air transport
 Freight air transport
 Storage & warehousing services
 
+and
+related
+
+52
+
 Other transport related services
+
+Warehousing
+transport
+services
+
+Accommodation
+
+55
+
+Accommodation
+and  food  services
+industry
+
+and
+
+beverage
+
+56
+
+Food
+services
+
+Publishing activities
+
+58
+
+broadcasting
+
+program
+
+59
+
+Video & audio recording
+and distribution
 
 General  accommodation  and  accommodation
 with cooking facilities
@@ -8344,18 +8225,113 @@ production and distribution
 Audio material publication and disk recording
 Radio broadcasting
 
-broadcasting
-
-program
-
 Television broadcasting
+
+Broadcasting
+
+60
+
+10
+
+Information  and
+communication
+industry
+
+services
+
+and
+
+61
 
 Video/audio product service
 Postal services
 Telecommunications
 
+62
+
+system
+and
+
 Computer  programming,  system  integration
 and management
+
+Postal
+telecommunications
+Computer
+programming,
+integration
+management
+
+Information services
+
+63
+
+services,
+insurance  and
+
+64
+
+Financial
+except
+pension funding
+
+and
+
+11
+
+65
+
+Financial
+insurance
+industry
+
+Insurance  and  pension
+funding
+
+related
+
+to
+
+66
+
+Services
+finance and insurance
+
+estate
+
+12
+
+Real estate services
+
+68
+
+Real
+industry
+
+and
+
+70
+
+Research
+development
+
+Professional services
+
+71
+
+13
+
+engineering
+
+and
+
+related
+
+Professional,
+scientific
+and
+technical  service
+industry
 
 Data processing, hosting, web portals and other
 related services
@@ -8382,13 +8358,37 @@ Other professional services
 Architectural,
 technical services
 
-engineering
-
-related
-
-and
+72
 
 Other scientific and technical services
+
+Architectural,
+engineering  and  other
+technical
+scientific  &
+services
+
+73
+
+Other
+professional,
+scientific  and  technical
+services
+
+14
+
+facilities
+and
+
+74
+
+Business facilities
+management,
+business  support
+
+Business
+management
+landscaping services
 
 Veterinary services
 Professional design services
@@ -8406,28 +8406,37 @@ and
 leasing
 industry
 
+support
+
+75
+
 Business
 services
 
-support
-
 and
+
+leasing
+real
+
+76
 
 Rental
 services,  except
 estate
 
-leasing
-real
-
-Public
-administration,
-national  defense
 and
-social
-security industry
+
+government
+
+affairs
+
+national
+
+defense
 
 15
+
+84
 
 Public
 administration,
@@ -8435,111 +8444,12 @@ national  defense  and
 social security
 services
 
-75
-
-76
-
-84
-
-Educational
-service industry
-
-16
-
-Educational services
-
-85
-
-Health  and  social
-welfare
-service
-industry
-
-Arts,  sports  and
-recreation  related
-service industry
-
-17
-
-18
-
-Health services
-
-Social welfare services
-
-Creative,
-recreation
-services
-
-arts
-
+Public
+administration,
+national  defense
 and
-related
-
-Sports  and  amusement
-related services
-
-Membership
-organizations
-
-Membership
-organizations,
-repair  and  other
-personal  services
-industry
-
-and
-
-Household
-employment
-activities
-unclassified
-production
-activities  for  self-
-consumption
-International  and
-foreign
-organizations
-
-19
-
-Maintenance  and  repair
-services for personal and
-household goods
-
-Other personal services
-
-Household  employment
-activities
-
-20
-
-Unclassified  production
-of goods and services for
-self-consumption
-
-21
-
-International and foreign
-organizations
-
-86
-
-87
-
-90
-
-91
-
-94
-
-95
-
-96
-
-97
-
-98
+social
+security industry
 
 Landscape  management  and  maintenance
 services
@@ -8562,15 +8472,78 @@ administration
 Judicial and public order administration
 Social security administration
 
-government
+16
 
-national
+Educational services
 
-defense
+85
 
-affairs
+Educational
+service industry
+
+Health services
+
+86
+
+17
+
+Health  and  social
+welfare
+service
+industry
+
+Social welfare services
+
+87
+
+arts
 
 and
+related
+
+90
+
+Creative,
+recreation
+services
+
+18
+
+Arts,  sports  and
+recreation  related
+service industry
+
+91
+
+recreation
+
+Sports  and  amusement
+related services
+
+and  professional  membership
+
+94
+
+Membership
+organizations
+
+19
+
+95
+
+Maintenance  and  repair
+services for personal and
+household goods
+
+Membership
+organizations,
+repair  and  other
+personal  services
+industry
+
+Other personal services
+
+96
 
 Social security insurance and pension service
 Pre-primary and primary education
@@ -8604,21 +8577,48 @@ Personal and household goods repair services
 Personal care services
 Other personal services
 
-and  professional  membership
-
-recreation
+97
 
 Household employment activities
 
+Household  employment
+activities
+
+and
+
+20
+
 Goods-producing  activities  of  households  for
+self-consumption
+
+98
+
+Unclassified  production
+of goods and services for
 self-consumption
 
 Service-producing activities of households for
 self-consumption
 
+21
+
 99
 
 International and foreign organizations
+
+International and foreign
+organizations
+
+Household
+employment
+activities
+unclassified
+production
+activities  for  self-
+consumption
+International  and
+foreign
+organizations
 
 [Annex No. 12]    Matters Required to be Entered in Articles of Incorporation of
 Foreign Companies
@@ -9074,23 +9074,23 @@ companies; the same hereinafter), stocks of SPACs
 
 (i) Fees for listing review
 
-Equity Capital
-(in KRW billion)
-≤100
-
->100 and  ≤500
-
->500
-
-Notes:
-
 Fees for Listing Review
 
 KRW 5 million
 
+Equity Capital
+(in KRW billion)
+≤100
+
 KRW 10 million
 
+>100 and  ≤500
+
 KRW 15 million
+
+>500
+
+Notes:
 
 1. Fees for listing review are imposed on the stocks in the case of initial listing, re-listing (limited to
 re-listing  under  Subparagraph  1  of  [§39]  of  the  Regulation),  listing  after  merger  of  SPAC,  and
@@ -9112,11 +9112,11 @@ However, the maximum amount shall be KRW 200 million.
 
 Market capitalization
 
+Fee rates
+
 Initial listing,
 
 (in KRW billion)
-
-Fee rates
 
 ≤50
 
@@ -9153,10 +9153,10 @@ the market capitalization in excess of KRW 300 billion
 KRW 20.2 million + KRW 20,000 per KRW 1 billion for
 the market capitalization in excess of KRW 400 billion
 
->500
-
 KRW 22.2 million + KRW 10,000 per KRW 1 billion for
 the market capitalization in excess of KRW 500 billion
+
+>500
 
 (Maximum amount: KRW 200 million)
 
@@ -9166,31 +9166,39 @@ However, the maximum amount shall be KRW 50 million.
 
 Market capitalization
 
-(in KRW billion)
-
-≤10
-
->10 and  ≤30
-
->30 and  ≤50
-
->50 and  ≤70
-
 Fee rates
+
+(in KRW billion)
 
 KRW 250,000 per KRW 1 billion
 
+≤10
+
 (Minimum amount: KRW 250,000)
+
+>10 and  ≤30
 
 KRW 2.5 million + KRW 90,000 per KRW 1 billion for
 the market capitalization in excess of
 KRW 10 billion
 
+>30 and  ≤50
+
 KRW 4.3 million + KRW 80,000 per KRW 1 billion for
 the market capitalization in excess of KRW 30 billion
 
+>50 and  ≤70
+
 KRW 5.9 million + KRW 70,000 per KRW 1 billion for
 the market capitalization in excess of KRW 50 billion
+
+Re-listing,
+Supplementary
+listing, and
+Listing after
+merger under
+[§2(1)1(f)(ii)] of
+the Regulation
 
 >70 and  ≤100
 
@@ -9216,14 +9224,6 @@ capitalization in excess of KRW 500 billion
 
 (Maximum amount: KRW 50 million)
 
-Re-listing,
-Supplementary
-listing, and
-Listing after
-merger under
-[§2(1)1(f)(ii)] of
-the Regulation
-
 Listing change    KRW 2 million per case
 
 Notes:
@@ -9246,6 +9246,8 @@ by the closing price of previous day)
 Re-listing amount (the amount determined by multiplying the number of stocks
 to be re-listed by the appraisal price)
 
+Re-listing
+
 Appraisal price: The appraisal price under [§17(1)3] of the Enforcement Rules
 of the KOSDAQ Market Business Regulation
 
@@ -9253,8 +9255,6 @@ The amount obtained by converting the number of stocks of the applicant for
 listing  after  merger  before  the  merger  to  the  number  of  stocks  of  the  SPAC
 based on the merger ratio and multiplying it by the closing price on the last
 trading day of stocks of the SPAC
-
-Re-listing
 
 Listing after
 merger pursuant
@@ -9281,12 +9281,12 @@ as a single case.
 
 Listing fees
 
-Initial
-supplementary listing
-
 listing
 
 &
+
+Initial
+supplementary listing
 
 1/3 of the fees determined pursuant to subparagraph (a) (the minimum
 fee shall be KRW 50,000 and the amount less than KRW 100 shall be
@@ -9314,11 +9314,11 @@ as a single case.
 
 certificates
 
+Listing fees
+
 Listing review
 
 KRW 5,000,000
-
-Listing fees
 
 Initial listing &
 supplementary listing
@@ -9353,9 +9353,9 @@ listing date of the year which includes the de-listing date.
 Average total market
 capitalization
 
-(in KRW billion)
-
 Fee Rates
+
+(in KRW billion)
 
 ≤10
 
@@ -9363,15 +9363,15 @@ KRW 10,000 per KRW 1 billion
 
 >10 and  ≤30
 
->30 and  ≤50
-
->50 and  ≤70
-
 KRW 100,000 + KRW 8,000 per KRW 1 billion of average total market
 capitalization in excess of KRW 10 billion
 
+>30 and  ≤50
+
 KRW 260,000 + KRW 7,000 per KRW 1 billion of average total market
 capitalization in excess of KRW 30 billion
+
+>50 and  ≤70
 
 KRW 400,000 + KRW 6,000 per KRW 1 billion of average total market
 capitalization in excess of KRW 50 billion
@@ -9583,10 +9583,10 @@ Status of Circulating Stocks
 xxxx  (name  of  company),  undersigned,  hereby  submits  its  status  of  circulating  stocks  as  follows
 pursuant to [§19], [§39] and [Annex No. 5] of the Enforcement Rules of KOSDAQ Market Listing
 
+Portion (%)  Remarks
+
 No. of
 stocks
-
-Portion (%)  Remarks
 
 Total number of common stocks (A)
 
@@ -9660,11 +9660,15 @@ Listing Application (Common Stocks, Stocks of SPACs)
 xxxx (name of company), the undersigned, hereby applies as follows    for listing of its shares on the
 KOSDAQ market which the Korea Exchange established and has operated.
 
+Start date for
+
 Type
 
 Number of
 
 Par value
+
+Note
 
 of shares
 
@@ -9672,12 +9676,8 @@ issued shares
 
 per share
 
-Start date for
-
 dividend
 eligibility
-
-Note
 
 Date: mm/dd/yyyy
 
@@ -9692,43 +9692,43 @@ Listing Application (Foreign Stocks, etc.)
 xxxx (name of company), the undersigned, hereby applies as follows for  listing of its shares on the
 KOSDAQ market which the Korea Exchange established and has operated.
 
-Type of
-shares
-
 Number of issued
 
 Number of listed
 
+Start
+
 shares and DRs
 
 shares and DRs
+
+date of
+
+Note
 
 Stock
 
 Stock
 
-(Underlying
-share of DR)
-
-DRs
-
-(Underlying
-share of DR)
-
-DRs
+Type of
+shares
 
 Face
 value
 
-Start
-
-date of
-
 dividend
+
+DRs
+
+DRs
 
 eligibility
 
-Note
+(Underlying
+share of DR)
+
+(Underlying
+share of DR)
 
 Date: mm/dd/yyyy
 
@@ -9757,11 +9757,15 @@ classes of stocks on the KOSDAQ market that the Korea Exchange established and h
 
 1.  Details of the stocks to be listed
 
+Start date for
+
 Type
 
 Number of
 
 Par value
+
+Note
 
 of shares
 
@@ -9769,12 +9773,8 @@ issued shares
 
 per share
 
-Start date for
-
 dividend
 eligibility
-
-Note
 
 References:
 
@@ -10170,13 +10170,13 @@ Name of company:
 
 Name and seal of the representative director:
 
+(Attachment)
+
 Marketability Statement
 
 Name and seal of Analyst:
 
 (Required experience: Minimum 3 years)
-
-(Attachment)
 
 I.  Industry Analysis
 
@@ -10240,13 +10240,13 @@ Business Year
 Year XX  Year XX
 
 Year XX
-(Projected year 1)
-
-Year XX
 (Projected year 2)
 
 Year XX
 (Projected year 3)
+
+Year XX
+(Projected year 1)
 
 Sales
 
@@ -10254,10 +10254,10 @@ Cost of Goods Sold
 
 Gross Profit
 
+and  Administrative
+
 Selling
 Expenses
-
-and  Administrative
 
 Operating Income
 
@@ -10274,12 +10274,12 @@ Income Taxes
 
 Provision for Income Taxes
 
-Income
-Operations
-
 from
 
 Continuing
+
+Income
+Operations
 
 Profit/Loss  from  Discontinued
 Operations
@@ -10291,6 +10291,8 @@ Other Comprehensive Income
 Total Comprehensive Income
 
 <Projected Statement of Financial Positions>
+
+(KRW mil.)
 
 Business Year
 
@@ -10304,8 +10306,6 @@ Year XX
 
 Year XX
 (Projected year 3)
-
-(KRW mil.)
 
 Current Assets
 
@@ -10343,10 +10343,10 @@ Capital Surplus
 
 Capital Adjustment
 
+Other
+
 Accumulated
 Comprehensive Income
-
-Other
 
 Retained Earnings
 
@@ -10440,11 +10440,11 @@ Name/seal of the representative director:
 
 (Attachment 1)
 
+Business Model Company Evaluation Report
+
 1. Overview
 
 (1) Company overview
-
-Business Model Company Evaluation Report
 
 Example: History, Organizational structure, Stocks issued, etc.
 
@@ -10519,6 +10519,9 @@ from public offerings
 Example: Detailed plans for production, sales and distribution, mid- and long-term sales and investment
 plans, etc.
 
+- Estimated income statement
+Business year
+
 yyyy
 
 yyyy
@@ -10534,9 +10537,6 @@ yyyy
 yyyy
 (The estimated
 3rd Period)
-
-- Estimated income statement
-Business year
 
 Classification
 Sales1
@@ -10559,6 +10559,14 @@ progress  of  contracts,  development  progress  and  expected  year  of  sales,
 customers, sale price, sales quantity, etc.
 (2)Please state in detail about the cost calculation for each account related to sales estimation.
 
+- Estimated Statement of Cash Flow
+
+Business year
+
+yyyy
+
+yyyy
+
 yyyy
 (The estimated
 1stPeriod)
@@ -10570,14 +10578,6 @@ yyyy
 yyyy
 (The estimated
 3rdPeriod)
-
-- Estimated Statement of Cash Flow
-
-Business year
-
-yyyy
-
-yyyy
 
 Classification
 Cash flows from
@@ -10663,9 +10663,20 @@ obligations or a written confirmation on entering into a modified agreement shal
 
 2. Record of Listing Arrangement for KOSDAQ-listed Corporations within the Last Three Years
 
+Stock price
+
+Designation as an
+administrative issue,
+etc.*
+
 Company
 
+Note
+
 Listing
+date
+
+Occurrence
 date
 
 Listing track
@@ -10674,21 +10685,12 @@ profit/innovative
 technology/business
 model)
 
-Designation as an
-administrative issue,
-etc.*
-
 Occurrence
 or not
-
-Occurrence
-date
 
 Public
 offering
 price
-
-Stock price
 
 Closing
 price of the
@@ -10705,8 +10707,6 @@ after 6
 months
 from the
 listing date
-
-Note
 
 Note: State whether the company was designated as an administrative issue and/or investment attention issue, or
 whether a reason for delisting occurred.
@@ -10932,15 +10932,22 @@ Details
 
 Met/Unmet
 
-Listing
-of
-paper company
+not
 
 be
 
 the
 
-not
+of
+
+listed
+
+Listing
+of
+paper company
+
+Name
+Exchange
 
 Shall
 stock-listed
@@ -10949,6 +10956,12 @@ listed foreign stocks or foreign stock depositary
 receipts in overseas stock markets designated by
 the Exchange) under Article9(15)3 of the Act
 
+- Total value of stocks
+
+invested:
+
+- Total asset value:
+
 Stock
 investment
 
@@ -10956,19 +10969,6 @@ The  total  value  of  stocks  invested  in  other
 corporations  as  of  the  end  of  recent  business
 year  shall  be  at  least  50%  of  the  total  asset
 value(1)
-
-Name
-Exchange
-
-of
-
-listed
-
-- Total value of stocks
-
-invested:
-
-- Total asset value:
 
 - Ratio：
 
@@ -10993,16 +10993,27 @@ in
 amount(C)
 relations  with
 
+issuances of stocks/bonds and listing
+
+- Sales amount related
+to 1)~4) (A):
+
+3)  Generally  necessary  business
+
+the
+
 Conducting
 profit business
-
-issuances of stocks/bonds and listing
 
 a
 
 corporation
 
-3)  Generally  necessary  business
+- Sales amount related
+to profit business
+except 1)~4)(B):
+
+- Ratio (B/C)
 
 for
 operation  of
@@ -11012,27 +11023,11 @@ recruitment  and  management  of  human
 resource,  development  and  operation  of
 computing system etc.
 
-- Sales amount related
-to 1)~4) (A):
-
-the
-
-- Sales amount related
-to profit business
-except 1)~4)(B):
-
-- Ratio (B/C)
-
 4)  Other  business  related  to  above-mentioned
 
 business
 
 - List of business
-
-Business
-development
-investment
-company
 
 the  business  development
 Shall  not  be
@@ -11042,19 +11037,24 @@ investment  company  under  [§85-2(2)]  of  the
 Financial Services
 Commission
 
+Business
+development
+investment
+company
+
 Note. In case of submission of documents that confirms whether the paper company meet the criteria based on
 current stock price and total asset value after the end of the latest business year, the concerned documents may
 be used.
 
 4. Documents to be attached
 
-Attachments
-
 Attached or not
 
-(O /X)
+Attachments
 
 Remarks
+
+(O /X)
 
 4-1
 
@@ -11093,9 +11093,9 @@ Name and seal of the representative director:
 
 Written Affirmation on Mandatory Holding of Stocks, etc. (Initial Listing, etc.)
 
-mm/dd/yyyy
-
 Date:
+
+mm/dd/yyyy
 
 I and the related persons (hereinafter referred to as “the party undersigned”) hereby affirm that we will
 keep the following promises as the persons subject to mandatory holding falling under the provisions
@@ -11140,10 +11140,15 @@ to any measures to be taken by the Exchange.
 
 5. Details of stocks, etc. under mandatory holding by persons subject to mandatory holding
 
-Name of
-shareholder
+Period of mandatory
+holding
 
 Relation(1)
+
+Note
+
+Name of
+shareholder
 
 Type of
 securities(2)
@@ -11154,11 +11159,6 @@ shares(3)
 Reasons for
 mandatory
 holding(4)
-
-Period of mandatory
-holding
-
-Note
 
 Begins on  Ends on
 
@@ -11180,13 +11180,13 @@ Stock options
 
 Common Shares
 
+Total
+
 Different Class
 of Shares
 Other securities
 
 Stock options
-
-Total
 
 Notes:
 
@@ -11247,6 +11247,10 @@ a pledge right, sales, withdrawal, etc. of the stocks, etc. owned by the persons
 holding  and  the  method  of  handling the matter in the  event  that the mandatory holding  becomes
 impracticable due to the provision of the relevant stocks, etc. as collateral, etc.
 
+Securities
+
+Co.,
+
 3. The party undersigned will make mandatory holding, accounts transfer, establishment and removal
 of a pledge right, sales, withdrawal, etc., of the stocks, etc. owned by the party undersigned during
 the mandatory holding period only through the listing sponsor,
@@ -11255,10 +11259,6 @@ Ltd.
 as a market notice by the listing sponsor of the facts if the account transfer, establishment and removal
 of a pledge right, sales, withdrawal, etc., of the relevant stocks, etc. are made.
 
-Securities
-
-Co.,
-
 4. The party undersigned will promise to faithfully respond to the request of the Exchange to confirm
 the fact in cases where the party undersigned, as the persons subject to mandatory holding of stocks,
 
@@ -11266,10 +11266,15 @@ measures to be taken by the Exchange.
 
 5. Details of stocks, etc. under mandatory holding by persons subject to mandatory holding
 
-Name of
-shareholder
+Period of mandatory
+holding
 
 Relation(1)
+
+Note
+
+Name of
+shareholder
 
 Type of
 securities(2)
@@ -11280,11 +11285,6 @@ shares(3)
 Reasons for
 mandatory
 holding(4)
-
-Period of mandatory
-holding
-
-Note
 
 Begins on  Ends on
 
@@ -11308,14 +11308,14 @@ Stock options
 
 Common Shares
 
+Total
+
 Different Class of
 Shares
 
 Other securities
 
 Stock options
-
-Total
 
 Notes:
 
@@ -11393,10 +11393,15 @@ measures to be taken by the Exchange.
 
 5. Details of stocks, etc. under mandatory holding by persons subject to mandatory holding
 
-Name of
-shareholder
+Period of mandatory
+holding
 
 Relation(1)
+
+Note
+
+Name of
+shareholder
 
 Type of
 securities(2)
@@ -11407,11 +11412,6 @@ shares(3)
 Reasons for
 mandatory
 holding(4)
-
-Period of mandatory
-holding
-
-Note
 
 Begins on  Ends on
 
@@ -11435,14 +11435,14 @@ Stock options
 
 Common Shares
 
+Total
+
 Different Class of
 Shares
 
 Other securities
 
 Stock options
-
-Total
 
 Notes:
 
@@ -11523,25 +11523,25 @@ measures to be taken by the Exchange.
 
 5. Details of stocks, etc. under mandatory holding by the persons subject to mandatory holding
 
-Name of
-shareholder
+Mandatory holding period
 
 Relation(1)
+
+Classification(2)
+
+Note
+
+Name of
+shareholder
 
 Number of
 shares
 
-Classification(2)
+Begins on  Ends on(4)
 
 Reasons for
 mandatory
 holding(3)
-
-Mandatory holding period
-
-Begins on  Ends on(4)
-
-Note
 
 Notes:
 
@@ -11599,12 +11599,12 @@ objection to any measures to be taken by the Exchange.
 
 3. Details of stocks, etc. under mandatory holding (planned)
 
-Name of
-shareholders
-
 Type of stocks
 
-Common stocks
+Note
+
+Name of
+shareholders
 
 Number of shares
 publicly offered
@@ -11612,13 +11612,19 @@ publicly offered
 Number of shares under
 mandatory holding
 
-Note
+Common stocks
 
 4. Status of technology growth companies for which the undersigned has arranged listings over the
 past three  (3)  years (indicate  if  “A”  is  a  domestic  company listed  as  an innovative  technology
 company)
 
 Company
+
+Note
+
+Designation
+as an administrative
+issue, etc.*
 
 Date of
 listing
@@ -11627,17 +11633,11 @@ Listing track
 (Innovative technology/
 business model)
 
-Designation
-as an administrative
-issue, etc.*
-
 Occurred or
 not
 
 Date of
 occurrence
-
-Note
 
 Note:  State  whether  the  company  is  designated  as  an  administrative  issue  and/or  investment
 
@@ -11674,24 +11674,24 @@ taken by the Exchange.
 
 3. Details of stocks, etc. under mandatory holding (planned)
 
+Period of mandatory
+holding
+
+Type of securities(1)
+
+Note
+
 Name of
 shareholder
 
 Timing of
 purchase
 
-Type of securities(1)
-
 Number of
 shares(2)
 
 Disparate
 ratios(3)
-
-Period of mandatory
-holding
-
-Note
 
 Begins on  Ends on
 
@@ -11711,12 +11711,12 @@ Other securities
 
 Common stocks
 
+Total
+
 Different  class  of
 stocks
 
 Other securities
-
-Total
 
 Notes:
 
@@ -11790,16 +11790,10 @@ the Exchange.
 
 5. Details of stocks, etc. under mandatory holding by the persons subject to mandatory holding
 
-Reasons for
-mandatory
-holding(4)
-
 Period of mandatory
 holding
 
 Note
-
-Begins on  Ends on
 
 Name of
 shareholder
@@ -11816,13 +11810,11 @@ securities(2)
 Number of
 shares(3)
 
-Common stocks
+Reasons for
+mandatory
+holding(4)
 
-Different class
-
-of stocks
-
-Other securities
+Begins on  Ends on
 
 Common stocks
 
@@ -11839,8 +11831,16 @@ Different class
 of stocks
 
 Other securities
+
+Common stocks
+
+Different class
 
 Total
+
+of stocks
+
+Other securities
 
 Notes:
 
@@ -11915,16 +11915,10 @@ the Exchange.
 
 5. Details of stocks, etc. under mandatory holding by the persons subject to mandatory holding
 
-Reasons for
-mandatory
-holding(4)
-
 Mandatory holding
 period
 
 Note
-
-Begins on  Ends on
 
 Name of
 shareholder
@@ -11941,13 +11935,11 @@ securities(2)
 Number of
 shares(3)
 
-Common stocks
+Reasons for
+mandatory
+holding(4)
 
-Different class
-
-of stocks
-
-Other securities
+Begins on  Ends on
 
 Common stocks
 
@@ -11964,8 +11956,16 @@ Different class
 of stocks
 
 Other securities
+
+Common stocks
+
+Different class
 
 Total
+
+of stocks
+
+Other securities
 
 Notes:
 
@@ -12021,11 +12021,15 @@ breach of the confirmation duty.
 
 Name of the largest shareholder
 
-Yes/No
-
 in case of  “Yes”
 
+Yes/No
+
 Before change  After change  Relation(2)
+
+Yes
+
+No
 
 2-1. Whether the largest shareholder(3) or shareholders with
 at  least  5%  of  stocks  of  unlisted  corporation  became  the
@@ -12033,19 +12037,15 @@ largest shareholder of the    Corporation within one (1) year
 before the submission date of report on material facts of the
 merger
 
+Yes
+
+No
+
 2-2. Whether the largest shareholder3) or shareholders with
 at  least  5%  of  stocks  of  unlisted  corporation  became  the
 largest  shareholder  of  the  Corporation  as  a  result  of  the
 merger (refers to case of becoming the largest shareholder
 by the ratio of merger on the report of the merger)
-
-Yes
-
-No
-
-Yes
-
-No
 
 Notes:
 
@@ -12080,9 +12080,9 @@ shareholder”  (including
 
 3. Whether or not the size of unlisted corporation is
 
-larger than the Corporation(1)
-
 Yes / No
+
+larger than the Corporation(1)
 
 Total assets
 
@@ -12103,18 +12103,18 @@ for
 
 the  cases  where  at
 
+least
+
+two  of
+
+total  assets,  capital  and  sales  of
+
+the  unlisted
+
 (1)  “Yes”
 corporation are larger than the Corporation, or if the corporate value of the unlisted corporations, etc. calculated
 in accordance with the Regulations on Issuance and Disclosure of securities, taking into account the merger price
 noted in the report on key facts of the merger, is greater than that of the Corporation.
-
-total  assets,  capital  and  sales  of
-
-two  of
-
-least
-
-the  unlisted
 
 (2) Figures shall be based on the latest business year (or at the end of the latest business year) as of the submission
 date of the report on material facts of the merger.
@@ -12129,33 +12129,33 @@ noted in 6-5, 6-7, 6-8, 6-9, 6-10, 6-11, and 6-12 are exempted.
 
 4. Matters on the fulfillment of merger requirements (1)
 
-Requirements
-
 Yes/No
 
-(o/x)
+Requirements
 
 Note
 
+(o/x)
+
 Size of corporation(2)(6)
+
+in  case  where
 
 Equity capital shall be at least KRW 3 billion (at least
 KRW  1.5  billion
 the  unlisted
 corporation is a venture business)
 
-in  case  where
+Profit shall exist
 
 Profit  of  going  concern  business
 before corporate tax(3)(4)
 
-Profit shall exist
-
-Size of profit(3)( 4)(6)
-
 a) Return on equity as of recent business year end shall
 be  at  least  10/100  (5/100  in  case  where  the  unlisted
 corporation is a venture business); or
+
+Size of profit(3)( 4)(6)
 
 b) Net profits of recent business year shall be at least
 KRW  2  billion  (KRW  1  billion  in  case  where  the
@@ -12191,36 +12191,28 @@ year shall be reflected.
 
 5. Matters on mandatory holing
 
-Reason for
-mandatory
-holding(1)
+Mandatory holding
 
 Nominee
 
 Type of
 nominee
 
+Note
+
+Volume
+
 (2)
 
-(3)
+Reason for
+mandatory
+holding(1)
 
 Target
 stocks
 (4)
 
-Mandatory holding
-
-Name of
-corporation
-(5)
-
-Listed/
-unlisted
-(6)
-
-Volume
-
-(7)
+(3)
 
 Starting
 date(8)
@@ -12231,7 +12223,15 @@ date(9)
 Period
 (10)
 
-Note
+(7)
+
+Name of
+corporation
+(5)
+
+Listed/
+unlisted
+(6)
 
 Largest
 shareholder
@@ -12244,10 +12244,10 @@ Notes:
 holding, the reason with the longest mandatory holding period shall be stated. Any different mandatory holding
 periods for different reasons shall be stated separately.
 
+Explanations
+
 Reasons for mandatory
 holding
-
-Explanations
 
 Largest    shareholder
 
@@ -12266,11 +12266,11 @@ In  case  of  the  stock  acquisition  from  the  largest  shareholder  from  6
 months  before  the  submission  date  of  report  on  material  facts  to
 supplementary listing day
 
+and
+
 capital
 Venture
 professional investor
-
-and
 
 Stocks with under 2 years of investment period as of the submission date
 of the report on material facts
@@ -12327,10 +12327,10 @@ month, etc.)
 
 List of attachments
 
+Note
+
 Attached or
 not (o/x)
-
-Note
 
 6-1
 
@@ -12362,11 +12362,11 @@ Certified  copy  of  corporate  register  for  an  unlisted  corporation
 Including  close-down
 and cancellation
 
+6-7  Confirmation of main creditor bank of an unlisted corporation
+
 No  bankruptcy  or  the
 bankruptcy is resolved
 within 6 months
-
-6-7  Confirmation of main creditor bank of an unlisted corporation
 
 6-8
 
@@ -12386,15 +12386,15 @@ expected volume to be issued until the date of merger)
 
 6-11  Documents certifying mandatory holding during back-door listing
 
-6-12  Other documents to ensure above contents
-
-Notes:
-
 Attached
 when
 documents  for  back-
 door listing review are
 submitted
+
+6-12  Other documents to ensure above contents
+
+Notes:
 
 (1) Two summaries shall be prepared based on the date of one (1) year before the submission date of the report
 on material facts of merger and the date of submission of the report on material facts of merge.
@@ -12430,25 +12430,21 @@ KOSDAQ Market regulations and enforcement rules of the same regulations. Also, t
 indemnify  any  and  all  claims  and  damages  which  may  arise  in  connection  with  the  breach  of
 confirmation duty.
 
-Name of the largest shareholder
-
-in case of  “Yes”
-
-Before change  After change  Relation(2)
-
 1. Name of unlisted corporation:
 
 2. Matters in relation with change in the largest shareholder(1)
 
+Name of the largest shareholder
+
 Yes
+
+in case of  “Yes”
 
 /
 
 No
 
-Yes
-
-No
+Before change  After change  Relation(2)
 
 Yes
 
@@ -12460,14 +12456,18 @@ shareholder of the Corporation within one (1) year before the
 submission  date  of  the  report  on  material  facts  of  the  stock
 swap
 
+Yes
+
+the
+
+No
+
 2-2. Whether the largest shareholder(3) or shareholders with at
 largest
 least  5%  of  unlisted  corporation  became
 shareholder of the Corporation as a result of the stock swap
 (refers to case of becoming the largest shareholder by the ratio
 of stock swap on the report of the stock swap)
-
-the
 
 Notes:
 
@@ -12505,33 +12505,33 @@ representative, executives, or shareholders who own at least 5% of shares]
 
 3. Matters on fulfillment of stock swap requirements(1)
 
-Requirements
-
 Yes/No
 
-(o/x)
+Requirements
 
 Note
 
+(o/x)
+
 Size of corporation(2)(6)
+
+in  case  where
 
 Equity capital shall be at least KRW 3 billion(at least
 KRW  1.5  billion
 the  unlisted
 corporation is a venture business)
 
-in  case  where
+Profit shall exist
 
 Profit  of  going  concern  business
 before corporate tax(3)(4)
 
-Profit shall exist
-
-Size of profit(3)( 4)(6)
-
 (a)  Return  on  equity  as  of  recent  business  year  end
 shall  be  at  least  10/100  (5/100  in  case  where  the
 unlisted corporation is a venture business); or
+
+Size of profit(3)( 4)(6)
 
 (b) Net profits of recent business year shall be at least
 KRW  2  billion  (KRW  1  billion  in  case  where  the
@@ -12566,36 +12566,28 @@ year shall be reflected.
 
 4. Matters on mandatory holding
 
-Reason for
-mandatory
-holding(1)
+Mandatory holding
 
 Nominee
 
 Type of
 nominee
 
+Note
+
+Volume
+
 (2)
 
-(3)
+Reason for
+mandatory
+holding(1)
 
 Target
 stocks
 (4)
 
-Mandatory holding
-
-Name of
-corporation
-(5)
-
-Listed/
-unlisted
-(6)
-
-Volume
-
-(7)
+(3)
 
 Starting
 date(8)
@@ -12606,7 +12598,15 @@ date(9)
 Period
 (10)
 
-Note
+(7)
+
+Name of
+corporation
+(5)
+
+Listed/
+unlisted
+(6)
 
 Largest
 shareholder
@@ -12619,10 +12619,10 @@ Notes:
 holding, the reason with the longest mandatory holding period shall be stated. Any different mandatory holding
 periods for different reasons shall be stated separately.
 
+Explanations
+
 Reasons for mandatory
 holding
-
-Explanations
 
 Largest    shareholder
 
@@ -12641,11 +12641,11 @@ In  case  of  the  stock  acquisition  from  the  largest  shareholder  from  6
 months  before  the  submission  date  of  report  on  material  facts  to
 supplementary listing day
 
+and
+
 Venture
 capital
 professional investor
-
-and
 
 Stocks with under 2 years of investment period as of the submission date
 of the report on material facts
@@ -12701,10 +12701,10 @@ month, etc.)
 
 Name of attached document
 
+Note
+
 Attached or
 not (o/x)
-
-Note
 
 5-1
 
@@ -12734,7 +12734,16 @@ unlisted corporation(2)
 Certified  copy  of  corporate  register  for  an  unlisted  corporation
 (including changes in capital for recent 2 years)
 
+Including  close-down
+and cancellation
+
 5-7  Confirmation of main creditor bank of an unlisted corporation
+
+No  bankruptcy  or  the
+is
+bankruptcy
+resolved  within  6
+months
 
 5-8
 
@@ -12753,15 +12762,6 @@ issuance,  allocation  and  redemption  of  equity-linked  bonds  and
 expected volume to be issued until the date of merger)
 
 5-11  Documents certifying mandatory holding during back-door listing
-
-Including  close-down
-and cancellation
-
-No  bankruptcy  or  the
-is
-bankruptcy
-resolved  within  6
-months
 
 Attached
 when
@@ -12817,6 +12817,20 @@ takeover
 2-2.  Submission  date  of  the  report  on
 material facts of business acquisition
 
+* Asset amount of business part that is subject to takeover:
+
+Yes
+
+Total asset amount at the end of recent business year:
+
+or
+
+* Sales amount of business part that is subject to takeover:
+
+No
+
+Total sales amount at the end of recent business year:
+
 2-3.  Whether  the  asset  amount  or  sales
 amount  of  business  part  that  is  subject  to
 takeover at the end of recent business year
@@ -12824,24 +12838,10 @@ shall be at least 30/100 of total asset amount
 or  total  sales  amount  of  the  unlisted
 corporation or not
 
-Yes
-
-or
-
-No
-
-* Asset amount of business part that is subject to takeover:
-
-Total asset amount at the end of recent business year:
-
-* Sales amount of business part that is subject to takeover:
-
-Total sales amount at the end of recent business year:
+shareholders’
 
 2-4.  Date  of
 meeting
-
-shareholders’
 
 2-5.  Base  date  of  business
 acquisition
@@ -12854,6 +12854,9 @@ to “3”
 
 < Matters on business acquisition and third-party allotment of stocks>
 
+Submission date of the report on material facts of
+business acquisition
+
 that
 
 is
@@ -12862,22 +12865,8 @@ subject
 
 to
 
-Submission date of the report on material facts of
-business acquisition
-
 3-1.  Business
 takeover
-
-3-2. Whether stocks are issued through the
-third party allotment within 6 months after
-the submission date of the report on material
-facts of business /assets takeover or not
-
-Yes
-
-or
-
-No
 
 Date of shareholders’ meeting
 
@@ -12885,13 +12874,24 @@ Base date of business acquisition
 
 3-2-1. List of allotted parties
 
+Yes
+
+or
+
+Yes
+
 3-2-2. Whether the largest shareholder of unlisted
 corporation  is  included  among  allotted  parties  or
 not
 
-Yes
+No
 
 or
+
+3-2. Whether stocks are issued through the
+third party allotment within 6 months after
+the submission date of the report on material
+facts of business /assets takeover or not
 
 No
 
@@ -12910,13 +12910,23 @@ or others of the unlisted corporation.]
 
 Name of the largest shareholder in case of
 
-Yes/No
-
 “Yes”
+
+Yes/No
 
 Before change  After change
 
 Relation1)
+
+Yes
+
+or
+
+No
+
+shareholder  of
+
+the  KOSDAQ
 
 3-3.  Whether  a  KOSDAQ  listed  corporation  has
 issued stocks through the third party allotment to the
@@ -12929,9 +12939,11 @@ listed
 corporation between the submission date of the report
 on material facts and the date of issuance
 
-shareholder  of
+Yes
 
-the  KOSDAQ
+or
+
+No
 
 3-4.  Whether  a  KOSDAQ  listed  corporation  issues
 stocks  to  the  largest  shareholder  of  an  unlisted
@@ -12940,18 +12952,6 @@ corporation through the third party allotment within
 material facts of business acquisition and the largest
 shareholder  of  the  unlisted  corporation  became  the
 largest shareholder the KOSDAQ listed corporation
-
-Yes
-
-or
-
-No
-
-Yes
-
-or
-
-No
 
 Note (1) The relation refers to the relation between the largest shareholder of the corporation after the change
 and an unlisted corporation that is subject to business acquisition [state as the largest shareholder, related persons
@@ -12970,26 +12970,24 @@ of documents related to “8-1, 8-3, 8-4, 8-5, 8-7, and 8-8” are exempted.
 
 4. Matters on issuance of stocks allotted to third party
 
+Yes/No
+
 4-1 Whether stocks(1)have been issued(2) through the third party allotment within one (1) year before
 the submission date of the report on material facts of business acquisition or not
 
-Yes/No
-
 4-1-1 List of allotted parties
+
+(If 4-1 is 'Yes')
+
+Yes/No
 
 4-1-2 Whether the largest shareholder(3)or shareholders who hold at least 5% of
 shares of unlisted corporation is/are included among allotted parties (including
 equity investors who invested at least 5%; the same hereinafter) or not
 
-Yes/No
-
 * If 'Yes', the allotted parties and relation(4) shall be stated
 
 4-1-3 Type of issued stock
-
-4-1-4 Issuance date of stock, etc.(5)
-
-(If 4-1 is 'Yes')
 
 ※In  case  of  2  times
 or  more  of  the  third
@@ -12999,6 +12997,8 @@ shall
 stated
 be
 separately
+
+4-1-4 Issuance date of stock, etc.(5)
 
 Notes:
 
@@ -13016,14 +13016,22 @@ the unlisted corporation.]
 
 (5) It refers to the next day of stock payment date in the case of equity securities.
 
+Yes/ No
+
 4-2 Whether there is a plan(2) to issue stocks(1) through the third party allotment within six (6)
 months after the submission date of the report on material facts of business acquisition or not
-
-Yes/ No
 
 (If 4-2 is 'Yes')
 
 4-2-1 List of allotted parties
+
+Yes/ No
+
+4-2-2 Whether the largest shareholder(3) or shareholders who hold at least
+5%  of  shares  of  unlisted  corporation  is/are  included  among  allotment
+parties or not
+
+* If 'Yes', the allotted parties and relation(4) shall be stated
 
 ※In case of 2 times or
 more of the third party
@@ -13031,19 +13039,11 @@ allotment  of  stocks,
 each allotment shall be
 stated
 
-Notes:
-
-4-2-2 Whether the largest shareholder(3) or shareholders who hold at least
-5%  of  shares  of  unlisted  corporation  is/are  included  among  allotment
-parties or not
-
-Yes/ No
-
-* If 'Yes', the allotted parties and relation(4) shall be stated
-
 4-2-3 Type of stock scheduled to be issued
 
 4-2-4 Scheduled issuance date of stocks(5)
+
+Notes:
 
 (1) It refers to stocks, stock subscription certificates, convertible bonds, bonds with warrants and exchangeable
 bonds.
@@ -13076,9 +13076,17 @@ related to “8-1, 8-3, 8-4, 8-5, 8-7, and 8-8” are exempted.
 respect to the number of stocks as of scheduled issuance date through the third party stock allotment
 and the determination of the largest shareholder.
 
+5. Matters on the change in the largest shareholder (1)
+
 Name of the largest shareholder
 
+Yes
+
 in case of  “Yes”
+
+/ No
+
+Relation(2)
 
 Before
 change
@@ -13086,9 +13094,11 @@ change
 After
 change
 
-Relation(2)
+Yes
 
-5. Matters on the change in the largest shareholder (1)
+or
+
+No
 
 5-1.  In  case  where  “4-1  and  4-1-2”  are  “Yes”,  whether  the  largest
 shareholder(3)  or  shareholders  who  hold  at  least  5%  of  shares  of  an
@@ -13100,27 +13110,17 @@ hold at least 5% of shares of an unlisted corporation became the largest
 shareholder between the submission date of the report on material facts
 and the date of stock issuance through the third party allotment
 
+Yes
+
+or
+
 5-2. Whether  the  largest  shareholder  or  shareholders  who  hold  5%  of
 shares  of  unlisted  corporation  became  the  largest  shareholder  of  the
 KOSDAQ listed corporation through the third party stock allotment
 
+No
+
 Notes:
-
-Yes
-
-/ No
-
-Yes
-
-or
-
-No
-
-Yes
-
-or
-
-No
 
 (1) (a) Regarding the determination of largest shareholder on “5-1 and 5-2”, stocks that will be increased (based
 on the conversion price as of the submission date of the report on material facts of business acquisition and
@@ -13158,18 +13158,18 @@ is exempted.
 6.  Matters  on  fulfillment  of  requirements  (1)  for  business  acquisition  from  unlisted  corporation  and
 capital increase by the third party stock allotment
 
-Requirements
-
 Yes/No
 
-(o/x)
+Requirements
 
 Note
 
-Profit of going concern business
-before corporate tax(2),(3)
+(o/x)
 
 Profit shall exist
+
+Profit of going concern business
+before corporate tax(2),(3)
 
 Size of liability(2)
 
@@ -13198,35 +13198,27 @@ refers to audit opinion of consolidated financial statements.
 
 7. Matters on mandatory holding
 
-Reason for
-mandatory
-holding(1)
+Mandatory holding
 
 Nominee
 
 Type of
 nominee
 
-(2)
+Note
 
-(3)
+Volume
 
 Target
 stocks(4)
 
-Mandatory holding
+(2)
 
-Name of
-corporation
-(5)
+Reason for
+mandatory
+holding(1)
 
-Listed/
-unlisted
-(6)
-
-Volume
-
-(7)
+(3)
 
 Starting
 date(8)
@@ -13237,7 +13229,15 @@ date(9)
 Period
 (10)
 
-Note
+(7)
+
+Name of
+corporation
+(5)
+
+Listed/
+unlisted
+(6)
 
 Largest
 shareholder
@@ -13251,10 +13251,10 @@ holding, the reason with the longest mandatory holding period shall be stated. A
 
 periods for different reasons shall be stated separately.
 
+Explanations
+
 Reasons for mandatory
 holding
-
-Explanations
 
 Largest    shareholder
 
@@ -13273,11 +13273,11 @@ In  case  of  the  stock  acquisition  from  the  largest  shareholder  from  6
 months  before  the  submission  date  of  report  on  material  facts  to
 supplementary listing day
 
+and
+
 Venture
 capital
 professional investor
-
-and
 
 Stocks with under 2 years of investment period as of the submission date
 of the report on material facts
@@ -13334,20 +13334,20 @@ month, etc.)
 
 Name of attached document
 
-Attached or
-not (o/x)
-
 Note
 
-8-1
-
-8-2
+Attached or
+not (o/x)
 
 Written affirmation on mandatory holding by those who are subject to
 mandatory holding
 
+8-1
+
 *  It  is  limited  to  cases  when  the  issuance  date  of  third  party  stock
 allotment is after the submission date of the report on material facts
+
+8-2
 
 List of shareholders (including equity investors) and summary list of
 shareholders(1)  of  unlisted  corporation  (in  case  of  the  largest
@@ -13369,28 +13369,28 @@ KOSDAQ listed corporation
 
 8-6  Certified copy of corporate register for an unlisted corporation
 
-8-7
-
-Documents  certifying  mandatory  holding  during  back-door  listing
-review
+close-
+and
 
 Including
 down
 cancellation
 
-close-
-and
+8-7
+
+Documents  certifying  mandatory  holding  during  back-door  listing
+review
+
+it  when
+for
+listing
+are
 
 Attach
 documents
 back-door
 review
 submitted
-
-it  when
-for
-listing
-are
 
 8-8  Other documents to ensure above contents
 
@@ -13441,6 +13441,22 @@ confirmation duty.
 2-2.  Submission  date  of  the  report  on
 material facts of business acquisition
 
+* Asset amount of business part that is subject to takeover:
+
+Yes
+
+Total asset amount at the end of recent business year:
+
+or
+
+* Sales amount of business part that is subject to takeover:
+
+sales  amount  of
+
+No
+
+Total sales amount at the end of recent business year:
+
 2-3.  Whether  the  asset  amount  or  sales
 amount  of  business  part  that  is  subject  to
 takeover at the end of recent business year
@@ -13448,22 +13464,6 @@ is be at least 30/100 of total asset amount or
 total
 the  unlisted
 corporation?
-
-sales  amount  of
-
-Yes
-
-or
-
-No
-
-* Asset amount of business part that is subject to takeover:
-
-Total asset amount at the end of recent business year:
-
-* Sales amount of business part that is subject to takeover:
-
-Total sales amount at the end of recent business year:
 
 2-4. Date of shareholders’ meeting
 
@@ -13475,21 +13475,23 @@ noted in “7-1” and “7-9” and submissions of documents noted in “7-2”
 
 3. Matters on stock transfer
 
+Yes/No
+
 3-1 Whether the change in the largest shareholder within 1 year before the submission date of  the
 report on material facts of business acquisition is disclosed(1)or not
 
-Yes/No
+3-1-1 Name of changed and disclosed largest shareholder
 
 (if 3-1 is 'Yes')
 
-3-1-1 Name of changed and disclosed largest shareholder
+Yes/No
+
+of
 
 3-1-2  Whether  the  changed  and  disclosed  largest  shareholder  is  the  largest
 shareholder(2)  or  shareholder  with  5%  or  more  of  shares  of  an  unlisted
 corporation  (including  investors  who  invested  5%  or  more;  The  same
 hereinafter) or not
-
-Yes/No
 
 * If 'Yes', the relation with unlisted corporation(3)
 
@@ -13500,8 +13502,6 @@ the
 largest  shareholder,
 each  change  shall
 be stated separately
-
-of
 
 3-1-3 Date of stock transfer(4)
 
@@ -13519,12 +13519,23 @@ representative, executives or others of the unlisted corporation, etc.]
 
 (4) It refers to a date pursuant to (1) above.
 
+Yes/No
+
 3-2 Whether there is a plan(1)to transfer stocks within 6 months after the submission date of the report
 on material facts of business acquisition or not
 
-Yes/No
+3-2-1 List of predetermined stock transferee(2)
 
 (if 3-2 is' Yes')
+
+Yes/No
+
+3-2-2 Whether predetermined stock transferee is the largest shareholder(3) or
+shareholders with 5% or more of shares of an unlisted corporation or not
+
+* If 'Yes', the relation with the unlisted corporation(4)
+
+shall
 
 ※  In case of 2 times
 or  more  of  stock
@@ -13533,20 +13544,9 @@ be
 transfer
 stated separately
 
-shall
+3-2-3 Scheduled date of stock transfer(5)
 
 Notes:
-
-3-2-1 List of predetermined stock transferee(2)
-
-3-2-2 Whether predetermined stock transferee is the largest shareholder(3) or
-shareholders with 5% or more of shares of an unlisted corporation or not
-
-Yes/No
-
-* If 'Yes', the relation with the unlisted corporation(4)
-
-3-2-3 Scheduled date of stock transfer(5)
 
 (1) It is based on expected reporting day pursuant to [§6(1)3a(i)] of the KOSDAQ Market Disclosure Regulation.
 
@@ -13581,11 +13581,13 @@ determination of largest shareholder.
 
 4. Matters on the change in the largest shareholder(1)
 
-Yes/ No
-
 Name of the largest shareholder in
 
 case of  “Yes”
+
+Yes/ No
+
+Relation2)
 
 Before
 change
@@ -13593,7 +13595,11 @@ change
 After
 change
 
-Relation2)
+Yes
+
+or
+
+No
 
 4-1.  In  case  where  “3-1  and  3-1-2”  are  “Yes”,  whether  the
 largest shareholder3) or shareholders who hold 5% of shares of
@@ -13607,20 +13613,14 @@ KOSDAQ  listed  corporation  between  the  submission  date  of
 the report on material facts of business acquisition and the date
 of stock transfer
 
+Yes
+
+or
+
 4-2. Whether the largest shareholder or shareholders who hold
 5%  of  shares  of  an  unlisted  corporation  became  the  largest
 shareholder of the KOSDAQ listed corporation as a  result of
 the stock transfer
-
-Yes
-
-or
-
-No
-
-Yes
-
-or
 
 No
 
@@ -13662,18 +13662,18 @@ related to  “7-5” is exempted.
 5.  Matters  on  fulfillment  of  requirement(1)  for  business  acquisition  and  stock  transfer  from  unlisted
 corporation
 
-Requirements
-
 Yes/No
 
-(o/x)
+Requirements
 
 Note
 
-Profit of going concern business
-before corporate tax(2),(3)
+(o/x)
 
 Profit shall exist
+
+Profit of going concern business
+before corporate tax(2),(3)
 
 Size of liability(2)
 
@@ -13702,37 +13702,24 @@ statements, it refers to audit opinion of consolidated financial statements.
 
 6. Matters on mandatory holding
 
-Reasons
-for
-mandatory
-holding(1)
+Mandatory holding
 
 Nominee
 
 Type of
 nominee
 
-(2)
+Note
 
-(3)
+Volume
+
+(2)
 
 Target
 stocks
 (4)
 
-Mandatory holding
-
-Name of
-corporation
-(5)
-
-Listed/
-unlisted
-(6)
-
-Volume
-
-(7)
+(3)
 
 Starting
 date(8)
@@ -13743,7 +13730,20 @@ date(9)
 Period
 (10)
 
-Note
+Reasons
+for
+mandatory
+holding(1)
+
+(7)
+
+Name of
+corporation
+(5)
+
+Listed/
+unlisted
+(6)
 
 Largest
 shareholder
@@ -13756,10 +13756,10 @@ Notes:
 holding, the reason with the longest mandatory holding period shall be stated. Any different mandatory holding
 periods for different reasons shall be stated separately.
 
+Explanations
+
 Reasons for mandatory
 holding
-
-Explanations
 
 Largest    shareholder
 
@@ -13778,11 +13778,11 @@ In  case  of  the  stock  acquisition  from  the  largest  shareholder  from  6
 months  before  the  submission  date  of  report  on  material  facts  to
 supplementary listing day
 
+and
+
 Venture
 capital
 professional investor
-
-and
 
 Stocks with under 2 years of investment period as of the submission date
 of the report on material facts
@@ -13837,34 +13837,34 @@ month, etc.)
 
 7. Documents to be attached
 
-Name of attached document
-
 Attached or
 
-not(○, ×)
+Name of attached document
 
 Note
+
+not(○, ×)
 
 Written affirmation on mandatory holding by those who are subject to
 mandatory holding
 
+7-1
+
 ※  It is limited to cases when the date of stock transfer is after the
 submission date of the report on material facts
+
+7-2
 
 List of shareholders (including equity investors) and summary list of
 shareholders(1)  of  unlisted  corporation  (in  case  of  the  largest
 shareholder  and  shareholders  who  hold  at  least  5%  of  shares,  they
 shall be stated separately)
 
+7-3
+
 Details of stock holdings in the KOSDAQ listed corporation by the
 largest  shareholder  and  shareholders  who  hold  at  least  5%  of  the
 unlisted corporation(2)
-
-7-1
-
-7-2
-
-7-3
 
 7-4
 
@@ -13875,27 +13875,27 @@ KOSDAQ listed corporation
 
 7-6  Certified copy of corporate register for an unlisted corporation
 
-7-7
-
-Documents  certifying  mandatory  holding  during  back-door  listing
-review
-
-7-8  Other documents to ensure above contents
-
-Notes:
+close-
+and
 
 Including
 down
 cancellation
 
-close-
-and
+7-7
+
+Documents  certifying  mandatory  holding  during  back-door  listing
+review
 
 Attach
 it  when
 documents  for  back-
 door  listing  review
 are submitted
+
+7-8  Other documents to ensure above contents
+
+Notes:
 
 (1) Summaries shall be prepared as of the submission date of the report on material facts of business acquisition
 and before and after the disclosure of change in the largest shareholder, respectively.
@@ -13942,18 +13942,18 @@ and all claims and damages which may arise in connection with the breach of conf
 
 2-1 List of transferor of equity securities and number of transferred stock per each transferor
 
+Yes/No
+
 2-2  Whether  the  largest  shareholder(1)or  shareholders  with  5%  or  more  of  shares  of  an  unlisted
 corporation  (including  investor  with  5%  or  more  of  shares;  the  same  hereinafter)  is/are  among
 transferors of equity securities
 
-Yes/No
-
 * if 'Yes', the name of transferor and relation(2)
+
+Yes/No
 
 2-3 Whether or not the holding ratio of the ABC Corporation in the unlisted corporation after taking
 over the equity securities is 50% or higher or exceeds 30%becoming the largest investor
-
-Yes/No
 
 * The holding ratio of the ABC Corporation in the unlisted corporation after the takeover of equity
 securities
@@ -13980,23 +13980,16 @@ shareholder
 
 <Matters on asset acquisition and issuance of stocks, etc. by third-party allotment>
 
-3-1. Asset for takeover
-
 Submission date of the report on material facts of
 asset acquisition
+
+3-1. Asset for takeover
 
 Resolution date of asset acquisition
 
 Base date of asset acquisition
 
 3-2-1. List of recipients to be allotted
-
-3-2. Whether stocks are issued through
-the
-third  party  allotment  within  6
-months after the submission date of the
-report  on  material  facts  of  significant
-asset acquisition or not
 
 Yes/
 
@@ -14012,6 +14005,13 @@ No
 
 * If 'Yes', the name of recipient to be allotted and
 relation(1)
+
+3-2. Whether stocks are issued through
+the
+third  party  allotment  within  6
+months after the submission date of the
+report  on  material  facts  of  significant
+asset acquisition or not
 
 3-2-3. Type of issuing stocks
 
@@ -14029,13 +14029,17 @@ in case of  “Yes”
 
 Yes/No
 
+Relation(1)
+
 Before
 change
 
 After
 change
 
-Relation(1)
+Yes/
+
+No
 
 3-3.  Whether  a  KOSDAQ  listed  corporation  has  issued  stocks
 through  the  third  party  allotment  to  the  largest  shareholder  of  the
@@ -14045,20 +14049,16 @@ shareholder of unlisted corporation became the largest shareholder
 of  KOSAQ  listed  corporation  between  the  submission  date  of  the
 report on material facts of asset acquisition and the date of issuance
 
+Yes/
+
+No
+
 3-4.  Whether  a  KOSDAQ  listed  corporation  issues  stocks  to  the
 largest shareholder of an unlisted corporation through the third party
 allotment within 6 months after the submission date of the report on
 material facts of asset acquisition and the largest shareholder of the
 unlisted  corporation  became  the  largest  shareholder  the  KOSDAQ
 listed corporation
-
-Yes/
-
-No
-
-Yes/
-
-No
 
 Note (1) It refers to the relation between the changed largest shareholder of the KOSDAQ listed corporation and
 
@@ -14078,25 +14078,25 @@ documents related to “8-1, 8-3, 8-4, 8-5, and 8-7” are exempted.
 
 4. Matters on issuance of stocks by third-party allotment
 
+Yes/No
+
 4-1  Whether  stocks(1)have  been  issued(2)  through  the  third  party  allotment  within  1  year  before  the
 submission date of the report on material facts of asset acquisition or not
 
-Yes/No
-
 4-1-1 List of allotted parties
+
+(In case of “Yes” to 4-1)
+
+Yes/No
 
 4-1-2 Whether the largest shareholder(3)or shareholders with 5% or more of
 shares of unlisted corporation is/are included among allotted parties or not
 
-Yes/No
-
 * If 'Yes', name of allotted parties and relation(4)
 
+shall
+
 4-1-3 Type of issued stocks
-
-4-1-4 Issuance date of stocks, etc.(5)
-
-(In case of “Yes” to 4-1)
 
 ※  In  case  of  2  times  or
 more  of  the  third  party
@@ -14105,7 +14105,7 @@ be
 allotment
 completed separately
 
-shall
+4-1-4 Issuance date of stocks, etc.(5)
 
 Notes:
 
@@ -14122,14 +14122,16 @@ or others of the unlisted corporation.]
 
 (5) It refers to the next day of stock payment date in case of stocks.
 
+Yes/No
+
 4-2 Whether there is a plan(1) to issue stocks(2) through the third party allotment within 6 months after
 the submission date of the report on material facts of asset acquisition or not
 
-Yes/No
+4-2-1 List of allotted parties
 
 (In case of “Yes” for“4-2”)
 
-4-2-1 List of allotted parties
+Yes/No
 
 ※  In case of 2 times or more
 of the third party allotment of
@@ -14137,12 +14139,10 @@ of the third party allotment of
 4-2-2 Whether the largest shareholder(3) or shareholders with 5% or more
 of shares of unlisted corporation is/are included among allotted parties
 
-Yes/No
+or not
 
 stocks,  each  allotment  shall
 be completed separately
-
-or not
 
 * If 'Yes' name of allotted parties and relation(4)
 
@@ -14185,11 +14185,13 @@ shareholder.
 
 5. Matters on the change in the largest shareholder(1)
 
-Yes/ No
-
 Name of the largest shareholder
 
 in case of  “Yes”
+
+Yes/ No
+
+Relation(2)
 
 Before
 change
@@ -14197,7 +14199,9 @@ change
 After
 change
 
-Relation(2)
+Yes/
+
+No
 
 5-1.  In  case  where  “4-1  and  4-1-2”  are  “Yes”  whether  the  largest
 shareholder(3) or shareholders who hold at least 5% of shares of an
@@ -14218,10 +14222,6 @@ No
 more  of  shares  of  an  unlisted  corporation  became  the  largest
 shareholder  of  the  KOSDAQ  listed  corporation  through  the  third
 party stock allotment
-
-Yes/
-
-No
 
 Notes:
 
@@ -14261,15 +14261,15 @@ related to “8-5 and 8-7” is exempted.
 6.  Matters  on  fulfillment  of  requirements(1)  for  takeover  of  equity  securities  issued  by  unlisted
 corporations and the capital increase by third-party allotment
 
+Yes/No
+
 Items
 
 Requirements
 
-Yes/No
+Note
 
 (o/x)
-
-Note
 
 Size of corporation(2)(5)
 
@@ -14277,16 +14277,16 @@ Equity capital shall be at least KRW 3 billion (at least
 KRW 1.5 billion if the unlisted corporation is a venture
 business)
 
-Profit  of  going  concern  business
-before corporate tax(3)(4)
-
 Profit shall exist
 
-Size of profit (3)(4)(5)
+Profit  of  going  concern  business
+before corporate tax(3)(4)
 
 a) Return on equity as of recent business year end shall
 be  at  least  10/100  (5/100  in  case  where  the  unlisted
 corporation is a venture business); or
+
+Size of profit (3)(4)(5)
 
 b)  Net  profits  of  recent  business  year  shall  be  at  least
 KRW 2 billion(KRW 1 billion in case where the unlisted
@@ -14321,40 +14321,24 @@ year shall be reflected.
 
 7. Matters on mandatory holding
 
-Reasons
-for
-mandatory
-holding(1)
+Mandatory holding
 
 Nominee
 
 Type of
 nominee
 
-(2)
+Note
 
-(3)
+Volume
+
+(2)
 
 Target
 stocks
 (4)
 
-Largest
-shareholder
-
-Mandatory holding
-
-Name of
-corporation
-(5)
-
-Listed/
-unlisted
-(6)
-
-Volume
-
-(7)
+(3)
 
 Starting
 date(8)
@@ -14365,7 +14349,23 @@ date(9)
 Period
 (10)
 
-Note
+Reasons
+for
+mandatory
+holding(1)
+
+(7)
+
+Name of
+corporation
+(5)
+
+Listed/
+unlisted
+(6)
+
+Largest
+shareholder
 
 Note (1) The table above shall be completed for each of the following reasons for mandatory holding.
 
@@ -14373,10 +14373,10 @@ Note (1) The table above shall be completed for each of the following reasons fo
 holding, the reason with the longest mandatory holding period shall be stated. Any different mandatory holding
 periods for different reasons shall be stated separately.
 
+Explanations
+
 Reasons for mandatory
 holding
-
-Explanations
 
 Largest    shareholder
 
@@ -14395,11 +14395,11 @@ In  case  of  the  stock  acquisition  from  the  largest  shareholder  from  6
 months  before  the  submission  date  of  report  on  material  facts  to
 supplementary listing day
 
+and
+
 capital
 Venture
 professional investor
-
-and
 
 Stocks with under 2 years of investment period as of the submission date
 of the report on material facts
@@ -14453,23 +14453,23 @@ month, etc.)
 
 8. Documents to be attached
 
-Name of attached document
-
 Attached or
 
-not (○, ×)
+Name of attached document
 
 Note
 
-8-1
-
-8-2
+not (○, ×)
 
 Written affirmation on mandatory holding by those who are subject to
 mandatory holding
 
+8-1
+
 ※It  is  limited  to  cases  when  the  issuance  date  of  third  party  stock
 allotment is after the submission date of the report on material facts
+
+8-2
 
 List of shareholders (including equity investors) and summary list of
 shareholders(1)  of  unlisted  corporation  (in  case  of  the  largest
@@ -14491,17 +14491,13 @@ KOSDAQ listed corporation
 
 8-6  Certified copy of corporate register for an unlisted corporation
 
+Including  close-down
+and cancellation
+
 8-7
 
 Documents  certifying  mandatory  holding  during  back-door  listing
 review
-
-8-8  Other documents to ensure above contents
-
-Notes:
-
-Including  close-down
-and cancellation
 
 Attach
 when
@@ -14509,6 +14505,10 @@ it
 documents  for  back-
 door listing review are
 submitted
+
+8-8  Other documents to ensure above contents
+
+Notes:
 
 (1) Two summaries shall be prepared as of the submission date of the report on material facts of asset acquisition
 and the issuance date of stocks by third-party allotment, respectively.
@@ -14554,19 +14554,19 @@ the breach of confirmation duty.
 
 2-1 List of transferor of equity securities and number of transferred stock per each transferor
 
+Yes/No
+
 2-2 Whether the largest shareholder(1)or shareholders with 5% or more of shares of an unlisted
 corporation (including investor with 5% or more of shares; the same hereinafter) is/are among
 transferors of equity securities
 
-Yes/No
-
 * if 'Yes', the name of transferor and relation(2)
+
+Yes/No
 
 2-3 Whether  the  holding  ratio  of  the  KOSDAQ  listed  corporation  in  the  unlisted  corporation
 after receiving equity securities is 50% or higher or exceeds 30%becoming the largest investor
 or not
-
-Yes/No
 
 *  The  holding  ratio  of  the  KOSDAQ  listed  corporation  in  the  unlisted  corporation  after  the
 takeover of equity securities
@@ -14595,25 +14595,23 @@ representative, executive or others of the issuing corporation.]
 
 3. Matters on stock transfer
 
+Yes/No
+
 3-1 Whether the change in the largest shareholder within 1 year before the submission date of the report
 on material facts of business acquisition is disclosed(1)or not
 
-Yes/No
-
 3-1-1 Name of changed and disclosed largest shareholder
+
+(In case of “Yes” for “3-1”)
+
+Yes, No
 
 3-1-2 Whether the changed and disclosed largest shareholder is the largest
 shareholder(2)  or  shareholder  with  5%  or  more  of  shares  of  an  unlisted
 corporation  (including  investors  who  invested  5%  or  more;  The  same
 hereinafter) or not
 
-Yes, No
-
 * If 'Yes', the relation with unlisted corporation(3)
-
-3-1-3 Date of stock transfer(4)
-
-(In case of “Yes” for “3-1”)
 
 ※  In  case  of  2  times  or
 more  of  changes  of  the
@@ -14622,6 +14620,8 @@ change
 stated
 shall  be
 separately
+
+3-1-3 Date of stock transfer(4)
 
 Notes:
 
@@ -14636,39 +14636,39 @@ representative, executives or others of the unlisted corporation]
 
 (4) It refers to the reporting day pursuant to [§6(1)3(a)(i)] of the KOSDAQ Market Disclosure Regulation.
 
+Yes/No
+
 3-2 Whether there is a plan(1)to transfer stocks within 6 months after the submission date of the report
 on material facts of business acquisition or not
 
-Yes/No
+3-2-1 List of predetermined stock transferee(2)
 
 (In case of “Yes” for “3-2”)
 
-3-2-1 List of predetermined stock transferee(2)
+transferee
 
-※  In case of 2 times or more
-of stock transfers, each stock
+is
+
+the
+
+Yes/No
 
 3-2-2  Whether  predetermined  stock
 largest
 shareholder(3) or shareholders with 5% or more of shares of an unlisted
 corporation or not
 
-transferee
-
-the
-
-is
-
-Yes/No
-
-transfer
-separately
+※  In case of 2 times or more
+of stock transfers, each stock
 
 shall  be
 
 stated
 
 * If 'Yes', the relation with unlisted corporation(4)
+
+transfer
+separately
 
 3-2-3 Scheduled date of stock transfer(5)
 
@@ -14711,16 +14711,16 @@ Name of the largest shareholder
 
 in case of  “Yes”
 
+Yes/
+No
+
+Relation(2)
+
 Before
 change
 
 After
 change
-
-Relation(2)
-
-Yes/
-No
 
 Yes/
 
@@ -14737,13 +14737,13 @@ KOSDAQ listed corporation between the submission date of the report on
 
 material facts of business acquisition and the date of stock transfer
 
-5-2.  Whether  the  largest  shareholder  or  shareholders  who  hold  5%  of
-shares  of  unlisted  corporation  became  the  largest  shareholder  of  the
-corporation as a result of the stock transfer
-
 Yes/
 
 No
+
+5-2.  Whether  the  largest  shareholder  or  shareholders  who  hold  5%  of
+shares  of  unlisted  corporation  became  the  largest  shareholder  of  the
+corporation as a result of the stock transfer
 
 Notes:
 
@@ -14783,13 +14783,13 @@ exempted.
 5.  Matters  on  fulfillment  of  requirements(1)  for  takeover  of  equity  securities  issued  by  unlisted
 corporation and stock transfer
 
-Requirement
-
 Yes/No
 
-(o/x)
+Requirement
 
 Note
+
+(o/x)
 
 Size of corporation(2)(5)
 
@@ -14797,16 +14797,16 @@ Equity capital shall be at least KRW 3 billion (at least
 KRW  1.5  billion  if  the  unlisted  corporation  is  a
 venture business)
 
-Income  before  tax  from  continuing
-operations(3)(4)
-
 There shall be income posted
 
-Size of profit(3)(4)(5)
+Income  before  tax  from  continuing
+operations(3)(4)
 
 a) Return on equity as of recent business year end shall
 be  at  least  10/100  (5/100  in  case  where  the  unlisted
 corporation is a venture business); or
+
+Size of profit(3)(4)(5)
 
 b) Net profits of recent business year shall be at least
 KRW  2  billion(KRW  1  billion  in  case  where  the
@@ -14841,40 +14841,24 @@ year shall be reflected.
 
 6. Matter on mandatory holding
 
-Reasons
-for
-mandatory
-holding(1)
+Mandatory holding
 
 Nominee
 
 Type of
 nominee
 
-(2)
+Note
 
-(3)
+Volume
+
+(2)
 
 Target
 stocks
 (4)
 
-Largest
-shareholder
-
-Mandatory holding
-
-Name of
-corporation
-(5)
-
-Listed/
-unlisted
-(6)
-
-Volume
-
-(7)
+(3)
 
 Starting
 date(8)
@@ -14885,7 +14869,23 @@ date(9)
 Period
 (10)
 
-Note
+Reasons
+for
+mandatory
+holding(1)
+
+(7)
+
+Name of
+corporation
+(5)
+
+Listed/
+unlisted
+(6)
+
+Largest
+shareholder
 
 Notes:
 (1) The table above shall be completed for each of the following reasons for mandatory holding.
@@ -14895,10 +14895,10 @@ holding, the reason with the longest mandatory holding period shall be stated. A
 
 periods for different reasons shall be stated separately.
 
+Explanations
+
 Reasons for mandatory
 holding
-
-Explanations
 
 Largest    shareholder
 
@@ -14917,11 +14917,11 @@ In  case  of  the  stock  acquisition  from  the  largest  shareholder  from  6
 months  before  the  submission  date  of  report  on  material  facts  to
 supplementary listing day
 
+and
+
 capital
 Venture
 professional investor
-
-and
 
 Stocks with under 2 years of investment period as of the submission date
 of the report on material facts
@@ -14977,20 +14977,20 @@ month, etc.)
 
 Name of documents
 
-Attached or
-not (o/x)
-
 Note
 
-7-1
-
-7-2
+Attached or
+not (o/x)
 
 Written affirmation on mandatory holding by those who are subject
 to mandatory holding
 
+7-1
+
 ※It is limited to cases when the issuance date of third party stock
 allotment is after the submission date of the report on material facts
+
+7-2
 
 List of shareholders (including equity investors) and summary list of
 shareholders(1)  of  unlisted  corporation  (in  case  of  the  largest
@@ -15012,13 +15012,13 @@ KOSDAQ listed corporation
 
 7-6  Certified copy of corporate register for an unlisted corporation
 
+Including  close-down
+and cancellation
+
 7-7
 
 Documents  certifying  mandatory  holding  during  back-door  listing
 review
-
-Including  close-down
-and cancellation
 
 Attach
 when
@@ -15079,25 +15079,25 @@ and damages which may arise in connection with the breach of confirmation duty.
 2-1  List  of  investors  in  kind  and  the  number  of  contributed  equity  securities  issued  by  an  unlisted
 corporation per each investor in kind
 
+Yes/No
+
 2-2  Whether  the  largest  shareholder(1)  or  shareholders  with  5%  or  more  of  shares  of  an  unlisted
 corporation (including investor with 5% or more of shares; the same hereinafter) is/are among investors
 in investment in kind
 
-Yes/No
-
 * if 'Yes', the name of investor and relation(2)
+
+Yes/No
 
 2-3 Whether  the  contribution  value  of  investment  in  kind  through  the  equity  securities  issued  by  an
 unlisted corporation is 10/100 or more of the total asset value of    in recent business year or not
 
-Yes/No
-
 * Value of investment in kind through the equity securities issued by an unlisted corporation
+
+Yes/No
 
 2-4 Whether  or  not  the  ownership  of ABC  Corporation  in an  unlisted  corporation  is  at  least  50%  or
 exceeds 30% and ABC corporation is the largest investor after the investment in kind
-
-Yes/No
 
 * Ownership of ABC Corporation in the unlisted corporation after the investment in kind
 
@@ -15126,13 +15126,15 @@ documents listed below.
 
 3. Matters relating to the change in the largest shareholder(1)
 
+Name of the largest shareholder
+
+in case of  “Yes”
+
 Yes/
 
 No
 
-Name of the largest shareholder
-
-in case of  “Yes”
+Relation(2)
 
 Before
 change
@@ -15140,7 +15142,9 @@ change
 After
 change
 
-Relation(2)
+Yes/
+
+No
 
 3-1. Whether the largest shareholder(3) or shareholders who hold at least
 5% of shares of the unlisted corporation became the largest shareholder
@@ -15155,10 +15159,6 @@ No
 3-2. Whether the largest shareholder or shareholders who hold at least
 5% of shares of an unlisted corporation became the largest shareholder
 of ABC Corporation as a result of the third party stock allotment
-
-Yes/
-
-No
 
 Notes:
 
@@ -15196,31 +15196,31 @@ above are “Yes”.
 4.  Matters  on  fulfillment  of  requirements(1)  for  paid-in  capital  increase  by  third-party  allotment
 following investment in kind
 
+Yes/No
+
 Items
 
 Requirements
 
-Yes/No
+Note
 
 (o/x)
-
-Note
 
 Size of corporation(2)(5)
 
 Equity capital shall be at least KRW 3 billion (at least KRW
 1.5 billion if the unlisted corporation is a venture business)
 
-Profit of going  concern business
-before corporate tax(3)(4)
-
 Profit shall exist
 
-Size of profit(3)(4)(5)
+Profit of going  concern business
+before corporate tax(3)(4)
 
 a) Return on equity as of recent business year end shall be at
 least 10/100 (5/100 in case where the unlisted corporation is a
 venture business); or
+
+Size of profit(3)(4)(5)
 
 b) Net profits of recent business year shall be at least KRW 2
 billion(KRW 1 billion in case where the unlisted corporation
@@ -15255,37 +15255,24 @@ year shall be reflected.
 
 5. Matters on mandatory holding
 
-Reasons
-for
-mandatory
-holding(1)
+Mandatory holding
 
 Nominee
 
 Type of
 nominee
 
-(2)
+Note
 
-(3)
+Volume
+
+(2)
 
 Target
 stocks
 (4)
 
-Mandatory holding
-
-Name of
-corporation
-(5)
-
-Listed/
-unlisted
-(6)
-
-Volume
-
-(7)
+(3)
 
 Starting
 date(8)
@@ -15296,7 +15283,20 @@ date(9)
 Period
 (10)
 
-Note
+Reasons
+for
+mandatory
+holding(1)
+
+(7)
+
+Name of
+corporation
+(5)
+
+Listed/
+unlisted
+(6)
 
 Largest
 shareholder
@@ -15309,10 +15309,10 @@ Notes:
 holding, the reason with the longest mandatory holding period shall be stated. Any different mandatory holding
 periods for different reasons shall be stated separately.
 
+Explanations
+
 Reasons for mandatory
 holding
-
-Explanations
 
 Largest    shareholder
 
@@ -15331,11 +15331,11 @@ In  case  of  the  stock  acquisition  from  the  largest  shareholder  from  6
 months  before  the  submission  date  of  report  on  material  facts  to
 supplementary listing day
 
+and
+
 Venture
 capital
 professional investor
-
-and
 
 Stocks with under 2 years of investment period as of the submission date
 of the report on material facts
@@ -15391,10 +15391,10 @@ month, etc.)
 
 Name of documents
 
+Note
+
 Attached or not
 (o/x)
-
-Note
 
 6-1
 
@@ -15422,6 +15422,10 @@ corporation1)
 
 6-7  Confirmation of main creditor bank for an unlisted corporation
 
+No  bankruptcy  or
+case to be resolved
+in 6 months
+
 6-8  Confirmation of dispute case such as pending litigation(2)
 
 6-9  Evaluation of property value for investment in kind(3)
@@ -15437,10 +15441,6 @@ venture business
 
 Documents certifying mandatory holding during back-door listing
 review
-
-No  bankruptcy  or
-case to be resolved
-in 6 months
 
 Attach
 documents
@@ -15538,11 +15538,11 @@ Terms of conversion request (exercise terms of subscription warrants)
 
 Ratio of conversion request (exercise ratio of subscription warrants)
 
+Date of start
+
 Period of conversion request
 
 (exercise period of subscription warrant)
-
-Date of start
 
 Date of end
 
@@ -15586,9 +15586,9 @@ Resolution method for stock option
 
 Total number of granted stocks (share)
 
-Exercise period of stock option
-
 Date of start
+
+Exercise period of stock option
 
 Date of end
 
@@ -15647,9 +15647,9 @@ Period of existence (mm/dd/yyyy)
 
 Perpetual or non-perpetual
 
-Matters on new preferred stocks
-
 Maturity date
+
+Matters on new preferred stocks
 
 Participating or non-participating
 
@@ -15681,9 +15681,9 @@ Total issuing amount (A) (KRW)
 
 Convertible bonds
 
-Conversion    period
-
 Date of start
+
+Conversion    period
 
 Date of end
 
@@ -15693,10 +15693,10 @@ Conversion date (issuing date)
 
 (expected) Conversion registration date
 
+Conversion price (KRW)
+
 Matters on new
 shares
-
-Conversion price (KRW)
 
 Number of stocks to be issued
 
@@ -15718,16 +15718,16 @@ Name of issue
 
 Issuing date
 
+Total issuing amount (A) (KRW)
+
+Date of start
+
 Bond
 with
 subscription rights
 
-Total issuing amount (A) (KRW)
-
 Period  of  subscription
 right exercise
-
-Date of start
 
 Date of end
 
@@ -15739,10 +15739,10 @@ Stock subscription payment date
 
 Method of stock subscription payment
 
+(expected) Registration date
+
 Matters  on  new
 shares
-
-(expected) Registration date
 
 Exercise price (KRW)
 
@@ -15766,26 +15766,23 @@ Name of issue
 
 Issuing date
 
-with
-
-bonds
-subscription
-warrants
-
 Total issuing amount (A) (KRW)
 
-period
-Exercise
-subscription rights
+with
 
 Date of start
 
 of
 
-Date of end
+bonds
+subscription
+warrants
 
-Matters  on  new
-shares
+period
+Exercise
+subscription rights
+
+Date of end
 
 Exercise ratio (%)
 
@@ -15796,6 +15793,9 @@ Number of warrants exercised
 Number of stocks issued
 
 Stock subscription payment date
+
+Matters  on  new
+shares
 
 Method of stock subscription payment
 
@@ -15827,19 +15827,16 @@ Resolution date
 
 Method of resolution
 
-Total number of granted stocks (A)
-
-Exercise  period  of Date of start
-
 of
+
+stock
 
 Status
 options granted
 
-stock
+Total number of granted stocks (A)
 
-Matters  on  exercise
-of stock options
+Exercise  period  of Date of start
 
 stock options
 
@@ -15850,6 +15847,9 @@ Exercise date of stock options
 Payment date for stock purchase
 
 Method of payment for stock purchase
+
+Matters  on  exercise
+of stock options
 
 (expected) Registration date
 
@@ -15884,31 +15884,31 @@ c. Reason for objection or opinions on lawsuit of effects of issuance of new sto
 
 3. Attendance (statement of opinion) at the Listing and Disclosure Committee
 
-Attendance/non-
-attendance
-
 Attendance
-
-(      )
 
 Non-attendance
 
+Attendance/non-
+attendance
+
 (      )
 
-Personal information on
-attendants
+(      )
 
 Name
 
 Relation with the
 company
 
+Not applicable
+
+Personal information on
+attendants
+
 Address and phone
 number
 
 Others
-
-Not applicable
 
 Note. In case of non-appearance, any change including additions to, corrections and deletions of the
 statements in items 1 and 2 above shall not be admitted.
@@ -15937,11 +15937,11 @@ Application for Listing Change
 xxxx  (name  of  company) hereby  applies for  the  listing  change (supplementary listing) of  following
 securities in accordance with the KOSDAQ Market Listing Regulations.
 
+【Stocks】
+
 Before the change
 
 After the change
-
-【Stocks】
 
 Name of issue
 
@@ -15971,6 +15971,10 @@ accounted for as capital from the issue price per share)’.
 
 Details
 
+Before the change
+
+After the change
+
 Items
 
 Name of issue
@@ -15980,10 +15984,6 @@ Number of subscription right certificates (shares)
 Type  of  stocks  to  be  issued  by  the  exercise  of
 subscription rights
 
-Before the change
-
-After the change
-
 Number  of  stock  to  be  issued  by  the  exercise  of
 subscription right (shares)
 
@@ -15991,14 +15991,14 @@ Whether or not it is no-par value stock
 
 Exercise price of subscription rights (KRW)
 
-Exercise
-subscription rights
+Date of start
 
 period
 
 of
 
-Date of start
+Exercise
+subscription rights
 
 Date of end
 
@@ -16045,6 +16045,9 @@ securities in accordance with the KOSDAQ Market Listing Regulations.
 
 【Stocks】
 
+Date  the  lawsuit
+was filed
+
 Name of issue
 Type of shares
 Issuance series number
@@ -16066,9 +16069,6 @@ Whether  a  lawsuit  has  been  filed  regarding  the
 validity of the new share issuance
 Note: In the case of no-par value shares, the ‘par value per share’ is entered as ‘capital per share (the amount
 accounted for as capital from the issue price per share)’.
-
-Date  the  lawsuit
-was filed
 
 【DRs of foreign stocks】
 
@@ -16095,6 +16095,8 @@ was filed
 
 【Business development investment company stocks】
 
+Reference
+
 Name of issue
 Number of shares to be issued additionally
 Issuing price/par value per share (KRW)
@@ -16106,8 +16108,6 @@ Dividend record date
 Number of certificates issued by denomination
 Collective investment business entity
 Remarks
-
-Reference
 
 【Business development investment trust beneficiary certificates】
 
@@ -16156,6 +16156,8 @@ holding
 If ‘No’, the reasons
 therefore(1)
 
+Yes / No
+
 Case  where  the  largest  shareholder  is  a
 corporation
 
@@ -16163,8 +16165,6 @@ Yes / No
 
 Case  where  the  largest  shareholder  is  an
 organization
-
-Yes / No
 
 Note: In the case where the largest shareholder is a corporation, please enter the sales within the latest one (1)
 year based on the date of submission of the written confirmation (referring to one of the annual, half-yearly and
@@ -16176,18 +16176,18 @@ formation of the organization, or to the registration with the competent authori
 
 documents
 
+Note
+
 Attached or not
 (o/x)
 
-Note
-
 Financial statements(1)
-
-For
-corporations
 
 Financial statements, tax settlement invoice and certificate of
 tax payment relating to payment of corporate tax
+
+For
+corporations
 
 Certificate of tax base and certificate of tax payment relating
 to payment of value-added tax
@@ -16282,31 +16282,31 @@ C. Reasons for objection or an outline of the plan to resolve the causes for del
 
 3. Attendance (statement of opinion) at the Listing Committee
 
-Attendance/non-
-attendance
-
 Attendance
-
-(      )
 
 Non-attendance
 
+Attendance/non-
+attendance
+
 (      )
 
-Personal information on
-attendants
+(      )
 
 Name
 
 Relation with the
 company
 
+Not applicable
+
+Personal information on
+attendants
+
 Address and phone
 number
 
 Others
-
-Not applicable
 
 Note: In case of non-attendance, any change including additions to, corrections and deletions of the
 statements in the first and second items shall not be admitted.
@@ -16347,13 +16347,13 @@ pharmaceutical/bio enterprise(1)
 Whether falling under innovative
 pharmaceutical enterprise(2)
 
-(O / X)
-
-(O / X)
-
 Effective period of certification of
 innovative pharmaceutical
 enterprise
+
+(O / X)
+
+(O / X)
 
 Notes:
 
@@ -16371,11 +16371,11 @@ pharmaceutical/bio enterprise(1)
 Average daily market
 capitalization(2)
 
-(O / X)
-
-(O / X)
-
 Capital stock(3)
+
+(O / X)
+
+(O / X)
 
 Notes:
 
@@ -16389,17 +16389,17 @@ trading was suspended shall be excluded.
 
 3. Documents to be attached
 
-List of documents
-
 Attached or not
+
+List of documents
 
 (O / X)
 
 3-1
 
-3-2
-
 Copy of the certificate of innovative pharmaceutical enterprise
+
+3-2
 
 Other documents, etc. which are deemed necessary by the Exchange
 
@@ -16424,45 +16424,34 @@ damages which may arise in connection with the breach of confirmation duty.
 
 1. Status of stock distribution
 
-Name
-
 Dates of birth
 
-(Business registration
-number)
+Proportion
+
+Name
+
+Remarks
 
 Number of
 shares held
 
+(%)
+
+(Business registration
+number)
+
+largest
+
 × × ×
 
 mm/dd/yyyy
-
-Remarks
-
-Proportion
-
-(%)
 
 oo.oo
 
-× × ×
+The
+shareholder
 
 × × ×
-
-Sub-total
-
-× × ×
-
-Sub-total
-
-○○persons
-
-Sub-total
-
-mm/dd/yyyy
-
-mm/dd/yyyy
 
 mm/dd/yyyy
 
@@ -16470,34 +16459,45 @@ oo.oo
 
 (Ex) Spouse
 
+× × ×
+
+mm/dd/yyyy
+
 oo.oo
 
 (Ex) Offspring
-
-oo.oo
-
-(Ex) Senior
-Executive
-
-( Omitted)
-
-oo.oo
-
-The
-shareholder
-
-largest
 
 Related persons of
 the
 largest
 shareholder
 
+Sub-total
+
+× × ×
+
+mm/dd/yyyy
+
+oo.oo
+
+(Ex) Senior
+Executive
+
+Sub-total
+
 Major
 shareholders
 (holding  at
 least
 10% of stocks etc.)
+
+○○persons
+
+( Omitted)
+
+oo.oo
+
+Sub-total
 
 Minority
 shareholders
@@ -16509,9 +16509,28 @@ stock
 
 ○○persons
 
+oo.oo
+
+Birth date of head of
+association
+
+Sub-total
+
 Employee
 ownership
 association
+
+× × ×
+
+or
+
+oo.oo
+
+○○  persons
+
+mm/dd/yyyy(Omission
+is possible in case 10
+or more people)
 
 Others
 (shareholders  with
@@ -16523,32 +16542,13 @@ shareholders)
 
 Sub-total
 
-× × ×
-
-or
-
-○○  persons
-
-Sub-total
-
 Total
 
 -
 
-2. Status of floating stocks
-
-Birth date of head of
-association
-
-mm/dd/yyyy(Omission
-is possible in case 10
-or more people)
-
-oo.oo
-
-oo.oo
-
 100%
+
+2. Status of floating stocks
 
 No. of stocks  Portion (%)  Remarks
 
@@ -16607,11 +16607,7 @@ shareholder, etc.
 
 4. Status of distribution of shareholders other than the largest shareholder, etc.
 
-Shareholders
-other  than  the
-largest
-shareholder,
-etc.
+Remarks
 
 Classification
 
@@ -16626,7 +16622,17 @@ Share
 holding
 ratio (%)
 
-Remarks
+Shareholders
+other  than  the
+largest
+shareholder,
+etc.
+
+Domestic
+investors
+
+Foreign
+investors
 
 Banks
 Securities companies
@@ -16660,13 +16666,16 @@ Others
 Sub-total
 Total
 
-Domestic
-investors
-
-Foreign
-investors
-
 5. Status of minority shareholders
+
+No. of
+shareholders
+
+No. of
+shares held
+
+Shareholding
+Ratio (%)
 
 Domestic
 shareholders
@@ -16678,15 +16687,6 @@ Corporations holding less than
 1%
 Individuals holding less than 1%
 Others
-
-No. of
-shareholders
-
-No. of
-shares held
-
-Shareholding
-Ratio (%)
 
 Foreign
 shareholders
@@ -16804,29 +16804,31 @@ connection with the breach of confirmation duty.
 Number of shares to be
 increased
 
-Payment date
-
-Purpose of financing
-
 Amount of capital increase
 (KRW mil.)
 
 Disclosure date on decision of
 capital increase
 
+Payment date
+
 Listing date of new shares
+
+Purpose of financing
 
 Whether securities registration
 is filed, and reason if exempted
 
 3. List of shareholders purchased new shares through the third-party allotment
 
+Size of capital increase
+
 The third-party allotted
+
+Remark
 
 Relation with the company or
 the largest shareholder
-
-Size of capital increase
 
 Number of shares
 allotted
@@ -16834,12 +16836,14 @@ allotted
 Amount to be paid
 (KRW mil.)
 
-Remark
-
 4. Details of use of proceeds by listing applicant:
 
 5. Confirmation of detailed use of funds for shareholders purchased new shares through the third-party
 allotment
+
+Yes/No
+
+Yes/No
 
 ( (1) Whether or not there has been a decision on pre-payment, provisional payment, loan of money,
 lending of securities(1), capital investment(2), etc. for the third parties, stated in subparagraph 3 above,
@@ -16848,14 +16852,10 @@ through the third party allotment
 
 Yes/No
 
-Yes/No
-
 (2) Whether or not there is a plan to make a decision on pre-payment, provisional payment, loan of
 money, lending of securities(1), capital investment(2), etc. for the third parties, stated in subparagraph
 3 above, who acquired new shares within 6 months after the payment for subscribing new shares
 issued through the third party allotment
-
-Yes/No
 
 Notes:
 
@@ -16867,9 +16867,9 @@ hereinafter.
 
 6. Documents to be attached
 
-List of documents
-
 Attached or not
+
+List of documents
 
 (O, X)
 
@@ -16932,9 +16932,9 @@ Yes / No
 
 Whether a request for the exercise of voting rights to institutional investors and other measures
 
-to establish the general meeting of shareholders was made?
-
 Yes / No
+
+to establish the general meeting of shareholders was made?
 
 Note.  Refers  to  the  case  where  the  proxy  forms  and  reference  documents  were  delivered  to  all  shareholders  through  the
 electronic proxy system or by mail.
@@ -16951,10 +16951,10 @@ Yes / No
 
 3
 
+Yes / No
+
 Documents to confirm the request for exercise of voting rights to  institutional investors
 and other efforts to establish the shareholders’ meeting(3)
-
-Yes / No
 
 Notes:
 
@@ -17012,10 +17012,10 @@ a.  Introduction and progress of the internal accounting management system
 
 b.  Regulation on internal accounting management
 
+(formulated on mm/dd/yyyy)
+
 (1)  Title of governing regulation:
 (2)  Summary of details
-
-(formulated on mm/dd/yyyy)
 
 Items
 
@@ -17059,10 +17059,10 @@ information
 accounting  information  and  control  procedures  to  prevent
 forgery, etc.
 
+internal  accounting
+
 <  Administration  and  operation  of
 management system >
-
-internal  accounting
 
  Segregation of duties and responsibilities of personnel related
 
@@ -17096,13 +17096,13 @@ Management Regulation” by the Korea Listed Companies Association
 (3) Major improvements in the regulation on internal accounting management during the relevant
 business year
 
+Remark
+
 Date of Improvement
 
 Before Improvement
 
 After Improvement
-
-Remark
 
 (Reasons for improving)
 
@@ -17110,25 +17110,27 @@ c.  Organization to manage internal accounting
 
 (1)  Personnel in charge of management and operation of internal accounting
 
+Tasks
+
+Phone
+
+Position
+
 Organization or
 department
+
+No.
+
+Others
 
 Name of
 person in
 charge
 
-Position
-
-Tasks
-
-Phone
-
 Relating to internal accounting
 management system
 
-Others
-
-No.
+Auditor
 
 Auditor
 
@@ -17136,13 +17138,11 @@ Auditor
 
 Board of Directors
 
-Accounting department
-
-Auditor
-
 Internal
 accounting
 Manager
+
+Accounting department
 
 IT systems department
 
@@ -17158,13 +17158,13 @@ Name
 
 Organization/department  Date of birth  Education
 
+Others
+
 Terms of
 office
 
 Work
 experience
-
-Others
 
 ~
 
@@ -17173,28 +17173,28 @@ Others
 Percentage of CPAs among total internal
 accounting staff
 
+Total number
+
 Organization or
 department
 
-Total number
+Percentage
 
 of staff
 
 Number of internal
 accounting staff
 
-(A)
-
 CPAs (B)
-
-Percentage
-
-(B/A×100)
 
 Average length of
 experience of internal
 accounting staff (in
 months) *
+
+(B/A×100)
+
+(A)
 
 Auditor
 
@@ -17256,21 +17256,21 @@ Others
 
 4. Auditor’s Review and Opinion
 
-auditor:                                      )
-
 (Name
 
 of
 
+auditor:                                      )
+
 Opinion
+
+Remark
 
 Improvement by
 company
 
 Improvement
 plan
-
-Remark
 
 Internal accounting management regulation
 
@@ -17286,17 +17286,17 @@ Examples of Internal Accounting Management System” by the Korea Listed Compani
 
 5. Disciplinary actions against staff that violated internal accounting management regulation
 
+Person violated
+
+Date of disciplinary
+
 Date of violation
 
-Person violated
+Violation details  Disciplinary actions
 
 Position
 
 Name
-
-Violation details  Disciplinary actions
-
-Date of disciplinary
 
 actions
 
@@ -17441,14 +17441,14 @@ Verification Procedures and Findings by Review Item
 
 in Application for Preliminary Listing Review for Foreign Stocks/DRs
 
-Application for preliminary
-listing review
-Item
+Verification procedure and findings
 
 Details stated in application for
 preliminary listing review
 
-Verification procedure and findings
+Application for preliminary
+listing review
+Item
 
 [Annex Form No.36] Written Affirmation on Fulfillment of Obligations by
 Representative Directors of Foreign Company
@@ -17604,10 +17604,10 @@ Exercise price of a subscription right (KRW)
 
 Total issuing amount (KRW)
 
+Date of start
+
 Exercise  period  of    subscription
 rights
-
-Date of start
 
 Date of end
 
@@ -17639,10 +17639,10 @@ Exercise conditions of a subscription right
 
 Exercise proportion of subscription rights
 
+Date of start
+
 Exercise  period  of  subscription
 rights
-
-Date of start
 
 Date of end
 
@@ -17671,11 +17671,11 @@ Type
 
 Collateral property
 
+Collateral
+
 Order of priority
 
 Secured party
-
-Collateral
 
 Note
 
@@ -17718,11 +17718,13 @@ Number of stocks to be issued
 
 Expected total issuing amount    (KRW)
 
-Subscription period for new stocks
-
 Date of start
 
+Subscription period for new stocks
+
 Date of end
+
+related
 
 to
 
@@ -17730,8 +17732,6 @@ transfer  permission  of
 
 Matters
 subscription rights
-
-related
 
 Date of delisting
 
@@ -17809,27 +17809,25 @@ Rules of KOSDAQ Market Listing Regulation as below:
 
 3. Matters on shares to be listed
 
-Name of issue
-
-Par value
-
 No. of shares
 
 Start date of
 
+Name of issue
+
+Par value
+
+Note
+
 to be listed
 
 dividend eligibility
-
-Note
 
 KRW
 
 shares
 
 4. Issue name & code
-
-Name of issue
 
 Korean abbr.
 
@@ -17840,6 +17838,8 @@ Symbol
 ISIN
 
 ISIN (short form)
+
+Name of issue
 
 5. Summary of company
 
@@ -17853,15 +17853,15 @@ Largest shareholder, etc.  Name                                                 
 
 Representative director
 
-Date of incorporation
-
-Date of listing on KOSDAQ
-
 Relation with the
 largest shareholder
 
+Date of incorporation
+
 Sector and main
 product
+
+Date of listing on KOSDAQ
 
 (Sector code)
 
@@ -17873,10 +17873,10 @@ Capital
 
 Paid-in
 
+Corporate group
+
 KRW
 mil.
-
-Corporate group
 
 Par value
 
@@ -17886,26 +17886,26 @@ No. of employees
 
 6. Base market capitalization
 
+Different classes of stocks
+
+Total
+
+Common stocks
+
 No. of shares
 
 to be listed by issue
+
+KRW                    mil.
+
+KRW                    mil.
+
+KRW                    mil.
 
 Base market capitalization
 (expected)
 
 7. Overview of Company
-
-Common stocks
-
-Different classes of stocks
-
-Total
-
-KRW                    mil.
-
-KRW                    mil.
-
-KRW                    mil.
 
 (1) Company summary
 
@@ -18007,12 +18007,12 @@ the price fluctuation of stocks of the issuer
 
 (in relation with paragraph Han138.5(2)(3) of K-IFRS No. 1001)
 
+Amount (KRW)
+
 Classification
 Loss from continuing operations before corporate tax before adjustment 1) (a)
 Evaluation  loss  of  convertible  rights  and  subscription  rights  (financial  debt
 including them) of refixing option financial instruments 1) (b)
-
-Amount (KRW)
 
 Loss from continuing operations before corporate tax after adjustment 2) (c)
 

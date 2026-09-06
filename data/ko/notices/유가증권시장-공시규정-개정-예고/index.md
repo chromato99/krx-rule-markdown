@@ -32,8 +32,8 @@ attachments:
     text_path: "ko/notices/유가증권시장-공시규정-개정-예고/attachments/260707-유가증권시장-공시규정-일부개정규정안-규정예고-pdf.md"
     content_hash: "582fba88f5394b8d93b6cf8a7ceede62ee1debbcac37f31ea1095f2ce7dcf2fa"
     raw_file_hash: "582fba88f5394b8d93b6cf8a7ceede62ee1debbcac37f31ea1095f2ce7dcf2fa"
-    converted_text_hash: "aa588ac1a6511f601cc985c6ed7b1f0b165ef3d7dba8e21bb8df5d3add16a16f"
-    converter_version: "2"
+    converted_text_hash: "02b264641032f6269f5ba1407ff1463f58c712aa1289d0d41a14969ff7589d7c"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 135352
@@ -42,7 +42,7 @@ attachments:
     quality_flags: "pdf_comparison_structure_lost"
     quality_codes: ["pdf_comparison_structure_lost"]
     diagnostics: [{"code":"pdf_comparison_structure_lost","message":"amendment comparison columns were extracted without a structured table","severity":"warn"}]
-    converted_text_chars: 2611
+    converted_text_chars: 2610
     converted_non_space_chars: 1970
   - id: "210231027-210231028-pdf"
     title: "유가증권시장 공시규정 일부개정안_의견수렴 공고문 (5).pdf"
@@ -57,14 +57,14 @@ attachments:
     text_path: "ko/notices/유가증권시장-공시규정-개정-예고/attachments/유가증권시장-공시규정-일부개정안-의견수렴-공고문-5-pdf.md"
     content_hash: "4867e5d026fc3eb431f791761f104886041b7447b9576a8b2e8fe0353cd2c92c"
     raw_file_hash: "4867e5d026fc3eb431f791761f104886041b7447b9576a8b2e8fe0353cd2c92c"
-    converted_text_hash: "37a73e5c7db9c6b3a239c0281d9fa71ab0a90636a5bab0c50f73db4f76babbc3"
-    converter_version: "2"
+    converted_text_hash: "6b6f5584c7d9676666b9871ce34dd0b90025f9ece3943dd28f2b88c3ff4affde"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 101226
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 399
+    converted_text_chars: 398
     converted_non_space_chars: 295
 ---
 

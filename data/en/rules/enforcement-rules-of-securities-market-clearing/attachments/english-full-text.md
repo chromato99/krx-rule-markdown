@@ -585,9 +585,6 @@ Supervision  of  Banking  Business,
 
 12
 
-recommended
-improvement or ordered the management improvement; or
-
 the  management
 
 improvement,
@@ -595,6 +592,9 @@ improvement,
 requested
 
 the  management
+
+recommended
+improvement or ordered the management improvement; or
 
 4. Case where, pursuant to Article 38 of the Regulations on Supervision of Banking
 Business, the Financial Services Commission has taken an emergency measure.
@@ -2533,10 +2533,10 @@ Grain Bonds
 
 Foreign Exchange Stabilization Bonds
 
+-
+
 Government
 Bond Group
-
--
 
 Treasury Bills
 
@@ -2556,13 +2556,13 @@ Public Bonds
 
 2
 
+-
+
 Incheon  Metropolitan  Rapid  Transit  Corporation
 Public Bonds
 
 Municipal Bond
 Group
-
--
 
 Gwangju  Metropolitan  Rapid  Transit  Corporation
 Public Bonds
@@ -2622,14 +2622,10 @@ KEPCO Bonds
 
 Seoul Metro Bonds
 
-Korea Telecommunication Authority Bonds
-
-Land Development Bonds
-
-Korea Expressway Corporation Bonds
-
 Specific Purpose
 Bond Group
+
+Korea Telecommunication Authority Bonds
 
 To be
 classified
@@ -2637,6 +2633,10 @@ whether with
 government
 guarantee or
 not
+
+Land Development Bonds
+
+Korea Expressway Corporation Bonds
 
 56
 
@@ -2666,10 +2666,17 @@ Integrated Financial Bonds (Financial)
 
 6 or B
 
-Installment Financial Bonds
-
 Corporate Bond
 Group
+
+Installment Financial Bonds
+
+‘(Financial)’
+to be
+classified as
+bonds issued
+by financial
+institutions
 
 Securities Financial Bonds (Financial)
 
@@ -2678,13 +2685,6 @@ Other Financial Bonds
 Foreign Bonds
 
 Other Bonds
-
-‘(Financial)’
-to be
-classified as
-bonds issued
-by financial
-institutions
 
 57
 
@@ -2703,69 +2703,29 @@ as  shown  in  the  following  table,  taking  into  consideration  the  multipl
 referred to as the “index leverage classification”) linked to the change of price or index of
 underlying assets and the type of underlying assets.
 
+Type of Index Underlying Asset
+
+Classifications
+
 ISIN
 
 Index Leverage
 Classification
 
-Positive
-multiplier of
-1 times or less
-
-7(ETF)
-G(ETN)
-
-Positive or
-negative
-multiplier
-exceeding
-
-1 times
-
-Type of Index Underlying Asset
-
-Classifications
-
 Category
 
 Sub-category
 
-Hybrid bond
-
-Government
-bond
-
-Corporate bond
-
-Hybrid bond
-Government
-bond
-Corporate bond
-
-Bond-type
-
-Stock
-Commodity
-Real estate
-Currency
-Mixed assets
-Others
-
-Bond-type
-
-Stock
-Commodity
-Real estate
-Currency
-Mixed assets
-Others
-
 ETNs
 
-Corporate
-bond group
-(Financial
-institutions)
+Hybrid bond
+
+Bond-type
+
+Government
+bond
+
+Corporate bond
 
 ETFs
 Special
@@ -2778,7 +2738,38 @@ bond group
 (Financial
 institutions)
 
+Positive
+multiplier of
+1 times or less
+
+Corporate
+bond group
+(Financial
+institutions)
+
 Stock group
+
+7(ETF)
+G(ETN)
+
+Stock
+Commodity
+Real estate
+Currency
+Mixed assets
+Others
+
+Bond-type
+
+Hybrid bond
+Government
+bond
+Corporate bond
+
+Positive or
+negative
+multiplier
+exceeding
 
 Stock group
 (Derivative-
@@ -2787,6 +2778,15 @@ type)
 Stock group
 (Derivative-
 type)
+
+1 times
+
+Stock
+Commodity
+Real estate
+Currency
+Mixed assets
+Others
 
 Notes:
 1) Applied to a security that does not fall under the category of ‘Bond-type’ and that does not fall under
@@ -2813,19 +2813,19 @@ Type of Underlying Asset
 
 Classification
 
-5
-
 Stock-type
 
 Mortgage-backed Securities
 
+Stock Group
+
 Stock-bond Hybrid Type
+
+5
 
 Real Estate-type
 
 Bond-type
-
-Stock Group
 
 Corporate Bond Group
 (Financial Institutions)
@@ -2876,20 +2876,7 @@ Yield Grades
 
 6th
 
-Liquidity
-Grades
-
 1st
-
-2nd
-
-3rd
-
-4th
-
-5th
-
-6th
 
 80%
 
@@ -2903,6 +2890,8 @@ Grades
 
 70%
 
+2nd
+
 78%
 
 76%
@@ -2913,6 +2902,10 @@ Grades
 
 70%
 
+68%
+
+3rd
+
 76%
 
 74%
@@ -2923,6 +2916,13 @@ Grades
 
 68%
 
+66%
+
+Liquidity
+Grades
+
+4th
+
 74%
 
 72%
@@ -2933,6 +2933,10 @@ Grades
 
 66%
 
+64%
+
+5th
+
 72%
 
 70%
@@ -2943,15 +2947,11 @@ Grades
 
 64%
 
-70%
-
-68%
-
-66%
-
-64%
-
 62%
+
+6th
+
+70%
 
 68%
 
@@ -3023,6 +3023,16 @@ shown in the following table.
 [Assessment rates of listed debt Securities, etc. by calculation interval]
 Classification
 
+≤ 𝟏 𝐲𝐞𝐚𝐫
+
+> 𝟏𝟎 𝒚𝒆𝒂𝒓𝒔
+
+Type of
+Issuer
+
+Credit
+Rating
+
 > 𝟏 𝒚𝒆𝒂𝒓 𝒂𝒏𝒅
 ≤ 𝟑 𝒚𝒆𝒂𝒓𝒔
 
@@ -3033,11 +3043,68 @@ Terms to maturity
 > 𝟓 𝒚𝒆𝒂𝒓𝒔
 ≤ 𝟏𝟎 𝒚𝒆𝒂𝒓𝒔
 
-Type of
-Issuer
+n/a
+
+r
+
+r - 1%
+
+r - 2%
+
+r - 3%
+
+r - 5%
 
 Government
 Bond Group
+
+AAA
+
+r - 2%
+
+r - 3%
+
+r - 4%
+
+r - 5%
+
+r - 7%
+
+AA+~AA-
+
+r - 4%
+
+r - 5%
+
+r - 6%
+
+r - 7%
+
+r - 9%
+
+A+~BBB+
+
+r - 6%
+
+r - 7%
+
+r - 8%
+
+r - 9%
+
+r - 11%
+
+BBB~BBB-
+
+r - 10%
+
+r - 12%
+
+r - 14%
+
+r - 16%
+
+r - 20%
 
 Special
 Purpose
@@ -3045,150 +3112,85 @@ Bond Group
 (Government
 Guarantee)
 
-Special
-Purpose
-Bond Group
-
-Credit
-Rating
-
-n/a
-
-AAA
-
-AA+~AA-
-
-A+~BBB+
-
-≤ 𝟏 𝐲𝐞𝐚𝐫
-
-r
-
-r - 2%
-
-r - 4%
-
-r - 6%
-
-BBB~BBB-
-
-r - 10%
-
 BB+~
 
-AAA
-
-AA+~AA-
-
-A+~BBB+
-
 r - 14%
 
-r - 4%
-
-r - 6%
-
-r - 8%
-
-BBB~BBB-
-
-r - 12%
-
-BB+~
-
 r - 16%
-
-r - 1%
-
-r - 3%
-
-r - 5%
-
-r - 7%
-
-r - 12%
-
-r - 16%
-
-r - 5%
-
-r - 7%
-
-r - 9%
-
-r - 14%
 
 r - 18%
-
-r - 2%
-
-r - 4%
-
-r - 6%
-
-r - 8%
-
-r - 14%
-
-r - 18%
-
-r - 6%
-
-r - 8%
-
-r - 10%
-
-r - 16%
-
-r - 20%
-
-r - 3%
-
-r - 5%
-
-r - 7%
-
-r - 9%
-
-r - 16%
-
-r - 20%
-
-r - 7%
-
-r - 9%
-
-r - 11%
-
-r - 18%
-
-r - 22%
-
-> 𝟏𝟎 𝒚𝒆𝒂𝒓𝒔
-
-r - 5%
-
-r - 7%
-
-r - 9%
-
-r - 11%
 
 r - 20%
 
 r - 24%
 
+AAA
+
+r - 4%
+
+r - 5%
+
+r - 6%
+
+r - 7%
+
+r - 9%
+
+AA+~AA-
+
+r - 6%
+
+r - 7%
+
+r - 8%
+
 r - 9%
 
 r - 11%
 
+A+~BBB+
+
+r - 8%
+
+r - 9%
+
+r - 10%
+
+r - 11%
+
 r - 13%
+
+Special
+Purpose
+Bond Group
+
+BBB~BBB-
+
+r - 12%
+
+r - 14%
+
+r - 16%
+
+r - 18%
+
+r - 22%
+
+BB+~
+
+r - 16%
+
+r - 18%
+
+r - 20%
 
 r - 22%
 
 r - 26%
 
 62
+
+N/A
 
 r - 6%
 
@@ -3203,131 +3205,129 @@ r - 11%
 Municipal
 Bond Group
 
+AAA
+
+r - 8%
+
+r - 9%
+
+r - 10%
+
+r - 11%
+
+r - 13%
+
+AA+~AA-
+
+r - 10%
+
+r - 11%
+
+r - 12%
+
+r - 13%
+
+r - 15%
+
+A+~BBB+
+
+r - 12%
+
+r - 13%
+
+r - 14%
+
+r - 15%
+
+r - 17%
+
+BBB~BBB-
+
+r - 16%
+
+r - 18%
+
+r - 20%
+
+r - 22%
+
+r - 26%
+
 Corporate
 Bond Group
 (Financial
 Institutions)
 
-Corporate
-Bond Group
-
-N/A
-
-AAA
-
-r - 8%
-
-AA+~AA-
-
-r - 10%
-
-A+~BBB+
-
-r - 12%
-
-BBB~BBB-
-
-r - 16%
-
 BB+~
 
-AAA
-
 r - 20%
 
-r - 10%
-
-AA+~AA-
-
-r - 12%
-
-A+~BBB+
-
-r - 14%
-
-BBB~BBB-
-
-r - 18%
-
-BB+~
-
 r - 22%
-
-r - 9%
-
-r - 11%
-
-r - 13%
-
-r - 18%
-
-r - 22%
-
-r - 11%
-
-r - 13%
-
-r - 15%
-
-r - 20%
 
 r - 24%
-
-r - 10%
-
-r - 12%
-
-r - 14%
-
-r - 20%
-
-r - 24%
-
-r - 12%
-
-r - 14%
-
-r - 16%
-
-r - 22%
-
-r - 26%
-
-r - 11%
-
-r - 13%
-
-r - 15%
-
-r - 22%
-
-r - 26%
-
-r - 13%
-
-r - 15%
-
-r - 17%
-
-r - 24%
-
-r - 28%
-
-r - 13%
-
-r - 15%
-
-r - 17%
 
 r - 26%
 
 r - 30%
 
+AAA
+
+r - 10%
+
+r - 11%
+
+r - 12%
+
+r - 13%
+
+r - 15%
+
+AA+~AA-
+
+r - 12%
+
+r - 13%
+
+r - 14%
+
 r - 15%
 
 r - 17%
 
+A+~BBB+
+
+r - 14%
+
+r - 15%
+
+r - 16%
+
+r - 17%
+
 r - 19%
+
+Corporate
+Bond Group
+
+BBB~BBB-
+
+r - 18%
+
+r - 20%
+
+r - 22%
+
+r - 24%
+
+r - 28%
+
+BB+~
+
+r - 22%
+
+r - 24%
+
+r - 26%
 
 r - 28%
 
@@ -3370,6 +3370,11 @@ The inspection shall be carried out once a year as separately determined by the 
 [Annex:  Form  No.  1]  Request  for  Deposit/Withdrawal  of  Collateral  for  Settlement
 Expediency – Cash
 
+*
+
+Confirmation of
+deposit/withdrawal
+
 Receipt
 
 Input
@@ -3379,11 +3384,6 @@ Confirmation
 *
 
 *
-
-*
-
-Confirmation of
-deposit/withdrawal
 
 *
 
@@ -3436,15 +3436,15 @@ Input
 
 Confirmation
 
-*
-
-*
-
-*
-
 Confirmation of
 
+*
+
 deposit/withdrawal
+
+*
+
+*
 
 *
 
@@ -3462,10 +3462,12 @@ Representative of xx Company:                      (Seal)
 
 (Person in-charge:                  Contact no.:              )
 
-Issue
-name
+Type
 
 Code no.
+
+Issue
+name
 
 Quantity
 (KRW)
@@ -3475,8 +3477,6 @@ Substitute price
 
 Amount
 (KRW)
-
-Type
 
 Deposit
 
@@ -3506,15 +3506,15 @@ Input
 
 Confirmation
 
-*
-
-*
-
-*
-
 Confirmation of
 
+*
+
 deposit/withdrawal
+
+*
+
+*
 
 *
 
@@ -3551,6 +3551,11 @@ clearing member margin and pay it.
 [Annex:  Form  No.  4]  Request  for  Deposit/Withdrawal  of  Member  Margin  -  Foreign
 Currency
 
+*
+
+Confirmation of
+deposit/withdrawal
+
 Receipt
 *
 
@@ -3558,11 +3563,6 @@ Input
 *
 
 Confirmation
-*
-
-Confirmation of
-deposit/withdrawal
-
 *
 
 Request for Deposit/Withdrawal of Member Margin - Foreign Currency
@@ -3577,6 +3577,9 @@ Representative of xx Company:                      (Seal)
 
 Deposit (Withdrawal) amount
 
+Name of bank and
+account number
+
 Amount of
 foreign currency
 
@@ -3586,13 +3589,10 @@ price
 Amount converted
 into KRW
 
-Name of bank and
-account number
+KRW
 
 Self-owned
 assets
-
-KRW
 
 Notes:
 1. Do not fill in the column marked with *.
@@ -3627,12 +3627,12 @@ Confirmation
 
 *
 
-*
-
-*
-
 Confirmation of
 deposit/withdrawal
+
+*
+
+*
 
 *
 

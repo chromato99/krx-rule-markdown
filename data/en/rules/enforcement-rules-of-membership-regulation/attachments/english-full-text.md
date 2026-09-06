@@ -494,13 +494,7 @@ contributions to the basic joint compensation funds.
 
 §12. Reporting of Financial Conditions
 
-(1)  Pursuant  to  [§30(1)]  of  the  Regulation,  members  (excluding  the  concurrently-run
-financial  investment  business  entities)  shall  submit  the  documents  concerning  the
-financial  conditions  according  to  the  categories  noted  in  each  of  the  following
-subparagraphs
-the  relevant
-subparagraphs:  (Amended  on  February  2,  2009;  June  9,  2010;  September  12,  2016;
-August 3, 2020)
+to
 
 the  Exchange  within
 
@@ -508,7 +502,13 @@ the  period  specified
 
 in
 
-to
+(1)  Pursuant  to  [§30(1)]  of  the  Regulation,  members  (excluding  the  concurrently-run
+financial  investment  business  entities)  shall  submit  the  documents  concerning  the
+financial  conditions  according  to  the  categories  noted  in  each  of  the  following
+subparagraphs
+the  relevant
+subparagraphs:  (Amended  on  February  2,  2009;  June  9,  2010;  September  12,  2016;
+August 3, 2020)
 
 1.  Documents  on  the  closing  account  pursuant  to  [§3-67]  of  the  Regulations  on
 Financial  Investment  Business:  Within  three  (3) months  of  the  end  of  the  relevant
@@ -588,12 +588,12 @@ relevant official objection.
 
 [February 1, 2012]
 
-§15.  Scope  of  Trading  of  Debt  Securities  by
-(Amended on February 2, 2009)
-
 the  Government,
 
 etc.
+
+§15.  Scope  of  Trading  of  Debt  Securities  by
+(Amended on February 2, 2009)
 
 Pursuant to [§41(2)] of the Regulation, the scope of debt securities trading in which the
 Government, etc. may participate shall be as follows: (Amended on February 2, 2009;
@@ -812,10 +812,10 @@ etc.
 
 (b) The criteria for disciplinary measures against members are as follows:
 
+Criteria for Measures
+
 Disciplinary
 Measures
-
-Criteria for Measures
 
 Suspension of
 whole or part of

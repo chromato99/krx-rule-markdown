@@ -4,8 +4,8 @@ id: "210199976-en"
 title: "Derivatives Market Business Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:55:04.598153Z"
-content_hash: "a7c62448bd6815ad5f412f0f9a0a0d064684bbe16b463aae81c4bb93e0e9c081"
-body_hash: "a363da1ce29e27e028509569df7021dbb2e1486abfdb91dbe7b0cc4d2cf4054b"
+content_hash: "c467e3d4baeb90012fe542a61933520f8095fdfb6b835c26bdd6149a29af34a0"
+body_hash: "1caf71b4cd8d3a62f53f8ab9fcea2d8e20de6436ce31bda22d7cd1b09ad8791b"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,18 +19,18 @@ raw_path: "en/rules/derivatives-market-business-regulation/raw/english-full-text
 text_path: "en/rules/derivatives-market-business-regulation/attachments/english-full-text.md"
 file_content_hash: "57d28df0b0739df137eb8fad6db5f7b0a0652443204c1a6b534ed81098d9c39b"
 raw_file_hash: "57d28df0b0739df137eb8fad6db5f7b0a0652443204c1a6b534ed81098d9c39b"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
 
 Derivatives Market Business Regulation
 
+Formulated on January 21, 2005
+
 Amended on:
 February 25, 2005;July 22, 2005;October 14, 2005;April 28, 2006;October 27, 2006
 Wholly amended on January 19, 2007
-
-Formulated on January 21, 2005
 
 Amended on:
 December 21, 2007;June 27, 2008
@@ -757,9 +757,9 @@ exercise settlement shall be stipulated in the Enforcement Rules in consideratio
 features, trading convenience, impact on underlying assets and the fairness of final settlement
 price, etc. (Amended on August 27, 2014)
 
-[August 27, 2014]
-
 Section 3. Trading of Volatility Index Futures
+
+[August 27, 2014]
 
 §21-2. Underlying Assets
 
@@ -4706,26 +4706,26 @@ August 1, 2016; and
 
 stock
 
+futures
+
+spreads
+
+among
+
+the
+
+amended
+
+provisions
+
+of
+
 2. For the amended provisions concerning the overseas single stock futures and the overseas
 single
 [§3(2),
 §4(1)&(2),§22(1),§25(1),§154(1),§155(2)]: The date specified in the Enforcement Rules, in
 consideration of the time period required for the development of programs for the Exchange
 derivatives system and the member derivatives systems.
-
-provisions
-
-amended
-
-spreads
-
-futures
-
-among
-
-the
-
-of
 
 ADDENDUM
 (December 28, 2016/ Regulation No. 1393)

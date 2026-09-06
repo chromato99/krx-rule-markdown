@@ -4,8 +4,8 @@ id: "210225129-en"
 title: "Enforcement Rules of KOSPI Market Business Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:47:14.006340Z"
-content_hash: "342e27996fe603a273f29a9be8d521e263b74a539283d4767306ad34a2ee2545"
-body_hash: "691337aa59664b5f997eef2054b8c65b5aa41be849c9d5ad53be4e403a4a1bd3"
+content_hash: "969e35b71c28782d98595a12ca04f6e6d9fb084d615ffef4c1f1a51b7331d0c5"
+body_hash: "dc2df207f28fba0dca59f89bf04ce5b1047f2c8055aadcede7186e4ea1056756"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-kospi-market-business-regulation/raw/en
 text_path: "en/rules/enforcement-rules-of-kospi-market-business-regulation/attachments/english-full-text.md"
 file_content_hash: "79cf1faefa8741acefaae9d221856ff5c265e1eccf971aa64d5eb82b5d4f7329"
 raw_file_hash: "79cf1faefa8741acefaae9d221856ff5c265e1eccf971aa64d5eb82b5d4f7329"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -598,14 +598,14 @@ pursuant  to  [§9(2)]  of  the  Regulation  shall  be  as  noted  in  each  of 
 subparagraphs: (Amended on August 26, 2005; February 3, 2009; 2010; July 16, 2009;
 July 29, 2010; September 2, 2014; February 27, 2025)
 
+limit-to-market-on-close  quotation,
+
 1. For stocks (excluding the stocks of ETF investment companies; the same hereinafter),
 DRs  of  foreign  stocks,  collective  investment  securities  of  ETFs  and  ETNs:  Limit
 quotation,  market  quotation,
 immediately
 executable limit quotation, best limit quotation, quotation for auction-based block trade,
 mid-price quotation, and stop-limit quotation; and (February 27, 2025)
-
-limit-to-market-on-close  quotation,
 
 2.  For  subscription  right  certificates,  subscription  warrants,  equity  linked  warrants
 (ELWs),  beneficiary  certificates  (excluding  the  beneficiary  certificates  of  ETFs
@@ -2281,24 +2281,24 @@ less than or equal to two hundred (200) million: The larger of seven point five
 
 million: Twenty (20) million stocks.
 
-(2)  “In  cases  where  it  is  specified  in  the  Enforcement  Rules”  in  [§20-4(5)]  of  the
-following
-subparagraphs:(Amended  on  May  29,  2006;  August  28,  2007;  December  27,  2007;
-November 27, 2008; July 16, 2009; July 23, 2020; December 22, 2022)
+shall
+
+refer
+
+to
+
+cases
 
 falling  under
 
 any  of
 
-cases
-
-shall
-
-refer
-
 the
 
-to
+(2)  “In  cases  where  it  is  specified  in  the  Enforcement  Rules”  in  [§20-4(5)]  of  the
+following
+subparagraphs:(Amended  on  May  29,  2006;  August  28,  2007;  December  27,  2007;
+November 27, 2008; July 16, 2009; July 23, 2020; December 22, 2022)
 
 1.  Case  where  the  quotation  spread  ratio  is  within  the  limit  pursuant  to  each
 subparagraph of [§20-4(1)] of the Regulation. In such cases, when only offer (or bid)
@@ -3080,10 +3080,10 @@ July 16, 2009; July 29, 2010; September 2, 2014; December 22, 2022; October 17, 
 1.  For  stocks,  DRs  of  foreign  stocks,  subscription  right  certificates,  subscription
 the  following
 
+in
+
 warrants,  and  beneficiary  certificates:  Price  specified
 subparagraphs
-
-in
 
 (a)  For  an  issue  of  which  the  price  per  share  (including  the  price  per  certificate,
 warrant and unit: the same hereinafter in this Article) is less than KRW 2,000:
@@ -7724,6 +7724,8 @@ designation. (Amended on April 25, 2013; December 10, 2015; April 1, 2016; Septe
 
 2. [Deleted on September 22, 2020]
 
+temporary  overheated
+
 (2) Notwithstanding paragraph (1), in cases where the closing price of the day when the
 period specified in    paragraph (1) expires counting from the day of designation is higher
 than 120/100 of the closing price of the trading day immediately  preceding the day of
@@ -7733,8 +7735,6 @@ to[§133(1)2]),  the  issue  shall  be  released  from  the  designation  on  th
 follows the day when the period specified in paragraph (1) expires counting from the next
 trading day immediately after.(Amended on April 15, 2013; December 10, 2015; April 1,
 2016; September 22, 2020)
-
-temporary  overheated
 
 (3)  Notwithstanding  paragraph  (1),  in  cases  where  the  closing  price  of  the  issues
 designated  as  temporary  overheated  issues  pursuant  to  [§133(1)2]  (including  the
@@ -10140,9 +10140,9 @@ date may be set differently.
 
 from the first trading day of the month in which the designation date falls.
 
-(Enforcement Rules of the Securities Market Clearing and Settlement
-
 ADDENDA
+
+(Enforcement Rules of the Securities Market Clearing and Settlement
 
 218
 
@@ -10166,10 +10166,10 @@ and [Annex: Form No. 14 through 18] shall be deleted.
 
 3.  Omitted
 
-§1. Effective Date
-
 ADDENDA
 (Regulation No. 2303 / February 27, 2025)
+
+§1. Effective Date
 
 These Enforcement Rules shall become effective on March 4, 2025.
 
@@ -10616,6 +10616,8 @@ price from the base price for the date of quotation placement of the entitled st
 Application for Mass Order Cancellation, etc.
 (Pertaining to [§17-2(1)] of the Enforcement Rules)
 
+Remarks
+
 Matters for applying
 mass order cancellation
 
@@ -10626,19 +10628,11 @@ trading number
 
 Securities*
 
-Condition
-
 Issue
 
 Ask/Bid
 
-Account
-number
-Quotation
-group
-number
-
-Remarks
+Condition
 
 Mass order cancellation applies only to quotations submitted by the
 member
@@ -10670,6 +10664,12 @@ trader pursuant to [§104-3(3)] of the Regulation
 
 A specific group number or the entire group number designated by the
 member to classify quotations when inputting those quotations
+
+Account
+number
+Quotation
+group
+number
 
 * Securities shall be entered by selecting one from the securities list.
 
@@ -11314,10 +11314,10 @@ obligation occurred.
 
 fulfilled the obligation (in seconds)
 
+× 100 ≧ 80%
+
  Occurrence time of quotation obligation for
 obligatory issue (in seconds)
-
-× 100 ≧ 80%
 
 (1) Occurrence time of quotation obligations
 
@@ -11376,34 +11376,34 @@ shall be calculated as follows:
 
 Minimum amount for quotation maintenance
 
-Best bid quotation + 1 tick
-
 =
 
 Minimum quotation
 quantity
+
+Best bid quotation + 1 tick
 
  In cases where the best bid quotation does not exist:
 
 Minimum amount for quotation maintenance
 
-Best offer quotation
-
 =
 
 Minimum quotation
 quantity
+
+Best offer quotation
 
  In cases where either the best bid or the best offer quotation does not exist:
 
 Minimum amount for quotation maintenance
 
-Immediately preceding price
-
 =
 
 Minimum quotation
 quantity
+
+Immediately preceding price
 
 245
 
@@ -11413,34 +11413,34 @@ quantity
 
 Minimum amount for quotation maintenance
 
-Best offer quotation - 1 tick
-
 =
 
 Minimum quotation
 quantity
+
+Best offer quotation - 1 tick
 
  In cases where the best offer quotation does not exist:
 
 Minimum amount for quotation maintenance
 
-Best bid quotation
-
 =
 
 Minimum quotation
 quantity
+
+Best bid quotation
 
  In cases where either the best bid or the best offer quotation does not exist:
 
 Minimum amount for quotation maintenance
 
-Immediately preceding price
-
 =
 
 Minimum quotation
 quantity
+
+Immediately preceding price
 
 When the cause for the exception in obligation to maintain both sided quotations
 is removed, the quotations that fulfill the obligation to maintain two-sided quotation
@@ -11455,9 +11455,9 @@ conditions etc., etc., the below requirement may be lowered.
 
 Number of days for which the obligation was fulfilled
 
-Number of days for market-making
-
 ≧  90%
+
+Number of days for market-making
 
 2. Assessment on the activeness in fulfilling obligations
 
@@ -11515,10 +11515,10 @@ nonfulfillment.
 
 Calculation methods
 
+Demerit points
+
 Minimum number of days with fulfilled obligations –
 Number of days with fulfilled obligations per product
-
-Demerit points
 
  Under 5 days: 1 point
 5~9days: 2 points
@@ -11534,13 +11534,7 @@ Demerit points
 maker in the relevant year is more than the points set forth below, the qualification
 of the market maker shall be suspended.
 
-Number of market-
-making issues
-Threshold of
-Accumulated
-demerit points for
-qualification
-suspension
+200 or more
 
 Less than
 
@@ -11549,8 +11543,6 @@ than 100
 
 100~less than
 200
-
-200 or more
 
 points
 
@@ -11564,6 +11556,14 @@ points
 (No. of
 issues×2.5)
 points
+
+Number of market-
+making issues
+Threshold of
+Accumulated
+demerit points for
+qualification
+suspension
 
 (Note) The number of issues means the number of market-making issues that have market-
 making agreements in force as of the end of the assessment quarter.
@@ -11596,10 +11596,10 @@ is the sum of trading fees and clearing fees.
 
 (b) Trading share of ‘issues subject to payment’
 
+=
+
 Trading share of issues
 subject to payment (%)
-
-=
 
 ⓑA market maker’s trading volume of issues subject to
 payment during a quarter
@@ -11655,11 +11655,11 @@ consecutive quarters.
 The ratio calculated according to the following formula based on the trading date of
 the issue concerned.
 
+Trading volume
+
 Turnover ratio (%)
 
 =
-
-Trading volume
 
 Number of listed shares
 
@@ -11692,6 +11692,15 @@ Score (points)
 
 Assessment items
 
+Sales entrustment
+contract member*
+
+Non-sales
+entrustment
+contract member
+
+-
+
 Price reported
 Disparity ratio of reported price
 Submission of obligatory bid quotations
@@ -11703,15 +11712,6 @@ entrustment contract
 Government policy cooperation (additional points)
 
 Total
-
-Non-sales
-entrustment
-contract member
-
--
-
-Sales entrustment
-contract member*
 
 Note.  In  the  table  above,  “sales  entrustment  contract  member”  shall  refer  to  a  member  who  has
 entered into a sales contract with a sales agency pursuant to [§95] of the Regulation.
@@ -12341,13 +12341,13 @@ Details of transaction:
 
 Name of Issue
 
+Remarks
+
 Quantity
 (shares)
 
 Date to place
 quotation
-
-Remarks
 
 269
 
@@ -12360,13 +12360,13 @@ In  accordance  with  [§17-2]  of  the  Enforcement  Rules  of  KOSPI  Market  
 Regulation,  we  hereby  report  the  opening,  changing  or  closing  of  algorithmic  trading
 accounts as follows.
 
-Open □    Change □    Close □
-
 Date: mm/dd/yyyy
 Name of company:
 Name and/or seal of the representative:
 
 Cause of report
+
+Open □    Change □    Close □
 
 Account number
 
@@ -12379,13 +12379,13 @@ customer account / self-account
 
 Order process ID
 
-Staff in charge
-
 Name
 
 Department
 
 Position
+
+Staff in charge
 
 Phone number
 
@@ -12420,6 +12420,8 @@ Execution No.:      Opening price:
 
 Highest price:   Lowest price:
 
+1)
+
 (No. of Offer
 quotations)
 
@@ -12433,8 +12435,6 @@ quotation)
 
 (No. of Bid
 quotations)
-
-1)
 
 2)
 
@@ -12465,6 +12465,11 @@ Offer quotations
 
 Bid quotations
 
+Price
+
+Yield
+(%)
+
 Cumulative
 Number
 
@@ -12476,11 +12481,6 @@ offers
 
 Quantity
 of offers
-
-Price
-
-Yield
-(%)
 
 Quantity
 of bids
@@ -12494,12 +12494,12 @@ quantity
 Cumulative
 number
 
+Cumulative
+quantity
+
 Notes:
 1. Enter offer quotations on the left and bid quotations on the right of the price column.
 2. In the case of equity-related corporate bonds, leave the yield column blank.
-
-Cumulative
-quantity
 
 272
 
@@ -12528,6 +12528,8 @@ Director of the Department in charge:              (seal)
 
 (Unit: shares)
 
+Remarks
+
 Settlement
 Date
 
@@ -12543,8 +12545,6 @@ Short
 Reason for
 Settlement
 Failure
-
-Remarks
 
 Note. Enter one of the following in the Reason for Settlement Failure column. If the reason for
 settlement failure falls under item 1 and also falls under items 2 or 3, enter item 1. If the reason
@@ -12580,15 +12580,15 @@ Stock subject to liquidity provision
 
 Quotation spread ratio
 
+%
+
 Quotation quantity
+
+shares
 
 Term of agreement
 
 From To
-
-%
-
-shares
 
 Conditions of exemption
 Notes:
@@ -12625,10 +12625,10 @@ Cause of report
 
 Open □    Change □    Close □
 
+(12 digits)
+
 Number of account through which market-
 making quotations are submitted
-
-(12 digits)
 
 Name
 
@@ -12672,18 +12672,18 @@ Name
 
 Department
 
+Position
+
 Company phone
 number
+
+Emergency
+contact
 
 E-mail address
 
 Name of market-
 making issues
-
-Position
-
-Emergency
-contact
 
 Attachments:
 
@@ -12981,21 +12981,21 @@ Statement of Market-making Issue
 
 Market
 
+Name of issue
+
 Code of
 issue
 
-Name of issue
-
 Obligatory
 spread
+
+Term of
+agreement
 
 Minimum
 amount for
 quotation
 maintenance
-
-Term of
-agreement
 
 282
 
@@ -13017,6 +13017,15 @@ the market-making account as follows:
 
 <Management of Daily Quantity held by Market Maker>
 
+Changes in quantity held
+
+Balance on base date
+
+Balance on previous
+day of base date
+
+OTC
+
 Base
 date
 
@@ -13028,25 +13037,16 @@ Name of
 issue
 (Abbreviated)
 
-Balance on previous
-day of base date
-
 General
 
 Borrowed
 
-Changes in quantity held
-
-Balance on base date
+General  Borrowed  Total
 
 On-
 Exchange
 
-OTC
-
 Borrowed  Others
-
-General  Borrowed  Total
 
 Notes:
 1. In the “on-exchange” changes in quantity held, the quantity purchased in the regular sessions less the
@@ -13093,15 +13093,15 @@ Product
 
 ETF  □    ETN  □ELW □
 
-Liquidity providing issues
-
 Code of issue
-
-(ISIN, 12 digits)
 
 Name of issue
 
+(ISIN, 12 digits)
+
 (Abbreviated)
+
+Liquidity providing issues
 
 Account number for hedging trades
 
@@ -13113,13 +13113,13 @@ Effective date
 
 Name
 
-Telephone No.
-
-E-mail
-
 Person
 
+Telephone No.
+
 in charge
+
+E-mail
 
 Notes:
 
@@ -13148,17 +13148,17 @@ Request for Correction of Transaction Errors
 
 1. Details of trades (month/ date/ year)
 
-Name of Issue
-(Code No.)
-
-Classification
-of sell or buy
-
 Quantity
 
 Price
 
 Comments
+
+Name of Issue
+(Code No.)
+
+Classification
+of sell or buy
 
 2. Details of correction requested
 
@@ -13291,6 +13291,12 @@ KOSPI Market Division
 
 The Korea Exchange
 
+Quantity
+
+Price
+
+Comments
+
 Name of
 issue
 
@@ -13303,12 +13309,6 @@ date
 Type of
 trade
 (sell or buy)
-
-Quantity
-
-Price
-
-Comments
 
 290
 
@@ -13328,16 +13328,18 @@ Details of assumed transaction error
 
 Results of trading
 
-Name of
-issue
-
-Type of
-trade
-(sell or buy)
+Type of trade
 
 Quantity
 
 Price
+
+Quantity
+
+Price
+
+Name of
+issue
 
 Date
 assumed
@@ -13345,16 +13347,14 @@ assumed
 Name of
 issue
 
-Type of trade
+Date
+traded
 
 (sell or buy)
 
-Quantity
-
-Price
-
-Date
-traded
+Type of
+trade
+(sell or buy)
 
 291
 
@@ -13372,41 +13372,35 @@ Name and seal of representative
 
 xxx Securities Company
 
-Details of the
+Sale
 
-assumed
-
-transaction
-
-error
-
-Results of
-
-trading the
-
-assumed
-
-transaction
-
-error
+Purchase
 
 Name of issue
 
 Date traded
 
-Traded
-
 Quantity
+
+Traded
 
 amount
 
 Price
 
+Details of the
+
 Amount (A)
+
+assumed
 
 Book entry settlement
 
+transaction
+
 Member dues
+
+error
 
 Expenses
 
@@ -13418,19 +13412,29 @@ Subtotal (B)
 
 Date traded
 
-Traded
-
 Quantity
+
+Traded
 
 amount
 
 Price
 
+Results of
+
 Amount (C)
+
+trading the
+
+assumed
 
 Book entry settlement
 
+transaction
+
 Member dues
+
+error
 
 Expenses
 
@@ -13441,10 +13445,6 @@ Transaction tax
 Subtotal (D)
 
 Amount to be settled (E)
-
-Sale
-
-Purchase
 
 292
 
@@ -13464,23 +13464,35 @@ Chairperson& CEO
 
 The Korea Exchange
 
+Sale
+
+Purchase
+
 Name of issue
 
 Date of trading
 
-Amount
-
 Quantity
+
+Amount
 
 traded
 
 Price
 
+Details of the
+
 Amount (A)
+
+assumed
 
 Book entry settlement
 
+transaction
+
 Membership dues
+
+errors
 
 Expenses
 
@@ -13492,35 +13504,27 @@ Subtotal (B)
 
 Date of trading
 
-Amount
-
 Quantity
+
+Amount
 
 traded
 
 Price
 
-Amount (C)
-
-Book entry settlement
-
-Membership dues
-
-Details of the
-
-assumed
-
-transaction
-
-errors
-
 Results of
+
+Amount (C)
 
 trading the
 
 assumed
 
+Book entry settlement
+
 transaction
+
+Membership dues
 
 error
 
@@ -13533,10 +13537,6 @@ Transaction tax
 Subtotal (D)
 
 Amount to be settled (E)
-
-Sale
-
-Purchase
 
 293
 
@@ -13570,9 +13570,9 @@ Classification of securities
 
 Stocks, ETFs, ETNs, ELWs or Beneficiary Certificates
 
-Staff in charge
-
 Name
+
+Staff in charge
 
 Contact information
 
@@ -13722,7 +13722,11 @@ xxx Securities Company
 
 Quotations Details of Covered Short Sales
 
+Offer quote
+
 Date  Time
+
+Price  Quantity
 
 Member
 name
@@ -13741,10 +13745,6 @@ No.
 
 Brokering/
 Dealing
-
-Offer quote
-
-Price  Quantity
 
 Notes:
 1. Time shall be recorded in hour, minute and second.
@@ -13794,6 +13794,8 @@ as a bond market-making dealer in the following market.
 
 <For Trading in KRX KTB>
 
+Department  Position
+
 Staff-in-
 charge
 
@@ -13802,8 +13804,6 @@ No.
 
 Name of
 Dealer
-
-Department  Position
 
 Telephone
 No.
@@ -13819,6 +13819,8 @@ Designation
 
 <For Trading in KRX BondsAll (pertaining to [§71-3(2)4] of the Regulation)>
 
+Department  Position
+
 Staff-in-
 charge
 
@@ -13827,8 +13829,6 @@ No.
 
 Name of
 Dealer
-
-Department  Position
 
 Telephone
 No.
@@ -13934,6 +13934,8 @@ Corporation/Individual
 
 Corporate information
 
+Member  □      General  □
+
 Individual information
 
 Corporation            □                Individual            □
@@ -13949,9 +13951,9 @@ Individual or group**
 
 Individual  □    Group  □
 
-Member  □      General  □
-
 Foreigner    □                            Non-foreigner    □
+
+KOSPI  □  KOSDAQ  □  Derivative market  □  KONEX  □
 
 Type of investors
 (Investor classification
@@ -13967,8 +13969,6 @@ Market for trading
 Applying member
 * In the case of a foreign corporation, enter the number of the corporate (business) registration
 certificate (COI) of the foreign country of incorporation.
-
-KOSPI  □  KOSDAQ  □  Derivative market  □  KONEX  □
 
 ** In the case of registering a group under the name of a representative
 
@@ -14022,21 +14022,6 @@ registration as a high-speed algorithmic trader as follow.
 
 Registration requirements
 
-- The electronic system, such as ordering system, etc., used by
-the customer shall have the stability and adequacy suitable for
-conducting high-speed algorithmic trading*
-- The customer shall have sufficient knowledge and experience
-in conducting high-speed algorithmic trading
-- The customer shall have the management mechanism such as
-internal control organization and two or more professional
-personnel to effectively manage risks that may occur from high-
-speed algorithmic trading.
-- (In case of not meeting the above requirements) Case where the
-member judges that the customer can recognize, evaluate,
-monitor, and control all risks that may arise from high-speed
-algorithmic trading in a timely manner, or the member directly
-carries out the risk management.
-
 Whether
 requirements are
 met or not
@@ -14052,6 +14037,21 @@ not satisfied
 
 Applicable/
 not applicable
+
+- The electronic system, such as ordering system, etc., used by
+the customer shall have the stability and adequacy suitable for
+conducting high-speed algorithmic trading*
+- The customer shall have sufficient knowledge and experience
+in conducting high-speed algorithmic trading
+- The customer shall have the management mechanism such as
+internal control organization and two or more professional
+personnel to effectively manage risks that may occur from high-
+speed algorithmic trading.
+- (In case of not meeting the above requirements) Case where the
+member judges that the customer can recognize, evaluate,
+monitor, and control all risks that may arise from high-speed
+algorithmic trading in a timely manner, or the member directly
+carries out the risk management.
 
 * Attached is the result of the electronic system inspection (including approval of the head
 of  the  department  in  charge)  pursuant  to  [§131-4(1)1]  of  the  Enforcement  Rules  of

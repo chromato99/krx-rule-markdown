@@ -32,14 +32,14 @@ attachments:
     text_path: "ko/notices/유가증권시장-상장규정-개정-예고/attachments/유가증권시장-상장규정-개정에-관한-예고-pdf.md"
     content_hash: "d8784db6cae3806bf05a9e2560367a6ac1993d5dd58dbdf654974af03b1ff7b4"
     raw_file_hash: "d8784db6cae3806bf05a9e2560367a6ac1993d5dd58dbdf654974af03b1ff7b4"
-    converted_text_hash: "c43cd7aeebf6713b95dfbcb9666bbc6e0a0d07b920d1c8c948677569886c51d6"
-    converter_version: "2"
+    converted_text_hash: "e34811f043c60cd60b8512969cc174f28d7c52169a477967080456414ea623a8"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 166824
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 849
+    converted_text_chars: 848
     converted_non_space_chars: 636
   - id: "210231017-210231024-pdf"
     title: "유가증권시장 상장규정 일부개정규정안_중복상장_예고.pdf"
@@ -54,8 +54,8 @@ attachments:
     text_path: "ko/notices/유가증권시장-상장규정-개정-예고/attachments/유가증권시장-상장규정-일부개정규정안-중복상장-예고-pdf.md"
     content_hash: "d97385900815626bebd9c755b067d01313da7a1b17653445f2ddb823f15b8e52"
     raw_file_hash: "d97385900815626bebd9c755b067d01313da7a1b17653445f2ddb823f15b8e52"
-    converted_text_hash: "d877746a8be43c9fe978fba5678df18a30d45b4b48bec59a0ce8f6694a35bf9e"
-    converter_version: "2"
+    converted_text_hash: "dbf8db534f72b0f09a79d46fd96725b2eef61e008c70f43a85a52b2973585283"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 217176
@@ -64,7 +64,7 @@ attachments:
     quality_flags: "pdf_comparison_structure_lost"
     quality_codes: ["pdf_comparison_structure_lost"]
     diagnostics: [{"code":"pdf_comparison_structure_lost","message":"amendment comparison columns were extracted without a structured table","severity":"warn"}]
-    converted_text_chars: 4851
+    converted_text_chars: 4850
     converted_non_space_chars: 3499
 ---
 

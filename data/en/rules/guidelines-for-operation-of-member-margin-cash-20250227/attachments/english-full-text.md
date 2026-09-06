@@ -141,9 +141,9 @@ deems it necessary, the chairperson shall convene it separately.
 (8)Other matters not stipulated in this Guideline in relation to the composition and operation
 of the Council shall be determined by the President.
 
-§5. General Operation Amount
-
 Section 2. General Operation
+
+§5. General Operation Amount
 
 (1)  The  general  operating  amount  shall  be  the  remaining  amount  excluding  the  amount
 determined  for  the  special  operation  from  the  margin  cash  by  a  member’s  property  and
@@ -466,9 +466,9 @@ Application Rate
 
 In KRW
 
-12%
-
 In foreign currency
+
+12%
 
 12%
 

@@ -4,8 +4,8 @@ id: "204844636-en"
 title: "분쟁조정규정시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T08:03:39.657673Z"
-content_hash: "d6a46c056cc810ca27619925615d6a400a73f2531aa29a322b6c0301194f65f9"
-body_hash: "7ed648b2e057309fc0b1a8e0600f01cfda47e7418163bd1ba3283590b01eebcc"
+content_hash: "f5462fd5924539b922a6ef0dd175c32063c83823cb3e0594fd57def185d1a3e9"
+body_hash: "3a57cfd0af05ad8183a736e350e331c9ef8efe606146764707f47850e4ecdde0"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/분쟁조정규정시행세칙/raw/english-full-text.pdf"
 text_path: "en/rules/분쟁조정규정시행세칙/attachments/english-full-text.md"
 file_content_hash: "06a4767777b5927f73adebdaf90e114160c7968f4f9998a3ce8002ccbd75137f"
 raw_file_hash: "06a4767777b5927f73adebdaf90e114160c7968f4f9998a3ce8002ccbd75137f"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -503,31 +503,31 @@ October 15, 2012)
 
 Application for Dispute Mediation
 
+(Front)
+
 Application for Dispute Mediation
 
-Date of birth
-(Business
-Registration
-No.)
-
 Name (Company
 Name)
-
-Address and
-Contact address
-Name (Company
-Name)
-Address and
-Contact address
-
-(Front)
 
 Petitioner
 (Possible to
 fill out by the
 Agent)
 
+Date of birth
+(Business
+Registration
+No.)
+
 Respondent
+
+Address and
+Contact address
+Name (Company
+Name)
+Address and
+Contact address
 
 Intention of
 and reasons
@@ -562,31 +562,31 @@ Reference Materials:
 
 Record of Mediation Request
 
+(Front)
+
 Record of Mediation Request
 
-Date of birth
-(Business
-Registration
-No.)
-
 Name (Company
 Name)
-
-Address and
-Contact address
-Name (Company
-Name)
-Address and
-Contact address
-
-(Front)
 
 Petitioner
 (Possible to
 fill out by the
 Agent)
 
+Date of birth
+(Business
+Registration
+No.)
+
 Respondent
+
+Address and
+Contact address
+Name (Company
+Name)
+Address and
+Contact address
 
 Intention of
 and reasons
@@ -621,14 +621,14 @@ Reference Materials:
 
 Letter of Attorney
 
+(Date of birth:                              )
+
 Appointee:
 Address
 Contact address
 Name
 Institutional affliction:
 Position title:
-
-(Date of birth:                              )
 
 In  accordance  with  [§4]  of  the  Dispute  Mediation  Regulation,  I  hereby  appoint  the
 above named person as my agent and delegate the authorities over the following matters
@@ -664,28 +664,28 @@ Date of birth
 (Business
 registration No.)
 
-Name
-(Company
-Name)
-Address and
-Contact address
-
-Name
-(Company
-Name)
-Address and
-Contact address
-
-(Case No. xx)
-
 Petitioner
 (Possible to
 fill out by the
 Agent)
 
+Name
+(Company
+Name)
+Address and
+Contact address
+
 Petitioner
 
+Name
+(Company
+Name)
+Address and
+Contact address
+
 Title of case
+
+(Case No. xx)
 
 Reason for
 withdrawal
@@ -707,12 +707,12 @@ Request for Exclusion / Challenge
 
  Request for Exclusion /  Challenge
 
+Title of case
+Applicant
+
 Case No.
 Commission
 member concerned
-
-Title of case
-Applicant
 
 Reasons for request
 

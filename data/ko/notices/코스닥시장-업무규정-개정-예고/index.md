@@ -32,14 +32,14 @@ attachments:
     text_path: "ko/notices/코스닥시장-업무규정-개정-예고/attachments/붙임1-코스닥시장-업무규정-제개정에-관한-예고-pdf.md"
     content_hash: "6ff541e5c84e3f69227241ecfc6a08c475b32b84bdf2d0fff229c602cd8d30fa"
     raw_file_hash: "6ff541e5c84e3f69227241ecfc6a08c475b32b84bdf2d0fff229c602cd8d30fa"
-    converted_text_hash: "9dc853924e9ce3d9eaeea352491a0adb1b8b6c9992c4606367bfddbb8184ca0d"
-    converter_version: "2"
+    converted_text_hash: "b5917d327213a1a9bcd2be327e05c9b8f7933e634344822f5232b1e05d3fb32e"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 209282
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1460
+    converted_text_chars: 1459
     converted_non_space_chars: 1106
   - id: "210224396-210224398-pdf"
     title: "(붙임2) 코스닥시장 업무규정 일부개정규정안.pdf"
@@ -54,14 +54,14 @@ attachments:
     text_path: "ko/notices/코스닥시장-업무규정-개정-예고/attachments/붙임2-코스닥시장-업무규정-일부개정규정안-pdf.md"
     content_hash: "3db6cccac07e9c3c4359366c0bfc49a68e27fbeecc3d9c9bc0a248183842f7c0"
     raw_file_hash: "3db6cccac07e9c3c4359366c0bfc49a68e27fbeecc3d9c9bc0a248183842f7c0"
-    converted_text_hash: "d0a64a2c18aa5e0d92fd65419013d3971699e111e5ad6fa32842c760edfb71f0"
-    converter_version: "2"
+    converted_text_hash: "e7db8decfbd834d46b2aefda1e541f346b36d01b39ca5473e66323a58985dc2f"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 298497
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 17317
+    converted_text_chars: 17316
     converted_non_space_chars: 14836
     table_row_count: 222
 ---

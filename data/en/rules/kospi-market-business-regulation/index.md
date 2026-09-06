@@ -4,8 +4,8 @@ id: "210225665-en"
 title: "KOSPI Market Business Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:46:08.725856Z"
-content_hash: "a92bd144bb8dad39b967f1c0b506dadecc0a33aa426a9b44599ac1bbcabcf015"
-body_hash: "251c2a7e412afb8fd3005d7d941bc9b1460c1e21826811011d4d9815eec6c9d9"
+content_hash: "306fd505007fd3c2c79aaba3e92b0899563db383d226150d680dc647e285bee6"
+body_hash: "c0f255c228c1461e22696ba6483fea1b56eab1c1d4dd7917710319efadc31972"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/kospi-market-business-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/kospi-market-business-regulation/attachments/english-full-text.md"
 file_content_hash: "08c84c350e9adbeef2c0de491fb6a411b7b2fd31247a2d5acf66a8f96aa2fd70"
 raw_file_hash: "08c84c350e9adbeef2c0de491fb6a411b7b2fd31247a2d5acf66a8f96aa2fd70"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -1195,10 +1195,10 @@ issues for which the liquidity was provided at that time.
 
 [December 1, 2010]
 
-§20-9.  Market  Makers
-
 Section  2-3.  Market  Makers
 [November 4, 2015]
+
+§20-9.  Market  Makers
 
 (1) Any member who has entered into an agreement for market making with the Exchange to
 provide liquidity (hereinafter referred to as the “market maker”), may submit the quotations
@@ -2242,10 +2242,10 @@ the Enforcement Rules.
 government  bond  dealers  for  the  purpose  of  market-making  for  benchmark  issue,  and  it
 shall be classified into each of following items:
 
+that  are
+
 (a)  Both-sided  market-making  quotations:  Bid  and  offer  quotations
 simultaneously placed by primary dealers; and
-
-that  are
 
 (b)  One-sided  market-making  quotations:  Bid  or  offer  quotation  that  is  placed  by  the
 government bond dealers.
@@ -2992,9 +2992,9 @@ account  with  a  customer  shall  be  prohibited  from  serving  as  an  agent 
 
 customer.
 
-§87.  Good  Faith  Deposit
-
 Section  2.  Good  Faith  Deposit
+
+§87.  Good  Faith  Deposit
 
 (1) Members may, when receiving entrustments of orders from its customers, collect the good
 faith  deposit  in  cash  or substitute  securities  for  buying  and  in  cash,  securities  to  be  sold  or
@@ -3800,9 +3800,9 @@ ADDENDA
 
 82
 
-§1. Effective Date
-
 (January 28, 2009)
+
+§1. Effective Date
 
 This  Regulation  shall  become  effective  on  February  4,  2009.  Provided  that  the  amended
 provisions  of  [§18(2),  (4),  (7)  &  (8)]  and  Chapter  V  (except  for  [§75-4  and  §75-9])  shall
@@ -3849,9 +3849,9 @@ ADDENDUM
 
 83
 
-This Enforcement Rules shall become effective on July 17, 2009.
-
 (July 16, 2009)
+
+This Enforcement Rules shall become effective on July 17, 2009.
 
 ADDENDUM
 (December 29, 2009)
@@ -3895,9 +3895,9 @@ ADDENDUM
 
 84
 
-This Regulation shall become effective on May 30, 2011.
-
 (March 2, 2011)
+
+This Regulation shall become effective on May 30, 2011.
 
 ADDENDA
 (July 6, 2011)

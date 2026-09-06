@@ -32,8 +32,8 @@ attachments:
     text_path: "ko/notices/코스닥시장-공시규정-개정-예고/attachments/코스닥시장-공시규정-일부개정규정안-pdf.md"
     content_hash: "38bb2b50ee5950e807d793535caad234da57616774c20ee16bf88f11bfee2837"
     raw_file_hash: "38bb2b50ee5950e807d793535caad234da57616774c20ee16bf88f11bfee2837"
-    converted_text_hash: "e24162185f93bd768119be4683c1a87d90cfd4d69fb0226a653c4f6ba79e9c88"
-    converter_version: "2"
+    converted_text_hash: "72e037ff9b2e043fa53d9b2c730dd8ca191d7e16fc71f3c0966991f98c6daa15"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 150277
@@ -42,7 +42,7 @@ attachments:
     quality_flags: "pdf_comparison_structure_lost"
     quality_codes: ["pdf_comparison_structure_lost"]
     diagnostics: [{"code":"pdf_comparison_structure_lost","message":"amendment comparison columns were extracted without a structured table","severity":"warn"}]
-    converted_text_chars: 3186
+    converted_text_chars: 3185
     converted_non_space_chars: 2455
   - id: "210231030-210231032-pdf"
     title: "코스닥시장 공시규정 일부개정규정안_의견수렴 공고문.pdf"
@@ -57,14 +57,14 @@ attachments:
     text_path: "ko/notices/코스닥시장-공시규정-개정-예고/attachments/코스닥시장-공시규정-일부개정규정안-의견수렴-공고문-pdf.md"
     content_hash: "a3beb31f7b5cd05a1508b4537b77f95ac3c02985f552ad207392e9957017becf"
     raw_file_hash: "a3beb31f7b5cd05a1508b4537b77f95ac3c02985f552ad207392e9957017becf"
-    converted_text_hash: "740bdee50fc6506506a5441a75d050837e537328a16c35c92593b7abd34ebc5d"
-    converter_version: "2"
+    converted_text_hash: "c43628812ceded029199331987862b70cd9950b0415707b3a7327134cd69ea3a"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 129722
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 498
+    converted_text_chars: 497
     converted_non_space_chars: 366
 ---
 

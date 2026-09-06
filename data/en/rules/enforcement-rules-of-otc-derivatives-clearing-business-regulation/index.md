@@ -4,8 +4,8 @@ id: "210215757-en"
 title: "Enforcement Rules of OTC Derivatives Clearing Business Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:57:04.408135Z"
-content_hash: "9f75aa1362d21a4a062ccf5e4a48d793a19edbd1aa8b3ab9593a2dc69f4cfdb9"
-body_hash: "589d5ab0fafb5a2ea7862f9a088a6d8b80f7cca555b9ce457be95fa75cb0e1c6"
+content_hash: "58c783f20b76dcdd40782248db9b76e4d65a3ab596c6fe2436d0fe859e3601bc"
+body_hash: "7c26619f2bf10a527677174ae9f580d4b1d5a1fdc790fdd22572a0355eb698d9"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-otc-derivatives-clearing-business-regul
 text_path: "en/rules/enforcement-rules-of-otc-derivatives-clearing-business-regulation/attachments/english-full-text.md"
 file_content_hash: "ecfebe22d9773ff33e5d1bebbc6eac955ca7295f46ade49e125adefe4cde9dbe"
 raw_file_hash: "ecfebe22d9773ff33e5d1bebbc6eac955ca7295f46ade49e125adefe4cde9dbe"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -1037,9 +1037,9 @@ determination of variable interest rates, the calculation of interest amounts, e
 
 [September 30, 2021]
 
-§28. Written Pledge
-
 CHAPTER V. CLIENT CLEARING
+
+§28. Written Pledge
 
 “The form specified in the Enforcement Rules” in [§54(3)] of the Regulation refers to [Annex: Form
 
@@ -1738,9 +1738,9 @@ Section 2. Deposit, Withdrawal and Method of Management and Investment of Member
 
 32
 
-§55. Deposit Limit of Substitute Securities, etc.
-
 Margin
+
+§55. Deposit Limit of Substitute Securities, etc.
 
 (1) “Limit specified in the Enforcement Rules” in [§83(2)] of the Regulation shall be the total amount
 
@@ -3049,9 +3049,9 @@ of the commencement of close-out netting to the Exchange in writing.
 
 commences the close-out netting process pursuant to [§88]. (Added on June13, 2014)
 
-§89. Compensation of Losses using OTC Derivatives JCF, etc.
-
 Section 3. Default Waterfall
+
+§89. Compensation of Losses using OTC Derivatives JCF, etc.
 
 (1)  The  compensation  of  losses  among  the  clearing  members  in  a  same  category  of  sequence  as
 
@@ -3668,14 +3668,14 @@ who is an affiliate of the clearing member shall be calculated separately.
 
 𝐾𝑆𝑇−𝑡
 
+𝐾𝑆𝑇−𝑡
+
 𝐶𝐷  : The amount of risk exposure as of (T) date calculated by reflecting the change in the settlement rate for
 the five (5) business days immediately before (T-t) day for the KRW IRS cleared transactions of the clearing
 member
 𝐾𝑂𝐹𝑅 : The amount of risk exposure as of (T) date calculated by reflecting the change in the settlement rate
 for  the  five  (5)  business  days  immediately  before  (T-t)  day  for  the  KRW  OIS  cleared  transactions  of  the
 clearing member
-
-𝐾𝑆𝑇−𝑡
 
 𝑈𝑆𝑇−𝑡
 
@@ -3698,6 +3698,8 @@ transactions converted into Korean won. In this case, the margin excessive risk 
 total  margin  excessive  risk  equivalent  amounts  of  the  clearing  member  and  an  affiliate,  who  is  a
 clearing member, of the clearing member shall be calculated separately.
 
+𝐾𝑂𝐹𝑅, 0)
+
 𝐾𝑇−𝑡 = 𝑚𝑎 𝑥(𝐾𝑆𝑇−𝑡
 
 𝐶𝐷   − 𝐾𝑀𝑇
@@ -3706,13 +3708,11 @@ clearing member, of the clearing member shall be calculated separately.
 
 𝐾𝑂𝐹𝑅   − 𝐾𝑀𝑇
 
-𝐾𝑂𝐹𝑅, 0)
+𝐿𝐼𝐵𝑂𝑅, 0)
 
 𝑈𝑇−𝑡 = 𝑚𝑎𝑥 (𝑈𝑆𝑇−𝑡
 
 𝐿𝐼𝐵𝑂𝑅 − 𝑈𝑀𝑇
-
-𝐿𝐼𝐵𝑂𝑅, 0)
 
 𝑥𝑇−𝑡 = 𝐾𝑇−𝑡 + 𝑈𝑇−𝑡 × 𝑀𝐴𝑅 ÷ 𝐻𝐶
 
@@ -3801,12 +3801,12 @@ A. KRW IRS cleared transactions: The settlement rate shall be calculated as foll
 
 each interest rate specified in the table below.
 
+Rate Based Maturities
+
 Call Rates
 CD Rates
 
 KRW IRS Rates
-
-Rate Based Maturities
 
 1 day
 3 months
@@ -3859,12 +3859,12 @@ B. KRW OIS cleared transactions: The settlement interest rate shall be calculate
 
 to the interest rate specified in the table below. [October 23, 2025]
 
+Rate Based Maturities
+
 Category
 KOFR
 
 KRW OIS Rates
-
-Rate Based Maturities
 
 1 day
 1 week, 2 weeks, 3 weeks, 1 month, 2 months, 3 months, 6
@@ -3893,11 +3893,11 @@ agreed brokerage companies: The simple average of the relevant median swap rates
 
 2. For USD Cleared Transactions
 
+Rate Based Maturities
+
 SOFE
 
 USD SOFR OIS Rates
-
-Rate Based Maturities
 
 1 day
 1 month through 12 months with increment of one month, 18
@@ -4017,14 +4017,14 @@ floating rate interest amount by the value calculated by dividing 365 into the n
 (including the first day and excluding the last day) of the relevant calculation period of floating rate
 interest amount.
 
+− 1) ×
+
 𝐹𝐴,𝐵 = (
+
+𝐷(𝐴, 𝐵)
 
 𝐷𝐹𝐴
 𝐷𝐹𝐵
-
-− 1) ×
-
-𝐷(𝐴, 𝐵)
 
 Where,
 FA,B: Forward rate applicable to the calculation period for floating rate amount from day A to day B,
@@ -4044,17 +4044,17 @@ last day of the relevant calculation period of floating rate interest amount by 
 dividing  360  into  the  number  of  days  (including  the  first  day  and  excluding  the  last  day)  of  the
 relevant calculation period of floating rate interest amount.
 
-𝐹𝐴,𝐵 = (
-
-𝐷𝐹𝐴
-𝐷𝐹𝐵
-
 − 1) ×
+
++ 𝑆𝑝𝑟𝑒𝑎𝑑
+
+𝐹𝐴,𝐵 = (
 
 360
 𝐷(𝐴, 𝐵)
 
-+ 𝑆𝑝𝑟𝑒𝑎𝑑
+𝐷𝐹𝐴
+𝐷𝐹𝐵
 
 Where,
 FA,B: Forward rate applicable to the calculation period for floating rate amount from day A to day B,
@@ -4101,13 +4101,13 @@ Where,
 
 previous business day of the settlement day),and
 
-𝐷( ,
-
-): Number of days between
-
 and
 
 (including the date on which the period commences
+
+𝐷( ,
+
+): Number of days between
 
 but excluding the date on which the period ends).
 
@@ -4139,9 +4139,9 @@ formula:
 
 formula:
 
-𝐷𝐹𝑇,𝑇+𝑡 = 𝑒−𝑍𝑇,𝑇+𝑡×
-
 𝐷(𝑇,𝑇+𝑡)
+
+𝐷𝐹𝑇,𝑇+𝑡 = 𝑒−𝑍𝑇,𝑇+𝑡×
 
 Where,
 
@@ -4272,6 +4272,8 @@ maturity bucket shall be applied.
 
 1. For KRW Cleared Transactions
 
+KRW IRS cleared transactions  KRW OIS cleared transactions
+
 i
 
 Margin based
@@ -4280,12 +4282,9 @@ maturity
 Number of days
 to Maturity
 
-KRW IRS cleared transactions  KRW OIS cleared transactions
-
-Total Value
-Variation
+Liquidity Risk
 Margin Rates
-𝒄)
+𝒍)
 (𝒓𝒊
 
 Liquidity Risk
@@ -4299,88 +4298,89 @@ Margin Rates
 𝒄)
 (𝒓𝒊
 
-Liquidity Risk
+Total Value
+Variation
 Margin Rates
-𝒍)
+𝒄)
 (𝒓𝒊
 
 3M
 
-6M
-
-9M
-
-1Y
-
-1.5Y
-
-2Y
-
-3Y
-
-4Y
-
-5Y
-
-6Y
-
-7Y
-
-8Y
-
-9Y
-
-10Y
-
-11Y
-
-12Y
-
-13Y
-
-14Y
-
-15Y
-
-16Y
-
 1 ~ 91
+
+6M
 
 92 ~ 183
 
+9M
+
 184 ~ 274
+
+1Y
 
 275 ~ 365
 
+1.5Y
+
 366 ~ 547
+
+2Y
 
 548 ~ 730
 
+3Y
+
 731 ~ 1,095
+
+4Y
 
 1,096 ~ 1461
 
+5Y
+
 1,462 ~1,826
+
+6Y
 
 1,827 ~ 2,191
 
+7Y
+
 2,192 ~ 2,556
+
+8Y
 
 2,557 ~ 2,922
 
+9Y
+
 2,923 ~ 3,287
+
+10Y
 
 3,288 ~ 3,652
 
+11Y
+
 3,653 ~ 4,017
+
+12Y
 
 4,018 ~ 4,383
 
+13Y
+
 4,384 ~ 4,748
+
+14Y
 
 4,749 ~ 5,113
 
+15Y
+
 5,114 ~ 5,478
+
+16Y
 
 5,479 ~ 5,844
 
@@ -4388,17 +4388,17 @@ Margin Rates
 
 17Y
 
-18Y
-
-19Y
-
-20Y
-
 5,845 ~ 6,209
+
+18Y
 
 6,210 ~ 6,574
 
+19Y
+
 6,575 ~ 6,939
+
+20Y
 
 6,940 ~ 7,330
 
@@ -4410,12 +4410,28 @@ M: Month, Y: Year (the same hereinafter)
 
 6-month LIBOR USD Cleared Transactions
 
+i
+
 Margin
 based
 maturity
 
 Number of days
 to Maturity
+
+Number of days
+to Maturity
+
+Liquidity Risk
+Margin
+𝒍)
+Rates (𝒓𝒊
+
+Total Value
+Variation
+Margin Rates
+𝒄)
+(𝒓𝒊
 
 Total Value
 Variation
@@ -4429,35 +4445,25 @@ Margin
 𝒍)
 Rates (𝒓𝒊
 
-Number of days
-to Maturity
-
-Total Value
-Variation
-Margin Rates
-𝒄)
-(𝒓𝒊
-
-Liquidity Risk
-Margin
-𝒍)
-Rates (𝒓𝒊
-
 3M
-
-6M
-
-9M
-
-1Y
 
 1 ~ 91
 
+6M
+
 92 ~ 183
+
+1 ~ 183
+
+9M
 
 184 ~ 274
 
+1Y
+
 275 ~ 365
+
+184 ~ 365
 
 1.5Y
 
@@ -4465,203 +4471,197 @@ Rates (𝒓𝒊
 
 2Y
 
-3Y
-
-4Y
-
-5Y
-
-6Y
-
-7Y
-
-8Y
-
-9Y
-
-10Y
-
-11Y
-
-12Y
-
-13Y
-
-14Y
-
-15Y
-
-16Y
-
-17Y
-
-18Y
-
-19Y
-
-20Y
-
-21Y
-
-22Y
-
-23Y
-
 548 ~ 730
-
-731 ~ 1,095
-
-1,096 ~ 1461
-
-1,462 ~1,826
-
-1,827 ~ 2,191
-
-2,192 ~ 2,556
-
-2,557 ~ 2,922
-
-2,923 ~ 3,287
-
-3,288 ~ 3,652
-
-3,653 ~ 4,017
-
-4,018 ~ 4,383
-
-4,384 ~ 4,748
-
-4,749 ~ 5,113
-
-5,114 ~ 5,478
-
-5,479 ~ 5,844
-
-5,845 ~ 6,209
-
-6,210 ~ 6,574
-
-6,575 ~ 6,939
-
-6,940 ~ 7,305
-
-7,306 ~ 7,670
-
-7,671 ~ 8,035
-
-8,036 ~ 8,400
-
-1 ~ 183
-
-184 ~ 365
 
 366 ~ 730
 
+3Y
+
 731 ~ 1,095
+
+731 ~ 1,095
+
+4Y
 
 1,096 ~ 1461
 
+1,096 ~ 1461
+
+5Y
+
 1,462 ~1,826
+
+1,462 ~1,826
+
+6Y
 
 1,827 ~ 2,191
 
+1,827 ~ 2,191
+
+7Y
+
 2,192 ~ 2,556
+
+2,192 ~ 2,556
+
+8Y
 
 2,557 ~ 2,922
 
+2,557 ~ 2,922
+
+9Y
+
 2,923 ~ 3,287
+
+2,923 ~ 3,287
+
+10Y
 
 3,288 ~ 3,652
 
+3,288 ~ 3,652
+
+11Y
+
 3,653 ~ 4,017
+
+3,653 ~ 4,017
+
+12Y
 
 4,018 ~ 4,383
 
+4,018 ~ 4,383
+
+13Y
+
 4,384 ~ 4,748
+
+4,384 ~ 4,748
+
+14Y
 
 4,749 ~ 5,113
 
+4,749 ~ 5,113
+
+15Y
+
 5,114 ~ 5,478
+
+5,114 ~ 5,478
+
+16Y
 
 5,479 ~ 5,844
 
+5,479 ~ 5,844
+
+17Y
+
 5,845 ~ 6,209
+
+5,845 ~ 6,209
+
+18Y
 
 6,210 ~ 6,574
 
+6,210 ~ 6,574
+
+19Y
+
 6,575 ~ 6,939
+
+6,575 ~ 6,939
+
+20Y
 
 6,940 ~ 7,305
 
-7,306 ~ 7,670
-
-7,671 ~ 8,035
-
-8,036 ~ 8,400
-
-i
+6,940 ~ 7,305
 
 25
 
+21Y
+
+7,306 ~ 7,670
+
+7,306 ~ 7,670
+
 26
 
+22Y
+
+7,671 ~ 8,035
+
+7,671 ~ 8,035
+
 27
+
+23Y
+
+8,036 ~ 8,400
+
+8,036 ~ 8,400
 
 84
 
 28
 
-29
-
-30
-
-31
-
-32
-
-33
-
-34
-
 24Y
-
-25Y
-
-26Y
-
-27Y
-
-28Y
-
-29Y
 
 8,401 ~ 8,766
 
+8,401 ~ 8,766
+
+29
+
+25Y
+
 8,767 ~ 9,131
+
+8,767 ~ 9,131
+
+30
+
+26Y
 
 9,132 ~ 9,496
 
+9,132 ~ 9,496
+
+31
+
+27Y
+
 9,497 ~ 9,861
+
+9,497 ~ 9,861
+
+32
+
+28Y
 
 9,862 ~ 10,227
 
+9,862 ~ 10,227
+
+33
+
+29Y
+
 10,228 ~10,592
+
+10,228 ~10,592
+
+34
 
 30Y
 
 10,593 ~ 10,980
-
-8,401 ~ 8,766
-
-8,767 ~ 9,131
-
-9,132 ~ 9,496
-
-9,497 ~ 9,861
-
-9,862 ~ 10,227
-
-10,228 ~10,592
 
 10,593 ~ 10,980
 
@@ -4758,12 +4758,12 @@ scenario, in order to calculate the balance amount of net present value.
 
 Where,
 
+,
+
 : Number of scenario, with
 : Date of calculation,
 : Balance of net present value calculated by deducting the net present value of the day of margin
 calculation from the net present value of the new scenario j,
-
-,
 
 : Net present value calculated based on the new yield curve scenario j, and
 : Net present value calculated based on the yield curve of the day of calculation
@@ -5010,6 +5010,8 @@ Name of Company
 
 Office address
 
+(Contact number : )
+
 (1)
 
 Representative name
@@ -5022,9 +5024,11 @@ Name of branch
 
 Office address
 
-(2)
+(Contact number : )
 
 Relationship with Company
+
+(2)
 
 Representative name of branch
 
@@ -5036,21 +5040,17 @@ Name of branch
 
 Office address
 
-(3)
+(Contact number : )
 
 Relationship with Company
+
+(3)
 
 Representative name of branch
 
 Initial date of clearing participation
 
 BIC code
-
-(Contact number : )
-
-(Contact number : )
-
-(Contact number : )
 
 2. The company hereby acknowledges the following to the KRX.
 
@@ -5282,9 +5282,9 @@ Entry
 Confirmation
 ※
 
-Confirmation of Account Opening/Closure
-
 ※
+
+Confirmation of Account Opening/Closure
 
 Application for Opening of Clearing Account
 
@@ -5300,19 +5300,19 @@ Representative Director ______________ (seal)
 
 Trade Name
 
-Business Registration No.
-Address
+Nationality
 
 (in Korean)
 (in English)
 
+Representative Director
+
+Business Registration No.
+Address
+
 (Tel:          )
 
 2. Type and Other Information of Account
-
-Nationality
-
-Representative Director
 
 □ Proprietary Clearing Account □Multiple (number:       )
 
@@ -5320,13 +5320,13 @@ Account Types
 
 □ Client Clearing Account   □Multiple (number:       )
 
-Account No.
-
 □ Client Clearing Account (Head office, etc.)□Multiple (number:       )
 1. □□□-□□-□□□□□□□
 2. □□□-□□-□□□□□□□
 3. □□□-□□-□□□□□□□
 * First three-digit number: Clearing member ID
+
+Account No.
 
 * Middle two-digit number: Classification of proprietary or client clearing account
 
@@ -5337,18 +5337,18 @@ Account No.
 
 Trade Name
 
-Business Registration No.
-Address
-Relation with the Client*
+Nationality
 
 (in Korean)
 (in English)
 
-Nationality
-
 Representative Director
 
 (Tel:          )
+
+Business Registration No.
+Address
+Relation with the Client*
 
 *Please  fill  out  the  above  table  to  check  whether  the  clearing  entrustment  is  subject  to  [§104(1)]  of  the
 
@@ -5356,14 +5356,14 @@ Enforcement Rules.
 
 4. Basic Information of Head Office, etc. of the Applicant
 
+Relation with the Applicant
+
+(Tel:          )
+
 Trade Name
 Address
 Representative Director
 BIC Code
-
-Relation with the Applicant
-
-(Tel:          )
 
 100
 
@@ -5421,10 +5421,10 @@ Confirmation
 
 ※
 
+※
+
 Confirmation of Account Opening/
 Closure
-
-※
 
 Request for Payment of Net Cash Settlement Amount
 
@@ -5442,14 +5442,14 @@ Proprietary/Client
 Proprietary Assets
 (of Clearing Member)
 
+Client Asset
+
 (            )
 (            )
 (            )
 Sub-total
 
 Total
-
-Client Asset
 
 Notes:
 
@@ -5479,10 +5479,10 @@ Confirmation
 
 ※
 
+※
+
 Confirmation of Account Opening/
 Closure
-
-※
 
 Cash Member Margin Deposit Report (Withdrawal Request)
 
@@ -5545,10 +5545,10 @@ Confirmation
 
 ※
 
+※
+
 Confirmation of Account Opening/
 Closure
-
-※
 
 Substitute Securities Member Margin Deposit Report (Withdrawal Request)
 
@@ -5579,39 +5579,39 @@ Client Asset
 (      )
 (Sub-total)
 
-Stocks listed on KOSPI Market
-(Sub-total)
-
-Bonds listed on KOSPI Market
-(Sub-total)
-
-Stocks listed on KOSDAQ Market
-(Sub-total)
-
-Others
-(Sub-total)
-
-Total
-
 Proprietary Asset
 (of Clearing Member)
+
+Stocks listed on KOSPI Market
+(Sub-total)
 
 Client Asset (             )
 
 Proprietary Asset
 (of Clearing Member)
 
-Client Asset (            )
-
-Proprietary Asset
-(of Clearing Member)
+Bonds listed on KOSPI Market
+(Sub-total)
 
 Client Asset (            )
 
 Proprietary Asset
 (of Clearing Member)
 
+Stocks listed on KOSDAQ Market
+(Sub-total)
+
 Client Asset (            )
+
+Proprietary Asset
+(of Clearing Member)
+
+Others
+(Sub-total)
+
+Client Asset (            )
+
+Total
 
 Notes:
 1. Please do not fill out ※. (“-” means “not applicable.”)
@@ -5653,10 +5653,10 @@ Confirmation
 
 ※
 
+※
+
 Confirmation of Account Opening/
 Closure
-
-※
 
 Foreign Securities Member Margin Deposit Report (Withdrawal Request)
 
@@ -5668,17 +5668,17 @@ Representative Director of __________:      (seal)
 
 Amount of Deposit (Withdrawal)
 
+Classification
+
+Account No.
+
 Code of Issue
 
 Name of Issue
 
 Quantity of Securities
 
-Account No.
-
 -
-
-Classification
 
 Proprietary Asset of
 Clearing Member

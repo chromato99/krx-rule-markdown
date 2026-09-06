@@ -4,8 +4,8 @@ id: "210227471-en"
 title: "KOSPI Market Disclosure Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:47:45.734407Z"
-content_hash: "629c403f9ee84ed00dcb264d7e5c570253a8405c664514044b8e6d6825d31fa9"
-body_hash: "b7a8fb077a72bcf74ecbd003b2281a8e6b4259e88768fb2c92d467ca984ac18d"
+content_hash: "abbe1cebf66c713ebb3d3ffdde123c99f9661d2a01817d5baa416f6d03260e7f"
+body_hash: "069261663458abab8cfa1ee443d7da7f14569a39ea048adf173bbd042b9106c5"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/kospi-market-disclosure-regulation/raw/english-full-text.pdf
 text_path: "en/rules/kospi-market-disclosure-regulation/attachments/english-full-text.md"
 file_content_hash: "7d92bf52a9744e27d53c7ce3ff904768dc00260900d14068cbffaa942fd3d40b"
 raw_file_hash: "7d92bf52a9744e27d53c7ce3ff904768dc00260900d14068cbffaa942fd3d40b"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -1954,17 +1954,17 @@ obligations  (hereinafter  referred  to  as  “the  fine”)  within  the  amou
 addition  to  the  demerit  points.  (Amended  on  April  18,  2012;  July  22,  2015;  December  28,
 2016)
 
+imposition  guidelines,
+
+imposition  amounts,  whether
+
+to
+
 (2)  With  respect  to  the  imposition  of  the  fine  under  paragraph  (1),  the  Exchange  shall
 separately  establish
 impose
 concurrently the demerit points and the fine or to choose either the demerit point or the fine,
 and other necessary matters.
-
-imposition  amounts,  whether
-
-imposition  guidelines,
-
-to
 
 (3) In cases where a KOSPI-stock-listed corporation fails to pay the fine under paragraph (1)
 by  the  payment  deadline,  the  Exchange  may  take  necessary  actions  such  as  imposition  of
@@ -2688,13 +2688,13 @@ in digital form utilized for digital signature.
 The reports, etc. that are filed by an electronic document under this Part shall be each of the
 followings: (Amended on December 23, 2005; December 18, 2009; December 1, 2010)
 
+the  Derivatives  Market  Business  Regulation,
+
 1.  The  reports,  etc.  that  are  submitted  to  the  Exchange  pursuant  to  the  Disclosure
 Regulations  and  Listing  Regulations  of  the  Exchange,  the  KOSPI  Market  Business
 Regulation,
 the  Market  Oversight
 Regulation and the Membership Regulation of the Exchange.
-
-the  Derivatives  Market  Business  Regulation,
 
 2. [Deleted on January 28, 2009]
 3. [Deleted on December 23, 2005]
@@ -2706,15 +2706,15 @@ the  Derivatives  Market  Business  Regulation,
 the reports, etc. submitted in a form of electronic document pursuant to [§63]. (Amended on
 January 28, 2009)
 
+the  public  use
+
+through
+
 (2)  The  Exchange  shall  make  available  the  reports,  etc.  that  are  received  in  a  form  of
 electronic  document  (including  the  reports,  etc.  received  electronically  from  the  Financial
 Supervisory  Service  pursuant  [§76])  for
 information  and
 communication networks. (Amended on January 28, 2009)
-
-the  public  use
-
-through
 
 52
 
@@ -3622,10 +3622,10 @@ Regulations, and single-stock ETN securities under [§149-3(2)2(c) of the same R
 
 72
 
+ANNEXES
+
 [Annex  1]  Core  Principles  of  Corporate  Governance
 [December 12, 2018]
-
-ANNEXES
 
 Core Principles of Corporate Governance
 
@@ -3633,20 +3633,14 @@ Classification
 
 Core Principles
 
-Shareholders
-
-Board of
-Directors
-(“the Board”)
-
-Audit Systems
-
 Shareholders’
 Rights
 
  Shareholders shall be able to receive sufficient and timely
 information, which is necessary to exercise their rights, and to
 exercise their rights through appropriate procedures.
+
+Shareholders
 
 Equitable
 Treatment of
@@ -3681,6 +3675,10 @@ Directors
 in important corporate management decision-making, and to
 supervise and support the management as board members.
 
+Board of
+Directors
+(“the Board”)
+
 Evaluation of
 Outside
 Directors’
@@ -3713,6 +3711,8 @@ auditors, shall perform their auditing duties faithfully by
 maintaining independence from the management and
 controlling shareholders, and the details of key activities of
 internal auditing bodies shall be disclosed.
+
+Audit Systems
 
 External
 Auditors

@@ -4,8 +4,8 @@ id: "204847401-en"
 title: "석유제품현물전자상거래용수입석유제품의할당관세세부추천요령"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T08:04:58.153070Z"
-content_hash: "af8bb37f942189c0ca350867a8190de75d7f5e204d9ceabc9e9fe564e620361b"
-body_hash: "a3e405406df6d611705ce481ffb6500d26c8b00f1c593b8cf6d0f799bdfd1982"
+content_hash: "a379da0f26117a24c8226c65cdba98dab6f57b2407408e66c26597ada88bf889"
+body_hash: "3259948c43f2ff11c4c6cfbc4ebe5fca719d69bb49b184acccd3a71d92015902"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/석유제품현물전자상거래용수입석유제품의할
 text_path: "en/rules/석유제품현물전자상거래용수입석유제품의할당관세세부추천요령/attachments/english-full-text.md"
 file_content_hash: "8af75cdb5587a08ebdf5d42313d1f34cb52921fd3c5b970df1bd4dd7b065f63e"
 raw_file_hash: "8af75cdb5587a08ebdf5d42313d1f34cb52921fd3c5b970df1bd4dd7b065f63e"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -404,9 +404,9 @@ of Ministry of Knowledge Economy shall take precedence over this Guideline.
 
 [Annex. Form 1]        (Amended on January 10, 2013)
 
-Receipt No.
-
 Processing
+
+Receipt No.
 
 deadline
 
@@ -416,95 +416,95 @@ Request for Recommendation on Quota Tariff Application
 
 Trade name
 
+Trade name
+
 Address
+
+Address
+
+Name of
 
 Name of
 
 representativ
 
+representative
+
 e
+
+①
+Applican
+
+②
+Importe
+
+t
+
+r
+
+Business
 
 Business
 
 registration
 
-No.
-
-①
-Applican
-
-t
-
-Trade name
-
-Address
-
-Name of
-
-representative
-
-Business
-
 registration No.
 
-②
-Importe
+No.
 
-r
+Tel. No.
 
 Tel. No.    (HP:              )
 
-Fax No.
-
 (HP:              )
 
-Tel. No.
+Fax No.
 
 Fax No.
 
 ③    Details of request
 
-H.S. Code
+Country of
+
+Expecte
+d date of
 
 Product
 
 Quantit
 
-name
+Expected
+date of
 
-y & unit
-
-Country of
+H.S. Code
 
 Amoun
 
 origin
 
+shipping
+
+name
+
+y & unit
+
+import
+
+Usage
+
 t
 
 (supplier)
 
-Expected
-date of
-
-import
+out from
 
 declaratio
 
-n
-
-Expecte
-d date of
-
-shipping
-
-out from
-
 bonded
 
-zone
+n
 
-Usage
+zone
 
 9
 
@@ -524,7 +524,13 @@ Date
 
 Applicant          (seal/signature)
 
+Service
+
 Attachment:
+
+fee
+
+N/A
 
 ①  1 copy of bill of lading
 ②  1 copy of import agent agreement or supply agreement (limited to the
@@ -532,12 +538,6 @@ case where the applicant has entered the concerned agreements)
 ③  1 copy of certificate of import declaration
 ④  1 copy of import schedule and plan for distribution through e-trading
 ⑤  In addition, the document necessary for the recommendation
-
-Service
-
-fee
-
-N/A
 
 10
 
@@ -567,24 +567,29 @@ No.
 
 Tel. No.
 
+(HP :                      )
+
+(HP :                      )
+
 Fax No.
-
-(HP :                      )
-
-(HP :                      )
 
 ◦ Details of recommendation
 
+Expected
+
+Expected
+
+date of
+
 H.S.
-
-Code
-
-Name of
-product
 
 Quantity
 
 Country of
+
+Usage
+
+Code
 
 & unit
 
@@ -592,23 +597,18 @@ Amount
 
 origin
 
+Name of
+product
+
 date of
 import
+
+shipping
+out from
 
 (supplier)
 
 declaration
-
-Expected
-
-Expected
-
-date of
-
-Usage
-
-shipping
-out from
 
 bonded
 
@@ -748,9 +748,9 @@ Chairman, Korea Exchange          (seal/signature)
 
 [Annex.    Form 4]      (Amended on January 10, 2013)
 
-Receipt No.
-
 Processing
+
+Receipt No.
 
 deadline
 
@@ -777,25 +777,25 @@ name
 
 ④    Details of request
 
-⑤  H S code
-
-⑥  Product
-name
-
 ⑦
 Recommendation
 
 ⑧  Expiry
 date of
 
+⑥  Product
+name
+
+⑨  Expiry date of
+extended validity
+
+⑤  H S code
+
 No.
 
 original
 
 validity
-
-⑨  Expiry date of
-extended validity
 
 16
 
@@ -813,13 +813,13 @@ Date
 
 Applicant        (seal/signature)
 
-Attachment:
-
-- 1 copy of the recommendation on quota tariff application
-
 Service
 
+Attachment:
+
 fee
+
+- 1 copy of the recommendation on quota tariff application
 
 N/A
 
@@ -837,10 +837,10 @@ Immediately
 
 Request for split-up of quota tariff recommendation
 
+Name
+
 ①
 (representative)
-
-Name
 
 (seal/signature)
 
@@ -855,10 +855,10 @@ name
 
 ④    Details of request
 
-⑤  H S code
+⑨  Details of split-
+up of
 
-⑥  Product
-name
+recommended
 
 ⑦
 Recommendation
@@ -866,16 +866,16 @@ Recommendation
 ⑧  Quantity
 originally
 
+⑤  H S code
+
+⑥  Product
+name
+
+quantity
+
 No.
 
 recommended
-
-⑨  Details of split-
-up of
-
-recommended
-
-quantity
 
 1 2  3
 
@@ -895,13 +895,13 @@ Date
 
 Applicant   (seal/signature)
 
-Attachment:
-
--  1 copy of the recommendation on quota tariff application
-
 Service
 
+Attachment:
+
 fee
+
+-  1 copy of the recommendation on quota tariff application
 
 N/A
 
@@ -921,23 +921,15 @@ Recommendation on Split-up of Quota Tariff
 
 ⑤    Details of recommendation
 
-H S
-
-Product
-
-Code
-
-name
-
-Transport
-
-vessel or
-
-tanker
-
 Quantity
 
 Split-up of recommended
+
+Transport
+
+H S
+
+Product
 
 Import
 
@@ -945,9 +937,17 @@ originally
 
 quantity
 
+vessel or
+
+Code
+
+name
+
 date
 
 recommended
+
+tanker
 
 1
 
@@ -987,25 +987,25 @@ Title:    Record of quota tariff recommended in the X quarter of 20xx
 
 1.  Record of quota tariff recommended in the X quarter of 20XX
 
-Product name (H
-
-S code:    )
-
-Quantity
-
-(unit:    )
-
-Amount
-
-(unit:    )
-
 Record of
 
 Record of custom
 
+Note
+
+Product name (H
+
 recommendation
 
 clearance (B)
+
+S code:    )
+
+Quantity
+limit (A)
+
+(A –
+B)
 
 In the X
 
@@ -1015,21 +1015,21 @@ In  the  X
 
 Accumulative
 
+quarter
+
+total
+
+quarter
+
+total
+
 Quantity
-limit (A)
 
-Note
+(unit:    )
 
-(A –
-B)
+Amount
 
-quarter
-
-total
-
-quarter
-
-total
+(unit:    )
 
 22
 
@@ -1063,10 +1063,10 @@ recommendation up to the quantity limit
 
 Import Schedule & Plan for Distribution Through E-Trading
 
+Name
+
 ①
 (representative)
-
-Name
 
 (seal/signature)
 
@@ -1084,28 +1084,28 @@ name
 ※  For  a  period  of  one  month  from  the  request  date  for  quota  tariff
 recommendation
 
-④  Product name
-(H. S. code:      )
+KRX operated e-trading
 
 ⑤
 Scheduled
 
+④  Product name
+(H. S. code:      )
+
 Import date
-
-(month &
-
-year)
 
 ⑥  Quantity
 (unit:    )
 
-KRX operated e-trading
+(month &
+
+⑧  Estimated
+distribution
 
 ⑦  Expected date
 of distribution
 
-⑧  Estimated
-distribution
+year)
 
 quantity
 

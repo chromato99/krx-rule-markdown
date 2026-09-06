@@ -160,20 +160,20 @@ to the Exchange. (Amended on January 14, 2009; April 15, 2009; May 15, 2015)
 
 shall  make
 
+its
+
+official
+
+announcement
+
+through
+
 The  Exchange
 its  website
 (http://www.krx.co.kr). However, in case where the official announcement on the Exchange
 website  is  not  possible  due  to  system  failure  or  other  inevitable  situation,  the  official
 information  shall  be  posted  on  the  Pusan  Ilbo  published  in  Busan  Metropolitan  City  and
 Seoul Shinmun published in Seoul Metropolitan City, respectively.
-
-announcement
-
-through
-
-official
-
-its
 
 (Wholly amended on May 15, 2015)
 
@@ -2014,13 +2014,13 @@ ADDENDA
 
 §2. Interim Measures Related to the Operation of KOSDAQ Market Committee
 
+In this case, the authorities and
+
 Until the KOSDAQ Market Committee pursuant to [§52-2(1)] of this Articles of
 Incorporation is established, the KOSDAQ Market Committee pursuant to the former version
 of Articles of Incorporation shall continue to exist.
 operational matters of the Committee shall be subject to the provisions of former version of
 this Articles of Incorporation.
-
-In this case, the authorities and
 
 ADDENDUM
 (March 5, 2014)

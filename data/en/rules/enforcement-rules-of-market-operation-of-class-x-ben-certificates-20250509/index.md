@@ -4,8 +4,8 @@ id: "210137438-en"
 title: "Enforcement Rules of Market Operation of Class X Ben. Certificates 20250509"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T08:00:20.848399Z"
-content_hash: "325db69df287037f4b3e668dc08b16b38d7b73ecdd5b1f6997100e004425454b"
-body_hash: "0290f1cc5ee9fbdd7808682987448bc7e1cdce863ce5e738d41cf16a46f93729"
+content_hash: "fd6808a26b996330d14c6fb3dd0cb1f29d9faa88b7d885e8800ef004ee525bdd"
+body_hash: "b698f203de46ac04451fcf8d9f417ffd6488e82ebd52da2ac935be493e936113"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-market-operation-of-class-x-ben-certifi
 text_path: "en/rules/enforcement-rules-of-market-operation-of-class-x-ben-certificates-20250509/attachments/english-full-text.md"
 file_content_hash: "47a9e4cdc0d2ccbc41f3089e5658d00209cebf9ff51e0647dd410087912ea9cf"
 raw_file_hash: "47a9e4cdc0d2ccbc41f3089e5658d00209cebf9ff51e0647dd410087912ea9cf"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -186,18 +186,18 @@ the price does not match the tick size, it shall be the closest price to the pri
 
 that  are  higher
 
+than
+
+the  price  and  match
+
+the
+
+tick  size.  If
+
 prices
 there
 is  no  previous  day's  closing  price,  it  shall  be  the  previous  day's  reference  price;  the
 same hereinafter);
-
-the  price  and  match
-
-tick  size.  If
-
-than
-
-the
 
 2.  Issues  newly  listed:  The  reference  price  calculated  based  on  10,000  units,  using  the
 reference price per unit derived pursuant to Article 238, Paragraph 6 of the Act. In this
@@ -211,6 +211,8 @@ Issues  using
 
 the  opening  price
 
+reference  price:  The  price
+
 initially
 the
 determined  in  accordance  with  [§37(1)]  of  the  KOSPI  Market  Business  Regulations
@@ -218,18 +220,11 @@ determined  in  accordance  with  [§37(1)]  of  the  KOSPI  Market  Business  R
 trading price is not determined by the end of the trading day, the price specified in each
 of the following subparagraphs shall be the reference price for the next trading day:
 
-reference  price:  The  price
-
 (a)  Where
-
-are
 
 there
 
-appraisal  price
-determined in Appendix 1 of the Enforcement Rules of the Business Regulations (if
-there  is  no  such  price,  the  lowest  ask  price  is  used;  hereinafter  referred  to  as  the
-“appraisal price” in this Article): The price of the lowest ask quotation;
+are
 
 ask  quotations
 
@@ -238,6 +233,11 @@ lower
 than
 
 the
+
+appraisal  price
+determined in Appendix 1 of the Enforcement Rules of the Business Regulations (if
+there  is  no  such  price,  the  lowest  ask  price  is  used;  hereinafter  referred  to  as  the
+“appraisal price” in this Article): The price of the lowest ask quotation;
 
 (b)  Where  there  are  bid  quotations  higher  than  the  appraisal  price:  The  price  of  the
 
@@ -253,6 +253,25 @@ determined, the amount calculated by taking into account the price announced by 
 among  the  reference  prices  calculated  pursuant  to  Article  238,  Paragraph  6  of  the
 Act).
 
+1
+
+is
+
+disregarded)
+
+not  match
+
+tick
+
+size,
+
+price
+
+above
+
+the
+that
+
 (2)  Where  the  price  noted  in  subparagraphs  2  and  4  of  paragraph  (1)  (the  value  less
 the
 does
@@ -261,30 +280,40 @@ nearest
 price
 that matches the tick size shall be used.
 
-not  match
-
-disregarded)
-
-the
-that
-
-above
-
-price
-
-size,
-
-tick
-
-is
-
-1
+limit
 
 to
 
 the
 
+tick
+
+size,
+
+the
+
+shall  be
+
+below
+set
+
+as
+
 limit
+
+price
+size
+tick
+reference
+
+price
+
+the
+that
+the  upper  price
+is
+
+the
 
 (3) Pursuant to the proviso to [§16(1)] of the Regulations, if the price calculated by adding the
 price
@@ -298,35 +327,6 @@ if
 minimum
 the
 tick size, that price shall be set as the lower price limit.
-
-the
-that
-the  upper  price
-is
-
-price
-size
-tick
-reference
-
-below
-set
-
-shall  be
-
-price
-
-limit
-
-size,
-
-tick
-
-the
-
-the
-
-as
 
 (4) ) “Cases prescribed by the Enforcement Rules” in [§16(3)] of the Regulation shall refer to
 any of the following subparagraphs:
@@ -842,6 +842,59 @@ Revocation
 
 Grounds
 
+Grounds
+
+Timing
+On the first trading
+day of next
+semiannual period.
+
+Timing
+On the first trading
+day of next
+semiannual period.
+
+On the day
+immediately
+following the date
+when the concerned
+fact was confirmed.
+
+When it was
+confirmed that the
+grounds for the
+designation were
+resolved.
+When it was
+confirmed that the
+grounds for the
+designation were
+resolved.
+
+On the day
+immediately
+following the date
+when the concerned
+fact was confirmed.
+
+When it was
+confirmed that the
+grounds for the
+designation were
+resolved.
+
+On the day
+immediately
+following the date
+when the concerned
+fact was confirmed.
+
+When it was
+confirmed that the
+grounds for the
+designation were
+resolved.
+
 (i) Principal amount of
 trust and total net assets
 not up to standards
@@ -866,30 +919,6 @@ public interest and investor
 protection
 ([§8(1)2] of the
 
-Timing
-On the first trading
-day of next
-semiannual period.
-
-On the day
-immediately
-following the date
-when the concerned
-fact was confirmed.
-
-Grounds
-
-When it was
-confirmed that the
-grounds for the
-designation were
-resolved.
-When it was
-confirmed that the
-grounds for the
-designation were
-resolved.
-
 On the day
 immediately
 following the date
@@ -901,35 +930,6 @@ confirmed that the
 grounds for the
 designation were
 resolved.
-
-On the day
-immediately
-following the date
-when the concerned
-fact was confirmed.
-
-When it was
-confirmed that the
-grounds for the
-designation were
-resolved.
-
-On the day
-immediately
-following the date
-when the concerned
-fact was confirmed.
-
-When it was
-confirmed that the
-grounds for the
-designation were
-resolved.
-
-Timing
-On the first trading
-day of next
-semiannual period.
 
 On the day
 immediately
@@ -963,14 +963,14 @@ Listing Fees and Annual Dues
 
 1.  Listing Fees
 
+Listing review
+
 Fees
 KRW 50 billion
 1/3 of the amount calculated by multiplying the trust principal amount to be listed by the
 following rates (however, the maximum is KRW 250 million)
 
-Listing review
-
-Initial listing
+Fee rates
 
 Trust principal amount
 to be listed
@@ -982,6 +982,8 @@ to be listed
 
 >100 and ≤200
 
+Initial listing
+
 >200 and ≤500
 
 >500 and ≤2,000
@@ -991,29 +993,6 @@ to be listed
 >5,000 and ≤10,000
 
 >10,000
-
-Trust principal amount
-to be listed
-(in KRW billion)
-
-Supplementary
-listing
-
-≤3
-
->3 and  ≤20
-
->20 and  ≤50
-
->50 and  ≤100
-
->100 and  ≤200
-
->200 and  ≤500
-
->500
-
-Fee rates
 
 KRW 1 million
 KRW 5 million + KRW 75,000 per KRW 1 billion for the
@@ -1031,7 +1010,31 @@ for the amount in excess of KRW 5 trillion
 KRW 230.75 million + KRW 5,000 per KRW 1 billion for
 the amount in excess of KRW 10 trillion
 
+1/3 of the amount calculated by multiplying the trust principal amount to be listed by the
+following rates (however, the maximum is KRW 80 million)
+
 Fee rates
+
+Trust principal amount
+to be listed
+(in KRW billion)
+
+≤3
+
+>3 and  ≤20
+
+Supplementary
+listing
+
+>20 and  ≤50
+
+>50 and  ≤100
+
+>100 and  ≤200
+
+>200 and  ≤500
+
+>500
 
 KRW 500,000 per KRW 1 billion    (However, fixed rate
 of  KRW  250,000  for  the  amount  to  be  listed  of  KRW  100
@@ -1050,9 +1053,6 @@ billion
 for the amount to be listed in excess of KRW 20
 KRW 53.97 million + KRW 30,000 per KRW 1 billion
 for the amount to be listed in excess of KRW 500 billion
-
-1/3 of the amount calculated by multiplying the trust principal amount to be listed by the
-following rates (however, the maximum is KRW 80 million)
 
 Listing change  KRW 300,000 per case
 
@@ -1077,6 +1077,8 @@ concerned up to the day when the decision on de-listing was made, based on the n
 of the period from the first day of the year to which the de-listing date belongs to the day before
 the de-listing date (provided that the maximum amount shall be KRW 50 million).
 
+Fee Rates
+
 Average trust principal
 (in KRW billion)
 ≤20
@@ -1094,8 +1096,6 @@ Average trust principal
 >2,000 and  ≤5,000
 
 >5,000
-
-Fee Rates
 
 KRW 1.2 million
 KRW  1.2  million  +  KRW  8,000  per  KRW  1  billion  of  average
@@ -1147,13 +1147,13 @@ Note. listing fees can be paid by the next day of the day when the amount of tru
 
 Regular payments
 
-Irregular payments
-
 Payment time
 Annual dues of the latest year for the securities
 listed as of the end of the latest year shall be paid
 by the end of January of each year.
 Annual dues shall be paid before being delisted.
+
+Irregular payments
 
 4. Exemption of Listing Fees and Annual Dues
 
@@ -1311,6 +1311,10 @@ _______ (name of corporation) hereby makes an application for supplementary list
 change as follows pursuant to Article 7 of the Regulations on the Market Operation of Class X
 Beneficiary Certificates of a Multiple Class Fund.
 
+(KR7                )
+
+Units
+
 Issue name (issue code)
 Number of beneficiary
 certificates applied for
@@ -1323,19 +1327,6 @@ Date of establishment or
 redemption of beneficial
 certificates to be listed
 
-Details of changes
-
-(KR7                )
-
-Units
-
-Number of
-certificates
-before
-supplementary
-listing or
-listing change
-
 Number of
 certificates to
 be increased
@@ -1343,6 +1334,15 @@ be increased
 Number of
 certificates to
 be decreased
+
+Details of changes
+
+Number of
+certificates
+before
+supplementary
+listing or
+listing change
 
 Number of
 certificates
@@ -1374,26 +1374,26 @@ Establishment □          Change □        Closure □
 
 (12 digits)
 
+Reason of report
+No. of liquidity provision account
+Type of products
+
 Issue code
 (ISIN, 12 digits)
 
 Korean issue name
 abbreviation
 
-(12 digits)
+for
 
-mm/dd/yyyy
-
-Reason of report
-No. of liquidity provision account
-Type of products
+liquidity
 
 Target  products
 provision
 
-for
+(12 digits)
 
-liquidity
+mm/dd/yyyy
 
 No. of hedge transaction account
 Date of application (based on

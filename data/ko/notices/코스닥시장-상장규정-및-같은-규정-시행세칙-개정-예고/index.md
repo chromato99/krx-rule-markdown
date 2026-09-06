@@ -32,8 +32,8 @@ attachments:
     text_path: "ko/notices/코스닥시장-상장규정-및-같은-규정-시행세칙-개정-예고/attachments/붙임1-코스닥시장-상장규정-일부개정규정안-pdf.md"
     content_hash: "24327a4d85e98bf45e7ab438b298353b286f3216ef9689c6c7c1c04ecbbceb2a"
     raw_file_hash: "24327a4d85e98bf45e7ab438b298353b286f3216ef9689c6c7c1c04ecbbceb2a"
-    converted_text_hash: "d8f96034b4a67677786561b134dd31f3c9de5e45cc01f29c07d376bfcd5c0b90"
-    converter_version: "2"
+    converted_text_hash: "4ddf1a8402430413b1e052de8db6e13cd70e01014b658c4de8d98fe361e6aec5"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 222776
@@ -42,7 +42,7 @@ attachments:
     quality_flags: "pdf_comparison_structure_lost"
     quality_codes: ["pdf_comparison_structure_lost"]
     diagnostics: [{"code":"pdf_comparison_structure_lost","message":"amendment comparison columns were extracted without a structured table","severity":"warn"}]
-    converted_text_chars: 4992
+    converted_text_chars: 4991
     converted_non_space_chars: 3572
   - id: "210231033-210231036-pdf"
     title: "(붙임2) 코스닥시장 상장규정 시행세칙 일부개정세칙안.pdf"
@@ -57,8 +57,8 @@ attachments:
     text_path: "ko/notices/코스닥시장-상장규정-및-같은-규정-시행세칙-개정-예고/attachments/붙임2-코스닥시장-상장규정-시행세칙-일부개정세칙안-pdf.md"
     content_hash: "4bfb83fead093a92c73b744a4ac38452c57cf7e776d9f545a9fb628e404b36a6"
     raw_file_hash: "4bfb83fead093a92c73b744a4ac38452c57cf7e776d9f545a9fb628e404b36a6"
-    converted_text_hash: "9c088fdf4a5e2dc5585ca16e008d578d529c28d6545ed03d403fa57915ce851f"
-    converter_version: "2"
+    converted_text_hash: "6a7c56d6c91ccd6b3e900eb4e0d82f8ae8846075715abcd7c3794f2d9f0481af"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 448842
@@ -67,7 +67,7 @@ attachments:
     quality_flags: "pdf_comparison_structure_lost"
     quality_codes: ["pdf_comparison_structure_lost"]
     diagnostics: [{"code":"pdf_comparison_structure_lost","message":"amendment comparison columns were extracted without a structured table","severity":"warn"}]
-    converted_text_chars: 11634
+    converted_text_chars: 11633
     converted_non_space_chars: 8329
     table_row_count: 4
   - id: "210231033-210231034-pdf"
@@ -83,14 +83,14 @@ attachments:
     text_path: "ko/notices/코스닥시장-상장규정-및-같은-규정-시행세칙-개정-예고/attachments/코스닥시장-상장규정-및-시행세칙-개정에-관한-예고-pdf.md"
     content_hash: "6ed782aa1eb326169cf85f450d2fccede92feeb74bb8b211a6fcb7078b02874b"
     raw_file_hash: "6ed782aa1eb326169cf85f450d2fccede92feeb74bb8b211a6fcb7078b02874b"
-    converted_text_hash: "0d62075cc69d7b4b51efdde22ff6d8ed2b01a82ef8ca1e0283e8868e8ca8cbdb"
-    converter_version: "2"
+    converted_text_hash: "95f9200b3fd60bcb1fb23e11a2d249e577ba1b425dbe4bf5e6c8e57bfa3dd5ee"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 245210
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2002
+    converted_text_chars: 2001
     converted_non_space_chars: 1482
 ---
 

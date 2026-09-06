@@ -350,9 +350,9 @@ members as of the accrual date of the proceeds. [March 28, 2014]
 
 [October 23, 2009]
 
-§10. Use of JCF
-
 CHAPTER 3. USE OF JCF
+
+§10. Use of JCF
 
 (1)  In  the  event  that  a  settlement  default  of  a  member  has  occurred,  the  head  of  CCP  risk
 management department may use the JCF to compensate the losses incurred by the settlement
@@ -513,23 +513,23 @@ Securities market JCF
 
 Derivatives market JCF
 
+KRW
+
+KRW
+
 In cash
+
+KRW
+
+KRW
 
 In substitute securities
 
+KRW
+
+KRW
+
 Total
-
-KRW
-
-KRW
-
-KRW
-
-KRW
-
-KRW
-
-KRW
 
 ■  Details of substitute securities, if applicable
 
@@ -539,13 +539,13 @@ Quantity
 
 Amount
 
+KRW
+
 Securities market
 
+KRW
+
 Derivatives market
-
-KRW
-
-KRW
 
 This is to certify that the amount of the Joint Compensation Funds contributed by the above
 mentioned member as of (mm/dd/yyyy) is the same as stated above.
@@ -565,17 +565,17 @@ To                                                  (Name of member)
 
 OTC derivatives market JCF
 
+KRW
+
 In cash
+
+KRW
 
 In substitute securities
 
+KRW
+
 Total
-
-KRW
-
-KRW
-
-KRW
 
 ■  Details of substitute securities, if applicable
 

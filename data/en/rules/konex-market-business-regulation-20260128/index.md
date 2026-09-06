@@ -19,7 +19,7 @@ raw_path: "en/rules/konex-market-business-regulation-20260128/raw/english-full-t
 text_path: "en/rules/konex-market-business-regulation-20260128/attachments/english-full-text.md"
 file_content_hash: "96c6a06954408a1c9ab565c1d7e73f7e914f45176e38d0ce556205f4231a7187"
 raw_file_hash: "96c6a06954408a1c9ab565c1d7e73f7e914f45176e38d0ce556205f4231a7187"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

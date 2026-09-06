@@ -70,6 +70,8 @@ corresponds to unfair trading practices, including the violation of [§147, §17
 §174,  §176,  §178,  §178-2  and  §180]  of  the  Act.  (Amended  on  November  24,  2006;
 January 28, 2009; July 8, 2015)
 
+trading  company;  hereinafter  referred
+
 (4)  The  term  “inspection”  in  this  Regulation  shall  mean  the  in-depth  examination  of
 business reports, financial status, account books and other documents and materials of
 the members (including trading participants; the same hereinafter) in order to ascertain
@@ -80,8 +82,6 @@ to  as  “the  business-related
 regulations”)  of  the  Korea  Exchange  (hereinafter  referred  to  as  “the  Exchange”)  or
 violates §178-2 of the Act (Amended on November 24, 2006; January 28, 2009; July 8,
 2015; February 5, 2025)
-
-trading  company;  hereinafter  referred
 
 1
 
@@ -621,14 +621,14 @@ requesting submission of information, etc. and site visit noted in paragraphs (1
 
 §15.  Preparation  of  Question-and-Answer  Form,  etc.
 
+the  market  surveillance  staff  may  collect
+
 (1)  In  an  event  where  in  the  course  of  investigation,  there  is  a  matter  in  which  the
 activities of or details  of business  handled by the member or its  officer and employee
 are in violation of the laws and regulations or improper (hereinafter referred to as “the
 matters  pointed  out”),
 the  written
 confirmations from the persons concerned. (Amended on November 24, 2006)
-
-the  market  surveillance  staff  may  collect
 
 (2) In case where a written confirmation of facts about the matters pointed out pursuant
 to  paragraph  (1)  is  needed,  the  market  surveillance  staff  may  personally  hear  the
@@ -735,14 +735,14 @@ sale violation examination” in this Article) from relevant customers, verify w
 customers concerned have sold securities they did not hold or securities that cannot be
 settled until the settlement date, and record and keep such details:
 
+the  business  standards  of  multilateral
+
 1.  Transactions  subject  to  the  follow-up  management  of  short  sale  quotations
 pursuant to [§18-2(1)] of the KOSPI Market Business Regulation, [§9-4(1)] of
 the  KOSDAQ  Market  Business  Regulation,  [§13(1)]  of  the  KONEX  Market
 trading
 Business  Regulation,  or
 companies; and (Amended on February 5, 2025)
-
-the  business  standards  of  multilateral
 
 2.  Transactions  to  sell  first  during  the  regular  trading  hours  and  to  repurchase
 afterward  on  the  same  day,  which  may  fall  under  the  short  sale  violation
@@ -1254,10 +1254,10 @@ disciplinary actions taken for the first time after the effective date of this E
 
 28
 
-§1. Effective Date
-
 ADDENDA
 (Regulation No. 364 / September 12, 2008)
+
+§1. Effective Date
 
 This Regulation shall become effective on September 16, 2008.
 

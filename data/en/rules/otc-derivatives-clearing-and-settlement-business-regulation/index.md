@@ -4,8 +4,8 @@ id: "210124485-en"
 title: "OTC Derivatives Clearing and Settlement Business Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:59:32.895692Z"
-content_hash: "31a8ec91c50ee342b0e8ec0dfb02ee9159b11b9058b1aceece9a3c8c1dcefc56"
-body_hash: "3390656383fa6786da0f97285635ac8a83976943dd39983de56e82d1f4d796f4"
+content_hash: "cb4e2e876c6c39fc6ee4e72cb02b2dba56b976927cdaee4228262051aa93f5a5"
+body_hash: "8615aef9fc9840f3de192ed15fabb074c5f7657381aa8925ea46737a2aa44478"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/otc-derivatives-clearing-and-settlement-business-regulation/
 text_path: "en/rules/otc-derivatives-clearing-and-settlement-business-regulation/attachments/english-full-text.md"
 file_content_hash: "321e15dc8de8f6c9d0d583e14417fd9a61acc8d85f654b2762a8e7c4c9568f9f"
 raw_file_hash: "321e15dc8de8f6c9d0d583e14417fd9a61acc8d85f654b2762a8e7c4c9568f9f"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -526,16 +526,16 @@ paragraph (1) shall be stipulated in the Enforcement Rules.
 §12.  Payment  of  Admission  Fees  and  Contribution  to  OTC  Derivatives  Joint
 Compensation Fund
 
+(“JCF”).
+
+on
+
 (1) The applicant that has obtained the admission approval as clearing member shall pay the
 admission fee to the Exchange and contribution to the OTC derivatives joint compensation
 fund
 September
 (Amended
 17, 2025)
-
-(“JCF”).
-
-on
 
 (2)  The  admission  fee  to  be  paid  pursuant  to  paragraph  (1)  shall  be  determined  by  a
 resolution of the Board.
@@ -545,9 +545,15 @@ the amount of basic contribution under subparagraph 1 of [§29].
 
 §13. Participation Dates, etc.
 
+entity
+
 that
 
-entity
+has
+
+been
+
+for
 
 clearing  membership  may
 approved
@@ -555,12 +561,6 @@ approved
 participate  in  the  clearing  process  from  the  day  (hereinafter  referred  to  as  the
 “participation  date”)  following  the  date  on  which  the  procedure  noted  in  each  of  the
 following subparagraphs is completed: (Amended on September 17, 2025)
-
-been
-
-has
-
-for
 
 1. Payment of admission fees and contribution to the OTC derivatives JCF pursuant to
 [§12];
@@ -2625,18 +2625,18 @@ member within fifteen (15) days of the settlement default of the clearing member
 
 3. Hedging transaction concerning the transactions noted in subparagraphs 1 and 2.
 
+in
+
+this  Article  referred
+
+to  as
+
 (2)  In  the  case  of  conducting  an  auction  to  close  out  the  transactions  subject  to  auction
 pursuant  to  paragraph  (1),  the  Exchange  shall  notify  the  matters  noted  in  each  of  the
 the  “auction
 following  subparagraphs  (hereinafter
 information”)  to  each  clearing  member  in  advance.  In  such  cases,  the  clearing  members
 shall notify the relevant clients. (Amended on November 30, 2016; September 17, 2025)
-
-this  Article  referred
-
-to  as
-
-in
 
 1. The date and time of the auction;
 

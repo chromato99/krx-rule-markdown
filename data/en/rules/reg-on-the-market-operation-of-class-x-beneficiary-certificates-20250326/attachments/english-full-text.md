@@ -178,51 +178,49 @@ requirements must be met:
 
 liquidity  provision  agreement  must  be  entered
 
-(b)  A
-one
-authorized participants pursuant to [§17(1)];
-
-liquidity
+into  with  at
 
 (1)
 
+liquidity
+
 providing
 
-into  with  at
+member
 
 least
 among
 
-(c)
+(b)  A
+one
+authorized participants pursuant to [§17(1)];
 
-fund
-X
+(c)
 
 the
 class
 
-If
-operates
-other
-market
-beneficiary  certificates  of  publicly  offered
-requirements shall be met:
-
-beneficiary
-
-class
-
-for
-
+fund
 X
 
 management
 beneficiary
 
+company
 certificates
+
 class
 
+X
+
+beneficiary
+
 on
+
+for
+
+certificates
+class
 
 funds,  all  of
 
@@ -234,19 +232,21 @@ the
 X
 following
 
-member
-
-company
-certificates
+If
+operates
+other
+market
+beneficiary  certificates  of  publicly  offered
+requirements shall be met:
 
 (i)  If some  of the liquidity  providing  members  for  any  of the  relevant  listed  issues
 liquidity  providing  member  replacement  criteria  under  [§20]
 
+the
+
 meet
 (hereinafter referred to as the “liquidity providing member replacement criteria”),
 at least three (3) months shall have elapsed since then; and
-
-the
 
 (ii)  If all of the liquidity providing members for any of the relevant listed issues meet
 the liquidity providing member replacement criteria, at least six (6) months shall
@@ -256,19 +256,19 @@ have elapsed since then.
 
 Included
 
-multiple
-class fund must be traded in any of the following markets. In this case, the details must be
-stated in the fund agreement:
-
-included
-
 Assets:
 
 Assets
 
-the
+included
 
 in
+
+the
+
+multiple
+class fund must be traded in any of the following markets. In this case, the details must be
+stated in the fund agreement:
 
 (a)  An  exchange  market,  a  foreign  exchange  market,  or  a  market  designated  and
 announced  by  the  Financial  Services  Commission  pursuant  to  Article  7-26  of  the
@@ -276,22 +276,22 @@ Financial Investment Business Regulations;
 
 (b) A market similar to item (a), which falls under any of the following:
 
+to  the  regulations  of  the
+
 (i)  A  precious  metals  market  operated  pursuant
 London Bullion Market Association (LBMA);
-
-to  the  regulations  of  the
 
 (ii)  An  over-the-counter  bond  market  and  a  similar  foreign  bond  market
 operated pursuant to Articles 179, 180, and 185 of the Enforcement Decree of the
 Act;
+
+to  Article  9,  Paragraph  2  of
 
 (iii) A market in which a foreign exchange brokerage firm calculates the base exchange
 rate and the arbitrated exchange rate pursuant to the Foreign Exchange Transactions
 Act  pursuant
 the  Foreign  Exchange
 Transactions Act; and
-
-to  Article  9,  Paragraph  2  of
 
 (iv) Any other market recognized by the Exchange, taking into account factors such as
 

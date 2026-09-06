@@ -3,7 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 import copy
 
-from ..contracts import CONVERTER_VERSION, MAX_SOURCE_BYTES, add_quality_code, canonical_text_hash, parse_quality_codes
+from ..contracts import MAX_SOURCE_BYTES, add_quality_code, canonical_text_hash, converter_version_for_source, parse_quality_codes
 from ..models import Attachment, ATTACHMENT_CONVERTED, ATTACHMENT_FAILED, hash_bytes, now_utc
 from ..quality import apply_quality, inspect_attachment_quality, mark_quality_failure
 from ..repository import atomic_write_text
@@ -50,7 +50,7 @@ def convert_attachment(
             raise ConversionError("conversion produced empty text")
         apply_quality(att, inspect_attachment_quality(text, raw_path, inspection_cache))
         att.status = ATTACHMENT_CONVERTED
-        att.converter_version = CONVERTER_VERSION
+        att.converter_version = converter_version_for_source(raw_path)
         att.converted_text_hash = canonical_text_hash(text)
         att.searchable = outcome.searchable and att.quality_status != "fail"
         att.diagnostics = [

@@ -398,10 +398,10 @@ Investment Bonds as follows:
 • Issue name:
 • Type of the socially responsible investment bond:
 
+□ Social Bond
+
 □ Green Bond
 □ Sustainability Bond        □ Sustainability-Linked Bond
-
-□ Social Bond
 
 • Governing principles of Socially Responsible Investment Bonds, etc.1):
 □ ICMA Green Bond Principles    □ CBI Climate Bond Standard

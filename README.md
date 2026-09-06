@@ -63,6 +63,8 @@ krx-rule-markdown validate --data-dir /tmp/krx-rule-smoke --quality
 
 이미 받은 raw 첨부를 새 변환 로직으로 다시 Markdown화하려면 `reconvert`를 사용합니다. HWP/HWPX 표·수식 변환 로직을 개선한 뒤 기존 corpus에 반영할 때 유용합니다.
 
+PDF는 좌표 읽기 순서를 사용해 가운데 정렬된 장 제목이 조문 제목 뒤로 이동하지 않게 합니다. PDF 변환 캐시는 `2+pdf-coordinate-order` 식별자를 사용하므로 일반 `reconvert`로 이전 PDF를 갱신할 수 있으며, HWP 변환 캐시는 유지합니다. 원본의 장→조문→본문 순서를 회귀 검사하고, 신·구조문대비표는 기존 좌표 grid 복원을 사용합니다. 재변환 환경에는 `[convert]`의 PDF와 HWP 의존성을 모두 설치해야 전체 release 품질 검사를 통과할 수 있습니다.
+
 ```bash
 krx-rule-markdown reconvert --data-dir data
 krx-rule-markdown reconvert --data-dir data --document-id 210217137

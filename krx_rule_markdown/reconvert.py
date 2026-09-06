@@ -10,6 +10,7 @@ from .contracts import (
     MAX_SOURCE_BYTES,
     add_quality_code,
     canonical_text_hash,
+    converter_version_for_source,
     sha256_file,
 )
 from .assets import preserve_hwp_attachment_assets
@@ -484,7 +485,7 @@ def existing_converted_names(doc) -> set[str]:
 
 
 def attachment_is_current(data_dir: Path, att: Attachment, raw_path: Path) -> bool:
-    if att.status != ATTACHMENT_CONVERTED or att.converter_version != CONVERTER_VERSION:
+    if att.status != ATTACHMENT_CONVERTED or att.converter_version != converter_version_for_source(raw_path):
         return False
     if (att.raw_file_hash or att.content_hash) != sha256_file(raw_path, max_bytes=MAX_SOURCE_BYTES):
         return False
@@ -501,7 +502,7 @@ def attachment_is_current(data_dir: Path, att: Attachment, raw_path: Path) -> bo
 
 
 def document_file_is_current(data_dir: Path, doc, raw_path: Path) -> bool:
-    if doc.converter_version != CONVERTER_VERSION:
+    if doc.converter_version != converter_version_for_source(raw_path):
         return False
     if (doc.raw_file_hash or doc.file_content_hash) != sha256_file(raw_path, max_bytes=MAX_SOURCE_BYTES):
         return False
@@ -531,7 +532,7 @@ def convert_document_file(data_dir: Path, doc, raw_path: Path):
     doc.text_path = str(text_path.relative_to(data_dir))
     doc.file_content_hash = pseudo_attachment.content_hash
     doc.raw_file_hash = pseudo_attachment.raw_file_hash or pseudo_attachment.content_hash
-    doc.converter_version = pseudo_attachment.converter_version or CONVERTER_VERSION
+    doc.converter_version = pseudo_attachment.converter_version or converter_version_for_source(raw_path)
     refresh_document_body_from_text_path(data_dir, doc)
     return pseudo_attachment
 

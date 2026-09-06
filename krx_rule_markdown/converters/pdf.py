@@ -18,9 +18,13 @@ def extract_pdf(path: Path) -> str:
 def extract_pdf_details(path: Path, *, comparison_id: str = "") -> tuple[str, int]:
     try:
         from pdfminer.high_level import extract_text
+        from pdfminer.layout import LAParams
     except ImportError as exc:
         raise ConversionError("pdfminer.six is not installed") from exc
-    raw_text = extract_text(str(path), maxpages=MAX_PDF_PAGES)
+    # Hierarchical box grouping can move a centred chapter heading below its
+    # left-aligned article title. Preserve the geometric reading order; known
+    # amendment comparison tables are still restored from their coordinate grid.
+    raw_text = extract_text(str(path), maxpages=MAX_PDF_PAGES, laparams=LAParams(boxes_flow=None))
     page_count = max(1, raw_text.count("\x0c"))
     if comparison_id:
         classification = classify_comparison_pdf(path, comparison_id)

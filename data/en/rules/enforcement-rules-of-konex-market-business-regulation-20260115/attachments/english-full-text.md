@@ -3277,10 +3277,10 @@ companies  which  listed  their  shares  prior  to  three  (3)  years  of  the  
 
 amendment.
 
-§1. Effective Date
-
 ADDENDA
 (July 22, 2019)
+
+§1. Effective Date
 
 These Enforcement Rules shall become effective on July 29, 2019.
 
@@ -3418,10 +3418,10 @@ Of  [§46-9(1)2(a)],  “[§2(3)]  of  the  KOSDAQ  Market  Listing  Regulation�
 
 (5) and (6). [Omitted]
 
-§1. Effective Date
-
 ADDENDA
 (November 25, 2021)
+
+§1. Effective Date
 
 These Enforcement Rules shall become effective on November 29, 2021.    Provided that the
 amended provisions of Paragraphs 2 and 3 under [Annex 3] shall apply from January 3, 2022.
@@ -3681,14 +3681,14 @@ corporation applying for initial listing (referring to a person falling under
 any of each Subparagraph of Article 3(1) of the Enforcement Decree of the
 Governance Structure of Financial Companies, etc.;
 
+that
+
 iii) The relevant stock-listed corporation shall not be a corporation that falls
 under the causes for delisting, a corporation that is subject to the listing
 maintenance  review,  or  a  corporation
 is  designated  as  an
 administrative issue in accordance with the listing regulation in the KOSPI
 market;    .
-
-that
 
 83
 
@@ -3968,6 +3968,8 @@ Application for Mass Order Cancellation, etc.
 
 * Securities shall be entered by selecting one from the securities list.
 
+Remarks
+
 Matters for applying
 mass order cancellation
 
@@ -3978,19 +3980,17 @@ trading number
 
 Securities*
 
-Condition
-
 Issue
 
 Ask/Bid
+
+Condition
 
 Account
 number
 Quotation
 group
 number
-
-Remarks
 
 Mass order cancellation applies only to quotations submitted
 by the member
@@ -4205,12 +4205,10 @@ Director of the Department in charge:              (seal)
 
 (Unit: shares)
 
+Remarks
+
 Settlement
 Date
-
-Customer
-Name
-(ID)
 
 Issue
 Name
@@ -4218,11 +4216,13 @@ Name
 Quantity
 Short
 
+Customer
+Name
+(ID)
+
 Reason for
 Settlement
 Failure
-
-Remarks
 
 Note.  Enter  one  of  the  following  in  the  Reason  for  Settlement  Failure  column.  If  the  reason  for
 settlement  failure  falls  under  item  1  and  also  under  items  2  or  3,  enter  item  1.  If  the  reason  for
@@ -4250,10 +4250,10 @@ Name of Issue
 
 Quantity  Type of trading
 
+Type of market  Remarks
+
 Quotation
 date
-
-Type of market  Remarks
 
 Notes:
 1. In “Type of trading” column, indicate “sell” or “buy”.
@@ -4318,10 +4318,10 @@ auction as follows.
 
 Name of Issue  Quantity  Lowest Bidding Price
 
+Remarks
+
 Least Quantity
 to Sell
-
-Remarks
 
 Date:
 
@@ -4337,9 +4337,6 @@ Request for Correction of Transaction Errors
 
 1. Details of trades (mm/dd/yyyy)
 
-Name of Issue
-(Code No.)
-
 Sell or Buy
 
 Quantity
@@ -4347,6 +4344,9 @@ Quantity
 Price
 
 Note
+
+Name of Issue
+(Code No.)
 
 2. Details of correction requested
 
@@ -4439,6 +4439,8 @@ charge:
 KONEX Market Division
 The Korea Exchange
 
+Quantity  Price  Remarks
+
 Name of
 Issue
 
@@ -4450,8 +4452,6 @@ Settlement
 
 Sell or
 Buy
-
-Quantity  Price  Remarks
 
 107
 
@@ -4473,15 +4473,19 @@ Details of Products Assumed by Transaction Errors
 
 Results of Offsetting Transactions
 
+Quantity
+
+Price
+
+Quantity
+
+Price
+
 Name
 of Issue
 
 Sell or
 Buy
-
-Quantity
-
-Price
 
 Date
 Assumed
@@ -4491,10 +4495,6 @@ of Issue
 
 Sell or
 Buy
-
-Quantity
-
-Price
 
 Date
 Traded
@@ -4522,24 +4522,24 @@ Sell
 
 Buy
 
+Traded
+amount
+
 Details of
 error
 transaction
 assumed
+
+Expenses
+
+Traded
+amount
 
 Results of
 offsetting
 trading of
 error
 transaction
-
-Traded
-amount
-
-Expenses
-
-Traded
-amount
 
 Expenses
 
@@ -4588,24 +4588,24 @@ Sell
 
 Buy
 
+Traded
+amount
+
 Details of
 error
 transaction
 assumed
+
+Expenses
+
+Traded
+amount
 
 Results of
 offsetting
 trading of
 error
 transaction
-
-Traded
-amount
-
-Expenses
-
-Traded
-amount
 
 Expenses
 
@@ -4697,9 +4697,9 @@ we hereby report the opening, changing or closing of algorithmic trading account
 Date: mm/dd/yyyy
 Name and/or seal of the representative:
 
-Open □    Change □    Close □
-
 Cause of report
+
+Open □    Change □    Close □
 
 Account number
 
@@ -4712,13 +4712,13 @@ customer account / self-account
 
 Order process ID
 
-Staff in charge
-
 Name
 
 Department
 
 Position
+
+Staff in charge
 
 Phone number
 
@@ -4750,6 +4750,8 @@ Corporation/Individual
 
 Corporate information
 
+Member  □      General  □
+
 Individual information
 
 Corporation            □                Individual            □
@@ -4765,9 +4767,9 @@ Individual or group**
 
 Individual  □    Group  □
 
-Member  □      General  □
-
 Foreigner    □                            Non-foreigner    □
+
+KOSPI  □  KOSDAQ  □  Derivative market  □  KONEX  □
 
 Type of investors
 (Investor classification
@@ -4784,8 +4786,6 @@ Applying member
 * In the case of a foreign corporation, enter the number of the corporate (business) registration
 certificate (COI) of the foreign country of incorporation.
 
-KOSPI  □  KOSDAQ  □  Derivative market  □  KONEX  □
-
 ** In the case of registering a group under the name of a representative
 
 118
@@ -4797,11 +4797,11 @@ speed Algorithmic Trader
 Confirmation on Inspection of Registration Information of
 High-speed Algorithmic Trader
 
+<Registration Information>
+
 Corporation
 
 Individual
-
-<Registration Information>
 
 Trade name
 Corporate registration

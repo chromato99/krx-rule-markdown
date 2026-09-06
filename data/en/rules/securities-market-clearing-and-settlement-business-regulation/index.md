@@ -19,7 +19,7 @@ raw_path: "en/rules/securities-market-clearing-and-settlement-business-regulatio
 text_path: "en/rules/securities-market-clearing-and-settlement-business-regulation/attachments/english-full-text.md"
 file_content_hash: "1773492e027dc25b20a100da846b48815d00753dc9576d9875fda1d11d59d445"
 raw_file_hash: "1773492e027dc25b20a100da846b48815d00753dc9576d9875fda1d11d59d445"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

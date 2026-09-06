@@ -19,7 +19,7 @@ raw_path: "en/rules/유가증권시장공정공시운영기준/raw/english-full-
 text_path: "en/rules/유가증권시장공정공시운영기준/attachments/english-full-text.md"
 file_content_hash: "01326ea8fbaad1f9e2b61e15eccfd04d153cc75635c3681ffb0ea01c3eabc795"
 raw_file_hash: "01326ea8fbaad1f9e2b61e15eccfd04d153cc75635c3681ffb0ea01c3eabc795"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

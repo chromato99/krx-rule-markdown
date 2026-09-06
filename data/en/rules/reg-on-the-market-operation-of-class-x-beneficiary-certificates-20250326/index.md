@@ -4,8 +4,8 @@ id: "210049902-en"
 title: "Reg. on the Market Operation of Class X Beneficiary Certificates 20250326"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T08:01:27.414073Z"
-content_hash: "5dd535062929afe15b1b15d7fa8fb7d79196e052feb6fc0669bf1c69ba4934f9"
-body_hash: "36fe0d975d034869d0d6f9482492beabb529860a042c07f647a6b60e3989d7c6"
+content_hash: "c31b58aeec5f8516e72aa33b1658e44cfd87eeb0e025cb5e999295e908bc61a3"
+body_hash: "44e7f5a4bf6802cde600377eb26debcb0fd4264a48d1a72a060ad8b882db681f"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/reg-on-the-market-operation-of-class-x-beneficiary-certifica
 text_path: "en/rules/reg-on-the-market-operation-of-class-x-beneficiary-certificates-20250326/attachments/english-full-text.md"
 file_content_hash: "e1b2907003ffe3686c6405a7dc0566a0970d5f5d6e429eb585de90348bd8620d"
 raw_file_hash: "e1b2907003ffe3686c6405a7dc0566a0970d5f5d6e429eb585de90348bd8620d"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -204,51 +204,49 @@ requirements must be met:
 
 liquidity  provision  agreement  must  be  entered
 
-(b)  A
-one
-authorized participants pursuant to [§17(1)];
-
-liquidity
+into  with  at
 
 (1)
 
+liquidity
+
 providing
 
-into  with  at
+member
 
 least
 among
 
-(c)
+(b)  A
+one
+authorized participants pursuant to [§17(1)];
 
-fund
-X
+(c)
 
 the
 class
 
-If
-operates
-other
-market
-beneficiary  certificates  of  publicly  offered
-requirements shall be met:
-
-beneficiary
-
-class
-
-for
-
+fund
 X
 
 management
 beneficiary
 
+company
 certificates
+
 class
 
+X
+
+beneficiary
+
 on
+
+for
+
+certificates
+class
 
 funds,  all  of
 
@@ -260,19 +258,21 @@ the
 X
 following
 
-member
-
-company
-certificates
+If
+operates
+other
+market
+beneficiary  certificates  of  publicly  offered
+requirements shall be met:
 
 (i)  If some  of the liquidity  providing  members  for  any  of the  relevant  listed  issues
 liquidity  providing  member  replacement  criteria  under  [§20]
 
+the
+
 meet
 (hereinafter referred to as the “liquidity providing member replacement criteria”),
 at least three (3) months shall have elapsed since then; and
-
-the
 
 (ii)  If all of the liquidity providing members for any of the relevant listed issues meet
 the liquidity providing member replacement criteria, at least six (6) months shall
@@ -282,19 +282,19 @@ have elapsed since then.
 
 Included
 
-multiple
-class fund must be traded in any of the following markets. In this case, the details must be
-stated in the fund agreement:
-
-included
-
 Assets:
 
 Assets
 
-the
+included
 
 in
+
+the
+
+multiple
+class fund must be traded in any of the following markets. In this case, the details must be
+stated in the fund agreement:
 
 (a)  An  exchange  market,  a  foreign  exchange  market,  or  a  market  designated  and
 announced  by  the  Financial  Services  Commission  pursuant  to  Article  7-26  of  the
@@ -302,22 +302,22 @@ Financial Investment Business Regulations;
 
 (b) A market similar to item (a), which falls under any of the following:
 
+to  the  regulations  of  the
+
 (i)  A  precious  metals  market  operated  pursuant
 London Bullion Market Association (LBMA);
-
-to  the  regulations  of  the
 
 (ii)  An  over-the-counter  bond  market  and  a  similar  foreign  bond  market
 operated pursuant to Articles 179, 180, and 185 of the Enforcement Decree of the
 Act;
+
+to  Article  9,  Paragraph  2  of
 
 (iii) A market in which a foreign exchange brokerage firm calculates the base exchange
 rate and the arbitrated exchange rate pursuant to the Foreign Exchange Transactions
 Act  pursuant
 the  Foreign  Exchange
 Transactions Act; and
-
-to  Article  9,  Paragraph  2  of
 
 (iv) Any other market recognized by the Exchange, taking into account factors such as
 

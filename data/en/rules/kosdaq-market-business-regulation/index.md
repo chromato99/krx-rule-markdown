@@ -4,8 +4,8 @@ id: "210223407-en"
 title: "KOSDAQ Market Business Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:49:47.707944Z"
-content_hash: "b32567131373afb26337c1eb0c7cd038e96084ab002e8a3fb3d81783d31fc3aa"
-body_hash: "09c1ebc74c5372ac6a6883a91a8b1f544e8b8238cfaf50aa7af6f4a6a9e5c1a1"
+content_hash: "c04aab7d3b5513bd490d62f507d84ff2f18a2755cea0157b1581966aba0e5259"
+body_hash: "0dfc3a810ef238f155516a05c9147ba58adca1424448a42252b840aca6756639"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/kosdaq-market-business-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/kosdaq-market-business-regulation/attachments/english-full-text.md"
 file_content_hash: "1c80af77c15e2e11e5413f538059dda89ca34bdcc26f98756fb6e1bf3031a955"
 raw_file_hash: "1c80af77c15e2e11e5413f538059dda89ca34bdcc26f98756fb6e1bf3031a955"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -2706,9 +2706,9 @@ ADDENDUM
 
 55
 
-This Regulation shall become effective on July 6, 2009.
-
 (July 1, 2009)
+
+This Regulation shall become effective on July 6, 2009.
 
 ADDENDUM
 (October 21, 2009)
@@ -2973,10 +2973,10 @@ Of [§23(1)2], “[§47] of the Listing Regulation” shall be “[§23] of the 
 
 (3) and (4) [Omitted]
 
-§1. Effective Date
-
 ADDENDA
 (December 7, 2022)
+
+§1. Effective Date
 
 consideration of the time required to develop the computer programs. etc.
 
