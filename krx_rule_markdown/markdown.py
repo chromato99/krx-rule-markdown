@@ -4,7 +4,7 @@ from pathlib import Path
 import json
 from typing import Any
 
-from .models import LANGUAGE_EN, LANGUAGE_KO, ATTACHMENT_CONVERTED, Document, hash_bytes, hash_text, normalize_language, safe_file_name, slug
+from .models import LANGUAGE_EN, LANGUAGE_KO, ATTACHMENT_CONVERTED, Document, hash_bytes, hash_text, normalize_language, slug
 from .contracts import (
     MAX_CONVERTED_TEXT_BYTES,
     MAX_METADATA_FILE_BYTES,
@@ -35,10 +35,6 @@ def parse_markdown(data: str) -> Document:
 
 
 def parse_frontmatter(text: str) -> dict[str, Any]:
-    return parse_frontmatter_legacy(text)
-
-
-def parse_frontmatter_legacy(text: str) -> dict[str, Any]:
     out: dict[str, Any] = {}
     attachments: list[dict[str, Any]] = []
     current: dict[str, Any] | None = None
@@ -142,12 +138,8 @@ def write_document(root: Path, doc: Document) -> Path:
     hydrate_file_metadata(Path(root), doc)
     doc.body_hash = hash_text(doc.body)
     doc.content_hash = hash_text(doc.title + "\n" + doc.body)
-    folder = "notices" if doc.document_type == "notice" else "rules"
     path = existing_document_path(root, doc) or document_bundle_dir(root, doc) / "index.md"
     path.parent.mkdir(parents=True, exist_ok=True)
-    legacy_path = language_root(root, doc.language) / folder / safe_file_name(doc.title)
-    if legacy_path.exists():
-        legacy_path.unlink()
     atomic_write_text(path, render_markdown(doc))
     doc.path = str(path)
     return path

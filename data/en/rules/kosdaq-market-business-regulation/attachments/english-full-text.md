@@ -2680,9 +2680,9 @@ ADDENDUM
 
 55
 
-This Regulation shall become effective on July 6, 2009.
-
 (July 1, 2009)
+
+This Regulation shall become effective on July 6, 2009.
 
 ADDENDUM
 (October 21, 2009)
@@ -2947,10 +2947,10 @@ Of [§23(1)2], “[§47] of the Listing Regulation” shall be “[§23] of the 
 
 (3) and (4) [Omitted]
 
-§1. Effective Date
-
 ADDENDA
 (December 7, 2022)
+
+§1. Effective Date
 
 consideration of the time required to develop the computer programs. etc.
 

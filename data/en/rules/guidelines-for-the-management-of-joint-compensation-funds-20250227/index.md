@@ -4,8 +4,8 @@ id: "210025875-en"
 title: "Guidelines for the Management of Joint Compensation Funds 20250227"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T08:01:43.895319Z"
-content_hash: "c44016a4ca509760113b8fe58d5d5afc395b6a1a126fd97dc1e77a3023251278"
-body_hash: "8390ca5a5100eba1201dbcd715bbd976004e2b83e63a32e8ecfa64950c276bd0"
+content_hash: "b4d6ff6a454ba73de63c5f7c5f9539326da6a035bdda674261df60c7f2ff5fee"
+body_hash: "8746d1f0b2503e50bf50616dd683fef8978523e8a4b3b602a7e5a6a75721f15d"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/guidelines-for-the-management-of-joint-compensation-funds-20
 text_path: "en/rules/guidelines-for-the-management-of-joint-compensation-funds-20250227/attachments/english-full-text.md"
 file_content_hash: "e323de212854325157d3591c4fcec170f0f0b993f7d3bb3408d3d45963843072"
 raw_file_hash: "e323de212854325157d3591c4fcec170f0f0b993f7d3bb3408d3d45963843072"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -376,9 +376,9 @@ members as of the accrual date of the proceeds. [March 28, 2014]
 
 [October 23, 2009]
 
-§10. Use of JCF
-
 CHAPTER 3. USE OF JCF
+
+§10. Use of JCF
 
 (1)  In  the  event  that  a  settlement  default  of  a  member  has  occurred,  the  head  of  CCP  risk
 management department may use the JCF to compensate the losses incurred by the settlement
@@ -539,23 +539,23 @@ Securities market JCF
 
 Derivatives market JCF
 
+KRW
+
+KRW
+
 In cash
+
+KRW
+
+KRW
 
 In substitute securities
 
+KRW
+
+KRW
+
 Total
-
-KRW
-
-KRW
-
-KRW
-
-KRW
-
-KRW
-
-KRW
 
 ■  Details of substitute securities, if applicable
 
@@ -565,13 +565,13 @@ Quantity
 
 Amount
 
+KRW
+
 Securities market
 
+KRW
+
 Derivatives market
-
-KRW
-
-KRW
 
 This is to certify that the amount of the Joint Compensation Funds contributed by the above
 mentioned member as of (mm/dd/yyyy) is the same as stated above.
@@ -591,17 +591,17 @@ To                                                  (Name of member)
 
 OTC derivatives market JCF
 
+KRW
+
 In cash
+
+KRW
 
 In substitute securities
 
+KRW
+
 Total
-
-KRW
-
-KRW
-
-KRW
 
 ■  Details of substitute securities, if applicable
 

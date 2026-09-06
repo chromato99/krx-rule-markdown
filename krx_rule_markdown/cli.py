@@ -182,14 +182,14 @@ def _main(argv: list[str] | None = None) -> int:
             f"documents={result.documents} "
             f"attachments={result.attachments} "
             f"{action}={result.converted} "
-            f"failed={result.failed} "
+            f"blocking_failed={result.blocking_failed} "
             f"skipped={result.skipped} "
             f"metadata_updates={result.metadata_updates} "
             f"stale_retained={result.stale_retained} "
             f"allowed_failed={result.allowed_failed} "
             f"required_failed={result.required_failed}"
         )
-        return 1 if result.failed else 0
+        return 1 if result.has_blocking_failures else 0
     if args.command == "assets":
         result = migrate_assets(
             Path(args.data_dir),

@@ -4,8 +4,8 @@ id: "210015705-en"
 title: "Dispute Mediation Regulation 20250205"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T08:01:37.346832Z"
-content_hash: "76058329e4ea418763d7a2e138794f272d6931d21f5f099faf5abce0f218abe4"
-body_hash: "7caef756bf3dd896750d95bc36ce601db5e9f7f2c8ad1eea159f6994d9f07646"
+content_hash: "307fcdc4ed86a379a03bd6c656579be5423667f0f0a9ca44cfa34e65da0aa36a"
+body_hash: "b033566a9feed36ee3f05028b7b6928b8c1b35fb625b985170d14c6201788e16"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/dispute-mediation-regulation-20250205/raw/english-full-text.
 text_path: "en/rules/dispute-mediation-regulation-20250205/attachments/english-full-text.md"
 file_content_hash: "d11fc0993078f29aa87596d899abef65bd4fc14a1680a7f4c5af5f4bb59e09a5"
 raw_file_hash: "d11fc0993078f29aa87596d899abef65bd4fc14a1680a7f4c5af5f4bb59e09a5"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -628,12 +628,12 @@ concerned party shall be obtained. (Amended on November 24, 2006)
 
 §25. Maintenance and Conservation of Mediation Records
 
+the  records  concerning
+
 The  Chairman  shall  maintain  and  conserve
 the  receipt,
 supplementation,  fact  investigation,  outcome,  etc.  of  mediation  for  ten  (10)  years  from  the
 date of receiving the dispute mediation request. (Amended on November 24, 2006)
-
-the  records  concerning
 
 14
 

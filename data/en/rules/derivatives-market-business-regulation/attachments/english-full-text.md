@@ -1,10 +1,10 @@
 Derivatives Market Business Regulation
 
+Formulated on January 21, 2005
+
 Amended on:
 February 25, 2005;July 22, 2005;October 14, 2005;April 28, 2006;October 27, 2006
 Wholly amended on January 19, 2007
-
-Formulated on January 21, 2005
 
 Amended on:
 December 21, 2007;June 27, 2008
@@ -731,9 +731,9 @@ exercise settlement shall be stipulated in the Enforcement Rules in consideratio
 features, trading convenience, impact on underlying assets and the fairness of final settlement
 price, etc. (Amended on August 27, 2014)
 
-[August 27, 2014]
-
 Section 3. Trading of Volatility Index Futures
+
+[August 27, 2014]
 
 §21-2. Underlying Assets
 
@@ -4680,26 +4680,26 @@ August 1, 2016; and
 
 stock
 
+futures
+
+spreads
+
+among
+
+the
+
+amended
+
+provisions
+
+of
+
 2. For the amended provisions concerning the overseas single stock futures and the overseas
 single
 [§3(2),
 §4(1)&(2),§22(1),§25(1),§154(1),§155(2)]: The date specified in the Enforcement Rules, in
 consideration of the time period required for the development of programs for the Exchange
 derivatives system and the member derivatives systems.
-
-provisions
-
-amended
-
-spreads
-
-futures
-
-among
-
-the
-
-of
 
 ADDENDUM
 (December 28, 2016/ Regulation No. 1393)

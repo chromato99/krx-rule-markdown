@@ -19,7 +19,7 @@ raw_path: "en/rules/코스닥시장공정공시운영기준/raw/english-full-tex
 text_path: "en/rules/코스닥시장공정공시운영기준/attachments/english-full-text.md"
 file_content_hash: "b8fbe5f33d8e772de1adf63a0cca0c16a9f03f4468a57b71655431e03c1c4d28"
 raw_file_hash: "b8fbe5f33d8e772de1adf63a0cca0c16a9f03f4468a57b71655431e03c1c4d28"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

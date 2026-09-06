@@ -4,8 +4,8 @@ id: "210220143-en"
 title: "KOSPI Market Listing Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:47:58.240753Z"
-content_hash: "d92e0d0f2a2512bf5c87a3311d1544d8ad7f12f69251b553de45f7023e36bc8b"
-body_hash: "0b5f71b9ff5bd90d590b302c9353bc271e408ac6aae8254cc2296e9f36cde196"
+content_hash: "785bc8a40920e110dcf67ee6526b52ef1653c8c7881938f14e80c73e0eac786d"
+body_hash: "63a4e1c8c416e782de60c57295d37f4672acb2a8766b837721fa3b14e1374399"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/kospi-market-listing-regulation/raw/english-full-text.pdf"
 text_path: "en/rules/kospi-market-listing-regulation/attachments/english-full-text.md"
 file_content_hash: "a07a9c57feebb80b0f4625c8e3bb6f2d0d0cc5c982c570569b77cf481dba1874"
 raw_file_hash: "a07a9c57feebb80b0f4625c8e3bb6f2d0d0cc5c982c570569b77cf481dba1874"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -2277,10 +2277,10 @@ or more: five million (1,000,000) shares or more.
 
 3. Business performance shall fall under any of the following items:
 
+the  following
+
 (a)  The  sales  amount  and  profitability  shall  meet  all
 requirements:
-
-the  following
 
 (i) Sales: The sales amount of the latest business year shall be at least KRW
 100 billion. In such cases, the sales amount of a holding company shall be on
@@ -3034,12 +3034,12 @@ off, etc. have been conducted to evade delisting;
 
 there  has  been  a  corporate  disclosure  relating
 
+to
+
 (b)  Where
 the
 embezzlement, misappropriation, etc. that would cause significant financial
 losses to the relevant corporation, or such fact was confirmed;
-
-to
 
 (c)  Where  the  fact  that  the  financial  statement  was  prepared  in  major
 violation  of  the  Korea  International  Financial  Reporting  Standard  is
@@ -3215,13 +3215,13 @@ the  Debtor  Rehabilitation  and  Bankruptcy  Act  or  have  entered  into  an
 agreement  for  the  implementation  of  a  corporate  improvement  plan  under
 the Corporate Restructuring Promotion Act; [July 9, 2025]
 
+the  rehabilitation  plan  or  corporate
+
 (c) An auditor's confirmation stating that the audit opinion can be changed
 after
 improvement  plan  under
 subparagraph  2  is  completed  must  have  been  submitted  before  the  start  of
 trading before delisting. [July 9, 2025]
-
-the  rehabilitation  plan  or  corporate
 
 (6) In cases where the audit opinion on the audit report of a corporation that listed
 its common stocks whose delisting has been postponed pursuant to paragraph (5) is
@@ -3614,6 +3614,10 @@ common stocks after spin-off or merger. (Amended on June 18, 2014; August 28,
 the  securities  noted  in  each  of  the  following  subparagraphs  shall  be  subject  to
 mandatory holding: (Amended on August 28, 2019; March 16, 2022)
 
+in
+
+the  case  of  conducting  capital
+
 1. Different class of stocks. In such cases, different class of stocks that have been
 acquired  through  exercises  of  rights  granted  to  the  different  class  of  stocks,
 capital  increase  without  consideration  (referring  only  to  the  capital  increase
@@ -3621,10 +3625,6 @@ without  consideration
 increase  with
 consideration  and  capital  increase  without  consideration  at  the  same  time),  and
 stock dividends within the period of mandatory holding shall be included;
-
-the  case  of  conducting  capital
-
-in
 
 2. Securities that can be converted into or redeemed with different class of stocks.
 
@@ -3866,6 +3866,10 @@ mandatory holding and the new stocks issued by a counterparty corporation in the
 merger subsequent to the listing after merger pursuant to [§2(1)1(d)(ii)]. (Amended
 on August 28, 2019; August 25, 2021; March 16, 2022)
 
+it  necessary  for
+
+the  sake  of  management
+
 (3)  Notwithstanding  paragraph  (2),  in  cases  where  a  person  subject  to  mandatory
 holding  makes  a  request  in  consultation  with  his/her  listing  sponsor  or  the
 Exchange  deems
@@ -3874,10 +3878,6 @@ management stability and investor protection, the mandatory holding period may b
 extended up to two (2) years in addition to the mandatory holding period stipulated
 in  paragraph  (2)  after  a  discussion  with  the  person  subject  to  mandatory  holding.
 [March 16, 2022]
-
-the  sake  of  management
-
-it  necessary  for
 
 (4) With respect to the mandatory holding under paragraph (2), the documents to be
 submitted, submission deadlines, etc. shall be stipulated in the Enforcement Rules.
@@ -5059,6 +5059,10 @@ Article 182 of the Act;
 2.  Capital  stock  shall  be  at  least  KRW  5  billion  as  of  the  application  date  for
 listing;
 
+to  Article  41  of
+
+the  Act  on  Public-Private  Partnerships
+
 3.  The  number  of  stocks  publicly  offered  or  sold  by  an  investment  company
 shall be no less than 25/100 of the total number of common stocks issued as of
 the  date  of  listing  application  (no  less  than  10/100  of  the  total  number  of
@@ -5066,10 +5070,6 @@ common  stocks  issued,  in  case  of  the  investment  and  financing  company
 pursuant
 in
 Infrastructure) and the number of shareholders shall be no less than 50;
-
-the  Act  on  Public-Private  Partnerships
-
-to  Article  41  of
 
 4.  There  shall  be  no  disputes  such  as  lawsuits  that  may  materially  affect  the
 management of the investment company; and
@@ -7443,12 +7443,12 @@ of the following subparagraphs: [December 7, 2022]
 1.  The  suitability  as  an  instrument  shall  be  recognized  considering  the
 requirements of underlying asset and issuance;
 
-2.  The  continuity  of
-characteristics of the underlying asset’s price and index;
-
 the  ELWs  shall  be  recognized  considering
 
 the
+
+2.  The  continuity  of
+characteristics of the underlying asset’s price and index;
 
 3. The eligibility of the listing applicant, etc. shall be recognized in relation with
 the business handling of ELWs issuance, listing, liquidity providing, report, etc.;
@@ -8562,9 +8562,6 @@ The  government  invested  institutions  pursuant  to  [§32(4)3]  of  the  form
 Regulation  as  of  the  effective  date  of  this  Regulation  shall  be  deemed  to  be  the
 public corporations pursuant to the amended provision of [§32(4)3].
 
-§5.  Exceptions
-Rehabilitation Procedures
-
 in  Application
 
 to
@@ -8572,6 +8569,9 @@ to
 the  Listed  Corporation  undergoing
 
 the
+
+§5.  Exceptions
+Rehabilitation Procedures
 
 The amended provisions of [§75(1)13] shall also apply to the KOSPI market-listed
 corporations that are undergoing the rehabilitation procedures when this Regulation
@@ -8620,6 +8620,8 @@ to
 
 [§75(1)(excluding
 
+subparagraph  13)]  or
+
 (1)  In  the  case  of  a  corporation  that  has  been  designated  as  administrative  issue
 pursuant
 [§76(1)(excluding
@@ -8628,8 +8630,6 @@ Regulation  became  effective,  notwithstanding  the  amended  provisions  of  [
 §79, §80 through §80-3, §83, §93 and §95(2)], the former Regulation shall be to the
 case of applying the criteria release from the designation as administrative issue and
 delisting.
-
-subparagraph  13)]  or
 
 (2)  The  amended  provisions  of  [§80/19]  (including  the  case  §80/19  shall  apply
 mutatis mutandis) shall also apply to the cases of embezzlement, misappropriation
@@ -9313,11 +9313,11 @@ and 5] and the listed market capitalization pursuant to the amended provisions o
 2022,  shall  be  the  number  of  listed  securities  and  listed  market  capitalization
 noted in the following table:
 
+No. of Listed Securities  Listed Market Capitalization
+
 Applicable Period
 Oct. 1, 2020 ~ Sep. 30, 2021
 Oct. 1, 2021 ~ Sep. 30, 2022
-
-No. of Listed Securities  Listed Market Capitalization
 
 50,000
 100,000

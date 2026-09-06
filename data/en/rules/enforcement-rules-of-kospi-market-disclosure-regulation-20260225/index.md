@@ -4,8 +4,8 @@ id: "210179748-en"
 title: "Enforcement Rules of KOSPI Market Disclosure Regulation 20260225"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:58:58.157406Z"
-content_hash: "77ab7a244c9953fdfc1aaa38af28a9a25a47e39772bda901a15e0f076a12e8a3"
-body_hash: "759847734d9ea44e429fecb3f488472bafdcf81a63f21c9c0576a21e825fa0e7"
+content_hash: "68beb9d42ff6d96c7da5283d96be3692b1911a43fd4e4e41d13103d5494e3155"
+body_hash: "1c19611bdb57f0379e72a6e146f5b355cfbf641320fbfaf75a276a937d822bf3"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-kospi-market-disclosure-regulation-2026
 text_path: "en/rules/enforcement-rules-of-kospi-market-disclosure-regulation-20260225/attachments/english-full-text.md"
 file_content_hash: "1ec988ccd5e0dea8a2709d826d0925ed23ccd2fdcd6f2c7771e744b31db2a256"
 raw_file_hash: "1ec988ccd5e0dea8a2709d826d0925ed23ccd2fdcd6f2c7771e744b31db2a256"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -634,13 +634,13 @@ that
 
 the  financial
 
+institution  has  become  subject
+
 (a)  The  fact
 to  a
 recommendation,  demand  or  order  for  the  management  improvement,  or
 measures  such  as  conclusion  of  an  agreement  for  management  improvement,
 etc.; and
-
-institution  has  become  subject
 
 (b) The fact that an executive of the financial institution has become subject to
 the  sanctions  falling  under  any  of  the  subparagraphs  of  [§18(1)]  of  the
@@ -977,9 +977,11 @@ Stock Market Review for five (5) consecutive times from the date of the designat
 unfaithful  disclosure  corporation  under  [§35]  of  the  Regulation.  (Amended  on
 December 27, 2005; February 3, 2009)
 
+the  Exchange
+
 shall  mark
 
-the  Exchange
+in
 
 (2)  When  making  a  public  announcement  on  the  fact  that  a  KOSPI-stock-listed
 corporation  was  designated  as  unfaithful  disclosure  corporation  pursuant  to  paragraph
@@ -995,8 +997,6 @@ first publicly announced. Provided that, if the entire demerit points are replac
 fine, it may not be indicated on the price information table of the Daily Stock Market
 Review or the financial information terminals. (Amended on February 3, 2009; June 23,
 2010; August 28, 2015; December 28, 2016; December 27, 2019; December 10, 2020)
-
-in
 
 1. Where the demerit point imposed is less than five (5): For one (1) week.
 
@@ -1107,13 +1107,13 @@ under  [§7(1)3(a)(v)]  of  the  Regulation,  and  the  matters  to  be  disclos
 to  be  disclosed  under
 outcome
 
-the  matters
-
 thereof,
+
+from
 
 among
 
-from
+the  matters
 
 23
 
@@ -2097,17 +2097,13 @@ imposition of fines shall be deliberated.
 
 Guidelines for Deliberation of Disciplinary Actions
 
-Seriousness
-
 Motivation
 
 Intentional
 
+Seriousness
+
 Significant violation
-
-Ordinary violation
-
-Insignificant violation
 
 10
 
@@ -2120,6 +2116,10 @@ Negligence
 (Unit: points)
 Insignificant
 Negligence
+
+Ordinary violation
+
+Insignificant violation
 
 0
 
@@ -2153,9 +2153,9 @@ withheld or the disclosure of the release from the withholding conditions stipul
 in  [§43-2]  of  the  Regulation  and  the  noncompliance  with  disclosure  obligations
 under [§45] of the Regulation, those that do not fall under
 
-above.
-
 or
+
+above.
 
 (iv) In relation to [§12(1)] of the Regulation, in cases where it has failed to comply
 with  the  deadline  of  inquired  disclosure  or  the  details  disclosed  fall  under
@@ -2174,6 +2174,8 @@ to  [§14(1)]  of  the  Regulation,  the  demerit  points  imposed  for  noncomp
 the  disclosure  obligation  corresponding  to  the  details  of  the  relevant  interim
 disclosure shall apply.
 
+imposed  for  noncompliance  with
+
 (vii) In the case of intending to take measures against the reversal of disclosure after
 assessing  the  details  of  disclosure  pursuant  to  [§30(2)]  of  the  Regulation,  the
 demerit  points
@@ -2188,8 +2190,6 @@ correction  disclosure  by  the  deadline  of  the  relevant  correction  disclo
 demerit  points
 the  disclosure  obligation
 corresponding to the details of the relevant disclosure shall apply.
-
-imposed  for  noncompliance  with
 
 50
 
@@ -2294,38 +2294,40 @@ Grounds
 
 Point  Limit
 
++2
+
 Case of having been designated as an unfaithful disclosure corporation two (2) times or
 more within the past one (1) year
+
++1
 
 Case  of  having  been  designated  as  an  unfaithful  disclosure  corporation  (one  (1)  time)
 within the past one (1) year
 
-+2
-
-+1
++0.5
 
 Case of having received an advance notice of the designation as an unfaithful disclosure
 corporation or a warning in relation to unfaithful disclosure within the past one (1) year
 
-+0.5
++1
 
 Case  where,  to  conceal  or  play  down  the  matter,  false  documents  were  submitted  or
 relevant materials were withheld
 
 Increase
 
++1
+
 Case  where,  in  view  of noncompliance  with  the  disclosure  obligation,  it  is  deemed  that
 the internal control system of the relevant company is not adequately set up
+
++1
 
 Case of having convened the general meeting of shareholders on the concentrated date of
 shareholders’  general  meetings  and  failed  to  fulfill  the  reporting  obligations  under
 [§79(3)] of the Regulation with respect to the reason for determining the holding date
 
-+1
-
-+1
-
-+1
++0.5
 
 Case where the officer in charge of disclosure has not completed the mandatory training
 specified in [§88] of the Regulation
@@ -2335,28 +2337,32 @@ specified in [§88] of the Regulation
 Case where any one of the employees responsible for disclosures has not completed the
 mandatory training specified in [§88] of the Regulation
 
-+0.5
+Within
 
 Case of voluntarily reporting/disclosing the violation before the Exchange has noticed the
 fact of noncompliance
 
+±2
+
 Case of having not been designated as an unfaithful disclosure corporation within the past
 three (3) years
+
+points
 
 Case of having not been designated as an unfaithful disclosure corporation within the past
 one (1) year and falling under each of the following grounds:
 
-Within
-
-±2
-
-points
-
-Reduction
+-0.5
 
 -  The  company or  the  person  responsible  for disclosure  has  received  an  award  from  a
 relevant organization in relation to the faithful fulfillment of disclosure obligations or
 investor relations conference within the past three (3) years
+
+-0.5
+
+Reduction
+
+-0.5
 
 - Case of having organized at least two (2) IR conferences within the past one (1) year
 and filed reports thereon
@@ -2375,16 +2381,12 @@ and the number of English disclosures of a KOSPI-stock-listed-corporation that h
 obligation to disclose in English pursuant to [§48(2)] of the Regulation is 15% or more
 and 10 cases or more, respectively, within the past one (1) year
 
--0.5
-
--0.5
-
--0.5
-
 Case  where  the  matters  to  be  disclosed  occurred  sequentially  as  a  specific  matter
 progresses, and the initial disclosure thereof was made before the disclosure deadline
 
 53
+
+-0.5
 
 Case  of  having  participated  in  the  ‘Program  for  Compliance  with  Distributed
 Shareholders’  Meeting’  of  the  Korea  Listed  Companies  Association  and  held  a  general
@@ -2400,8 +2402,6 @@ shareholders that voting rights may be exercised electronically in accordance wi
 368-4,  Paragraph  1  of  the  Commercial  Act  (excluding  cases  where  the  deadline  for
 submitting business reports has been extended in accordance with Article 165, Paragraph
 3 of the Financial Investment Services and Capital Markets Act)
-
--0.5
 
 54
 
@@ -2422,46 +2422,50 @@ Verification Procedure
 Release from Corporations Subject to
 Verification Procedure
 
+Grounds for Release
+
 Grounds for
 Designation
 
 Timing of
 Designation
 
+Timing of
+Release
+
 Initial listing
 
 Listing date
 
+Designation date
+
 Designated as unfaithful
 disclosure corporation
 
-Designation date
-
 Designation Date
+
+Designated as
+administrative issue
+
+The date of
+occurrence of
+the ground for
+release
+
+Occurrence of reasons for
+delisting
 
 The next day
 following the day
 when the ground
 confirmed
 
-The date set at the
-time of
-application
-
-Designated as
-administrative issue
-
-Occurrence of reasons for
-delisting
-
 Application by the
 corporation
 
-Where the Exchange
-deems it necessary for
-investor protection
-
-Grounds for Release
+The date set at the
+time of
+application
 
 When 3 years have elapsed
 since the listing date
@@ -2486,13 +2490,9 @@ the Exchange
 When the ground for
 designation was resolved
 
-Timing of
-Release
-
-The date of
-occurrence of
-the ground for
-release
+Where the Exchange
+deems it necessary for
+investor protection
 
 The next day
 following the
@@ -2799,6 +2799,10 @@ subsidiary:
 
 3. Changes in the listed subsidiary
 
+Listed
+
+Unlisted
+
 (New)
 
 (Change)
@@ -2808,10 +2812,6 @@ Name of the subsidiary of which disclosure is
 to be applied for linked disclosure
 Name of the subsidiary of which disclosure is
 to be excluded from the linked disclosure
-
-Listed
-
-Unlisted
 
 * In the case of a listed subsidiary of which disclosure is applied for the linked disclosure, the
 ratio  of the value  of  subsidiary’ stocks  held  by the  holding  company to the total  assets  of the

@@ -538,14 +538,14 @@ trade  or  the  case  of  submitting  a  quotation  to  cancel  the  quotation  
 
 14. In the case of accounts, the classification pursuant to each of the following items:
 
+individual
+
 (a)  In the  case  of submitting quotations  pursuant to  each subparagraph of  [§7-2(1)]
 (including the case where a quotation is submitted through the account of an investor
 who has  entered into an agreement for discretionary investment or through account
 opened  per
 trust  asset  under  members’  names),  each  of  such
 classifications; and
-
-individual
 
 (b)  In  the  case  of  placing  quotations  through  an  account  that  is  exclusively  for  the
 trading  of  stocks  for  risk  hedging  prescribed  in  Article  115(2)  of  the  Enforcement
@@ -6876,12 +6876,12 @@ Listing Regulation.
 Application for Mass Order Cancellation, etc.
 (Pertaining to [§18-4(1)] of the Enforcement Rules)
 
+Remarks
+
 * Securities shall be entered by selecting one from the securities list.
 Matters for applying
 mass order
 cancellation
-
-Remarks
 
 Member number
 
@@ -6890,11 +6890,11 @@ trading number
 
 Securities*
 
-Condition
-
 Issue
 
 Ask/Bid
+
+Condition
 
 Account
 number
@@ -7331,10 +7331,10 @@ Criteria for selection
 
 Turnover ratios
 
-Effective spreads
-
 Within  top  50%  in  the  order  of  largest  volume  among  total  issues
 subject to assessment
+
+Effective spreads
 
 Below  top  50%  in  the  order  of  smallest  spreads  among  total  issues
 subject to assessment
@@ -7351,10 +7351,10 @@ Criteria for selection
 
 Turnover ratios
 
-Effective spreads
-
 Below  top  50%  in  the  order  of  largest  volume  among  total  issues
 subject to assessment
+
+Effective spreads
 
 Within  top  50%  in  the  order  of  smallest  spreads  among  total  issues
 subject to assessment
@@ -7371,10 +7371,10 @@ Criteria for selection
 
 Turnover ratios
 
-Effective spreads
-
 Within  top  50%  in  the  order  of  largest  volume  among  total  issues
 subject to assessment
+
+Effective spreads
 
 Within  top  50%  in  the  order  of  smallest  spreads  among  total  issues
 subject to assessment
@@ -7601,11 +7601,11 @@ each of the following items and an issue of which assessment indicator specified
 (b) Assessment indicator: Ratio of obligation fulfillment calculated in accordance with
 the following formula on a quarterly basis.
 
-Ratio of obligation fulfillment
-=
-
 Number of days for which the obligation was fulfilled
 during the quarter
+
+Ratio of obligation fulfillment
+=
 
 Number of days for market making during the quarter
 
@@ -7620,12 +7620,12 @@ pursuant to subparagraph 1 shall be excluded from those subject to assessment.
 (b) The ratio of maintaining the best quotations that is calculated in accordance with
 the following formula:
 
-Ratio of maintaining best
-quotations =
-
 The time of a trading day during which the market
 making quotations were maintained with the best
 quotations (sum of offers and bids)
+
+Ratio of maintaining best
+quotations =
 
 The time of a trading day during which the market
 making quotations fulfilling the daily quotation
@@ -7774,6 +7774,8 @@ Director of the Department in charge:              (seal)
 
 (Unit: shares)
 
+Remarks
+
 Settlement
 Date
 
@@ -7789,8 +7791,6 @@ Short
 Reason for
 Settlement
 Failure
-
-Remarks
 
 Note.  Enter  one  of  the  following  in  the  Reason  for  Settlement  Failure  column.  If  the  reason  for
 settlement failure falls under item 1 and also falls under items 2 or 3, enter item 1. If the reason for
@@ -7942,18 +7942,18 @@ Name
 
 Department
 
+Position
+
 Company phone
 number
+
+Emergency
+contact
 
 E-mail address
 
 Name of market
 making issues
-
-Position
-
-Emergency
-contact
 
 Attachments:
 1. Certificate of employment
@@ -8251,6 +8251,15 @@ the market making account as follows:
 
 <Management of Daily Quantity held by Market Maker>
 
+Changes in quantity held
+
+Balance on base date
+
+Balance on previous
+day of base date
+
+OTC
+
 Base
 date
 
@@ -8262,25 +8271,16 @@ Name of
 issue
 (Abbreviated)
 
-Balance on previous
-day of base date
-
 General
 
 Borrowed
 
-Changes in quantity held
-
-Balance on base date
+General  Borrowed  Total
 
 On-
 Exchange
 
-OTC
-
 Borrowed  Others
-
-General  Borrowed  Total
 
 Notes:
 1.  In  the  “on-exchange”  changes  in  quantity  held,  the  quantity  purchased  in  the  regular  sessions  less  the
@@ -8308,13 +8308,13 @@ Request for Correction of Transaction Errors
 
 1. Details of trades (mm/dd/yyyy)
 
+Quantity  Price  Note
+
 Name of Issue
 (Code No.)
 
 Classification of
 sell or buy
-
-Quantity  Price  Note
 
 2. Details of correction requested
 
@@ -8407,6 +8407,8 @@ ___________
 Head of responsible Department, KOSDAQ Market Division
 The Korea Exchange
 
+Quantity    Price    Comments
+
 Name of
 issue
 
@@ -8418,8 +8420,6 @@ date
 
 Type of trade
 (sell or buy)
-
-Quantity    Price    Comments
 
 200
 
@@ -8444,24 +8444,24 @@ Causes of the request
 
 Account number
 
+time  when
+
 the
 
-time  when
+large-scale
 
 The
 transaction error started to occur
 The time when the occurrence of large-
 scale transaction has ended
 
-large-scale
-
 Classification of securities
 
 Choose between stocks and BDCs.
 
-Staff in charge
-
 Name
+
+Staff in charge
 
 Contact information
 
@@ -8492,6 +8492,10 @@ transaction errors
 
 Causes of the request
 
+Staff in charge
+
+Officer in charge
+
 2.  Details  of  the  request  for  adjustment  of  settlement  prices  for  relief  of  large-scale
 transaction errors
 Occurrence date of the erroneous transactions
@@ -8504,10 +8508,6 @@ Name
 Contact information
 Name
 Contact information
-
-Officer in charge
-
-Staff in charge
 
 Note:  The  seal  affixed  above  shall  be  the  seal  that  has  been  reported  to  and  registered  with  the
 Exchange.
@@ -8522,10 +8522,10 @@ Notification of Correction of Transaction Errors
 In  accordance  with  Article  2  of  the  Agreement  for  Correction  of  Transaction  Errors,  we
 hereby notify the results of trading the issues that we assumed.
 
+mm/dd/yyyy
+
 Head of unit in charge of processing concerned products (seal)
 xxx Securities Company
-
-mm/dd/yyyy
 
 Details of the assumed transaction errors
 
@@ -8533,15 +8533,23 @@ Quantity
 
 Price
 
+Results of trading
+Quantity
+
+Price
+
+Name
+of issue
+
 Date
 assumed
+
+Date
+traded
 
 Name
 of
 issue
-
-Name
-of issue
 
 Type
 of
@@ -8549,14 +8557,6 @@ trade
 (sell
 or
 buy)
-
-Results of trading
-Quantity
-
-Price
-
-Date
-traded
 
 Type
 of
@@ -8578,25 +8578,23 @@ transaction errors as follows:
 
 mm/dd/yyyy
 
-Details  of  the
-assumed
-transaction
-errors
+Representative (seal)
+xxx Securities Company
 
-Results of
+Sell
 
-the
+Buy
 
-trading
-assumed
-transaction
-errors
+Date traded
 
 Name of issue
 Traded
 amount
 
-Date traded
+Details  of  the
+assumed
+transaction
+errors
 
 Quantity
 Price
@@ -8610,12 +8608,21 @@ Transaction tax
 Subtotal (B)
 Date traded
 
+Results of
+
+Traded
+amount
+
+the
+
 Quantity
 Price
 Amount (C)
 
-Traded
-amount
+trading
+assumed
+transaction
+errors
 
 Expenses    Transfer settlement
 
@@ -8625,13 +8632,6 @@ Transaction tax
 Subtotal (D)
 
 Amount to be settled (E)
-
-Representative (seal)
-xxx Securities Company
-
-Sell
-
-Buy
 
 204
 
@@ -8656,25 +8656,16 @@ Sell
 
 Buy
 
-Details  of  the
-assumed
-transaction
-errors
-
-Results of
-
-the
-
-trading
-assumed
-transaction
-errors
+Date traded
 
 Name of issue
 Traded
 amount
 
-Date traded
+Details  of  the
+assumed
+transaction
+errors
 
 Quantity
 Price
@@ -8688,12 +8679,21 @@ Transaction tax
 Subtotal (B)
 Date traded
 
+Results of
+
+Traded
+amount
+
+the
+
 Quantity
 Price
 Amount (C)
 
-Traded
-amount
+trading
+assumed
+transaction
+errors
 
 Expenses    Transfer settlement
 
@@ -8726,9 +8726,9 @@ Representative xxx(seal)
 
 - Transaction details:
 
-Name of Issue  Quantity  Date to place quotation  Remarks
-
 (Unit: shares)
+
+Name of Issue  Quantity  Date to place quotation  Remarks
 
 206
 
@@ -8761,13 +8761,13 @@ In  accordance  with  [§52-2]  of  the  Enforcement  Rules  of  KOSDAQ  Market 
 Regulation, we hereby report the opening, changing or closing of market making accounts in
 respect of the following account.
 
-Open  □    Change  □    Close  □
-
 Date: mm/dd/yyyy
 Name of company:
 Name and/or seal of the representative:
 
 Cause of report
+
+Open  □    Change  □    Close  □
 
 Account number
 
@@ -8780,13 +8780,13 @@ customer account / self-account
 
 Order process ID
 
-Staff in charge
-
 Name
 
 Department
 
 Position
+
+Staff in charge
 
 Phone number
 
@@ -8832,20 +8832,9 @@ Corporation/Individual
 
 Corporate information
 
-Individual information
+Member  □      General  □
 
-Type of investors
-(Investor classification
-code)
-Whether the investor is
-a foreigner or not
-Foreign investor
-registration number
-Nationality
-Outline of business
-(up to 500 characters)
-Market for trading
-Applying member
+Individual information
 
 Corporation            □                Individual            □
 Trade name
@@ -8860,11 +8849,22 @@ Individual or group**
 
 Individual  □    Group  □
 
-Member  □      General  □
-
 Foreigner    □                            Non-foreigner    □
 
 KOSPI  □  KOSDAQ  □  Derivative market  □  KONEX  □
+
+Type of investors
+(Investor classification
+code)
+Whether the investor is
+a foreigner or not
+Foreign investor
+registration number
+Nationality
+Outline of business
+(up to 500 characters)
+Market for trading
+Applying member
 
 * In the case of a foreign corporation, enter the number of the corporate (business) registration
 certificate (COI) of the foreign country of incorporation.
@@ -8880,11 +8880,11 @@ speed Algorithmic Trader
 Confirmation on Inspection of Registration Information of
 High-speed Algorithmic Trader
 
+<Registration Information>
+
 Corporation
 
 Individual
-
-<Registration Information>
 
 Trade name
 Corporate registration
@@ -8924,6 +8924,18 @@ Registration requirements
 Whether requirements are
 met or not
 
+Satisfied/
+not satisfied
+
+Satisfied/
+not satisfied
+
+Satisfied/
+not satisfied
+
+Applicable/
+not applicable
+
 - The electronic system, such as ordering system, etc., used by
 the customer shall have the stability and adequacy suitable for
 conducting high-speed algorithmic trading*
@@ -8938,18 +8950,6 @@ member judges that the customer can recognize, evaluate,
 monitor, and control all risks that may arise from high-speed
 algorithmic trading in a timely manner, or the member directly
 carries out the risk management.
-
-Satisfied/
-not satisfied
-
-Satisfied/
-not satisfied
-
-Satisfied/
-not satisfied
-
-Applicable/
-not applicable
 
 * Attached is the result of the electronic system inspection (including approval of the head of
 the department  in  charge) pursuant  to  [§52-7(1)1] of the Enforcement Rules of KOSDAQ

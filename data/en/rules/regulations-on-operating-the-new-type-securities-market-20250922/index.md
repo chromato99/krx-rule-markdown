@@ -4,8 +4,8 @@ id: "210124215-en"
 title: "Regulations on Operating the New Type Securities Market 20250922"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T08:00:27.214905Z"
-content_hash: "f79d328ad7b35dab88a433a1513cf29d241ce60a58e6864336b8880ea9ff6ec0"
-body_hash: "fd769392901c05b28d194019415e7ecd0987c5e18e8e4c0869cb392022cf9cf2"
+content_hash: "ef170475d2e4cdc8aeee01b23b95bc0b45a7e8bb9d9eeec4b458bc4be4299d00"
+body_hash: "0d0e162a4f8723c4ab86074203b8416dde6c6980e6000a9c1adeaf79223e6f58"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/regulations-on-operating-the-new-type-securities-market-2025
 text_path: "en/rules/regulations-on-operating-the-new-type-securities-market-20250922/attachments/english-full-text.md"
 file_content_hash: "070464020cf2622c82faf8ba441e89918498d09d89dcc252152012f946a81737"
 raw_file_hash: "070464020cf2622c82faf8ba441e89918498d09d89dcc252152012f946a81737"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -1000,9 +1000,9 @@ matters shall be prescribed by the Enforcement Rules.
 Matters necessary for implementing these Regulations shall be prescribed by the Enforcement
 Rules.
 
-(Regulation No. 2358 / September 22, 2025)
-
 ADDENDA
+
+(Regulation No. 2358 / September 22, 2025)
 
 §1. Effective Date
 

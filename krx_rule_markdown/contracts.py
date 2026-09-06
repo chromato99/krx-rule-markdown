@@ -16,6 +16,13 @@ MAX_SOURCE_BYTES = 64 * 1024 * 1024
 MAX_CONVERTED_TEXT_BYTES = 64 * 1024 * 1024
 MAX_METADATA_FILE_BYTES = 64 * 1024 * 1024
 
+
+def converter_version_for_source(path: str | Path) -> str:
+    """Invalidate only PDF conversion caches when the reading-order algorithm changes."""
+    if Path(path).suffix.lower() == ".pdf":
+        return f"{CONVERTER_VERSION}+pdf-coordinate-order"
+    return CONVERTER_VERSION
+
 CONVERSION_STATUSES = frozenset({"pending", "converted", "failed"})
 PRESERVATION_STATUSES = frozenset({"preserved", "missing", "failed"})
 QUALITY_STATUSES = frozenset({"ok", "warn", "fail"})
@@ -25,15 +32,14 @@ REFRESH_OPERATIONAL_FIELDS = frozenset(
         "last_refresh_failed_at",
     }
 )
-LEGACY_RELEASE_OPERATIONAL_FIELDS = frozenset(
+RELEASE_OPERATIONAL_FIELDS = frozenset(
     {
         "release_hash",
         "generated_at",
         "last_checked_at",
         "source_response_hash",
     }
-)
-RELEASE_OPERATIONAL_FIELDS = LEGACY_RELEASE_OPERATIONAL_FIELDS | REFRESH_OPERATIONAL_FIELDS
+) | REFRESH_OPERATIONAL_FIELDS
 
 VALIDATOR_ERROR_CODES = frozenset(
     {
@@ -64,7 +70,7 @@ QUALITY_WARNING_CODES = frozenset(
         "formula_generated_latex_invalid",
         "source_inspection_failed",
         "stale_due_to_refresh_failure",
-        # Legacy converter findings retained during the v1 -> v2 transition.
+        # Findings emitted by the current text and conversion inspections.
         "empty_text",
         "very_short_text",
         "replacement_characters",
@@ -273,17 +279,6 @@ def index_source_payload(documents: Iterable[Any]) -> dict[str, Any]:
 
 def release_hash(manifest: dict[str, Any]) -> str:
     return canonical_json_hash(scrub_operational_fields(manifest))
-
-
-def legacy_v2_release_hash(manifest: dict[str, Any]) -> str:
-    """Return the schema-v2 hash used before refresh details became runtime-only."""
-
-    return canonical_json_hash(
-        scrub_operational_fields(
-            manifest,
-            excluded_fields=LEGACY_RELEASE_OPERATIONAL_FIELDS,
-        )
-    )
 
 
 def scrub_operational_fields(

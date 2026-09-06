@@ -3,7 +3,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from pathlib import Path
 
-from .convert import convert_attachment
+from .converters.core import convert_attachment
 from .converters.pdf_comparison import KNOWN_COMPARISON_PDFS, classify_comparison_pdf
 from .markdown import load_documents, write_document
 from .models import ATTACHMENT_CONVERTED, now_utc

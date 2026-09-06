@@ -63,12 +63,16 @@ krx-rule-markdown validate --data-dir /tmp/krx-rule-smoke --quality
 
 이미 받은 raw 첨부를 새 변환 로직으로 다시 Markdown화하려면 `reconvert`를 사용합니다. HWP/HWPX 표·수식 변환 로직을 개선한 뒤 기존 corpus에 반영할 때 유용합니다.
 
+PDF는 좌표 읽기 순서를 사용해 가운데 정렬된 장 제목이 조문 제목 뒤로 이동하지 않게 합니다. PDF 변환 캐시는 `2+pdf-coordinate-order` 식별자를 사용하므로 일반 `reconvert`로 이전 PDF를 갱신할 수 있으며, HWP 변환 캐시는 유지합니다. 원본의 장→조문→본문 순서를 회귀 검사하고, 신·구조문대비표는 기존 좌표 grid 복원을 사용합니다. 재변환 환경에는 `[convert]`의 PDF와 HWP 의존성을 모두 설치해야 전체 release 품질 검사를 통과할 수 있습니다.
+
 ```bash
 krx-rule-markdown reconvert --data-dir data
 krx-rule-markdown reconvert --data-dir data --document-id 210217137
 ```
 
 `sync`, 실제 변경을 수행하는 `reconvert`·`clean`, `quality --update-metadata`는 활성 corpus를 직접 고치지 않습니다. 같은 파일시스템의 sibling staging generation을 만든 뒤 release 검증을 통과한 경우에만 Linux `renameat2(RENAME_EXCHANGE)`로 전체 디렉터리를 교체합니다. 동시에 두 writer를 실행하면 두 번째 작업은 즉시 실패합니다. `sync` 중 일부 refresh가 실패하면 기존 정상 raw/text를 유지하고 실행 리포트와 deterministic `stale_due_to_refresh_failure` 진단을 남길 수 있습니다. `reconvert` 중 새 실패가 발생하면 staging generation 전체를 폐기하므로 active release에는 새 stale 진단이 기록되지 않고, 상세 실패 정보만 release 밖 실행 리포트에 남습니다.
+
+`reconvert`의 `blocking_failed`는 required/stale/inspection/quality 실패의 합계이며 allowlist 항목은 제외합니다.
 
 `--dry-run`은 corpus, manifest, 품질 리포트와 실행 리포트를 변경하지 않습니다. 정기 release에서는 `validate --release --quality`를 사용하고, 원본은 보존되었지만 의도적으로 검색에서 제외할 실패 항목만 검토된 ID를 `--allow-failure-id`로 명시하세요.
 

@@ -4,8 +4,8 @@ id: "210136803-en"
 title: "Enforcement Rules of Reg. on Operating the New Type Sec. Market 20251023"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T08:00:01.092457Z"
-content_hash: "162b035a584c41cfc5217c9023ee052ffd73c08f0d3e994d3dc7f465516927a2"
-body_hash: "b58f08a1de25b69e10a10ca69f2816388e2442f0bf3603be2718f43a847b8ef3"
+content_hash: "ea3a5f1c33b982062a314e9050bc079653cbb24f8398e0336d5c4c560d2eb251"
+body_hash: "b15fd3a1572c6480a8e70208253ed91da75d5fce64d97298b43e076c9c6da4f2"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-reg-on-operating-the-new-type-sec-marke
 text_path: "en/rules/enforcement-rules-of-reg-on-operating-the-new-type-sec-market-20251023/attachments/english-full-text.md"
 file_content_hash: "9badc6a393c27eecb48a5889e2b955f290ba2d0ce2510ac776e92cd38f11d2b3"
 raw_file_hash: "9badc6a393c27eecb48a5889e2b955f290ba2d0ce2510ac776e92cd38f11d2b3"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -1112,49 +1112,34 @@ period if deemed necessary.
 Timing of Designation as and Removal from Administrative Issues
 (Pertaining  to  [§14] of the Enforcement Rules)
 
-Designation as administrative issue
-(AI)
-
 Removal from administrative issue (AI)
 
-Reasons for
-designation
-
-1. Failure to
-submit annual
-reports
-([§14(1)1(a)] of
-
-2. Inadequate
-audit opinion
-([§14(1)1(b)] of
-
-3. Capital
-impairment
-([§14(1)1(c)] of
-4. Merger, etc.
-([§14(1)1(d)] of
-
-5. Failure to
-appoint designated
-advisor
-([§14(1)2(a)] of
-6. Failure to meet
-the requirements
-of bankruptcy
-remoteness
-([§14(1)2(b)] of
-
-7. Inadequate
-number of listed
-securities
-([§14(1)2(c)] of
+Designation as administrative issue
+(AI)
 
 Time of designation
 
 Reasons for removal
 
 Time of removal
+
+Reasons for
+designation
+
+On the day following
+the date of submitting
+the annual reports
+
+1. Failure to
+submit annual
+reports
+([§14(1)1(a)] of
+
+On the day following
+the deadline for
+submitting annual
+reports or semi-annual
+reports
 
 When it was confirmed that the reason for
 designation as AI was resolved as the annual
@@ -1175,9 +1160,19 @@ On the day following
 the date of submitting
 the annual reports
 
+2. Inadequate
+audit opinion
+([§14(1)1(b)] of
+
 On the day following
 the date of submitting
 the annual reports
+
+3. Capital
+impairment
+([§14(1)1(c)] of
+4. Merger, etc.
+([§14(1)1(d)] of
 
 When equity capital exceeds 50% of capital
 stock on audit report. In such cases, it shall
@@ -1189,10 +1184,6 @@ ineligibility for listing under ([§15(1)1] of the
 Regulation do not apply.
 
 On the day following
-the date of submitting
-the annual reports
-
-On the day following
 the date when the
 reason for removal was
 confirmed
@@ -1200,21 +1191,31 @@ confirmed
 When it was confirmed that a new designated
 advisor was appointed.
 
+On the day following
+the date when the
+reason for removal was
+confirmed
+
+On the day following
+the date when the
+reason for removal was
+confirmed
+
 When it was confirmed that the reason for not
 being able to perform the bankruptcy
 remoteness-related matters stated in the
 securities registration statement, etc. has been
 resolved.
 
-On the day following
-the date when the
-reason for removal was
-confirmed
-
-On the day following
-the date when the
-reason for removal was
-confirmed
+5. Failure to
+appoint designated
+advisor
+([§14(1)2(a)] of
+6. Failure to meet
+the requirements
+of bankruptcy
+remoteness
+([§14(1)2(b)] of
 
 When it was confirmed that the total number of
 listed securities is 100,000 securities or 100,000
@@ -1225,11 +1226,10 @@ the date when the
 reason for removal was
 confirmed
 
-On the day following
-the deadline for
-submitting annual
-reports or semi-annual
-reports
+7. Inadequate
+number of listed
+securities
+([§14(1)2(c)] of
 
 On the day following
 the deadline for
@@ -1269,35 +1269,38 @@ securities is less than
 100,000 shares or
 100,000 units
 
-Designation as administrative issue
-(AI)
-
 Removal from administrative issue (AI)
 
-Reasons for
-designation
-
-8. Early
-liquidation, etc.
-([§14(1)2(d)] of
-
-9. Violation of
-reporting
-obligation
-([§14(1)3] of the
-Regulation)
-
-10. Public interest
-and investor
-protection
-([§14(1)4] of the
-Regulation)
+Designation as administrative issue
+(AI)
 
 Time of designation
 
 Reasons for removal
 
 Time of release
+
+Reasons for
+designation
+
+When a listed company makes a report on the
+decision not to proceed with delisting
+procedures such as early liquidation.
+
+8. Early
+liquidation, etc.
+([§14(1)2(d)] of
+
+On the day following
+the date when the
+reason for removal was
+reported
+
+9. Violation of
+reporting
+obligation
+([§14(1)3] of the
+Regulation)
 
 On the day following
 the date of reporting
@@ -1311,15 +1314,6 @@ compliance with the
 improvement request
 of the Exchange
 
-On the day following
-the date of
-confirmation of the
-relevant fact
-
-When a listed company makes a report on the
-decision not to proceed with delisting
-procedures such as early liquidation.
-
 When it was confirmed that the reason for
 designation as an AI has been resolved, or
 when one (1) year has passed since the date of
@@ -1331,9 +1325,9 @@ When it was confirmed that the reason for
 designation as an AI has been resolved.
 
 On the day following
-the date when the
-reason for removal was
-reported
+the date of
+confirmation of the
+relevant fact
 
 On the day following
 the date when the
@@ -1347,6 +1341,12 @@ the date when the
 reason for removal was
 confirmed
 
+10. Public interest
+and investor
+protection
+([§14(1)4] of the
+Regulation)
+
 Note. In cases of items 2 and 3, if there is a correction report for the regular audit report, the date of
 the correction report is considered the date of submission of the regular audit report.
 
@@ -1359,6 +1359,8 @@ Listing Fees and Annual Dues
 
 Listing review
 Initial listing
+
+Fee rates
 
 Listing fees
 KRW 2,000,000 per issue
@@ -1386,7 +1388,7 @@ KRW 700,000
 KRW 800,000
 KRW 900,000
 
-Fee rates
+KRW 100,000 per case
 
 Supplementary listing,
 Listing change
@@ -1394,14 +1396,12 @@ Note. If an applicant for listing change submits multiple applications for listi
 date, all applications are considered a single application and listing fee for a single application shall be
 charged.
 
-KRW 100,000 per case
-
 2. Annual Dues
+
+Annual dues
 
 The amount calculated based on the listed issues as of the end of the previous year in
 accordance with the following fee rates:
-
-Annual dues
 
 Fee rates
 
@@ -1661,14 +1661,14 @@ additional issuance
 Named or anonymous
 Remarks
 
+O / X  Date of filing of lawsuit
+
 Whether any lawsuits have been
 filed regarding the validity of the
 securities issuance
 Note.
 1. In the "Issue name" field, enter the name of the security being listed and its ISIN code.
 2.  In  the  "Type  of  securities"  field,  enter  "investment  contract  securities"  or  "non-monetary  trust
-
-O / X  Date of filing of lawsuit
 
 beneficiary certificates."
 
@@ -1746,11 +1746,11 @@ Type Securities Market and Appendix 5.
 
 1. Outline of Securities Issued
 
-□ Non-monetary trust beneficiary certificates
-□ Investment contract securities
-
 Issue name (issue code)
 Type of securities
+
+□ Non-monetary trust beneficiary certificates
+□ Investment contract securities
 
 Listing applicant
 Trust/custodian institution
@@ -1760,16 +1760,16 @@ Scheduled date of listing
 
 2. Status of Securities Distribution
 
-Number of
-beneficiaries /
-investors
+Ratio
 
 Ratio
 
 Number of
 securities
 
-Ratio
+Number of
+beneficiaries /
+investors
 
 Listing applicant
 Officers of listing applicant

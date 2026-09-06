@@ -16,9 +16,9 @@ VALIDATION,
 
 QUALITY  MANAGEMENT
 
-CHAPTER
-
 AND
+
+CHAPTER
 
 iii
 
@@ -887,14 +887,14 @@ emergency situation and measures and etc. in writing.
 
 §49. Cooperation with Foreign TRs etc. and Risk Management
 
+institutional  compatibility  with
+
 The  KRX-TR  may  cooperate  with  financial  market  infrastructure  institutions  such  as
 foreign  trade  repositories  for  exchange  of  trade  information  and  etc.  In  such  a  case,  the
 KRX-TR  shall  pursue
 the  said  financial  market
 infrastructure  institution  that  the  KRX-TR  is  linked  with,  and  review  and  manage  any
 additional operational risks incurred by such linking.
-
-institutional  compatibility  with
 
 21
 

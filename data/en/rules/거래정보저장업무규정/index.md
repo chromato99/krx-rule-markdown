@@ -4,8 +4,8 @@ id: "204847960-en"
 title: "거래정보저장업무규정"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T08:04:11.068138Z"
-content_hash: "d3858e08530802bc357715137b7c941caee32cb12766a4f83cbb081ae3363287"
-body_hash: "8fa8f8dba7fbca9ea8b21b4647338e7e27a2d1c5a8b4842f126c07d9071c0e84"
+content_hash: "bf7adb23251ede94909ccc6240ea74acc260629f7422b9828820b32c04ae4fa1"
+body_hash: "a8d58212bbc5193275e3d5db6eb11df85cc8518c99337281d4bd3ba722748e53"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/거래정보저장업무규정/raw/english-full-text.pdf"
 text_path: "en/rules/거래정보저장업무규정/attachments/english-full-text.md"
 file_content_hash: "293a60bf9ad5666941c940db35a0dc7e0e39176a15fc67ded5214732aad0c8ff"
 raw_file_hash: "293a60bf9ad5666941c940db35a0dc7e0e39176a15fc67ded5214732aad0c8ff"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -42,9 +42,9 @@ VALIDATION,
 
 QUALITY  MANAGEMENT
 
-CHAPTER
-
 AND
+
+CHAPTER
 
 iii
 
@@ -913,14 +913,14 @@ emergency situation and measures and etc. in writing.
 
 §49. Cooperation with Foreign TRs etc. and Risk Management
 
+institutional  compatibility  with
+
 The  KRX-TR  may  cooperate  with  financial  market  infrastructure  institutions  such  as
 foreign  trade  repositories  for  exchange  of  trade  information  and  etc.  In  such  a  case,  the
 KRX-TR  shall  pursue
 the  said  financial  market
 infrastructure  institution  that  the  KRX-TR  is  linked  with,  and  review  and  manage  any
 additional operational risks incurred by such linking.
-
-institutional  compatibility  with
 
 21
 

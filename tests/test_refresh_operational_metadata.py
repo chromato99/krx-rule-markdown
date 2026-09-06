@@ -82,7 +82,7 @@ class RefreshOperationalMetadataTests(unittest.TestCase):
 
         self.assertEqual(release_hash(first), release_hash(second))
 
-    def test_validate_accepts_legacy_v2_release_hash_with_refresh_fields(self) -> None:
+    def test_validate_rejects_legacy_v2_release_hash_with_refresh_fields(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp) / "data"
             document = make_converted_document(root)
@@ -100,7 +100,7 @@ class RefreshOperationalMetadataTests(unittest.TestCase):
 
             errors = validate_data(root, release_mode=True)
 
-        self.assertEqual(errors, [])
+        self.assertTrue(any("release_hash mismatch" in error for error in errors), errors)
 
     def test_manifest_rewrite_does_not_preserve_refresh_fields_on_hash_noop(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

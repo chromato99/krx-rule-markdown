@@ -32,14 +32,14 @@ attachments:
     text_path: "ko/notices/유가증권시장-상장규정-시행세칙-개정-예고-210231020/attachments/유가증권시장-상장규정-시행세칙-개정에-관한-예고-pdf.md"
     content_hash: "bcdaf31c15f905239263464b3bb7abd2cc40c19d71f2600ee4a88a69a2aee4b5"
     raw_file_hash: "bcdaf31c15f905239263464b3bb7abd2cc40c19d71f2600ee4a88a69a2aee4b5"
-    converted_text_hash: "0e2b2126f5e75f2f10b602839c6ca42eb08f4679cc6d96dfef9305850b45fdbd"
-    converter_version: "2"
+    converted_text_hash: "343a6a5d9adf58d50fdf592215164eac5807d10c2db437ea2538d61688b066eb"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 160947
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 910
+    converted_text_chars: 909
     converted_non_space_chars: 680
   - id: "210231020-210231026-pdf"
     title: "유가증권시장 상장규정 시행세칙 일부개정세칙안_중복상장_예고.pdf"
@@ -54,8 +54,8 @@ attachments:
     text_path: "ko/notices/유가증권시장-상장규정-시행세칙-개정-예고-210231020/attachments/유가증권시장-상장규정-시행세칙-일부개정세칙안-중복상장-예고-pdf.md"
     content_hash: "89063e130b3863bf7e7ca8be152756a542c54f547bf588b35526b7d1805a456a"
     raw_file_hash: "89063e130b3863bf7e7ca8be152756a542c54f547bf588b35526b7d1805a456a"
-    converted_text_hash: "8ab02580a3c69e9b352966ab5b3ff892a35f8f9264b86f77935a4cc615b85d18"
-    converter_version: "2"
+    converted_text_hash: "951c6472b4b6466d7679a51a8662817cfbeef22d8772f4bb5459d6d195505cf7"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 448428
@@ -64,7 +64,7 @@ attachments:
     quality_flags: "pdf_comparison_structure_lost"
     quality_codes: ["pdf_comparison_structure_lost"]
     diagnostics: [{"code":"pdf_comparison_structure_lost","message":"amendment comparison columns were extracted without a structured table","severity":"warn"}]
-    converted_text_chars: 13261
+    converted_text_chars: 13260
     converted_non_space_chars: 9399
     table_row_count: 9
 ---

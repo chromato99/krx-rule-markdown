@@ -4,8 +4,8 @@ id: "210204739-en"
 title: "Enforcement Rules of Membership Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:57:46.572975Z"
-content_hash: "24165385ae552b36b4f0d88e8bbb98ef98c252ca455fff4ed476e2eb49e7d199"
-body_hash: "a8a9c08af206ba8d33d8f56f288680e00e2b46d62fd5b1da2b1b92d4e38567f7"
+content_hash: "1a872a2d45abe5b4fa1d0888f92db720402e152a70592288d174eec9774cdbfb"
+body_hash: "c80ec9ec849cdcb2c055efc51c9d70e2391aeb3304880ccc344ed1d1b1523ea4"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-membership-regulation/raw/english-full-
 text_path: "en/rules/enforcement-rules-of-membership-regulation/attachments/english-full-text.md"
 file_content_hash: "2f26332161311ac4e1736be4bef577dce57b8895c44f83950c6e442873150518"
 raw_file_hash: "2f26332161311ac4e1736be4bef577dce57b8895c44f83950c6e442873150518"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -520,13 +520,7 @@ contributions to the basic joint compensation funds.
 
 §12. Reporting of Financial Conditions
 
-(1)  Pursuant  to  [§30(1)]  of  the  Regulation,  members  (excluding  the  concurrently-run
-financial  investment  business  entities)  shall  submit  the  documents  concerning  the
-financial  conditions  according  to  the  categories  noted  in  each  of  the  following
-subparagraphs
-the  relevant
-subparagraphs:  (Amended  on  February  2,  2009;  June  9,  2010;  September  12,  2016;
-August 3, 2020)
+to
 
 the  Exchange  within
 
@@ -534,7 +528,13 @@ the  period  specified
 
 in
 
-to
+(1)  Pursuant  to  [§30(1)]  of  the  Regulation,  members  (excluding  the  concurrently-run
+financial  investment  business  entities)  shall  submit  the  documents  concerning  the
+financial  conditions  according  to  the  categories  noted  in  each  of  the  following
+subparagraphs
+the  relevant
+subparagraphs:  (Amended  on  February  2,  2009;  June  9,  2010;  September  12,  2016;
+August 3, 2020)
 
 1.  Documents  on  the  closing  account  pursuant  to  [§3-67]  of  the  Regulations  on
 Financial  Investment  Business:  Within  three  (3) months  of  the  end  of  the  relevant
@@ -614,12 +614,12 @@ relevant official objection.
 
 [February 1, 2012]
 
-§15.  Scope  of  Trading  of  Debt  Securities  by
-(Amended on February 2, 2009)
-
 the  Government,
 
 etc.
+
+§15.  Scope  of  Trading  of  Debt  Securities  by
+(Amended on February 2, 2009)
 
 Pursuant to [§41(2)] of the Regulation, the scope of debt securities trading in which the
 Government, etc. may participate shall be as follows: (Amended on February 2, 2009;
@@ -838,10 +838,10 @@ etc.
 
 (b) The criteria for disciplinary measures against members are as follows:
 
+Criteria for Measures
+
 Disciplinary
 Measures
-
-Criteria for Measures
 
 Suspension of
 whole or part of

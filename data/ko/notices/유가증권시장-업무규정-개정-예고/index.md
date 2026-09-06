@@ -32,14 +32,14 @@ attachments:
     text_path: "ko/notices/유가증권시장-업무규정-개정-예고/attachments/붙임1-유가증권시장-업무규정-제개정에-관한-예고-pdf.md"
     content_hash: "74cc8906526656342bf911c5025e4f098c86a55ad7a717cab35bb32915915ebd"
     raw_file_hash: "74cc8906526656342bf911c5025e4f098c86a55ad7a717cab35bb32915915ebd"
-    converted_text_hash: "f041c8be805d590bde556fcbbcb1a6504427098c04dd4b8c5ad3247f08b752cb"
-    converter_version: "2"
+    converted_text_hash: "a12b06a2593caf97f40f8169758f483ea6f82ee2c2d24cd87d4154fae96dfa49"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 185462
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1147
+    converted_text_chars: 1146
     converted_non_space_chars: 871
   - id: "210224393-210224395-pdf"
     title: "(붙임2) 유가증권시장 업무규정 일부개정규정안.pdf"
@@ -55,13 +55,13 @@ attachments:
     content_hash: "a5052434b5f8f5c0c1359c20b435d1874f0501f4a49eaee1617d669dc00a4eeb"
     raw_file_hash: "a5052434b5f8f5c0c1359c20b435d1874f0501f4a49eaee1617d669dc00a4eeb"
     converted_text_hash: "f04222d4feb86573d540dd999788578196f480b9e9c8e5a99a347839fc6f81c0"
-    converter_version: "2"
+    converter_version: "2+pdf-coordinate-order"
     preservation_status: "preserved"
     searchable: true
     size: 307714
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 24332
+    converted_text_chars: 24331
     converted_non_space_chars: 20995
     table_row_count: 319
     formula_hint_count: 2

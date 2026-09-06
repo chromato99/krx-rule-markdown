@@ -4,8 +4,8 @@ id: "210229371-en"
 title: "Enforcement Rules of KOSDAQ Market Disclosure Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:46:00.739035Z"
-content_hash: "457a293120415604fae7f2e764132bb5f1beab4c951a2765203f9e8e3bb392b8"
-body_hash: "48217085cd41b2906f0613c18c1f47787aebabdda2900a3273bef4ffff45b13b"
+content_hash: "ddc7e27b0d2c33ce0badfa0869a398555af2fb14be37934c8f5910548945b2c4"
+body_hash: "418a6c33a076bc66f92f5b099b7a9df42e98c46e97c81b130dabf2ce59ce62ad"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-kosdaq-market-disclosure-regulation/raw
 text_path: "en/rules/enforcement-rules-of-kosdaq-market-disclosure-regulation/attachments/english-full-text.md"
 file_content_hash: "0a3be4708eff4b285d5686d70afef6ad0d6c58baa7c23369160eca97c12056fc"
 raw_file_hash: "0a3be4708eff4b285d5686d70afef6ad0d6c58baa7c23369160eca97c12056fc"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -1831,9 +1831,9 @@ Provisions of [§21-2 through §21-13] shall be deleted.
 
 ADDENDUM
 
-These Enforcement Rules shall become effective on May 4, 2015.
-
 (April 30, 2015)
+
+These Enforcement Rules shall become effective on May 4, 2015.
 
 ADDENDA
 (August 31, 2015)
@@ -2235,29 +2235,17 @@ basis of the motivation and seriousness (impacts on investors) of noncompliance.
 
 Motivation
 
+Intentional
+
 Seriousness
 
 Serious violation
 
-Ordinary violation
-
-Insignificant violation
-
-Intentional
-
 10 points
-
-8 points
-
-6 points
 
 Gross
 negligence
 8 points
-
-6 points
-
-4 points
 
 Ordinary
 negligence
@@ -2267,9 +2255,21 @@ Insignificant
 error
 4 points
 
+Ordinary violation
+
+8 points
+
+6 points
+
 4 points
 
 2 points
+
+Insignificant violation
+
+6 points
+
+4 points
 
 2 points
 
@@ -2544,10 +2544,10 @@ the reasons (optional)
 
 5. Supporting Documents: Attached
 
-Name & signature/seal of the representative director:
-
 Date: mm/dd/yyyy
 Name of company:
+
+Name & signature/seal of the representative director:
 
 [Disclosure Form No. 2] Improvement Plan for Prevention of Unfaithful Disclosure
 
@@ -2666,14 +2666,14 @@ disclosure agent does not fall under [§44-2(1)] of the KOSDAQ Market Disclosure
 
 Category
 
-Department
-affiliated
-
 Position title
 
 Name
 
 Telephone No.
+
+Department
+affiliated
 
 Disclosure
 officer
@@ -2724,17 +2724,17 @@ Yes/No
 
 Full-time registered director
 
-Or
-
-And
-
 A person who participates in meetings that are held to make important
+
+Or
 
 decisions such as the board of directors while working full-time at the
 corporation as an executive director under the Commercial Act*
 
 A person who has not been reported publicly on charges of embezzlement or
 breach of duty within the past three (3) years
+
+And
 
 A person who has not been sentenced to a fine or heavier punishment for
 
@@ -2802,6 +2802,10 @@ electronic disclosure system, although this Company does not submit disclosure s
 
 3. Changes in the listed subsidiary
 
+Listed
+
+Unlisted
+
 (New)
 
 (Change)
@@ -2811,10 +2815,6 @@ Name of the subsidiary of which disclosure is
 to be applied for linked disclosure
 Name of the subsidiary of which disclosure is
 to be excluded from the linked disclosure
-
-Listed
-
-Unlisted
 
 * In the case of a listed subsidiary of which disclosure is applied for the linked disclosure, the
 ratio of the value of subsidiary’ stocks held by the holding company to the total assets of the

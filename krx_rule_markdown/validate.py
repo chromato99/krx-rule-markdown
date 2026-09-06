@@ -18,10 +18,8 @@ from .contracts import (
     REFRESH_OPERATIONAL_FIELDS,
     canonical_json_hash,
     canonical_text_hash,
-    contains_refresh_operational_fields,
     effective_searchable,
     index_source_hash,
-    legacy_v2_release_hash,
     parse_quality_codes,
     release_hash,
     read_utf8_file_bounded,
@@ -893,12 +891,7 @@ def validate_manifest_document_paths(
     elif declared_release_hash:
         errors.extend(validate_hash(str(manifest), "release_hash", declared_release_hash))
         current_release_hash = release_hash(payload)
-        legacy_v2_match = (
-            manifest_schema_version == CORPUS_SCHEMA_VERSION
-            and contains_refresh_operational_fields(payload)
-            and declared_release_hash == legacy_v2_release_hash(payload)
-        )
-        if declared_release_hash != current_release_hash and not legacy_v2_match:
+        if declared_release_hash != current_release_hash:
             errors.append(f"{manifest}: release_hash mismatch")
     return errors
 

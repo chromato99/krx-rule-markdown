@@ -477,31 +477,31 @@ October 15, 2012)
 
 Application for Dispute Mediation
 
+(Front)
+
 Application for Dispute Mediation
 
-Date of birth
-(Business
-Registration
-No.)
-
 Name (Company
 Name)
-
-Address and
-Contact address
-Name (Company
-Name)
-Address and
-Contact address
-
-(Front)
 
 Petitioner
 (Possible to
 fill out by the
 Agent)
 
+Date of birth
+(Business
+Registration
+No.)
+
 Respondent
+
+Address and
+Contact address
+Name (Company
+Name)
+Address and
+Contact address
 
 Intention of
 and reasons
@@ -536,31 +536,31 @@ Reference Materials:
 
 Record of Mediation Request
 
+(Front)
+
 Record of Mediation Request
 
-Date of birth
-(Business
-Registration
-No.)
-
 Name (Company
 Name)
-
-Address and
-Contact address
-Name (Company
-Name)
-Address and
-Contact address
-
-(Front)
 
 Petitioner
 (Possible to
 fill out by the
 Agent)
 
+Date of birth
+(Business
+Registration
+No.)
+
 Respondent
+
+Address and
+Contact address
+Name (Company
+Name)
+Address and
+Contact address
 
 Intention of
 and reasons
@@ -595,14 +595,14 @@ Reference Materials:
 
 Letter of Attorney
 
+(Date of birth:                              )
+
 Appointee:
 Address
 Contact address
 Name
 Institutional affliction:
 Position title:
-
-(Date of birth:                              )
 
 In  accordance  with  [§4]  of  the  Dispute  Mediation  Regulation,  I  hereby  appoint  the
 above named person as my agent and delegate the authorities over the following matters
@@ -638,28 +638,28 @@ Date of birth
 (Business
 registration No.)
 
-Name
-(Company
-Name)
-Address and
-Contact address
-
-Name
-(Company
-Name)
-Address and
-Contact address
-
-(Case No. xx)
-
 Petitioner
 (Possible to
 fill out by the
 Agent)
 
+Name
+(Company
+Name)
+Address and
+Contact address
+
 Petitioner
 
+Name
+(Company
+Name)
+Address and
+Contact address
+
 Title of case
+
+(Case No. xx)
 
 Reason for
 withdrawal
@@ -681,12 +681,12 @@ Request for Exclusion / Challenge
 
  Request for Exclusion /  Challenge
 
+Title of case
+Applicant
+
 Case No.
 Commission
 member concerned
-
-Title of case
-Applicant
 
 Reasons for request
 

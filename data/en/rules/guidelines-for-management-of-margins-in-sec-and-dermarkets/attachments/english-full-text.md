@@ -596,25 +596,25 @@ Average Price Volatility
 
 Average price volatility  (𝜎𝑎𝑣𝑔,𝑡) =   √∑
 
+{(𝑟𝑖 − 𝑟̅)2/(𝑁 − 3)}
+
 𝑡−1
 𝑖=𝑡−𝑁+2
-
-{(𝑟𝑖 − 𝑟̅)2/(𝑁 − 3)}
 
 𝑟̅ =  ∑
 
+{𝑟𝑖/(𝑁 − 2)}
+
 𝑡−1
 𝑖=𝑡−𝑁+2
-
-{𝑟𝑖/(𝑁 − 2)}
 
 N :  Number of trading  days in the past ten (10) years from the immediately preceding
 
 trading day
 
-𝑟𝑡−𝑛: The rate of return before
-
 trading days. In such cases, the rate of return shall be
+
+𝑟𝑡−𝑛: The rate of return before
 
 calculated  by  dividing  the  value  obtained  by  deducting  the  closing  price  of  the
 
@@ -648,33 +648,59 @@ Issue
 
 Member margin rate
 
-Stocks listed on the stock
-markets
-
 Issue with a sector index
 to which the issue
 belongs
+
+The larger value of the base
+member margin rate and the
+minimum margin rate of the
+sector index to which the
+concerned issue belongs
+
+Stocks listed on the stock
+markets
 
 Issue with no sector
 index to which the issue
 belongs
 
+-
+
 Depository receipts of foreign
 stocks
 
--
+1.2 times the larger value of
+the base member margin
+rate and the minimum
+margin rate of the market
+index to which the
+concerned issue belongs
 
 Issue that has been listed
 for at least six (6)
 months
+
+The larger value of the base
+member margin rate and the
+minimum margin rate of the
+concerned issue
+
+Exchange-traded funds and
+exchange-traded notes
 
 Issue that has not been
 listed for six (6) months
 
 -
 
-Exchange-traded funds and
-exchange-traded notes
+The average value of the
+base member margin rates
+of the top 30% issues in
+terms of trading value
+(including trading value at
+multilateral trading
+companies)
 
 Stocks of real estate investment
 companies
@@ -686,70 +712,44 @@ Listed beneficiary certificates
 Business development collective
 investment vehicle investment
 
-The larger value of the base
-member margin rate and the
-minimum margin rate of the
-sector index to which the
-concerned issue belongs
-
-1.2 times the larger value of
-the base member margin
-rate and the minimum
-margin rate of the market
-index to which the
-concerned issue belongs
-
-The larger value of the base
-member margin rate and the
-minimum margin rate of the
-concerned issue
-
-The average value of the
-base member margin rates
-of the top 30% issues in
-terms of trading value
-(including trading value at
-multilateral trading
-companies)
-
 20
 
 stocks and investment trust
 beneficiary certificates
 
-Equity-linked warrants
+50%
 
 Issue whose underlying
 asset is KOSPI200
+
+Equity-linked warrants
+
+60%
 
 Issue whose underlying
 asset is not KOSPI200
 
 Subscription warrants
 
+-
+
+60%
+
+-
+
 Subscription warrant certificates
+
+30%
+
+-
+
+50%
 
 Non-monetary trust beneficiary
 securities
 Investment contract securities
 
--
-
--
-
--
-
 Notes:
-
-50%
-
-60%
-
-60%
-
-30%
-
-50%
 
 1.  ‘The  base  member  margin  rate’  is  the  sum  of  (i)  the  value  obtained  by  applying  t-
 distribution (a degree of freedom of 250 and a confidence level of 99.7%) to the average of

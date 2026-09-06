@@ -500,16 +500,16 @@ paragraph (1) shall be stipulated in the Enforcement Rules.
 §12.  Payment  of  Admission  Fees  and  Contribution  to  OTC  Derivatives  Joint
 Compensation Fund
 
+(“JCF”).
+
+on
+
 (1) The applicant that has obtained the admission approval as clearing member shall pay the
 admission fee to the Exchange and contribution to the OTC derivatives joint compensation
 fund
 September
 (Amended
 17, 2025)
-
-(“JCF”).
-
-on
 
 (2)  The  admission  fee  to  be  paid  pursuant  to  paragraph  (1)  shall  be  determined  by  a
 resolution of the Board.
@@ -519,9 +519,15 @@ the amount of basic contribution under subparagraph 1 of [§29].
 
 §13. Participation Dates, etc.
 
+entity
+
 that
 
-entity
+has
+
+been
+
+for
 
 clearing  membership  may
 approved
@@ -529,12 +535,6 @@ approved
 participate  in  the  clearing  process  from  the  day  (hereinafter  referred  to  as  the
 “participation  date”)  following  the  date  on  which  the  procedure  noted  in  each  of  the
 following subparagraphs is completed: (Amended on September 17, 2025)
-
-been
-
-has
-
-for
 
 1. Payment of admission fees and contribution to the OTC derivatives JCF pursuant to
 [§12];
@@ -2599,18 +2599,18 @@ member within fifteen (15) days of the settlement default of the clearing member
 
 3. Hedging transaction concerning the transactions noted in subparagraphs 1 and 2.
 
+in
+
+this  Article  referred
+
+to  as
+
 (2)  In  the  case  of  conducting  an  auction  to  close  out  the  transactions  subject  to  auction
 pursuant  to  paragraph  (1),  the  Exchange  shall  notify  the  matters  noted  in  each  of  the
 the  “auction
 following  subparagraphs  (hereinafter
 information”)  to  each  clearing  member  in  advance.  In  such  cases,  the  clearing  members
 shall notify the relevant clients. (Amended on November 30, 2016; September 17, 2025)
-
-this  Article  referred
-
-to  as
-
-in
 
 1. The date and time of the auction;
 

@@ -4,8 +4,8 @@ id: "210217736-en"
 title: "Guidelines for Operation of Member Margin Cash 20250227"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:56:31.404251Z"
-content_hash: "a0288096fe92e7b8484aef3b4efcbe670d22dabcb4a34e3ebf97b363a6d38950"
-body_hash: "1b810cbcd9c5886ffa60e5e1e86bfcf8949c9186075f879edecbc2fe189a08d0"
+content_hash: "28d8a5d86972d4053a3c07433671eecf4d1197df32d0be7e73ee9a2ce4526cd4"
+body_hash: "7f2efe6f7b91774eda6fc17f079f53de2ba21f06d3a7b1f0585d2967f83df42c"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/guidelines-for-operation-of-member-margin-cash-20250227/raw/
 text_path: "en/rules/guidelines-for-operation-of-member-margin-cash-20250227/attachments/english-full-text.md"
 file_content_hash: "97d705bb1d3b4d4190d0117da9957517123b8bd8ea354e0cdbd8fcf5c8a770ef"
 raw_file_hash: "97d705bb1d3b4d4190d0117da9957517123b8bd8ea354e0cdbd8fcf5c8a770ef"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -167,9 +167,9 @@ deems it necessary, the chairperson shall convene it separately.
 (8)Other matters not stipulated in this Guideline in relation to the composition and operation
 of the Council shall be determined by the President.
 
-§5. General Operation Amount
-
 Section 2. General Operation
+
+§5. General Operation Amount
 
 (1)  The  general  operating  amount  shall  be  the  remaining  amount  excluding  the  amount
 determined  for  the  special  operation  from  the  margin  cash  by  a  member’s  property  and
@@ -492,9 +492,9 @@ Application Rate
 
 In KRW
 
-12%
-
 In foreign currency
+
+12%
 
 12%
 

@@ -4,8 +4,8 @@ id: "204847935-en"
 title: "ESG채권정보플랫폼운영지침"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T08:03:19.537430Z"
-content_hash: "5288be347b86fe48ca1e0d61a4c52ccf1d2751de2b6b14aee1edc74aa80de298"
-body_hash: "98f756ce816e2762856876d909365a32a5ee144f3cf27e75b7623442fb02f99a"
+content_hash: "21c207490615e93ba34d6572351b8060353df22b02370be71ed4d32b1d9cbab1"
+body_hash: "2c1f1b494619d8bee75e0bf9467d9cc5c5c51899dcfcc4a58f869f522a94c791"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/esg채권정보플랫폼운영지침/raw/english-full-text.p
 text_path: "en/rules/esg채권정보플랫폼운영지침/attachments/english-full-text.md"
 file_content_hash: "1142b51b615713de1862ab3577b250d7ea7f0a2e9c42b31e3ac119940db24c0b"
 raw_file_hash: "1142b51b615713de1862ab3577b250d7ea7f0a2e9c42b31e3ac119940db24c0b"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -424,10 +424,10 @@ Investment Bonds as follows:
 • Issue name:
 • Type of the socially responsible investment bond:
 
+□ Social Bond
+
 □ Green Bond
 □ Sustainability Bond        □ Sustainability-Linked Bond
-
-□ Social Bond
 
 • Governing principles of Socially Responsible Investment Bonds, etc.1):
 □ ICMA Green Bond Principles    □ CBI Climate Bond Standard

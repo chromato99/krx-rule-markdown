@@ -9,10 +9,11 @@ import sys
 import tempfile
 
 from .collector import Client, guess_mime_type
-from .convert import convert_attachment
+from .converters.core import convert_attachment
 from .assets import preserve_hwp_attachment_assets, preserve_inline_document_assets
 from .contracts import (
     CONVERTER_VERSION,
+    converter_version_for_source,
     RELEASE_PROFILE_VERSION,
     add_quality_code,
     canonical_json_hash,
@@ -507,7 +508,7 @@ def document_key(doc: Document) -> tuple[str, str, str]:
 def reusable_attachment(data_dir: Path, previous, downloaded_hash: str) -> bool:
     if previous is None or previous.status != ATTACHMENT_CONVERTED:
         return False
-    if previous.converter_version != CONVERTER_VERSION:
+    if previous.converter_version != converter_version_for_source(previous.raw_path):
         return False
     if (previous.raw_file_hash or previous.content_hash) != downloaded_hash:
         return False
@@ -638,7 +639,7 @@ def fetch_english_rule_document(
         language=LANGUAGE_EN,
         source_id=korean_doc.id,
         file_name=att.file_name,
-        converter_version=CONVERTER_VERSION,
+        converter_version=converter_version_for_source(att.file_name),
     )
     used_raw_names: set[str] = set()
     used_converted_names: set[str] = set()
@@ -647,7 +648,7 @@ def fetch_english_rule_document(
         expected_title = english_rule_title(att.file_name, korean_doc.title)
         if (
             previous_doc is not None
-            and previous_doc.converter_version == CONVERTER_VERSION
+            and previous_doc.converter_version == converter_version_for_source(att.file_name)
             and (previous_doc.raw_file_hash or previous_doc.file_content_hash) == downloaded_hash
             and previous_doc.file_name == att.file_name
             and previous_doc.title == expected_title
@@ -697,6 +698,7 @@ def fetch_english_rule_document(
     english_doc.raw_file_hash = att.raw_file_hash or att.content_hash
     english_doc.content_hash = hash_text(english_doc.title + "\n" + english_doc.body)
     english_doc.body_hash = canonical_text_hash(english_doc.body)
+    english_doc.converter_version = att.converter_version
     english_doc.preservation_status = att.preservation_status
     english_doc.searchable = att.searchable
     english_doc.quality_status = att.quality_status

@@ -4,8 +4,8 @@ id: "210222386-en"
 title: "Enforcement Rules of Market Oversight Regulation"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:56:14.948702Z"
-content_hash: "0f6e62c09c25c4a169793e53b5506b4876ec288b877b3eb8b5f4ea7098355cff"
-body_hash: "f234c31eb5c770cfdce6580a0b57627b554f5329b056e400bc88e110004bf636"
+content_hash: "d600cbfeff305e93b68a4785ab4cb9845e5ac1298b3f2eeb2b485d55f6fe0a8b"
+body_hash: "c261c1a0430295c2fa5374a63c0a967cbf509fdec527ceb82e9e41eb5a11bd0c"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-market-oversight-regulation/raw/english
 text_path: "en/rules/enforcement-rules-of-market-oversight-regulation/attachments/english-full-text.md"
 file_content_hash: "2a4c167bac3ead85b1ed39a6d1a77a129d813329d6db2458ffed85b38769034d"
 raw_file_hash: "2a4c167bac3ead85b1ed39a6d1a77a129d813329d6db2458ffed85b38769034d"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -1417,6 +1417,8 @@ Companies
 
 to  multilateral
 
+trading  companies
+
 Pursuant to [§10(2)2] of the Regulation, the Commission may request the provision of
 information
 in  writing  (including  electronic
@@ -1424,8 +1426,6 @@ documents  using  information  and  communications  networks  noted  in  the  Ac
 Promotion  of  Information  and  Communications  Network  Utilization  and  Information
 Protection,  etc.)  or  in  the  form  of  digital  material  through  information  and
 communications networks noted in the Electronic Financial Supervision Regulations.
-
-trading  companies
 
 [February 27, 2025]
 
@@ -2763,10 +2763,10 @@ The  amended  provisions  of  paragraph  (9)2b(4)  of  [Annex  1]  shall  apply 
 the  member  fines  imposed  by  the  Disciplinary  Committee  for  the  first  time  after  the
 effective date of these Enforcement Rules.
 
-§1. Effective Date
-
 ADDENDA
 (June 27, 2008)
+
+§1. Effective Date
 
 58
 
@@ -3170,9 +3170,9 @@ ADDENDUM
 
 67
 
-These Enforcement Rules shall become effective on June 1, 2016.
-
 (May 31, 2016)
+
+These Enforcement Rules shall become effective on June 1, 2016.
 
 ADDENDA
 (February 10, 2017)
@@ -3535,10 +3535,31 @@ Representative Director (CEO) of
 
 xxxx Securities Company
 
+.
+o
+N
+
+r
+e
+d
+l
+o
+h
+
 e
 p
 y
 t
+
+e
+m
+a
+N
+h
+c
+n
+a
+r
 
 e
 d
@@ -3558,12 +3579,12 @@ a
 r
 T
 
-r
-e
-d
-l
+f
 o
-h
+e
+m
+a
+N
 
 t
 n
@@ -3572,10 +3593,6 @@ o
 c
 c
 a
-
-.
-o
-N
 
 t
 n
@@ -3585,12 +3602,14 @@ c
 c
 A
 
-f
-o
+t
+n
 e
-m
-a
-N
+d
+i
+s
+e
+R
 
 n
 o
@@ -3605,6 +3624,10 @@ g
 e
 R
 
+.
+o
+N
+
 p
 i
 h
@@ -3617,10 +3640,6 @@ a
 l
 e
 R
-
-.
-o
-N
 
 y
 n
@@ -3642,15 +3661,6 @@ s
 s
 I
 
-t
-n
-e
-d
-i
-s
-e
-R
-
 e
 d
 o
@@ -3660,16 +3670,6 @@ u
 s
 s
 I
-
-e
-m
-a
-N
-h
-c
-n
-a
-r
 
 B
 
@@ -3766,6 +3766,22 @@ Representative Director (CEO) of
 
 xxxx Securities Company
 
+e
+c
+i
+f
+f
+o
+
+l
+a
+n
+r
+e
+t
+n
+i
+
 h
 c
 n
@@ -3778,21 +3794,53 @@ a
 e
 h
 
+y
+t
+r
+a
+p
+
+d
+e
+v
+l
+o
+v
+n
+i
+
+e
+v
+i
+t
+a
 t
 n
-a
+e
 v
 e
-l
-e
-R
+r
+p
+d
+n
+a
+
+f
+o
+
+.
+o
+N
 
 e
 c
-i
+n
+e
+r
+e
 f
-f
-o
+e
+r
 
 s
 s
@@ -3803,12 +3851,30 @@ s
 u
 b
 
-r
+f
 o
+s
+t
+n
+i
+o
+p
+n
+i
+a
 
-.
-o
-N
+s
+e
+c
+n
+a
+t
+s
+m
+u
+c
+r
+i
 
 l
 a
@@ -3816,6 +3882,18 @@ i
 r
 e
 S
+
+t
+n
+a
+v
+e
+l
+e
+R
+
+r
+o
 
 d
 e
@@ -3830,12 +3908,6 @@ t
 a
 D
 
-y
-t
-r
-a
-p
-
 t
 n
 a
@@ -3844,18 +3916,6 @@ e
 l
 e
 R
-
-f
-o
-s
-t
-n
-i
-o
-p
-n
-i
-a
 
 M
 
@@ -3874,15 +3934,6 @@ p
 p
 a
 
-d
-e
-v
-l
-o
-v
-n
-i
-
 t
 n
 u
@@ -3890,32 +3941,7 @@ o
 m
 A
 
-s
-e
-c
-n
-a
-t
-s
-m
-u
-c
-r
-i
-
 C
-
-l
-a
-n
-r
-e
-t
-n
-i
-
-f
-o
 
 t
 l
@@ -3933,22 +3959,6 @@ n
 a
 h
 
-e
-v
-i
-t
-a
-t
-n
-e
-v
-e
-r
-p
-d
-n
-a
-
 s
 e
 s
@@ -3964,16 +3974,6 @@ s
 a
 e
 m
-
-e
-c
-n
-e
-r
-e
-f
-e
-r
 
 r
 e
@@ -4014,13 +4014,13 @@ thereof,  I  hereby  apply  for  the  voluntary  withdrawal  from  the  investig
 inspection  of  issue  (member)  involved  due  to  the  reasons  stated  below  and  seek  your
 approval of this request.
 
-Position
+Affiliation
 
-title
+Position
 
 Name
 
-Affiliation
+title
 
 Investigation/Inspection
 
@@ -4060,21 +4060,173 @@ Representative Director (CEO) of
 
 xxxx Securities Company
 
+)
+e
+c
+i
+f
+f
+o
+(
+
+)
+e
+l
+i
+b
+o
+m
+
+)
+e
+c
+i
+f
+f
+o
+(
+
+)
+e
+m
+o
+h
+(
+
+(
+
+)
+e
+m
+o
+h
+(
+
+)
+e
+c
+i
+f
+f
+o
+(
+
 r
 e
 b
 m
 e
 
+d
+e
+n
+w
+o
+s
+g
+n
+i
+v
+a
+s
+
+e
+c
+i
+f
+f
+
 M
+
+n
+o
+i
+t
+u
+t
+i
+t
+s
+n
+i
+
+d
+e
+n
+e
+p
+o
+t
+n
+u
+o
+c
+c
+a
+
+)
+e
+m
+o
+h
+(
+
+)
+e
+c
+i
+f
+f
+o
+(
+
+s
+s
+e
+r
+d
+d
+a
+
+e
+p
+y
+t
+
+e
+d
+o
+c
+
+e
+d
+o
+c
+
+f
+o
 
 f
 o
 
 e
+h
+t
+
+D
+
+e
 m
 a
 N
+
+O
+h
+c
+n
+a
+r
+B
 
 r
 e
@@ -4089,22 +4241,6 @@ o
 c
 c
 A
-
-e
-c
-i
-f
-f
-
-O
-h
-c
-n
-a
-r
-B
-
-D
 
 I
 
@@ -4123,105 +4259,10 @@ s
 u
 C
 
-d
-e
-n
-e
-p
-o
-t
-n
-u
-o
-c
-c
-a
-
-e
-h
-t
-
 e
 t
 a
 D
-
-)
-e
-m
-o
-h
-(
-
-e
-d
-o
-c
-
-l
-a
-t
-s
-o
-P
-
-)
-e
-m
-o
-h
-(
-
-s
-s
-e
-r
-d
-d
-A
-
-)
-e
-c
-i
-f
-f
-o
-(
-
-e
-d
-o
-c
-
-l
-a
-t
-s
-o
-P
-
-)
-e
-c
-i
-f
-f
-o
-(
-
-s
-s
-e
-r
-d
-d
-A
-
-e
-p
-y
-t
 
 t
 i
@@ -4230,41 +4271,47 @@ e
 r
 C
 
-)
-e
-c
-i
-f
-f
-o
-(
-
-n
-o
-i
-t
-u
-t
-i
+l
+a
 t
 s
-n
-i
-
-f
 o
+P
+
+s
+s
+e
+r
+d
+d
+A
+
+l
+a
+t
+s
+o
+P
+
+s
+s
+e
+r
+d
+d
+A
 
 e
 m
 a
 N
 
-)
-e
+l
+i
+a
 m
-o
-h
-(
+-
+e
 
 .
 o
@@ -4278,15 +4325,6 @@ e
 l
 e
 T
-
-)
-e
-c
-i
-f
-f
-o
-(
 
 ,
 o
@@ -4301,16 +4339,6 @@ l
 e
 T
 
-)
-e
-l
-i
-b
-o
-m
-
-(
-
 .
 o
 n
@@ -4323,34 +4351,6 @@ e
 l
 e
 T
-
-s
-s
-e
-r
-d
-d
-a
-
-l
-i
-a
-m
--
-e
-
-d
-e
-n
-w
-o
-s
-g
-n
-i
-v
-a
-s
 
 s
 e
@@ -4443,6 +4443,8 @@ Position
 
 Name  Duration of
 
+Note
+
 service
 
 Job
@@ -4450,8 +4452,6 @@ responsibility
 
 Current
 workplace
-
-Note
 
 85
 
@@ -4584,17 +4584,17 @@ ON-SITE MEASURES
 
 4. Details of on-site measures:
 
+Details of measures imposed
+
 Type of
 
-measures
+Note
 
-Details of measures imposed
+measures
 
 Subject
 
 Details
-
-Note
 
 Attachments:
 
@@ -4604,9 +4604,9 @@ Head of Inspection Team (seal)
 
 Market Oversight Division
 
-xxx Securities/Futures Company
-
 Head of branch office or department (seal)
+
+xxx Securities/Futures Company
 
 90
 
@@ -4630,17 +4630,17 @@ Reporter:
 Name of
 Issue1)
 
-Note.
-
 Type of
 Market2)
+
+Securities
+code3)
 
 □  KOSPI market
 □  KOSDAQ market
 □  KONEX market
 
-Securities
-code3)
+Note.
 
 1) Name of stock listed on the stock exchange
 
@@ -4653,6 +4653,13 @@ Reporter name
 (Company name)
 Nationality1)
 
+Short selling
+registration number2)
+Independent trading
+unit
+Email address
+Classification4)
+
 Phone number
 Business registration
 number, etc.3)
@@ -4662,13 +4669,6 @@ reporter is trading5)
 
 Business contact
 point6)
-
-Short selling
-registration number2)
-Independent trading
-unit
-Email address
-Classification4)
 
 Company
 Position
@@ -4705,24 +4705,24 @@ of the company, or the extension number if there are any).
 
 3. Matters on Balance
 
-Date of
-occurrence
-of duty to
-report1)
+Net position
+quantity3)
+
+Lent balance
+quantity5)
 
 Total balance
 quantity
 held2)
 
-Net position
-quantity3)
-
 Total balance
 quantity
 borrowed4)
 
-Lent balance
-quantity5)
+Date of
+occurrence
+of duty to
+report1)
 
 Start  End
 
@@ -4751,33 +4751,33 @@ balance quantity
 4. Matters on Intraday Change
 ※  Fill in below if there is information regarding daily transactions. The  ‘Date of
 
+Time1)
+
+Borrowing2)
+
+Recall3)
+
+Lending4)
+
+Repaying5)
+
+Others7)
+
+Rights
+change
+
 occurrence of duty to report’  and  ‘Time’  items are required fields.
 Date of
 occurrence of
 duty to report
 
-Borrowing2)
-
-Repaying5)
-
-Lending4)
-
-Recall3)
-
-Time1)
-
-Rights
-change
-
-Others7)
-
 Note.
 1) Enter the daily transactions in HHMMSSsss format (from 24:00 the previous day to
 
+24:00 the current day).
+
 2) Enter the quantity borrowed by reporter.
 3) Enter the quantity recalled by reporter (in cases where the reporter requests a return
-
-24:00 the current day).
 
 of the lent portion).
 
@@ -4815,10 +4815,12 @@ registration number
 2. Matters on Suspected Short Sale Violation
 Issue name  Securities
 
-Type of
-market
+Reasons*
 
 code
+
+Type of
+market
 
 Reporting
 date
@@ -4826,8 +4828,6 @@ date
 Date of
 occurrence of
 duty to report
-
-Reasons*
 
 * Select one from the following : Naked short sales, violation of order type indication,
 violation of uptick rule, non-reporting, omission of reporting of some stocks, EOD-SOD
@@ -5046,13 +5046,13 @@ Signature or Seal)
 
 Written Request for Confirmation of Disciplinary Record
 
-Person to be hired
-
-(appointed)
-
 Name
 
+Person to be hired
+
 Date of birth
+
+(appointed)
 
 (as in the resident registration
 
@@ -5060,9 +5060,9 @@ number)
 
 Scheduled  date  of  hiring
 
-(appointment)
-
 Month / Day / Year
+
+(appointment)
 
 A  confirmation  of  the  disciplinary  record  of  the  above  person  to  be  hired  (appointed)  is  requested
 
@@ -5082,11 +5082,11 @@ Written Consent on Provision of Personal Information
 
 Name
 
-Address
-
 Date of Birth
 
 (Contact info)
+
+Address
 
 I understand that Company ○○ will file the Request for Confirmation of Disciplinary
 
@@ -5136,20 +5136,20 @@ Date of Disciplinary Action*
 
 Month / Day / Year
 
+Company ○○
+
 Financial Investment Company the
 Subject belonged to at the Time of
 Disciplinary Action
 
-Company ○○
-
 Type of Disciplinary Action
-
-Ground  Regulation
-Disciplinary Action
 
 for
 
 the
+
+Ground  Regulation
+Disciplinary Action
 
 I provide this notification of the disciplinary record as above based on Paragraph 2 of
 Article 26 of the Enforcement Rules of Market Oversight Regulation.
@@ -5221,11 +5221,11 @@ To: Chairperson of the Market Oversight Commission, Korea Exchange
 Pursuant  to  [§2-5(1)2]  of  the  Enforcement  Rules  of  Market  Oversight  Regulation,  we
 hereby request consultations as follows.
 
-Name of staff
-in charge
-
 Department targeted for
 consultation
+
+Name of staff
+in charge
 
 Items for consultation 1)
 
@@ -5259,11 +5259,11 @@ To: Chairperson of the Market Oversight Commission, Korea Exchange
 Pursuant  to  [§2-9(2)]  of  the  Enforcement  Rules  of  Market  Oversight  Regulation,  we
 hereby request prevention training as follows.
 
-Name of staff
-in charge
-
 Department requesting
 for training
+
+Name of staff
+in charge
 
 Contents of the training1)
 
@@ -5306,11 +5306,11 @@ Name of corporation
 
 Address
 
-Contact information
-
 Department/Title
 
 Name
+
+Contact information
 
 Phone No.
 
@@ -5383,6 +5383,8 @@ trading profits (including avoided losses) through a proprietary account
 
 107
 
+Medium
+
 ▪ Case where the violation continues even though the it could have been
 readily recognized due to the prior notice of inspection, the request for
 preventive  measures,  or  repeated  detection  of  violations  by  the
@@ -5395,8 +5397,6 @@ the member’s proprietary account
 ▪ Case where the member neglects to take action despite the violations
 detected  by  the  member’s  monitoring  system,  or  where  the  violation
 occurs due to an insufficient internal control system
-
-Medium
 
 Low
 
@@ -5439,6 +5439,8 @@ violations is large
 
 108
 
+Medium
+
 ▪ Case where the number, quantity, amount, etc. of violations are
 normal
 ▪ Case where the amount of loss suffered by investors or customers
@@ -5447,6 +5449,10 @@ due to violations is normal
 normal
 ▪ Case where the profit gained or the loss avoided as a result of the
 violation is normal
+
+Low
+
+Very low
 
 ▪ Case where the number, quantity, amount, etc. of violations are small
 ▪ Case where the amount of loss suffered by investors or customers
@@ -5459,12 +5465,6 @@ violation is small
 small
 ▪ Case where there are two or more assessment factors falling in
 “Low” level
-
-Medium
-
-Low
-
-Very low
 
 c. Setting the range of member fines
 
@@ -5482,16 +5482,55 @@ Severity of Result
 
 Very high
 
+At least KRW 800
+million
+
+At least KRW 600 million,
+but not exceeding KRW
+800 million
+
+At least KRW 400 million,
+but  not  exceeding  KRW
+600 million
+
 High
+
+At least KRW 400 million,
+but not exceeding KRW
+600 million
+
+At least KRW 200 million,
+but not exceeding KRW
+400 million
 
 Moderate
 
+At least KRW 200 million,
+but not exceeding KRW
+400 million
+
+At least KRW 100 million,
+but not exceeding KRW
+200 million
+
 Low
+
+At least KRW 100 million,
+but not exceeding KRW
+200 million
+
+At least KRW 50 million,
+but not exceeding KRW
+100 million
 
 Very low
 
-At least KRW 800
+Not exceeding KRW 50
 million
+
+At least KRW 50 million,
+but not exceeding KRW
+100 million
 
 At least KRW 600
 million, but not
@@ -5510,45 +5549,6 @@ million, but not
 exceeding KRW
 200 million
 
-At least KRW 600 million,
-but not exceeding KRW
-800 million
-
-At least KRW 400 million,
-but  not  exceeding  KRW
-600 million
-
-At least KRW 400 million,
-but not exceeding KRW
-600 million
-
-At least KRW 200 million,
-but not exceeding KRW
-400 million
-
-At least KRW 200 million,
-but not exceeding KRW
-400 million
-
-At least KRW 100 million,
-but not exceeding KRW
-200 million
-
-At least KRW 100 million,
-but not exceeding KRW
-200 million
-
-At least KRW 50 million,
-but not exceeding KRW
-100 million
-
-At least KRW 50 million,
-but not exceeding KRW
-100 million
-
-Not exceeding KRW 50
-million
-
 (ii) For actions that impede the investigation or inspection activities
 
 Severity of Cause
@@ -5566,9 +5566,32 @@ of Result
 
 High
 
+At least KRW 70 million,
+but not exceeding KRW
+100 million
+
+At least KRW 40 million,
+but not exceeding KRW 70
+million
+
 Moderate
 
+At least KRW 40 million,
+but not exceeding KRW 70
+million
+
+At least KRW 20 million,
+but not exceeding KRW 40
+million
+
 Low
+
+Not exceeding KRW 20
+million
+
+At least KRW 20 million,
+but not exceeding KRW 40
+million
 
 At least KRW 100
 million, but not
@@ -5581,29 +5604,6 @@ exceeding KRW
 At least KRW 40
 million, but not
 exceeding KRW 70
-million
-
-At least KRW 70 million,
-but not exceeding KRW
-100 million
-
-At least KRW 40 million,
-but not exceeding KRW 70
-million
-
-At least KRW 40 million,
-but not exceeding KRW 70
-million
-
-At least KRW 20 million,
-but not exceeding KRW 40
-million
-
-At least KRW 20 million,
-but not exceeding KRW 40
-million
-
-Not exceeding KRW 20
 million
 
 (iii) In the case of  imposing  an aggravated  member fine under Article 22(1)3 of
@@ -5710,63 +5710,63 @@ Quantity (relating to [§19-2(1)1 and §19-2(2)] of the Regulation)
 
 Member
 
-Account No.
-
-Registration No.1)
-
-Name of Customer
-
-Type of Investor
-
-Market
-
-Security Name
-
-Security Code
-
-Name of Depository Institution
-
-Date of Transaction(s)
-
-Verification Method for Insufficient
-
-Quantity on the Settlement Day
-
-Whether the customer has been
-
 Selling Quantity
 
 Insufficient Settlement Quantity on
+
+Account No.
 
 the Settlement Day
 
 Insufficient Settlement Amount on
 
+Registration No.1)
+
 the Settlement Day
 
 Reason(s) for Insufficient
+
+Name of Customer
 
 Settlement Quantity
 
 Customer’s Compliance with Short
 
+Type of Investor
+
 Sale Regulation
 
 Settlement Method for Insufficient
+
+Market
 
 Settlement Quantity
 
 Delivery Date for Insufficient
 
+Security Name
+
 Settlement Quantity of Customer
+
+Security Code
 
 Date of Preparation
 
+Name of Depository Institution
+
 Person who prepared the report
+
+Date of Transaction(s)
 
 Verification of Compliance
 
+Verification Method for Insufficient
+
 Note (Causes, etc.)
+
+Quantity on the Settlement Day
+
+Whether the customer has been
 
 required to submit related
 
@@ -5788,74 +5788,74 @@ customer or not
 
 (relating to [§19-2(1)2 and §19-2(2)] of the Regulation)
 
+Whether the related documents have been
+
 Member
+
+received from the customer or not
 
 Branch
 
-Account No.
-
-Registration No.1)
-
-Name of Customer
-
-Type of Investor
-
-Market
-
-Security Name
-
-Security Code
-
-Whether an investment alert/caution
-issued or not
-
-Date of Transaction(s)
-
-Whether the customer has been required to
-
-submit related documents or not
-
-Whether the related documents have been
-
-received from the customer or not
+Total Selling Quantity
 
 Selling
 
 Quantity
 
-Total Selling Quantity
-
 Other Selling Quantity
+
+Account No.
 
 Buying Quantity
 
-Remaining
+Registration No.1)
 
 Net Buying Quantity from
+
+Remaining
+
+Name of Customer
+
+T-10 day to T-1 day
 
 Purchase
 
 Balance
 
+Type of Investor
+
+Selling Quantity on T day
+
+Market
+
+Y/N
+
 Short Sale
 
 Violation
 
-T-10 day to T-1 day
-
-Selling Quantity on T day
-
-Y/N
-
 Reasons for Decision
+
+Security Name
 
 Whether an action was taken or not
 
+Security Code
+
 Date of Preparation
+
+Whether an investment alert/caution
+issued or not
 
 Person who prepared the report
 
+Date of Transaction(s)
+
+Whether the customer has been required to
+
 Other Matters
+
+submit related documents or not
 
 1)  Business  registration  number  for  Koreans  and  alien  registration  number  for  for
 
@@ -5888,6 +5888,13 @@ Ratio to
 
 trading volume
 
+50% or over
+
+Less than 25%
+
+25% or over, but less
+than 50%
+
 Ratio to
 reported quantity
 80/100 or over
@@ -5896,13 +5903,6 @@ reported quantity
 than 80/100
 
 Less than 50/100
-
-50% or over
-
-25% or over, but less
-than 50%
-
-Less than 25%
 
 100/100 of the
 maximum amount
@@ -5949,6 +5949,11 @@ relation to underlying stocks
 of KOSPI indices is KRW30
 billion or more
 
+Amount of violation in relation to
+underlying stocks of KOSPI indices
+is KRW 10 billion or more, but less
+than KRW 20 billion
+
 Amount of violation in
 relation to underlying stocks
 of KOSDAQ indices is
@@ -5967,11 +5972,6 @@ indices is KRW 3 billion or more,
 but less than KRW 4.5 billion
 50/100 of the maximum amount
 under the Regulation
-
-Amount of violation in relation to
-underlying stocks of KOSPI indices
-is KRW 10 billion or more, but less
-than KRW 20 billion
 
 Amount of violation in relation to
 underlying stocks of KOSDAQ

@@ -602,12 +602,12 @@ concerned party shall be obtained. (Amended on November 24, 2006)
 
 §25. Maintenance and Conservation of Mediation Records
 
+the  records  concerning
+
 The  Chairman  shall  maintain  and  conserve
 the  receipt,
 supplementation,  fact  investigation,  outcome,  etc.  of  mediation  for  ten  (10)  years  from  the
 date of receiving the dispute mediation request. (Amended on November 24, 2006)
-
-the  records  concerning
 
 14
 

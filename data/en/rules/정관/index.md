@@ -4,8 +4,8 @@ id: "210016572-en"
 title: "정관"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T08:01:31.199589Z"
-content_hash: "44264eacc83583af0d26c73e70d00c98e3f877a899112f9e6645757c98d255f6"
-body_hash: "52c5e5057272755ae8121e5a60940604af24b06e07b5a02063a64a6ac3bc6341"
+content_hash: "811b1d28b32899f0b8b180cdfd0b7f331c26becfe512ae4663672d77f1a9fff0"
+body_hash: "94e3f073524cde69a0860dde03a9faa2edeb98b2bd96afd9f37c12b8ce1a53a1"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/정관/raw/english-full-text.pdf"
 text_path: "en/rules/정관/attachments/english-full-text.md"
 file_content_hash: "585ba61c0186bfa317e30dbf9dd496a5efc291ac8859c4f35d9a2dcaed462c6e"
 raw_file_hash: "585ba61c0186bfa317e30dbf9dd496a5efc291ac8859c4f35d9a2dcaed462c6e"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -186,20 +186,20 @@ to the Exchange. (Amended on January 14, 2009; April 15, 2009; May 15, 2015)
 
 shall  make
 
+its
+
+official
+
+announcement
+
+through
+
 The  Exchange
 its  website
 (http://www.krx.co.kr). However, in case where the official announcement on the Exchange
 website  is  not  possible  due  to  system  failure  or  other  inevitable  situation,  the  official
 information  shall  be  posted  on  the  Pusan  Ilbo  published  in  Busan  Metropolitan  City  and
 Seoul Shinmun published in Seoul Metropolitan City, respectively.
-
-announcement
-
-through
-
-official
-
-its
 
 (Wholly amended on May 15, 2015)
 
@@ -2040,13 +2040,13 @@ ADDENDA
 
 §2. Interim Measures Related to the Operation of KOSDAQ Market Committee
 
+In this case, the authorities and
+
 Until the KOSDAQ Market Committee pursuant to [§52-2(1)] of this Articles of
 Incorporation is established, the KOSDAQ Market Committee pursuant to the former version
 of Articles of Incorporation shall continue to exist.
 operational matters of the Committee shall be subject to the provisions of former version of
 this Articles of Incorporation.
-
-In this case, the authorities and
 
 ADDENDUM
 (March 5, 2014)

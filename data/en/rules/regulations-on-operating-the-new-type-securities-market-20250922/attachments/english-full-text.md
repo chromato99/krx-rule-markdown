@@ -974,9 +974,9 @@ matters shall be prescribed by the Enforcement Rules.
 Matters necessary for implementing these Regulations shall be prescribed by the Enforcement
 Rules.
 
-(Regulation No. 2358 / September 22, 2025)
-
 ADDENDA
+
+(Regulation No. 2358 / September 22, 2025)
 
 §1. Effective Date
 

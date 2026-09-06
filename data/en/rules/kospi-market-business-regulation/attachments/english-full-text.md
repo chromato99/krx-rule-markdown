@@ -1169,10 +1169,10 @@ issues for which the liquidity was provided at that time.
 
 [December 1, 2010]
 
-§20-9.  Market  Makers
-
 Section  2-3.  Market  Makers
 [November 4, 2015]
+
+§20-9.  Market  Makers
 
 (1) Any member who has entered into an agreement for market making with the Exchange to
 provide liquidity (hereinafter referred to as the “market maker”), may submit the quotations
@@ -2216,10 +2216,10 @@ the Enforcement Rules.
 government  bond  dealers  for  the  purpose  of  market-making  for  benchmark  issue,  and  it
 shall be classified into each of following items:
 
+that  are
+
 (a)  Both-sided  market-making  quotations:  Bid  and  offer  quotations
 simultaneously placed by primary dealers; and
-
-that  are
 
 (b)  One-sided  market-making  quotations:  Bid  or  offer  quotation  that  is  placed  by  the
 government bond dealers.
@@ -2966,9 +2966,9 @@ account  with  a  customer  shall  be  prohibited  from  serving  as  an  agent 
 
 customer.
 
-§87.  Good  Faith  Deposit
-
 Section  2.  Good  Faith  Deposit
+
+§87.  Good  Faith  Deposit
 
 (1) Members may, when receiving entrustments of orders from its customers, collect the good
 faith  deposit  in  cash  or substitute  securities  for  buying  and  in  cash,  securities  to  be  sold  or
@@ -3774,9 +3774,9 @@ ADDENDA
 
 82
 
-§1. Effective Date
-
 (January 28, 2009)
+
+§1. Effective Date
 
 This  Regulation  shall  become  effective  on  February  4,  2009.  Provided  that  the  amended
 provisions  of  [§18(2),  (4),  (7)  &  (8)]  and  Chapter  V  (except  for  [§75-4  and  §75-9])  shall
@@ -3823,9 +3823,9 @@ ADDENDUM
 
 83
 
-This Enforcement Rules shall become effective on July 17, 2009.
-
 (July 16, 2009)
+
+This Enforcement Rules shall become effective on July 17, 2009.
 
 ADDENDUM
 (December 29, 2009)
@@ -3869,9 +3869,9 @@ ADDENDUM
 
 84
 
-This Regulation shall become effective on May 30, 2011.
-
 (March 2, 2011)
+
+This Regulation shall become effective on May 30, 2011.
 
 ADDENDA
 (July 6, 2011)

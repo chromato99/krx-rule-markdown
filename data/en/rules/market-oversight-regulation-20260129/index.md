@@ -4,8 +4,8 @@ id: "210162282-en"
 title: "Market Oversight Regulation 20260129"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-07-12T07:59:07.048719Z"
-content_hash: "64a0b1eaf3062f5bbe69566740e329593e9db461fc9c78afbd939aee9010dd02"
-body_hash: "c03e83ac3c53e727f906db1efcd57d2efad8e82db1539e961525e093a6183415"
+content_hash: "f8f462721495bcad7be46df5eaa0cdb95ec6acc4425e47b71c12c0ad6284af44"
+body_hash: "af81d8e43c7d66491913d9e556c1f59bcca5d6920b99b67b56f0b3a380f81090"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/market-oversight-regulation-20260129/raw/english-full-text.p
 text_path: "en/rules/market-oversight-regulation-20260129/attachments/english-full-text.md"
 file_content_hash: "cc5a3041824a96a813adbee79f62c4b208bb956f874a2198e3d6447f65ccb24b"
 raw_file_hash: "cc5a3041824a96a813adbee79f62c4b208bb956f874a2198e3d6447f65ccb24b"
-converter_version: "2"
+converter_version: "2+pdf-coordinate-order"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -96,6 +96,8 @@ corresponds to unfair trading practices, including the violation of [§147, §17
 §174,  §176,  §178,  §178-2  and  §180]  of  the  Act.  (Amended  on  November  24,  2006;
 January 28, 2009; July 8, 2015)
 
+trading  company;  hereinafter  referred
+
 (4)  The  term  “inspection”  in  this  Regulation  shall  mean  the  in-depth  examination  of
 business reports, financial status, account books and other documents and materials of
 the members (including trading participants; the same hereinafter) in order to ascertain
@@ -106,8 +108,6 @@ to  as  “the  business-related
 regulations”)  of  the  Korea  Exchange  (hereinafter  referred  to  as  “the  Exchange”)  or
 violates §178-2 of the Act (Amended on November 24, 2006; January 28, 2009; July 8,
 2015; February 5, 2025)
-
-trading  company;  hereinafter  referred
 
 1
 
@@ -647,14 +647,14 @@ requesting submission of information, etc. and site visit noted in paragraphs (1
 
 §15.  Preparation  of  Question-and-Answer  Form,  etc.
 
+the  market  surveillance  staff  may  collect
+
 (1)  In  an  event  where  in  the  course  of  investigation,  there  is  a  matter  in  which  the
 activities of or details  of business  handled by the member or its  officer and employee
 are in violation of the laws and regulations or improper (hereinafter referred to as “the
 matters  pointed  out”),
 the  written
 confirmations from the persons concerned. (Amended on November 24, 2006)
-
-the  market  surveillance  staff  may  collect
 
 (2) In case where a written confirmation of facts about the matters pointed out pursuant
 to  paragraph  (1)  is  needed,  the  market  surveillance  staff  may  personally  hear  the
@@ -761,14 +761,14 @@ sale violation examination” in this Article) from relevant customers, verify w
 customers concerned have sold securities they did not hold or securities that cannot be
 settled until the settlement date, and record and keep such details:
 
+the  business  standards  of  multilateral
+
 1.  Transactions  subject  to  the  follow-up  management  of  short  sale  quotations
 pursuant to [§18-2(1)] of the KOSPI Market Business Regulation, [§9-4(1)] of
 the  KOSDAQ  Market  Business  Regulation,  [§13(1)]  of  the  KONEX  Market
 trading
 Business  Regulation,  or
 companies; and (Amended on February 5, 2025)
-
-the  business  standards  of  multilateral
 
 2.  Transactions  to  sell  first  during  the  regular  trading  hours  and  to  repurchase
 afterward  on  the  same  day,  which  may  fall  under  the  short  sale  violation
@@ -1280,10 +1280,10 @@ disciplinary actions taken for the first time after the effective date of this E
 
 28
 
-§1. Effective Date
-
 ADDENDA
 (Regulation No. 364 / September 12, 2008)
+
+§1. Effective Date
 
 This Regulation shall become effective on September 16, 2008.
 

@@ -10,10 +10,11 @@ from .contracts import (
     MAX_SOURCE_BYTES,
     add_quality_code,
     canonical_text_hash,
+    converter_version_for_source,
     sha256_file,
 )
 from .assets import preserve_hwp_attachment_assets
-from .convert import convert_attachment
+from .converters.core import convert_attachment
 from .converters.cache import SourceInspectionCache
 from .converters.core import convert_bytes_outcome
 from .converters.base import normalize_converted_text
@@ -31,9 +32,6 @@ class ReconvertResult:
     documents: int = 0
     attachments: int = 0
     converted: int = 0
-    # Backward-compatible total of blocking failures; allowlisted failures are
-    # tracked separately and are not included.
-    failed: int = 0
     skipped: int = 0
     metadata_updates: int = 0
     stale_retained: int = 0
@@ -44,13 +42,12 @@ class ReconvertResult:
     failure_events: list[dict[str, str]] = field(default_factory=list, repr=False)
 
     @property
+    def blocking_failed(self) -> int:
+        return self.required_failed + self.stale_retained + self.inspection_failed + self.quality_failed
+
+    @property
     def has_blocking_failures(self) -> bool:
-        return bool(
-            self.required_failed
-            or self.stale_retained
-            or self.inspection_failed
-            or self.quality_failed
-        )
+        return self.blocking_failed > 0
 
 
 def reconvert_data(
@@ -81,7 +78,7 @@ def reconvert_data(
         if result.has_blocking_failures:
             raise result_error(
                 result,
-                f"reconvert aborted after {result.failed} blocking failure(s)",
+                f"reconvert aborted after {result.blocking_failed} blocking failure(s)",
             )
         quality_report = audit_data_quality(
             staging,
@@ -91,7 +88,6 @@ def reconvert_data(
         quality_errors = report_failures(quality_report, "error")
         if quality_errors:
             result.quality_failed += len(quality_errors)
-            result.failed += len(quality_errors)
             for issue in quality_report.get("issues", []):
                 if issue.get("severity") != "error":
                     continue
@@ -421,7 +417,6 @@ def record_failure(
     *,
     dry_run: bool,
 ) -> None:
-    result.failed += 1
     outcome = "failed"
     if category == "stale":
         result.stale_retained += 1
@@ -484,7 +479,7 @@ def existing_converted_names(doc) -> set[str]:
 
 
 def attachment_is_current(data_dir: Path, att: Attachment, raw_path: Path) -> bool:
-    if att.status != ATTACHMENT_CONVERTED or att.converter_version != CONVERTER_VERSION:
+    if att.status != ATTACHMENT_CONVERTED or att.converter_version != converter_version_for_source(raw_path):
         return False
     if (att.raw_file_hash or att.content_hash) != sha256_file(raw_path, max_bytes=MAX_SOURCE_BYTES):
         return False
@@ -501,7 +496,7 @@ def attachment_is_current(data_dir: Path, att: Attachment, raw_path: Path) -> bo
 
 
 def document_file_is_current(data_dir: Path, doc, raw_path: Path) -> bool:
-    if doc.converter_version != CONVERTER_VERSION:
+    if doc.converter_version != converter_version_for_source(raw_path):
         return False
     if (doc.raw_file_hash or doc.file_content_hash) != sha256_file(raw_path, max_bytes=MAX_SOURCE_BYTES):
         return False
@@ -531,7 +526,7 @@ def convert_document_file(data_dir: Path, doc, raw_path: Path):
     doc.text_path = str(text_path.relative_to(data_dir))
     doc.file_content_hash = pseudo_attachment.content_hash
     doc.raw_file_hash = pseudo_attachment.raw_file_hash or pseudo_attachment.content_hash
-    doc.converter_version = pseudo_attachment.converter_version or CONVERTER_VERSION
+    doc.converter_version = pseudo_attachment.converter_version or converter_version_for_source(raw_path)
     refresh_document_body_from_text_path(data_dir, doc)
     return pseudo_attachment
 

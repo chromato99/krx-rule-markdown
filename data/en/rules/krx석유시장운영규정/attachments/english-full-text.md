@@ -2845,6 +2845,8 @@ Information about business owner and application details
 
 Resident
 
+Owner
+
 registration
 
 Mobile phone no.
@@ -2853,23 +2855,15 @@ FAX
 
 E-mail
 
-no.
-
-Owner
-
 name
+
+no.
 
 Business
 
-category
-
-(check
-
-appropriate
-
-one)
-
 Petroleum
+
+category
 
 Petroleum
 
@@ -2881,6 +2875,8 @@ Petro
 
 Retail
 
+(check
+
 refinery
 
 business
@@ -2891,12 +2887,17 @@ station
 
 distributer
 
+appropriate
+
 operator
+
+one)
 
 Trade name
 
-handled (check
-appropriate ones)
+Own
+
+Economy
 
 SK
 
@@ -2904,25 +2905,28 @@ GS
 
 Hyundai       S-Oil
 
-Own
-
-Economy
-
 brand
 
 brand
+
+handled (check
+appropriate ones)
 
 Request for branch
 
 Notification/communication
 
+FAX    E-mail
+
+sms
+
 ID
 
 method (check desired method)
 
-FAX    E-mail
+Foreign
 
-sms
+Payment
 
 Shinhan
 
@@ -2932,35 +2936,31 @@ Exchange
 
 Busan
 
-Foreign
-
-Payment
-
-bank
-
-(check one)
-
-Account
-
-no.
-
-Name
-
-of
-
 bank
 
 Bank
 
+(check one)
+
+Name
+
 Account
+
+Account
+
+Account
+
+of
 
 no.
 
-57
-
-Account
+no.
 
 owner
+
+bank
+
+57
 
 Information about main business location for issuance of representative ID
 
@@ -2968,15 +2968,19 @@ Trade mark
 
 Business
 
-registration no.
-
 Telephone no.
 
 FAX no. (optional)
 
+registration no.
+
 Address of main
 
+Postal
+
 business
+
+code
 
 location
 
@@ -2985,10 +2989,6 @@ Address of petroleum
 storage facility
 
 (Purchaser)
-
-Postal
-
-code
 
 The  undersigned  consents  to  the  Use  Agreement  and  the  Petroleum  E-Trading
 
@@ -3025,43 +3025,31 @@ Application for Participant Admission
 
 Information about company and application details
 
-Name of
-
-company
-
 Corporation
 
-registration
-
-no.
+Name of
 
 Name of
 
-representative
+registration
 
 Telephone no.    FAX
 
 E-mail
 
+company
+
+representative
+
+no.
+
 Business
 
 category
 
-(check
-
-appropriate
-
-one)
-
-Petroleum
-
-refinery operator
-
 Petroleum import
 
-/export business
-
-operator
+Petroleum
 
 Authorized
 
@@ -3069,13 +3057,29 @@ Petro
 
 Retail
 
+(check
+
+/export business
+
+refinery operator
+
 dealer
 
 station
 
 distributer
 
+appropriate
+
+operator
+
+one)
+
 Trade name
+
+Own
+
+Economy
 
 handled (check
 
@@ -3085,58 +3089,54 @@ GS
 
 Hyundai       S-Oil
 
+brand
+
+brand
+
 appropriate ones)
-
-Own
-
-Economy
-
-brand
-
-brand
-
-Request for branch ID
 
 Notification/communication
 
-method (check desired method)
+Request for branch ID
 
 FAX     E-mail
 
+method (check desired method)
+
 Payment bank
 
+Foreign
+
 (check
+
+Exchange
+
+Shinhan       Woori
+
+Busan
+
+Bank
 
 appropriate
 one)
 
-Shinhan       Woori
+Name
 
 Bank
 
-account no.
+Account
 
-Name
+Account
 
 of
 
-bank
-
-Busan
-
-Foreign
-
-Exchange
-
-Bank
-
-Account
+account no.
 
 no.
 
-Account
-
 owner
+
+bank
 
 Information on main business location for representative ID
 
@@ -3152,15 +3152,15 @@ FAX no. (optional)
 
 Address of main
 
+Postal
+
 business location
+
+code
 
 Address of petroleum
 
 storage facility (Purchaser)
-
-Postal
-
-code
 
 The undersigned consents to the Use Agreement and the Petroleum E-Trading Market Business
 
@@ -3200,33 +3200,33 @@ Request for Issuance of Branch ID
 
 Information for representative ID
 
-Trade name
-
-Business
-
-registration no.
-
-Number of
-
-branch IDs
-
-required
-
-Business
-
-category
-
 Name of
 
 Resident
+
+Number of
+
+Business
+
+Business
 
 business
 
 registration
 
+Trade name
+
+branch IDs
+
+category
+
+registration no.
+
 owner
 
 no.
+
+required
 
 Address of
 
@@ -3240,13 +3240,13 @@ storage facility
 
 Details of branch requiring ID (serial No.    )
 
-Branch name    Trade name
-
 Business
 
-registration no.
+Branch name    Trade name
 
 Telephone no.     FAX (optional)
+
+registration no.
 
 Address of petroleum
 
@@ -3256,13 +3256,13 @@ storage facility
 
 Details of branch requiring ID (serial No.    )
 
-Branch name    Trade name
-
 Business
 
-registration no.
+Branch name    Trade name
 
 Telephone no.     FAX (optional)
+
+registration no.
 
 Address of petroleum
 storage facility
@@ -3273,13 +3273,13 @@ storage facility
 
 Details of branch requiring ID (serial No.    )
 
-Branch name    Trade name
-
 Business
 
-registration no.
+Branch name    Trade name
 
 Telephone no.    FAX (optional)
+
+registration no.
 
 Address of petroleum
 
@@ -3293,11 +3293,11 @@ Exchange, we hereby request the issuance of branch ID as shown above.
 
 Date
 
+Name of business owner & signature
+
 To:    CEO of Korea Exchange
 
 ※  Documents to be attached:
-
-Name of business owner & signature
 
 1.  In  case  where  the  business  registration  no.  of  branch  ID  is  different  from  that  of
 
@@ -3313,29 +3313,29 @@ Request for issuance of branch ID
 
 Information about representative ID
 
+Corporate
+
+Number of
+
 Business
 
 Name of
+
+Business
+
+registration
+
+Trade name
+
+branch ID
 
 category
 
 company
 
-Corporate
-
-registration
-
-no.
-
-Trade name
-
-Business
-
 registration no.
 
-Number of
-
-branch ID
+no.
 
 required
 
@@ -3353,15 +3353,15 @@ storage facility
 
 Details of branch to which ID to be issued    (serial No.:        )
 
+Business
+
 Branch name
 
 Trade name
 
-Business
+Telephone no.    FAX (optional)
 
 registration no.
-
-Telephone no.    FAX (optional)
 
 Address of petroleum
 
@@ -3371,16 +3371,16 @@ storage facility
 
 Details of branch to which ID to be issued    (serial No.:        )
 
+Business
+
 Branch name
 
 Trade name
-
-Business
-
-registration no.
 
 Telephone no.     FAX (optional)
 
+registration no.
+
 Address of petroleum
 
 storage facility
@@ -3389,15 +3389,15 @@ storage facility
 
 Details of branch to which ID to be issued    (serial No.:        )
 
+Business
+
 Branch name
 
 Trade name
 
-Business
+Telephone no.    FAX (optional)
 
 registration no.
-
-Telephone no.    FAX (optional)
 
 Address of petroleum
 
@@ -3442,39 +3442,39 @@ registration
 
 Business
 
+Trade name
+
+Number of
+
+Business
+
 No. or
 
 owner or
 
 Business
 
+or company
+
+branch ID to be
+
+category
+
 corporate
 
 representative
+
+registration no.
+
+name
+
+closed
 
 registration
 
 of company
 
 no.
-
-registration no.
-
-Number of
-
-branch ID to be
-
-closed
-
-Business
-
-category
-
-Trade name
-
-or company
-
-name
 
 Address of
 
@@ -3488,13 +3488,13 @@ storage facility
 
 List of branch ID to be closed
 
+Serial
+
 Branch ID
 
 Branch name
 
 Reasons for closing
-
-Serial
 
 No.
 
@@ -3542,62 +3542,54 @@ Application for Participant Withdrawal
 
 Name of
 
-business owner
-
-or company
-
-name
-
-Trade name (for
-representative ID)
-
-E-mail
-
-Address of main
-
-business location
-
 Resident
+
+business owner
 
 registration no.
 
+Name of
+
+or company
+
 or corporate
+
+representative
+
+name
 
 registration no.
 
 Business
 
+Representative
+
 registration
+
+Trade name (for
+representative ID)
+
+ID
 
 no.
 
 Telephone
 
-no.
-
-Name of
-
-representative
-
-Representative
-
-ID
+E-mail
 
 FAX
 
+no.
+
+Address of main
+
 Postal code
 
-Business
+business location
 
 Petroleum
 
-category (check
-
-refinery
-
-appropriate one)
-
-operator
+Business
 
 Petroleum
 
@@ -3609,15 +3601,23 @@ Petro
 
 Retail petro
 
-business
+category (check
 
-operator
+refinery
+
+business
 
 dealer
 
 station
 
 distributer
+
+appropriate one)
+
+operator
+
+operator
 
 Reason for
 
@@ -3646,55 +3646,55 @@ products
 
 Name of business
 
-owner
-
 Resident
 
+Business
+
+owner
+
 registration no.
+
+category
 
 Trade name (for
 
 Business
 
+Telephone
+
 representative ID)
 
 registration no.
-
-Business
-
-category
-
-Telephone
 
 no.
 
 Employee to be registered (terminated)
 
+Affiliated
+
+Position
+
 Check the Request type
 
 Name
 
-Registration      Termination
+department
+
+title
 
 Telephone
 
+Mobile
+
+Registration      Termination
+
 no.
+
+phone no.
 
 ID to administer (serial number for
 
 participant admission)
-
-Affiliated
-
-department
-
-Position
-
-title
-
-Mobile
-
-phone no.
 
 The undersigned has verified the details stated above and consents the provision of
 
@@ -3706,31 +3706,31 @@ Name of employee responsible for petroleum product & signature
 
 Employee to be registered (terminated)
 
-Check the type of request      Name
-
 Affiliated
-
-department
 
 Position
 
+Check the type of request      Name
+
+department
+
 title
+
+Mobile
+
+Telephone
 
 Registration      Termination
 
-Telephone
+telephone
+
+no.
 
 no.
 
 ID to administer (serial number for
 
 68
-
-Mobile
-
-telephone
-
-no.
 
 participant admission)
 
@@ -3760,49 +3760,49 @@ Product
 
 Corporate
 
-registration no.
+Business
 
 Name of company
+
+registration no.
+
+category
 
 Trade name
 
 Business
 
+Telephone
+
 (representative ID
 
 registration no.
-
-Business
-
-category
-
-Telephone
 
 no.
 
 Employee to be registered (terminated)
 
-Check the request type        Name
-
-Registration      Termination
-
-Telephone
-
-no.
-
-69
-
 Affiliated
-
-department
 
 Position
 
+Check the request type        Name
+
+department
+
 title
+
+Telephone
 
 Mobile
 
+Registration      Termination
+
+no.
+
 phone no.
+
+69
 
 ID to administer (serial number for
 
@@ -3818,25 +3818,25 @@ Name of employee responsible for petroleum product & signature
 
 Employee to be registered (terminated)
 
+Affiliated
+
+Position
+
 Check the request type
 
 Name
 
-Registration      Termination
-
-Telephone
-
-no.
-
-Affiliated
-
 department
-
-Position
 
 title
 
+Telephone
+
 Mobile
+
+Registration      Termination
+
+no.
 
 phone no.
 
@@ -3868,13 +3868,13 @@ Name of representative of company & signature
 
 Receipt    Input    Confirmation
 
-※
-
-※
-
-※
-
 Confirmation of withdrawal    ※
+
+※
+
+※
+
+※
 
 Request for withdrawal of cash good faith deposit
 
@@ -3890,9 +3890,9 @@ Name of the representative of company/ business owner & signature
 
 (Name of responsible employee:      contact address/ telephone no:
 
-Amount to withdraw
-
 Name of bank, account no. &
+
+Amount to withdraw
 
 account holder
 
