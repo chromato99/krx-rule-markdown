@@ -3,7 +3,7 @@ schema_version: 2
 id: "210215757"
 title: "장외파생상품 청산업무규정 시행세칙"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
-collected_at: "2026-07-12T07:56:32.978731Z"
+collected_at: "2026-09-22T14:05:58.348726Z"
 content_hash: "4f690153939c133ab8d4e40ee1f7a5cf6ddd231a648bd62fe918cfde72736113"
 body_hash: "69df9220a4b7f11e0bbf2acb139bc78ad04b1b02b213c6d329790a40ca0d8623"
 document_type: "rule"
@@ -43,7 +43,7 @@ attachments:
     size: 53248
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 12144
+    converted_text_chars: 12145
     converted_non_space_chars: 9973
     table_row_count: 13
     formula_block_count: 62
@@ -68,7 +68,7 @@ attachments:
     size: 109056
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2905
+    converted_text_chars: 2906
     converted_non_space_chars: 2280
     table_row_count: 13
   - id: "210215757-210136622-hwp"
@@ -91,7 +91,7 @@ attachments:
     size: 82944
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 62828
+    converted_text_chars: 62829
     converted_non_space_chars: 52011
     table_row_count: 4
     formula_block_count: 285
@@ -116,7 +116,7 @@ attachments:
     size: 55808
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 11017
+    converted_text_chars: 11018
     converted_non_space_chars: 7825
     table_row_count: 62
     formula_block_count: 10
@@ -141,7 +141,7 @@ attachments:
     size: 48128
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 8879
+    converted_text_chars: 8880
     converted_non_space_chars: 7333
     table_row_count: 1
     formula_block_count: 44
@@ -166,7 +166,7 @@ attachments:
     size: 13312
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1422
+    converted_text_chars: 1423
     converted_non_space_chars: 1171
     formula_block_count: 7
     formula_hint_count: 18
@@ -190,7 +190,7 @@ attachments:
     size: 50688
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2058
+    converted_text_chars: 2059
     converted_non_space_chars: 1697
     table_row_count: 1
     formula_block_count: 7
@@ -215,7 +215,7 @@ attachments:
     size: 44032
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 3607
+    converted_text_chars: 3608
     converted_non_space_chars: 2848
   - id: "210215757-210136786-hwp"
     title: "[별지 제1호 서식] 청산회원 가입신청서<개정 2025. 10. 23.>"
@@ -237,7 +237,7 @@ attachments:
     size: 43520
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1800
+    converted_text_chars: 1801
     converted_non_space_chars: 1351
     table_row_count: 3
   - id: "210215757-202409260000022520000225011-byl-hwp"
@@ -260,7 +260,7 @@ attachments:
     size: 17408
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2116
+    converted_text_chars: 2117
     converted_non_space_chars: 1552
     table_row_count: 17
     formula_hint_count: 6
@@ -284,7 +284,7 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 939
+    converted_text_chars: 940
     converted_non_space_chars: 747
     formula_hint_count: 6
   - id: "210215757-202409260000022520000225013-byl-hwp"
@@ -307,7 +307,7 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 923
+    converted_text_chars: 924
     converted_non_space_chars: 723
     formula_hint_count: 6
   - id: "210215757-202409260000022520000225014-byl-hwp"
@@ -330,7 +330,7 @@ attachments:
     size: 14336
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 544
+    converted_text_chars: 545
     converted_non_space_chars: 433
     table_row_count: 3
   - id: "210215757-202409260000022520000225015-byl-hwp"
@@ -353,7 +353,7 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 683
+    converted_text_chars: 684
     converted_non_space_chars: 545
     table_row_count: 3
   - id: "210215757-202409260000022520000225016-byl-hwp"
@@ -376,7 +376,7 @@ attachments:
     size: 17408
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1763
+    converted_text_chars: 1764
     converted_non_space_chars: 1293
     table_row_count: 22
   - id: "210215757-202409260000022520000225017-byl-hwp"
@@ -399,7 +399,7 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 683
+    converted_text_chars: 684
     converted_non_space_chars: 523
     formula_hint_count: 6
   - id: "210215757-202409260000022520000225018-byl-hwp"
@@ -422,7 +422,7 @@ attachments:
     size: 15360
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 922
+    converted_text_chars: 923
     converted_non_space_chars: 650
     table_row_count: 12
   - id: "210215757-202409260000022520000225019-byl-hwp"
@@ -445,7 +445,7 @@ attachments:
     size: 15872
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 989
+    converted_text_chars: 990
     converted_non_space_chars: 707
     table_row_count: 12
   - id: "210215757-202409260000022520000225021-byl-hwp"
@@ -468,7 +468,7 @@ attachments:
     size: 17920
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 2128
+    converted_text_chars: 2129
     converted_non_space_chars: 1539
     table_row_count: 19
   - id: "210215757-202409260000022520000225022-byl-hwp"
@@ -491,7 +491,7 @@ attachments:
     size: 16384
     quality_status: "ok"
     quality_score: 100
-    converted_text_chars: 1253
+    converted_text_chars: 1254
     converted_non_space_chars: 915
     table_row_count: 11
 ---

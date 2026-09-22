@@ -218,10 +218,11 @@ def html_cell_text(text: str) -> str:
     return escape(text, quote=False).replace("&lt;br&gt;", "<br>")
 
 
-class ElementByIDParser(HTMLParser):
-    def __init__(self, element_id: str) -> None:
+class ElementContentParser(HTMLParser):
+    def __init__(self, *, element_id: str = "", tag: str = "") -> None:
         super().__init__(convert_charrefs=False)
         self.element_id = element_id
+        self.tag = tag.lower()
         self.parts: list[str] = []
         self.depth = 0
         self.done = False
@@ -230,7 +231,10 @@ class ElementByIDParser(HTMLParser):
         if self.done:
             return
         if self.depth == 0:
-            if any(name.lower() == "id" and value == self.element_id for name, value in attrs):
+            if (self.tag and tag.lower() == self.tag) or (
+                self.element_id
+                and any(name.lower() == "id" and value == self.element_id for name, value in attrs)
+            ):
                 self.depth = 1
             return
         self.parts.append(render_start_tag(tag, attrs))
@@ -277,8 +281,16 @@ def render_start_tag(tag: str, attrs: list[tuple[str, str | None]]) -> str:
 
 
 def element_by_id(html: str, element_id: str) -> str:
-    parser = ElementByIDParser(element_id)
+    parser = ElementContentParser(element_id=element_id)
     parser.feed(html)
+    parser.close()
+    return parser.html()
+
+
+def element_by_tag(html: str, tag: str) -> str:
+    parser = ElementContentParser(tag=tag)
+    parser.feed(html)
+    parser.close()
     return parser.html()
 
 

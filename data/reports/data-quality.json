@@ -1,26 +1,26 @@
 {
   "version": "0.1.0",
-  "generated_at": "2026-07-20T20:28:35.137564Z",
+  "generated_at": "2026-09-22T14:37:41.678712Z",
   "summary": {
-    "documents": 123,
-    "attachments": 597,
+    "documents": 124,
+    "attachments": 603,
     "assets": 13,
     "attachment_status": {
-      "converted": 597
+      "converted": 603
     },
     "attachment_extensions": {
-      "(none)": 31,
-      ".hwp": 549,
-      ".pdf": 17
+      "(none)": 37,
+      ".hwp": 554,
+      ".pdf": 12
     },
     "quality_status": {
-      "ok": 595,
+      "ok": 601,
       "warn": 2
     },
     "converted_text_chars": {
-      "count": 597,
+      "count": 603,
       "min": 34,
-      "median": 1274,
+      "median": 1258,
       "max": 180411
     },
     "hwp_equation_source_blocks": 656
@@ -29,15 +29,15 @@
     {
       "severity": "warn",
       "code": "inline_image_missing",
-      "document_id": "210220143",
+      "document_id": "330006388",
       "document_title": "유가증권시장 상장규정",
       "message": "document contains an unresolved inline image"
     },
     {
       "severity": "warn",
-      "document_id": "210220143",
+      "document_id": "330006388",
       "document_title": "유가증권시장 상장규정",
-      "asset_id": "asset-210220143-html-https-rule-krx-co-kr-datafile-law-img-204817634-gif",
+      "asset_id": "asset-330006388-html-https-rule-krx-co-kr-datafile-law-img-204817634-gif",
       "source_anchor": "html-img:https://rule.krx.co.kr/dataFile/law/img/204817634.gif",
       "code": "image_content_unindexed",
       "message": "preserved image asset is not text searchable (622x84)"
@@ -61,15 +61,15 @@
     {
       "severity": "warn",
       "code": "inline_image_missing",
-      "document_id": "210220591",
+      "document_id": "330008752",
       "document_title": "코스닥시장 상장규정",
       "message": "document contains an unresolved inline image"
     },
     {
       "severity": "warn",
-      "document_id": "210220591",
+      "document_id": "330008752",
       "document_title": "코스닥시장 상장규정",
-      "asset_id": "asset-210220591-html-https-rule-krx-co-kr-datafile-law-img-204817659-gif",
+      "asset_id": "asset-330008752-html-https-rule-krx-co-kr-datafile-law-img-204817659-gif",
       "source_anchor": "html-img:https://rule.krx.co.kr/dataFile/law/img/204817659.gif",
       "code": "image_content_unindexed",
       "message": "preserved image asset is not text searchable (561x76)"
@@ -244,61 +244,61 @@
     {
       "severity": "warn",
       "code": "pdf_comparison_structure_lost",
-      "document_id": "210231027",
-      "document_title": "유가증권시장 공시규정 개정 예고",
-      "attachment_id": "210231027-210231029-pdf",
-      "attachment_title": "260707_유가증권시장 공시규정 일부개정규정안_규정예고.pdf",
-      "file_name": "260707_유가증권시장 공시규정 일부개정규정안_규정예고.pdf",
+      "document_id": "330006358",
+      "document_title": "유가증권시장 공시규정 시행세칙 개정 예고",
+      "attachment_id": "330006358-330006360-pdf",
+      "attachment_title": "유가증권시장 공시규정 시행세칙 일부개정세칙안_예고.pdf",
+      "file_name": "유가증권시장 공시규정 시행세칙 일부개정세칙안_예고.pdf",
       "message": "amendment comparison columns were extracted without a structured table"
     },
     {
       "severity": "warn",
       "code": "pdf_comparison_structure_lost",
-      "document_id": "210231017",
-      "document_title": "유가증권시장 상장규정 개정 예고",
-      "attachment_id": "210231017-210231024-pdf",
-      "attachment_title": "유가증권시장 상장규정 일부개정규정안_중복상장_예고.pdf",
-      "file_name": "유가증권시장 상장규정 일부개정규정안_중복상장_예고.pdf",
-      "message": "amendment comparison columns were extracted without a structured table"
-    },
-    {
-      "severity": "warn",
-      "code": "pdf_comparison_structure_lost",
-      "document_id": "210231020",
+      "document_id": "330006297",
       "document_title": "유가증권시장 상장규정 시행세칙 개정 예고",
-      "attachment_id": "210231020-210231026-pdf",
-      "attachment_title": "유가증권시장 상장규정 시행세칙 일부개정세칙안_중복상장_예고.pdf",
-      "file_name": "유가증권시장 상장규정 시행세칙 일부개정세칙안_중복상장_예고.pdf",
+      "attachment_id": "330006297-330006298-pdf",
+      "attachment_title": "(붙임2) 유가증권시장 상장규정 시행세칙 일부개정세칙안_예고.pdf",
+      "file_name": "(붙임2) 유가증권시장 상장규정 시행세칙 일부개정세칙안_예고.pdf",
       "message": "amendment comparison columns were extracted without a structured table"
     },
     {
       "severity": "warn",
       "code": "pdf_comparison_structure_lost",
-      "document_id": "210231030",
-      "document_title": "코스닥시장 공시규정 개정 예고",
-      "attachment_id": "210231030-210231031-pdf",
-      "attachment_title": "코스닥시장 공시규정 일부개정규정안.pdf",
-      "file_name": "코스닥시장 공시규정 일부개정규정안.pdf",
+      "document_id": "330014459",
+      "document_title": "코넥스시장 상장규정 시행세칙 개정 예고",
+      "attachment_id": "330014459-330014461-pdf",
+      "attachment_title": "(붙임2) 코넥스시장 상장규정 시행세칙 일부개정세칙안.pdf",
+      "file_name": "(붙임2) 코넥스시장 상장규정 시행세칙 일부개정세칙안.pdf",
       "message": "amendment comparison columns were extracted without a structured table"
     },
     {
       "severity": "warn",
       "code": "pdf_comparison_structure_lost",
-      "document_id": "210231033",
-      "document_title": "코스닥시장 상장규정 및 같은 규정 시행세칙 개정 예고",
-      "attachment_id": "210231033-210231060-pdf",
-      "attachment_title": "(붙임1) 코스닥시장 상장규정 일부개정규정안.pdf",
-      "file_name": "(붙임1) 코스닥시장 상장규정 일부개정규정안.pdf",
+      "document_id": "330014462",
+      "document_title": "코넥스시장 업무규정 시행세칙 개정 예고",
+      "attachment_id": "330014462-330014464-pdf",
+      "attachment_title": "(붙임2) 코넥스시장 업무규정 시행세칙 일부개정세칙안.pdf",
+      "file_name": "(붙임2) 코넥스시장 업무규정 시행세칙 일부개정세칙안.pdf",
       "message": "amendment comparison columns were extracted without a structured table"
     },
     {
       "severity": "warn",
       "code": "pdf_comparison_structure_lost",
-      "document_id": "210231033",
-      "document_title": "코스닥시장 상장규정 및 같은 규정 시행세칙 개정 예고",
-      "attachment_id": "210231033-210231036-pdf",
-      "attachment_title": "(붙임2) 코스닥시장 상장규정 시행세칙 일부개정세칙안.pdf",
-      "file_name": "(붙임2) 코스닥시장 상장규정 시행세칙 일부개정세칙안.pdf",
+      "document_id": "330006353",
+      "document_title": "코스닥시장 공시규정 시행세칙 개정 예고",
+      "attachment_id": "330006353-330006355-pdf",
+      "attachment_title": "코스닥시장 공시규정 시행세칙 일부개정세칙안_예고.pdf",
+      "file_name": "코스닥시장 공시규정 시행세칙 일부개정세칙안_예고.pdf",
+      "message": "amendment comparison columns were extracted without a structured table"
+    },
+    {
+      "severity": "warn",
+      "code": "pdf_comparison_structure_lost",
+      "document_id": "330007341",
+      "document_title": "코스닥시장 상장규정 개정 예고",
+      "attachment_id": "330007341-330009595-pdf",
+      "attachment_title": "코스닥시장 상장규정 일부개정규정안_예고.pdf",
+      "file_name": "코스닥시장 상장규정 일부개정규정안_예고.pdf",
       "message": "amendment comparison columns were extracted without a structured table"
     }
   ]

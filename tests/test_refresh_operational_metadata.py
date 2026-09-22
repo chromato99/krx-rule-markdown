@@ -5,6 +5,7 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
+from unittest import mock
 
 from krx_rule_markdown.contracts import (
     CONVERTER_VERSION,
@@ -12,13 +13,14 @@ from krx_rule_markdown.contracts import (
     release_hash,
 )
 from krx_rule_markdown.manifest import build_manifest, write_manifest_atomic
-from krx_rule_markdown.markdown import write_document
+from krx_rule_markdown.markdown import document_bundle_dir, load_documents, write_document
 from krx_rule_markdown.models import (
     ATTACHMENT_CONVERTED,
     Attachment,
     Document,
+    Item,
 )
-from krx_rule_markdown.sync import SyncRunner, stale_attachment, write_sync_run_report
+from krx_rule_markdown.sync import SyncRunner, fetch_english_rule_document, stale_attachment, write_sync_run_report
 from krx_rule_markdown.validate import validate_data
 
 
@@ -26,6 +28,59 @@ STALE_CODE = "stale_due_to_refresh_failure"
 
 
 class RefreshOperationalMetadataTests(unittest.TestCase):
+    def make_document(self, **fields) -> Document:
+        return Document(source_url="https://example.test", document_type="rule",
+                        collected_at="2026-09-22T00:00:00Z", **fields)
+
+    def test_refresh_keeps_suffixed_bundle_after_previous_revision_is_removed(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            old = self.make_document(id="old", title="같은 규정", body="이전 본문")
+            current = self.make_document(id="current", title="같은 규정", body="현재 본문")
+            old_path = write_document(root, old)
+            current_path = write_document(root, current)
+            self.assertNotEqual(old_path.parent, current_path.parent)
+            old_path.unlink()
+            old_path.parent.rmdir()
+            reloaded = load_documents(root)[0]
+            self.assertEqual(document_bundle_dir(root, reloaded), current_path.parent)
+
+    def test_recent_refresh_preserves_category_missing_from_recent_listing(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            previous = self.make_document(id="current", title="규정", category="업무규정 / 시장", body="본문")
+            write_document(root, previous)
+            runner = SyncRunner(data_dir=root, base_url="https://example.test", limit=0,
+                                rule_id="", recent_only=True, download_attachments=False,
+                                language="ko", allowed_failure_ids=set())
+            runner.existing_docs = {("ko", "rule", previous.id): previous}
+            runner.client = mock.Mock()
+            runner.client.fetch_document.return_value = self.make_document(id="current", title="규정", body="새 본문")
+            refreshed = runner.fetch_document(Item(id="current", title="규정", document_type="rule"), 1, 1)
+            self.assertEqual(refreshed.category, previous.category)
+            self.assertEqual(refreshed.path, previous.path)
+
+    def test_english_refresh_keeps_bundle_when_source_metadata_changes(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            previous = self.make_document(id="current-en", title="Rule", language="en", body="Old English text.")
+            previous.path = str(root / "en/rules/rule-current-en/index.md")
+            old_path = write_document(root, previous)
+            client = mock.Mock()
+            client.download_rule_file.return_value = (
+                Attachment(id="current-en-file", title="Rule", file_name="Rule.txt"),
+                b"Updated English rule text.",
+            )
+            korean = self.make_document(id="current", title="규정", body="본문", published_date="2026-09-22")
+            refreshed, _, error = fetch_english_rule_document(
+                root, client, Item(id="current", title="규정", document_type="rule"), korean, previous,
+            )
+            self.assertEqual(error, "")
+            self.assertIsNotNone(refreshed)
+            self.assertEqual(write_document(root, refreshed), old_path)
+            self.assertEqual(len(load_documents(root)), 1)
+            self.assertEqual((root / refreshed.raw_path).parent.parent, old_path.parent)
+
     def test_attachment_mapping_reads_but_omits_refresh_operational_fields(self) -> None:
         attachment = Attachment.from_mapping(
             {

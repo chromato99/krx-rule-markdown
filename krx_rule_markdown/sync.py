@@ -230,11 +230,13 @@ class SyncRunner:
                 "outcome": "fetched",
             }
         )
+        previous = self.existing_docs.get((LANGUAGE_KO, doc.document_type, doc.id))
+        if previous is not None:
+            doc.path = previous.path
+            if not doc.category:
+                doc.category = previous.category
         if includes_korean(self.language):
-            previous = self.existing_docs.get((LANGUAGE_KO, doc.document_type, doc.id))
             if self.download_attachments:
-                if previous is not None:
-                    doc.path = previous.path
                 doc.attachments = self.download_and_convert_attachments(doc, previous)
             elif previous is not None:
                 previous_by_id = {att.id: att for att in previous.attachments}
@@ -638,6 +640,7 @@ def fetch_english_rule_document(
         document_type=DOCUMENT_RULE,
         language=LANGUAGE_EN,
         source_id=korean_doc.id,
+        path=previous_doc.path if previous_doc is not None else "",
         file_name=att.file_name,
         converter_version=converter_version_for_source(att.file_name),
     )

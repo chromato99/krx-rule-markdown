@@ -76,7 +76,12 @@ krx-rule-markdown reconvert --data-dir data --document-id 210217137
 
 `--dry-run`은 corpus, manifest, 품질 리포트와 실행 리포트를 변경하지 않습니다. 정기 release에서는 `validate --release --quality`를 사용하고, 원본은 보존되었지만 의도적으로 검색에서 제외할 실패 항목만 검토된 ID를 `--allow-failure-id`로 명시하세요.
 
-`assets`는 HWP의 실제 JPEG/BMP/PNG/GIF BinData만 검사해 bundle의 `assets/`에 보존합니다. `--download-inline`을 주면 본문의 KRX `/dataFile/law/img/` URL도 같은 host·redirect, MIME/signature, byte·pixel 제한 아래 다운로드합니다. 본문에는 로컬 경로 대신 `krx-asset:<id>`만 남고 실제 경로와 bytes hash는 frontmatter metadata에만 기록됩니다. `pdf-comparisons`는 코드에 이름이 고정된 현재 7개 PDF만 분류하며, 좌표 grid와 header가 모두 확인된 template만 `--apply`로 복원합니다. 신뢰도 기준을 통과하지 못한 PDF는 원문을 추측해 재배열하지 않고 degraded로 남깁니다.
+`assets`는 HWP의 실제 JPEG/BMP/PNG/GIF BinData만 검사해 bundle의 `assets/`에 보존합니다. `--download-inline`을 주면 본문의 KRX `/dataFile/law/img/` URL도 같은 host·redirect, MIME/signature, byte·pixel 제한 아래 다운로드합니다. 본문에는 로컬 경로 대신 `krx-asset:<id>`만 남고 실제 경로와 bytes hash는 frontmatter metadata에만 기록됩니다. `pdf-comparisons`는 코드에 이름이 고정된 검증된 7개 PDF 식별자만 분류하며, 좌표 grid와 header가 모두 확인된 template만 `--apply`로 복원합니다. 현재 예고 목록에 해당 식별자가 없으면 분류 건수는 0입니다. 신뢰도 기준을 통과하지 못한 PDF는 원문을 추측해 재배열하지 않고 degraded로 남깁니다.
+
+개정예고의 본문은 중첩 표를 포함한 `내용` 셀 전체를 보존합니다. 반복 갱신에서는
+기존 문서의 bundle 경로를 유지하고, 최근 목록에 분류 정보가 생략되면 기존 분류를
+보존합니다. 따라서 같은 제목의 과거 버전이 목록에서 사라져도 현재 문서의 원본과
+첨부가 다른 디렉터리로 분리되지 않습니다.
 
 ## HWP 수식 변환 정책
 
