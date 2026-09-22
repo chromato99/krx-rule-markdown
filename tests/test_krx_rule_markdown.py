@@ -424,6 +424,26 @@ $(".goRdoc").click(function(){});
         self.assertIn("| --- | --- | --- |", markdown)
         self.assertIn("| 2027년 | 100억원 | 500억원 |", markdown)
 
+    def test_notice_document_preserves_nested_table_and_following_content(self) -> None:
+        html = """
+<table>
+  <tr><th>내용</th><td>
+    <p>개정 취지</p>
+    <table><tr><td><p>시장 이전 요건</p><br><p>신청 절차</p></td></tr></table>
+    <p>의견 제출기한</p>
+  </td></tr>
+  <tr><th>첨부파일</th><td>화면 전용 파일 목록</td></tr>
+</table>
+"""
+        item = Item(id="nested-notice", title="규정 개정 예고", document_type="notice")
+        doc = parse_notice_document(html, item, "https://example.test")
+        for text in ("개정 취지", "시장 이전 요건", "신청 절차", "의견 제출기한"):
+            self.assertIn(text, doc.body)
+            self.assertIn(text, doc.source_content_html)
+        self.assertIn("</table>", doc.source_content_html)
+        self.assertNotIn("화면 전용 파일 목록", doc.body)
+        self.assertNotIn("화면 전용 파일 목록", doc.source_content_html)
+
     def test_html_to_markdown_preserves_br_in_merged_html_table_cells(self) -> None:
         html = """
 <table>
@@ -1660,12 +1680,17 @@ class ContractAndSafetyRegressionTests(unittest.TestCase):
 
     def test_current_named_pdf_comparisons_match_coordinate_goldens(self) -> None:
         project = Path(__file__).resolve().parents[1]
+        # Retain a real PDF from corpus 9289a65: current notice listings rotate
+        # and can stop containing every member of the classification catalog.
         attachments = {
+            "210224396-210224398-pdf": Path(__file__).parent / "fixtures/pdf_comparison_210224396.pdf",
+        }
+        attachments.update({
             att.id: project / "data" / att.raw_path
             for doc in load_documents(project / "data")
             for att in doc.attachments
             if att.id in KNOWN_COMPARISON_PDFS
-        }
+        })
         expected = {
             "210219879-210219880-pdf": (14, 419),
             "210224393-210224395-pdf": (11, 308),

@@ -11,7 +11,7 @@ import time
 from .attachment_policy import is_excluded_current_rule_attachment
 from .assets import MAX_ASSET_BYTES
 from .contracts import CONVERTER_VERSION
-from .html import attr_value, element_by_id, elements_by_class, first_match, html_to_markdown, strip_tags
+from .html import attr_value, element_by_id, element_by_tag, elements_by_class, first_match, html_to_markdown, strip_tags
 from .models import (
     ATTACHMENT_PENDING,
     DOCUMENT_NOTICE,
@@ -381,9 +381,12 @@ def parse_notice_document(body: str, item: Item, base_url: str) -> Document:
     pop = first_match(r"<[^>]*class=[\"'][^\"']*\bpopTT\b[^\"']*[\"'][^>]*>(.*?)</[^>]+>", body)
     title = item.title or strip_tags(re.sub(r"<a\b[^>]*>.*?</a>", " ", pop, flags=re.I | re.S))
     content = ""
-    for tr in re.findall(r"<tr\b[^>]*>.*?</tr>", body, flags=re.I | re.S):
-        if "내용" in strip_tags(first_match(r"<th\b[^>]*>(.*?)</th>", tr)):
-            content = first_match(r"<td\b[^>]*>(.*?)</td>", tr) or tr
+    for header in re.finditer(r"<th\b[^>]*>(.*?)</th>\s*(?=<td\b)", body, flags=re.I | re.S):
+        if "내용" in strip_tags(header.group(1)):
+            # Notice editors can place an entire table inside the content cell.
+            # Match its closing boundary structurally so nested cells cannot
+            # truncate the saved source or its converted body.
+            content = element_by_tag(body[header.end():], "td")
             break
     source_content = sanitize_source_html(content)
     doc = Document(

@@ -232,6 +232,9 @@ def load_documents(root: Path) -> list[Document]:
 
 
 def document_bundle_dir(root: Path, doc: Document) -> Path:
+    existing = existing_document_path(root, doc)
+    if existing is not None:
+        return existing.parent
     folder = "notices" if doc.document_type == "notice" else "rules"
     parent = language_root(root, doc.language) / folder
     base = parent / slug(doc.title)
