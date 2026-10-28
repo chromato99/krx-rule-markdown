@@ -1698,7 +1698,11 @@ class ContractAndSafetyRegressionTests(unittest.TestCase):
             "210221769-210221771-pdf": (4, 88),
             "210220231-210220236-pdf": (1, 22),
             "210219622-210219624-pdf": (11, 407),
-            "210224396-210224398-pdf": (8, 214),
+            "210224396-210224398-pdf": (9, 223),
+            "330017198-330017200-pdf": (3, 54),
+            "330021118-330021120-pdf": (2, 34),
+            "330014459-330014461-pdf": (10, 232),
+            "330014462-330014464-pdf": (2, 31),
         }
         # The classification catalog intentionally includes historical notices,
         # while a full sync materializes only the current KRX listing.  Validate
@@ -1717,7 +1721,8 @@ class ContractAndSafetyRegressionTests(unittest.TestCase):
                 self.assertEqual(classification.status, "restored")
                 self.assertEqual(len(classification.table_pages), table_page_count)
                 self.assertEqual(classification.row_count, row_count)
-                self.assertEqual(classification.confidence, 1.0)
+                expected_confidence = 0.75 + 7 / 34 if attachment_id == "330021118-330021120-pdf" else 1.0
+                self.assertAlmostEqual(classification.confidence, expected_confidence)
 
         golden = json.loads(
             (Path(__file__).parent / "fixtures/pdf_comparison_210220231_golden.json").read_text(
