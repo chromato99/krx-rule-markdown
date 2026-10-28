@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-market-operation-of-class-x-ben-certifi
 text_path: "en/rules/enforcement-rules-of-market-operation-of-class-x-ben-certificates-20250509/attachments/english-full-text.md"
 file_content_hash: "47a9e4cdc0d2ccbc41f3089e5658d00209cebf9ff51e0647dd410087912ea9cf"
 raw_file_hash: "47a9e4cdc0d2ccbc41f3089e5658d00209cebf9ff51e0647dd410087912ea9cf"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

@@ -19,7 +19,7 @@ raw_path: "en/rules/kospi-market-disclosure-regulation-20260731/raw/english-full
 text_path: "en/rules/kospi-market-disclosure-regulation-20260731/attachments/english-full-text.md"
 file_content_hash: "f8865f27ed634b34f8aef086af7cec837293f82fc9443c67cb056684c5311754"
 raw_file_hash: "f8865f27ed634b34f8aef086af7cec837293f82fc9443c67cb056684c5311754"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

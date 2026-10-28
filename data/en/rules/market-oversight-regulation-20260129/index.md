@@ -19,7 +19,7 @@ raw_path: "en/rules/market-oversight-regulation-20260129/raw/english-full-text.p
 text_path: "en/rules/market-oversight-regulation-20260129/attachments/english-full-text.md"
 file_content_hash: "cc5a3041824a96a813adbee79f62c4b208bb956f874a2198e3d6447f65ccb24b"
 raw_file_hash: "cc5a3041824a96a813adbee79f62c4b208bb956f874a2198e3d6447f65ccb24b"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

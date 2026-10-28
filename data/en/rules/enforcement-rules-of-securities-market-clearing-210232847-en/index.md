@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-securities-market-clearing-210232847-en
 text_path: "en/rules/enforcement-rules-of-securities-market-clearing-210232847-en/attachments/english-full-text.md"
 file_content_hash: "3c10852ae3e1dab315a1f408a453ad103ba053b450f1241ffaad060a0a58c2a0"
 raw_file_hash: "3c10852ae3e1dab315a1f408a453ad103ba053b450f1241ffaad060a0a58c2a0"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

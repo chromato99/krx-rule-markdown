@@ -19,7 +19,7 @@ raw_path: "en/rules/reg-on-the-market-operation-of-class-x-beneficiary-certifica
 text_path: "en/rules/reg-on-the-market-operation-of-class-x-beneficiary-certificates-20250326/attachments/english-full-text.md"
 file_content_hash: "e1b2907003ffe3686c6405a7dc0566a0970d5f5d6e429eb585de90348bd8620d"
 raw_file_hash: "e1b2907003ffe3686c6405a7dc0566a0970d5f5d6e429eb585de90348bd8620d"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

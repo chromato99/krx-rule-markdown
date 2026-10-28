@@ -33,7 +33,7 @@ attachments:
     content_hash: "63219cfe01cc0d7bf7cd014d8f501f4b3d46dbb964f19df5abdd13bba27b6a02"
     raw_file_hash: "63219cfe01cc0d7bf7cd014d8f501f4b3d46dbb964f19df5abdd13bba27b6a02"
     converted_text_hash: "d03e583960153825158edcf604b831b824571a0a16082d29bc7f8d2df1c6597a"
-    converter_version: "2+pdf-coordinate-order"
+    converter_version: "2+pdf-coordinate-order-v2"
     preservation_status: "preserved"
     searchable: true
     size: 150943
@@ -54,18 +54,16 @@ attachments:
     text_path: "ko/notices/코넥스시장-업무규정-시행세칙-개정-예고/attachments/붙임2-코넥스시장-업무규정-시행세칙-일부개정세칙안-pdf.md"
     content_hash: "dcf24726a8d70d132bf8033044d7064f273a8f49a3ebfe023444423904f362b9"
     raw_file_hash: "dcf24726a8d70d132bf8033044d7064f273a8f49a3ebfe023444423904f362b9"
-    converted_text_hash: "9374e634cc5f46d49c03dbd0ab99494d86642fb3dad237bc89b750f86e774fa3"
-    converter_version: "2+pdf-coordinate-order"
+    converted_text_hash: "8491acb5154da550894b27253e0780f7625934695f3b1febf916a30b30941fca"
+    converter_version: "2+pdf-coordinate-order-v2"
     preservation_status: "preserved"
     searchable: true
     size: 156944
-    quality_status: "warn"
+    quality_status: "ok"
     quality_score: 100
-    quality_flags: "pdf_comparison_structure_lost"
-    quality_codes: ["pdf_comparison_structure_lost"]
-    diagnostics: [{"code":"pdf_comparison_structure_lost","message":"amendment comparison columns were extracted without a structured table","severity":"warn"}]
-    converted_text_chars: 1796
-    converted_non_space_chars: 1398
+    converted_text_chars: 2818
+    converted_non_space_chars: 2414
+    table_row_count: 33
 ---
 
 □ 주요 내용

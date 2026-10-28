@@ -19,7 +19,7 @@ raw_path: "en/rules/regulations-on-operating-the-new-type-securities-market-2025
 text_path: "en/rules/regulations-on-operating-the-new-type-securities-market-20250922/attachments/english-full-text.md"
 file_content_hash: "070464020cf2622c82faf8ba441e89918498d09d89dcc252152012f946a81737"
 raw_file_hash: "070464020cf2622c82faf8ba441e89918498d09d89dcc252152012f946a81737"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

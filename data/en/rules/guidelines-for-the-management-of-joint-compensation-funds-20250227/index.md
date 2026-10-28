@@ -19,7 +19,7 @@ raw_path: "en/rules/guidelines-for-the-management-of-joint-compensation-funds-20
 text_path: "en/rules/guidelines-for-the-management-of-joint-compensation-funds-20250227/attachments/english-full-text.md"
 file_content_hash: "e323de212854325157d3591c4fcec170f0f0b993f7d3bb3408d3d45963843072"
 raw_file_hash: "e323de212854325157d3591c4fcec170f0f0b993f7d3bb3408d3d45963843072"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-kospi-market-disclosure-regulation-2026
 text_path: "en/rules/enforcement-rules-of-kospi-market-disclosure-regulation-20260225-330012844-en/attachments/english-full-text.md"
 file_content_hash: "1ec988ccd5e0dea8a2709d826d0925ed23ccd2fdcd6f2c7771e744b31db2a256"
 raw_file_hash: "1ec988ccd5e0dea8a2709d826d0925ed23ccd2fdcd6f2c7771e744b31db2a256"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

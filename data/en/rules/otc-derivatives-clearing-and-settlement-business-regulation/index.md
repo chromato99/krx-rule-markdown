@@ -19,7 +19,7 @@ raw_path: "en/rules/otc-derivatives-clearing-and-settlement-business-regulation/
 text_path: "en/rules/otc-derivatives-clearing-and-settlement-business-regulation/attachments/english-full-text.md"
 file_content_hash: "321e15dc8de8f6c9d0d583e14417fd9a61acc8d85f654b2762a8e7c4c9568f9f"
 raw_file_hash: "321e15dc8de8f6c9d0d583e14417fd9a61acc8d85f654b2762a8e7c4c9568f9f"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

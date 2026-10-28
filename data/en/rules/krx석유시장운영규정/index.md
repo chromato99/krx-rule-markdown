@@ -19,7 +19,7 @@ raw_path: "en/rules/krx석유시장운영규정/raw/english-full-text.pdf"
 text_path: "en/rules/krx석유시장운영규정/attachments/english-full-text.md"
 file_content_hash: "89ea4fe118ce55ade4ff4e29cb0757f1527ef083937a0ad1559faca6b8d0b661"
 raw_file_hash: "89ea4fe118ce55ade4ff4e29cb0757f1527ef083937a0ad1559faca6b8d0b661"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

@@ -19,7 +19,7 @@ raw_path: "en/rules/guidelines-for-operation-of-member-margin-cash-20260616/raw/
 text_path: "en/rules/guidelines-for-operation-of-member-margin-cash-20260616/attachments/english-full-text.md"
 file_content_hash: "832a1667b8f04daee97c82e1fb170df7493357f003ca1259e0ad1b9433804219"
 raw_file_hash: "832a1667b8f04daee97c82e1fb170df7493357f003ca1259e0ad1b9433804219"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

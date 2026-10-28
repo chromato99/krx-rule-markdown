@@ -19,7 +19,7 @@ raw_path: "en/rules/articles-of-incorporation-20250304/raw/english-full-text.pdf
 text_path: "en/rules/articles-of-incorporation-20250304/attachments/english-full-text.md"
 file_content_hash: "0c9b450784a3901f9eb7b6f741e2cc484a65bcb8ac65b7f7e6b44355d069380a"
 raw_file_hash: "0c9b450784a3901f9eb7b6f741e2cc484a65bcb8ac65b7f7e6b44355d069380a"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

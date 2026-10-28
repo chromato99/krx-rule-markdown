@@ -4,8 +4,8 @@ id: "210235314-en"
 title: "KOSDAQ Market Disclosure Regulation 20260731 V2"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-09-22T14:01:17.604727Z"
-content_hash: "8b10b35c57ec6ed1554fa74724131ab1694021a6b9c6f8b0539f24ba98d1a6e8"
-body_hash: "8b25660e747be9b57c32b1d2cf204eabf6c3ba5e467ec653b6ee3fdb40113288"
+content_hash: "204bd0aadeece508386b17cb177c493b0910fd5b55bf700c17f785bafd84df17"
+body_hash: "3ba73c9b8ce7a75854a98d9b9b78de2e39d06bf4e670c307581f76020cd25bac"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/kosdaq-market-disclosure-regulation-20260731-v2/raw/english-
 text_path: "en/rules/kosdaq-market-disclosure-regulation-20260731-v2/attachments/english-full-text.md"
 file_content_hash: "0c91a3fbe81590a0d5022864f664fc92ab32242ea184d2dfdcc13a0e3137fd54"
 raw_file_hash: "0c91a3fbe81590a0d5022864f664fc92ab32242ea184d2dfdcc13a0e3137fd54"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -3519,6 +3519,8 @@ ADDENDA
 
 This Regulation shall become effective on October 22, 2007.
 
+§2. Amendment of Other Regulation
+
 The KOSDAQ Market Disclosure Regulation shall be amended by adding subparagraph 12 to
 [§17] as follows:
 
@@ -3588,6 +3590,8 @@ This  Regulation  shall  become  effective  on  the  date  when  the  proposed  
 Enforcement Decree of the Financial Investment Service and Capital Market Act (legislative
 notice no. 2009-151) is made public.
 
+§2. Amendment of Other Regulation
+
 The  KOSDAQ  Market  Disclosure  Regulation  shall  be  amended  by  adding  following  new
 provisions of [§37(4)]:
 
@@ -3602,6 +3606,8 @@ ADDENDA
 §1. Effective Date
 
 This Regulation shall become effective on December 7, 2009.
+
+§2. Amendment of Other Regulation
 
 The KOSDAQ Market Disclosure Regulation shall be amended by formulating the following
 new provisions of [§38/13]:

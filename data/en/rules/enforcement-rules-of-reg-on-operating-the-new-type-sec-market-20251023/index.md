@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-reg-on-operating-the-new-type-sec-marke
 text_path: "en/rules/enforcement-rules-of-reg-on-operating-the-new-type-sec-market-20251023/attachments/english-full-text.md"
 file_content_hash: "9badc6a393c27eecb48a5889e2b955f290ba2d0ce2510ac776e92cd38f11d2b3"
 raw_file_hash: "9badc6a393c27eecb48a5889e2b955f290ba2d0ce2510ac776e92cd38f11d2b3"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

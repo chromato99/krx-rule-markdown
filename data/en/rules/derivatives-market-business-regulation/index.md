@@ -19,7 +19,7 @@ raw_path: "en/rules/derivatives-market-business-regulation/raw/english-full-text
 text_path: "en/rules/derivatives-market-business-regulation/attachments/english-full-text.md"
 file_content_hash: "57d28df0b0739df137eb8fad6db5f7b0a0652443204c1a6b534ed81098d9c39b"
 raw_file_hash: "57d28df0b0739df137eb8fad6db5f7b0a0652443204c1a6b534ed81098d9c39b"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

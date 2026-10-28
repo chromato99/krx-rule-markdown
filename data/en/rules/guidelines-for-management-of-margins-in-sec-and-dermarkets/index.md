@@ -19,7 +19,7 @@ raw_path: "en/rules/guidelines-for-management-of-margins-in-sec-and-dermarkets/r
 text_path: "en/rules/guidelines-for-management-of-margins-in-sec-and-dermarkets/attachments/english-full-text.md"
 file_content_hash: "e5c138f658f5fcf43a720dd1f07c275b60f03442885e86b78a6c684c5a0c750e"
 raw_file_hash: "e5c138f658f5fcf43a720dd1f07c275b60f03442885e86b78a6c684c5a0c750e"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
