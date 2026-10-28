@@ -19,7 +19,7 @@ raw_path: "en/rules/거래정보저장업무규정/raw/english-full-text.pdf"
 text_path: "en/rules/거래정보저장업무규정/attachments/english-full-text.md"
 file_content_hash: "293a60bf9ad5666941c940db35a0dc7e0e39176a15fc67ded5214732aad0c8ff"
 raw_file_hash: "293a60bf9ad5666941c940db35a0dc7e0e39176a15fc67ded5214732aad0c8ff"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

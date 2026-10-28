@@ -19,7 +19,7 @@ raw_path: "en/rules/석유제품현물전자상거래용수입석유제품의할
 text_path: "en/rules/석유제품현물전자상거래용수입석유제품의할당관세세부추천요령/attachments/english-full-text.md"
 file_content_hash: "8af75cdb5587a08ebdf5d42313d1f34cb52921fd3c5b970df1bd4dd7b065f63e"
 raw_file_hash: "8af75cdb5587a08ebdf5d42313d1f34cb52921fd3c5b970df1bd4dd7b065f63e"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

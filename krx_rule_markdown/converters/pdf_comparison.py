@@ -15,6 +15,10 @@ KNOWN_COMPARISON_PDFS = {
     "210221769-210221771-pdf": "two_column",
     "210220231-210220236-pdf": "two_column",
     "210224396-210224398-pdf": "two_column",
+    "330017198-330017200-pdf": "two_column",
+    "330021118-330021120-pdf": "three_column",
+    "330014459-330014461-pdf": "three_column",
+    "330014462-330014464-pdf": "two_column",
 }
 
 
@@ -73,11 +77,15 @@ def classify_comparison_pdf(path: Path, attachment_id: str) -> ComparisonClassif
         return result
 
     started = False
+    previous_boundaries: list[float] = []
     try:
         for page_number, layout in enumerate(extract_pages(str(path)), start=1):
             result.page_count = page_number
             boundaries = comparison_boundaries(layout, expected)
+            if not boundaries and previous_boundaries:
+                boundaries = continuation_boundaries(layout, previous_boundaries)
             if not boundaries:
+                previous_boundaries = []
                 continue
             positioned = positioned_lines(layout, boundaries)
             headers = header_text(positioned, boundaries, expected)
@@ -89,6 +97,9 @@ def classify_comparison_pdf(path: Path, attachment_id: str) -> ComparisonClassif
             rows = visual_rows(positioned, boundaries)
             if rows:
                 result.pages.append(ComparisonPage(page_number, comparison_headers(expected), rows))
+                previous_boundaries = boundaries
+            else:
+                previous_boundaries = []
     except Exception as exc:  # noqa: BLE001 - untrusted PDF stays degraded.
         result.status = "degraded"
         result.reason = f"coordinate parser failed ({type(exc).__name__})"
@@ -176,6 +187,29 @@ def comparison_boundaries(layout, expected: str) -> list[float]:
         if valid:
             matches.append((sum((actual - wanted) ** 2 for actual, wanted in zip(ratios, target)), list(candidate)))
     return min(matches, default=(0.0, []), key=lambda item: item[0])[1]
+
+
+def continuation_boundaries(layout, previous: list[float]) -> list[float]:
+    """Accept a short next page only when every known column border aligns."""
+    from pdfminer.layout import LTLine
+
+    borders = []
+    for x in previous:
+        aligned = [
+            item.bbox
+            for item in walk_layout(layout)
+            if isinstance(item, LTLine)
+            and abs(item.x1 - item.x0) <= 1.0
+            and abs((item.x0 + item.x1) / 2 - x) <= 2.5
+        ]
+        if not aligned:
+            return []
+        borders.append(max(aligned, key=lambda bounds: bounds[3] - bounds[1]))
+    # Short fragments and unrelated rules must not establish a new template.
+    shared_height = min(border[3] for border in borders) - max(border[1] for border in borders)
+    if shared_height < 20:
+        return []
+    return [(border[0] + border[2]) / 2 for border in borders]
 
 
 def positioned_lines(layout, boundaries: list[float]) -> list[PositionedText]:

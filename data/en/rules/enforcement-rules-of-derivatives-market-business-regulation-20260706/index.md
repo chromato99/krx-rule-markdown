@@ -4,8 +4,8 @@ id: "210228709-en"
 title: "Enforcement Rules of Derivatives Market Business Regulation 20260706"
 source_url: "https://rule.krx.co.kr/out/regulation/regulationViewPop.do"
 collected_at: "2026-09-22T14:02:39.056705Z"
-content_hash: "1ad1bca13d63bf33cf86d727f858c88297280fbece43f9660ab53247242bd9cf"
-body_hash: "3c7ba710ad0d18c2e2c69cbda62e64f1e7a1932f639317eaa6c92495da7eb17d"
+content_hash: "898d8c23473c95ed729ba2955c5f34dc38d04cbbf005675592b7a18fc8234ad4"
+body_hash: "3a7908665eae2e6e469b906f445c75204dc0607b84b0c85eca4035e2117a42ee"
 document_type: "rule"
 language: "en"
 conversion_status: "converted"
@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-derivatives-market-business-regulation-
 text_path: "en/rules/enforcement-rules-of-derivatives-market-business-regulation-20260706/attachments/english-full-text.md"
 file_content_hash: "2b9e422c9dc6f197b565f945d12eb3f5fac5c6b4ce1ae9a8312e5e183e9a8fb0"
 raw_file_hash: "2b9e422c9dc6f197b565f945d12eb3f5fac5c6b4ce1ae9a8312e5e183e9a8fb0"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---
@@ -8735,6 +8735,8 @@ ADDENDA
 
 These Enforcement Rules shall become effective on September 26, 2005.
 
+§2. Effective Date of the Futures Market Business Regulation
+
 “Date  stipulated  in  the  Enforcement  Rules”  in  [§1]  of  the  Addenda  of  the  Futures  Market
 Business Regulation (amended on July 22, 2005) shall be September 26, 2005.
 
@@ -8892,6 +8894,8 @@ ADDENDA
 
 These Enforcement Rules shall become effective on December 18, 2006.
 
+§2. Effective Date of the Futures Market Business Regulation
+
 “The  date  stipulated  in  the  Enforcement  Rules”  in  [§196]  of  the  Futures  Market  Business
 Regulation (amended on October 27, 2006) shall be December 18, 2006.
 
@@ -8944,6 +8948,8 @@ ADDENDA
 §1. Effective Date
 
 These Enforcement Rules shall become effective on August 27, 2007.
+
+§2. Effective Date of the Futures Market Business Regulation
 
 “The date stipulated in the Enforcement Rules”  noted [§1] of Addenda of in the Regulation
 (amended on January 19, 2007) shall be August 27, 2007.
@@ -9067,6 +9073,8 @@ ADDENDA
 §1. Effective Date
 
 These Enforcement Rules shall become effective on July 21, 2008.
+
+§2. Effective Date of the Futures Market Business Regulation
 
 “The date stipulated in the Enforcement Rules” in [§1] of the Addenda of the Futures Market
 Business Regulation (amended on June 27, 2008) shall refer to July 21, 2008.
@@ -9192,6 +9200,8 @@ ADDENDA
 
 These Enforcement Rules shall become effective on April 27, 2009.
 
+§2. Effective Date of the Derivatives Market Business Regulation
+
 “The date stipulated in the Enforcement Rules” noted in [§1] of the Addenda of the Derivatives
 Market  Business  Regulation  amended  on  March  4,  2009,  which  is  related  to  the  amended
 provisions of [§44 and §45] of Derivatives Market Business Regulation, shall refer to April 27,
@@ -9217,6 +9227,8 @@ These Enforcement Rules shall become effective on August 31, 2009.
 
 184
 
+§2. Effective Date of the Derivatives Market Business Regulation
+
 “The date stipulated in the Enforcement Rules” noted in [§1] of the Addenda of the Derivatives
 Market  Business  Regulation  amended  on  March  4,  2009  shall  refer  to  August  31,  2009
 (excluding  the  amended  provisions  of  [§44  and  §45]  the  Derivatives  Market  Business
@@ -9228,6 +9240,8 @@ ADDENDA
 §1. Effective Date
 
 These Enforcement Rules shall become effective on November 16, 2009.
+
+§2. Effective Date of the Derivatives Market Business Regulation
 
 “The date stipulated in the Enforcement Rules” noted in the Addenda of the Derivatives Market
 Business Regulation amended on September 23, 2009 shall refer to November 16, 2009.
@@ -9536,6 +9550,8 @@ ADDENDA
 
 These Enforcement Rules shall become effective on October 31, 2011.
 
+§2. Effective Date of the Derivatives Market Business Regulation
+
 With  regard  to  the  amended  provisions  of  [§88],  [§110-2],  [§124(1)2],  [§132],  and  [§134]
 through [§137] of these Enforcement Rules, the “date stipulated in the Enforcement Rules” in
 [§1] of ADDENDA (July 6, 2011) shall refer to October 31, 2011.
@@ -9566,6 +9582,8 @@ ADDENDA
 
 These Enforcement Rules shall become effective on April 2, 2012. Provided that the amended
 provisions of [§48, §49-2, §50, and §165] shall be put into effect on December 29, 2011.
+
+§2. Effective Date of the Derivatives Market Business Regulation
 
 The date specified in the Enforcement Rules that is noted in [§1] of Addenda (July 6, 2011) of
 the  Derivatives  Market  Business  Regulation  shall  refer  to  the  date  noted  in  each  of  the
@@ -9661,6 +9679,8 @@ provisions of [§27, §28, §29-2, §29-3, §49-2, §50, §61, §63, §72-12, §
 §158, §164-3 and §164-4], amended provisions of [Annex 1], [Annex 6], [Annex 14], [Annex
 17], [Annex 17-2], [Annex 18], [Annex 19], [Annex 20], [Annex 24] and amended [Annex:
 Form 9] shall be put into effect on September 30, 2013.
+
+§2. Effective Date of the Derivatives Market Business Regulation
 
 Pursuant to [§1] of Addenda dated July 3, 2013 of the Derivatives Market Business Regulation,
 the amended provisions of [§2, §22, §27, §73, §128, and §156-3 (excluding paragraph (3))] of
@@ -9768,6 +9788,8 @@ ADDENDA
 
 These Enforcement Rules shall become effective on March 9, 2012.
 
+§2. Effective Date of the Derivatives Market Business Regulation
+
 196
 
 “The  day  determined  by  the  Enforcement  Rules”  referred  to  the  Addenda  of  the  Business
@@ -9822,6 +9844,8 @@ ADDENDA
 
 These Enforcement Rules shall become effective on March 9, 2012.
 
+§2. Effective Date of the Derivatives Market Business Regulation
+
 “The day determined by the Enforcement Rules” referred to the Addenda of the Business
 Regulation of the Derivatives Market amended on June 3, 2013 shall be September 1, 2014.
 
@@ -9835,6 +9859,8 @@ provisions of Section 3 ([§8 through 12], Chapter I, PART II, [§46(1)3] (limit
 Futures spread trade), Section 3 ([§80 through 90-2], PART III, [§162-2], [§164], [Annex 2],
 [Annex  17-3],  [Annex  19],  [Annex  19-2],  and  amended  [Annex:  Form  5]  shall  become
 effective on September 15, 2014
+
+§2. Effective Date of the Derivatives Market Business Regulation
 
 “The  day  determined  in  the  Enforcement  Rules”  in  proviso  of  Addendum  of  the
 Derivatives Market Business Regulation (amended on August 27, 2014) shall refer to
@@ -9950,6 +9976,8 @@ provisions of [§115(1)6], [§132], [§132-3], [§164-2], [Annex 14] and [Annex 
 provisions  to  global  trade)  shall  become  effective  on  December  8,  2014  and  amended
 provisions of [§115(1)9 and 10, and (3)], [§119], [§122] shall become effective on December
 29, 2014.
+
+§2. Effective Date of the Derivatives Market Business Regulation
 
 “The day determined in the Enforcement Rules” in proviso of Addendum of the Derivatives
 Market Business Regulation (amended on August 27, 2014) shall refer to the day in each of
@@ -10194,6 +10222,8 @@ provisions of [§67-4], [§69] and [§70] shall become effective on July 27, 201
 2], [§8-3], [§9], [§11], [§74], [§111], [Annex 2] and the amended provisions of subparagraph
 2(b)of[Annex 19] shall become effective on August 3, 2015.
 
+§2. Effective Date of the Derivatives Market Business Regulation
+
 Pursuant  to  Addendum  of  the  Derivatives  Market  Business  Regulation  (amended  on  June  24,
 2015), amended provisions in [§3(2)1 and 5 (excluding CNY Futures spread market)], [§10],
 [§11], [§12], [§19], [§96] and [§154] shall become effective on July 20, 2015
@@ -10305,6 +10335,8 @@ ADDENDA
 
 These Enforcement Rules shall become effective on October 5, 2015.
 
+§2. Effective Date of the Derivatives Market Business Regulation
+
 207
 
 Pursuant  to  Addendum  of  the  Derivatives  Market  Business  Regulation  (amended  on  June  24,
@@ -10357,6 +10389,8 @@ become effective on December 11, 2015.    (Amended on November 26, 2015; Decembe
 2015)
 
 208
+
+§2. Effective Date of the Derivatives Market Business Regulation
 
 “The date stipulated in the Enforcement Rules” in the Addendum of the Derivatives Market
 Business Regulation (amended on October 21, 2015) shall refer to the dates classified in each
@@ -10632,6 +10666,8 @@ ADDENDA
 
 These Enforcement Rules shall become effective on March 27, 2017.
 
+§2. Effective Date of the Derivatives Market Business Regulation
+
 The  “date  specified  in  the  Enforcement  Rules”  in  the  proviso  to  the  ADDENDUM  of  the
 Derivatives Market Business Regulation (amended on February 8, 2017 and referred to as “the
 Regulation” in this Article) shall refer to March 27, 2017 (limited to [§154(1)1a(i) and a(ii)]
@@ -10677,6 +10713,8 @@ ADDENDA
 
 These Enforcement Rules shall become effective on June 1, 2017.
 
+§2. Effective Date of the Derivatives Market Business Regulation
+
 The  “date  stipulated  in  the  Enforcement  Rules”  in  the  ADDENDUM  of  the  Derivatives
 Market  Business  Regulation  (Regulation  No.  1393  amended  on  December  28,  2016  and
 referred to as “the Regulation” in this Article) shall refer to June 1, 2017 (limited to [§92(3)&
@@ -10695,6 +10733,8 @@ ADDENDA
 §1. Effective Date
 
 These Enforcement Rules shall become effective on June 26, 2017.
+
+§2. Effective Date of the Derivatives Market Business Regulation
 
 The  “date  specified  in  the  Enforcement  Rules”  in  the  proviso  to  the  ADDENDUM  of  the
 Derivatives Market Business Regulation (amended on February 8, 2017 and referred to as “the
@@ -10913,6 +10953,8 @@ ADDENDA
 
 These Enforcement Rules shall become effective on July 29, 2019.
 
+§2. Effective Date of the Derivatives Market Business Regulation
+
 Market Business Regulation, Regulation No. 1701 (amended on July 10, 2019), in the case of
 the  amended  provisions  of  [§89]  of  the  Regulation  concerning  the  restriction  on  deposit  of
 member margins in the securities issued by members or related companies of members, shall
@@ -10947,6 +10989,8 @@ ADDENDA
 
 These Enforcement Rules shall become effective on December 2, 2019.
 
+§2. Effective Date of the Derivatives Market Business Regulation
+
 Market  Business  Regulation,  Regulation  No.  1701  (amended  on  July  10,  2019),  for  the
 amended  provisions  of  [§127]  of  the  Regulation  concerning  improvement  of  basic  deposit
 system, refers to December 2, 2019.
@@ -10978,6 +11022,8 @@ ADDENDA
 §1. Effective Date
 
 These Enforcement Rules shall become effective on December 2, 2019.
+
+§2. Effective Date of the Derivatives Market Business Regulation
 
 Market  Business  Regulation,  Regulation  No.  1701  (amended  on  July  10,  2019),  for  the
 amended provisions of subparagraphs 14 and 22 (limited to the amended provisions of “[§63]

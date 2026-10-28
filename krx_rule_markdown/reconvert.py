@@ -3,6 +3,7 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from pathlib import Path
 import sys
+from urllib.parse import urlsplit
 
 from .contracts import (
     CONVERTER_VERSION,
@@ -13,7 +14,7 @@ from .contracts import (
     converter_version_for_source,
     sha256_file,
 )
-from .assets import preserve_hwp_attachment_assets
+from .assets import preserve_hwp_attachment_assets, preserve_inline_document_assets
 from .converters.core import convert_attachment
 from .converters.cache import SourceInspectionCache
 from .converters.core import convert_bytes_outcome
@@ -184,7 +185,13 @@ def _reconvert_data(
                 result.converted += 1
             else:
                 try:
-                    outcome = convert_bytes_outcome(source_path, source_path.read_bytes())
+                    source_url = urlsplit(doc.source_url)
+                    source_origin = source_url._replace(path="", query="", fragment="").geturl()
+                    outcome = convert_bytes_outcome(
+                        source_path,
+                        source_path.read_bytes(),
+                        base_url=source_origin,
+                    )
                     body = normalize_converted_text(outcome.text)
                     if not body:
                         raise ValueError("source HTML conversion produced empty text")
@@ -192,15 +199,19 @@ def _reconvert_data(
                     record_failure(result, doc.id, "", "stale", str(exc), dry_run=False)
                 else:
                     result.converted += 1
-                    if body != doc.body or doc.converter_version != CONVERTER_VERSION:
-                        doc.body = body
-                        doc.content_hash = hash_text(doc.title + "\n" + doc.body)
-                        doc.body_hash = canonical_text_hash(doc.body)
-                        doc.converter_version = CONVERTER_VERSION
-                        doc.conversion_status = "converted"
-                        doc.searchable = outcome.searchable
-                        for diagnostic in outcome.diagnostics:
-                            doc.quality_codes = add_quality_code(doc.quality_codes, diagnostic.code)
+                    before = doc.to_mapping()
+                    doc.body = body
+                    doc.converter_version = CONVERTER_VERSION
+                    doc.conversion_status = "converted"
+                    doc.searchable = outcome.searchable
+                    for diagnostic in outcome.diagnostics:
+                        doc.quality_codes = add_quality_code(doc.quality_codes, diagnostic.code)
+                    # Resolve source-relative URLs as sync does, then bind the
+                    # rebuilt body to preserved assets without network access.
+                    preserve_inline_document_assets(data_dir, doc, downloader=None)
+                    doc.content_hash = hash_text(doc.title + "\n" + doc.body)
+                    doc.body_hash = canonical_text_hash(doc.body)
+                    if doc.to_mapping() != before:
                         changed = True
         if doc.raw_path:
             result.attachments += 1

@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generated_at": "2026-09-22T14:38:19.294460Z",
+  "generated_at": "2026-10-28T14:02:12.776478Z",
   "classification_set": [
     "210219622-210219624-pdf",
     "210219879-210219880-pdf",
@@ -8,14 +8,80 @@
     "210221769-210221771-pdf",
     "210222057-210222059-pdf",
     "210224393-210224395-pdf",
-    "210224396-210224398-pdf"
+    "210224396-210224398-pdf",
+    "330014459-330014461-pdf",
+    "330014462-330014464-pdf",
+    "330017198-330017200-pdf",
+    "330021118-330021120-pdf"
   ],
   "summary": {
-    "classified": 0,
-    "restored": 0,
+    "classified": 4,
+    "restored": 4,
     "degraded": 0,
-    "converted": 0,
+    "converted": 4,
     "failed": 0
   },
-  "documents": []
+  "documents": [
+    {
+      "attachment_id": "330017198-330017200-pdf",
+      "expected_template": "two_column",
+      "status": "restored",
+      "reason": "named coordinate grid matched",
+      "confidence": 1.0,
+      "page_count": 6,
+      "table_pages": [
+        4,
+        5,
+        6
+      ],
+      "row_count": 54
+    },
+    {
+      "attachment_id": "330021118-330021120-pdf",
+      "expected_template": "three_column",
+      "status": "restored",
+      "reason": "named coordinate grid matched",
+      "confidence": 0.956,
+      "page_count": 4,
+      "table_pages": [
+        3,
+        4
+      ],
+      "row_count": 34
+    },
+    {
+      "attachment_id": "330014459-330014461-pdf",
+      "expected_template": "three_column",
+      "status": "restored",
+      "reason": "named coordinate grid matched",
+      "confidence": 1.0,
+      "page_count": 21,
+      "table_pages": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "row_count": 232
+    },
+    {
+      "attachment_id": "330014462-330014464-pdf",
+      "expected_template": "two_column",
+      "status": "restored",
+      "reason": "named coordinate grid matched",
+      "confidence": 1.0,
+      "page_count": 4,
+      "table_pages": [
+        3,
+        4
+      ],
+      "row_count": 31
+    }
+  ]
 }

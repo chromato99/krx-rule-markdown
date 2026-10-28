@@ -19,7 +19,7 @@ raw_path: "en/rules/dispute-mediation-regulation-20250205/raw/english-full-text.
 text_path: "en/rules/dispute-mediation-regulation-20250205/attachments/english-full-text.md"
 file_content_hash: "d11fc0993078f29aa87596d899abef65bd4fc14a1680a7f4c5af5f4bb59e09a5"
 raw_file_hash: "d11fc0993078f29aa87596d899abef65bd4fc14a1680a7f4c5af5f4bb59e09a5"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

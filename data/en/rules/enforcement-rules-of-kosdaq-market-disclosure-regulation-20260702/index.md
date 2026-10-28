@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-kosdaq-market-disclosure-regulation-202
 text_path: "en/rules/enforcement-rules-of-kosdaq-market-disclosure-regulation-20260702/attachments/english-full-text.md"
 file_content_hash: "f9d1728fb4d9c1feba6752ba3f7e1cbb135be703a6cf476bb2b167177fb67cf4"
 raw_file_hash: "f9d1728fb4d9c1feba6752ba3f7e1cbb135be703a6cf476bb2b167177fb67cf4"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

@@ -1,10 +1,11 @@
 from __future__ import annotations
 
 from pathlib import Path
+from io import StringIO
 import re
 
 from .base import ConversionError
-from .pdf_comparison import classify_comparison_pdf, restore_comparison_pages
+from .pdf_comparison import classify_comparison_pdf, restore_comparison_pages, walk_layout
 
 
 MAX_PDF_PAGES = 2000
@@ -17,14 +18,40 @@ def extract_pdf(path: Path) -> str:
 
 def extract_pdf_details(path: Path, *, comparison_id: str = "") -> tuple[str, int]:
     try:
-        from pdfminer.high_level import extract_text
-        from pdfminer.layout import LAParams
+        from pdfminer.converter import TextConverter
+        from pdfminer.high_level import extract_pages
+        from pdfminer.layout import LAParams, LTChar
+        from pdfminer.pdfinterp import PDFResourceManager
     except ImportError as exc:
         raise ConversionError("pdfminer.six is not installed") from exc
     # Hierarchical box grouping can move a centred chapter heading below its
     # left-aligned article title. Preserve the geometric reading order; known
     # amendment comparison tables are still restored from their coordinate grid.
-    raw_text = extract_text(str(path), maxpages=MAX_PDF_PAGES, laparams=LAParams(boxes_flow=None))
+    with StringIO() as output:
+        converter = TextConverter(PDFResourceManager(), output)
+        try:
+            layouts = extract_pages(str(path), maxpages=MAX_PDF_PAGES, laparams=LAParams(boxes_flow=None))
+            for page_index, layout in enumerate(layouts):
+                # Enabling vertical heuristics on ordinary pages can collect
+                # article symbols at the left margin into a false vertical line.
+                # Use them only where the PDF actually contains rotated glyphs.
+                rotated = any(
+                    isinstance(item, LTChar)
+                    and abs(item.matrix[1]) > abs(item.matrix[0])
+                    and abs(item.matrix[2]) > abs(item.matrix[3])
+                    and item.get_text().strip()
+                    for item in walk_layout(layout)
+                )
+                if rotated:
+                    layout = next(extract_pages(
+                        str(path),
+                        page_numbers=[page_index],
+                        laparams=LAParams(boxes_flow=None, detect_vertical=True),
+                    ))
+                converter.receive_layout(layout)
+            raw_text = output.getvalue()
+        finally:
+            converter.close()
     page_count = max(1, raw_text.count("\x0c"))
     if comparison_id:
         classification = classify_comparison_pdf(path, comparison_id)
@@ -76,4 +103,6 @@ def repeated_pdf_lines(lines: list[str]) -> set[str]:
 def looks_like_pdf_header_or_footer(line: str) -> bool:
     if re.fullmatch(r"-?\s*\d+\s*-?", line):
         return True
+    if re.match(r"(?:§\s*\d|Article\s+\d|CHAPTER\s+(?:\d|[IVXLCDM]+\b))", line, re.I):
+        return False
     return bool(re.search(r"(Korea Exchange|KRX|Regulation|Rules|Enforcement)", line, re.I))

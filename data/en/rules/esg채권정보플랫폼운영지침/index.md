@@ -19,7 +19,7 @@ raw_path: "en/rules/esg채권정보플랫폼운영지침/raw/english-full-text.p
 text_path: "en/rules/esg채권정보플랫폼운영지침/attachments/english-full-text.md"
 file_content_hash: "1142b51b615713de1862ab3577b250d7ea7f0a2e9c42b31e3ac119940db24c0b"
 raw_file_hash: "1142b51b615713de1862ab3577b250d7ea7f0a2e9c42b31e3ac119940db24c0b"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

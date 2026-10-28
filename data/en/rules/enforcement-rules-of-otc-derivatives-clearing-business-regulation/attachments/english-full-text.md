@@ -3397,6 +3397,8 @@ ADDENDA
 
 These Enforcement Rules shall become effective from November 23, 2015.
 
+§2. Effective Date of the OTC Derivatives Clearing and Settlement Business Regulation
+
 The  revised  provisions  shall  be  effective  from  November  23,  2015  by  Addenda  of  the  OTC
 Derivatives Clearing and Settlement Business Regulation (Regulation No. 1194, amended on May
 27, 2015).
@@ -3427,6 +3429,8 @@ ADDENDA
 §1. Effective Date
 
 These Enforcement Rules shall become effective from December 26, 2016.
+
+§2. Effective Date of the OTC Derivatives Clearing and Settlement Business Regulation
 
 The “date stipulated in the Enforcement Rules” in the Addendum of the OTC Derivatives Clearing
 and Settlement Business Regulation (Regulation No. 1381, amended on November 30, 2016) shall
@@ -3469,6 +3473,8 @@ ADDENDA
 
 These Enforcement Rules shall become effective from December 5, 2018.
 
+§2. Effective Date of the OTC Derivatives Clearing and Settlement Business Regulation
+
 The “date set  by the Enforcement Rules” in  the Addendum  of the OTC Derivatives  Clearing and
 Settlement Business Regulation (Regulation No. 1603, amended on December 5, 2018) shall refer
 to the date separately set by the Exchange in consideration of the time required for the development
@@ -3508,6 +3514,8 @@ ADDENDA
 
 These  Enforcement  Rules  shall  become  effective  from  October  5,  2021.  However,  the  amended
 provision of [§58] shall become effective from October 1, 2021.
+
+§2. Effective Date of the OTC Derivatives Clearing and Settlement Business Regulation
 
 The “date set by the Enforcement Rules” in the Addendum of the OTC Derivatives Clearing and
 Settlement Business Regulation (Regulation No. 1978, amended on August 25, 2021) shall refer to

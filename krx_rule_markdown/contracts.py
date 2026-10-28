@@ -20,7 +20,7 @@ MAX_METADATA_FILE_BYTES = 64 * 1024 * 1024
 def converter_version_for_source(path: str | Path) -> str:
     """Invalidate only PDF conversion caches when the reading-order algorithm changes."""
     if Path(path).suffix.lower() == ".pdf":
-        return f"{CONVERTER_VERSION}+pdf-coordinate-order"
+        return f"{CONVERTER_VERSION}+pdf-coordinate-order-v2"
     return CONVERTER_VERSION
 
 CONVERSION_STATUSES = frozenset({"pending", "converted", "failed"})

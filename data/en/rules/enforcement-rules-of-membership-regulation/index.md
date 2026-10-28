@@ -19,7 +19,7 @@ raw_path: "en/rules/enforcement-rules-of-membership-regulation/raw/english-full-
 text_path: "en/rules/enforcement-rules-of-membership-regulation/attachments/english-full-text.md"
 file_content_hash: "2f26332161311ac4e1736be4bef577dce57b8895c44f83950c6e442873150518"
 raw_file_hash: "2f26332161311ac4e1736be4bef577dce57b8895c44f83950c6e442873150518"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

@@ -19,7 +19,7 @@ raw_path: "en/rules/분쟁조정규정시행세칙/raw/english-full-text.pdf"
 text_path: "en/rules/분쟁조정규정시행세칙/attachments/english-full-text.md"
 file_content_hash: "06a4767777b5927f73adebdaf90e114160c7968f4f9998a3ce8002ccbd75137f"
 raw_file_hash: "06a4767777b5927f73adebdaf90e114160c7968f4f9998a3ce8002ccbd75137f"
-converter_version: "2+pdf-coordinate-order"
+converter_version: "2+pdf-coordinate-order-v2"
 preservation_status: "preserved"
 quality_status: "ok"
 ---

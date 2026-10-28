@@ -3493,6 +3493,8 @@ ADDENDA
 
 This Regulation shall become effective on October 22, 2007.
 
+§2. Amendment of Other Regulation
+
 The KOSDAQ Market Disclosure Regulation shall be amended by adding subparagraph 12 to
 [§17] as follows:
 
@@ -3562,6 +3564,8 @@ This  Regulation  shall  become  effective  on  the  date  when  the  proposed  
 Enforcement Decree of the Financial Investment Service and Capital Market Act (legislative
 notice no. 2009-151) is made public.
 
+§2. Amendment of Other Regulation
+
 The  KOSDAQ  Market  Disclosure  Regulation  shall  be  amended  by  adding  following  new
 provisions of [§37(4)]:
 
@@ -3576,6 +3580,8 @@ ADDENDA
 §1. Effective Date
 
 This Regulation shall become effective on December 7, 2009.
+
+§2. Amendment of Other Regulation
 
 The KOSDAQ Market Disclosure Regulation shall be amended by formulating the following
 new provisions of [§38/13]:

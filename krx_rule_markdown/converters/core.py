@@ -99,6 +99,7 @@ def convert_bytes_outcome(
     *,
     inspection_cache: SourceInspectionCache | None = None,
     source_id: str = "",
+    base_url: str = "",
 ) -> ConversionOutcome:
     if len(data) > MAX_RAW_FILE_BYTES:
         raise ConversionError(f"raw file exceeds {MAX_RAW_FILE_BYTES} bytes")
@@ -108,7 +109,7 @@ def convert_bytes_outcome(
     if ext in {".md", ".txt"}:
         return ConversionOutcome(data.decode("utf-8", errors="replace"), raw_file_hash=raw_file_hash)
     if ext in {".html", ".htm"}:
-        text = html_to_markdown(data.decode("utf-8", errors="replace"))
+        text = html_to_markdown(data.decode("utf-8", errors="replace"), base_url=base_url)
         diagnostics = []
         if "[이미지:" in text:
             diagnostics.extend(
