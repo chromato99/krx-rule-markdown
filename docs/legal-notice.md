@@ -1,15 +1,7 @@
-# Legal Notice
+# Legal notice
 
-This project is software for collecting public documents from the Korea Exchange legal portal and converting them into Markdown corpus files.
+The [MIT license](../LICENSE) covers the project code. KRX rule text, attachments, inline images and HWP-embedded images retain their applicable copyright and terms of use. Check the source terms before redistributing them. A `krx-asset:` identifier records a reference within the corpus. [KRX Legal Portal](https://rule.krx.co.kr/out/index.do)
 
-Source:
+The corpus is a collected and converted snapshot for research and search. For a legal interpretation, verify the effective Korean text and original attachments on the official portal. This project does not provide legal advice.
 
-- https://rule.krx.co.kr/out/index.do
-
-The MIT license in this repository applies to the software code. The collected rule text and attachments originate from the Korea Exchange legal portal and may be subject to separate copyright, redistribution, and official-use restrictions. Review the source site's terms and applicable law before redistributing collected data.
-
-This also applies to inline images and HWP-embedded image assets preserved under document bundles. Their presence in the corpus and their `krx-asset:` identifiers do not grant redistribution rights and do not make them part of the software's MIT license. The companion MCP server exposes a verified official-source descriptor rather than serving these binary assets by default.
-
-The generated corpus is not legal advice and must not be treated as an official legal opinion. Always verify important interpretations against the official Korea Exchange source.
-
-The Python tool can optionally install third-party converters such as `pyhwp` and `pdfminer.six`. Review their licenses and deployment implications before distributing images or environments that include those optional dependencies.
+Distributions that bundle the optional converters must also account for the licenses of `pyhwp`, `pdfminer.six` and their dependencies. [Package configuration](../pyproject.toml)

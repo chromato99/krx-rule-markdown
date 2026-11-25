@@ -1,4 +1,4 @@
-"""Python data tooling for krx-rule-mcp."""
+"""Collect Korea Exchange rules and convert them to Markdown."""
 
 __all__ = ["__version__"]
 __version__ = "0.1.0"
