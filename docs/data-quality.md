@@ -1,70 +1,31 @@
-# Data Quality
+# Data quality
 
-`krx-rule-markdown quality` audits the current Markdown corpus and converted attachments.
+Use `quality` to find conversion issues by document and attachment ID. Before distributing a corpus, run `validate --release --quality` to check its files, manifest, hashes and release-quality errors together.
 
-```bash
-krx-rule-markdown quality --data-dir data --update-metadata --fail-on error
-```
+## Audit or update
 
-The default report path is `data/reports/data-quality.json`.
+| Command | Effect |
+| --- | --- |
+| `krx-rule-markdown quality --data-dir data` | Writes `data/reports/data-quality.json`. The default `--fail-on none` reports issues without failing on their severity. Use `--output` for another destination. |
+| `krx-rule-markdown quality --data-dir data --fail-on error` | Writes the audit report and exits nonzero for an error. Use `--fail-on warn` to fail on warnings as well. |
+| `krx-rule-markdown quality --data-dir data --update-metadata` | Updates frontmatter and the manifest in staging. The default is `--fail-on error`. A rejected update leaves the active release intact. Explicit `--fail-on none` skips the quality threshold and emits a warning. |
+| `krx-rule-markdown validate --data-dir data --release --quality` | Checks schema-v2 frontmatter parity, paths, hashes, image metadata and the strict release profile, then runs the quality audit. |
 
-## What It Checks
+Pending conversions block the release quality gate. A failed conversion also blocks it unless its ID was passed to `sync --allow-failure-id`, its original file is preserved (`preservation_status: preserved`), and `searchable` is `false`. An allowed failure still produces a warning, so `--fail-on warn` rejects it. Subsequent audits read `release_profile.allowed_failure_ids` from the manifest. Any IDs supplied explicitly to `quality` or `validate --quality` must match that set exactly.
 
-- Attachment conversion status: `converted`, `failed`, or `pending`
-- Converted text length and non-space character count
-- Unicode replacement characters, which usually indicate broken decoding
-- Very long lines, which can mean table or paragraph boundaries were lost
-- Table-like rows in converted Markdown text
-- Formula-like expressions in converted Markdown text
-- HWPX raw XML table/formula hints that did not appear in converted text
-- HWP EqEdit formula blocks preserved as `hwp-equation` plus generated `math` blocks
-- Sparse/image-only PDF, comparison-table structure loss, and unresolved HTML/HWP images
-- Document bodies and document-level source files in addition to attachments
-- Raw, converted-text, manifest, and release hash consistency during release validation
-- Preserved asset ID/path/hash/MIME/dimensions and explicit non-searchability
+## Read the report
 
-The audit is intentionally conservative. It does not prove legal or semantic correctness. It highlights places where a human or a stronger converter should inspect the source.
+Start with `summary`. Each issue has a `document_id`, `severity` and `code`. Attachment and image issues also identify their source with `attachment_id` or `asset_id`. An attachment's `quality_status` can be `ok`, `warn` or `fail`. Short converted text can trigger a warning. Empty converted text or a mismatch in the HWP equation count fails the check.
 
-## Formula Quality
+| Finding | What to inspect |
+| --- | --- |
+| Missing or sparse text | Check the original for a failed conversion, an image-only PDF or an empty body. A searchable converted attachment can provide the text for an empty document body. |
+| Lost table structure | Compare row and cell counts with the HWP/HWPX source. Long lines or `raw_table_hints_without_table_text` can indicate flattened rows. For PDF comparison tables, check the `restored` or `degraded` classification and its reason. |
+| Formula warnings | `formula_hint_count` counts formula-like text. Compare the preserved `hwp-equation` count with the raw EqEdit count and inspect the generated `math` for lost operators, grouping or alignment. |
+| Missing image or decoding damage | Check unresolved image references, HWP picture assets and Unicode replacement characters against the original. |
 
-HWP EqEdit formulas are treated as high-value RAG content. The converter preserves the original EqEdit script and emits a neighboring LaTeX `math` block. The quality pass records `formula_hint_count` so formula-heavy attachments can be reviewed more easily.
+## When an update fails
 
-When validating formula conversion, check for structural LaTeX risks such as:
+Each change to corpus documents or their manifest is staged beside the active directory. A writer lock admits one writer at a time. Once validation passes, Linux `renameat2(RENAME_EXCHANGE)` swaps an existing release with the staged directory. A staging or validation failure leaves the last published release active. [Collection sequence](../README.md#corpus-생성)
 
-- raw HWP commands left in output, for example `over`, `GEQ`, `LEFT`, or `RIGHT`
-- empty or repeated scripts such as `x_{}` or `x_{i}_{j}`
-- spaces before scripts such as `x _{i}`
-- unwrapped alignment markers such as `&` outside `aligned`, `cases`, or `matrix`
-- suspicious command escaping such as `\\left`
-- unbalanced LaTeX grouping braces
-
-Passing these checks means the generated LaTeX is structurally suitable for RAG and Markdown math rendering. It still does not replace the preserved `hwp-equation` source. For legal, trading, or model-validation use cases, inspect the original HWP formula and official KRX document when the exact formula matters.
-
-## Status
-
-- `ok`: no obvious conversion-quality issue was detected
-- `warn`: usable text exists, but the attachment may be incomplete, too short, structurally weak, or converted with a known failure elsewhere
-- `fail`: converted text is missing or empty
-
-Read-only quality audits exit successfully after writing the report by default. Use stricter modes in CI:
-
-```bash
-krx-rule-markdown quality --data-dir data --fail-on error
-krx-rule-markdown quality --data-dir data --fail-on warn
-krx-rule-markdown validate --data-dir data --release --quality
-```
-
-`--update-metadata` runs against a staging generation and defaults to
-`--fail-on error`. The gate is evaluated before publication, so a rejected
-quality update leaves the active corpus unchanged. Passing
-`--update-metadata --fail-on none` is an explicit opt-out and emits a warning.
-Read-only audits keep the report-oriented `--fail-on none` default. A failed or
-pending required conversion is an error in release mode. The narrow exception
-is an explicitly reviewed `--allow-failure-id` whose original is preserved and
-whose `searchable` value is false.
-
-`pdf-comparisons --apply` also writes `data/reports/pdf-comparison-classification.json`. It is a named, corpus-specific classification set rather than a generic PDF promise: each entry is `restored` only when its expected two/three-column coordinate grid and 현행·개정안 headers are both found; otherwise it remains `degraded` with a reason.
-
-## RAG Use
-
-For production RAG, review the report after each full sync. High `conversion_failed` counts reduce attachment coverage. `very_short_text` can appear for empty or boilerplate future-notice attachments, but it should still be reviewed. `raw_table_hints_without_table_text` and `raw_formula_hints_without_formula_text` are stronger signs that structural content may have been lost.
+During `sync`, a failed refresh can retain the last usable content with `stale_due_to_refresh_failure`. During `reconvert`, a new blocking failure discards that operation's staged changes. Its `blocking_failed` count covers required, stale, inspection and quality failures. For either command, look in `.krx-rule-runs/latest.json` next to the data directory for the outcome and error details. Dry runs of `reconvert` leave that record untouched.
